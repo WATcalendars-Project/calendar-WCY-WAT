@@ -1,11 +1,14 @@
+import os
+import re
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
-import re
-import os
 
-GROUP_ID = "WCY22KC2S0"
-URL = f"https://planzajec.wcy.wat.edu.pl/pl/rozklad?grupa_id={GROUP_ID}"
+# Definicje katalogów i plików
+DATA_DIR = "data"
+GROUPS_FILE = os.path.join(DATA_DIR, "groups.txt")
+SCHEDULES_DIR = os.path.join(DATA_DIR, "schedules")
+EMPLOYEES_FILE = os.path.join(DATA_DIR, "employees.txt")
 
 BLOCK_TIMES = {
     "block1": ("08:00", "09:35"),
@@ -17,46 +20,46 @@ BLOCK_TIMES = {
     "block7": ("19:40", "21:15"),
 }
 
-def load_lecturer_titles():
-    lecturer_dict = {}
-    file_path = "data/employees.txt"  
+# Tworzenie katalogu jeśli nie istnieje
+os.makedirs(SCHEDULES_DIR, exist_ok=True)
 
-    if not os.path.exists(file_path):
-        print(f"Plik {file_path} nie istnieje! Stopnie naukowe nie zostaną dodane.")
+def load_groups():
+    """Wczytuje listę grup z pliku `groups.txt`."""
+    with open(GROUPS_FILE, "r", encoding="utf-8") as f:
+        return [line.strip() for line in f.readlines()]
+
+def load_lecturer_titles():
+    """Wczytuje stopnie naukowe wykładowców z pliku `employees.txt`."""
+    lecturer_dict = {}
+    if not os.path.exists(EMPLOYEES_FILE):
+        print(f"⚠️ Plik {EMPLOYEES_FILE} nie istnieje! Stopnie naukowe nie zostaną dodane.")
         return lecturer_dict
 
-    with open(file_path, "r", encoding="utf-8") as file:
+    with open(EMPLOYEES_FILE, "r", encoding="utf-8") as file:
         for line in file:
-            line = line.strip()
-            match = re.match(r"(.+?)\s+([A-ZĄĆĘŁŃÓŚŹŻ][a-ząćęłńóśźż]+)\s+([A-ZĄĆĘŁŃÓŚŹŻ][a-ząćęłńóśźż]+)", line)
+            match = re.match(r"(.+?)\s+([A-ZĄĆĘŁŃÓŚŹŻ][a-ząćęłńóśźż]+)\s+([A-ZĄĆĘŁŃÓŚŹŻ][a-ząćęłńóśźż]+)", line.strip())
             if match:
-                title = match.group(1).strip()  
-                name = match.group(2).strip()   
-                surname = match.group(3).strip()  
-                lecturer_dict[f"{name} {surname}"] = title  
-
+                title, name, surname = match.groups()
+                lecturer_dict[f"{name} {surname}"] = title.strip()
     return lecturer_dict
 
-
-def fetch_schedule():
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
-    response = requests.get(URL, headers=headers)
+def fetch_schedule(group_id):
+    """Pobiera plan zajęć dla danej grupy."""
+    url = f"https://planzajec.wcy.wat.edu.pl/pl/rozklad?grupa_id={group_id}"
+    headers = {"User-Agent": "Mozilla/5.0"}
+    response = requests.get(url, headers=headers)
+    
     if response.status_code != 200:
-        raise Exception(f"Błąd pobierania strony! Kod: {response.status_code}")
+        print(f"❌ Błąd pobierania planu dla {group_id}! Kod: {response.status_code}")
+        return None
+    
     return response.text
 
-def count_total_lessons(lessons):
-    """Zlicza łączną liczbę zajęć dla każdego przedmiotu i typu zajęć"""
-    total_lessons = {}
-    for lesson in lessons:
-        key = (lesson["full_subject"], lesson["type_full"])
-        if key in total_lessons:
-            total_lessons[key] += 1
-        else:
-            total_lessons[key] = 1
-    return total_lessons
-
 def parse_schedule(html, academic_titles):
+    """Parsuje HTML z planem zajęć."""
+    if not html:
+        return []
+    
     soup = BeautifulSoup(html, "html.parser")
     lessons = []
 
@@ -75,18 +78,17 @@ def parse_schedule(html, academic_titles):
             room = subject_lines[2].replace(",", "").strip()
             lesson_number_match = re.search(r"\[(\d+)\]", subject_lines[3])
             lesson_number = lesson_number_match.group(1) if lesson_number_match else "Brak"
-            
+
             info_element = lesson.find("span", class_="info")
             full_subject_info = info_element.text.strip() if info_element else "Nieznana nazwa"
             full_subject_cleaned = re.sub(r" - \(.+\) - .*", "", full_subject_info).strip()
-            
+
             lecturer_match = re.search(r"- \(.+\) - ((?:dr |prof\. |inż\. )?[A-ZĄĆĘŁŃÓŚŹŻ][a-ząćęłńóśźż]+) ([A-ZĄĆĘŁŃÓŚŹŻ][a-ząćęłńóśźż]+)", full_subject_info)
+            lecturer_with_title = "-"
             if lecturer_match:
                 lecturer_name = f"{lecturer_match.group(2)} {lecturer_match.group(1)}"
                 lecturer_with_title = academic_titles.get(lecturer_name, "") + " " + lecturer_name
-            else:
-                lecturer_with_title = "-"
-            
+
             lesson_type_full = {
                 "(w)": "Wykład",
                 "(L)": "Laboratorium",
@@ -94,12 +96,12 @@ def parse_schedule(html, academic_titles):
                 "(P)": "Projekt",
                 "(inne)": "inne",
             }.get(lesson_type, "Nieznany")
-            
+
             date_obj = datetime.strptime(date_str, "%Y_%m_%d")
             start_time, end_time = BLOCK_TIMES.get(block_id, ("00:00", "00:00"))
             start_datetime = datetime.strptime(start_time, "%H:%M").replace(year=date_obj.year, month=date_obj.month, day=date_obj.day)
             end_datetime = datetime.strptime(end_time, "%H:%M").replace(year=date_obj.year, month=date_obj.month, day=date_obj.day)
-            
+
             lessons.append({
                 "date": date_str,
                 "start": start_datetime,
@@ -113,17 +115,20 @@ def parse_schedule(html, academic_titles):
                 "lecturer": lecturer_with_title,
             })
         except Exception as e:
-            print(f"Błąd parsowania zajęć: {e}")
+            print(f"⚠️ Błąd parsowania zajęć: {e}")
     
-    total_lessons_dict = count_total_lessons(lessons)
-
-    for lesson in lessons:
-        key = (lesson["full_subject"], lesson["type_full"])
-        lesson["lesson_number"] = f"{lesson['lesson_number']}/{total_lessons_dict.get(key, '?')}" 
-
     return lessons
 
-def generate_ics(lessons, filename="schedule.ics", group_id = GROUP_ID):
+def sanitize_filename(filename):
+    """Usuwa niedozwolone znaki w NAZWIE PLIKU, ale nie w ścieżce."""
+    return re.sub(r'[<>:"\\|?*]', "_", filename)  # Usuwa TYLKO niedozwolone znaki w nazwie pliku
+
+def generate_ics(lessons, filename, group_id):
+    """Tworzy plik ICS z planem zajęć."""
+    if not lessons:
+        print(f"⚠️ Brak danych do zapisania dla {group_id}")
+        return
+
     ics_content = f"BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//scheduleWCY//EN\nCALSCALE:GREGORIAN\nX-WR-CALNAME:{group_id}\n"
     
     for lesson in lessons:
@@ -137,12 +142,27 @@ def generate_ics(lessons, filename="schedule.ics", group_id = GROUP_ID):
         ics_content += f"""BEGIN:VEVENT\nDTSTART:{start}\nDTEND:{end}\nSUMMARY:{summary}\nLOCATION:{location}\nDESCRIPTION:{description}\nEND:VEVENT\n"""
     
     ics_content += "END:VCALENDAR\n"
-    
-    with open(filename, "w", encoding="utf-8") as f:
-        f.write(ics_content)
-    print(f"Plik kalendarza '{group_id}' zapisany jako {filename}")
 
-academic_titles = load_lecturer_titles()
-html = fetch_schedule()
-lessons = parse_schedule(html, academic_titles)
-generate_ics(lessons)
+    # **Poprawka**: TYLKO nazwa pliku jest sanitizowana, nie cała ścieżka!
+    sanitized_filename = sanitize_filename(f"{group_id}.ics")
+    full_path = os.path.join(SCHEDULES_DIR, sanitized_filename)
+
+    with open(full_path, "w", encoding="utf-8") as f:
+        f.write(ics_content)
+    
+    print(f"✅ Plik kalendarza zapisany: {full_path}")
+
+def generate_all_schedules():
+    """Generuje pliki ICS dla wszystkich grup."""
+    groups = load_groups()
+    academic_titles = load_lecturer_titles()
+
+    for group in groups:
+        print(f"📥 Pobieranie planu dla {group}...")
+        html = fetch_schedule(group)
+        lessons = parse_schedule(html, academic_titles)
+
+        generate_ics(lessons, filename=f"{group}.ics", group_id=group)
+
+if __name__ == "__main__":
+    generate_all_schedules()

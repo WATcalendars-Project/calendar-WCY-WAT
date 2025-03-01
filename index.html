@@ -3,25 +3,82 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Plan Zajęć - WCY WAT</title>
-    <link rel="stylesheet" href="web/static/style.css">
+    <title>Pobierz Kalendarz ICS</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+        }
+        select, button {
+            font-size: 16px;
+            padding: 10px;
+            margin: 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+        button {
+            background-color: #28a745;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+    </style>
 </head>
 <body>
+
     <div class="container">
-        <h1>Wybierz grupę i rok</h1>
-        <form id="schedule-form">
-            <label for="group">Grupa:</label>
-            <select id="group" name="group"></select>
-
-            <label for="year">Rok:</label>
-            <select id="year" name="year"></select>
-
-            <button type="button" onclick="generateLink()">Generuj link</button>
-        </form>
-
-        <p id="generated-link"></p>
+        <h1>Pobierz swój kalendarz ICS</h1>
+        <label for="group-select">Wybierz grupę:</label>
+        <select id="group-select">
+            <!-- Grupy zostaną tutaj dynamicznie wczytane -->
+        </select>
+        <br>
+        <button onclick="downloadICS()">Pobierz Kalendarz</button>
     </div>
 
-    <script src="web/static/script.js"></script>
+    <script>
+        async function loadGroups() {
+            try {
+                const response = await fetch("data/groups.txt");
+                const text = await response.text();
+                const groups = text.split("\n").map(g => g.trim()).filter(g => g !== "");
+
+                let select = document.getElementById("group-select");
+                groups.forEach(group => {
+                    let option = document.createElement("option");
+                    option.value = group;
+                    option.textContent = group;
+                    select.appendChild(option);
+                });
+            } catch (error) {
+                console.error("Błąd ładowania grup:", error);
+            }
+        }
+
+        function downloadICS() {
+            let selectedGroup = document.getElementById("group-select").value;
+            if (!selectedGroup) {
+                alert("Wybierz grupę!");
+                return;
+            }
+            let icsFileUrl = `data/schedules/schedule_${selectedGroup}.ics`;
+            window.location.href = icsFileUrl;
+        }
+
+        window.onload = loadGroups;
+    </script>
+
 </body>
 </html>
