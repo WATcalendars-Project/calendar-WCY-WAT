@@ -32,7 +32,7 @@ jobs:
         run: python scripts/employees_scraper.py
 
       - name: Uruchom skrypt do tworzenia kalendarzy
-        run: pyton scripts/schedule_scraper.py
+        run: python scripts/schedule_scraper.py
 
       - name: 🔄 Commit zmian
         run: |
