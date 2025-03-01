@@ -1,7 +1,7 @@
 # WCY Schedule Calendar
 A simple tool to fetch and generate ICS calendar files for students at the Faculty of Cybernetics, Military University of Technology (WCY WAT). This project scrapes the official schedule, processes the data, and provides downloadable calendar files for different student groups.
 
-##Website:
+## Website:
 https://dominikx2002.github.io/calendar-WCY-WAT/
 
 ### How it works:
