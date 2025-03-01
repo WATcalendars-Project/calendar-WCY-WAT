@@ -1,0 +1,440 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//scheduleWCY//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:WCY25IB1aS6
+BEGIN:VEVENT
+DTSTART:20250310T080000
+DTEND:20250310T093500
+SUMMARY:Sws (Inne)
+LOCATION:-
+DESCRIPTION:Spotkanie organizacyjne\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250310T095000
+DTEND:20250310T112500
+SUMMARY:Zbi (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250310T114000
+DTEND:20250310T131500
+SUMMARY:Zbi (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250311T114000
+DTEND:20250311T131500
+SUMMARY:Psk (w)
+LOCATION:203 65
+DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250312T080000
+DTEND:20250312T093500
+SUMMARY:Psk (w)
+LOCATION:308 S
+DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250312T095000
+DTEND:20250312T112500
+SUMMARY:BsW (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250312T114000
+DTEND:20250312T131500
+SUMMARY:bis (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250313T080000
+DTEND:20250313T093500
+SUMMARY:bis (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250313T095000
+DTEND:20250313T112500
+SUMMARY:BsW (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250314T095000
+DTEND:20250314T112500
+SUMMARY:BsW (L)
+LOCATION:011 65
+DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250314T114000
+DTEND:20250314T131500
+SUMMARY:BsW (L)
+LOCATION:011 65
+DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250317T114000
+DTEND:20250317T131500
+SUMMARY:Zbi (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250317T133000
+DTEND:20250317T150500
+SUMMARY:Zbi (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250318T080000
+DTEND:20250318T093500
+SUMMARY:bis (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250318T095000
+DTEND:20250318T112500
+SUMMARY:bis (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250318T114000
+DTEND:20250318T131500
+SUMMARY:Psk (w)
+LOCATION:203 65
+DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250319T114000
+DTEND:20250319T131500
+SUMMARY:BsW (L)
+LOCATION:011 65
+DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250319T133000
+DTEND:20250319T150500
+SUMMARY:BsW (L)
+LOCATION:011 65
+DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250320T080000
+DTEND:20250320T093500
+SUMMARY:Psk (L)
+LOCATION:121 65
+DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250320T095000
+DTEND:20250320T112500
+SUMMARY:Psk (L)
+LOCATION:121 65
+DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250320T114000
+DTEND:20250320T131500
+SUMMARY:Psk (w)
+LOCATION:203 65
+DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250320T133000
+DTEND:20250320T150500
+SUMMARY:bis (w)
+LOCATION:314 S
+DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250321T095000
+DTEND:20250321T112500
+SUMMARY:bis (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250321T114000
+DTEND:20250321T131500
+SUMMARY:bis (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250324T080000
+DTEND:20250324T093500
+SUMMARY:Zbi (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250324T095000
+DTEND:20250324T112500
+SUMMARY:Zbi (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250324T114000
+DTEND:20250324T131500
+SUMMARY:bis (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250325T080000
+DTEND:20250325T093500
+SUMMARY:bis (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250325T095000
+DTEND:20250325T112500
+SUMMARY:bis (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250325T114000
+DTEND:20250325T131500
+SUMMARY:Psk (w)
+LOCATION:203 65
+DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250325T133000
+DTEND:20250325T150500
+SUMMARY:BsW (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250326T080000
+DTEND:20250326T093500
+SUMMARY:Psk (L)
+LOCATION:121 65
+DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250326T095000
+DTEND:20250326T112500
+SUMMARY:Psk (L)
+LOCATION:121 65
+DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250327T080000
+DTEND:20250327T093500
+SUMMARY:Zbi (L)
+LOCATION:106 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250327T095000
+DTEND:20250327T112500
+SUMMARY:Zbi (L)
+LOCATION:106 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250328T095000
+DTEND:20250328T112500
+SUMMARY:BsW (L)
+LOCATION:011 65
+DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250328T114000
+DTEND:20250328T131500
+SUMMARY:BsW (L)
+LOCATION:011 65
+DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250331T080000
+DTEND:20250331T093500
+SUMMARY:Zbi (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250331T095000
+DTEND:20250331T112500
+SUMMARY:Zbi (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250331T114000
+DTEND:20250331T131500
+SUMMARY:bis (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250401T114000
+DTEND:20250401T131500
+SUMMARY:Psk (w)
+LOCATION:203 65
+DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250401T133000
+DTEND:20250401T150500
+SUMMARY:BsW (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250402T080000
+DTEND:20250402T093500
+SUMMARY:Psk (L)
+LOCATION:121 65
+DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250402T095000
+DTEND:20250402T112500
+SUMMARY:Psk (L)
+LOCATION:121 65
+DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250402T114000
+DTEND:20250402T131500
+SUMMARY:BsW (L)
+LOCATION:011 65
+DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250402T133000
+DTEND:20250402T150500
+SUMMARY:BsW (L)
+LOCATION:011 65
+DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250403T080000
+DTEND:20250403T093500
+SUMMARY:Zbi (L)
+LOCATION:106 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250403T095000
+DTEND:20250403T112500
+SUMMARY:Zbi (L)
+LOCATION:106 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250404T095000
+DTEND:20250404T112500
+SUMMARY:bis (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250404T114000
+DTEND:20250404T131500
+SUMMARY:bis (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250407T080000
+DTEND:20250407T093500
+SUMMARY:Zbi (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 9\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250407T095000
+DTEND:20250407T112500
+SUMMARY:Zbi (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 10\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250408T080000
+DTEND:20250408T093500
+SUMMARY:bis (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250408T095000
+DTEND:20250408T112500
+SUMMARY:bis (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250408T114000
+DTEND:20250408T131500
+SUMMARY:Psk (w)
+LOCATION:203 65
+DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250408T133000
+DTEND:20250408T150500
+SUMMARY:BsW (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250409T080000
+DTEND:20250409T093500
+SUMMARY:Zbi (L)
+LOCATION:106 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250409T095000
+DTEND:20250409T112500
+SUMMARY:BsW (L)
+LOCATION:011 65
+DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250409T114000
+DTEND:20250409T131500
+SUMMARY:BsW (L)
+LOCATION:011 65
+DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250410T080000
+DTEND:20250410T093500
+SUMMARY:Psk (L)
+LOCATION:121 65
+DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250410T095000
+DTEND:20250410T112500
+SUMMARY:Psk (L)
+LOCATION:121 65
+DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250411T095000
+DTEND:20250411T112500
+SUMMARY:Espr (E)
+LOCATION:203 65
+DESCRIPTION:Egzamin sprawdzający\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+END:VCALENDAR

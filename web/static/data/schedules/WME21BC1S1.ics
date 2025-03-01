@@ -1,0 +1,2435 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//scheduleWCY//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:WME21BC1S1
+BEGIN:VEVENT
+DTSTART:20240227T095000
+DTEND:20240227T112500
+SUMMARY:SO (w)
+LOCATION:308 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240227T114000
+DTEND:20240227T131500
+SUMMARY:Gk (w)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240228T080000
+DTEND:20240228T093500
+SUMMARY:Bda (w)
+LOCATION:252 S
+DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240228T095000
+DTEND:20240228T112500
+SUMMARY:Bda (w)
+LOCATION:252 S
+DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240228T114000
+DTEND:20240228T131500
+SUMMARY:Med (w)
+LOCATION:224 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240305T095000
+DTEND:20240305T112500
+SUMMARY:SO (w)
+LOCATION:252 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240305T114000
+DTEND:20240305T131500
+SUMMARY:Gk (w)
+LOCATION:239 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240305T133000
+DTEND:20240305T150500
+SUMMARY:Gk (w)
+LOCATION:239 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240306T080000
+DTEND:20240306T093500
+SUMMARY:PuS (w)
+LOCATION:252 S
+DESCRIPTION:Programowanie układów sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240306T095000
+DTEND:20240306T112500
+SUMMARY:PuS (w)
+LOCATION:252 S
+DESCRIPTION:Programowanie układów sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240307T114000
+DTEND:20240307T131500
+SUMMARY:ADK (w)
+LOCATION:314 S
+DESCRIPTION:Analiza danych w kardiologii\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240307T133000
+DTEND:20240307T150500
+SUMMARY:SwSP (Inne)
+LOCATION:51/ 62
+DESCRIPTION:Obowiązkowe spotkanie w sprawie praktyk - (Inne) -\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240308T095000
+DTEND:20240308T112500
+SUMMARY:Syt (w)
+LOCATION:308 S
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240308T114000
+DTEND:20240308T131500
+SUMMARY:Syt (w)
+LOCATION:308 S
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240311T114000
+DTEND:20240311T131500
+SUMMARY:PuS (w)
+LOCATION:252 S
+DESCRIPTION:Programowanie układów sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240311T133000
+DTEND:20240311T150500
+SUMMARY:PuS (w)
+LOCATION:252 S
+DESCRIPTION:Programowanie układów sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240312T114000
+DTEND:20240312T131500
+SUMMARY:Gk (w)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240312T133000
+DTEND:20240312T150500
+SUMMARY:ADK (w)
+LOCATION:308 S
+DESCRIPTION:Analiza danych w kardiologii\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240313T080000
+DTEND:20240313T093500
+SUMMARY:Bda (w)
+LOCATION:252 S
+DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240313T095000
+DTEND:20240313T112500
+SUMMARY:Bda (w)
+LOCATION:252 S
+DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240313T114000
+DTEND:20240313T131500
+SUMMARY:Med (w)
+LOCATION:224 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240314T080000
+DTEND:20240314T093500
+SUMMARY:SO (L)
+LOCATION:125 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240314T095000
+DTEND:20240314T112500
+SUMMARY:SO (L)
+LOCATION:125 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240314T114000
+DTEND:20240314T131500
+SUMMARY:Gk (L)
+LOCATION:226 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240314T133000
+DTEND:20240314T150500
+SUMMARY:Gk (L)
+LOCATION:226 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240314T160000
+DTEND:20240314T173500
+SUMMARY:S.OP (Inne)
+LOCATION:51/ 62
+DESCRIPTION:Spotkanie z opiekunami praktyk - (Inne) -\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240318T080000
+DTEND:20240318T093500
+SUMMARY:Trr (w)
+LOCATION:95 S
+DESCRIPTION:Technologie i metody rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240318T095000
+DTEND:20240318T112500
+SUMMARY:Trr (w)
+LOCATION:95 S
+DESCRIPTION:Technologie i metody rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240318T114000
+DTEND:20240318T131500
+SUMMARY:Trr (w)
+LOCATION:95 S
+DESCRIPTION:Technologie i metody rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240319T080000
+DTEND:20240319T093500
+SUMMARY:PuS (w)
+LOCATION:252 S
+DESCRIPTION:Programowanie układów sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240319T095000
+DTEND:20240319T112500
+SUMMARY:SO (w)
+LOCATION:252 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240319T114000
+DTEND:20240319T131500
+SUMMARY:Gk (w)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240319T133000
+DTEND:20240319T150500
+SUMMARY:ADK (w)
+LOCATION:308 S
+DESCRIPTION:Analiza danych w kardiologii\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240320T095000
+DTEND:20240320T112500
+SUMMARY:PuS (w)
+LOCATION:252 S
+DESCRIPTION:Programowanie układów sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240321T175000
+DTEND:20240321T192500
+SUMMARY:ADK (L)
+LOCATION:223 S
+DESCRIPTION:Analiza danych w kardiologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240321T194000
+DTEND:20240321T211500
+SUMMARY:ADK (L)
+LOCATION:223 S
+DESCRIPTION:Analiza danych w kardiologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240322T095000
+DTEND:20240322T112500
+SUMMARY:Syt (w)
+LOCATION:308 S
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240322T114000
+DTEND:20240322T131500
+SUMMARY:Syt (w)
+LOCATION:308 S
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240325T080000
+DTEND:20240325T093500
+SUMMARY:Trr (w)
+LOCATION:95 S
+DESCRIPTION:Technologie i metody rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240325T095000
+DTEND:20240325T112500
+SUMMARY:Trr (w)
+LOCATION:95 S
+DESCRIPTION:Technologie i metody rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240325T114000
+DTEND:20240325T131500
+SUMMARY:Trr (w)
+LOCATION:95 S
+DESCRIPTION:Technologie i metody rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240325T133000
+DTEND:20240325T150500
+SUMMARY:PuS (L)
+LOCATION:09 65
+DESCRIPTION:Programowanie układów sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Krzysztof Szajewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240325T160000
+DTEND:20240325T173500
+SUMMARY:PuS (L)
+LOCATION:09 65
+DESCRIPTION:Programowanie układów sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Krzysztof Szajewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240326T080000
+DTEND:20240326T093500
+SUMMARY:PuS (w)
+LOCATION:252 S
+DESCRIPTION:Programowanie układów sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240326T095000
+DTEND:20240326T112500
+SUMMARY:SO (w)
+LOCATION:227 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240326T114000
+DTEND:20240326T131500
+SUMMARY:SO (w)
+LOCATION:227 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240326T133000
+DTEND:20240326T150500
+SUMMARY:ADK (w)
+LOCATION:252 S
+DESCRIPTION:Analiza danych w kardiologii\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240327T080000
+DTEND:20240327T093500
+SUMMARY:Bda (w)
+LOCATION:252 S
+DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240327T095000
+DTEND:20240327T112500
+SUMMARY:Bda (w)
+LOCATION:252 S
+DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240327T114000
+DTEND:20240327T131500
+SUMMARY:Med (w)
+LOCATION:224 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240327T133000
+DTEND:20240327T150500
+SUMMARY:Med (w)
+LOCATION:224 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240328T080000
+DTEND:20240328T093500
+SUMMARY:SO (L)
+LOCATION:125 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240328T095000
+DTEND:20240328T112500
+SUMMARY:SO (L)
+LOCATION:125 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240328T114000
+DTEND:20240328T131500
+SUMMARY:Gk (L)
+LOCATION:227 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240328T133000
+DTEND:20240328T150500
+SUMMARY:Gk (L)
+LOCATION:227 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240328T160000
+DTEND:20240328T173500
+SUMMARY:Med (L)
+LOCATION:226 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240403T194000
+DTEND:20240403T211500
+SUMMARY:Swb (Inne)
+LOCATION:on-lin
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący:  Karol Szczepanowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240404T160000
+DTEND:20240404T173500
+SUMMARY:Med (L)
+LOCATION:233 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240404T175000
+DTEND:20240404T192500
+SUMMARY:ADK (L)
+LOCATION:223 S
+DESCRIPTION:Analiza danych w kardiologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240404T194000
+DTEND:20240404T211500
+SUMMARY:ADK (L)
+LOCATION:223 S
+DESCRIPTION:Analiza danych w kardiologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240405T095000
+DTEND:20240405T112500
+SUMMARY:Syt (w)
+LOCATION:308 S
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240405T114000
+DTEND:20240405T131500
+SUMMARY:Gk (L)
+LOCATION:224 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240405T133000
+DTEND:20240405T150500
+SUMMARY:Gk (L)
+LOCATION:224 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240408T133000
+DTEND:20240408T150500
+SUMMARY:PuS (L)
+LOCATION:09 65
+DESCRIPTION:Programowanie układów sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Krzysztof Szajewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240408T160000
+DTEND:20240408T173500
+SUMMARY:PuS (L)
+LOCATION:09 65
+DESCRIPTION:Programowanie układów sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Krzysztof Szajewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240409T095000
+DTEND:20240409T112500
+SUMMARY:SO (w)
+LOCATION:252 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240409T114000
+DTEND:20240409T131500
+SUMMARY:Gk (w)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240409T133000
+DTEND:20240409T150500
+SUMMARY:Gk (w)
+LOCATION:252 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240410T080000
+DTEND:20240410T093500
+SUMMARY:MiTWDM (w)
+LOCATION:314 S
+DESCRIPTION:Metody i systemy wspomagania diagnostyki medycznej\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240410T095000
+DTEND:20240410T112500
+SUMMARY:Bda (w)
+LOCATION:252 S
+DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240410T114000
+DTEND:20240410T131500
+SUMMARY:Med (w)
+LOCATION:224 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240411T175000
+DTEND:20240411T192500
+SUMMARY:ADK (L)
+LOCATION:223 S
+DESCRIPTION:Analiza danych w kardiologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240411T194000
+DTEND:20240411T211500
+SUMMARY:ADK (L)
+LOCATION:223 S
+DESCRIPTION:Analiza danych w kardiologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240415T080000
+DTEND:20240415T093500
+SUMMARY:Trr (L)
+LOCATION:95 S
+DESCRIPTION:Technologie i metody rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240415T095000
+DTEND:20240415T112500
+SUMMARY:Trr (L)
+LOCATION:95 S
+DESCRIPTION:Technologie i metody rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240415T114000
+DTEND:20240415T131500
+SUMMARY:Trr (L)
+LOCATION:95 S
+DESCRIPTION:Technologie i metody rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240416T095000
+DTEND:20240416T112500
+SUMMARY:SO (w)
+LOCATION:252 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240416T114000
+DTEND:20240416T131500
+SUMMARY:ADK (w)
+LOCATION:252 S
+DESCRIPTION:Analiza danych w kardiologii\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240417T114000
+DTEND:20240417T131500
+SUMMARY:Med (w)
+LOCATION:224 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240417T133000
+DTEND:20240417T150500
+SUMMARY:MiTWDM (w)
+LOCATION:252 S
+DESCRIPTION:Metody i systemy wspomagania diagnostyki medycznej\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240418T080000
+DTEND:20240418T093500
+SUMMARY:MiTWDM (L)
+LOCATION:227 S
+DESCRIPTION:Metody i systemy wspomagania diagnostyki medycznej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240418T095000
+DTEND:20240418T112500
+SUMMARY:TP (Inne)
+LOCATION:-
+DESCRIPTION:Targi pracy WAT\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240418T114000
+DTEND:20240418T131500
+SUMMARY:TP (Inne)
+LOCATION:-
+DESCRIPTION:Targi pracy WAT\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240418T133000
+DTEND:20240418T150500
+SUMMARY:TP (Inne)
+LOCATION:-
+DESCRIPTION:Targi pracy WAT\nRodzaj zajęć: Nieznany\nNr zajęć: 3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240418T160000
+DTEND:20240418T173500
+SUMMARY:Med (L)
+LOCATION:223 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240419T095000
+DTEND:20240419T112500
+SUMMARY:Stmd (w)
+LOCATION:314 S
+DESCRIPTION:Systemy telemedyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240419T114000
+DTEND:20240419T131500
+SUMMARY:SO (L)
+LOCATION:125 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240419T133000
+DTEND:20240419T150500
+SUMMARY:SO (L)
+LOCATION:125 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240422T080000
+DTEND:20240422T093500
+SUMMARY:Trr (L)
+LOCATION:95 S
+DESCRIPTION:Technologie i metody rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240422T095000
+DTEND:20240422T112500
+SUMMARY:Trr (L)
+LOCATION:95 S
+DESCRIPTION:Technologie i metody rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240422T114000
+DTEND:20240422T131500
+SUMMARY:Trr (L)
+LOCATION:95 S
+DESCRIPTION:Technologie i metody rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240423T095000
+DTEND:20240423T112500
+SUMMARY:SO (w)
+LOCATION:252 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240423T114000
+DTEND:20240423T131500
+SUMMARY:ADK (w)
+LOCATION:252 S
+DESCRIPTION:Analiza danych w kardiologii\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240424T080000
+DTEND:20240424T093500
+SUMMARY:SO (L)
+LOCATION:120 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240424T095000
+DTEND:20240424T112500
+SUMMARY:SO (L)
+LOCATION:120 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240424T114000
+DTEND:20240424T131500
+SUMMARY:Gk (L)
+LOCATION:239 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240424T133000
+DTEND:20240424T150500
+SUMMARY:Gk (L)
+LOCATION:239 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240424T175000
+DTEND:20240424T192500
+SUMMARY:Stmd (w)
+LOCATION:308 S
+DESCRIPTION:Systemy telemedyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240424T194000
+DTEND:20240424T211500
+SUMMARY:Stmd (w)
+LOCATION:308 S
+DESCRIPTION:Systemy telemedyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240425T095000
+DTEND:20240425T112500
+SUMMARY:MiTWDM (w)
+LOCATION:309 S
+DESCRIPTION:Metody i systemy wspomagania diagnostyki medycznej\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240425T114000
+DTEND:20240425T131500
+SUMMARY:MiTWDM (L)
+LOCATION:224 S
+DESCRIPTION:Metody i systemy wspomagania diagnostyki medycznej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240425T160000
+DTEND:20240425T173500
+SUMMARY:Bda (L)
+LOCATION:237 S
+DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240425T175000
+DTEND:20240425T192500
+SUMMARY:ADK (L)
+LOCATION:223 S
+DESCRIPTION:Analiza danych w kardiologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240425T194000
+DTEND:20240425T211500
+SUMMARY:ADK (L)
+LOCATION:223 S
+DESCRIPTION:Analiza danych w kardiologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240429T080000
+DTEND:20240429T093500
+SUMMARY:Trr (L)
+LOCATION:95 S
+DESCRIPTION:Technologie i metody rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240429T095000
+DTEND:20240429T112500
+SUMMARY:Trr (L)
+LOCATION:95 S
+DESCRIPTION:Technologie i metody rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240429T114000
+DTEND:20240429T131500
+SUMMARY:Trr (L)
+LOCATION:95 S
+DESCRIPTION:Technologie i metody rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240430T095000
+DTEND:20240430T112500
+SUMMARY:SO (w)
+LOCATION:252 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 9\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240430T114000
+DTEND:20240430T131500
+SUMMARY:ADK (w)
+LOCATION:252 S
+DESCRIPTION:Analiza danych w kardiologii\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240506T080000
+DTEND:20240506T093500
+SUMMARY:Trr (L)
+LOCATION:95 S
+DESCRIPTION:Technologie i metody rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240506T095000
+DTEND:20240506T112500
+SUMMARY:Trr (L)
+LOCATION:95 S
+DESCRIPTION:Technologie i metody rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 11\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240506T114000
+DTEND:20240506T131500
+SUMMARY:Trr (L)
+LOCATION:95 S
+DESCRIPTION:Technologie i metody rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240506T175000
+DTEND:20240506T192500
+SUMMARY:Stmd (w)
+LOCATION:316 S
+DESCRIPTION:Systemy telemedyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240506T194000
+DTEND:20240506T211500
+SUMMARY:Stmd (w)
+LOCATION:316 S
+DESCRIPTION:Systemy telemedyczne\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240507T095000
+DTEND:20240507T112500
+SUMMARY:SO (w)
+LOCATION:252 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 10\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240509T080000
+DTEND:20240509T093500
+SUMMARY:SO (L)
+LOCATION:011 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240509T095000
+DTEND:20240509T112500
+SUMMARY:SO (L)
+LOCATION:011 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240509T114000
+DTEND:20240509T131500
+SUMMARY:MiTWDM (w)
+LOCATION:309 S
+DESCRIPTION:Metody i systemy wspomagania diagnostyki medycznej\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240513T080000
+DTEND:20240513T093500
+SUMMARY:SO (L)
+LOCATION:011 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 11\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240513T095000
+DTEND:20240513T112500
+SUMMARY:SO (L)
+LOCATION:011 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 12\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240513T175000
+DTEND:20240513T192500
+SUMMARY:Stmd (w)
+LOCATION:308 S
+DESCRIPTION:Systemy telemedyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240513T194000
+DTEND:20240513T211500
+SUMMARY:Stmd (w)
+LOCATION:308 S
+DESCRIPTION:Systemy telemedyczne\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240515T160000
+DTEND:20240515T173500
+SUMMARY:MiTWDM (L)
+LOCATION:224 S
+DESCRIPTION:Metody i systemy wspomagania diagnostyki medycznej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240515T175000
+DTEND:20240515T192500
+SUMMARY:ADK (L)
+LOCATION:224 S
+DESCRIPTION:Analiza danych w kardiologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240515T194000
+DTEND:20240515T211500
+SUMMARY:ADK (L)
+LOCATION:224 S
+DESCRIPTION:Analiza danych w kardiologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240516T095000
+DTEND:20240516T112500
+SUMMARY:Med (L)
+LOCATION:224 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240516T114000
+DTEND:20240516T131500
+SUMMARY:Bda (L)
+LOCATION:252 S
+DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240516T133000
+DTEND:20240516T150500
+SUMMARY:Bda (L)
+LOCATION:252 S
+DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240520T080000
+DTEND:20240520T093500
+SUMMARY:Trr (L)
+LOCATION:95 S
+DESCRIPTION:Technologie i metody rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240520T095000
+DTEND:20240520T112500
+SUMMARY:Trr (L)
+LOCATION:95 S
+DESCRIPTION:Technologie i metody rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 14\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240520T114000
+DTEND:20240520T131500
+SUMMARY:Trr (L)
+LOCATION:95 S
+DESCRIPTION:Technologie i metody rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240520T160000
+DTEND:20240520T173500
+SUMMARY:Syt (L)
+LOCATION:09 65
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240520T175000
+DTEND:20240520T192500
+SUMMARY:Syt (L)
+LOCATION:09 65
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240522T080000
+DTEND:20240522T093500
+SUMMARY:SO (L)
+LOCATION:011 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 13\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240522T095000
+DTEND:20240522T112500
+SUMMARY:SO (L)
+LOCATION:011 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 14\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240522T114000
+DTEND:20240522T131500
+SUMMARY:MiTWDM (w)
+LOCATION:314 S
+DESCRIPTION:Metody i systemy wspomagania diagnostyki medycznej\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240522T133000
+DTEND:20240522T150500
+SUMMARY:MiTWDM (L)
+LOCATION:224 S
+DESCRIPTION:Metody i systemy wspomagania diagnostyki medycznej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240522T175000
+DTEND:20240522T192500
+SUMMARY:Stmd (L)
+LOCATION:226 S
+DESCRIPTION:Systemy telemedyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240522T194000
+DTEND:20240522T211500
+SUMMARY:Stmd (L)
+LOCATION:226 S
+DESCRIPTION:Systemy telemedyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240523T095000
+DTEND:20240523T112500
+SUMMARY:Med (L)
+LOCATION:224 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240523T114000
+DTEND:20240523T131500
+SUMMARY:Bda (L)
+LOCATION:252 S
+DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240523T133000
+DTEND:20240523T150500
+SUMMARY:Bda (L)
+LOCATION:252 S
+DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240523T175000
+DTEND:20240523T192500
+SUMMARY:Stmd (L)
+LOCATION:226 S
+DESCRIPTION:Systemy telemedyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240523T194000
+DTEND:20240523T211500
+SUMMARY:Stmd (L)
+LOCATION:226 S
+DESCRIPTION:Systemy telemedyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240527T114000
+DTEND:20240527T131500
+SUMMARY:SO (L)
+LOCATION:125 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 15\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240527T133000
+DTEND:20240527T150500
+SUMMARY:SO (L)
+LOCATION:125 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 16\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240528T114000
+DTEND:20240528T131500
+SUMMARY:PuS (L)
+LOCATION:09 65
+DESCRIPTION:Programowanie układów sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Krzysztof Szajewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240528T133000
+DTEND:20240528T150500
+SUMMARY:PuS (L)
+LOCATION:09 65
+DESCRIPTION:Programowanie układów sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: mgr inż. Krzysztof Szajewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240528T160000
+DTEND:20240528T173500
+SUMMARY:Syt (L)
+LOCATION:120 65
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240528T175000
+DTEND:20240528T192500
+SUMMARY:Syt (L)
+LOCATION:120 65
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240529T095000
+DTEND:20240529T112500
+SUMMARY:MiTWDM (w)
+LOCATION:233 S
+DESCRIPTION:Metody i systemy wspomagania diagnostyki medycznej\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240529T114000
+DTEND:20240529T131500
+SUMMARY:MiTWDM (L)
+LOCATION:233 S
+DESCRIPTION:Metody i systemy wspomagania diagnostyki medycznej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240529T175000
+DTEND:20240529T192500
+SUMMARY:ADK (L)
+LOCATION:223 S
+DESCRIPTION:Analiza danych w kardiologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 11\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240529T194000
+DTEND:20240529T211500
+SUMMARY:ADK (L)
+LOCATION:223 S
+DESCRIPTION:Analiza danych w kardiologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 12\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240603T114000
+DTEND:20240603T131500
+SUMMARY:Syt (L)
+LOCATION:125 65
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240603T133000
+DTEND:20240603T150500
+SUMMARY:Syt (L)
+LOCATION:125 65
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240603T175000
+DTEND:20240603T192500
+SUMMARY:Stmd (L)
+LOCATION:237 S
+DESCRIPTION:Systemy telemedyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240603T194000
+DTEND:20240603T211500
+SUMMARY:Stmd (L)
+LOCATION:237 S
+DESCRIPTION:Systemy telemedyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240605T080000
+DTEND:20240605T093500
+SUMMARY:SO (L)
+LOCATION:125 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 17\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240605T095000
+DTEND:20240605T112500
+SUMMARY:SO (L)
+LOCATION:125 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 18\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240605T114000
+DTEND:20240605T131500
+SUMMARY:MiTWDM (w)
+LOCATION:309 S
+DESCRIPTION:Metody i systemy wspomagania diagnostyki medycznej\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240606T080000
+DTEND:20240606T093500
+SUMMARY:MiTWDM (L)
+LOCATION:233 S
+DESCRIPTION:Metody i systemy wspomagania diagnostyki medycznej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240610T080000
+DTEND:20240610T093500
+SUMMARY:Trr (w)
+LOCATION:95 S
+DESCRIPTION:Technologie i metody rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240611T114000
+DTEND:20240611T131500
+SUMMARY:PuS (L)
+LOCATION:09 65
+DESCRIPTION:Programowanie układów sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: mgr inż. Krzysztof Szajewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240611T133000
+DTEND:20240611T150500
+SUMMARY:PuS (L)
+LOCATION:09 65
+DESCRIPTION:Programowanie układów sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: mgr inż. Krzysztof Szajewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240611T160000
+DTEND:20240611T173500
+SUMMARY:Syt (L)
+LOCATION:09 65
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240611T175000
+DTEND:20240611T192500
+SUMMARY:Syt (L)
+LOCATION:09 65
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240613T080000
+DTEND:20240613T093500
+SUMMARY:MiTWDM (L)
+LOCATION:233 S
+DESCRIPTION:Metody i systemy wspomagania diagnostyki medycznej\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240613T095000
+DTEND:20240613T112500
+SUMMARY:Med (L)
+LOCATION:228 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240613T114000
+DTEND:20240613T131500
+SUMMARY:Bda (L)
+LOCATION:224 S
+DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240613T133000
+DTEND:20240613T150500
+SUMMARY:Med (L)
+LOCATION:226 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240617T080000
+DTEND:20240617T093500
+SUMMARY:SO (L)
+LOCATION:011 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 19\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240617T095000
+DTEND:20240617T112500
+SUMMARY:SO (L)
+LOCATION:011 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 20\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240617T175000
+DTEND:20240617T192500
+SUMMARY:Stmd (L)
+LOCATION:223 S
+DESCRIPTION:Systemy telemedyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240617T194000
+DTEND:20240617T211500
+SUMMARY:Stmd (L)
+LOCATION:223 S
+DESCRIPTION:Systemy telemedyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240619T175000
+DTEND:20240619T192500
+SUMMARY:ADK (L)
+LOCATION:224 S
+DESCRIPTION:Analiza danych w kardiologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 13\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240620T080000
+DTEND:20240620T093500
+SUMMARY:MiTWDM (L)
+LOCATION:233 S
+DESCRIPTION:Metody i systemy wspomagania diagnostyki medycznej\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240620T114000
+DTEND:20240620T131500
+SUMMARY:Med (L)
+LOCATION:252 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240620T133000
+DTEND:20240620T150500
+SUMMARY:Bda (L)
+LOCATION:252 S
+DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240620T160000
+DTEND:20240620T173500
+SUMMARY:Bda (L)
+LOCATION:252 S
+DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240621T080000
+DTEND:20240621T093500
+SUMMARY:Syt (L)
+LOCATION:120 65
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240621T095000
+DTEND:20240621T112500
+SUMMARY:Syt (L)
+LOCATION:120 65
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240701T095000
+DTEND:20240701T112500
+SUMMARY:Trr (E)
+LOCATION:95 S
+DESCRIPTION:Technologie i metody rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240703T095000
+DTEND:20240703T112500
+SUMMARY:ADK (E)
+LOCATION:252 S
+DESCRIPTION:Analiza danych w kardiologii\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240705T095000
+DTEND:20240705T112500
+SUMMARY:SO (E)
+LOCATION:227 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240910T114000
+DTEND:20240910T131500
+SUMMARY:Syt (Inne)
+LOCATION:09 65
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: mgr inż. Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240916T095000
+DTEND:20240916T112500
+SUMMARY:Trr (Inne)
+LOCATION:95 S
+DESCRIPTION:Technologie i metody rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240917T095000
+DTEND:20240917T112500
+SUMMARY:SO (Inne)
+LOCATION:227 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240918T095000
+DTEND:20240918T112500
+SUMMARY:ADK (Inne)
+LOCATION:252 S
+DESCRIPTION:Analiza danych w kardiologii\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241002T095000
+DTEND:20241002T112500
+SUMMARY:PSiSI (w)
+LOCATION:308 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241008T080000
+DTEND:20241008T093500
+SUMMARY:SO (Inne)
+LOCATION:011 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241015T080000
+DTEND:20241015T093500
+SUMMARY:SO (Inne)
+LOCATION:011 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241021T080000
+DTEND:20241021T093500
+SUMMARY:Tgs (w)
+LOCATION:309 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241021T095000
+DTEND:20241021T112500
+SUMMARY:Tgs (w)
+LOCATION:307 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241024T175000
+DTEND:20241024T192500
+SUMMARY:Tgs (L)
+LOCATION:224 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241024T194000
+DTEND:20241024T211500
+SUMMARY:Tgs (L)
+LOCATION:224 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241025T080000
+DTEND:20241025T093500
+SUMMARY:Tgs (w)
+LOCATION:308 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241025T095000
+DTEND:20241025T112500
+SUMMARY:Tgs (w)
+LOCATION:308 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241025T114000
+DTEND:20241025T131500
+SUMMARY:XMass (w)
+LOCATION:54/ 62
+DESCRIPTION:XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241028T080000
+DTEND:20241028T093500
+SUMMARY:PSiSI (L)
+LOCATION:224 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241028T095000
+DTEND:20241028T112500
+SUMMARY:Tgs (w)
+LOCATION:309 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241028T114000
+DTEND:20241028T131500
+SUMMARY:Tgs (w)
+LOCATION:309 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241104T080000
+DTEND:20241104T093500
+SUMMARY:PSiSI (L)
+LOCATION:224 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241104T095000
+DTEND:20241104T112500
+SUMMARY:PSiSI (L)
+LOCATION:224 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241104T133000
+DTEND:20241104T150500
+SUMMARY:PSiSI (w)
+LOCATION:309 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241104T160000
+DTEND:20241104T173500
+SUMMARY:PSiSI (w)
+LOCATION:309 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241106T095000
+DTEND:20241106T112500
+SUMMARY:PSiSI (w)
+LOCATION:308 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241106T114000
+DTEND:20241106T131500
+SUMMARY:PSiSI (w)
+LOCATION:308 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241107T175000
+DTEND:20241107T192500
+SUMMARY:Tgs (P)
+LOCATION:224 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Projekt\nNr zajęć: 1\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241107T194000
+DTEND:20241107T211500
+SUMMARY:Tgs (P)
+LOCATION:224 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Projekt\nNr zajęć: 2\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241108T080000
+DTEND:20241108T093500
+SUMMARY:Tgs (w)
+LOCATION:308 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241108T095000
+DTEND:20241108T112500
+SUMMARY:Tgs (w)
+LOCATION:308 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241108T114000
+DTEND:20241108T131500
+SUMMARY:XMass (w)
+LOCATION:9/ 62
+DESCRIPTION:XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241110T114000
+DTEND:20241110T131500
+SUMMARY:XFiz2 (w)
+LOCATION:301/ S
+DESCRIPTION:XFizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241110T133000
+DTEND:20241110T150500
+SUMMARY:XFiz2 (w)
+LOCATION:301/ S
+DESCRIPTION:XFizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241113T095000
+DTEND:20241113T112500
+SUMMARY:PSiSI (w)
+LOCATION:307 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241113T114000
+DTEND:20241113T131500
+SUMMARY:PSiSI (w)
+LOCATION:307 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241114T175000
+DTEND:20241114T192500
+SUMMARY:Tgs (L)
+LOCATION:224 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241114T194000
+DTEND:20241114T211500
+SUMMARY:Tgs (L)
+LOCATION:224 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241115T080000
+DTEND:20241115T093500
+SUMMARY:PSiSI (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241115T095000
+DTEND:20241115T112500
+SUMMARY:PSiSI (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241115T114000
+DTEND:20241115T131500
+SUMMARY:XMass (w)
+LOCATION:9/ 62
+DESCRIPTION:XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241117T080000
+DTEND:20241117T093500
+SUMMARY:XFiz2 (ć)
+LOCATION:315a S
+DESCRIPTION:XFizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241117T095000
+DTEND:20241117T112500
+SUMMARY:XFiz2 (ć)
+LOCATION:315a S
+DESCRIPTION:XFizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241118T080000
+DTEND:20241118T093500
+SUMMARY:PSiSI (L)
+LOCATION:224 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241118T095000
+DTEND:20241118T112500
+SUMMARY:PSiSI (L)
+LOCATION:224 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241120T095000
+DTEND:20241120T112500
+SUMMARY:PSiSI (w)
+LOCATION:307 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241120T114000
+DTEND:20241120T131500
+SUMMARY:PSiSI (w)
+LOCATION:307 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 9\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241120T175000
+DTEND:20241120T192500
+SUMMARY:XMass (L)
+LOCATION:237 S
+DESCRIPTION:XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241120T194000
+DTEND:20241120T211500
+SUMMARY:XMass (L)
+LOCATION:237 S
+DESCRIPTION:XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241121T175000
+DTEND:20241121T192500
+SUMMARY:Tgs (P)
+LOCATION:236 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Projekt\nNr zajęć: 3\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241121T194000
+DTEND:20241121T211500
+SUMMARY:Tgs (P)
+LOCATION:236 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Projekt\nNr zajęć: 4\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241122T095000
+DTEND:20241122T112500
+SUMMARY:XMass (w)
+LOCATION:9/ 62
+DESCRIPTION:XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241122T114000
+DTEND:20241122T131500
+SUMMARY:XMass (w)
+LOCATION:9/ 62
+DESCRIPTION:XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241123T114000
+DTEND:20241123T131500
+SUMMARY:XFiz2 (w)
+LOCATION:301/ S
+DESCRIPTION:XFizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241123T133000
+DTEND:20241123T150500
+SUMMARY:XFiz2 (w)
+LOCATION:301/ S
+DESCRIPTION:XFizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241124T080000
+DTEND:20241124T093500
+SUMMARY:XFiz2 (ć)
+LOCATION:315a S
+DESCRIPTION:XFizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241124T095000
+DTEND:20241124T112500
+SUMMARY:XFiz2 (ć)
+LOCATION:315a S
+DESCRIPTION:XFizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241124T114000
+DTEND:20241124T131500
+SUMMARY:XFiz2 (L)
+LOCATION:139 S
+DESCRIPTION:XFizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241124T133000
+DTEND:20241124T150500
+SUMMARY:XFiz2 (L)
+LOCATION:139 S
+DESCRIPTION:XFizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241125T080000
+DTEND:20241125T093500
+SUMMARY:PSiSI (L)
+LOCATION:224 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241125T095000
+DTEND:20241125T112500
+SUMMARY:PSiSI (L)
+LOCATION:224 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241127T095000
+DTEND:20241127T112500
+SUMMARY:PSiSI (w)
+LOCATION:309 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 10\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241127T114000
+DTEND:20241127T131500
+SUMMARY:PSiSI (w)
+LOCATION:309 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 11\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241127T175000
+DTEND:20241127T192500
+SUMMARY:XMass (L)
+LOCATION:237 S
+DESCRIPTION:XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241127T194000
+DTEND:20241127T211500
+SUMMARY:XMass (L)
+LOCATION:237 S
+DESCRIPTION:XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241128T175000
+DTEND:20241128T192500
+SUMMARY:Tgs (L)
+LOCATION:224 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241128T194000
+DTEND:20241128T211500
+SUMMARY:Tgs (L)
+LOCATION:224 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241201T095000
+DTEND:20241201T112500
+SUMMARY:XFiz2 (w)
+LOCATION:301/ S
+DESCRIPTION:XFizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241201T114000
+DTEND:20241201T131500
+SUMMARY:XFiz2 (w)
+LOCATION:301/ S
+DESCRIPTION:XFizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241204T095000
+DTEND:20241204T112500
+SUMMARY:PSiSI (w)
+LOCATION:308 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 12\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241204T114000
+DTEND:20241204T131500
+SUMMARY:PSiSI (w)
+LOCATION:308 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 13\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241204T175000
+DTEND:20241204T192500
+SUMMARY:XMass (L)
+LOCATION:237 S
+DESCRIPTION:XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241204T194000
+DTEND:20241204T211500
+SUMMARY:XMass (L)
+LOCATION:237 S
+DESCRIPTION:XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241205T194000
+DTEND:20241205T211500
+SUMMARY:Tgs (P)
+LOCATION:224 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Projekt\nNr zajęć: 5\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241206T080000
+DTEND:20241206T093500
+SUMMARY:PSiSI (L)
+LOCATION:224 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241210T175000
+DTEND:20241210T192500
+SUMMARY:Tgs (L)
+LOCATION:252 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241210T194000
+DTEND:20241210T211500
+SUMMARY:Tgs (P)
+LOCATION:224 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Projekt\nNr zajęć: 6\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241211T114000
+DTEND:20241211T131500
+SUMMARY:PSiSI (w)
+LOCATION:317 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 14\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241211T133000
+DTEND:20241211T150500
+SUMMARY:PSiSI (w)
+LOCATION:317 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 15\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241212T175000
+DTEND:20241212T192500
+SUMMARY:Tgs (L)
+LOCATION:224 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241213T080000
+DTEND:20241213T093500
+SUMMARY:PSiSI (L)
+LOCATION:224 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 11\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241214T114000
+DTEND:20241214T131500
+SUMMARY:XFiz2 (w)
+LOCATION:301/ S
+DESCRIPTION:XFizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241214T133000
+DTEND:20241214T150500
+SUMMARY:XFiz2 (w)
+LOCATION:301/ S
+DESCRIPTION:XFizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241215T080000
+DTEND:20241215T093500
+SUMMARY:XFiz2 (ć)
+LOCATION:301/ S
+DESCRIPTION:XFizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241215T095000
+DTEND:20241215T112500
+SUMMARY:XFiz2 (ć)
+LOCATION:301/ S
+DESCRIPTION:XFizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241216T080000
+DTEND:20241216T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241216T095000
+DTEND:20241216T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241216T114000
+DTEND:20241216T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241216T133000
+DTEND:20241216T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241216T160000
+DTEND:20241216T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241216T175000
+DTEND:20241216T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241216T194000
+DTEND:20241216T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241217T080000
+DTEND:20241217T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241217T095000
+DTEND:20241217T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241217T114000
+DTEND:20241217T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241217T133000
+DTEND:20241217T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241217T160000
+DTEND:20241217T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241217T175000
+DTEND:20241217T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241217T194000
+DTEND:20241217T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241218T080000
+DTEND:20241218T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241218T095000
+DTEND:20241218T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241218T114000
+DTEND:20241218T131500
+SUMMARY:PSiSI (E)
+LOCATION:308 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241218T133000
+DTEND:20241218T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241218T160000
+DTEND:20241218T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241218T194000
+DTEND:20241218T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241219T080000
+DTEND:20241219T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241219T095000
+DTEND:20241219T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241219T114000
+DTEND:20241219T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241219T133000
+DTEND:20241219T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241219T160000
+DTEND:20241219T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241219T175000
+DTEND:20241219T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241219T194000
+DTEND:20241219T211500
+SUMMARY:XMass (Inne)
+LOCATION:237 S
+DESCRIPTION:XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: mgr inż. Piotr Bączyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241220T080000
+DTEND:20241220T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241220T114000
+DTEND:20241220T131500
+SUMMARY:XMass (E)
+LOCATION:54/ 62
+DESCRIPTION:XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241220T133000
+DTEND:20241220T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241220T160000
+DTEND:20241220T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241220T175000
+DTEND:20241220T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241220T194000
+DTEND:20241220T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241222T095000
+DTEND:20241222T112500
+SUMMARY:XFiz2 (w)
+LOCATION:301/ S
+DESCRIPTION:XFizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241222T114000
+DTEND:20241222T131500
+SUMMARY:XFiz2 (L)
+LOCATION:139 S
+DESCRIPTION:XFizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241222T133000
+DTEND:20241222T150500
+SUMMARY:XFiz2 (L)
+LOCATION:139 S
+DESCRIPTION:XFizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250107T080000
+DTEND:20250107T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250107T095000
+DTEND:20250107T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250107T114000
+DTEND:20250107T131500
+SUMMARY:PSiSI (Inne)
+LOCATION:317 S
+DESCRIPTION:Podstawy symulacji i sztuczna inteligencja\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250107T133000
+DTEND:20250107T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250107T160000
+DTEND:20250107T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250107T175000
+DTEND:20250107T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250107T194000
+DTEND:20250107T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250108T080000
+DTEND:20250108T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250108T095000
+DTEND:20250108T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250108T114000
+DTEND:20250108T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250108T133000
+DTEND:20250108T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250108T160000
+DTEND:20250108T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250108T175000
+DTEND:20250108T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250108T194000
+DTEND:20250108T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250109T080000
+DTEND:20250109T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250109T095000
+DTEND:20250109T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250109T114000
+DTEND:20250109T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250109T133000
+DTEND:20250109T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250109T160000
+DTEND:20250109T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250109T175000
+DTEND:20250109T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250109T194000
+DTEND:20250109T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250110T080000
+DTEND:20250110T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250110T095000
+DTEND:20250110T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250110T114000
+DTEND:20250110T131500
+SUMMARY:XMass (Inne)
+LOCATION:54/ 62
+DESCRIPTION:XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250110T133000
+DTEND:20250110T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250110T160000
+DTEND:20250110T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250110T175000
+DTEND:20250110T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250110T194000
+DTEND:20250110T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250111T080000
+DTEND:20250111T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250111T095000
+DTEND:20250111T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250111T114000
+DTEND:20250111T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250111T133000
+DTEND:20250111T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250111T160000
+DTEND:20250111T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250111T175000
+DTEND:20250111T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250111T194000
+DTEND:20250111T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250112T114000
+DTEND:20250112T131500
+SUMMARY:XFiz2 (L)
+LOCATION:139 S
+DESCRIPTION:XFizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250113T080000
+DTEND:20250113T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250113T095000
+DTEND:20250113T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250113T114000
+DTEND:20250113T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250113T133000
+DTEND:20250113T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250113T160000
+DTEND:20250113T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250113T175000
+DTEND:20250113T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250113T194000
+DTEND:20250113T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250119T080000
+DTEND:20250119T093500
+SUMMARY:XFiz2 (ć)
+LOCATION:301/ S
+DESCRIPTION:XFizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250120T133000
+DTEND:20250120T150500
+SUMMARY:XFiz2 (E)
+LOCATION:301/ S
+DESCRIPTION:XFizyka 2 - (Egzamin) -\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+END:VCALENDAR
