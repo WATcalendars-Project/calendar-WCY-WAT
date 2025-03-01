@@ -25,9 +25,6 @@ jobs:
       - name: Uruchom skrypt do pobierania grup
         run: python scripts/groups_scraper.py
 
-      - name: Uruchom skrypt do pobierania lat
-        run: python scripts/year_scraper.py
-
       - name: Commit zmian
         run: |
           git config --global user.name "GitHub Actions Bot"
