@@ -1,8 +1,10 @@
 # WCY Schedule Calendar
 A simple tool to fetch and generate ICS calendar files for students at the Faculty of Cybernetics, Military University of Technology (WCY WAT). This project scrapes the official schedule, processes the data, and provides downloadable calendar files for different student groups.
 
+
 ## Website:
 https://dominikx2002.github.io/calendar-WCY-WAT/
+
 
 ### How it works:
 1. Scraping Data: Python scripts collect information from:
@@ -11,6 +13,7 @@ https://dominikx2002.github.io/calendar-WCY-WAT/
 2. Generating Calendar Files: The schedule_scraper.py script converts schedule data into .ics files.
 3. Hosting the Frontend: GitHub Pages provides an interactive UI for selecting and downloading calendar files.
 4. Automatic Updates: GitHub Actions runs daily to keep schedules up-to-date.
+
 
 ## Setup & Usage:
 1. Local Setup
@@ -31,7 +34,9 @@ https://dominikx2002.github.io/calendar-WCY-WAT/
     Download the .ics file
     Import it into your favourite calendar app (Google Calendar, Outlook, etc.)
 
-**GitHub Actions**
+
+
+### GitHub Actions
 This project uses GitHub Actions to update schedules daily. 
 The workflow:
 - Runs every day at midnight (cron: "0 0 * * *")
@@ -40,7 +45,7 @@ The workflow:
 - Commits and pushes the updates
 - Workflow file: .github/workflows/update-data.yml 
 
-**Contributing**
+### Contributing
 Want to improve the project? Feel free to:
 - Open an Issue
 - Create a Pull Request
@@ -49,5 +54,5 @@ Want to improve the project? Feel free to:
 ### Contact:
 For any questions, feel free to open an issue or reach out via GitHub!
 
-##License
+## License
 This project is licensed under [BSD-2-Clause License](LICENSE). See [LICENSE](LICENSE) for details.
