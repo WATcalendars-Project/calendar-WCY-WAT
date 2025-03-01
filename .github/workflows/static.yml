@@ -22,16 +22,17 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: 📥 Pobierz repozytorium
+      - name: Pobierz repozytorium
         uses: actions/checkout@v4
         
-      - name: ⚙️ Konfiguracja GitHub Pages
+      - name: Konfiguracja GitHub Pages
         uses: actions/configure-pages@v5
         
-      - name: 📂 Upload plików statycznych (Tylko folder web/)
+      - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'web'  # Tylko katalog `web/`
+          path: 'web'
+
 
       - name: 🚀 Wdrożenie do GitHub Pages
         id: deployment
