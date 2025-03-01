@@ -1,0 +1,202 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//scheduleWCY//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:WCY23X*BDc
+BEGIN:VEVENT
+DTSTART:20240316T095000
+DTEND:20240316T112500
+SUMMARY:Bd (w)
+LOCATION:317 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240316T114000
+DTEND:20240316T131500
+SUMMARY:Bd (w)
+LOCATION:317 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240316T133000
+DTEND:20240316T150500
+SUMMARY:Bd (w)
+LOCATION:317 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240324T080000
+DTEND:20240324T093500
+SUMMARY:Bd (ć)
+LOCATION:307 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240324T095000
+DTEND:20240324T112500
+SUMMARY:Bd (ć)
+LOCATION:307 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240324T114000
+DTEND:20240324T131500
+SUMMARY:Bd (ć)
+LOCATION:307 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240406T095000
+DTEND:20240406T112500
+SUMMARY:Bd (w)
+LOCATION:314 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240406T114000
+DTEND:20240406T131500
+SUMMARY:Bd (w)
+LOCATION:314 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240406T133000
+DTEND:20240406T150500
+SUMMARY:Bd (w)
+LOCATION:314 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240412T175000
+DTEND:20240412T192500
+SUMMARY:Bd (L)
+LOCATION:252 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240412T194000
+DTEND:20240412T211500
+SUMMARY:Bd (L)
+LOCATION:252 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240413T080000
+DTEND:20240413T093500
+SUMMARY:Bd (ć)
+LOCATION:317 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240413T095000
+DTEND:20240413T112500
+SUMMARY:Bd (ć)
+LOCATION:317 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240413T114000
+DTEND:20240413T131500
+SUMMARY:Bd (ć)
+LOCATION:317 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240419T175000
+DTEND:20240419T192500
+SUMMARY:Bd (L)
+LOCATION:252 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240419T194000
+DTEND:20240419T211500
+SUMMARY:Bd (L)
+LOCATION:252 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240426T175000
+DTEND:20240426T192500
+SUMMARY:Bd (L)
+LOCATION:252 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240426T194000
+DTEND:20240426T211500
+SUMMARY:Bd (L)
+LOCATION:252 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240510T175000
+DTEND:20240510T192500
+SUMMARY:Bd (L)
+LOCATION:252 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240510T194000
+DTEND:20240510T211500
+SUMMARY:Bd (L)
+LOCATION:252 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240511T175000
+DTEND:20240511T192500
+SUMMARY:Bd (w)
+LOCATION:316 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240517T175000
+DTEND:20240517T192500
+SUMMARY:Bd (L)
+LOCATION:252 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240517T194000
+DTEND:20240517T211500
+SUMMARY:Bd (L)
+LOCATION:252 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240524T175000
+DTEND:20240524T192500
+SUMMARY:Bd (L)
+LOCATION:252 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240524T194000
+DTEND:20240524T211500
+SUMMARY:Bd (L)
+LOCATION:252 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 12\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240615T133000
+DTEND:20240615T150500
+SUMMARY:Bd (L)
+LOCATION:316 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 13\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240923T095000
+DTEND:20240923T112500
+SUMMARY:Bd (Inne)
+LOCATION:316 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240923T114000
+DTEND:20240923T131500
+SUMMARY:Bd (Inne)
+LOCATION:316 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+END:VCALENDAR

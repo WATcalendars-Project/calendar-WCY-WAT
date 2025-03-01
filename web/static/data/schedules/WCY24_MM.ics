@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//scheduleWCY//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:WCY24*MM
+BEGIN:VEVENT
+DTSTART:20250315T095000
+DTEND:20250315T112500
+SUMMARY:XMM (w)
+LOCATION:307 S
+DESCRIPTION:XModelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250315T114000
+DTEND:20250315T131500
+SUMMARY:XMM (w)
+LOCATION:307 S
+DESCRIPTION:XModelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250329T095000
+DTEND:20250329T112500
+SUMMARY:XMM (w)
+LOCATION:308 S
+DESCRIPTION:XModelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250329T114000
+DTEND:20250329T131500
+SUMMARY:XMM (w)
+LOCATION:308 S
+DESCRIPTION:XModelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250406T133000
+DTEND:20250406T150500
+SUMMARY:XMM (ć)
+LOCATION:307 S
+DESCRIPTION:XModelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250406T160000
+DTEND:20250406T173500
+SUMMARY:XMM (ć)
+LOCATION:307 S
+DESCRIPTION:XModelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250412T095000
+DTEND:20250412T112500
+SUMMARY:XMM (w)
+LOCATION:308 S
+DESCRIPTION:XModelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250412T114000
+DTEND:20250412T131500
+SUMMARY:XMM (w)
+LOCATION:308 S
+DESCRIPTION:XModelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250426T095000
+DTEND:20250426T112500
+SUMMARY:XMM (w)
+LOCATION:307 S
+DESCRIPTION:XModelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250427T133000
+DTEND:20250427T150500
+SUMMARY:XMM (ć)
+LOCATION:314 S
+DESCRIPTION:XModelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250427T160000
+DTEND:20250427T173500
+SUMMARY:XMM (ć)
+LOCATION:314 S
+DESCRIPTION:XModelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250518T095000
+DTEND:20250518T112500
+SUMMARY:XMM (ć)
+LOCATION:308 S
+DESCRIPTION:XModelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250518T114000
+DTEND:20250518T131500
+SUMMARY:XMM (ć)
+LOCATION:308 S
+DESCRIPTION:XModelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250601T095000
+DTEND:20250601T112500
+SUMMARY:XMM (ć)
+LOCATION:308 S
+DESCRIPTION:XModelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250601T114000
+DTEND:20250601T131500
+SUMMARY:XMM (ć)
+LOCATION:308 S
+DESCRIPTION:XModelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250607T095000
+DTEND:20250607T112500
+SUMMARY:XMM (Inne)
+LOCATION:307 S
+DESCRIPTION:XModelowanie matematyczne\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+END:VCALENDAR

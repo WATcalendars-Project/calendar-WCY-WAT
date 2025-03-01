@@ -1,0 +1,132 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//scheduleWCY//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:WCY23X*Wdp
+BEGIN:VEVENT
+DTSTART:20240316T095000
+DTEND:20240316T112500
+SUMMARY:WdP (w)
+LOCATION:227 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240323T095000
+DTEND:20240323T112500
+SUMMARY:WdP (w)
+LOCATION:227 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240323T114000
+DTEND:20240323T131500
+SUMMARY:WdP (L)
+LOCATION:227 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240406T095000
+DTEND:20240406T112500
+SUMMARY:WdP (w)
+LOCATION:227 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240406T114000
+DTEND:20240406T131500
+SUMMARY:WdP (L)
+LOCATION:227 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240413T080000
+DTEND:20240413T093500
+SUMMARY:WdP (w)
+LOCATION:227 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240413T095000
+DTEND:20240413T112500
+SUMMARY:WdP (L)
+LOCATION:227 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240420T095000
+DTEND:20240420T112500
+SUMMARY:WdP (w)
+LOCATION:228 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240420T114000
+DTEND:20240420T131500
+SUMMARY:WdP (L)
+LOCATION:228 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240427T095000
+DTEND:20240427T112500
+SUMMARY:WdP (L)
+LOCATION:227 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240511T095000
+DTEND:20240511T112500
+SUMMARY:WdP (L)
+LOCATION:227 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240518T095000
+DTEND:20240518T112500
+SUMMARY:WdP (L)
+LOCATION:227 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240525T095000
+DTEND:20240525T112500
+SUMMARY:WdP (L)
+LOCATION:227 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240608T095000
+DTEND:20240608T112500
+SUMMARY:WdP (L)
+LOCATION:227 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240615T095000
+DTEND:20240615T112500
+SUMMARY:WdP (L)
+LOCATION:227 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240622T095000
+DTEND:20240622T112500
+SUMMARY:WdP (E)
+LOCATION:227 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240706T133000
+DTEND:20240706T150500
+SUMMARY:WdP (Inne)
+LOCATION:227 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240921T133000
+DTEND:20240921T150500
+SUMMARY:WdP (Inne)
+LOCATION:227 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+END:VCALENDAR

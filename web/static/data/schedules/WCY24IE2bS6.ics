@@ -1,0 +1,447 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//scheduleWCY//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:WCY24IE2bS6
+BEGIN:VEVENT
+DTSTART:20240506T080000
+DTEND:20240506T093500
+SUMMARY:Sws (Inne)
+LOCATION:-
+DESCRIPTION:Spotkanie organizacyjne\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240506T095000
+DTEND:20240506T112500
+SUMMARY:Lan (w)
+LOCATION:203 65
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240507T080000
+DTEND:20240507T093500
+SUMMARY:Bst (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240507T095000
+DTEND:20240507T112500
+SUMMARY:Bst (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240508T080000
+DTEND:20240508T093500
+SUMMARY:Lan (L)
+LOCATION:125 65
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240508T095000
+DTEND:20240508T112500
+SUMMARY:Lan (L)
+LOCATION:125 65
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240508T114000
+DTEND:20240508T131500
+SUMMARY:Rsk (w)
+LOCATION:203 65
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240509T080000
+DTEND:20240509T093500
+SUMMARY:StS (w)
+LOCATION:203 65
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240509T095000
+DTEND:20240509T112500
+SUMMARY:StS (w)
+LOCATION:203 65
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240510T095000
+DTEND:20240510T112500
+SUMMARY:AsU (w)
+LOCATION:203 65
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240513T080000
+DTEND:20240513T093500
+SUMMARY:Lan (w)
+LOCATION:203 65
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240513T095000
+DTEND:20240513T112500
+SUMMARY:Rsk (w)
+LOCATION:203 65
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240513T133000
+DTEND:20240513T150500
+SUMMARY:StS (w)
+LOCATION:317 S
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240513T160000
+DTEND:20240513T173500
+SUMMARY:StS (w)
+LOCATION:317 S
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240514T080000
+DTEND:20240514T093500
+SUMMARY:Bst (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240514T095000
+DTEND:20240514T112500
+SUMMARY:Bst (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240515T114000
+DTEND:20240515T131500
+SUMMARY:Rsk (w)
+LOCATION:203 65
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240515T133000
+DTEND:20240515T150500
+SUMMARY:Rsk (L)
+LOCATION:120 65
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240515T160000
+DTEND:20240515T173500
+SUMMARY:Rsk (L)
+LOCATION:120 65
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240516T095000
+DTEND:20240516T112500
+SUMMARY:AsU (w)
+LOCATION:203 65
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240520T080000
+DTEND:20240520T093500
+SUMMARY:Lan (w)
+LOCATION:203 65
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240520T095000
+DTEND:20240520T112500
+SUMMARY:Rsk (L)
+LOCATION:125 65
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240520T114000
+DTEND:20240520T131500
+SUMMARY:Rsk (L)
+LOCATION:125 65
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240521T080000
+DTEND:20240521T093500
+SUMMARY:Bst (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240521T095000
+DTEND:20240521T112500
+SUMMARY:Bst (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240521T114000
+DTEND:20240521T131500
+SUMMARY:Bst (L)
+LOCATION:106 65
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240521T133000
+DTEND:20240521T150500
+SUMMARY:Bst (L)
+LOCATION:106 65
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240521T175000
+DTEND:20240521T192500
+SUMMARY:AsU (L)
+LOCATION:121 65
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Adam Rabiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240521T194000
+DTEND:20240521T211500
+SUMMARY:AsU (L)
+LOCATION:121 65
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Adam Rabiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240522T080000
+DTEND:20240522T093500
+SUMMARY:ZŻWAT (Inne)
+LOCATION:-
+DESCRIPTION:Zbiórka żołnierzy WAT\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240522T114000
+DTEND:20240522T131500
+SUMMARY:Rsk (w)
+LOCATION:203 65
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240522T133000
+DTEND:20240522T150500
+SUMMARY:Rsk (L)
+LOCATION:120 65
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240522T160000
+DTEND:20240522T173500
+SUMMARY:Rsk (L)
+LOCATION:120 65
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240523T080000
+DTEND:20240523T093500
+SUMMARY:StS (w)
+LOCATION:203 65
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240523T095000
+DTEND:20240523T112500
+SUMMARY:Lan (L)
+LOCATION:120 65
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240523T114000
+DTEND:20240523T131500
+SUMMARY:Lan (L)
+LOCATION:120 65
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240523T175000
+DTEND:20240523T192500
+SUMMARY:AsU (L)
+LOCATION:121 65
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Adam Rabiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240523T194000
+DTEND:20240523T211500
+SUMMARY:AsU (L)
+LOCATION:121 65
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Adam Rabiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240524T114000
+DTEND:20240524T131500
+SUMMARY:Lan (L)
+LOCATION:120 65
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240524T133000
+DTEND:20240524T150500
+SUMMARY:Lan (L)
+LOCATION:120 65
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240527T080000
+DTEND:20240527T093500
+SUMMARY:Lan (w)
+LOCATION:203 65
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240527T095000
+DTEND:20240527T112500
+SUMMARY:Bst (L)
+LOCATION:106 65
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240527T114000
+DTEND:20240527T131500
+SUMMARY:Bst (L)
+LOCATION:106 65
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240528T080000
+DTEND:20240528T093500
+SUMMARY:Bst (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240528T095000
+DTEND:20240528T112500
+SUMMARY:Bst (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240528T114000
+DTEND:20240528T131500
+SUMMARY:Lan (L)
+LOCATION:120 65
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240528T133000
+DTEND:20240528T150500
+SUMMARY:Lan (L)
+LOCATION:120 65
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240529T114000
+DTEND:20240529T131500
+SUMMARY:Rsk (w)
+LOCATION:203 65
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240529T133000
+DTEND:20240529T150500
+SUMMARY:Bst (L)
+LOCATION:106 65
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240603T080000
+DTEND:20240603T093500
+SUMMARY:Lan (w)
+LOCATION:203 65
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240603T095000
+DTEND:20240603T112500
+SUMMARY:StS (L)
+LOCATION:106 65
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240603T114000
+DTEND:20240603T131500
+SUMMARY:StS (L)
+LOCATION:106 65
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240603T133000
+DTEND:20240603T150500
+SUMMARY:StS (L)
+LOCATION:106 65
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240604T080000
+DTEND:20240604T093500
+SUMMARY:Bst (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 9\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240604T095000
+DTEND:20240604T112500
+SUMMARY:Bst (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 10\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240604T114000
+DTEND:20240604T131500
+SUMMARY:Rsk (L)
+LOCATION:125 65
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240604T133000
+DTEND:20240604T150500
+SUMMARY:Rsk (L)
+LOCATION:125 65
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240605T133000
+DTEND:20240605T150500
+SUMMARY:Lan (L)
+LOCATION:120 65
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240605T160000
+DTEND:20240605T173500
+SUMMARY:Lan (L)
+LOCATION:120 65
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240605T175000
+DTEND:20240605T192500
+SUMMARY:AsU (L)
+LOCATION:121 65
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Adam Rabiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240606T133000
+DTEND:20240606T150500
+SUMMARY:Rsk (L)
+LOCATION:120 65
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240606T160000
+DTEND:20240606T173500
+SUMMARY:Rsk (L)
+LOCATION:120 65
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240607T095000
+DTEND:20240607T112500
+SUMMARY:Espr (E)
+LOCATION:203 65
+DESCRIPTION:Egzamin sprawdzający\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+END:VCALENDAR
