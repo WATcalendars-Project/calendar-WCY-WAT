@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function() {
 async function loadGroups() {
     const groupSelect = document.getElementById("group");
     try {
-        const response = await fetch("static/groups.txt");
+        const response = await fetch("data/groups.txt");
         const text = await response.text();
         const groups = text.split("\n").map(g => g.trim()).filter(g => g);
 
@@ -24,7 +24,7 @@ async function loadGroups() {
 async function loadYears() {
     const yearSelect = document.getElementById("year");
     try {
-        const response = await fetch("static/year.txt");
+        const response = await fetch("data/year.txt");
         const text = await response.text();
         const years = text.split("\n").map(y => y.trim()).filter(y => y);
 
