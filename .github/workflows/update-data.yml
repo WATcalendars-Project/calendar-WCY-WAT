@@ -7,6 +7,10 @@ on:
     branches:
       - main  # Uruchamia po pushu do main
 
+permissions:
+  contents: write  # Zezwala na commitowanie zmian do repozytorium
+
+
 jobs:
   update_data:
     runs-on: ubuntu-latest
