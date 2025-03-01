@@ -29,6 +29,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
-          git add web/static/groups.txt web/static/year.txt
+          git add data/groups.txt data/year.txt
           git commit -m "Automatyczna aktualizacja grup i lat" || echo "Brak zmian"
           git push
