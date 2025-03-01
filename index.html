@@ -73,7 +73,9 @@
                 alert("Wybierz grupę!");
                 return;
             }
-            let icsFileUrl = `data/schedules/schedule_${selectedGroup}.ics`;
+            
+            let icsFileUrl = `web/static/data/schedules/${encodeURIComponent(selectedGroup)}.ics`;
+            console.log("Pobieranie:", icsFileUrl);
             window.location.href = icsFileUrl;
         }
 

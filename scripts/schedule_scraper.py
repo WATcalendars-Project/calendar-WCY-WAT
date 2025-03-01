@@ -6,8 +6,9 @@ from datetime import datetime
 
 # Definicje katalogów i plików
 DATA_DIR = "data"
+WEB_STATIC_DATA_DIR = "web/static/data"
 GROUPS_FILE = os.path.join(DATA_DIR, "groups.txt")
-SCHEDULES_DIR = os.path.join(DATA_DIR, "schedules")
+SCHEDULES_DIR = os.path.join(WEB_STATIC_DATA_DIR, "schedules")
 EMPLOYEES_FILE = os.path.join(DATA_DIR, "employees.txt")
 
 BLOCK_TIMES = {
