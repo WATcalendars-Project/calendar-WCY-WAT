@@ -1,0 +1,1105 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//scheduleWCY//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:WCY23IB1N2
+BEGIN:VEVENT
+DTSTART:20240302T095000
+DTEND:20240302T112500
+SUMMARY:SBD (w)
+LOCATION:308 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240302T114000
+DTEND:20240302T131500
+SUMMARY:Swp (w)
+LOCATION:203 65
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240302T133000
+DTEND:20240302T150500
+SUMMARY:ak (w)
+LOCATION:308 S
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240302T160000
+DTEND:20240302T173500
+SUMMARY:Esi (w)
+LOCATION:308 S
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240302T175000
+DTEND:20240302T192500
+SUMMARY:Esi (w)
+LOCATION:308 S
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240303T095000
+DTEND:20240303T112500
+SUMMARY:isi (w)
+LOCATION:309 S
+DESCRIPTION:Integracja systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240303T114000
+DTEND:20240303T131500
+SUMMARY:isi (w)
+LOCATION:309 S
+DESCRIPTION:Integracja systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240303T133000
+DTEND:20240303T150500
+SUMMARY:Mzw (w)
+LOCATION:307 S
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240303T160000
+DTEND:20240303T173500
+SUMMARY:Mzw (P)
+LOCATION:223 S
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Projekt\nNr zajęć: 1\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240309T080000
+DTEND:20240309T093500
+SUMMARY:Wmo (w)
+LOCATION:308 S
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240309T095000
+DTEND:20240309T112500
+SUMMARY:Wmo (w)
+LOCATION:308 S
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240309T114000
+DTEND:20240309T131500
+SUMMARY:Swp (w)
+LOCATION:203 65
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240309T133000
+DTEND:20240309T150500
+SUMMARY:Zui (w)
+LOCATION:308 S
+DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240309T160000
+DTEND:20240309T173500
+SUMMARY:Zui (w)
+LOCATION:308 S
+DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240310T080000
+DTEND:20240310T093500
+SUMMARY:Sme. (w)
+LOCATION:308 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240310T095000
+DTEND:20240310T112500
+SUMMARY:Sme. (w)
+LOCATION:308 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240310T114000
+DTEND:20240310T131500
+SUMMARY:No (w)
+LOCATION:307 S
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240310T133000
+DTEND:20240310T150500
+SUMMARY:Mzw (w)
+LOCATION:308 S
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240323T080000
+DTEND:20240323T093500
+SUMMARY:SBD (w)
+LOCATION:308 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240323T095000
+DTEND:20240323T112500
+SUMMARY:SBD (w)
+LOCATION:308 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240323T114000
+DTEND:20240323T131500
+SUMMARY:Swp (w)
+LOCATION:203 65
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240323T133000
+DTEND:20240323T150500
+SUMMARY:ak (w)
+LOCATION:308 S
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240323T160000
+DTEND:20240323T173500
+SUMMARY:isi (w)
+LOCATION:309 S
+DESCRIPTION:Integracja systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240323T175000
+DTEND:20240323T192500
+SUMMARY:isi (w)
+LOCATION:309 S
+DESCRIPTION:Integracja systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240324T080000
+DTEND:20240324T093500
+SUMMARY:Sme. (w)
+LOCATION:308 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240324T095000
+DTEND:20240324T112500
+SUMMARY:Sme. (w)
+LOCATION:308 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240324T114000
+DTEND:20240324T131500
+SUMMARY:No (w)
+LOCATION:308 S
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240324T133000
+DTEND:20240324T150500
+SUMMARY:No (w)
+LOCATION:308 S
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240324T160000
+DTEND:20240324T173500
+SUMMARY:Ek (w)
+LOCATION:308 S
+DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240324T175000
+DTEND:20240324T192500
+SUMMARY:Ek (w)
+LOCATION:308 S
+DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240406T095000
+DTEND:20240406T112500
+SUMMARY:Zui (w)
+LOCATION:317 S
+DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240406T114000
+DTEND:20240406T131500
+SUMMARY:Zui (w)
+LOCATION:317 S
+DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240406T133000
+DTEND:20240406T150500
+SUMMARY:ak (w)
+LOCATION:308 S
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240406T160000
+DTEND:20240406T173500
+SUMMARY:Mzw (w)
+LOCATION:309 S
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240407T095000
+DTEND:20240407T112500
+SUMMARY:Sme. (w)
+LOCATION:308 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240407T114000
+DTEND:20240407T131500
+SUMMARY:Wmo (w)
+LOCATION:308 S
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240407T133000
+DTEND:20240407T150500
+SUMMARY:Esi (w)
+LOCATION:308 S
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240407T160000
+DTEND:20240407T173500
+SUMMARY:Esi (ć)
+LOCATION:308 S
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240420T080000
+DTEND:20240420T093500
+SUMMARY:Swp (w)
+LOCATION:203 65
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240420T095000
+DTEND:20240420T112500
+SUMMARY:ak (w)
+LOCATION:308 S
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240420T114000
+DTEND:20240420T131500
+SUMMARY:SBD (L)
+LOCATION:223 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240420T133000
+DTEND:20240420T150500
+SUMMARY:SBD (L)
+LOCATION:223 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240420T160000
+DTEND:20240420T173500
+SUMMARY:isi (L)
+LOCATION:227 S
+DESCRIPTION:Integracja systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240420T175000
+DTEND:20240420T192500
+SUMMARY:isi (L)
+LOCATION:227 S
+DESCRIPTION:Integracja systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240421T095000
+DTEND:20240421T112500
+SUMMARY:Wmo (w)
+LOCATION:308 S
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240421T114000
+DTEND:20240421T131500
+SUMMARY:Wmo (ć)
+LOCATION:307 S
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: dr inż. Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240421T133000
+DTEND:20240421T150500
+SUMMARY:No (L)
+LOCATION:224 S
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240421T160000
+DTEND:20240421T173500
+SUMMARY:ak (ć)
+LOCATION:309 S
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240421T175000
+DTEND:20240421T192500
+SUMMARY:Mzw (L)
+LOCATION:223 S
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240421T194000
+DTEND:20240421T211500
+SUMMARY:Mzw (P)
+LOCATION:223 S
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Projekt\nNr zajęć: 2\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240427T080000
+DTEND:20240427T093500
+SUMMARY:Wmo (w)
+LOCATION:308 S
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240427T095000
+DTEND:20240427T112500
+SUMMARY:Zui (P)
+LOCATION:224 S
+DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 1\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240427T114000
+DTEND:20240427T131500
+SUMMARY:Zui (P)
+LOCATION:224 S
+DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 2\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240427T133000
+DTEND:20240427T150500
+SUMMARY:ak (ć)
+LOCATION:309 S
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240427T160000
+DTEND:20240427T173500
+SUMMARY:No (L)
+LOCATION:223 S
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240427T175000
+DTEND:20240427T192500
+SUMMARY:ak (ć)
+LOCATION:309 S
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240428T080000
+DTEND:20240428T093500
+SUMMARY:Swp (w)
+LOCATION:203 65
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240428T095000
+DTEND:20240428T112500
+SUMMARY:Ek (w)
+LOCATION:307 S
+DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240428T114000
+DTEND:20240428T131500
+SUMMARY:Ek (w)
+LOCATION:307 S
+DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240428T133000
+DTEND:20240428T150500
+SUMMARY:Esi (w)
+LOCATION:307 S
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240428T160000
+DTEND:20240428T173500
+SUMMARY:Sme. (ć)
+LOCATION:309 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240428T175000
+DTEND:20240428T192500
+SUMMARY:Esi (ć)
+LOCATION:308 S
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240511T080000
+DTEND:20240511T093500
+SUMMARY:Wmo (ć)
+LOCATION:308 S
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: dr inż. Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240511T114000
+DTEND:20240511T131500
+SUMMARY:SBD (L)
+LOCATION:223 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240511T133000
+DTEND:20240511T150500
+SUMMARY:SBD (L)
+LOCATION:223 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240511T160000
+DTEND:20240511T173500
+SUMMARY:No (L)
+LOCATION:226 S
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240512T080000
+DTEND:20240512T093500
+SUMMARY:Mzw (P)
+LOCATION:226 S
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Projekt\nNr zajęć: 3\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240512T095000
+DTEND:20240512T112500
+SUMMARY:Mzw (L)
+LOCATION:226 S
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240512T114000
+DTEND:20240512T131500
+SUMMARY:Ek (ć)
+LOCATION:on-lin
+DESCRIPTION:Ekonomia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240512T133000
+DTEND:20240512T150500
+SUMMARY:Sme. (ć)
+LOCATION:309 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240512T160000
+DTEND:20240512T173500
+SUMMARY:Swp (L)
+LOCATION:106 65
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240512T175000
+DTEND:20240512T192500
+SUMMARY:Swp (L)
+LOCATION:106 65
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240518T080000
+DTEND:20240518T093500
+SUMMARY:Wmo (ć)
+LOCATION:252 S
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: dr inż. Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240518T114000
+DTEND:20240518T131500
+SUMMARY:isi (L)
+LOCATION:227 S
+DESCRIPTION:Integracja systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240518T133000
+DTEND:20240518T150500
+SUMMARY:isi (L)
+LOCATION:227 S
+DESCRIPTION:Integracja systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240518T160000
+DTEND:20240518T173500
+SUMMARY:No (L)
+LOCATION:223 S
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240518T175000
+DTEND:20240518T192500
+SUMMARY:Swp (L)
+LOCATION:106 65
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240518T194000
+DTEND:20240518T211500
+SUMMARY:Swp (L)
+LOCATION:106 65
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240519T080000
+DTEND:20240519T093500
+SUMMARY:Zui (P)
+LOCATION:224 S
+DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 3\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240519T095000
+DTEND:20240519T112500
+SUMMARY:Zui (P)
+LOCATION:224 S
+DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 4\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240519T114000
+DTEND:20240519T131500
+SUMMARY:Esi (ć)
+LOCATION:309 S
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240519T133000
+DTEND:20240519T150500
+SUMMARY:Sme. (ć)
+LOCATION:309 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240525T080000
+DTEND:20240525T093500
+SUMMARY:Wmo (ć)
+LOCATION:252 S
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: dr inż. Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240525T095000
+DTEND:20240525T112500
+SUMMARY:ak (ć)
+LOCATION:309 S
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240525T114000
+DTEND:20240525T131500
+SUMMARY:Mzw (L)
+LOCATION:226 S
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240525T133000
+DTEND:20240525T150500
+SUMMARY:Esi (ć)
+LOCATION:309 S
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240525T160000
+DTEND:20240525T173500
+SUMMARY:No (L)
+LOCATION:227 S
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240525T175000
+DTEND:20240525T192500
+SUMMARY:Esi (L)
+LOCATION:-
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240525T194000
+DTEND:20240525T211500
+SUMMARY:Esi (L)
+LOCATION:-
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240526T080000
+DTEND:20240526T093500
+SUMMARY:Swp (L)
+LOCATION:106 65
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240526T095000
+DTEND:20240526T112500
+SUMMARY:Ek (ć)
+LOCATION:on-lin
+DESCRIPTION:Ekonomia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240526T114000
+DTEND:20240526T131500
+SUMMARY:Sme. (ć)
+LOCATION:309 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240526T133000
+DTEND:20240526T150500
+SUMMARY:isi (L)
+LOCATION:227 S
+DESCRIPTION:Integracja systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240526T160000
+DTEND:20240526T173500
+SUMMARY:SBD (L)
+LOCATION:223 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Arkadiusz Orzeł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240526T175000
+DTEND:20240526T192500
+SUMMARY:SBD (L)
+LOCATION:223 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Arkadiusz Orzeł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240608T080000
+DTEND:20240608T093500
+SUMMARY:Wmo (ć)
+LOCATION:252 S
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5\nProwadzący: dr inż. Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240608T095000
+DTEND:20240608T112500
+SUMMARY:Zui (P)
+LOCATION:224 S
+DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 5\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240608T114000
+DTEND:20240608T131500
+SUMMARY:Zui (P)
+LOCATION:224 S
+DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 6\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240608T133000
+DTEND:20240608T150500
+SUMMARY:ak (ć)
+LOCATION:309 S
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240608T160000
+DTEND:20240608T173500
+SUMMARY:No (L)
+LOCATION:223 S
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240608T175000
+DTEND:20240608T192500
+SUMMARY:Mzw (P)
+LOCATION:226 S
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Projekt\nNr zajęć: 4\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240609T080000
+DTEND:20240609T093500
+SUMMARY:SBD (w)
+LOCATION:308 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240609T095000
+DTEND:20240609T112500
+SUMMARY:No (w)
+LOCATION:308 S
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240609T114000
+DTEND:20240609T131500
+SUMMARY:Ek (w)
+LOCATION:308 S
+DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240609T133000
+DTEND:20240609T150500
+SUMMARY:Sme. (ć)
+LOCATION:309 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240609T160000
+DTEND:20240609T173500
+SUMMARY:isi (L)
+LOCATION:227 S
+DESCRIPTION:Integracja systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240609T175000
+DTEND:20240609T192500
+SUMMARY:ak (ć)
+LOCATION:308 S
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240629T080000
+DTEND:20240629T093500
+SUMMARY:Swp (E)
+LOCATION:203 65
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240629T095000
+DTEND:20240629T112500
+SUMMARY:Wmo (E)
+LOCATION:308 S
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr inż. Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240629T114000
+DTEND:20240629T131500
+SUMMARY:ak (Inne)
+LOCATION:314 S
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240706T080000
+DTEND:20240706T093500
+SUMMARY:Swp (Inne)
+LOCATION:203 65
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240706T095000
+DTEND:20240706T112500
+SUMMARY:Wmo (Inne)
+LOCATION:308 S
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr inż. Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240706T114000
+DTEND:20240706T131500
+SUMMARY:SBD (Inne)
+LOCATION:316 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240706T133000
+DTEND:20240706T150500
+SUMMARY:ak (Inne)
+LOCATION:314 S
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240707T160000
+DTEND:20240707T173500
+SUMMARY:Sme. (Inne)
+LOCATION:316 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240921T080000
+DTEND:20240921T093500
+SUMMARY:ak (Inne)
+LOCATION:314 S
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Nieznany\nNr zajęć: 3\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240921T095000
+DTEND:20240921T112500
+SUMMARY:Swp (Inne)
+LOCATION:203 65
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240921T114000
+DTEND:20240921T131500
+SUMMARY:Wmo (Inne)
+LOCATION:308 S
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: dr inż. Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240921T133000
+DTEND:20240921T150500
+SUMMARY:SBD (Inne)
+LOCATION:316 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240929T080000
+DTEND:20240929T093500
+SUMMARY:ak (Inne)
+LOCATION:314 S
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Nieznany\nNr zajęć: 4\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241005T080000
+DTEND:20241005T093500
+SUMMARY:mo (P)
+LOCATION:226 S
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 1\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241005T095000
+DTEND:20241005T112500
+SUMMARY:mo (P)
+LOCATION:226 S
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 2\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241005T114000
+DTEND:20241005T131500
+SUMMARY:Twinf (w)
+LOCATION:314 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący:  Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241005T133000
+DTEND:20241005T150500
+SUMMARY:Twinf (w)
+LOCATION:314 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący:  Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241005T160000
+DTEND:20241005T173500
+SUMMARY:ZPr (w)
+LOCATION:308 S
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241005T175000
+DTEND:20241005T192500
+SUMMARY:ZPr (w)
+LOCATION:308 S
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241006T080000
+DTEND:20241006T093500
+SUMMARY:Soc (w)
+LOCATION:309 S
+DESCRIPTION:Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241006T095000
+DTEND:20241006T112500
+SUMMARY:Soc (w)
+LOCATION:309 S
+DESCRIPTION:Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241019T095000
+DTEND:20241019T112500
+SUMMARY:Soc (w)
+LOCATION:308 S
+DESCRIPTION:Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241019T114000
+DTEND:20241019T131500
+SUMMARY:Soc (w)
+LOCATION:308 S
+DESCRIPTION:Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241019T133000
+DTEND:20241019T150500
+SUMMARY:Twinf (w)
+LOCATION:307 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący:  Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241019T160000
+DTEND:20241019T173500
+SUMMARY:Twinf (w)
+LOCATION:307 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący:  Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241020T114000
+DTEND:20241020T131500
+SUMMARY:ZPr (w)
+LOCATION:308 S
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241020T133000
+DTEND:20241020T150500
+SUMMARY:ZPr (L)
+LOCATION:224 S
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241026T095000
+DTEND:20241026T112500
+SUMMARY:Twinf (L)
+LOCATION:226 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241026T114000
+DTEND:20241026T131500
+SUMMARY:Twinf (L)
+LOCATION:226 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241026T133000
+DTEND:20241026T150500
+SUMMARY:Soc (w)
+LOCATION:308 S
+DESCRIPTION:Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241027T114000
+DTEND:20241027T131500
+SUMMARY:ZPr (w)
+LOCATION:308 S
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241027T133000
+DTEND:20241027T150500
+SUMMARY:ZPr (L)
+LOCATION:224 S
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241027T160000
+DTEND:20241027T173500
+SUMMARY:ZPr (L)
+LOCATION:224 S
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241027T175000
+DTEND:20241027T192500
+SUMMARY:mo (P)
+LOCATION:226 S
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 3\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241027T194000
+DTEND:20241027T211500
+SUMMARY:mo (P)
+LOCATION:226 S
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 4\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241109T095000
+DTEND:20241109T112500
+SUMMARY:Soc (ć)
+LOCATION:308 S
+DESCRIPTION:Socjologia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241109T114000
+DTEND:20241109T131500
+SUMMARY:Soc (ć)
+LOCATION:308 S
+DESCRIPTION:Socjologia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241109T133000
+DTEND:20241109T150500
+SUMMARY:Twinf (L)
+LOCATION:224 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241109T160000
+DTEND:20241109T173500
+SUMMARY:Twinf (L)
+LOCATION:224 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241110T114000
+DTEND:20241110T131500
+SUMMARY:mo (P)
+LOCATION:224 S
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 5\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241110T133000
+DTEND:20241110T150500
+SUMMARY:mo (P)
+LOCATION:224 S
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 6\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241110T160000
+DTEND:20241110T173500
+SUMMARY:ZPr (w)
+LOCATION:308 S
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241123T080000
+DTEND:20241123T093500
+SUMMARY:Twinf (L)
+LOCATION:226 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241123T095000
+DTEND:20241123T112500
+SUMMARY:Twinf (L)
+LOCATION:226 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241123T114000
+DTEND:20241123T131500
+SUMMARY:mo (P)
+LOCATION:224 S
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 7\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241123T133000
+DTEND:20241123T150500
+SUMMARY:mo (P)
+LOCATION:224 S
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 8\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241123T160000
+DTEND:20241123T173500
+SUMMARY:ZPr (L)
+LOCATION:224 S
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241123T175000
+DTEND:20241123T192500
+SUMMARY:ZPr (L)
+LOCATION:224 S
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241124T114000
+DTEND:20241124T131500
+SUMMARY:mo (P)
+LOCATION:226 S
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 9\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241124T133000
+DTEND:20241124T150500
+SUMMARY:mo (P)
+LOCATION:226 S
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 10\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+END:VCALENDAR
