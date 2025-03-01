@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Plany zajęć WCY</title>
+    <title>Calendar Download</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -45,7 +45,7 @@
             <!-- Grupy zostaną tutaj dynamicznie wczytane -->
         </select>
         <br>
-        <button onclick="downloadICS()">📥 Pobierz Kalendarz</button>
+        <button onclick="downloadICS()">setup your calendar</button>
     </div>
 
     <script>
@@ -58,7 +58,7 @@
                 let select = document.getElementById("group-select");
                 groups.forEach(group => {
                     let option = document.createElement("option");
-                    option.value = group.replace(/_/g, "*");  // Zamiana podłóg na gwiazdki
+                    option.value = group;
                     option.textContent = group;
                     select.appendChild(option);
                 });
@@ -74,9 +74,7 @@
                 return;
             }
             
-            let fixedGroupName = selectedGroup.replace(/\*/g, "_");  // Zamiana gwiazdek na podłogi w nazwie pliku
-            let icsFileUrl = `data/schedules/${encodeURIComponent(fixedGroupName)}.ics`;
-
+            let icsFileUrl = `web/static/data/schedules/${encodeURIComponent(selectedGroup)}.ics`;
             console.log("Pobieranie:", icsFileUrl);
             window.location.href = icsFileUrl;
         }
