@@ -1,0 +1,1623 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//scheduleWCY//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:WCY21KC1S1
+BEGIN:VEVENT
+DTSTART:20240226T095000
+DTEND:20240226T112500
+SUMMARY:Bsbp (w)
+LOCATION:201 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący:  Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240226T114000
+DTEND:20240226T131500
+SUMMARY:Sbs (w)
+LOCATION:201 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący:  Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240228T114000
+DTEND:20240228T131500
+SUMMARY:zsw (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240228T133000
+DTEND:20240228T150500
+SUMMARY:zsw (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240301T080000
+DTEND:20240301T093500
+SUMMARY:zsw (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240301T095000
+DTEND:20240301T112500
+SUMMARY:SKII (w)
+LOCATION:309 S
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240304T080000
+DTEND:20240304T093500
+SUMMARY:TpsT (w)
+LOCATION:203 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240304T095000
+DTEND:20240304T112500
+SUMMARY:Bsbp (w)
+LOCATION:201 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący:  Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240304T114000
+DTEND:20240304T131500
+SUMMARY:Sbs (w)
+LOCATION:201 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący:  Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240306T080000
+DTEND:20240306T093500
+SUMMARY:zsw (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240306T095000
+DTEND:20240306T112500
+SUMMARY:Ppz (w)
+LOCATION:203 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240306T114000
+DTEND:20240306T131500
+SUMMARY:Sbs (L)
+LOCATION:120 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240306T133000
+DTEND:20240306T150500
+SUMMARY:Sbs (L)
+LOCATION:120 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240308T095000
+DTEND:20240308T112500
+SUMMARY:SKII (w)
+LOCATION:309 S
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240311T095000
+DTEND:20240311T112500
+SUMMARY:Bsbp (w)
+LOCATION:201 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący:  Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240311T114000
+DTEND:20240311T131500
+SUMMARY:Sbs (w)
+LOCATION:201 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący:  Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240312T080000
+DTEND:20240312T093500
+SUMMARY:Sbs (L)
+LOCATION:120 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240312T095000
+DTEND:20240312T112500
+SUMMARY:Sbs (L)
+LOCATION:120 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240312T114000
+DTEND:20240312T131500
+SUMMARY:Sbs (L)
+LOCATION:120 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240312T133000
+DTEND:20240312T150500
+SUMMARY:Sbs (L)
+LOCATION:120 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240313T095000
+DTEND:20240313T112500
+SUMMARY:Ppz (w)
+LOCATION:203 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240313T114000
+DTEND:20240313T131500
+SUMMARY:Sp (Inne)
+LOCATION:218 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240314T160000
+DTEND:20240314T173500
+SUMMARY:SKII (L)
+LOCATION:120 65
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Adam Rabiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240314T175000
+DTEND:20240314T192500
+SUMMARY:SKII (L)
+LOCATION:120 65
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Adam Rabiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240315T095000
+DTEND:20240315T112500
+SUMMARY:SKII (w)
+LOCATION:309 S
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240318T080000
+DTEND:20240318T093500
+SUMMARY:TpsT (w)
+LOCATION:203 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240318T095000
+DTEND:20240318T112500
+SUMMARY:Sp (Inne)
+LOCATION:101 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240319T080000
+DTEND:20240319T093500
+SUMMARY:Bsbp (L)
+LOCATION:125 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240319T095000
+DTEND:20240319T112500
+SUMMARY:Bsbp (L)
+LOCATION:125 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240319T133000
+DTEND:20240319T150500
+SUMMARY:Sws (Inne)
+LOCATION:314 S
+DESCRIPTION:Spotkanie organizacyjne - (Seminarium) -\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240320T080000
+DTEND:20240320T093500
+SUMMARY:zsw (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240322T095000
+DTEND:20240322T112500
+SUMMARY:SKII (w)
+LOCATION:309 S
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240322T133000
+DTEND:20240322T150500
+SUMMARY:TpsT (ć)
+LOCATION:101 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240322T160000
+DTEND:20240322T173500
+SUMMARY:SKII (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Adam Rabiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240322T175000
+DTEND:20240322T192500
+SUMMARY:SKII (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Adam Rabiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240325T080000
+DTEND:20240325T093500
+SUMMARY:TpsT (w)
+LOCATION:308 S
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240325T095000
+DTEND:20240325T112500
+SUMMARY:Sp (Inne)
+LOCATION:101 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: Nieznany\nNr zajęć: 3\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240325T114000
+DTEND:20240325T131500
+SUMMARY:Sbs (w)
+LOCATION:201 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący:  Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240328T095000
+DTEND:20240328T112500
+SUMMARY:Oni (w)
+LOCATION:308 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240328T114000
+DTEND:20240328T131500
+SUMMARY:Asie (w)
+LOCATION:308 S
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240328T133000
+DTEND:20240328T150500
+SUMMARY:Asie (w)
+LOCATION:308 S
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240328T160000
+DTEND:20240328T173500
+SUMMARY:Sbs (L)
+LOCATION:120 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240328T175000
+DTEND:20240328T192500
+SUMMARY:Sbs (L)
+LOCATION:120 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240403T160000
+DTEND:20240403T173500
+SUMMARY:zsw (L)
+LOCATION:120 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240403T175000
+DTEND:20240403T192500
+SUMMARY:zsw (L)
+LOCATION:120 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240404T133000
+DTEND:20240404T150500
+SUMMARY:Sp (Inne)
+LOCATION:101 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: Nieznany\nNr zajęć: 4\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240404T160000
+DTEND:20240404T173500
+SUMMARY:Asie (L)
+LOCATION:011 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240404T175000
+DTEND:20240404T192500
+SUMMARY:Asie (L)
+LOCATION:011 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240405T095000
+DTEND:20240405T112500
+SUMMARY:SKII (w)
+LOCATION:309 S
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240405T160000
+DTEND:20240405T173500
+SUMMARY:TpsT (ć)
+LOCATION:101 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240408T080000
+DTEND:20240408T093500
+SUMMARY:TpsT (w)
+LOCATION:203 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240408T095000
+DTEND:20240408T112500
+SUMMARY:Bsbp (w)
+LOCATION:101 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący:  Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240408T114000
+DTEND:20240408T131500
+SUMMARY:Sbs (w)
+LOCATION:201 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący:  Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240408T133000
+DTEND:20240408T150500
+SUMMARY:zsw (L)
+LOCATION:120 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240408T160000
+DTEND:20240408T173500
+SUMMARY:zsw (L)
+LOCATION:120 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240409T095000
+DTEND:20240409T112500
+SUMMARY:Oni (w)
+LOCATION:314 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240409T114000
+DTEND:20240409T131500
+SUMMARY:Oni (w)
+LOCATION:314 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240409T160000
+DTEND:20240409T173500
+SUMMARY:Asie (w)
+LOCATION:313 S
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240410T080000
+DTEND:20240410T093500
+SUMMARY:zsw (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240410T095000
+DTEND:20240410T112500
+SUMMARY:Ppz (w)
+LOCATION:203 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240410T114000
+DTEND:20240410T131500
+SUMMARY:Asie (w)
+LOCATION:309 S
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240410T133000
+DTEND:20240410T150500
+SUMMARY:Asie (w)
+LOCATION:309 S
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240410T160000
+DTEND:20240410T173500
+SUMMARY:Asie (L)
+LOCATION:011 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240410T175000
+DTEND:20240410T192500
+SUMMARY:Asie (L)
+LOCATION:011 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240412T095000
+DTEND:20240412T112500
+SUMMARY:Ppz (L)
+LOCATION:106 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240412T114000
+DTEND:20240412T131500
+SUMMARY:Ppz (L)
+LOCATION:106 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240412T133000
+DTEND:20240412T150500
+SUMMARY:TpsT (ć)
+LOCATION:201 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240412T160000
+DTEND:20240412T173500
+SUMMARY:TpsT (L)
+LOCATION:121 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240412T175000
+DTEND:20240412T192500
+SUMMARY:TpsT (L)
+LOCATION:121 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240415T080000
+DTEND:20240415T093500
+SUMMARY:TpsT (w)
+LOCATION:309 S
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240415T095000
+DTEND:20240415T112500
+SUMMARY:Bsbp (w)
+LOCATION:101 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący:  Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240415T160000
+DTEND:20240415T173500
+SUMMARY:Asie (w)
+LOCATION:317 S
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240415T175000
+DTEND:20240415T192500
+SUMMARY:Asie (w)
+LOCATION:317 S
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240416T133000
+DTEND:20240416T150500
+SUMMARY:zsw (w)
+LOCATION:314 S
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240417T095000
+DTEND:20240417T112500
+SUMMARY:Ppz (w)
+LOCATION:203 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240417T114000
+DTEND:20240417T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240417T160000
+DTEND:20240417T173500
+SUMMARY:Asie (L)
+LOCATION:011 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240417T175000
+DTEND:20240417T192500
+SUMMARY:Asie (L)
+LOCATION:011 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240418T114000
+DTEND:20240418T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240418T133000
+DTEND:20240418T150500
+SUMMARY:Asie (w)
+LOCATION:308 S
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240419T080000
+DTEND:20240419T093500
+SUMMARY:zsw (L)
+LOCATION:120 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240419T095000
+DTEND:20240419T112500
+SUMMARY:zsw (L)
+LOCATION:120 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240419T114000
+DTEND:20240419T131500
+SUMMARY:Sbs (L)
+LOCATION:120 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240419T133000
+DTEND:20240419T150500
+SUMMARY:Sbs (L)
+LOCATION:120 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240419T160000
+DTEND:20240419T173500
+SUMMARY:TpsT (L)
+LOCATION:011 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240419T175000
+DTEND:20240419T192500
+SUMMARY:TpsT (L)
+LOCATION:011 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240422T080000
+DTEND:20240422T093500
+SUMMARY:TpsT (w)
+LOCATION:203 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240422T095000
+DTEND:20240422T112500
+SUMMARY:Bsbp (w)
+LOCATION:201 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący:  Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240422T114000
+DTEND:20240422T131500
+SUMMARY:Ppz (L)
+LOCATION:106 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240422T133000
+DTEND:20240422T150500
+SUMMARY:Ppz (L)
+LOCATION:106 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240423T095000
+DTEND:20240423T112500
+SUMMARY:Oni (w)
+LOCATION:314 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240423T114000
+DTEND:20240423T131500
+SUMMARY:Oni (w)
+LOCATION:314 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240423T133000
+DTEND:20240423T150500
+SUMMARY:Sws (Inne)
+LOCATION:313 S
+DESCRIPTION:Spotkanie organizacyjne - (Seminarium) -\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240423T175000
+DTEND:20240423T192500
+SUMMARY:Bsbp (L)
+LOCATION:121 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240423T194000
+DTEND:20240423T211500
+SUMMARY:Bsbp (L)
+LOCATION:121 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240424T080000
+DTEND:20240424T093500
+SUMMARY:zsw (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240424T095000
+DTEND:20240424T112500
+SUMMARY:Ppz (w)
+LOCATION:203 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240424T160000
+DTEND:20240424T173500
+SUMMARY:zsw (L)
+LOCATION:120 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240424T175000
+DTEND:20240424T192500
+SUMMARY:zsw (L)
+LOCATION:120 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240425T133000
+DTEND:20240425T150500
+SUMMARY:Sp (Inne)
+LOCATION:205 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: Nieznany\nNr zajęć: 5\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240425T160000
+DTEND:20240425T173500
+SUMMARY:Asie (L)
+LOCATION:011 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240425T175000
+DTEND:20240425T192500
+SUMMARY:Asie (L)
+LOCATION:011 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240429T080000
+DTEND:20240429T093500
+SUMMARY:zsw (L)
+LOCATION:120 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240429T095000
+DTEND:20240429T112500
+SUMMARY:zsw (L)
+LOCATION:120 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240430T095000
+DTEND:20240430T112500
+SUMMARY:Oni (w)
+LOCATION:314 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240430T114000
+DTEND:20240430T131500
+SUMMARY:Oni (w)
+LOCATION:314 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240506T080000
+DTEND:20240506T093500
+SUMMARY:zsw (L)
+LOCATION:120 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 11\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240506T095000
+DTEND:20240506T112500
+SUMMARY:zsw (L)
+LOCATION:120 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 12\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240507T114000
+DTEND:20240507T131500
+SUMMARY:Ppz (L)
+LOCATION:125 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240507T133000
+DTEND:20240507T150500
+SUMMARY:Ppz (L)
+LOCATION:125 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240508T080000
+DTEND:20240508T093500
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 1\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240508T095000
+DTEND:20240508T112500
+SUMMARY:zsw (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 9\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240508T114000
+DTEND:20240508T131500
+SUMMARY:Sp (Inne)
+LOCATION:205 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: Nieznany\nNr zajęć: 6\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240509T114000
+DTEND:20240509T131500
+SUMMARY:Oni (L)
+LOCATION:236 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240509T160000
+DTEND:20240509T173500
+SUMMARY:Asie (L)
+LOCATION:011 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący:  Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240509T175000
+DTEND:20240509T192500
+SUMMARY:Asie (L)
+LOCATION:011 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący:  Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240510T095000
+DTEND:20240510T112500
+SUMMARY:TpsT (L)
+LOCATION:011 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240510T114000
+DTEND:20240510T131500
+SUMMARY:TpsT (L)
+LOCATION:011 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240514T133000
+DTEND:20240514T150500
+SUMMARY:zsw (L)
+LOCATION:120 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 13\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240514T160000
+DTEND:20240514T173500
+SUMMARY:zsw (L)
+LOCATION:120 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 14\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240514T175000
+DTEND:20240514T192500
+SUMMARY:SKII (L)
+LOCATION:120 65
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Adam Rabiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240514T194000
+DTEND:20240514T211500
+SUMMARY:SKII (L)
+LOCATION:120 65
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Adam Rabiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240515T114000
+DTEND:20240515T131500
+SUMMARY:Sp (Inne)
+LOCATION:101 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: Nieznany\nNr zajęć: 7\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240515T133000
+DTEND:20240515T150500
+SUMMARY:Oni (L)
+LOCATION:236 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240515T160000
+DTEND:20240515T173500
+SUMMARY:Oni (L)
+LOCATION:236 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240515T175000
+DTEND:20240515T192500
+SUMMARY:Asie (L)
+LOCATION:011 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 11\nProwadzący:  Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240515T194000
+DTEND:20240515T211500
+SUMMARY:Asie (L)
+LOCATION:011 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 12\nProwadzący:  Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240516T080000
+DTEND:20240516T093500
+SUMMARY:Bsbp (L)
+LOCATION:121 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240516T095000
+DTEND:20240516T112500
+SUMMARY:Bsbp (L)
+LOCATION:121 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240517T133000
+DTEND:20240517T150500
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 2\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240517T160000
+DTEND:20240517T173500
+SUMMARY:TpsT (L)
+LOCATION:120 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240517T175000
+DTEND:20240517T192500
+SUMMARY:TpsT (L)
+LOCATION:120 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240521T133000
+DTEND:20240521T150500
+SUMMARY:Sws (Inne)
+LOCATION:313 S
+DESCRIPTION:Spotkanie organizacyjne - (Seminarium) -\nRodzaj zajęć: Nieznany\nNr zajęć: 3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240522T095000
+DTEND:20240522T112500
+SUMMARY:zsw (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 10\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240522T133000
+DTEND:20240522T150500
+SUMMARY:Oni (L)
+LOCATION:236 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240522T160000
+DTEND:20240522T173500
+SUMMARY:Oni (L)
+LOCATION:236 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240522T175000
+DTEND:20240522T192500
+SUMMARY:Asie (L)
+LOCATION:011 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 13\nProwadzący:  Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240522T194000
+DTEND:20240522T211500
+SUMMARY:Asie (L)
+LOCATION:011 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 14\nProwadzący:  Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240524T080000
+DTEND:20240524T093500
+SUMMARY:Sp (Inne)
+LOCATION:101 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: Nieznany\nNr zajęć: 8\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240524T114000
+DTEND:20240524T131500
+SUMMARY:Ppz (L)
+LOCATION:125 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240524T133000
+DTEND:20240524T150500
+SUMMARY:Ppz (L)
+LOCATION:125 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240524T160000
+DTEND:20240524T173500
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 3\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240524T175000
+DTEND:20240524T192500
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 4\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240528T080000
+DTEND:20240528T093500
+SUMMARY:zsw (L)
+LOCATION:120 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 15\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240528T095000
+DTEND:20240528T112500
+SUMMARY:zsw (L)
+LOCATION:120 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 16\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240528T114000
+DTEND:20240528T131500
+SUMMARY:Oni (L)
+LOCATION:236 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240528T133000
+DTEND:20240528T150500
+SUMMARY:Oni (L)
+LOCATION:236 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240604T175000
+DTEND:20240604T192500
+SUMMARY:zsw (L)
+LOCATION:120 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 17\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240604T194000
+DTEND:20240604T211500
+SUMMARY:zsw (L)
+LOCATION:120 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 18\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240605T114000
+DTEND:20240605T131500
+SUMMARY:Ppz (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240605T133000
+DTEND:20240605T150500
+SUMMARY:Ppz (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240605T160000
+DTEND:20240605T173500
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 5\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240605T175000
+DTEND:20240605T192500
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 6\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240606T175000
+DTEND:20240606T192500
+SUMMARY:SKII (L)
+LOCATION:120 65
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Adam Rabiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240606T194000
+DTEND:20240606T211500
+SUMMARY:SKII (L)
+LOCATION:120 65
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Adam Rabiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240607T160000
+DTEND:20240607T173500
+SUMMARY:TpsT (L)
+LOCATION:106 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240607T175000
+DTEND:20240607T192500
+SUMMARY:TpsT (L)
+LOCATION:106 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240611T114000
+DTEND:20240611T131500
+SUMMARY:Bsbp (L)
+LOCATION:125 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240611T133000
+DTEND:20240611T150500
+SUMMARY:Bsbp (L)
+LOCATION:125 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240612T114000
+DTEND:20240612T131500
+SUMMARY:zsw (L)
+LOCATION:120 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 19\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240612T133000
+DTEND:20240612T150500
+SUMMARY:zsw (L)
+LOCATION:120 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 20\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240613T160000
+DTEND:20240613T173500
+SUMMARY:Sp (Inne)
+LOCATION:204 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: Nieznany\nNr zajęć: 9\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240613T175000
+DTEND:20240613T192500
+SUMMARY:SKII (L)
+LOCATION:120 65
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący:  Adam Rabiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240613T194000
+DTEND:20240613T211500
+SUMMARY:SKII (L)
+LOCATION:120 65
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący:  Adam Rabiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240614T160000
+DTEND:20240614T173500
+SUMMARY:TpsT (L)
+LOCATION:106 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240614T175000
+DTEND:20240614T192500
+SUMMARY:TpsT (L)
+LOCATION:106 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 12\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240617T095000
+DTEND:20240617T112500
+SUMMARY:TpsT (w)
+LOCATION:237 S
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240618T095000
+DTEND:20240618T112500
+SUMMARY:Bsbp (w)
+LOCATION:101 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący:  Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240618T114000
+DTEND:20240618T131500
+SUMMARY:Sp (Inne)
+LOCATION:204 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: Nieznany\nNr zajęć: 10\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240618T133000
+DTEND:20240618T150500
+SUMMARY:Sws (Inne)
+LOCATION:314 S
+DESCRIPTION:Spotkanie organizacyjne - (Seminarium) -\nRodzaj zajęć: Nieznany\nNr zajęć: 4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240620T175000
+DTEND:20240620T192500
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 7\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240620T194000
+DTEND:20240620T211500
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 8\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240628T114000
+DTEND:20240628T131500
+SUMMARY:TpsT (E)
+LOCATION:120 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240628T133000
+DTEND:20240628T150500
+SUMMARY:TpsT (E)
+LOCATION:120 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240704T080000
+DTEND:20240704T093500
+SUMMARY:zsw (E)
+LOCATION:121 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240704T095000
+DTEND:20240704T112500
+SUMMARY:zsw (E)
+LOCATION:121 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240705T095000
+DTEND:20240705T112500
+SUMMARY:Asie (Inne)
+LOCATION:313 S
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240917T095000
+DTEND:20240917T112500
+SUMMARY:zsw (Inne)
+LOCATION:121 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240919T175000
+DTEND:20240919T192500
+SUMMARY:Wpp (Inne)
+LOCATION:106 65
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240923T080000
+DTEND:20240923T093500
+SUMMARY:TpsT (Inne)
+LOCATION:120 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240923T160000
+DTEND:20240923T173500
+SUMMARY:Wpp (Inne)
+LOCATION:120 65
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący:  Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240924T095000
+DTEND:20240924T112500
+SUMMARY:zsw (Inne)
+LOCATION:121 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240926T080000
+DTEND:20240926T093500
+SUMMARY:TpsT (Inne)
+LOCATION:120 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240926T133000
+DTEND:20240926T150500
+SUMMARY:Wpp (Inne)
+LOCATION:106 65
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241002T080000
+DTEND:20241002T093500
+SUMMARY:pzST (P)
+LOCATION:106 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 1\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241002T095000
+DTEND:20241002T112500
+SUMMARY:pzST (P)
+LOCATION:106 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 2\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241009T114000
+DTEND:20241009T131500
+SUMMARY:Ztel (w)
+LOCATION:101 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241015T080000
+DTEND:20241015T093500
+SUMMARY:pzST (P)
+LOCATION:121 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 3\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241015T095000
+DTEND:20241015T112500
+SUMMARY:pzST (P)
+LOCATION:121 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 4\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241016T080000
+DTEND:20241016T093500
+SUMMARY:Ztel (L)
+LOCATION:120 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241016T095000
+DTEND:20241016T112500
+SUMMARY:Ztel (L)
+LOCATION:120 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241016T114000
+DTEND:20241016T131500
+SUMMARY:Ztel (w)
+LOCATION:101 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241016T133000
+DTEND:20241016T150500
+SUMMARY:pzST (P)
+LOCATION:011 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 5\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241016T160000
+DTEND:20241016T173500
+SUMMARY:pzST (P)
+LOCATION:011 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 6\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241017T114000
+DTEND:20241017T131500
+SUMMARY:Ztel (L)
+LOCATION:120 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241017T133000
+DTEND:20241017T150500
+SUMMARY:Ztel (L)
+LOCATION:120 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241023T080000
+DTEND:20241023T093500
+SUMMARY:pzST (P)
+LOCATION:011 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 7\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241023T095000
+DTEND:20241023T112500
+SUMMARY:pzST (P)
+LOCATION:011 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 8\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241023T114000
+DTEND:20241023T131500
+SUMMARY:Ztel (w)
+LOCATION:101 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241029T080000
+DTEND:20241029T093500
+SUMMARY:pzST (P)
+LOCATION:121 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 9\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241029T095000
+DTEND:20241029T112500
+SUMMARY:pzST (P)
+LOCATION:121 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 10\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241029T133000
+DTEND:20241029T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241030T114000
+DTEND:20241030T131500
+SUMMARY:Ztel (w)
+LOCATION:101 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241105T080000
+DTEND:20241105T093500
+SUMMARY:pzST (P)
+LOCATION:121 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 11\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241105T095000
+DTEND:20241105T112500
+SUMMARY:pzST (P)
+LOCATION:121 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241106T080000
+DTEND:20241106T093500
+SUMMARY:pzST (P)
+LOCATION:125 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 13\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241106T095000
+DTEND:20241106T112500
+SUMMARY:pzST (P)
+LOCATION:125 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 14\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241107T080000
+DTEND:20241107T093500
+SUMMARY:Ztel (L)
+LOCATION:120 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241107T095000
+DTEND:20241107T112500
+SUMMARY:Ztel (L)
+LOCATION:120 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241107T114000
+DTEND:20241107T131500
+SUMMARY:pzST (P)
+LOCATION:011 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 15\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241107T133000
+DTEND:20241107T150500
+SUMMARY:pzST (P)
+LOCATION:011 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 16\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241112T114000
+DTEND:20241112T131500
+SUMMARY:Ztel (L)
+LOCATION:120 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241112T133000
+DTEND:20241112T150500
+SUMMARY:Ztel (L)
+LOCATION:120 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241113T080000
+DTEND:20241113T093500
+SUMMARY:pzST (P)
+LOCATION:106 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 17\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241113T095000
+DTEND:20241113T112500
+SUMMARY:pzST (P)
+LOCATION:106 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 18\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241113T114000
+DTEND:20241113T131500
+SUMMARY:Ztel (w)
+LOCATION:101 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241119T114000
+DTEND:20241119T131500
+SUMMARY:Ztel (L)
+LOCATION:120 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241119T133000
+DTEND:20241119T150500
+SUMMARY:Ztel (L)
+LOCATION:120 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241120T080000
+DTEND:20241120T093500
+SUMMARY:pzST (P)
+LOCATION:011 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 19\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241120T095000
+DTEND:20241120T112500
+SUMMARY:pzST (P)
+LOCATION:011 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 20\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241120T114000
+DTEND:20241120T131500
+SUMMARY:Ztel (w)
+LOCATION:101 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241126T114000
+DTEND:20241126T131500
+SUMMARY:Ztel (L)
+LOCATION:120 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 11\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241126T133000
+DTEND:20241126T150500
+SUMMARY:Ztel (L)
+LOCATION:120 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 12\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241127T095000
+DTEND:20241127T112500
+SUMMARY:Ztel (w)
+LOCATION:101 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241127T114000
+DTEND:20241127T131500
+SUMMARY:pzST (P)
+LOCATION:011 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 21\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241127T133000
+DTEND:20241127T150500
+SUMMARY:pzST (P)
+LOCATION:011 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 22\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241128T080000
+DTEND:20241128T093500
+SUMMARY:Ztel (L)
+LOCATION:120 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 13\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241128T095000
+DTEND:20241128T112500
+SUMMARY:Ztel (L)
+LOCATION:120 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 14\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241128T114000
+DTEND:20241128T131500
+SUMMARY:Ztel (L)
+LOCATION:120 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 15\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241211T095000
+DTEND:20241211T112500
+SUMMARY:Ztel (E)
+LOCATION:201 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250108T160000
+DTEND:20250108T173500
+SUMMARY:Ztel (Inne)
+LOCATION:101 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+END:VCALENDAR

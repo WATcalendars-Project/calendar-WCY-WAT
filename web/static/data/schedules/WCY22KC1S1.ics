@@ -1,0 +1,2764 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//scheduleWCY//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:WCY22KC1S1
+BEGIN:VEVENT
+DTSTART:20241001T114000
+DTEND:20241001T131500
+SUMMARY:PSy (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241001T133000
+DTEND:20241001T150500
+SUMMARY:ZKwI (w)
+LOCATION:317 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241002T080000
+DTEND:20241002T093500
+SUMMARY:PBI (w)
+LOCATION:313 S
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Krzysztof Liderman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241002T095000
+DTEND:20241002T112500
+SUMMARY:PBI (w)
+LOCATION:313 S
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Krzysztof Liderman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241002T114000
+DTEND:20241002T131500
+SUMMARY:PSy (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241003T080000
+DTEND:20241003T093500
+SUMMARY:Bpe (w)
+LOCATION:314 S
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241003T095000
+DTEND:20241003T112500
+SUMMARY:Nsk (w)
+LOCATION:317 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241003T133000
+DTEND:20241003T150500
+SUMMARY:JEE-T (w)
+LOCATION:309 S
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241009T114000
+DTEND:20241009T131500
+SUMMARY:SoU (w)
+LOCATION:307 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241009T133000
+DTEND:20241009T150500
+SUMMARY:SoU (w)
+LOCATION:307 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241009T160000
+DTEND:20241009T173500
+SUMMARY:ZKwI (w)
+LOCATION:316 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241010T095000
+DTEND:20241010T112500
+SUMMARY:Nsk (w)
+LOCATION:316 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241010T114000
+DTEND:20241010T131500
+SUMMARY:Nsk (w)
+LOCATION:316 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241010T133000
+DTEND:20241010T150500
+SUMMARY:JEE-T (w)
+LOCATION:309 S
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241010T160000
+DTEND:20241010T173500
+SUMMARY:PO (Inne)
+LOCATION:307 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr inż. Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241011T080000
+DTEND:20241011T093500
+SUMMARY:Bpe (w)
+LOCATION:317 S
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241011T114000
+DTEND:20241011T131500
+SUMMARY:Est (w)
+LOCATION:203 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241014T095000
+DTEND:20241014T112500
+SUMMARY:PZiP (w)
+LOCATION:317 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241016T095000
+DTEND:20241016T112500
+SUMMARY:JEE-T (w)
+LOCATION:308 S
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241016T114000
+DTEND:20241016T131500
+SUMMARY:SoU (w)
+LOCATION:307 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241016T133000
+DTEND:20241016T150500
+SUMMARY:SoU (w)
+LOCATION:307 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241016T160000
+DTEND:20241016T173500
+SUMMARY:ZKwI (w)
+LOCATION:316 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241017T095000
+DTEND:20241017T112500
+SUMMARY:Nsk (w)
+LOCATION:316 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241017T114000
+DTEND:20241017T131500
+SUMMARY:Nsk (w)
+LOCATION:316 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241017T133000
+DTEND:20241017T150500
+SUMMARY:Psy (w)
+LOCATION:313 S
+DESCRIPTION:Psychologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241018T080000
+DTEND:20241018T093500
+SUMMARY:PBI (w)
+LOCATION:313 S
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Krzysztof Liderman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241018T095000
+DTEND:20241018T112500
+SUMMARY:PBI (w)
+LOCATION:313 S
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Krzysztof Liderman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241018T114000
+DTEND:20241018T131500
+SUMMARY:Est (w)
+LOCATION:203 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241018T133000
+DTEND:20241018T150500
+SUMMARY:JEE-T (w)
+LOCATION:309 S
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241018T160000
+DTEND:20241018T173500
+SUMMARY:JEE-T (L)
+LOCATION:125 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241018T175000
+DTEND:20241018T192500
+SUMMARY:JEE-T (L)
+LOCATION:125 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241021T095000
+DTEND:20241021T112500
+SUMMARY:Nsk (w)
+LOCATION:316 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241021T114000
+DTEND:20241021T131500
+SUMMARY:Nsk (w)
+LOCATION:316 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241022T080000
+DTEND:20241022T093500
+SUMMARY:PZiP (ć)
+LOCATION:308 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241022T114000
+DTEND:20241022T131500
+SUMMARY:JEE-T (L)
+LOCATION:011 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241022T133000
+DTEND:20241022T150500
+SUMMARY:JEE-T (L)
+LOCATION:011 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241023T080000
+DTEND:20241023T093500
+SUMMARY:ZKwI (w)
+LOCATION:316 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241023T095000
+DTEND:20241023T112500
+SUMMARY:Psy (ć)
+LOCATION:309 S
+DESCRIPTION:Psychologia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241023T114000
+DTEND:20241023T131500
+SUMMARY:SoU (w)
+LOCATION:307 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241023T133000
+DTEND:20241023T150500
+SUMMARY:SoU (w)
+LOCATION:307 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241024T095000
+DTEND:20241024T112500
+SUMMARY:Bpe (w)
+LOCATION:314 S
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241024T133000
+DTEND:20241024T150500
+SUMMARY:Psy (w)
+LOCATION:313 S
+DESCRIPTION:Psychologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241025T095000
+DTEND:20241025T112500
+SUMMARY:SzOR (Inne)
+LOCATION:078 S
+DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: mgr inż. Alicja Kida
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241025T114000
+DTEND:20241025T131500
+SUMMARY:Est (w)
+LOCATION:203 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241025T133000
+DTEND:20241025T150500
+SUMMARY:SoU (L)
+LOCATION:125 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241025T160000
+DTEND:20241025T173500
+SUMMARY:SoU (L)
+LOCATION:125 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241028T080000
+DTEND:20241028T093500
+SUMMARY:PBI (w)
+LOCATION:317 S
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Krzysztof Liderman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241028T095000
+DTEND:20241028T112500
+SUMMARY:PBI (w)
+LOCATION:317 S
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr inż. Krzysztof Liderman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241029T080000
+DTEND:20241029T093500
+SUMMARY:PZiP (w)
+LOCATION:313 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241029T095000
+DTEND:20241029T112500
+SUMMARY:PZiP (w)
+LOCATION:313 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241029T133000
+DTEND:20241029T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241029T160000
+DTEND:20241029T173500
+SUMMARY:ZKwI (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241029T175000
+DTEND:20241029T192500
+SUMMARY:ZKwI (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241030T080000
+DTEND:20241030T093500
+SUMMARY:ZKwI (w)
+LOCATION:316 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241030T114000
+DTEND:20241030T131500
+SUMMARY:SoU (w)
+LOCATION:307 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241030T133000
+DTEND:20241030T150500
+SUMMARY:SoU (w)
+LOCATION:307 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241030T160000
+DTEND:20241030T173500
+SUMMARY:Psy (ć)
+LOCATION:307 S
+DESCRIPTION:Psychologia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241031T095000
+DTEND:20241031T112500
+SUMMARY:Bpe (w)
+LOCATION:314 S
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241031T114000
+DTEND:20241031T131500
+SUMMARY:JEE-T (w)
+LOCATION:308 S
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241031T133000
+DTEND:20241031T150500
+SUMMARY:Psy (w)
+LOCATION:313 S
+DESCRIPTION:Psychologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241104T080000
+DTEND:20241104T093500
+SUMMARY:PBI (w)
+LOCATION:317 S
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr inż. Krzysztof Liderman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241104T095000
+DTEND:20241104T112500
+SUMMARY:PBI (w)
+LOCATION:317 S
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: dr inż. Krzysztof Liderman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241105T114000
+DTEND:20241105T131500
+SUMMARY:ZKwI (w)
+LOCATION:316 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241105T133000
+DTEND:20241105T150500
+SUMMARY:Est (w)
+LOCATION:203 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241105T160000
+DTEND:20241105T173500
+SUMMARY:Bpe (L)
+LOCATION:106 65
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241105T175000
+DTEND:20241105T192500
+SUMMARY:Bpe (L)
+LOCATION:106 65
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241106T080000
+DTEND:20241106T093500
+SUMMARY:PBI (w)
+LOCATION:317 S
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 9\nProwadzący: dr inż. Krzysztof Liderman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241106T095000
+DTEND:20241106T112500
+SUMMARY:PBI (w)
+LOCATION:317 S
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 10\nProwadzący: dr inż. Krzysztof Liderman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241106T114000
+DTEND:20241106T131500
+SUMMARY:SoU (w)
+LOCATION:307 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 9\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241106T133000
+DTEND:20241106T150500
+SUMMARY:SoU (w)
+LOCATION:307 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 10\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241107T080000
+DTEND:20241107T093500
+SUMMARY:SoU (L)
+LOCATION:125 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241107T095000
+DTEND:20241107T112500
+SUMMARY:SoU (L)
+LOCATION:125 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241107T133000
+DTEND:20241107T150500
+SUMMARY:Psy (w)
+LOCATION:313 S
+DESCRIPTION:Psychologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241108T080000
+DTEND:20241108T093500
+SUMMARY:Est (L)
+LOCATION:011 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241108T095000
+DTEND:20241108T112500
+SUMMARY:Est (L)
+LOCATION:011 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241108T114000
+DTEND:20241108T131500
+SUMMARY:JEE-T (L)
+LOCATION:125 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241108T133000
+DTEND:20241108T150500
+SUMMARY:JEE-T (L)
+LOCATION:125 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241108T160000
+DTEND:20241108T173500
+SUMMARY:Bpe (w)
+LOCATION:316 S
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241112T080000
+DTEND:20241112T093500
+SUMMARY:ZKwI (w)
+LOCATION:316 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241112T133000
+DTEND:20241112T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241113T095000
+DTEND:20241113T112500
+SUMMARY:Swb (w)
+LOCATION:314 S
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241113T114000
+DTEND:20241113T131500
+SUMMARY:Swb (w)
+LOCATION:314 S
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241113T160000
+DTEND:20241113T173500
+SUMMARY:JEE-T (L)
+LOCATION:125 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241113T175000
+DTEND:20241113T192500
+SUMMARY:JEE-T (L)
+LOCATION:125 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241114T080000
+DTEND:20241114T093500
+SUMMARY:PBI (L)
+LOCATION:125 65
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241114T095000
+DTEND:20241114T112500
+SUMMARY:PBI (L)
+LOCATION:125 65
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241114T133000
+DTEND:20241114T150500
+SUMMARY:Psy (w)
+LOCATION:313 S
+DESCRIPTION:Psychologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241115T080000
+DTEND:20241115T093500
+SUMMARY:SoU (L)
+LOCATION:125 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241115T095000
+DTEND:20241115T112500
+SUMMARY:SoU (L)
+LOCATION:125 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241115T114000
+DTEND:20241115T131500
+SUMMARY:Est (w)
+LOCATION:203 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241118T095000
+DTEND:20241118T112500
+SUMMARY:PZiP (w)
+LOCATION:313 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241118T114000
+DTEND:20241118T131500
+SUMMARY:PZiP (w)
+LOCATION:313 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241118T160000
+DTEND:20241118T173500
+SUMMARY:SoU (L)
+LOCATION:125 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241118T175000
+DTEND:20241118T192500
+SUMMARY:SoU (L)
+LOCATION:125 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241119T080000
+DTEND:20241119T093500
+SUMMARY:ZKwI (w)
+LOCATION:316 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241119T114000
+DTEND:20241119T131500
+SUMMARY:PZiP (w)
+LOCATION:317 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241119T133000
+DTEND:20241119T150500
+SUMMARY:PZiP (w)
+LOCATION:317 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241119T160000
+DTEND:20241119T173500
+SUMMARY:ZKwI (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241119T175000
+DTEND:20241119T192500
+SUMMARY:ZKwI (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241120T080000
+DTEND:20241120T093500
+SUMMARY:Est (w)
+LOCATION:203 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241120T095000
+DTEND:20241120T112500
+SUMMARY:Swb (w)
+LOCATION:314 S
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241120T114000
+DTEND:20241120T131500
+SUMMARY:Swb (w)
+LOCATION:314 S
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241120T160000
+DTEND:20241120T173500
+SUMMARY:htm (w)
+LOCATION:203 65
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241120T175000
+DTEND:20241120T192500
+SUMMARY:htm (w)
+LOCATION:203 65
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241121T114000
+DTEND:20241121T131500
+SUMMARY:Est (P)
+LOCATION:011 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 1\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241121T133000
+DTEND:20241121T150500
+SUMMARY:Psy (w)
+LOCATION:313 S
+DESCRIPTION:Psychologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241125T095000
+DTEND:20241125T112500
+SUMMARY:Est (P)
+LOCATION:106 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 2\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241125T114000
+DTEND:20241125T131500
+SUMMARY:JEE-T (L)
+LOCATION:239 S
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241125T133000
+DTEND:20241125T150500
+SUMMARY:JEE-T (L)
+LOCATION:239 S
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241126T080000
+DTEND:20241126T093500
+SUMMARY:ZKwI (w)
+LOCATION:316 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNr zajęć: 9\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241126T095000
+DTEND:20241126T112500
+SUMMARY:Swb (L)
+LOCATION:125 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241126T114000
+DTEND:20241126T131500
+SUMMARY:Swb (L)
+LOCATION:125 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241127T095000
+DTEND:20241127T112500
+SUMMARY:Swb (w)
+LOCATION:317 S
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241127T114000
+DTEND:20241127T131500
+SUMMARY:Swb (w)
+LOCATION:317 S
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241127T160000
+DTEND:20241127T173500
+SUMMARY:htm (w)
+LOCATION:203 65
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241127T175000
+DTEND:20241127T192500
+SUMMARY:htm (w)
+LOCATION:203 65
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241128T095000
+DTEND:20241128T112500
+SUMMARY:Swb (L)
+LOCATION:09 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241128T114000
+DTEND:20241128T131500
+SUMMARY:Swb (L)
+LOCATION:09 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241128T160000
+DTEND:20241128T173500
+SUMMARY:PZiP (ć)
+LOCATION:308 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241128T175000
+DTEND:20241128T192500
+SUMMARY:PZiP (ć)
+LOCATION:308 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241203T114000
+DTEND:20241203T131500
+SUMMARY:PZiP (w)
+LOCATION:316 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241204T095000
+DTEND:20241204T112500
+SUMMARY:htm (w)
+LOCATION:203 65
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241204T114000
+DTEND:20241204T131500
+SUMMARY:htm (w)
+LOCATION:203 65
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241204T133000
+DTEND:20241204T150500
+SUMMARY:Est (P)
+LOCATION:125 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 3\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241204T160000
+DTEND:20241204T173500
+SUMMARY:SoU (L)
+LOCATION:125 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241204T175000
+DTEND:20241204T192500
+SUMMARY:SoU (L)
+LOCATION:125 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241205T114000
+DTEND:20241205T131500
+SUMMARY:PSy (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241205T133000
+DTEND:20241205T150500
+SUMMARY:PSy (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241206T080000
+DTEND:20241206T093500
+SUMMARY:PSy (w)
+LOCATION:316 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241206T095000
+DTEND:20241206T112500
+SUMMARY:PSy (w)
+LOCATION:316 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241206T114000
+DTEND:20241206T131500
+SUMMARY:Est (w)
+LOCATION:203 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241210T080000
+DTEND:20241210T093500
+SUMMARY:ZKwI (w)
+LOCATION:316 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Wykład\nNr zajęć: 10\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241210T114000
+DTEND:20241210T131500
+SUMMARY:Est (L)
+LOCATION:011 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241210T133000
+DTEND:20241210T150500
+SUMMARY:Est (L)
+LOCATION:011 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241210T160000
+DTEND:20241210T173500
+SUMMARY:Bpe (L)
+LOCATION:106 65
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241210T175000
+DTEND:20241210T192500
+SUMMARY:Bpe (L)
+LOCATION:106 65
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241211T080000
+DTEND:20241211T093500
+SUMMARY:PBI (L)
+LOCATION:121 65
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241211T095000
+DTEND:20241211T112500
+SUMMARY:PBI (L)
+LOCATION:121 65
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241211T114000
+DTEND:20241211T131500
+SUMMARY:Psy (ć)
+LOCATION:308 S
+DESCRIPTION:Psychologia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241211T133000
+DTEND:20241211T150500
+SUMMARY:ZKwI (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241211T160000
+DTEND:20241211T173500
+SUMMARY:ZKwI (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241212T095000
+DTEND:20241212T112500
+SUMMARY:htm (w)
+LOCATION:203 65
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241212T160000
+DTEND:20241212T173500
+SUMMARY:PZiP (ć)
+LOCATION:308 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241212T175000
+DTEND:20241212T192500
+SUMMARY:PZiP (ć)
+LOCATION:308 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241213T080000
+DTEND:20241213T093500
+SUMMARY:PSy (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241213T095000
+DTEND:20241213T112500
+SUMMARY:PSy (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241216T080000
+DTEND:20241216T093500
+SUMMARY:Nsk (ć)
+LOCATION:308 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241216T095000
+DTEND:20241216T112500
+SUMMARY:Swb (w)
+LOCATION:316 S
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241216T114000
+DTEND:20241216T131500
+SUMMARY:Swb (w)
+LOCATION:316 S
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241217T080000
+DTEND:20241217T093500
+SUMMARY:SoU (L)
+LOCATION:125 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 11\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241217T095000
+DTEND:20241217T112500
+SUMMARY:SoU (L)
+LOCATION:125 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 12\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241218T080000
+DTEND:20241218T093500
+SUMMARY:Est (L)
+LOCATION:011 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241218T095000
+DTEND:20241218T112500
+SUMMARY:Est (L)
+LOCATION:011 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241218T160000
+DTEND:20241218T173500
+SUMMARY:htm (L)
+LOCATION:011 65
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241218T175000
+DTEND:20241218T192500
+SUMMARY:htm (L)
+LOCATION:011 65
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241219T080000
+DTEND:20241219T093500
+SUMMARY:SoU (L)
+LOCATION:125 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 13\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241219T095000
+DTEND:20241219T112500
+SUMMARY:SoU (L)
+LOCATION:125 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 14\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241219T133000
+DTEND:20241219T150500
+SUMMARY:Psy (w)
+LOCATION:316 S
+DESCRIPTION:Psychologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241220T080000
+DTEND:20241220T093500
+SUMMARY:PSy (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241220T095000
+DTEND:20241220T112500
+SUMMARY:PSy (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250107T080000
+DTEND:20250107T093500
+SUMMARY:Nsk (ć)
+LOCATION:307 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250107T095000
+DTEND:20250107T112500
+SUMMARY:Swb (L)
+LOCATION:011 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250107T114000
+DTEND:20250107T131500
+SUMMARY:Swb (L)
+LOCATION:011 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250107T133000
+DTEND:20250107T150500
+SUMMARY:htm (L)
+LOCATION:011 65
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250107T160000
+DTEND:20250107T173500
+SUMMARY:htm (L)
+LOCATION:011 65
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250108T095000
+DTEND:20250108T112500
+SUMMARY:Swb (w)
+LOCATION:313 S
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 9\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250108T114000
+DTEND:20250108T131500
+SUMMARY:Swb (w)
+LOCATION:313 S
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 10\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250108T133000
+DTEND:20250108T150500
+SUMMARY:ZKwI (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250108T160000
+DTEND:20250108T173500
+SUMMARY:ZKwI (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250109T080000
+DTEND:20250109T093500
+SUMMARY:PZiP (ć)
+LOCATION:308 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250109T095000
+DTEND:20250109T112500
+SUMMARY:PZiP (ć)
+LOCATION:308 S
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250109T114000
+DTEND:20250109T131500
+SUMMARY:SoU (L)
+LOCATION:125 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 15\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250109T133000
+DTEND:20250109T150500
+SUMMARY:SoU (L)
+LOCATION:125 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 16\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250110T080000
+DTEND:20250110T093500
+SUMMARY:PSy (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250110T095000
+DTEND:20250110T112500
+SUMMARY:PSy (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250113T095000
+DTEND:20250113T112500
+SUMMARY:Nsk (ć)
+LOCATION:316 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250113T160000
+DTEND:20250113T173500
+SUMMARY:PSy (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250114T095000
+DTEND:20250114T112500
+SUMMARY:Nsk (ć)
+LOCATION:307 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250114T114000
+DTEND:20250114T131500
+SUMMARY:Nsk (ć)
+LOCATION:307 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250114T133000
+DTEND:20250114T150500
+SUMMARY:Est (P)
+LOCATION:120 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 4\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250114T160000
+DTEND:20250114T173500
+SUMMARY:SoU (L)
+LOCATION:125 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 17\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250114T175000
+DTEND:20250114T192500
+SUMMARY:SoU (L)
+LOCATION:125 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 18\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250115T095000
+DTEND:20250115T112500
+SUMMARY:ZKwI (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250115T114000
+DTEND:20250115T131500
+SUMMARY:ZKwI (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250116T095000
+DTEND:20250116T112500
+SUMMARY:Swb (L)
+LOCATION:125 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250116T114000
+DTEND:20250116T131500
+SUMMARY:Swb (L)
+LOCATION:125 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250117T080000
+DTEND:20250117T093500
+SUMMARY:Est (L)
+LOCATION:011 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250117T095000
+DTEND:20250117T112500
+SUMMARY:Est (L)
+LOCATION:011 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250120T080000
+DTEND:20250120T093500
+SUMMARY:PBI (L)
+LOCATION:120 65
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: dr inż. Krzysztof Liderman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250120T095000
+DTEND:20250120T112500
+SUMMARY:Nsk (ć)
+LOCATION:313 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250120T114000
+DTEND:20250120T131500
+SUMMARY:Nsk (ć)
+LOCATION:313 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250121T133000
+DTEND:20250121T150500
+SUMMARY:htm (L)
+LOCATION:011 65
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250121T160000
+DTEND:20250121T173500
+SUMMARY:htm (L)
+LOCATION:011 65
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250122T080000
+DTEND:20250122T093500
+SUMMARY:Bpe (w)
+LOCATION:313 S
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250122T095000
+DTEND:20250122T112500
+SUMMARY:Swb (L)
+LOCATION:106 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250122T114000
+DTEND:20250122T131500
+SUMMARY:Swb (L)
+LOCATION:106 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250123T080000
+DTEND:20250123T093500
+SUMMARY:Est (L)
+LOCATION:011 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250123T095000
+DTEND:20250123T112500
+SUMMARY:Est (L)
+LOCATION:011 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250124T080000
+DTEND:20250124T093500
+SUMMARY:PSy (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250124T095000
+DTEND:20250124T112500
+SUMMARY:PSy (L)
+LOCATION:226 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250127T095000
+DTEND:20250127T112500
+SUMMARY:Nsk (ć)
+LOCATION:314 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250128T114000
+DTEND:20250128T131500
+SUMMARY:htm (L)
+LOCATION:011 65
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250128T133000
+DTEND:20250128T150500
+SUMMARY:htm (L)
+LOCATION:011 65
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250128T160000
+DTEND:20250128T173500
+SUMMARY:SoU (L)
+LOCATION:125 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 19\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250128T175000
+DTEND:20250128T192500
+SUMMARY:SoU (L)
+LOCATION:125 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 20\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250129T095000
+DTEND:20250129T112500
+SUMMARY:ZKwI (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNr zajęć: 11\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250129T114000
+DTEND:20250129T131500
+SUMMARY:ZKwI (L)
+LOCATION:078 S
+DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNr zajęć: 12\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250130T080000
+DTEND:20250130T093500
+SUMMARY:Est (P)
+LOCATION:101 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 5\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250130T095000
+DTEND:20250130T112500
+SUMMARY:Swb (L)
+LOCATION:125 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 11\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250130T114000
+DTEND:20250130T131500
+SUMMARY:Swb (L)
+LOCATION:125 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 12\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250130T133000
+DTEND:20250130T150500
+SUMMARY:SzOR (Inne)
+LOCATION:085 S
+DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: mgr inż. Alicja Kida
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250203T114000
+DTEND:20250203T131500
+SUMMARY:Est (Inne)
+LOCATION:120 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250204T114000
+DTEND:20250204T131500
+SUMMARY:PSy (Inne)
+LOCATION:317 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250205T095000
+DTEND:20250205T112500
+SUMMARY:JEt (Inne)
+LOCATION:125 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250206T095000
+DTEND:20250206T112500
+SUMMARY:SoU (E)
+LOCATION:120 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250210T095000
+DTEND:20250210T112500
+SUMMARY:Swb (E)
+LOCATION:314 S
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250210T114000
+DTEND:20250210T131500
+SUMMARY:Swb (E)
+LOCATION:314 S
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250212T114000
+DTEND:20250212T131500
+SUMMARY:Wpp (Inne)
+LOCATION:125 65
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250214T095000
+DTEND:20250214T112500
+SUMMARY:Nsk (Inne)
+LOCATION:316 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250217T114000
+DTEND:20250217T131500
+SUMMARY:Swb (Inne)
+LOCATION:314 S
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250220T095000
+DTEND:20250220T112500
+SUMMARY:SoU (Inne)
+LOCATION:121 65
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250220T114000
+DTEND:20250220T131500
+SUMMARY:htm (Inne)
+LOCATION:011 65
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250221T080000
+DTEND:20250221T093500
+SUMMARY:PBI (Inne)
+LOCATION:101 65
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr inż. Krzysztof Liderman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250221T114000
+DTEND:20250221T131500
+SUMMARY:JEt (Inne)
+LOCATION:125 65
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250221T133000
+DTEND:20250221T150500
+SUMMARY:Nsk (Inne)
+LOCATION:316 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250228T133000
+DTEND:20250228T150500
+SUMMARY:Nsk (Inne)
+LOCATION:307 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Nieznany\nNr zajęć: 3\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250304T114000
+DTEND:20250304T131500
+SUMMARY:TpsT (w)
+LOCATION:203 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250304T133000
+DTEND:20250304T150500
+SUMMARY:TpsT (w)
+LOCATION:203 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250305T095000
+DTEND:20250305T112500
+SUMMARY:Ppz (w)
+LOCATION:203 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250306T133000
+DTEND:20250306T150500
+SUMMARY:zsw (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250307T095000
+DTEND:20250307T112500
+SUMMARY:Bsbp (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący:  Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250307T114000
+DTEND:20250307T131500
+SUMMARY:Sbs (w)
+LOCATION:203 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący:  Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250310T133000
+DTEND:20250310T150500
+SUMMARY:Oni (w)
+LOCATION:307 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250312T095000
+DTEND:20250312T112500
+SUMMARY:TpsT (w)
+LOCATION:308 S
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250312T114000
+DTEND:20250312T131500
+SUMMARY:TpsT (w)
+LOCATION:316 S
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250312T133000
+DTEND:20250312T150500
+SUMMARY:Ppz (w)
+LOCATION:203 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250312T160000
+DTEND:20250312T173500
+SUMMARY:Asie (w)
+LOCATION:308 S
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250312T175000
+DTEND:20250312T192500
+SUMMARY:Asie (w)
+LOCATION:308 S
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250313T080000
+DTEND:20250313T093500
+SUMMARY:SKII (w)
+LOCATION:307 S
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250313T133000
+DTEND:20250313T150500
+SUMMARY:zsw (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250314T095000
+DTEND:20250314T112500
+SUMMARY:Bsbp (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący:  Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250314T114000
+DTEND:20250314T131500
+SUMMARY:Sbs (w)
+LOCATION:203 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący:  Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250318T095000
+DTEND:20250318T112500
+SUMMARY:Sp (Inne)
+LOCATION:101 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250318T133000
+DTEND:20250318T150500
+SUMMARY:Ppz (w)
+LOCATION:203 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250319T114000
+DTEND:20250319T131500
+SUMMARY:TpsT (w)
+LOCATION:317 S
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250319T133000
+DTEND:20250319T150500
+SUMMARY:TpsT (w)
+LOCATION:313 S
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250319T160000
+DTEND:20250319T173500
+SUMMARY:Asie (w)
+LOCATION:308 S
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250319T175000
+DTEND:20250319T192500
+SUMMARY:Asie (w)
+LOCATION:308 S
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250320T114000
+DTEND:20250320T131500
+SUMMARY:TpsT (ć)
+LOCATION:101 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250320T133000
+DTEND:20250320T150500
+SUMMARY:zsw (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250321T114000
+DTEND:20250321T131500
+SUMMARY:zsw (L)
+LOCATION:09 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250321T133000
+DTEND:20250321T150500
+SUMMARY:zsw (L)
+LOCATION:09 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250324T080000
+DTEND:20250324T093500
+SUMMARY:Ppz (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250324T095000
+DTEND:20250324T112500
+SUMMARY:Ppz (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250324T114000
+DTEND:20250324T131500
+SUMMARY:SKII (w)
+LOCATION:316 S
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250326T080000
+DTEND:20250326T093500
+SUMMARY:Oni (w)
+LOCATION:309 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250326T095000
+DTEND:20250326T112500
+SUMMARY:Oni (w)
+LOCATION:309 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250326T114000
+DTEND:20250326T131500
+SUMMARY:SKII (w)
+LOCATION:307 S
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250326T160000
+DTEND:20250326T173500
+SUMMARY:Asie (w)
+LOCATION:308 S
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250326T175000
+DTEND:20250326T192500
+SUMMARY:Asie (L)
+LOCATION:106 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250326T194000
+DTEND:20250326T211500
+SUMMARY:Asie (L)
+LOCATION:106 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250327T114000
+DTEND:20250327T131500
+SUMMARY:TpsT (ć)
+LOCATION:201 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250327T133000
+DTEND:20250327T150500
+SUMMARY:zsw (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250327T160000
+DTEND:20250327T173500
+SUMMARY:Asie (w)
+LOCATION:308 S
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250328T080000
+DTEND:20250328T093500
+SUMMARY:Ppz (w)
+LOCATION:203 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250328T095000
+DTEND:20250328T112500
+SUMMARY:Bsbp (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący:  Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250328T114000
+DTEND:20250328T131500
+SUMMARY:TpsT (L)
+LOCATION:121 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250328T133000
+DTEND:20250328T150500
+SUMMARY:TpsT (L)
+LOCATION:121 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250331T080000
+DTEND:20250331T093500
+SUMMARY:Ppz (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250331T095000
+DTEND:20250331T112500
+SUMMARY:Ppz (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250331T114000
+DTEND:20250331T131500
+SUMMARY:Oni (w)
+LOCATION:309 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250331T133000
+DTEND:20250331T150500
+SUMMARY:Oni (w)
+LOCATION:309 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250401T114000
+DTEND:20250401T131500
+SUMMARY:Bsbp (L)
+LOCATION:125 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250401T133000
+DTEND:20250401T150500
+SUMMARY:Bsbp (L)
+LOCATION:125 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250402T080000
+DTEND:20250402T093500
+SUMMARY:TpsT (w)
+LOCATION:308 S
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250402T095000
+DTEND:20250402T112500
+SUMMARY:SKII (w)
+LOCATION:307 S
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250402T114000
+DTEND:20250402T131500
+SUMMARY:Sbs (w)
+LOCATION:203 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący:  Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250402T160000
+DTEND:20250402T173500
+SUMMARY:Asie (w)
+LOCATION:308 S
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250402T175000
+DTEND:20250402T192500
+SUMMARY:Asie (L)
+LOCATION:106 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250402T194000
+DTEND:20250402T211500
+SUMMARY:Asie (L)
+LOCATION:106 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250403T114000
+DTEND:20250403T131500
+SUMMARY:TpsT (ć)
+LOCATION:101 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250403T133000
+DTEND:20250403T150500
+SUMMARY:zsw (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250403T160000
+DTEND:20250403T173500
+SUMMARY:Asie (w)
+LOCATION:308 S
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250404T080000
+DTEND:20250404T093500
+SUMMARY:Ppz (w)
+LOCATION:203 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250404T095000
+DTEND:20250404T112500
+SUMMARY:Bsbp (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący:  Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250407T080000
+DTEND:20250407T093500
+SUMMARY:Ppz (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250407T095000
+DTEND:20250407T112500
+SUMMARY:Ppz (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250407T133000
+DTEND:20250407T150500
+SUMMARY:TpsT (L)
+LOCATION:120 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250407T160000
+DTEND:20250407T173500
+SUMMARY:TpsT (L)
+LOCATION:120 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250407T175000
+DTEND:20250407T192500
+SUMMARY:Asie (L)
+LOCATION:120 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250407T194000
+DTEND:20250407T211500
+SUMMARY:Asie (L)
+LOCATION:120 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250408T080000
+DTEND:20250408T093500
+SUMMARY:zsw (L)
+LOCATION:09 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250408T095000
+DTEND:20250408T112500
+SUMMARY:zsw (L)
+LOCATION:09 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250409T080000
+DTEND:20250409T093500
+SUMMARY:SKII (w)
+LOCATION:307 S
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250409T114000
+DTEND:20250409T131500
+SUMMARY:SKII (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250409T133000
+DTEND:20250409T150500
+SUMMARY:SKII (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250410T114000
+DTEND:20250410T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250410T133000
+DTEND:20250410T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250411T095000
+DTEND:20250411T112500
+SUMMARY:Oni (L)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250411T114000
+DTEND:20250411T131500
+SUMMARY:Oni (P)
+LOCATION:011 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 1\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250411T133000
+DTEND:20250411T150500
+SUMMARY:Sbs (w)
+LOCATION:203 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący:  Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250414T080000
+DTEND:20250414T093500
+SUMMARY:Ppz (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250414T095000
+DTEND:20250414T112500
+SUMMARY:Ppz (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250414T114000
+DTEND:20250414T131500
+SUMMARY:Oni (w)
+LOCATION:309 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250414T133000
+DTEND:20250414T150500
+SUMMARY:Oni (w)
+LOCATION:309 S
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250415T080000
+DTEND:20250415T093500
+SUMMARY:zsw (L)
+LOCATION:09 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250415T095000
+DTEND:20250415T112500
+SUMMARY:zsw (L)
+LOCATION:09 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250416T095000
+DTEND:20250416T112500
+SUMMARY:Bsbp (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250416T114000
+DTEND:20250416T131500
+SUMMARY:Bsbp (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250416T133000
+DTEND:20250416T150500
+SUMMARY:Sbs (w)
+LOCATION:203 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący:  Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250416T175000
+DTEND:20250416T192500
+SUMMARY:Asie (L)
+LOCATION:106 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250416T194000
+DTEND:20250416T211500
+SUMMARY:Asie (L)
+LOCATION:106 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250417T080000
+DTEND:20250417T093500
+SUMMARY:Bsbp (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący:  Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250417T133000
+DTEND:20250417T150500
+SUMMARY:zsw (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250423T095000
+DTEND:20250423T112500
+SUMMARY:Sp (Inne)
+LOCATION:101 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250423T114000
+DTEND:20250423T131500
+SUMMARY:Sbs (L)
+LOCATION:121 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250423T133000
+DTEND:20250423T150500
+SUMMARY:Sbs (L)
+LOCATION:121 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250423T175000
+DTEND:20250423T192500
+SUMMARY:SKII (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250423T194000
+DTEND:20250423T211500
+SUMMARY:SKII (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250424T080000
+DTEND:20250424T093500
+SUMMARY:Bsbp (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący:  Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250424T133000
+DTEND:20250424T150500
+SUMMARY:zsw (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250428T080000
+DTEND:20250428T093500
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 2\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250428T095000
+DTEND:20250428T112500
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 3\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250428T114000
+DTEND:20250428T131500
+SUMMARY:Bsbp (L)
+LOCATION:121 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250428T133000
+DTEND:20250428T150500
+SUMMARY:Bsbp (L)
+LOCATION:121 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250428T175000
+DTEND:20250428T192500
+SUMMARY:Asie (L)
+LOCATION:125 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250428T194000
+DTEND:20250428T211500
+SUMMARY:Asie (L)
+LOCATION:125 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250429T080000
+DTEND:20250429T093500
+SUMMARY:zsw (L)
+LOCATION:09 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250429T095000
+DTEND:20250429T112500
+SUMMARY:zsw (L)
+LOCATION:09 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250430T080000
+DTEND:20250430T093500
+SUMMARY:Sp (Inne)
+LOCATION:101 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: Nieznany\nNr zajęć: 3\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250430T095000
+DTEND:20250430T112500
+SUMMARY:Sp (Inne)
+LOCATION:101 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: Nieznany\nNr zajęć: 4\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250430T133000
+DTEND:20250430T150500
+SUMMARY:zsw (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250505T095000
+DTEND:20250505T112500
+SUMMARY:TpsT (L)
+LOCATION:011 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250505T114000
+DTEND:20250505T131500
+SUMMARY:TpsT (L)
+LOCATION:011 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250505T175000
+DTEND:20250505T192500
+SUMMARY:SKII (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250505T194000
+DTEND:20250505T211500
+SUMMARY:SKII (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250506T080000
+DTEND:20250506T093500
+SUMMARY:zsw (L)
+LOCATION:09 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250506T095000
+DTEND:20250506T112500
+SUMMARY:zsw (L)
+LOCATION:09 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250507T080000
+DTEND:20250507T093500
+SUMMARY:Sp (Inne)
+LOCATION:101 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: Nieznany\nNr zajęć: 5\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250507T095000
+DTEND:20250507T112500
+SUMMARY:Sp (Inne)
+LOCATION:101 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: Nieznany\nNr zajęć: 6\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250507T133000
+DTEND:20250507T150500
+SUMMARY:zsw (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 9\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250507T160000
+DTEND:20250507T173500
+SUMMARY:Oni (L)
+LOCATION:125 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250507T175000
+DTEND:20250507T192500
+SUMMARY:Oni (L)
+LOCATION:125 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250508T080000
+DTEND:20250508T093500
+SUMMARY:Ppz (L)
+LOCATION:106 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący:  Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250508T095000
+DTEND:20250508T112500
+SUMMARY:Ppz (L)
+LOCATION:106 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący:  Paweł Głębocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250512T175000
+DTEND:20250512T192500
+SUMMARY:Asie (L)
+LOCATION:121 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 11\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250512T194000
+DTEND:20250512T211500
+SUMMARY:Asie (L)
+LOCATION:121 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 12\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250513T080000
+DTEND:20250513T093500
+SUMMARY:zsw (L)
+LOCATION:09 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 11\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250513T095000
+DTEND:20250513T112500
+SUMMARY:zsw (L)
+LOCATION:09 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 12\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250513T114000
+DTEND:20250513T131500
+SUMMARY:Sbs (L)
+LOCATION:125 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250513T133000
+DTEND:20250513T150500
+SUMMARY:Sbs (L)
+LOCATION:125 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250514T080000
+DTEND:20250514T093500
+SUMMARY:Sp (Inne)
+LOCATION:101 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: Nieznany\nNr zajęć: 7\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250514T095000
+DTEND:20250514T112500
+SUMMARY:Sp (Inne)
+LOCATION:101 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: Nieznany\nNr zajęć: 8\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250514T133000
+DTEND:20250514T150500
+SUMMARY:zsw (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 10\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250515T114000
+DTEND:20250515T131500
+SUMMARY:Bsbp (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250515T133000
+DTEND:20250515T150500
+SUMMARY:Bsbp (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250521T080000
+DTEND:20250521T093500
+SUMMARY:Sp (Inne)
+LOCATION:101 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: Nieznany\nNr zajęć: 9\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250521T095000
+DTEND:20250521T112500
+SUMMARY:Sp (Inne)
+LOCATION:101 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: Nieznany\nNr zajęć: 10\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250521T114000
+DTEND:20250521T131500
+SUMMARY:TpsT (L)
+LOCATION:125 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250521T133000
+DTEND:20250521T150500
+SUMMARY:TpsT (L)
+LOCATION:125 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250521T175000
+DTEND:20250521T192500
+SUMMARY:SKII (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250521T194000
+DTEND:20250521T211500
+SUMMARY:SKII (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250522T080000
+DTEND:20250522T093500
+SUMMARY:zsw (L)
+LOCATION:09 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 13\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250522T095000
+DTEND:20250522T112500
+SUMMARY:zsw (L)
+LOCATION:09 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 14\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250522T114000
+DTEND:20250522T131500
+SUMMARY:Oni (L)
+LOCATION:125 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250522T133000
+DTEND:20250522T150500
+SUMMARY:Oni (L)
+LOCATION:125 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250529T080000
+DTEND:20250529T093500
+SUMMARY:zsw (L)
+LOCATION:09 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 15\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250529T095000
+DTEND:20250529T112500
+SUMMARY:zsw (L)
+LOCATION:09 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 16\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250529T114000
+DTEND:20250529T131500
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 4\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250529T133000
+DTEND:20250529T150500
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 5\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250530T114000
+DTEND:20250530T131500
+SUMMARY:Sbs (L)
+LOCATION:121 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250530T133000
+DTEND:20250530T150500
+SUMMARY:Sbs (L)
+LOCATION:121 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250602T175000
+DTEND:20250602T192500
+SUMMARY:Asie (L)
+LOCATION:121 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 13\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250602T194000
+DTEND:20250602T211500
+SUMMARY:Asie (L)
+LOCATION:121 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 14\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250603T080000
+DTEND:20250603T093500
+SUMMARY:Oni (L)
+LOCATION:125 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250603T095000
+DTEND:20250603T112500
+SUMMARY:Oni (L)
+LOCATION:125 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250604T080000
+DTEND:20250604T093500
+SUMMARY:TpsT (L)
+LOCATION:011 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250604T095000
+DTEND:20250604T112500
+SUMMARY:TpsT (L)
+LOCATION:011 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250604T114000
+DTEND:20250604T131500
+SUMMARY:Sbs (L)
+LOCATION:120 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250604T133000
+DTEND:20250604T150500
+SUMMARY:Sbs (L)
+LOCATION:120 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250605T080000
+DTEND:20250605T093500
+SUMMARY:zsw (L)
+LOCATION:09 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 17\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250605T095000
+DTEND:20250605T112500
+SUMMARY:zsw (L)
+LOCATION:09 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 18\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T080000
+DTEND:20250611T093500
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 6\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T095000
+DTEND:20250611T112500
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 7\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T114000
+DTEND:20250611T131500
+SUMMARY:Oni (P)
+LOCATION:106 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 8\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T175000
+DTEND:20250611T192500
+SUMMARY:SKII (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T194000
+DTEND:20250611T211500
+SUMMARY:SKII (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250612T080000
+DTEND:20250612T093500
+SUMMARY:zsw (L)
+LOCATION:09 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 19\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250612T095000
+DTEND:20250612T112500
+SUMMARY:zsw (L)
+LOCATION:09 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 20\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250612T114000
+DTEND:20250612T131500
+SUMMARY:Sbs (L)
+LOCATION:120 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250612T133000
+DTEND:20250612T150500
+SUMMARY:Sbs (L)
+LOCATION:120 65
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250617T080000
+DTEND:20250617T093500
+SUMMARY:TpsT (L)
+LOCATION:011 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250617T095000
+DTEND:20250617T112500
+SUMMARY:TpsT (L)
+LOCATION:011 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T080000
+DTEND:20250618T093500
+SUMMARY:Bsbp (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący:  Zbigniew Świerczynski
+END:VEVENT
+END:VCALENDAR
