@@ -73,11 +73,15 @@
                 alert("Wybierz grupę!");
                 return;
             }
-            
-            let icsFileUrl = `web/static/data/schedules/${encodeURIComponent(selectedGroup)}.ics`;
+
+            // Zamiana gwiazdek * na podłogi _
+            let fixedGroupName = selectedGroup.replace(/\*/g, "_"); 
+
+            let icsFileUrl = `web/static/data/schedules/${encodeURIComponent(fixedGroupName)}.ics`;
             console.log("Pobieranie:", icsFileUrl);
             window.location.href = icsFileUrl;
         }
+
 
         window.onload = loadGroups;
     </script>
