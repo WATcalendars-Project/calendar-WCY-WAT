@@ -29,11 +29,11 @@ https://dominikx2002.github.io/calendar-WCY-WAT/
 2. Run the Website (GitHub Pages)
     This project is hosted via GitHub Pages. Visit:
         https://dominikx2002.github.io/calendar-WCY-WAT/
-        ![obraz](https://github.com/user-attachments/assets/bee25f89-dbff-4b74-9421-adfe8900c08d)
+
+      ![obraz](https://github.com/user-attachments/assets/bee25f89-dbff-4b74-9421-adfe8900c08d)
 
     Download the .ics file
     Import it into your favourite calendar app (Google Calendar, Outlook, etc.)
-
 
 
 ### GitHub Actions
