@@ -31,8 +31,7 @@ jobs:
       - name: 📝 Uruchom skrypt do pobierania pracowników
         run: python scripts/employees_scraper.py
 
-      - name: 🗓️ Uruchom skrypt do tworzenia kalendarzy
-        run: python scripts/schedule_scraper.py
+
 
       - name: 🔄 Commit zmian
         run: |
