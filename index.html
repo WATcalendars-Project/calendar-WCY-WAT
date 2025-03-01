@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calendar Download</title>
+    <title>Plany zajęć WCY</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -45,7 +45,7 @@
             <!-- Grupy zostaną tutaj dynamicznie wczytane -->
         </select>
         <br>
-        <button onclick="downloadICS()">setup your calendar</button>
+        <button onclick="downloadICS()">📥 Pobierz Kalendarz</button>
     </div>
 
     <script>
@@ -58,7 +58,7 @@
                 let select = document.getElementById("group-select");
                 groups.forEach(group => {
                     let option = document.createElement("option");
-                    option.value = group;
+                    option.value = group.replace(/_/g, "*");  // Zamiana podłóg na gwiazdki
                     option.textContent = group;
                     select.appendChild(option);
                 });
@@ -67,23 +67,19 @@
             }
         }
 
-        function sanitizeFilename(name) {
-            return name.replace(/[<>:"/\\|?*]/g, "_"); // Zamienia wszystkie niedozwolone znaki na "_"
-        }
-
         function downloadICS() {
             let selectedGroup = document.getElementById("group-select").value;
             if (!selectedGroup) {
                 alert("Wybierz grupę!");
                 return;
             }
+            
+            let fixedGroupName = selectedGroup.replace(/\*/g, "_");  // Zamiana gwiazdek na podłogi w nazwie pliku
+            let icsFileUrl = `data/schedules/${encodeURIComponent(fixedGroupName)}.ics`;
 
-            let sanitizedGroup = sanitizeFilename(selectedGroup); // Zamieniamy znaki jak w Pythonie
-            let icsFileUrl = `data/schedules/${sanitizedGroup}.ics`; // Nowa ścieżka pasująca do zapisanych plików
             console.log("Pobieranie:", icsFileUrl);
             window.location.href = icsFileUrl;
         }
-
 
         window.onload = loadGroups;
     </script>
