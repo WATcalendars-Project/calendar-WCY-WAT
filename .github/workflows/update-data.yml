@@ -1,0 +1,37 @@
+name: Update Groups and Years
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Uruchamia codziennie o północy
+  push:
+    branches:
+      - main  # Uruchamia po pushu do main
+
+jobs:
+  update_data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pobierz repozytorium
+        uses: actions/checkout@v3
+
+      - name: Zainstaluj Pythona
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Zainstaluj zależności
+        run: pip install -r requirements.txt
+
+      - name: Uruchom skrypt do pobierania grup
+        run: python scripts/groups_scraper.py
+
+      - name: Uruchom skrypt do pobierania lat
+        run: python scripts/year_scraper.py
+
+      - name: Commit zmian
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add web/static/groups.txt web/static/year.txt
+          git commit -m "Automatyczna aktualizacja grup i lat" || echo "Brak zmian"
+          git push
