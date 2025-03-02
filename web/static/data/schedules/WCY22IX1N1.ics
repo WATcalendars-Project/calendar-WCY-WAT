@@ -463,14 +463,14 @@ DTSTART:20240414T080000
 DTEND:20240414T093500
 SUMMARY:Pnak (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240414T095000
 DTEND:20240414T112500
 SUMMARY:Pnak (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240414T114000
@@ -596,7 +596,7 @@ DTSTART:20240421T160000
 DTEND:20240421T173500
 SUMMARY:WdA (L)
 LOCATION:106 65
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240421T175000
@@ -785,21 +785,21 @@ DTSTART:20240512T095000
 DTEND:20240512T112500
 SUMMARY:Pnak (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240512T114000
 DTEND:20240512T131500
 SUMMARY:Pnak (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240512T133000
 DTEND:20240512T150500
 SUMMARY:WdA (L)
 LOCATION:106 65
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240512T160000
@@ -953,14 +953,14 @@ DTSTART:20240525T133000
 DTEND:20240525T150500
 SUMMARY:Pnak (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240525T160000
 DTEND:20240525T173500
 SUMMARY:Pnak (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240525T175000
@@ -1002,7 +1002,7 @@ DTSTART:20240526T133000
 DTEND:20240526T150500
 SUMMARY:WdA (L)
 LOCATION:106 65
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240526T160000
@@ -1072,7 +1072,7 @@ DTSTART:20240608T114000
 DTEND:20240608T131500
 SUMMARY:WdA (L)
 LOCATION:106 65
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240608T133000
@@ -1191,7 +1191,7 @@ DTSTART:20240616T114000
 DTEND:20240616T131500
 SUMMARY:WdA (L)
 LOCATION:106 65
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240616T133000
@@ -1282,7 +1282,7 @@ DTSTART:20240706T133000
 DTEND:20240706T150500
 SUMMARY:Pnak (Inne)
 LOCATION:106 65
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący:  Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240706T160000
@@ -1338,7 +1338,7 @@ DTSTART:20240922T095000
 DTEND:20240922T112500
 SUMMARY:Pnak (Inne)
 LOCATION:106 65
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący:  Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240922T133000

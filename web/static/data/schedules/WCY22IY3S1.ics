@@ -358,7 +358,7 @@ DTSTART:20240313T133000
 DTEND:20240313T150500
 SUMMARY:Tik (L)
 LOCATION:236 S
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240315T114000
@@ -407,7 +407,7 @@ DTSTART:20240318T160000
 DTEND:20240318T173500
 SUMMARY:Tik (L)
 LOCATION:125 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240318T175000
@@ -715,7 +715,7 @@ DTSTART:20240408T133000
 DTEND:20240408T150500
 SUMMARY:Tik (L)
 LOCATION:106 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240408T175000
@@ -785,14 +785,14 @@ DTSTART:20240411T080000
 DTEND:20240411T093500
 SUMMARY:Pnak (L)
 LOCATION:237 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240411T095000
 DTEND:20240411T112500
 SUMMARY:Pnak (L)
 LOCATION:237 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240411T133000
@@ -855,7 +855,7 @@ DTSTART:20240416T114000
 DTEND:20240416T131500
 SUMMARY:Tik (L)
 LOCATION:218 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240416T133000
@@ -967,7 +967,7 @@ DTSTART:20240422T095000
 DTEND:20240422T112500
 SUMMARY:Tik (L)
 LOCATION:106 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240422T114000
@@ -981,14 +981,14 @@ DTSTART:20240423T080000
 DTEND:20240423T093500
 SUMMARY:Pnak (L)
 LOCATION:237 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240423T095000
 DTEND:20240423T112500
 SUMMARY:Pnak (L)
 LOCATION:237 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240423T133000
@@ -1114,7 +1114,7 @@ DTSTART:20240506T114000
 DTEND:20240506T131500
 SUMMARY:Tik (L)
 LOCATION:106 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240506T133000
@@ -1233,7 +1233,7 @@ DTSTART:20240513T133000
 DTEND:20240513T150500
 SUMMARY:Tik (L)
 LOCATION:106 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240513T175000
@@ -1471,14 +1471,14 @@ DTSTART:20240529T114000
 DTEND:20240529T131500
 SUMMARY:Pnak (L)
 LOCATION:237 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240529T133000
 DTEND:20240529T150500
 SUMMARY:Pnak (L)
 LOCATION:237 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240603T095000
@@ -1646,14 +1646,14 @@ DTSTART:20240618T114000
 DTEND:20240618T131500
 SUMMARY:Pnak (L)
 LOCATION:236 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240618T133000
 DTEND:20240618T150500
 SUMMARY:Pnak (L)
 LOCATION:236 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240619T095000
@@ -1835,7 +1835,7 @@ DTSTART:20240919T160000
 DTEND:20240919T173500
 SUMMARY:Pnak (Inne)
 LOCATION:106 65
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący:  Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240920T095000
@@ -1926,7 +1926,7 @@ DTSTART:20240926T114000
 DTEND:20240926T131500
 SUMMARY:Pnak (Inne)
 LOCATION:106 65
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący:  Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240926T133000
