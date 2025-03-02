@@ -5,7 +5,7 @@ A simple tool to fetch and generate ICS calendar files for students at the Facul
 https://dominikx2002.github.io/calendar-WCY-WAT/
 
 
-## Setup & Usage:
+# Setup & Usage:
    - (Option 1) Local Setup
 
             #Clone the repository
