@@ -162,7 +162,7 @@ DTSTART:20250321T080000
 DTEND:20250321T093500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T095000
@@ -232,14 +232,14 @@ DTSTART:20250325T080000
 DTEND:20250325T093500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T095000
 DTEND:20250325T112500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T114000
@@ -307,16 +307,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T133000
 DTEND:20250327T150500
-SUMMARY:TW (ć)
-LOCATION:114 57
-DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
+SUMMARY:wzbnim (w)
+LOCATION:AW 1
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T160000
 DTEND:20250327T173500
-SUMMARY:TW (ć)
-LOCATION:114 57
-DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
+SUMMARY:wzbnim (w)
+LOCATION:AW 1
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T080000
@@ -337,14 +337,14 @@ DTSTART:20250328T114000
 DTEND:20250328T131500
 SUMMARY:wzbnim (w)
 LOCATION:AW 1
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T133000
 DTEND:20250328T150500
 SUMMARY:wzbnim (w)
 LOCATION:AW 1
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T160000
@@ -379,14 +379,14 @@ DTSTART:20250331T133000
 DTEND:20250331T150500
 SUMMARY:TW (ć)
 LOCATION:114 57
-DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: -
+DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T160000
 DTEND:20250331T173500
 SUMMARY:TW (ć)
 LOCATION:114 57
-DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: -
+DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T194000
@@ -407,14 +407,14 @@ DTSTART:20250401T095000
 DTEND:20250401T112500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T114000
 DTEND:20250401T131500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T133000
@@ -484,14 +484,14 @@ DTSTART:20250403T080000
 DTEND:20250403T093500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T095000
 DTEND:20250403T112500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T114000
@@ -545,30 +545,30 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T133000
 DTEND:20250404T150500
-SUMMARY:wzbnim (w)
-LOCATION:2 45
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: -
+SUMMARY:TW (ć)
+LOCATION:118 57
+DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T160000
 DTEND:20250404T173500
-SUMMARY:wzbnim (w)
-LOCATION:2 45
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: -
+SUMMARY:TW (ć)
+LOCATION:118 57
+DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250405T080000
 DTEND:20250405T093500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250405T095000
 DTEND:20250405T112500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250405T114000
@@ -883,14 +883,14 @@ DTSTART:20250416T080000
 DTEND:20250416T093500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T095000
 DTEND:20250416T112500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T114000
@@ -925,14 +925,14 @@ DTSTART:20250417T080000
 DTEND:20250417T093500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T095000
 DTEND:20250417T112500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T114000
@@ -967,14 +967,14 @@ DTSTART:20250418T080000
 DTEND:20250418T093500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250418T095000
 DTEND:20250418T112500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250418T114000
@@ -1051,14 +1051,14 @@ DTSTART:20250422T080000
 DTEND:20250422T093500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250422T095000
 DTEND:20250422T112500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250422T114000
@@ -1198,14 +1198,14 @@ DTSTART:20250426T095000
 DTEND:20250426T112500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250426T114000
 DTEND:20250426T131500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250426T133000
@@ -1247,7 +1247,7 @@ DTSTART:20250428T175000
 DTEND:20250428T192500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T194000
@@ -1369,6 +1369,13 @@ LOCATION:AW 4
 DESCRIPTION:Zabezpieczenie medyczne - (Egzamin) -\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250505T175000
+DTEND:20250505T192500
+SUMMARY:Pwo (ć)
+LOCATION:20 69
+DESCRIPTION:Połączone wsparcie ogniowe - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250506T080000
 DTEND:20250506T093500
 SUMMARY:PKSt (w)
@@ -1453,13 +1460,6 @@ LOCATION:AW 1
 DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250508T114000
-DTEND:20250508T131500
-SUMMARY:Pwo (ć)
-LOCATION:S2 72
-DESCRIPTION:Połączone wsparcie ogniowe - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250508T133000
 DTEND:20250508T150500
 SUMMARY:TW (ć)
@@ -1520,14 +1520,14 @@ DTSTART:20250512T080000
 DTEND:20250512T093500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T095000
 DTEND:20250512T112500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T114000
@@ -1625,14 +1625,14 @@ DTSTART:20250514T160000
 DTEND:20250514T173500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T175000
 DTEND:20250514T192500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 24\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T080000
@@ -1723,14 +1723,14 @@ DTSTART:20250517T080000
 DTEND:20250517T093500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250517T095000
 DTEND:20250517T112500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 26\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T080000
@@ -2115,14 +2115,14 @@ DTSTART:20250602T133000
 DTEND:20250602T150500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 27\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T160000
 DTEND:20250602T173500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T175000

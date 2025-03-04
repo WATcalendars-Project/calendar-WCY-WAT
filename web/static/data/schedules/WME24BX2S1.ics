@@ -4911,15 +4911,29 @@ LOCATION:228 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250623T095000
-DTEND:20250623T112500
+DTSTART:20250623T080000
+DTEND:20250623T093500
 SUMMARY:F1 (E)
 LOCATION:aula/
 DESCRIPTION:Fizyka 1 - (Egzamin) -\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250623T095000
+DTEND:20250623T112500
+SUMMARY:F1 (E)
+LOCATION:aula/
+DESCRIPTION:Fizyka 1 - (Egzamin) -\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250623T114000
 DTEND:20250623T131500
+SUMMARY:F1 (E)
+LOCATION:aula/
+DESCRIPTION:Fizyka 1 - (Egzamin) -\nRodzaj zajęć: Nieznany\nNr zajęć: 3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250623T133000
+DTEND:20250623T150500
 SUMMARY:F1 (Inne)
 LOCATION:55/ 62
 DESCRIPTION:Fizyka 1 - (Zp. Ćw) -\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -

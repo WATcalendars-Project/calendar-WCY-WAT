@@ -816,13 +816,6 @@ LOCATION:120 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 47\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250416T133000
-DTEND:20250416T150500
-SUMMARY:DWiPD (w)
-LOCATION:313 S
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250416T160000
 DTEND:20250416T173500
 SUMMARY:MPH (ć)
@@ -883,7 +876,7 @@ DTSTART:20250507T133000
 DTEND:20250507T150500
 SUMMARY:DWiPD (w)
 LOCATION:313 S
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T080000
@@ -905,13 +898,6 @@ DTEND:20250508T131500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250509T095000
-DTEND:20250509T112500
-SUMMARY:MPH (w)
-LOCATION:313 S
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T114000
@@ -975,6 +961,20 @@ DTEND:20250516T131500
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 53\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250516T160000
+DTEND:20250516T173500
+SUMMARY:MPH (w)
+LOCATION:301/ S
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250519T080000
+DTEND:20250519T093500
+SUMMARY:DWiPD (w)
+LOCATION:313 S
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T160000

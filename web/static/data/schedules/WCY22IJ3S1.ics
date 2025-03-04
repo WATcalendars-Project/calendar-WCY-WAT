@@ -1355,20 +1355,6 @@ LOCATION:309 S
 DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250303T160000
-DTEND:20250303T173500
-SUMMARY:AM (w)
-LOCATION:307 S
-DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Mariusz Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250303T175000
-DTEND:20250303T192500
-SUMMARY:EdP (w)
-LOCATION:307 S
-DESCRIPTION:Event-driven programming\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Mariusz Chmielewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250304T080000
 DTEND:20250304T093500
 SUMMARY:Sn (w)
@@ -1443,7 +1429,7 @@ DTSTART:20250310T175000
 DTEND:20250310T192500
 SUMMARY:AM (w)
 LOCATION:307 S
-DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Mariusz Chmielewski
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T080000
@@ -1534,7 +1520,7 @@ DTSTART:20250317T160000
 DTEND:20250317T173500
 SUMMARY:EdP (w)
 LOCATION:307 S
-DESCRIPTION:Event-driven programming\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Mariusz Chmielewski
+DESCRIPTION:Event-driven programming\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T114000
@@ -1611,14 +1597,14 @@ DTSTART:20250324T160000
 DTEND:20250324T173500
 SUMMARY:AM (w)
 LOCATION:307 S
-DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Mariusz Chmielewski
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T175000
 DTEND:20250324T192500
 SUMMARY:EdP (w)
 LOCATION:307 S
-DESCRIPTION:Event-driven programming\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Mariusz Chmielewski
+DESCRIPTION:Event-driven programming\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T114000
@@ -1667,7 +1653,7 @@ DTSTART:20250331T175000
 DTEND:20250331T192500
 SUMMARY:AM (w)
 LOCATION:307 S
-DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Mariusz Chmielewski
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T080000
@@ -1800,7 +1786,7 @@ DTSTART:20250407T160000
 DTEND:20250407T173500
 SUMMARY:EdP (w)
 LOCATION:307 S
-DESCRIPTION:Event-driven programming\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Mariusz Chmielewski
+DESCRIPTION:Event-driven programming\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T114000
@@ -1905,14 +1891,14 @@ DTSTART:20250414T160000
 DTEND:20250414T173500
 SUMMARY:AM (w)
 LOCATION:307 S
-DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Mariusz Chmielewski
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T175000
 DTEND:20250414T192500
 SUMMARY:EdP (w)
 LOCATION:307 S
-DESCRIPTION:Event-driven programming\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Mariusz Chmielewski
+DESCRIPTION:Event-driven programming\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T114000
@@ -2066,7 +2052,7 @@ DTSTART:20250428T175000
 DTEND:20250428T192500
 SUMMARY:AM (w)
 LOCATION:307 S
-DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr inż. Mariusz Chmielewski
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T095000
@@ -2192,7 +2178,7 @@ DTSTART:20250512T160000
 DTEND:20250512T173500
 SUMMARY:EdP (w)
 LOCATION:307 S
-DESCRIPTION:Event-driven programming\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr inż. Mariusz Chmielewski
+DESCRIPTION:Event-driven programming\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T160000
@@ -2235,6 +2221,13 @@ DTEND:20250515T211500
 SUMMARY:AM (L)
 LOCATION:227 S
 DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250519T160000
+DTEND:20250519T173500
+SUMMARY:AM (w)
+LOCATION:307 S
+DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T114000
@@ -2284,6 +2277,13 @@ DTEND:20250526T173500
 SUMMARY:AM (w)
 LOCATION:307 S
 DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr inż. Mariusz Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250526T175000
+DTEND:20250526T192500
+SUMMARY:EdP (w)
+LOCATION:307 S
+DESCRIPTION:Event-driven programming\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T160000

@@ -5569,13 +5569,6 @@ LOCATION:120 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250416T133000
-DTEND:20250416T150500
-SUMMARY:DWiPD (w)
-LOCATION:313 S
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250416T160000
 DTEND:20250416T173500
 SUMMARY:DWiPD (ć)
@@ -5839,7 +5832,7 @@ DTSTART:20250507T133000
 DTEND:20250507T150500
 SUMMARY:DWiPD (w)
 LOCATION:313 S
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T160000
@@ -5889,13 +5882,6 @@ DTEND:20250509T093500
 SUMMARY:Orr (L)
 LOCATION:224 S
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Piotr Stąpor
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250509T095000
-DTEND:20250509T112500
-SUMMARY:MPH (w)
-LOCATION:313 S
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T114000
@@ -6052,11 +6038,25 @@ LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 83\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250516T160000
+DTEND:20250516T173500
+SUMMARY:MPH (w)
+LOCATION:301/ S
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250517T095000
 DTEND:20250517T112500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 39\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250519T080000
+DTEND:20250519T093500
+SUMMARY:DWiPD (w)
+LOCATION:313 S
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T095000

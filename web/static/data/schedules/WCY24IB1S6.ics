@@ -1355,20 +1355,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250303T133000
-DTEND:20250303T150500
-SUMMARY:Sck (L)
-LOCATION:121 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Dagmara Mazur
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250303T160000
-DTEND:20250303T173500
-SUMMARY:Sck (L)
-LOCATION:121 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Dagmara Mazur
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250303T175000
 DTEND:20250303T192500
 SUMMARY:ZINŻ (w)
@@ -1425,18 +1411,25 @@ LOCATION:307 S
 DESCRIPTION:Kryptologia współczesna\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr Krzysztof Kanciak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250305T133000
+DTEND:20250305T150500
+SUMMARY:Sck (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250305T160000
+DTEND:20250305T173500
+SUMMARY:Sck (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250306T080000
 DTEND:20250306T093500
 SUMMARY:BwCP (ć)
 LOCATION:125 65
 DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: mgr inż. Leszek Kalman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250306T095000
-DTEND:20250306T112500
-SUMMARY:Mnwd (w)
-LOCATION:233 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T114000
@@ -1604,7 +1597,7 @@ DTSTART:20250313T095000
 DTEND:20250313T112500
 SUMMARY:Mnwd (w)
 LOCATION:228 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T114000
@@ -1968,7 +1961,7 @@ DTSTART:20250327T095000
 DTEND:20250327T112500
 SUMMARY:Mnwd (w)
 LOCATION:308 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T114000
@@ -2396,6 +2389,13 @@ DTEND:20250408T131500
 SUMMARY:SNATO (w)
 LOCATION:219 65
 DESCRIPTION:Systemy i sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250408T133000
+DTEND:20250408T150500
+SUMMARY:Mnwd (w)
+LOCATION:228 S
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T175000

@@ -4668,9 +4668,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T114000
 DTEND:20250305T131500
-SUMMARY:Miswd (w)
-LOCATION:308 S
-DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Andrzej Najgebauer
+SUMMARY:Ja (ć)
+LOCATION:120 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 61\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T133000
@@ -4706,6 +4706,27 @@ DTEND:20250307T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 62\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250307T095000
+DTEND:20250307T112500
+SUMMARY:MPH (w)
+LOCATION:313 S
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250307T114000
+DTEND:20250307T131500
+SUMMARY:Ja (ć)
+LOCATION:120 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 62\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250307T160000
+DTEND:20250307T173500
+SUMMARY:Ja (ć)
+LOCATION:-
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 63\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250308T095000
@@ -4799,6 +4820,20 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 64\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250314T095000
+DTEND:20250314T112500
+SUMMARY:MPH (w)
+LOCATION:313 S
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250314T114000
+DTEND:20250314T131500
+SUMMARY:Ja (ć)
+LOCATION:120 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 64\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250315T095000
 DTEND:20250315T112500
 SUMMARY:XWF (ć)
@@ -4824,7 +4859,7 @@ DTSTART:20250319T114000
 DTEND:20250319T131500
 SUMMARY:Miswd (w)
 LOCATION:252 S
-DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T095000
@@ -4867,6 +4902,20 @@ DTEND:20250321T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 66\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250321T095000
+DTEND:20250321T112500
+SUMMARY:MPH (w)
+LOCATION:313 S
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250321T114000
+DTEND:20250321T131500
+SUMMARY:Ja (ć)
+LOCATION:-
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 65\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250322T095000
@@ -4943,7 +4992,7 @@ DTSTART:20250326T114000
 DTEND:20250326T131500
 SUMMARY:Miswd (w)
 LOCATION:252 S
-DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T133000
@@ -4988,6 +5037,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 68\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250328T095000
+DTEND:20250328T112500
+SUMMARY:MPH (w)
+LOCATION:313 S
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250328T114000
 DTEND:20250328T131500
 SUMMARY:MeSK (L)
@@ -5000,6 +5056,20 @@ DTEND:20250328T150500
 SUMMARY:MeSK (L)
 LOCATION:226 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250328T160000
+DTEND:20250328T173500
+SUMMARY:Ja (ć)
+LOCATION:120 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 66\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250328T175000
+DTEND:20250328T192500
+SUMMARY:Ja (ć)
+LOCATION:120 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 67\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250329T095000
@@ -5118,7 +5188,7 @@ DTSTART:20250402T114000
 DTEND:20250402T131500
 SUMMARY:Miswd (w)
 LOCATION:307 S
-DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T133000
@@ -5177,6 +5247,41 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 69\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250404T095000
+DTEND:20250404T112500
+SUMMARY:MPH (w)
+LOCATION:313 S
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250404T114000
+DTEND:20250404T131500
+SUMMARY:Ja (ć)
+LOCATION:120 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 68\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250404T133000
+DTEND:20250404T150500
+SUMMARY:Dn (w)
+LOCATION:313 S
+DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250404T160000
+DTEND:20250404T173500
+SUMMARY:Ja (ć)
+LOCATION:120 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 69\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250404T175000
+DTEND:20250404T192500
+SUMMARY:Ja (ć)
+LOCATION:120 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 70\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250405T095000
 DTEND:20250405T112500
 SUMMARY:XWF (ć)
@@ -5217,6 +5322,13 @@ DTEND:20250408T112500
 SUMMARY:Pkw (ć)
 LOCATION:219 65
 DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: dr Krzysztof Kanciak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250408T114000
+DTEND:20250408T131500
+SUMMARY:Miswd (w)
+LOCATION:252 S
+DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T133000
@@ -5261,6 +5373,13 @@ LOCATION:252 S
 DESCRIPTION:Modelowanie i analiza sieci złożonych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250409T133000
+DTEND:20250409T150500
+SUMMARY:DWiPD (w)
+LOCATION:313 S
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250410T095000
 DTEND:20250410T112500
 SUMMARY:Pjn (w)
@@ -5296,11 +5415,39 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 71\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250411T095000
+DTEND:20250411T112500
+SUMMARY:MPH (w)
+LOCATION:313 S
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250411T114000
+DTEND:20250411T131500
+SUMMARY:Ja (ć)
+LOCATION:-
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 71\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250411T133000
+DTEND:20250411T150500
+SUMMARY:Dn (w)
+LOCATION:313 S
+DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250412T095000
 DTEND:20250412T112500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 36\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250414T080000
+DTEND:20250414T093500
+SUMMARY:DWiPD (ć)
+LOCATION:205 65
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T095000
@@ -5625,6 +5772,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250507T080000
+DTEND:20250507T093500
+SUMMARY:Dn (ć)
+LOCATION:203 65
+DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250507T095000
 DTEND:20250507T112500
 SUMMARY:Masz (ć)
@@ -5637,6 +5791,13 @@ DTEND:20250507T131500
 SUMMARY:Miswd (L)
 LOCATION:227 S
 DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Dawid Maślanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250507T133000
+DTEND:20250507T150500
+SUMMARY:DWiPD (w)
+LOCATION:313 S
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T080000
@@ -5700,6 +5861,13 @@ DTEND:20250509T150500
 SUMMARY:ZPr (L)
 LOCATION:227 S
 DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250509T160000
+DTEND:20250509T173500
+SUMMARY:MPH (ć)
+LOCATION:203 65
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250510T095000
@@ -5793,11 +5961,39 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 82\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250516T114000
+DTEND:20250516T131500
+SUMMARY:Ja (ć)
+LOCATION:-
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 72\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250516T160000
+DTEND:20250516T173500
+SUMMARY:MPH (w)
+LOCATION:301/ S
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250517T095000
 DTEND:20250517T112500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 39\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250519T080000
+DTEND:20250519T093500
+SUMMARY:DWiPD (w)
+LOCATION:313 S
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250520T114000
+DTEND:20250520T131500
+SUMMARY:Dn (ć)
+LOCATION:9/ 62
+DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T133000
@@ -5891,6 +6087,13 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 40\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250527T114000
+DTEND:20250527T131500
+SUMMARY:Dn (ć)
+LOCATION:54/ 62
+DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250527T133000
 DTEND:20250527T150500
 SUMMARY:WF (ć)
@@ -5954,6 +6157,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 86\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250530T114000
+DTEND:20250530T131500
+SUMMARY:Ja (ć)
+LOCATION:120 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 73\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250531T095000
 DTEND:20250531T112500
 SUMMARY:XWF (ć)
@@ -5989,6 +6199,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250603T160000
+DTEND:20250603T173500
+SUMMARY:DWiPD (ć)
+LOCATION:201 65
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250605T114000
 DTEND:20250605T131500
 SUMMARY:ZPr (ć)
@@ -6008,6 +6225,13 @@ DTEND:20250606T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 87\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250606T095000
+DTEND:20250606T112500
+SUMMARY:MPH (ć)
+LOCATION:201 65
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T114000
@@ -6143,6 +6367,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 88\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250613T095000
+DTEND:20250613T112500
+SUMMARY:DWiPD (ć)
+LOCATION:205 65
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250613T114000
 DTEND:20250613T131500
 SUMMARY:Miswd (P)
@@ -6192,6 +6423,20 @@ LOCATION:224 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250617T080000
+DTEND:20250617T093500
+SUMMARY:DWiPD (ć)
+LOCATION:204 65
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250617T095000
+DTEND:20250617T112500
+SUMMARY:MPH (ć)
+LOCATION:201 65
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250617T133000
 DTEND:20250617T150500
 SUMMARY:WF (ć)
@@ -6204,5 +6449,12 @@ DTEND:20250618T112500
 SUMMARY:Miswd (L)
 LOCATION:226 S
 DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Dawid Maślanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T114000
+DTEND:20250618T131500
+SUMMARY:Ja (ć)
+LOCATION:-
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 74\nProwadzący: -
 END:VEVENT
 END:VCALENDAR
