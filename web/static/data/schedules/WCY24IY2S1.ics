@@ -1600,6 +1600,13 @@ LOCATION:317 S
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250306T133000
+DTEND:20250306T150500
+SUMMARY:Md2 (w)
+LOCATION:313 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250306T160000
 DTEND:20250306T173500
 SUMMARY:JoM (ć)
@@ -1640,13 +1647,6 @@ DTEND:20250310T112500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250310T114000
-DTEND:20250310T131500
-SUMMARY:Md2 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T133000

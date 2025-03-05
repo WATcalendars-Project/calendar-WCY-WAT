@@ -5408,6 +5408,13 @@ LOCATION:13 71
 DESCRIPTION:Optyka stosowana - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250312T133000
+DTEND:20250312T150500
+SUMMARY:SwSP (Inne)
+LOCATION:51/ 62
+DESCRIPTION:Obowiązkowe spotkanie w sprawie praktyk - (Inne) -\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250313T080000
 DTEND:20250313T093500
 SUMMARY:Fv (w)
@@ -5483,6 +5490,34 @@ DTEND:20250314T211500
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250315T133000
+DTEND:20250315T150500
+SUMMARY:XMat3 (w)
+LOCATION:313 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250315T160000
+DTEND:20250315T173500
+SUMMARY:XMat3 (w)
+LOCATION:313 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250316T114000
+DTEND:20250316T131500
+SUMMARY:XMat3 (ć)
+LOCATION:313 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250316T133000
+DTEND:20250316T150500
+SUMMARY:XMat3 (ć)
+LOCATION:313 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T080000
@@ -5616,6 +5651,34 @@ DTEND:20250321T211500
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250322T133000
+DTEND:20250322T150500
+SUMMARY:XMat3 (w)
+LOCATION:313 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250322T160000
+DTEND:20250322T173500
+SUMMARY:XMat3 (w)
+LOCATION:313 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250323T114000
+DTEND:20250323T131500
+SUMMARY:XMat3 (ć)
+LOCATION:313 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250323T133000
+DTEND:20250323T150500
+SUMMARY:XMat3 (ć)
+LOCATION:313 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T080000
@@ -5756,6 +5819,20 @@ DTEND:20250328T211500
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250329T133000
+DTEND:20250329T150500
+SUMMARY:XMat3 (w)
+LOCATION:313 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250329T160000
+DTEND:20250329T173500
+SUMMARY:XMat3 (w)
+LOCATION:313 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T080000
@@ -6514,6 +6591,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250427T114000
+DTEND:20250427T131500
+SUMMARY:XMat3 (ć)
+LOCATION:313 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250427T133000
+DTEND:20250427T150500
+SUMMARY:XMat3 (ć)
+LOCATION:313 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250428T095000
 DTEND:20250428T112500
 SUMMARY:MrT (w)
@@ -6761,9 +6852,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T095000
 DTEND:20250506T112500
-SUMMARY:Pla (w)
+SUMMARY:Pla (Inne)
 LOCATION:27 70
-DESCRIPTION:Podstawy laserów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: -
+DESCRIPTION:Podstawy laserów - (Seminarium) -\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T114000
@@ -6885,6 +6976,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250511T114000
+DTEND:20250511T131500
+SUMMARY:XMat3 (w)
+LOCATION:313 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250511T133000
+DTEND:20250511T150500
+SUMMARY:XMat3 (w)
+LOCATION:313 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250512T080000
 DTEND:20250512T093500
 SUMMARY:L4g. (L)
@@ -6924,7 +7029,7 @@ DTSTART:20250513T095000
 DTEND:20250513T112500
 SUMMARY:Pla (Inne)
 LOCATION:27 70
-DESCRIPTION:Podstawy laserów - (Seminarium) -\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+DESCRIPTION:Podstawy laserów - (Seminarium) -\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T114000
@@ -7057,7 +7162,7 @@ DTSTART:20250520T095000
 DTEND:20250520T112500
 SUMMARY:Pla (Inne)
 LOCATION:27 70
-DESCRIPTION:Podstawy laserów - (Seminarium) -\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: -
+DESCRIPTION:Podstawy laserów - (Seminarium) -\nRodzaj zajęć: Nieznany\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T114000
@@ -7183,7 +7288,7 @@ DTSTART:20250527T095000
 DTEND:20250527T112500
 SUMMARY:Pla (Inne)
 LOCATION:13 71
-DESCRIPTION:Podstawy laserów - (Seminarium) -\nRodzaj zajęć: Nieznany\nNr zajęć: 3\nProwadzący: -
+DESCRIPTION:Podstawy laserów - (Seminarium) -\nRodzaj zajęć: Nieznany\nNr zajęć: 4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T114000
@@ -7291,6 +7396,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250531T133000
+DTEND:20250531T150500
+SUMMARY:XMat3 (ć)
+LOCATION:313 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250531T160000
+DTEND:20250531T173500
+SUMMARY:XMat3 (ć)
+LOCATION:313 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250603T080000
 DTEND:20250603T093500
 SUMMARY:SsO (ć)
@@ -7302,7 +7421,7 @@ DTSTART:20250603T095000
 DTEND:20250603T112500
 SUMMARY:Pla (Inne)
 LOCATION:13 71
-DESCRIPTION:Podstawy laserów - (Seminarium) -\nRodzaj zajęć: Nieznany\nNr zajęć: 4\nProwadzący: -
+DESCRIPTION:Podstawy laserów - (Seminarium) -\nRodzaj zajęć: Nieznany\nNr zajęć: 5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T114000
@@ -7417,11 +7536,39 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250607T095000
+DTEND:20250607T112500
+SUMMARY:XMat3 (w)
+LOCATION:313 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 9\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250607T114000
+DTEND:20250607T131500
+SUMMARY:XMat3 (w)
+LOCATION:313 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 10\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250608T133000
+DTEND:20250608T150500
+SUMMARY:XMat3 (ć)
+LOCATION:313 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250608T160000
+DTEND:20250608T173500
+SUMMARY:XMat3 (ć)
+LOCATION:313 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250610T095000
 DTEND:20250610T112500
 SUMMARY:Pla (Inne)
 LOCATION:27 70
-DESCRIPTION:Podstawy laserów - (Seminarium) -\nRodzaj zajęć: Nieznany\nNr zajęć: 5\nProwadzący: -
+DESCRIPTION:Podstawy laserów - (Seminarium) -\nRodzaj zajęć: Nieznany\nNr zajęć: 6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T114000
@@ -7529,6 +7676,27 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250614T133000
+DTEND:20250614T150500
+SUMMARY:XMat3 (w)
+LOCATION:313 S
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 11\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250614T160000
+DTEND:20250614T173500
+SUMMARY:XMat3 (L)
+LOCATION:219 65
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250614T175000
+DTEND:20250614T192500
+SUMMARY:XMat3 (L)
+LOCATION:219 65
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250617T080000
 DTEND:20250617T093500
 SUMMARY:L4g. (L)
@@ -7545,9 +7713,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T114000
 DTEND:20250617T131500
-SUMMARY:Pla (Inne)
+SUMMARY:Pla (w)
 LOCATION:27 70
-DESCRIPTION:Podstawy laserów - (Seminarium) -\nRodzaj zajęć: Nieznany\nNr zajęć: 6\nProwadzący: -
+DESCRIPTION:Podstawy laserów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T133000

@@ -1628,25 +1628,25 @@ LOCATION:09 65
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250515T080000
-DTEND:20250515T093500
-SUMMARY:Oni (P)
-LOCATION:106 65
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 2\nProwadzący: dr inż. Adam Patkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250515T095000
-DTEND:20250515T112500
-SUMMARY:Oni (P)
-LOCATION:106 65
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 3\nProwadzący: dr inż. Adam Patkowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250515T114000
 DTEND:20250515T131500
 SUMMARY:Ja (ć)
 LOCATION:239 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250515T160000
+DTEND:20250515T173500
+SUMMARY:Oni (P)
+LOCATION:108 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 2\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250515T175000
+DTEND:20250515T192500
+SUMMARY:Oni (P)
+LOCATION:108 65
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 3\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T080000

@@ -2286,20 +2286,6 @@ LOCATION:317 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250221T160000
-DTEND:20250221T173500
-SUMMARY:MD1 (Inne)
-LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Nieznany\nNr zajęć: 3\nProwadzący: dr inż. Elżbieta Burek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250221T175000
-DTEND:20250221T192500
-SUMMARY:MD1 (Inne)
-LOCATION:078 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Nieznany\nNr zajęć: 4\nProwadzący: dr inż. Elżbieta Burek
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250303T114000
 DTEND:20250303T131500
 SUMMARY:WF (ć)
@@ -2699,6 +2685,20 @@ LOCATION:132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 36\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250321T160000
+DTEND:20250321T173500
+SUMMARY:MD1 (Inne)
+LOCATION:314 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Nieznany\nNr zajęć: 3\nProwadzący: dr inż. Elżbieta Burek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250321T175000
+DTEND:20250321T192500
+SUMMARY:MD1 (Inne)
+LOCATION:078 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Nieznany\nNr zajęć: 4\nProwadzący: dr inż. Elżbieta Burek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250324T095000
 DTEND:20250324T112500
 SUMMARY:F1 (ć)
@@ -2718,6 +2718,20 @@ DTEND:20250324T150500
 SUMMARY:SŁiŚD (w)
 LOCATION:aE S
 DESCRIPTION:System łączności i środki dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250324T160000
+DTEND:20250324T173500
+SUMMARY:PTk (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250324T175000
+DTEND:20250324T192500
+SUMMARY:PTk (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T080000
@@ -2809,20 +2823,6 @@ DTEND:20250328T093500
 SUMMARY:Amt (w)
 LOCATION:314 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: prof. dr hab. Wojciech Zajączkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250328T095000
-DTEND:20250328T112500
-SUMMARY:PTk (w)
-LOCATION:314 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Krzysztof Murawski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250328T114000
-DTEND:20250328T131500
-SUMMARY:PTk (w)
-LOCATION:314 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T133000

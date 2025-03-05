@@ -1733,20 +1733,6 @@ LOCATION:307 S
 DESCRIPTION:Event-driven programming\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250408T080000
-DTEND:20250408T093500
-SUMMARY:Sn (L)
-LOCATION:95 S
-DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250408T095000
-DTEND:20250408T112500
-SUMMARY:Sn (L)
-LOCATION:95 S
-DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250408T114000
 DTEND:20250408T131500
 SUMMARY:PWSI (P)
@@ -1835,14 +1821,14 @@ DTSTART:20250415T080000
 DTEND:20250415T093500
 SUMMARY:Sn (L)
 LOCATION:95 S
-DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: -
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T095000
 DTEND:20250415T112500
 SUMMARY:Sn (L)
 LOCATION:95 S
-DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: -
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T114000
@@ -1975,14 +1961,14 @@ DTSTART:20250429T080000
 DTEND:20250429T093500
 SUMMARY:Sn (L)
 LOCATION:95 S
-DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: -
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T095000
 DTEND:20250429T112500
 SUMMARY:Sn (L)
 LOCATION:95 S
-DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: -
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T114000
@@ -2066,21 +2052,21 @@ DTSTART:20250507T080000
 DTEND:20250507T093500
 SUMMARY:Sn (L)
 LOCATION:95 S
-DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: -
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T095000
 DTEND:20250507T112500
 SUMMARY:Sn (L)
 LOCATION:95 S
-DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: -
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T114000
 DTEND:20250507T131500
 SUMMARY:Sn (L)
 LOCATION:95 S
-DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący: -
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T114000
@@ -2123,6 +2109,20 @@ DTEND:20250513T150500
 SUMMARY:PZ (P)
 LOCATION:237 S
 DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 13\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250514T080000
+DTEND:20250514T093500
+SUMMARY:Sn (L)
+LOCATION:95 S
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250514T095000
+DTEND:20250514T112500
+SUMMARY:Sn (L)
+LOCATION:95 S
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T114000
