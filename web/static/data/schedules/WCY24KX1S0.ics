@@ -4113,13 +4113,6 @@ LOCATION:233 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250602T095000
-DTEND:20250602T112500
-SUMMARY:PTk (w)
-LOCATION:314 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 14\nProwadzący: dr inż. Krzysztof Murawski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250602T114000
 DTEND:20250602T131500
 SUMMARY:WF (ć)
@@ -4265,6 +4258,13 @@ DTEND:20250609T131500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 58\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250609T160000
+DTEND:20250609T173500
+SUMMARY:PTk (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 14\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T080000

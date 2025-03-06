@@ -4617,13 +4617,6 @@ LOCATION:316 S
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250305T095000
-DTEND:20250305T112500
-SUMMARY:MeSK (w)
-LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250305T114000
 DTEND:20250305T131500
 SUMMARY:Ja (ć)
@@ -4727,6 +4720,13 @@ DTEND:20250310T150500
 SUMMARY:Orr (w)
 LOCATION:227 S
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący:  Patryk Serafin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250310T175000
+DTEND:20250310T192500
+SUMMARY:Ps (Inne)
+LOCATION:219 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Nieznany\nNr zajęć: 3\nProwadzący: dr Lucjan Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T080000
@@ -4853,6 +4853,13 @@ DTEND:20250317T131500
 SUMMARY:dsk (L)
 LOCATION:106 65
 DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250317T160000
+DTEND:20250317T173500
+SUMMARY:MeSK (w)
+LOCATION:314 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T080000

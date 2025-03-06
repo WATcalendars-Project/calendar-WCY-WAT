@@ -5268,13 +5268,6 @@ LOCATION:101 65
 DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250305T095000
-DTEND:20250305T112500
-SUMMARY:MeSK (w)
-LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250305T114000
 DTEND:20250305T131500
 SUMMARY:Ja (ć)
@@ -5331,6 +5324,13 @@ LOCATION:120 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 62\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250307T133000
+DTEND:20250307T150500
+SUMMARY:AśW (Inne)
+LOCATION:121 65
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Nieznany\nNr zajęć: 3\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250307T160000
 DTEND:20250307T173500
 SUMMARY:Ja (ć)
@@ -5371,6 +5371,13 @@ DTEND:20250310T173500
 SUMMARY:ESI (w)
 LOCATION:203 65
 DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250310T175000
+DTEND:20250310T192500
+SUMMARY:Ps (Inne)
+LOCATION:219 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Nieznany\nNr zajęć: 3\nProwadzący: dr Lucjan Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T080000
@@ -5511,6 +5518,13 @@ DTEND:20250317T150500
 SUMMARY:Sa. (w)
 LOCATION:307 S
 DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250317T160000
+DTEND:20250317T173500
+SUMMARY:MeSK (w)
+LOCATION:314 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T080000
@@ -6360,6 +6374,13 @@ LOCATION:120 65
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250424T095000
+DTEND:20250424T112500
+SUMMARY:ESI (L)
+LOCATION:121 65
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250424T114000
 DTEND:20250424T131500
 SUMMARY:dsk (P)
@@ -6616,7 +6637,7 @@ DTSTART:20250508T175000
 DTEND:20250508T192500
 SUMMARY:ESI (L)
 LOCATION:121 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Sławomir Matusiak
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T080000
@@ -6931,7 +6952,7 @@ DTSTART:20250523T133000
 DTEND:20250523T150500
 SUMMARY:ESI (L)
 LOCATION:121 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Sławomir Matusiak
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T160000
@@ -7162,7 +7183,7 @@ DTSTART:20250606T133000
 DTEND:20250606T150500
 SUMMARY:ESI (L)
 LOCATION:121 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Sławomir Matusiak
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T175000
@@ -7240,13 +7261,6 @@ DTEND:20250610T192500
 SUMMARY:Sa. (L)
 LOCATION:106 65
 DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Adrian Myśliwiec
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250611T095000
-DTEND:20250611T112500
-SUMMARY:ESI (L)
-LOCATION:121 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T114000

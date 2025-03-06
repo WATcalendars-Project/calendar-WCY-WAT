@@ -2986,13 +2986,6 @@ LOCATION:227 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250602T095000
-DTEND:20250602T112500
-SUMMARY:PTk (w)
-LOCATION:314 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 14\nProwadzący: dr inż. Krzysztof Murawski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250603T095000
 DTEND:20250603T112500
 SUMMARY:WdP (L)
@@ -3082,6 +3075,13 @@ DTEND:20250609T150500
 SUMMARY:PTk (ć)
 LOCATION:101 65
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący:  Jozef Turczyn
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250609T160000
+DTEND:20250609T173500
+SUMMARY:PTk (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 14\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T114000

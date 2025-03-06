@@ -1607,6 +1607,13 @@ LOCATION:317 S
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250306T133000
+DTEND:20250306T150500
+SUMMARY:Md2 (w)
+LOCATION:313 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250306T160000
 DTEND:20250306T173500
 SUMMARY:JoM (ć)
@@ -1640,13 +1647,6 @@ DTEND:20250310T112500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250310T114000
-DTEND:20250310T131500
-SUMMARY:Md2 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T133000
@@ -1775,13 +1775,6 @@ LOCATION:317 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250317T133000
-DTEND:20250317T150500
-SUMMARY:F1 (ć)
-LOCATION:205 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250318T080000
 DTEND:20250318T093500
 SUMMARY:F1 (w)
@@ -1828,7 +1821,7 @@ DTSTART:20250319T095000
 DTEND:20250319T112500
 SUMMARY:F1 (ć)
 LOCATION:205 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T114000
@@ -1919,7 +1912,7 @@ DTSTART:20250324T133000
 DTEND:20250324T150500
 SUMMARY:F1 (ć)
 LOCATION:205 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T160000
@@ -2101,7 +2094,7 @@ DTSTART:20250331T133000
 DTEND:20250331T150500
 SUMMARY:F1 (ć)
 LOCATION:205 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T095000
@@ -2395,7 +2388,7 @@ DTSTART:20250414T133000
 DTEND:20250414T150500
 SUMMARY:F1 (ć)
 LOCATION:205 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T175000
@@ -2486,7 +2479,7 @@ DTSTART:20250423T095000
 DTEND:20250423T112500
 SUMMARY:F1 (ć)
 LOCATION:205 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T114000
@@ -2543,6 +2536,13 @@ DTEND:20250424T173500
 SUMMARY:JoM (ć)
 LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 24\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250428T080000
+DTEND:20250428T093500
+SUMMARY:F1 (ć)
+LOCATION:205 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T095000

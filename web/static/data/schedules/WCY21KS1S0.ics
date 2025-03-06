@@ -4841,11 +4841,11 @@ LOCATION:201 65
 DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250305T095000
-DTEND:20250305T112500
-SUMMARY:MeSK (w)
-LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DTSTART:20250305T114000
+DTEND:20250305T131500
+SUMMARY:Ja (ć)
+LOCATION:-
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 61\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T133000
@@ -4897,6 +4897,20 @@ LOCATION:085 S
 DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: mgr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250307T114000
+DTEND:20250307T131500
+SUMMARY:Ja (ć)
+LOCATION:120 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 62\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250307T160000
+DTEND:20250307T173500
+SUMMARY:Ja (ć)
+LOCATION:-
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 63\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250308T095000
 DTEND:20250308T112500
 SUMMARY:XWF (ć)
@@ -4918,6 +4932,13 @@ LOCATION:085 S
 DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250310T175000
+DTEND:20250310T192500
+SUMMARY:Ps (Inne)
+LOCATION:219 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Nieznany\nNr zajęć: 3\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250311T080000
 DTEND:20250311T093500
 SUMMARY:tcs (w)
@@ -4930,6 +4951,13 @@ DTEND:20250311T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 63\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250311T160000
+DTEND:20250311T173500
+SUMMARY:MPH (w)
+LOCATION:205 65
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T080000
@@ -5009,6 +5037,13 @@ LOCATION:085 S
 DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: mgr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250314T133000
+DTEND:20250314T150500
+SUMMARY:Dn (w)
+LOCATION:204 65
+DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250315T095000
 DTEND:20250315T112500
 SUMMARY:XWF (ć)
@@ -5028,6 +5063,27 @@ DTEND:20250317T131500
 SUMMARY:Akst (w)
 LOCATION:085 S
 DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: mgr inż. Łukasz Dzieł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250317T160000
+DTEND:20250317T173500
+SUMMARY:MeSK (w)
+LOCATION:314 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250318T095000
+DTEND:20250318T112500
+SUMMARY:Dn (w)
+LOCATION:204 65
+DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250318T114000
+DTEND:20250318T131500
+SUMMARY:DWiPD (w)
+LOCATION:3.7 75
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T133000
@@ -5142,6 +5198,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 67\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250325T160000
+DTEND:20250325T173500
+SUMMARY:MPH (w)
+LOCATION:205 65
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250326T080000
 DTEND:20250326T093500
 SUMMARY:tcs (w)
@@ -5224,6 +5287,27 @@ DTEND:20250328T131500
 SUMMARY:Akst (w)
 LOCATION:085 S
 DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: mgr inż. Łukasz Dzieł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250328T133000
+DTEND:20250328T150500
+SUMMARY:MPH (w)
+LOCATION:205 65
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250328T160000
+DTEND:20250328T173500
+SUMMARY:Ja (ć)
+LOCATION:120 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 64\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250328T175000
+DTEND:20250328T192500
+SUMMARY:Ja (ć)
+LOCATION:120 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 65\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250329T095000
@@ -5415,6 +5499,20 @@ LOCATION:226 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250404T160000
+DTEND:20250404T173500
+SUMMARY:Ja (ć)
+LOCATION:120 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 66\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250404T175000
+DTEND:20250404T192500
+SUMMARY:Ja (ć)
+LOCATION:120 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 67\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250405T095000
 DTEND:20250405T112500
 SUMMARY:XWF (ć)
@@ -5464,6 +5562,13 @@ LOCATION:218 65
 DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250408T114000
+DTEND:20250408T131500
+SUMMARY:DWiPD (w)
+LOCATION:9/ 62
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250408T133000
 DTEND:20250408T150500
 SUMMARY:WF (ć)
@@ -5483,6 +5588,13 @@ DTEND:20250409T112500
 SUMMARY:Gtl (w)
 LOCATION:085 S
 DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: mgr inż. Krzysztof Mańk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250409T114000
+DTEND:20250409T131500
+SUMMARY:Ja (ć)
+LOCATION:-
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 68\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T133000
@@ -5548,6 +5660,13 @@ LOCATION:085 S
 DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250411T160000
+DTEND:20250411T173500
+SUMMARY:MPH (w)
+LOCATION:205 65
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250412T095000
 DTEND:20250412T112500
 SUMMARY:XWF (ć)
@@ -5583,11 +5702,32 @@ LOCATION:226 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250415T095000
+DTEND:20250415T112500
+SUMMARY:Dn (w)
+LOCATION:119 45
+DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250415T114000
+DTEND:20250415T131500
+SUMMARY:DWiPD (w)
+LOCATION:204 65
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250415T133000
 DTEND:20250415T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 73\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250415T160000
+DTEND:20250415T173500
+SUMMARY:DWiPD (ć)
+LOCATION:204 65
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T095000
@@ -5863,6 +6003,13 @@ LOCATION:204 65
 DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250507T114000
+DTEND:20250507T131500
+SUMMARY:Ja (ć)
+LOCATION:-
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 69\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250508T080000
 DTEND:20250508T093500
 SUMMARY:WF (ć)
@@ -5898,6 +6045,20 @@ LOCATION:085 S
 DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych II\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: dr inż. Michał Wroński
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250509T095000
+DTEND:20250509T112500
+SUMMARY:MPH (w)
+LOCATION:205 65
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250509T114000
+DTEND:20250509T131500
+SUMMARY:Ja (ć)
+LOCATION:-
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 70\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250510T095000
 DTEND:20250510T112500
 SUMMARY:XWF (ć)
@@ -5926,11 +6087,39 @@ LOCATION:085 S
 DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 12\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250512T160000
+DTEND:20250512T173500
+SUMMARY:MPH (ć)
+LOCATION:205 65
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250513T095000
+DTEND:20250513T112500
+SUMMARY:DWiPD (ć)
+LOCATION:205 65
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250513T114000
+DTEND:20250513T131500
+SUMMARY:Dn (ć)
+LOCATION:205 65
+DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250513T133000
 DTEND:20250513T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 81\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250513T160000
+DTEND:20250513T173500
+SUMMARY:MPH (w)
+LOCATION:205 65
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T095000
@@ -6003,6 +6192,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 82\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250516T114000
+DTEND:20250516T131500
+SUMMARY:Ja (ć)
+LOCATION:-
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 71\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250517T095000
 DTEND:20250517T112500
 SUMMARY:XWF (ć)
@@ -6038,6 +6234,13 @@ LOCATION:085 S
 DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 14\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250519T160000
+DTEND:20250519T173500
+SUMMARY:MPH (ć)
+LOCATION:205 65
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250520T114000
 DTEND:20250520T131500
 SUMMARY:Gtl (ć)
@@ -6052,11 +6255,32 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 83\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250520T160000
+DTEND:20250520T173500
+SUMMARY:MPH (w)
+LOCATION:205 65
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250521T080000
 DTEND:20250521T093500
 SUMMARY:Gtl (L)
 LOCATION:085 S
 DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Łukasz Dzieł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250521T095000
+DTEND:20250521T112500
+SUMMARY:DWiPD (ć)
+LOCATION:119 45
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250521T114000
+DTEND:20250521T131500
+SUMMARY:Ja (ć)
+LOCATION:-
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 72\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T080000
@@ -6092,6 +6316,20 @@ DTEND:20250523T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 84\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250523T095000
+DTEND:20250523T112500
+SUMMARY:Dn (ć)
+LOCATION:205 65
+DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250523T114000
+DTEND:20250523T131500
+SUMMARY:Ja (ć)
+LOCATION:-
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 73\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T095000
@@ -6190,6 +6428,27 @@ DTEND:20250530T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 86\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250530T095000
+DTEND:20250530T112500
+SUMMARY:Dn (ć)
+LOCATION:204 65
+DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250530T114000
+DTEND:20250530T131500
+SUMMARY:Ja (ć)
+LOCATION:120 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 74\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250530T133000
+DTEND:20250530T150500
+SUMMARY:MPH (ć)
+LOCATION:205 65
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250531T095000
@@ -6295,6 +6554,13 @@ DTEND:20250606T112500
 SUMMARY:Gtl (L)
 LOCATION:085 S
 DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Łukasz Dzieł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250606T114000
+DTEND:20250606T131500
+SUMMARY:Ja (ć)
+LOCATION:-
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 75\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250607T095000
@@ -6437,6 +6703,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 88\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250613T114000
+DTEND:20250613T131500
+SUMMARY:Ja (ć)
+LOCATION:-
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 76\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250614T095000
 DTEND:20250614T112500
 SUMMARY:XWF (ć)
@@ -6470,6 +6743,13 @@ DTEND:20250616T150500
 SUMMARY:Akst (L)
 LOCATION:085 S
 DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 20\nProwadzący: mgr inż. Łukasz Dzieł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250617T095000
+DTEND:20250617T112500
+SUMMARY:DWiPD (ć)
+LOCATION:204 65
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T133000

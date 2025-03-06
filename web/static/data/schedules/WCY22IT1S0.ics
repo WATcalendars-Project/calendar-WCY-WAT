@@ -414,7 +414,7 @@ DTSTART:20250321T095000
 DTEND:20250321T112500
 SUMMARY:Sib (w)
 LOCATION:101 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący:  Zbigniew Świerczynski
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T114000
@@ -512,7 +512,7 @@ DTSTART:20250326T080000
 DTEND:20250326T093500
 SUMMARY:Sib (w)
 LOCATION:101 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący:  Zbigniew Świerczynski
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T114000
@@ -799,7 +799,7 @@ DTSTART:20250404T160000
 DTEND:20250404T173500
 SUMMARY:Sib (w)
 LOCATION:101 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący:  Zbigniew Świerczynski
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250405T080000
@@ -988,7 +988,7 @@ DTSTART:20250411T160000
 DTEND:20250411T173500
 SUMMARY:Sib (w)
 LOCATION:101 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący:  Zbigniew Świerczynski
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250412T080000
@@ -1096,13 +1096,6 @@ LOCATION:205 65
 DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250416T160000
-DTEND:20250416T173500
-SUMMARY:Sib (w)
-LOCATION:101 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący:  Zbigniew Świerczynski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250417T080000
 DTEND:20250417T093500
 SUMMARY:Ja (ć)
@@ -1142,7 +1135,7 @@ DTSTART:20250423T080000
 DTEND:20250423T093500
 SUMMARY:Sib (w)
 LOCATION:101 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący:  Zbigniew Świerczynski
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T095000
@@ -1626,6 +1619,13 @@ DTEND:20250515T093500
 SUMMARY:Ja (ć)
 LOCATION:237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250515T095000
+DTEND:20250515T112500
+SUMMARY:Sib (w)
+LOCATION:201 65
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T114000
@@ -2272,6 +2272,13 @@ LOCATION:237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 29\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250612T114000
+DTEND:20250612T131500
+SUMMARY:Sib (w)
+LOCATION:201 65
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250612T133000
 DTEND:20250612T150500
 SUMMARY:WF (ć)
@@ -2375,13 +2382,6 @@ DTEND:20250617T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250618T095000
-DTEND:20250618T112500
-SUMMARY:Sib (w)
-LOCATION:101 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący:  Zbigniew Świerczynski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T114000

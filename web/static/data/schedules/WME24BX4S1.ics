@@ -3042,20 +3042,6 @@ LOCATION:233 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250320T095000
-DTEND:20250320T112500
-SUMMARY:TwM (L)
-LOCATION:18 45
-DESCRIPTION:Telemonitoring w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250320T114000
-DTEND:20250320T131500
-SUMMARY:TwM (L)
-LOCATION:18 45
-DESCRIPTION:Telemonitoring w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250320T133000
 DTEND:20250320T150500
 SUMMARY:Acz. (Inne)
@@ -3068,13 +3054,6 @@ DTEND:20250320T173500
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250321T095000
-DTEND:20250321T112500
-SUMMARY:Fil (w)
-LOCATION:52/ 62
-DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T114000
@@ -3207,21 +3186,21 @@ DTSTART:20250328T095000
 DTEND:20250328T112500
 SUMMARY:Fil (w)
 LOCATION:52/ 62
-DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: -
+DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T114000
 DTEND:20250328T131500
 SUMMARY:TwM (L)
 LOCATION:18 45
-DESCRIPTION:Telemonitoring w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: -
+DESCRIPTION:Telemonitoring w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T133000
 DTEND:20250328T150500
 SUMMARY:TwM (L)
 LOCATION:18 45
-DESCRIPTION:Telemonitoring w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: -
+DESCRIPTION:Telemonitoring w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T160000
@@ -3326,14 +3305,14 @@ DTSTART:20250403T114000
 DTEND:20250403T131500
 SUMMARY:TwM (L)
 LOCATION:18 45
-DESCRIPTION:Telemonitoring w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: -
+DESCRIPTION:Telemonitoring w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T133000
 DTEND:20250403T150500
 SUMMARY:TwM (L)
 LOCATION:18 45
-DESCRIPTION:Telemonitoring w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: -
+DESCRIPTION:Telemonitoring w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T160000
@@ -3354,7 +3333,7 @@ DTSTART:20250404T095000
 DTEND:20250404T112500
 SUMMARY:Fil (w)
 LOCATION:52/ 62
-DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: -
+DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T114000
@@ -3455,6 +3434,20 @@ LOCATION:233 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250410T114000
+DTEND:20250410T131500
+SUMMARY:TwM (L)
+LOCATION:18 45
+DESCRIPTION:Telemonitoring w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250410T133000
+DTEND:20250410T150500
+SUMMARY:TwM (L)
+LOCATION:18 45
+DESCRIPTION:Telemonitoring w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250410T160000
 DTEND:20250410T173500
 SUMMARY:Ja (ć)
@@ -3487,7 +3480,7 @@ DTSTART:20250411T095000
 DTEND:20250411T112500
 SUMMARY:Fil (w)
 LOCATION:52/ 62
-DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: -
+DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T114000
@@ -4327,7 +4320,7 @@ DTSTART:20250509T095000
 DTEND:20250509T112500
 SUMMARY:Fil (w)
 LOCATION:52/ 62
-DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: -
+DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T114000
@@ -4453,7 +4446,7 @@ DTSTART:20250516T095000
 DTEND:20250516T112500
 SUMMARY:Fil (w)
 LOCATION:52/ 62
-DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: -
+DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T114000
@@ -4517,6 +4510,13 @@ DTEND:20250520T150500
 SUMMARY:F1 (ć)
 LOCATION:8/ 62
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250520T160000
+DTEND:20250520T173500
+SUMMARY:Fil (w)
+LOCATION:52/ 62
+DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T080000

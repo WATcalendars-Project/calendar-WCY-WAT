@@ -3056,18 +3056,11 @@ LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250321T080000
-DTEND:20250321T093500
+DTSTART:20250321T095000
+DTEND:20250321T112500
 SUMMARY:F1 (ć)
 LOCATION:55/ 62
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250321T095000
-DTEND:20250321T112500
-SUMMARY:Fil (w)
-LOCATION:52/ 62
-DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T114000
@@ -3207,7 +3200,7 @@ DTSTART:20250328T095000
 DTEND:20250328T112500
 SUMMARY:Fil (w)
 LOCATION:52/ 62
-DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: -
+DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T114000
@@ -3333,7 +3326,7 @@ DTSTART:20250404T095000
 DTEND:20250404T112500
 SUMMARY:Fil (w)
 LOCATION:52/ 62
-DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: -
+DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T114000
@@ -3480,7 +3473,7 @@ DTSTART:20250411T095000
 DTEND:20250411T112500
 SUMMARY:Fil (w)
 LOCATION:52/ 62
-DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: -
+DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T114000
@@ -4348,7 +4341,7 @@ DTSTART:20250509T095000
 DTEND:20250509T112500
 SUMMARY:Fil (w)
 LOCATION:52/ 62
-DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: -
+DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T114000
@@ -4495,7 +4488,7 @@ DTSTART:20250516T095000
 DTEND:20250516T112500
 SUMMARY:Fil (w)
 LOCATION:52/ 62
-DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: -
+DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T114000
@@ -4552,6 +4545,13 @@ DTEND:20250520T131500
 SUMMARY:F1 (ć)
 LOCATION:55/ 62
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250520T160000
+DTEND:20250520T173500
+SUMMARY:Fil (w)
+LOCATION:52/ 62
+DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T080000

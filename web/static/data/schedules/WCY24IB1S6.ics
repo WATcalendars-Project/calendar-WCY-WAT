@@ -1432,6 +1432,13 @@ LOCATION:125 65
 DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250306T095000
+DTEND:20250306T112500
+SUMMARY:Sck (w)
+LOCATION:101 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250306T114000
 DTEND:20250306T131500
 SUMMARY:Kws (ć)
@@ -1527,7 +1534,7 @@ DTSTART:20250311T080000
 DTEND:20250311T093500
 SUMMARY:Sck (w)
 LOCATION:101 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T095000
@@ -1716,7 +1723,7 @@ DTSTART:20250318T080000
 DTEND:20250318T093500
 SUMMARY:Sck (w)
 LOCATION:101 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 9\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T095000
@@ -2136,7 +2143,7 @@ DTSTART:20250401T080000
 DTEND:20250401T093500
 SUMMARY:Sck (w)
 LOCATION:101 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 9\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T095000
@@ -2368,13 +2375,6 @@ DTEND:20250407T173500
 SUMMARY:NiBSI (L)
 LOCATION:233 S
 DESCRIPTION:Niezawodność i bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Michał Kapałka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250408T080000
-DTEND:20250408T093500
-SUMMARY:Sck (w)
-LOCATION:101 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T095000

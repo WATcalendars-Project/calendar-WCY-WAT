@@ -648,13 +648,6 @@ LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 36\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250325T160000
-DTEND:20250325T173500
-SUMMARY:MPH (ć)
-LOCATION:201 65
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250326T114000
 DTEND:20250326T131500
 SUMMARY:Ja (ć)
@@ -802,13 +795,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250415T114000
-DTEND:20250415T131500
-SUMMARY:DWiPD (ć)
-LOCATION:204 65
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250416T080000
 DTEND:20250416T093500
 SUMMARY:NAD (Inne)
@@ -879,13 +865,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250509T080000
-DTEND:20250509T093500
-SUMMARY:Dn (ć)
-LOCATION:203 65
-DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250509T114000
 DTEND:20250509T131500
 SUMMARY:Ja (ć)
@@ -900,25 +879,11 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250513T160000
-DTEND:20250513T173500
-SUMMARY:MPH (ć)
-LOCATION:201 65
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250514T080000
 DTEND:20250514T093500
 SUMMARY:NAD (Inne)
 LOCATION:NAD NA
 DESCRIPTION:Nadgrupa - (Nadgrupa) -\nRodzaj zajęć: Nieznany\nNr zajęć: 26\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250514T095000
-DTEND:20250514T112500
-SUMMARY:DWiPD (ć)
-LOCATION:120 45
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T114000
@@ -956,20 +921,6 @@ LOCATION:313 S
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250520T160000
-DTEND:20250520T173500
-SUMMARY:MPH (ć)
-LOCATION:201 65
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250521T095000
-DTEND:20250521T112500
-SUMMARY:DWiPD (ć)
-LOCATION:2 45
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250521T114000
 DTEND:20250521T131500
 SUMMARY:Ja (ć)
@@ -982,13 +933,6 @@ DTEND:20250523T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250523T095000
-DTEND:20250523T112500
-SUMMARY:Dn (ć)
-LOCATION:203 65
-DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T114000
@@ -1010,13 +954,6 @@ DTEND:20250530T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250530T095000
-DTEND:20250530T112500
-SUMMARY:Dn (ć)
-LOCATION:203 65
-DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T114000
@@ -1094,13 +1031,6 @@ DTEND:20250616T112500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250617T095000
-DTEND:20250617T112500
-SUMMARY:DWiPD (ć)
-LOCATION:205 65
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T114000

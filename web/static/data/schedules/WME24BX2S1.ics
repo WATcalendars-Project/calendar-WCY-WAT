@@ -2979,6 +2979,13 @@ LOCATION:52/ 62
 DESCRIPTION:Anatomia człowieka - (Seminarium) -\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250317T160000
+DTEND:20250317T173500
+SUMMARY:Ppu. (Inne)
+LOCATION:2.09/
+DESCRIPTION:Podstawy projektowania uniwersalnego - (Seminarium) -\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250318T080000
 DTEND:20250318T093500
 SUMMARY:Mat3 (w)
@@ -3054,20 +3061,6 @@ DTEND:20250320T173500
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250321T095000
-DTEND:20250321T112500
-SUMMARY:Fil (w)
-LOCATION:52/ 62
-DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250321T114000
-DTEND:20250321T131500
-SUMMARY:Ppu. (Inne)
-LOCATION:2.09/
-DESCRIPTION:Podstawy projektowania uniwersalnego - (Seminarium) -\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T080000
@@ -3207,7 +3200,7 @@ DTSTART:20250328T095000
 DTEND:20250328T112500
 SUMMARY:Fil (w)
 LOCATION:52/ 62
-DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: -
+DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T080000
@@ -3319,7 +3312,7 @@ DTSTART:20250404T095000
 DTEND:20250404T112500
 SUMMARY:Fil (w)
 LOCATION:52/ 62
-DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: -
+DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T114000
@@ -3445,7 +3438,7 @@ DTSTART:20250411T095000
 DTEND:20250411T112500
 SUMMARY:Fil (w)
 LOCATION:52/ 62
-DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: -
+DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T114000
@@ -4278,7 +4271,7 @@ DTSTART:20250509T095000
 DTEND:20250509T112500
 SUMMARY:Fil (w)
 LOCATION:52/ 62
-DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: -
+DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T114000
@@ -4404,7 +4397,7 @@ DTSTART:20250516T095000
 DTEND:20250516T112500
 SUMMARY:Fil (w)
 LOCATION:52/ 62
-DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: -
+DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T114000
@@ -4468,6 +4461,13 @@ DTEND:20250520T150500
 SUMMARY:Ppu. (L)
 LOCATION:11/ 23
 DESCRIPTION:Podstawy projektowania uniwersalnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250520T160000
+DTEND:20250520T173500
+SUMMARY:Fil (w)
+LOCATION:52/ 62
+DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T080000

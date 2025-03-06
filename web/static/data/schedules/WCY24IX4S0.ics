@@ -2748,6 +2748,13 @@ LOCATION:313 S
 DESCRIPTION:Przywództwo w dowodzeniu - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250325T160000
+DTEND:20250325T173500
+SUMMARY:PTk (w)
+LOCATION:313 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250326T080000
 DTEND:20250326T093500
 SUMMARY:F1 (w)
@@ -2759,14 +2766,14 @@ DTSTART:20250326T095000
 DTEND:20250326T112500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T114000
 DTEND:20250326T131500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T133000
@@ -2941,7 +2948,7 @@ DTSTART:20250402T095000
 DTEND:20250402T112500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T114000
@@ -3347,14 +3354,14 @@ DTSTART:20250423T095000
 DTEND:20250423T112500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 9\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T114000
 DTEND:20250423T131500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 9\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 10\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T133000
@@ -3494,14 +3501,14 @@ DTSTART:20250430T095000
 DTEND:20250430T112500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 10\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 11\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T114000
 DTEND:20250430T131500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 11\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 12\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T133000
@@ -3536,7 +3543,7 @@ DTSTART:20250505T114000
 DTEND:20250505T131500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 12\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 13\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T080000
@@ -3718,7 +3725,7 @@ DTSTART:20250514T095000
 DTEND:20250514T112500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 13\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 14\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T114000
@@ -4153,13 +4160,6 @@ DTEND:20250602T112500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 53\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250602T114000
-DTEND:20250602T131500
-SUMMARY:PTk (w)
-LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 14\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T160000

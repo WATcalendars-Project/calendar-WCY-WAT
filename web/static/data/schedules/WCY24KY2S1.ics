@@ -1558,13 +1558,6 @@ LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250304T114000
-DTEND:20250304T131500
-SUMMARY:Tgs (ć)
-LOCATION:314 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250304T133000
 DTEND:20250304T150500
 SUMMARY:WF (ć)
@@ -1647,13 +1640,6 @@ DTEND:20250311T093500
 SUMMARY:F1 (w)
 LOCATION:314 S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250311T095000
-DTEND:20250311T112500
-SUMMARY:Tgs (ć)
-LOCATION:314 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T114000
@@ -1817,6 +1803,20 @@ LOCATION:316 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250324T160000
+DTEND:20250324T173500
+SUMMARY:PTk (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250324T175000
+DTEND:20250324T192500
+SUMMARY:PTk (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250325T080000
 DTEND:20250325T093500
 SUMMARY:F1 (w)
@@ -1898,7 +1898,7 @@ DTSTART:20250327T133000
 DTEND:20250327T150500
 SUMMARY:Tgs (ć)
 LOCATION:307 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T160000
@@ -1913,20 +1913,6 @@ DTEND:20250328T093500
 SUMMARY:Amt (w)
 LOCATION:314 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: prof. dr hab. Wojciech Zajączkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250328T095000
-DTEND:20250328T112500
-SUMMARY:PTk (w)
-LOCATION:314 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Krzysztof Murawski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250328T114000
-DTEND:20250328T131500
-SUMMARY:PTk (w)
-LOCATION:314 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T133000
@@ -2052,7 +2038,7 @@ DTSTART:20250403T133000
 DTEND:20250403T150500
 SUMMARY:Tgs (ć)
 LOCATION:313 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T160000
@@ -2060,6 +2046,13 @@ DTEND:20250403T173500
 SUMMARY:JoM (ć)
 LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250403T175000
+DTEND:20250403T192500
+SUMMARY:MD1 (Inne)
+LOCATION:314 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T080000
@@ -2332,7 +2325,7 @@ DTSTART:20250417T080000
 DTEND:20250417T093500
 SUMMARY:Tgs (ć)
 LOCATION:317 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T114000
@@ -2605,7 +2598,7 @@ DTSTART:20250508T133000
 DTEND:20250508T150500
 SUMMARY:Tgs (ć)
 LOCATION:317 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T160000
@@ -2724,7 +2717,7 @@ DTSTART:20250515T133000
 DTEND:20250515T150500
 SUMMARY:Tgs (ć)
 LOCATION:316 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T160000
@@ -2846,6 +2839,13 @@ LOCATION:120 65
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr Maciej Lis
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250523T133000
+DTEND:20250523T150500
+SUMMARY:Tgs (ć)
+LOCATION:307 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250526T095000
 DTEND:20250526T112500
 SUMMARY:PTk (w)
@@ -2909,6 +2909,13 @@ LOCATION:307 S
 DESCRIPTION:Filozofia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250529T095000
+DTEND:20250529T112500
+SUMMARY:Tgs (ć)
+LOCATION:314 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250529T160000
 DTEND:20250529T173500
 SUMMARY:JoM (ć)
@@ -2942,13 +2949,6 @@ DTEND:20250530T192500
 SUMMARY:PTk (L)
 LOCATION:125 65
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr Maciej Lis
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250602T095000
-DTEND:20250602T112500
-SUMMARY:PTk (w)
-LOCATION:314 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 14\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T114000
@@ -3047,6 +3047,13 @@ DTEND:20250609T150500
 SUMMARY:Rp (L)
 LOCATION:085 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250609T160000
+DTEND:20250609T173500
+SUMMARY:PTk (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 14\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T080000

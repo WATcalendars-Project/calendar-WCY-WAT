@@ -4659,13 +4659,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 61\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250305T095000
-DTEND:20250305T112500
-SUMMARY:MeSK (w)
-LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250305T114000
 DTEND:20250305T131500
 SUMMARY:Ja (ć)
@@ -4764,6 +4757,13 @@ LOCATION:252 S
 DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250310T175000
+DTEND:20250310T192500
+SUMMARY:Ps (Inne)
+LOCATION:219 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Nieznany\nNr zajęć: 3\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250311T133000
 DTEND:20250311T150500
 SUMMARY:WF (ć)
@@ -4839,6 +4839,13 @@ DTEND:20250315T112500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 32\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250317T160000
+DTEND:20250317T173500
+SUMMARY:MeSK (w)
+LOCATION:314 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T133000

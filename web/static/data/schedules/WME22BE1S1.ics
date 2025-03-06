@@ -5002,13 +5002,6 @@ LOCATION:3 54E
 DESCRIPTION:Termografia mikrofalowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250306T095000
-DTEND:20250306T112500
-SUMMARY:PrSt (w)
-LOCATION:116 61
-DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250307T080000
 DTEND:20250307T093500
 SUMMARY:- (Inne)
@@ -5069,7 +5062,7 @@ DTSTART:20250310T095000
 DTEND:20250310T112500
 SUMMARY:PrSt (w)
 LOCATION:116 61
-DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
+DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T114000
@@ -5104,7 +5097,7 @@ DTSTART:20250311T133000
 DTEND:20250311T150500
 SUMMARY:PrSt (w)
 LOCATION:116 61
-DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
+DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T080000
@@ -5154,6 +5147,13 @@ DTEND:20250313T131500
 SUMMARY:TeAn (w)
 LOCATION:118 45
 DESCRIPTION:Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250313T133000
+DTEND:20250313T150500
+SUMMARY:PrSt (w)
+LOCATION:116 61
+DESCRIPTION:Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T080000
@@ -5639,10 +5639,10 @@ LOCATION:315b S
 DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250402T133000
-DTEND:20250402T150500
+DTSTART:20250403T080000
+DTEND:20250403T093500
 SUMMARY:Eam (w)
-LOCATION:119 45
+LOCATION:117 45
 DESCRIPTION:Elektroniczna aparatura medyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT

@@ -5121,6 +5121,20 @@ LOCATION:011 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250312T160000
+DTEND:20250312T173500
+SUMMARY:Aok (Inne)
+LOCATION:125 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Nieznany\nNr zajęć: 3\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250312T175000
+DTEND:20250312T192500
+SUMMARY:Aok (Inne)
+LOCATION:125 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Nieznany\nNr zajęć: 4\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250313T095000
 DTEND:20250313T112500
 SUMMARY:Ja (ć)
@@ -5154,13 +5168,6 @@ DTEND:20250314T112500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250314T114000
-DTEND:20250314T131500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T133000
@@ -5793,20 +5800,6 @@ LOCATION:224 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250411T080000
-DTEND:20250411T093500
-SUMMARY:Bd (L)
-LOCATION:224 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250411T095000
-DTEND:20250411T112500
-SUMMARY:Bd (L)
-LOCATION:224 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250411T133000
 DTEND:20250411T150500
 SUMMARY:WF (ć)
@@ -5937,14 +5930,14 @@ DTSTART:20250416T133000
 DTEND:20250416T150500
 SUMMARY:Bd (L)
 LOCATION:237 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: -
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T160000
 DTEND:20250416T173500
 SUMMARY:Bd (L)
 LOCATION:237 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: -
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T080000
@@ -6252,14 +6245,14 @@ DTSTART:20250507T133000
 DTEND:20250507T150500
 SUMMARY:Bd (L)
 LOCATION:237 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący: -
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T160000
 DTEND:20250507T173500
 SUMMARY:Bd (L)
 LOCATION:237 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący: -
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T095000
@@ -6364,14 +6357,14 @@ DTSTART:20250513T080000
 DTEND:20250513T093500
 SUMMARY:Bd (L)
 LOCATION:223 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11\nProwadzący: -
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T095000
 DTEND:20250513T112500
 SUMMARY:Bd (L)
 LOCATION:223 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 12\nProwadzący: -
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T114000
@@ -6547,6 +6540,20 @@ DTEND:20250522T150500
 SUMMARY:SO (L)
 LOCATION:011 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250523T080000
+DTEND:20250523T093500
+SUMMARY:Bd (L)
+LOCATION:239 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250523T095000
+DTEND:20250523T112500
+SUMMARY:Bd (L)
+LOCATION:239 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T133000

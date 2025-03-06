@@ -1831,6 +1831,13 @@ LOCATION:307 S
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250314T133000
+DTEND:20250314T150500
+SUMMARY:Wpp (Inne)
+LOCATION:106 65
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250317T080000
 DTEND:20250317T093500
 SUMMARY:sd (w)
@@ -2130,13 +2137,6 @@ DTEND:20250403T112500
 SUMMARY:Sp (Inne)
 LOCATION:101 65
 DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć: Nieznany\nNr zajęć: 4\nProwadzący: dr inż. Artur Arciuch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250403T114000
-DTEND:20250403T131500
-SUMMARY:PZS (Inne)
-LOCATION:121 65
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T133000

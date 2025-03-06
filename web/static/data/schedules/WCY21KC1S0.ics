@@ -5149,6 +5149,13 @@ LOCATION:120 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 62\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250307T133000
+DTEND:20250307T150500
+SUMMARY:AśW (Inne)
+LOCATION:121 65
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Nieznany\nNr zajęć: 3\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250307T160000
 DTEND:20250307T173500
 SUMMARY:Ja (ć)
@@ -5182,6 +5189,13 @@ DTEND:20250310T173500
 SUMMARY:Ztel (w)
 LOCATION:308 S
 DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250310T175000
+DTEND:20250310T192500
+SUMMARY:Ps (Inne)
+LOCATION:219 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Nieznany\nNr zajęć: 3\nProwadzący: dr Lucjan Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T114000
@@ -6227,20 +6241,6 @@ LOCATION:121 65
 DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250506T080000
-DTEND:20250506T093500
-SUMMARY:Tds (L)
-LOCATION:106 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250506T095000
-DTEND:20250506T112500
-SUMMARY:Tds (L)
-LOCATION:106 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250506T114000
 DTEND:20250506T131500
 SUMMARY:- (S.Sz.W.)
@@ -6455,14 +6455,14 @@ DTSTART:20250515T133000
 DTEND:20250515T150500
 SUMMARY:Tds (L)
 LOCATION:106 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T160000
 DTEND:20250515T173500
 SUMMARY:Tds (L)
 LOCATION:106 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T080000
@@ -6539,14 +6539,14 @@ DTSTART:20250522T080000
 DTEND:20250522T093500
 SUMMARY:Tds (L)
 LOCATION:106 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T095000
 DTEND:20250522T112500
 SUMMARY:Tds (L)
 LOCATION:106 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T114000
@@ -6616,14 +6616,14 @@ DTSTART:20250526T133000
 DTEND:20250526T150500
 SUMMARY:Tds (L)
 LOCATION:106 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący:  Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T160000
 DTEND:20250526T173500
 SUMMARY:Tds (L)
 LOCATION:106 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący:  Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T114000
@@ -6995,6 +6995,20 @@ DTEND:20250613T131500
 SUMMARY:Ja (ć)
 LOCATION:120 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 89\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250613T160000
+DTEND:20250613T173500
+SUMMARY:Tds (L)
+LOCATION:125 65
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący:  Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250613T175000
+DTEND:20250613T192500
+SUMMARY:Tds (L)
+LOCATION:125 65
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T095000
