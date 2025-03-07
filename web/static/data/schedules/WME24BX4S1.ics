@@ -2993,6 +2993,13 @@ LOCATION:301/ S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250317T133000
+DTEND:20250317T150500
+SUMMARY:F1 (ć)
+LOCATION:8/ 62
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250318T080000
 DTEND:20250318T093500
 SUMMARY:Mat3 (w)
@@ -3068,13 +3075,6 @@ DTEND:20250321T150500
 SUMMARY:Ppu. (Inne)
 LOCATION:2.09/
 DESCRIPTION:Podstawy projektowania uniwersalnego - (Seminarium) -\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250321T160000
-DTEND:20250321T173500
-SUMMARY:F1 (ć)
-LOCATION:9/ 62
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T080000

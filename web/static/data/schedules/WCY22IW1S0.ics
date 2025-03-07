@@ -438,13 +438,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250321T080000
-DTEND:20250321T093500
-SUMMARY:PKSt (ć)
-LOCATION:205 65
-DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250321T095000
 DTEND:20250321T112500
 SUMMARY:PZS (L)
@@ -583,6 +576,13 @@ DTEND:20250327T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250327T160000
+DTEND:20250327T173500
+SUMMARY:PKSt (ć)
+LOCATION:205 65
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T080000

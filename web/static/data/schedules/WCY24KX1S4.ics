@@ -57,14 +57,14 @@ DTSTART:20250304T080000
 DTEND:20250304T093500
 SUMMARY:WIT (w)
 LOCATION:313 S
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T095000
 DTEND:20250304T112500
 SUMMARY:WIT (w)
 LOCATION:313 S
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T080000
@@ -127,14 +127,14 @@ DTSTART:20250311T080000
 DTEND:20250311T093500
 SUMMARY:WIT (w)
 LOCATION:313 S
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T095000
 DTEND:20250311T112500
 SUMMARY:WIT (w)
 LOCATION:313 S
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T095000
@@ -267,7 +267,7 @@ DTSTART:20250325T080000
 DTEND:20250325T093500
 SUMMARY:WIT (w)
 LOCATION:313 S
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T095000
@@ -487,6 +487,13 @@ LOCATION:241 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250414T095000
+DTEND:20250414T112500
+SUMMARY:Mnk (w)
+LOCATION:201 65
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr hab. Marek Kojdecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250414T114000
 DTEND:20250414T131500
 SUMMARY:Tal (w)
@@ -547,7 +554,7 @@ DTSTART:20250417T114000
 DTEND:20250417T131500
 SUMMARY:Mnk (w)
 LOCATION:203 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr hab. Marek Kojdecki
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T133000
@@ -646,6 +653,13 @@ DTEND:20250430T131500
 SUMMARY:Stg (w)
 LOCATION:203 65
 DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr inż. Kamil Kaczyński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250505T080000
+DTEND:20250505T093500
+SUMMARY:Mnk (w)
+LOCATION:204 65
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 9\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T095000
@@ -996,20 +1010,6 @@ DTEND:20250528T173500
 SUMMARY:Dtu (P)
 LOCATION:101 65
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNr zajęć: 5\nProwadzący: mgr inż. Michał Melaniuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250529T095000
-DTEND:20250529T112500
-SUMMARY:Mnk (w)
-LOCATION:203 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: dr hab. Marek Kojdecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250529T114000
-DTEND:20250529T131500
-SUMMARY:Mnk (w)
-LOCATION:203 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 9\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T133000

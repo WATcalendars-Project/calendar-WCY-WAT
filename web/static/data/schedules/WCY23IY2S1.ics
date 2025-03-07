@@ -1128,14 +1128,14 @@ DTSTART:20240506T114000
 DTEND:20240506T131500
 SUMMARY:ppk (L)
 LOCATION:237 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240506T133000
 DTEND:20240506T150500
 SUMMARY:ppk (L)
 LOCATION:237 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240506T175000
@@ -1492,14 +1492,14 @@ DTSTART:20240528T114000
 DTEND:20240528T131500
 SUMMARY:ppk (L)
 LOCATION:237 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240528T133000
 DTEND:20240528T150500
 SUMMARY:ppk (L)
 LOCATION:237 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240528T175000
@@ -1709,14 +1709,14 @@ DTSTART:20240614T080000
 DTEND:20240614T093500
 SUMMARY:ppk (L)
 LOCATION:237 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240614T095000
 DTEND:20240614T112500
 SUMMARY:ppk (L)
 LOCATION:237 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240614T160000
@@ -1779,14 +1779,14 @@ DTSTART:20240619T114000
 DTEND:20240619T131500
 SUMMARY:ppk (L)
 LOCATION:237 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240619T133000
 DTEND:20240619T150500
 SUMMARY:ppk (L)
 LOCATION:237 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240619T160000
@@ -1835,14 +1835,14 @@ DTSTART:20240625T114000
 DTEND:20240625T131500
 SUMMARY:ppk (Inne)
 LOCATION:316 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240625T133000
 DTEND:20240625T150500
 SUMMARY:ppk (Inne)
 LOCATION:316 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240626T175000
@@ -1926,7 +1926,7 @@ DTSTART:20240910T080000
 DTEND:20240910T093500
 SUMMARY:ppk (Inne)
 LOCATION:09 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240916T080000
@@ -4006,6 +4006,20 @@ DTEND:20250312T150500
 SUMMARY:MM (w)
 LOCATION:317 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250312T160000
+DTEND:20250312T173500
+SUMMARY:Aok (Inne)
+LOCATION:125 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Nieznany\nNr zajęć: 3\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250312T175000
+DTEND:20250312T192500
+SUMMARY:Aok (Inne)
+LOCATION:125 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Nieznany\nNr zajęć: 4\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T080000

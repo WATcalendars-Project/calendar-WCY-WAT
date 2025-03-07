@@ -57,14 +57,14 @@ DTSTART:20250304T080000
 DTEND:20250304T093500
 SUMMARY:WIT (w)
 LOCATION:313 S
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T095000
 DTEND:20250304T112500
 SUMMARY:WIT (w)
 LOCATION:313 S
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T095000
@@ -120,14 +120,14 @@ DTSTART:20250311T080000
 DTEND:20250311T093500
 SUMMARY:WIT (w)
 LOCATION:313 S
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T095000
 DTEND:20250311T112500
 SUMMARY:WIT (w)
 LOCATION:313 S
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T095000
@@ -260,7 +260,7 @@ DTSTART:20250325T080000
 DTEND:20250325T093500
 SUMMARY:WIT (w)
 LOCATION:313 S
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T095000
@@ -410,6 +410,20 @@ LOCATION:313 S
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr Lucjan Kowalski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250407T114000
+DTEND:20250407T131500
+SUMMARY:Swp (L)
+LOCATION:011 65
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250407T133000
+DTEND:20250407T150500
+SUMMARY:Swp (L)
+LOCATION:011 65
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250408T095000
 DTEND:20250408T112500
 SUMMARY:Ps (ć)
@@ -550,25 +564,25 @@ LOCATION:309 S
 DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250424T095000
+DTEND:20250424T112500
+SUMMARY:Swp (L)
+LOCATION:106 65
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250424T114000
+DTEND:20250424T131500
+SUMMARY:Swp (L)
+LOCATION:106 65
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250424T133000
 DTEND:20250424T150500
 SUMMARY:Ja (ć)
 LOCATION:241 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250424T160000
-DTEND:20250424T173500
-SUMMARY:Swp (L)
-LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Bartłomiej Szykuła
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250424T175000
-DTEND:20250424T192500
-SUMMARY:Swp (L)
-LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Bartłomiej Szykuła
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T095000
@@ -639,20 +653,6 @@ DTEND:20250505T131500
 SUMMARY:Msk. (w)
 LOCATION:309 S
 DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250505T133000
-DTEND:20250505T150500
-SUMMARY:Swp (L)
-LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Bartłomiej Szykuła
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250505T160000
-DTEND:20250505T173500
-SUMMARY:Swp (L)
-LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Bartłomiej Szykuła
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T080000
@@ -911,28 +911,28 @@ DTSTART:20250526T133000
 DTEND:20250526T150500
 SUMMARY:Swp (L)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T160000
 DTEND:20250526T173500
 SUMMARY:Swp (L)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T080000
 DTEND:20250528T093500
 SUMMARY:Swp (P)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 1\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 1\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T095000
 DTEND:20250528T112500
 SUMMARY:Swp (P)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 2\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 2\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T114000
@@ -1002,14 +1002,14 @@ DTSTART:20250605T160000
 DTEND:20250605T173500
 SUMMARY:Swp (L)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T175000
 DTEND:20250605T192500
 SUMMARY:Swp (L)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T080000
@@ -1107,14 +1107,14 @@ DTSTART:20250613T095000
 DTEND:20250613T112500
 SUMMARY:Swp (P)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 3\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 3\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T114000
 DTEND:20250613T131500
 SUMMARY:Swp (P)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 4\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 4\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T095000
@@ -1128,7 +1128,7 @@ DTSTART:20250616T114000
 DTEND:20250616T131500
 SUMMARY:Swp (P)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 5\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 5\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T080000

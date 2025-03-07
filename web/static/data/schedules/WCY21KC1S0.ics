@@ -5093,13 +5093,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 61\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250305T095000
-DTEND:20250305T112500
-SUMMARY:MeSK (w)
-LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250305T114000
 DTEND:20250305T131500
 SUMMARY:Ja (ć)
@@ -5336,6 +5329,13 @@ DTEND:20250317T150500
 SUMMARY:Sa. (w)
 LOCATION:307 S
 DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250317T160000
+DTEND:20250317T173500
+SUMMARY:MeSK (w)
+LOCATION:314 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T095000
@@ -6595,14 +6595,14 @@ DTSTART:20250526T080000
 DTEND:20250526T093500
 SUMMARY:Zbi (ć)
 LOCATION:101 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący:  Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: dr inż. Krzysztof Liderman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T095000
 DTEND:20250526T112500
 SUMMARY:Zbi (ć)
 LOCATION:101 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący:  Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: dr inż. Krzysztof Liderman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T114000
@@ -6630,7 +6630,7 @@ DTSTART:20250527T114000
 DTEND:20250527T131500
 SUMMARY:Zbi (ć)
 LOCATION:204 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5\nProwadzący:  Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący:  Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T133000

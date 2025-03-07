@@ -323,7 +323,7 @@ DTSTART:20250108T133000
 DTEND:20250108T150500
 SUMMARY:WIT (w)
 LOCATION:101 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T160000
@@ -484,7 +484,7 @@ DTSTART:20250115T133000
 DTEND:20250115T150500
 SUMMARY:WIT (w)
 LOCATION:101 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250116T080000
@@ -1432,13 +1432,6 @@ LOCATION:125 65
 DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250306T095000
-DTEND:20250306T112500
-SUMMARY:Sck (w)
-LOCATION:101 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: mgr inż. Dagmara Mazur
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250306T114000
 DTEND:20250306T131500
 SUMMARY:Kws (ć)
@@ -1534,7 +1527,7 @@ DTSTART:20250311T080000
 DTEND:20250311T093500
 SUMMARY:Sck (w)
 LOCATION:101 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T095000
@@ -1646,14 +1639,14 @@ DTSTART:20250314T114000
 DTEND:20250314T131500
 SUMMARY:WIT (w)
 LOCATION:101 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T133000
 DTEND:20250314T150500
 SUMMARY:WIT (w)
 LOCATION:101 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T160000
@@ -1723,7 +1716,7 @@ DTSTART:20250318T080000
 DTEND:20250318T093500
 SUMMARY:Sck (w)
 LOCATION:101 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 9\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T095000
@@ -2010,7 +2003,7 @@ DTSTART:20250328T114000
 DTEND:20250328T131500
 SUMMARY:WIT (w)
 LOCATION:101 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T133000
@@ -2143,7 +2136,7 @@ DTSTART:20250401T080000
 DTEND:20250401T093500
 SUMMARY:Sck (w)
 LOCATION:101 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 10\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 9\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T095000
@@ -2377,6 +2370,13 @@ LOCATION:233 S
 DESCRIPTION:Niezawodność i bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250408T080000
+DTEND:20250408T093500
+SUMMARY:Sck (w)
+LOCATION:101 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 10\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250408T095000
 DTEND:20250408T112500
 SUMMARY:SNATO (w)
@@ -2402,14 +2402,14 @@ DTSTART:20250408T175000
 DTEND:20250408T192500
 SUMMARY:WIT (P)
 LOCATION:011 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNr zajęć: 1\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNr zajęć: 1\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T194000
 DTEND:20250408T211500
 SUMMARY:WIT (P)
 LOCATION:011 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNr zajęć: 2\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNr zajęć: 2\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T080000
@@ -2472,14 +2472,14 @@ DTSTART:20250411T080000
 DTEND:20250411T093500
 SUMMARY:WIT (P)
 LOCATION:011 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNr zajęć: 3\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNr zajęć: 3\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T095000
 DTEND:20250411T112500
 SUMMARY:WIT (P)
 LOCATION:011 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNr zajęć: 4\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNr zajęć: 4\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T114000
@@ -2549,14 +2549,14 @@ DTSTART:20250415T175000
 DTEND:20250415T192500
 SUMMARY:WIT (P)
 LOCATION:011 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNr zajęć: 5\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNr zajęć: 5\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T194000
 DTEND:20250415T211500
 SUMMARY:WIT (P)
 LOCATION:011 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNr zajęć: 6\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNr zajęć: 6\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T080000

@@ -1341,13 +1341,6 @@ LOCATION:307 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Nieznany\nNr zajęć: 3\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250303T114000
-DTEND:20250303T131500
-SUMMARY:PWSI (w)
-LOCATION:309 S
-DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Tomasz Gzik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250304T080000
 DTEND:20250304T093500
 SUMMARY:Sn (w)
@@ -1404,11 +1397,11 @@ LOCATION:223 S
 DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 1\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250310T095000
-DTEND:20250310T112500
-SUMMARY:PWSI (w)
-LOCATION:316 S
-DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Tomasz Gzik
+DTSTART:20250310T160000
+DTEND:20250310T173500
+SUMMARY:SzOR (Inne)
+LOCATION:317 S
+DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T175000
@@ -1492,7 +1485,7 @@ DTSTART:20250317T080000
 DTEND:20250317T093500
 SUMMARY:PWSI (w)
 LOCATION:308 S
-DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Tomasz Gzik
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T095000
@@ -1555,7 +1548,7 @@ DTSTART:20250324T080000
 DTEND:20250324T093500
 SUMMARY:PWSI (w)
 LOCATION:308 S
-DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Tomasz Gzik
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T095000
@@ -1621,6 +1614,13 @@ LOCATION:223 S
 DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250328T080000
+DTEND:20250328T093500
+SUMMARY:PWSI (w)
+LOCATION:317 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Tomasz Gzik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250328T114000
 DTEND:20250328T131500
 SUMMARY:kck (w)
@@ -1632,7 +1632,7 @@ DTSTART:20250331T080000
 DTEND:20250331T093500
 SUMMARY:PWSI (w)
 LOCATION:308 S
-DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Tomasz Gzik
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T175000
@@ -1696,6 +1696,13 @@ DTEND:20250403T131500
 SUMMARY:Jtp (w)
 LOCATION:313 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250404T080000
+DTEND:20250404T093500
+SUMMARY:PWSI (w)
+LOCATION:316 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T095000

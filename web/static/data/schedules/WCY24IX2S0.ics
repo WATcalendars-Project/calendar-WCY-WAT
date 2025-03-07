@@ -2363,6 +2363,13 @@ LOCATION:132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 34\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250314T160000
+DTEND:20250314T173500
+SUMMARY:PTk (w)
+LOCATION:313 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250317T080000
 DTEND:20250317T093500
 SUMMARY:WdP (w)
@@ -2430,7 +2437,7 @@ DTSTART:20250319T114000
 DTEND:20250319T131500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T133000
@@ -2557,13 +2564,6 @@ DTEND:20250325T150500
 SUMMARY:Pwd (w)
 LOCATION:313 S
 DESCRIPTION:Przywództwo w dowodzeniu - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250325T160000
-DTEND:20250325T173500
-SUMMARY:PTk (w)
-LOCATION:313 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T080000

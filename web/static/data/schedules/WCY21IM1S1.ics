@@ -708,14 +708,14 @@ DTSTART:20240425T114000
 DTEND:20240425T131500
 SUMMARY:Syt (L)
 LOCATION:121 65
-DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240425T133000
 DTEND:20240425T150500
 SUMMARY:Syt (L)
 LOCATION:121 65
-DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240429T080000
@@ -806,14 +806,14 @@ DTSTART:20240507T160000
 DTEND:20240507T173500
 SUMMARY:Syt (L)
 LOCATION:09 65
-DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240507T175000
 DTEND:20240507T192500
 SUMMARY:Syt (L)
 LOCATION:09 65
-DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240508T095000
@@ -1114,14 +1114,14 @@ DTSTART:20240603T160000
 DTEND:20240603T173500
 SUMMARY:Syt (L)
 LOCATION:125 65
-DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240603T175000
 DTEND:20240603T192500
 SUMMARY:Syt (L)
 LOCATION:125 65
-DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240604T095000
@@ -1163,14 +1163,14 @@ DTSTART:20240606T080000
 DTEND:20240606T093500
 SUMMARY:Syt (L)
 LOCATION:09 65
-DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240606T095000
 DTEND:20240606T112500
 SUMMARY:Syt (L)
 LOCATION:09 65
-DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240606T114000
@@ -1296,14 +1296,14 @@ DTSTART:20240620T114000
 DTEND:20240620T131500
 SUMMARY:Syt (L)
 LOCATION:121 65
-DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240620T133000
 DTEND:20240620T150500
 SUMMARY:Syt (L)
 LOCATION:121 65
-DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240620T160000
@@ -1394,7 +1394,7 @@ DTSTART:20240910T114000
 DTEND:20240910T131500
 SUMMARY:Syt (Inne)
 LOCATION:09 65
-DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240917T095000

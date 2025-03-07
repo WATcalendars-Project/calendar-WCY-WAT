@@ -4,13 +4,6 @@ PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY22IL1S0
 BEGIN:VEVENT
-DTSTART:20250303T080000
-DTEND:20250303T093500
-SUMMARY:Spg (w)
-LOCATION:308 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Tomasz Gzik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250303T095000
 DTEND:20250303T112500
 SUMMARY:Hd (w)
@@ -162,7 +155,7 @@ DTSTART:20250310T080000
 DTEND:20250310T093500
 SUMMARY:Spg (w)
 LOCATION:308 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T095000
@@ -270,6 +263,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250314T080000
+DTEND:20250314T093500
+SUMMARY:Spg (w)
+LOCATION:314 S
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Tomasz Gzik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250314T095000
 DTEND:20250314T112500
 SUMMARY:kck (w)
@@ -375,6 +375,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250319T080000
+DTEND:20250319T093500
+SUMMARY:Spg (w)
+LOCATION:308 S
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Tomasz Gzik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250319T095000
 DTEND:20250319T112500
 SUMMARY:BwCP (w)
@@ -422,13 +429,6 @@ DTEND:20250320T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250321T080000
-DTEND:20250321T093500
-SUMMARY:PKSt (ć)
-LOCATION:205 65
-DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T114000
@@ -529,6 +529,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250326T080000
+DTEND:20250326T093500
+SUMMARY:Spg (w)
+LOCATION:236 S
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Tomasz Gzik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250326T114000
 DTEND:20250326T131500
 SUMMARY:Wdis (w)
@@ -562,6 +569,13 @@ DTEND:20250327T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250327T160000
+DTEND:20250327T173500
+SUMMARY:PKSt (ć)
+LOCATION:205 65
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T080000
@@ -639,13 +653,6 @@ DTEND:20250401T093500
 SUMMARY:PESW (w)
 LOCATION:19 36
 DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250401T095000
-DTEND:20250401T112500
-SUMMARY:Spg (w)
-LOCATION:308 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T114000
@@ -807,13 +814,6 @@ DTEND:20250407T112500
 SUMMARY:BwCP (ć)
 LOCATION:204 65
 DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: mgr inż. Leszek Kalman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250407T114000
-DTEND:20250407T131500
-SUMMARY:Spg (w)
-LOCATION:307 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T133000
@@ -1012,13 +1012,6 @@ LOCATION:AW 3/0
 DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250415T095000
-DTEND:20250415T112500
-SUMMARY:Spg (w)
-LOCATION:308 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Tomasz Gzik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250415T114000
 DTEND:20250415T131500
 SUMMARY:WF (ć)
@@ -1101,6 +1094,13 @@ DTEND:20250417T192500
 SUMMARY:Pjf (L)
 LOCATION:228 S
 DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Krzysztof Mierzejewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250423T080000
+DTEND:20250423T093500
+SUMMARY:Spg (w)
+LOCATION:252 S
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T095000
@@ -1222,13 +1222,6 @@ LOCATION:308 S
 DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr inż. Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250429T095000
-DTEND:20250429T112500
-SUMMARY:Spg (w)
-LOCATION:308 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr inż. Tomasz Gzik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250429T114000
 DTEND:20250429T131500
 SUMMARY:WF (ć)
@@ -1262,6 +1255,13 @@ DTEND:20250429T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250430T080000
+DTEND:20250430T093500
+SUMMARY:Spg (w)
+LOCATION:252 S
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr inż. Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T095000

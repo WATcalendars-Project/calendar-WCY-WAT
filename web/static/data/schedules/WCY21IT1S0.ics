@@ -5387,6 +5387,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 63\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250311T095000
+DTEND:20250311T112500
+SUMMARY:ESI (L)
+LOCATION:121 65
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250311T114000
 DTEND:20250311T131500
 SUMMARY:bai (w)
@@ -5545,7 +5552,7 @@ DTSTART:20250318T133000
 DTEND:20250318T150500
 SUMMARY:ESI (L)
 LOCATION:121 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Sławomir Matusiak
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T160000
@@ -5769,7 +5776,7 @@ DTSTART:20250327T114000
 DTEND:20250327T131500
 SUMMARY:ESI (L)
 LOCATION:121 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Sławomir Matusiak
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T133000
@@ -5986,7 +5993,7 @@ DTSTART:20250403T133000
 DTEND:20250403T150500
 SUMMARY:ESI (L)
 LOCATION:121 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Sławomir Matusiak
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T160000
@@ -6217,7 +6224,7 @@ DTSTART:20250411T175000
 DTEND:20250411T192500
 SUMMARY:ESI (L)
 LOCATION:121 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Sławomir Matusiak
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250412T095000
@@ -6322,14 +6329,14 @@ DTSTART:20250417T114000
 DTEND:20250417T131500
 SUMMARY:Sss (L)
 LOCATION:09 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T133000
 DTEND:20250417T150500
 SUMMARY:Sss (L)
 LOCATION:09 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T080000
@@ -6378,7 +6385,7 @@ DTSTART:20250424T095000
 DTEND:20250424T112500
 SUMMARY:ESI (L)
 LOCATION:121 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Sławomir Matusiak
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T114000
@@ -6553,14 +6560,14 @@ DTSTART:20250506T114000
 DTEND:20250506T131500
 SUMMARY:Sss (L)
 LOCATION:09 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T133000
 DTEND:20250506T150500
 SUMMARY:Sss (L)
 LOCATION:09 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T160000
@@ -6637,7 +6644,7 @@ DTSTART:20250508T175000
 DTEND:20250508T192500
 SUMMARY:ESI (L)
 LOCATION:121 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Sławomir Matusiak
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T080000
@@ -6952,7 +6959,7 @@ DTSTART:20250523T133000
 DTEND:20250523T150500
 SUMMARY:ESI (L)
 LOCATION:121 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Sławomir Matusiak
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T160000
@@ -7022,14 +7029,14 @@ DTSTART:20250527T114000
 DTEND:20250527T131500
 SUMMARY:Sss (L)
 LOCATION:09 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T133000
 DTEND:20250527T150500
 SUMMARY:Sss (L)
 LOCATION:09 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T095000
@@ -7179,13 +7186,6 @@ LOCATION:120 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 88\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250606T133000
-DTEND:20250606T150500
-SUMMARY:ESI (L)
-LOCATION:121 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Sławomir Matusiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250606T175000
 DTEND:20250606T192500
 SUMMARY:Sa. (L)
@@ -7288,14 +7288,14 @@ DTSTART:20250612T114000
 DTEND:20250612T131500
 SUMMARY:Sss (L)
 LOCATION:09 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T133000
 DTEND:20250612T150500
 SUMMARY:Sss (L)
 LOCATION:09 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T080000

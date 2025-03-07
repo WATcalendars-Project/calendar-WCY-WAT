@@ -57,14 +57,14 @@ DTSTART:20250304T080000
 DTEND:20250304T093500
 SUMMARY:WIT (w)
 LOCATION:313 S
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T095000
 DTEND:20250304T112500
 SUMMARY:WIT (w)
 LOCATION:313 S
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T095000
@@ -120,14 +120,14 @@ DTSTART:20250311T080000
 DTEND:20250311T093500
 SUMMARY:WIT (w)
 LOCATION:313 S
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T095000
 DTEND:20250311T112500
 SUMMARY:WIT (w)
 LOCATION:313 S
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T095000
@@ -260,7 +260,7 @@ DTSTART:20250325T080000
 DTEND:20250325T093500
 SUMMARY:WIT (w)
 LOCATION:313 S
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T095000
@@ -582,14 +582,14 @@ DTSTART:20250428T160000
 DTEND:20250428T173500
 SUMMARY:Swp (L)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Jakub Walczak
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T175000
 DTEND:20250428T192500
 SUMMARY:Swp (L)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Jakub Walczak
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T114000
@@ -694,14 +694,14 @@ DTSTART:20250512T160000
 DTEND:20250512T173500
 SUMMARY:Swp (L)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Jakub Walczak
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T175000
 DTEND:20250512T192500
 SUMMARY:Swp (L)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Jakub Walczak
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T095000
@@ -751,20 +751,6 @@ DTEND:20250516T150500
 SUMMARY:SBD (L)
 LOCATION:224 S
 DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: dr inż. Jarosław Koszela
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250516T160000
-DTEND:20250516T173500
-SUMMARY:WIT (L)
-LOCATION:011 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Łukasz Paciorek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250516T175000
-DTEND:20250516T192500
-SUMMARY:WIT (L)
-LOCATION:011 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T114000
@@ -834,7 +820,7 @@ DTSTART:20250521T133000
 DTEND:20250521T150500
 SUMMARY:Swp (P)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 1\nProwadzący:  Jakub Walczak
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 1\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T095000
@@ -890,14 +876,14 @@ DTSTART:20250529T095000
 DTEND:20250529T112500
 SUMMARY:Swp (L)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Jakub Walczak
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T114000
 DTEND:20250529T131500
 SUMMARY:Swp (L)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Jakub Walczak
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T133000
@@ -925,14 +911,14 @@ DTSTART:20250530T160000
 DTEND:20250530T173500
 SUMMARY:WIT (L)
 LOCATION:011 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Łukasz Paciorek
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T175000
 DTEND:20250530T192500
 SUMMARY:WIT (L)
 LOCATION:011 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: mgr inż. Łukasz Paciorek
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T114000
@@ -1005,6 +991,20 @@ LOCATION:307 S
 DESCRIPTION:Socjologia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250610T160000
+DTEND:20250610T173500
+SUMMARY:Swp (P)
+LOCATION:125 65
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 2\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T175000
+DTEND:20250610T192500
+SUMMARY:Swp (P)
+LOCATION:125 65
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 3\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250611T095000
 DTEND:20250611T112500
 SUMMARY:Tal (L)
@@ -1021,30 +1021,30 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T133000
 DTEND:20250611T150500
-SUMMARY:Swp (P)
+SUMMARY:WIT (L)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 2\nProwadzący:  Jakub Walczak
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T160000
 DTEND:20250611T173500
-SUMMARY:Swp (P)
+SUMMARY:WIT (L)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 3\nProwadzący:  Jakub Walczak
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T095000
 DTEND:20250612T112500
 SUMMARY:Swp (L)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Jakub Walczak
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T114000
 DTEND:20250612T131500
 SUMMARY:Swp (L)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Jakub Walczak
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T133000
@@ -1114,14 +1114,14 @@ DTSTART:20250617T133000
 DTEND:20250617T150500
 SUMMARY:Swp (P)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 4\nProwadzący:  Jakub Walczak
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 4\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T160000
 DTEND:20250617T173500
 SUMMARY:Swp (P)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 5\nProwadzący:  Jakub Walczak
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 5\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T095000

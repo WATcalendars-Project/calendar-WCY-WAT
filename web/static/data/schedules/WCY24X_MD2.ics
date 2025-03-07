@@ -4,24 +4,24 @@ PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY24X*MD2
 BEGIN:VEVENT
-DTSTART:20250309T160000
-DTEND:20250309T173500
-SUMMARY:XMd2 (w)
-LOCATION:308 S
-DESCRIPTION:XMatematyka dyskretna2\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Krzysztof Pszczoła
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250323T114000
 DTEND:20250323T131500
 SUMMARY:XMd2 (w)
 LOCATION:317 S
-DESCRIPTION:XMatematyka dyskretna2\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Krzysztof Pszczoła
+DESCRIPTION:XMatematyka dyskretna2\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr inż. Krzysztof Pszczoła
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250323T133000
 DTEND:20250323T150500
 SUMMARY:XMd2 (w)
 LOCATION:317 S
+DESCRIPTION:XMatematyka dyskretna2\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Krzysztof Pszczoła
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250405T133000
+DTEND:20250405T150500
+SUMMARY:XMd2 (w)
+LOCATION:204 65
 DESCRIPTION:XMatematyka dyskretna2\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Krzysztof Pszczoła
 END:VEVENT
 BEGIN:VEVENT

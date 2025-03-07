@@ -4085,13 +4085,6 @@ LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 54\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250602T095000
-DTEND:20250602T112500
-SUMMARY:PTk (w)
-LOCATION:314 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 14\nProwadzący: dr inż. Krzysztof Murawski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250602T114000
 DTEND:20250602T131500
 SUMMARY:WF (ć)
@@ -4251,6 +4244,13 @@ DTEND:20250609T150500
 SUMMARY:F1 (ć)
 LOCATION:204 65
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250609T160000
+DTEND:20250609T173500
+SUMMARY:PTk (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 14\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T095000

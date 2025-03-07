@@ -972,27 +972,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250309T114000
 DTEND:20250309T131500
-SUMMARY:Md2 (w)
-LOCATION:307 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Krzysztof Pszczoła
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250309T133000
-DTEND:20250309T150500
-SUMMARY:Md2 (w)
-LOCATION:307 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Krzysztof Pszczoła
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250309T160000
-DTEND:20250309T173500
 SUMMARY:Amt (w)
 LOCATION:307 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: mgr Piotr Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250309T175000
-DTEND:20250309T192500
+DTSTART:20250309T133000
+DTEND:20250309T150500
 SUMMARY:Amt (w)
 LOCATION:307 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: mgr Piotr Kozarzewski
@@ -1122,6 +1108,20 @@ DTEND:20250322T150500
 SUMMARY:Tgs (w)
 LOCATION:317 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250322T160000
+DTEND:20250322T173500
+SUMMARY:Md2 (w)
+LOCATION:203 65
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Krzysztof Pszczoła
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250322T175000
+DTEND:20250322T192500
+SUMMARY:Md2 (w)
+LOCATION:203 65
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Krzysztof Pszczoła
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250323T080000
