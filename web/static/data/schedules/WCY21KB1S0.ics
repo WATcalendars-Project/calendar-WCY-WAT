@@ -4834,6 +4834,13 @@ LOCATION:120 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 64\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250314T133000
+DTEND:20250314T150500
+SUMMARY:Miswd (w)
+LOCATION:252 S
+DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250315T095000
 DTEND:20250315T112500
 SUMMARY:XWF (ć)
@@ -4860,13 +4867,6 @@ DTEND:20250319T112500
 SUMMARY:Masz (w)
 LOCATION:314 S
 DESCRIPTION:Modelowanie i analiza sieci złożonych\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący:  Rafał Kasprzyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250319T114000
-DTEND:20250319T131500
-SUMMARY:Miswd (w)
-LOCATION:252 S
-DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T095000
@@ -4925,6 +4925,13 @@ LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 65\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250321T133000
+DTEND:20250321T150500
+SUMMARY:Miswd (w)
+LOCATION:317 S
+DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250322T095000
 DTEND:20250322T112500
 SUMMARY:XWF (ć)
@@ -4960,6 +4967,13 @@ LOCATION:233 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250324T160000
+DTEND:20250324T173500
+SUMMARY:Miswd (w)
+LOCATION:223 S
+DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250325T080000
 DTEND:20250325T093500
 SUMMARY:Pkw (L)
@@ -4993,13 +5007,6 @@ DTEND:20250326T112500
 SUMMARY:MeSK (w)
 LOCATION:314 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250326T114000
-DTEND:20250326T131500
-SUMMARY:Miswd (w)
-LOCATION:252 S
-DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T133000
@@ -5049,20 +5056,6 @@ DTEND:20250328T112500
 SUMMARY:MPH (w)
 LOCATION:313 S
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250328T114000
-DTEND:20250328T131500
-SUMMARY:MeSK (L)
-LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250328T133000
-DTEND:20250328T150500
-SUMMARY:MeSK (L)
-LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T160000
@@ -5191,13 +5184,6 @@ LOCATION:101 65
 DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr Krzysztof Kanciak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250402T114000
-DTEND:20250402T131500
-SUMMARY:Miswd (w)
-LOCATION:307 S
-DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250402T133000
 DTEND:20250402T150500
 SUMMARY:Bsi (ć)
@@ -5307,14 +5293,21 @@ DTSTART:20250407T114000
 DTEND:20250407T131500
 SUMMARY:MeSK (L)
 LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T133000
 DTEND:20250407T150500
 SUMMARY:MeSK (L)
 LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250407T160000
+DTEND:20250407T173500
+SUMMARY:Miswd (w)
+LOCATION:313 S
+DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T080000
@@ -5329,13 +5322,6 @@ DTEND:20250408T112500
 SUMMARY:Pkw (ć)
 LOCATION:219 65
 DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: dr Krzysztof Kanciak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250408T114000
-DTEND:20250408T131500
-SUMMARY:Miswd (w)
-LOCATION:252 S
-DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T133000
@@ -5373,18 +5359,18 @@ LOCATION:101 65
 DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr Krzysztof Kanciak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250409T114000
-DTEND:20250409T131500
-SUMMARY:Masz (ć)
-LOCATION:252 S
-DESCRIPTION:Modelowanie i analiza sieci złożonych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący:  Rafał Kasprzyk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250409T133000
 DTEND:20250409T150500
 SUMMARY:DWiPD (w)
 LOCATION:313 S
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250410T080000
+DTEND:20250410T093500
+SUMMARY:Masz (ć)
+LOCATION:314 S
+DESCRIPTION:Modelowanie i analiza sieci złożonych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T095000
@@ -5520,17 +5506,17 @@ LOCATION:218 65
 DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: dr Krzysztof Kanciak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250416T114000
-DTEND:20250416T131500
+DTSTART:20250416T160000
+DTEND:20250416T173500
 SUMMARY:Masz (L)
-LOCATION:227 S
+LOCATION:224 S
 DESCRIPTION:Modelowanie i analiza sieci złożonych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250416T133000
-DTEND:20250416T150500
+DTSTART:20250416T175000
+DTEND:20250416T192500
 SUMMARY:Masz (L)
-LOCATION:227 S
+LOCATION:224 S
 DESCRIPTION:Modelowanie i analiza sieci złożonych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
@@ -5581,13 +5567,6 @@ DTEND:20250423T112500
 SUMMARY:MeSK (w)
 LOCATION:314 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250423T114000
-DTEND:20250423T131500
-SUMMARY:Miswd (w)
-LOCATION:307 S
-DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T133000
@@ -5702,18 +5681,11 @@ LOCATION:233 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250430T114000
-DTEND:20250430T131500
-SUMMARY:ZPr (ć)
-LOCATION:313 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250430T133000
 DTEND:20250430T150500
 SUMMARY:ZPr (ć)
 LOCATION:313 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T160000
@@ -5742,6 +5714,13 @@ DTEND:20250505T112500
 SUMMARY:Pkw (ć)
 LOCATION:218 65
 DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: dr Krzysztof Kanciak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250505T114000
+DTEND:20250505T131500
+SUMMARY:Miswd (w)
+LOCATION:226 S
+DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T114000
@@ -5793,13 +5772,6 @@ LOCATION:308 S
 DESCRIPTION:Modelowanie i analiza sieci złożonych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250507T114000
-DTEND:20250507T131500
-SUMMARY:Miswd (L)
-LOCATION:227 S
-DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Dawid Maślanik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250507T133000
 DTEND:20250507T150500
 SUMMARY:DWiPD (w)
@@ -5846,28 +5818,14 @@ DTSTART:20250509T080000
 DTEND:20250509T093500
 SUMMARY:MeSK (L)
 LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T095000
 DTEND:20250509T112500
 SUMMARY:MeSK (L)
 LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250509T114000
-DTEND:20250509T131500
-SUMMARY:ZPr (L)
-LOCATION:227 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250509T133000
-DTEND:20250509T150500
-SUMMARY:ZPr (L)
-LOCATION:227 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T160000
@@ -5940,13 +5898,6 @@ LOCATION:314 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250514T114000
-DTEND:20250514T131500
-SUMMARY:Miswd (w)
-LOCATION:252 S
-DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250514T160000
 DTEND:20250514T173500
 SUMMARY:Masz (L)
@@ -5996,6 +5947,13 @@ LOCATION:313 S
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250519T114000
+DTEND:20250519T131500
+SUMMARY:Miswd (w)
+LOCATION:224 S
+DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250520T114000
 DTEND:20250520T131500
 SUMMARY:Dn (ć)
@@ -6010,25 +5968,11 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 83\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250521T095000
-DTEND:20250521T112500
-SUMMARY:Miswd (L)
-LOCATION:228 S
-DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Dawid Maślanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250521T114000
-DTEND:20250521T131500
-SUMMARY:ZPr (L)
-LOCATION:236 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250521T133000
 DTEND:20250521T150500
 SUMMARY:ZPr (L)
 LOCATION:236 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T080000
@@ -6049,14 +5993,14 @@ DTSTART:20250522T114000
 DTEND:20250522T131500
 SUMMARY:ZPr (ć)
 LOCATION:309 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T133000
 DTEND:20250522T150500
 SUMMARY:ZPr (ć)
 LOCATION:309 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T080000
@@ -6066,25 +6010,18 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 84\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250523T095000
-DTEND:20250523T112500
-SUMMARY:Miswd (P)
-LOCATION:228 S
-DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Projekt\nNr zajęć: 1\nProwadzący:  Dawid Maślanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250523T114000
-DTEND:20250523T131500
-SUMMARY:MeSK (L)
-LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250523T133000
 DTEND:20250523T150500
 SUMMARY:MeSK (L)
-LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: dr inż. Dariusz Pierzchała
+LOCATION:227 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250523T160000
+DTEND:20250523T173500
+SUMMARY:MeSK (L)
+LOCATION:227 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T095000
@@ -6129,18 +6066,11 @@ LOCATION:314 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250528T114000
-DTEND:20250528T131500
-SUMMARY:Miswd (w)
-LOCATION:252 S
-DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250528T133000
 DTEND:20250528T150500
 SUMMARY:Miswd (P)
 LOCATION:223 S
-DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Projekt\nNr zajęć: 2\nProwadzący:  Dawid Maślanik
+DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Projekt\nNr zajęć: 1\nProwadzący:  Dawid Maślanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T160000
@@ -6176,6 +6106,13 @@ DTEND:20250531T112500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 41\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250602T095000
+DTEND:20250602T112500
+SUMMARY:Miswd (w)
+LOCATION:308 S
+DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T080000
@@ -6217,14 +6154,14 @@ DTSTART:20250605T114000
 DTEND:20250605T131500
 SUMMARY:ZPr (ć)
 LOCATION:309 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T133000
 DTEND:20250605T150500
 SUMMARY:ZPr (ć)
 LOCATION:309 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T080000
@@ -6241,18 +6178,18 @@ LOCATION:201 65
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250606T114000
-DTEND:20250606T131500
-SUMMARY:MeSK (L)
-LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250606T133000
 DTEND:20250606T150500
 SUMMARY:MeSK (L)
-LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący: dr inż. Dariusz Pierzchała
+LOCATION:227 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250606T160000
+DTEND:20250606T173500
+SUMMARY:MeSK (L)
+LOCATION:227 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250607T095000
@@ -6381,18 +6318,18 @@ LOCATION:205 65
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250613T114000
-DTEND:20250613T131500
-SUMMARY:Miswd (P)
-LOCATION:223 S
-DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Projekt\nNr zajęć: 3\nProwadzący:  Dawid Maślanik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250613T133000
 DTEND:20250613T150500
-SUMMARY:Miswd (L)
+SUMMARY:MeSK (L)
 LOCATION:223 S
-DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Dawid Maślanik
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250613T160000
+DTEND:20250613T173500
+SUMMARY:MeSK (L)
+LOCATION:223 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T095000
@@ -6420,7 +6357,7 @@ DTSTART:20250616T114000
 DTEND:20250616T131500
 SUMMARY:Miswd (P)
 LOCATION:224 S
-DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Projekt\nNr zajęć: 4\nProwadzący:  Dawid Maślanik
+DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Projekt\nNr zajęć: 2\nProwadzący:  Dawid Maślanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T133000
@@ -6455,7 +6392,7 @@ DTSTART:20250618T095000
 DTEND:20250618T112500
 SUMMARY:Miswd (L)
 LOCATION:226 S
-DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Dawid Maślanik
+DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Dawid Maślanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T114000
@@ -6463,5 +6400,68 @@ DTEND:20250618T131500
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 74\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250716T114000
+DTEND:20250716T131500
+SUMMARY:Miswd (L)
+LOCATION:228 S
+DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący:  Dawid Maślanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250716T133000
+DTEND:20250716T150500
+SUMMARY:Miswd (L)
+LOCATION:227 S
+DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Dawid Maślanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250730T133000
+DTEND:20250730T150500
+SUMMARY:ZPr (L)
+LOCATION:236 S
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250730T160000
+DTEND:20250730T173500
+SUMMARY:ZPr (L)
+LOCATION:227 S
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250730T175000
+DTEND:20250730T192500
+SUMMARY:ZPr (L)
+LOCATION:227 S
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250806T133000
+DTEND:20250806T150500
+SUMMARY:Miswd (P)
+LOCATION:228 S
+DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Projekt\nNr zajęć: 3\nProwadzący:  Dawid Maślanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250806T160000
+DTEND:20250806T173500
+SUMMARY:Miswd (P)
+LOCATION:223 S
+DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Projekt\nNr zajęć: 4\nProwadzący:  Dawid Maślanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250806T175000
+DTEND:20250806T192500
+SUMMARY:Miswd (L)
+LOCATION:223 S
+DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Dawid Maślanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250813T114000
+DTEND:20250813T131500
+SUMMARY:ZPr (ć)
+LOCATION:313 S
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 END:VCALENDAR

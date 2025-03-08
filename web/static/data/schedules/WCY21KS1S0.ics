@@ -5030,13 +5030,6 @@ LOCATION:085 S
 DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: mgr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250314T114000
-DTEND:20250314T131500
-SUMMARY:Gtl (w)
-LOCATION:085 S
-DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: mgr inż. Krzysztof Mańk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250314T133000
 DTEND:20250314T150500
 SUMMARY:Dn (w)
@@ -5107,15 +5100,15 @@ LOCATION:201 65
 DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250319T114000
-DTEND:20250319T131500
+DTSTART:20250319T133000
+DTEND:20250319T150500
 SUMMARY:Pzm. (P)
 LOCATION:218 65
 DESCRIPTION:Projekt z zakresu matematycznych i informatycznych podstaw kryptologii\nRodzaj zajęć: Projekt\nNr zajęć: 1\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250319T133000
-DTEND:20250319T150500
+DTSTART:20250319T160000
+DTEND:20250319T173500
 SUMMARY:Pzm. (P)
 LOCATION:218 65
 DESCRIPTION:Projekt z zakresu matematycznych i informatycznych podstaw kryptologii\nRodzaj zajęć: Projekt\nNr zajęć: 2\nProwadzący: dr inż. Kamil Kaczyński
@@ -5160,14 +5153,7 @@ DTSTART:20250321T095000
 DTEND:20250321T112500
 SUMMARY:Gtl (w)
 LOCATION:085 S
-DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: mgr inż. Krzysztof Mańk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250321T114000
-DTEND:20250321T131500
-SUMMARY:Gtl (w)
-LOCATION:085 S
-DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: mgr inż. Krzysztof Mańk
+DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: mgr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250322T095000
@@ -5189,6 +5175,20 @@ DTEND:20250324T112500
 SUMMARY:MeSK (w)
 LOCATION:314 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250324T114000
+DTEND:20250324T131500
+SUMMARY:MeSK (L)
+LOCATION:236 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250324T133000
+DTEND:20250324T150500
+SUMMARY:MeSK (L)
+LOCATION:236 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T133000
@@ -5217,27 +5217,6 @@ DTEND:20250326T112500
 SUMMARY:MeSK (w)
 LOCATION:314 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250326T114000
-DTEND:20250326T131500
-SUMMARY:MeSK (L)
-LOCATION:223 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Stanisław Skrzypecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250326T133000
-DTEND:20250326T150500
-SUMMARY:Pzm. (P)
-LOCATION:218 65
-DESCRIPTION:Projekt z zakresu matematycznych i informatycznych podstaw kryptologii\nRodzaj zajęć: Projekt\nNr zajęć: 3\nProwadzący: dr inż. Kamil Kaczyński
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250326T160000
-DTEND:20250326T173500
-SUMMARY:Pzm. (P)
-LOCATION:218 65
-DESCRIPTION:Projekt z zakresu matematycznych i informatycznych podstaw kryptologii\nRodzaj zajęć: Projekt\nNr zajęć: 4\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T080000
@@ -5280,13 +5259,6 @@ DTEND:20250328T112500
 SUMMARY:Akst (w)
 LOCATION:085 S
 DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: mgr inż. Łukasz Dzieł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250328T114000
-DTEND:20250328T131500
-SUMMARY:Akst (w)
-LOCATION:085 S
-DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T133000
@@ -5429,18 +5401,18 @@ LOCATION:085 S
 DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250402T114000
-DTEND:20250402T131500
-SUMMARY:Akst (L)
-LOCATION:085 S
-DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Łukasz Dzieł
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250402T133000
 DTEND:20250402T150500
-SUMMARY:Akst (L)
-LOCATION:085 S
-DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Łukasz Dzieł
+SUMMARY:Pzm. (P)
+LOCATION:218 65
+DESCRIPTION:Projekt z zakresu matematycznych i informatycznych podstaw kryptologii\nRodzaj zajęć: Projekt\nNr zajęć: 3\nProwadzący: dr inż. Kamil Kaczyński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250402T160000
+DTEND:20250402T173500
+SUMMARY:Pzm. (P)
+LOCATION:218 65
+DESCRIPTION:Projekt z zakresu matematycznych i informatycznych podstaw kryptologii\nRodzaj zajęć: Projekt\nNr zajęć: 4\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T080000
@@ -5482,21 +5454,7 @@ DTSTART:20250404T095000
 DTEND:20250404T112500
 SUMMARY:Akst (w)
 LOCATION:085 S
-DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: mgr inż. Łukasz Dzieł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250404T114000
-DTEND:20250404T131500
-SUMMARY:MeSK (L)
-LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250404T133000
-DTEND:20250404T150500
-SUMMARY:MeSK (L)
-LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T160000
@@ -5531,21 +5489,21 @@ DTSTART:20250407T095000
 DTEND:20250407T112500
 SUMMARY:Akst (w)
 LOCATION:085 S
-DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: mgr inż. Łukasz Dzieł
+DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T114000
 DTEND:20250407T131500
 SUMMARY:Akst (L)
 LOCATION:085 S
-DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Łukasz Dzieł
+DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T133000
 DTEND:20250407T150500
 SUMMARY:Akst (L)
 LOCATION:085 S
-DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Łukasz Dzieł
+DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T080000
@@ -5580,14 +5538,14 @@ DTSTART:20250409T080000
 DTEND:20250409T093500
 SUMMARY:Gtl (w)
 LOCATION:085 S
-DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: mgr inż. Krzysztof Mańk
+DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: mgr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T095000
 DTEND:20250409T112500
 SUMMARY:Gtl (w)
 LOCATION:085 S
-DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: mgr inż. Krzysztof Mańk
+DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: mgr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T114000
@@ -5646,20 +5604,6 @@ LOCATION:204 65
 DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250411T114000
-DTEND:20250411T131500
-SUMMARY:Gtl (L)
-LOCATION:085 S
-DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Krzysztof Mańk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250411T133000
-DTEND:20250411T150500
-SUMMARY:Gtl (L)
-LOCATION:085 S
-DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Krzysztof Mańk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250411T160000
 DTEND:20250411T173500
 SUMMARY:MPH (w)
@@ -5678,7 +5622,7 @@ DTSTART:20250414T080000
 DTEND:20250414T093500
 SUMMARY:Akst (w)
 LOCATION:085 S
-DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 9\nProwadzący: mgr inż. Łukasz Dzieł
+DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T095000
@@ -5734,21 +5678,7 @@ DTSTART:20250416T095000
 DTEND:20250416T112500
 SUMMARY:Gtl (w)
 LOCATION:085 S
-DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: mgr inż. Krzysztof Mańk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250416T114000
-DTEND:20250416T131500
-SUMMARY:Akst (L)
-LOCATION:085 S
-DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Łukasz Dzieł
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250416T133000
-DTEND:20250416T150500
-SUMMARY:Akst (L)
-LOCATION:085 S
-DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: mgr inż. Łukasz Dzieł
+DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: mgr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T160000
@@ -5807,13 +5737,6 @@ LOCATION:314 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250423T114000
-DTEND:20250423T131500
-SUMMARY:MeSK (L)
-LOCATION:223 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Stanisław Skrzypecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250423T133000
 DTEND:20250423T150500
 SUMMARY:tcs (w)
@@ -5860,7 +5783,7 @@ DTSTART:20250428T080000
 DTEND:20250428T093500
 SUMMARY:Akst (w)
 LOCATION:085 S
-DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 10\nProwadzący: mgr inż. Łukasz Dzieł
+DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 9\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T095000
@@ -5874,14 +5797,14 @@ DTSTART:20250428T114000
 DTEND:20250428T131500
 SUMMARY:Akst (L)
 LOCATION:085 S
-DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: mgr inż. Łukasz Dzieł
+DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T133000
 DTEND:20250428T150500
 SUMMARY:Akst (L)
 LOCATION:085 S
-DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: mgr inż. Łukasz Dzieł
+DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T133000
@@ -5896,13 +5819,6 @@ DTEND:20250430T112500
 SUMMARY:tcs (w)
 LOCATION:201 65
 DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 9\nProwadzący: dr Piotr Kacprzyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250430T114000
-DTEND:20250430T131500
-SUMMARY:Gtl (ć)
-LOCATION:078 S
-DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: mgr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T133000
@@ -5937,14 +5853,14 @@ DTSTART:20250505T114000
 DTEND:20250505T131500
 SUMMARY:Akst (L)
 LOCATION:085 S
-DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący: mgr inż. Łukasz Dzieł
+DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T133000
 DTEND:20250505T150500
 SUMMARY:Akst (L)
 LOCATION:085 S
-DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący: mgr inż. Łukasz Dzieł
+DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T095000
@@ -6077,14 +5993,14 @@ DTSTART:20250512T114000
 DTEND:20250512T131500
 SUMMARY:Akst (L)
 LOCATION:085 S
-DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11\nProwadzący: mgr inż. Łukasz Dzieł
+DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T133000
 DTEND:20250512T150500
 SUMMARY:Akst (L)
 LOCATION:085 S
-DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 12\nProwadzący: mgr inż. Łukasz Dzieł
+DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T160000
@@ -6129,18 +6045,11 @@ LOCATION:314 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250514T114000
-DTEND:20250514T131500
-SUMMARY:MeSK (L)
-LOCATION:236 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Stanisław Skrzypecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250514T133000
 DTEND:20250514T150500
 SUMMARY:Gtl (ć)
 LOCATION:078 S
-DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: mgr inż. Krzysztof Mańk
+DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: mgr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T160000
@@ -6224,14 +6133,14 @@ DTSTART:20250519T114000
 DTEND:20250519T131500
 SUMMARY:Akst (L)
 LOCATION:085 S
-DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 13\nProwadzący: mgr inż. Łukasz Dzieł
+DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T133000
 DTEND:20250519T150500
 SUMMARY:Akst (L)
 LOCATION:085 S
-DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 14\nProwadzący: mgr inż. Łukasz Dzieł
+DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T160000
@@ -6245,7 +6154,7 @@ DTSTART:20250520T114000
 DTEND:20250520T131500
 SUMMARY:Gtl (ć)
 LOCATION:078 S
-DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: mgr inż. Krzysztof Mańk
+DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: mgr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T133000
@@ -6343,14 +6252,14 @@ DTSTART:20250526T114000
 DTEND:20250526T131500
 SUMMARY:Akst (L)
 LOCATION:085 S
-DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 15\nProwadzący: mgr inż. Łukasz Dzieł
+DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T133000
 DTEND:20250526T150500
 SUMMARY:Akst (L)
 LOCATION:085 S
-DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 16\nProwadzący: mgr inż. Łukasz Dzieł
+DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 12\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T133000
@@ -6372,13 +6281,6 @@ DTEND:20250528T112500
 SUMMARY:MeSK (w)
 LOCATION:314 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250528T114000
-DTEND:20250528T131500
-SUMMARY:Gtl (ć)
-LOCATION:078 S
-DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5\nProwadzący: mgr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T160000
@@ -6476,14 +6378,14 @@ DTSTART:20250602T114000
 DTEND:20250602T131500
 SUMMARY:Akst (L)
 LOCATION:085 S
-DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 17\nProwadzący: mgr inż. Łukasz Dzieł
+DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 13\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T133000
 DTEND:20250602T150500
 SUMMARY:Akst (L)
 LOCATION:085 S
-DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 18\nProwadzący: mgr inż. Łukasz Dzieł
+DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 14\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T080000
@@ -6512,6 +6414,20 @@ DTEND:20250603T150500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250604T160000
+DTEND:20250604T173500
+SUMMARY:Pzm. (P)
+LOCATION:078 S
+DESCRIPTION:Projekt z zakresu matematycznych i informatycznych podstaw kryptologii\nRodzaj zajęć: Projekt\nNr zajęć: 13\nProwadzący: dr inż. Kamil Kaczyński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250604T175000
+DTEND:20250604T192500
+SUMMARY:Pzm. (P)
+LOCATION:078 S
+DESCRIPTION:Projekt z zakresu matematycznych i informatycznych podstaw kryptologii\nRodzaj zajęć: Projekt\nNr zajęć: 14\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T080000
@@ -6693,7 +6609,7 @@ DTSTART:20250612T114000
 DTEND:20250612T131500
 SUMMARY:MeSK (L)
 LOCATION:224 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Stanisław Skrzypecki
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T080000
@@ -6721,7 +6637,7 @@ DTSTART:20250616T080000
 DTEND:20250616T093500
 SUMMARY:Gtl (L)
 LOCATION:085 S
-DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Krzysztof Mańk
+DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: mgr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T095000
@@ -6735,14 +6651,14 @@ DTSTART:20250616T114000
 DTEND:20250616T131500
 SUMMARY:Akst (L)
 LOCATION:085 S
-DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 19\nProwadzący: mgr inż. Łukasz Dzieł
+DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 15\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T133000
 DTEND:20250616T150500
 SUMMARY:Akst (L)
 LOCATION:085 S
-DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 20\nProwadzący: mgr inż. Łukasz Dzieł
+DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 16\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T095000
@@ -6766,17 +6682,101 @@ LOCATION:201 65
 DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250618T095000
-DTEND:20250618T112500
-SUMMARY:Pzm. (P)
-LOCATION:078 S
-DESCRIPTION:Projekt z zakresu matematycznych i informatycznych podstaw kryptologii\nRodzaj zajęć: Projekt\nNr zajęć: 13\nProwadzący: dr inż. Kamil Kaczyński
+DTSTART:20250709T160000
+DTEND:20250709T173500
+SUMMARY:Akst (L)
+LOCATION:085 S
+DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 17\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250618T114000
-DTEND:20250618T131500
-SUMMARY:Pzm. (P)
+DTSTART:20250709T175000
+DTEND:20250709T192500
+SUMMARY:Akst (L)
+LOCATION:085 S
+DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 18\nProwadzący: mgr inż. Łukasz Dzieł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250716T160000
+DTEND:20250716T173500
+SUMMARY:Akst (L)
+LOCATION:085 S
+DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 19\nProwadzący: mgr inż. Łukasz Dzieł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250716T175000
+DTEND:20250716T192500
+SUMMARY:Akst (L)
+LOCATION:085 S
+DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 20\nProwadzący: mgr inż. Łukasz Dzieł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250717T133000
+DTEND:20250717T150500
+SUMMARY:MeSK (L)
+LOCATION:223 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Stanisław Skrzypecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250723T095000
+DTEND:20250723T112500
+SUMMARY:Gtl (w)
+LOCATION:085 S
+DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: mgr inż. Krzysztof Mańk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250723T114000
+DTEND:20250723T131500
+SUMMARY:Gtl (ć)
 LOCATION:078 S
-DESCRIPTION:Projekt z zakresu matematycznych i informatycznych podstaw kryptologii\nRodzaj zajęć: Projekt\nNr zajęć: 14\nProwadzący: dr inż. Kamil Kaczyński
+DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: mgr inż. Krzysztof Mańk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250723T160000
+DTEND:20250723T173500
+SUMMARY:Akst (w)
+LOCATION:085 S
+DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 10\nProwadzący: mgr inż. Łukasz Dzieł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250724T133000
+DTEND:20250724T150500
+SUMMARY:MeSK (L)
+LOCATION:223 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Stanisław Skrzypecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250730T095000
+DTEND:20250730T112500
+SUMMARY:Gtl (w)
+LOCATION:085 S
+DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: mgr inż. Krzysztof Mańk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250730T114000
+DTEND:20250730T131500
+SUMMARY:Gtl (ć)
+LOCATION:078 S
+DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5\nProwadzący: mgr inż. Krzysztof Mańk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250731T133000
+DTEND:20250731T150500
+SUMMARY:MeSK (L)
+LOCATION:236 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Stanisław Skrzypecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250806T160000
+DTEND:20250806T173500
+SUMMARY:Gtl (L)
+LOCATION:085 S
+DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: mgr inż. Krzysztof Mańk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250806T175000
+DTEND:20250806T192500
+SUMMARY:Gtl (L)
+LOCATION:085 S
+DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: mgr inż. Krzysztof Mańk
 END:VEVENT
 END:VCALENDAR

@@ -2405,6 +2405,13 @@ LOCATION:103 K
 DESCRIPTION:Zabezpieczenie medyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250319T080000
+DTEND:20250319T093500
+SUMMARY:F1 (ć)
+LOCATION:204 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250319T095000
 DTEND:20250319T112500
 SUMMARY:F1 (w)
@@ -2437,7 +2444,7 @@ DTSTART:20250320T114000
 DTEND:20250320T131500
 SUMMARY:F1 (ć)
 LOCATION:204 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T133000
@@ -2500,7 +2507,7 @@ DTSTART:20250321T160000
 DTEND:20250321T173500
 SUMMARY:F1 (ć)
 LOCATION:204 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T080000
@@ -2690,13 +2697,6 @@ DTEND:20250331T112500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 39\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250331T114000
-DTEND:20250331T131500
-SUMMARY:F1 (ć)
-LOCATION:205 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T133000
@@ -3525,13 +3525,6 @@ LOCATION:139 S
 DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250512T133000
-DTEND:20250512T150500
-SUMMARY:F1 (ć)
-LOCATION:119 45
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250513T080000
 DTEND:20250513T093500
 SUMMARY:WF (ć)
@@ -3649,6 +3642,13 @@ DTEND:20250516T112500
 SUMMARY:F1 (w)
 LOCATION:aF S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250516T114000
+DTEND:20250516T131500
+SUMMARY:F1 (ć)
+LOCATION:118 45
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T133000

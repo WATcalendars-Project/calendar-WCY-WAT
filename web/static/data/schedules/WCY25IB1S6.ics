@@ -760,13 +760,6 @@ LOCATION:A  59
 DESCRIPTION:Ochrona środowiska - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250411T133000
-DTEND:20250411T150500
-SUMMARY:ZLDT-1 (w)
-LOCATION:aula/
-DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250411T160000
 DTEND:20250411T173500
 SUMMARY:DSiSM (ć)
@@ -953,7 +946,7 @@ DTSTART:20250417T160000
 DTEND:20250417T173500
 SUMMARY:ZLDT-1 (w)
 LOCATION:aula/
-DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T175000
@@ -1290,6 +1283,13 @@ DTEND:20250429T173500
 SUMMARY:TW (ć)
 LOCATION:114 57
 DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250429T175000
+DTEND:20250429T192500
+SUMMARY:ZLDT-1 (w)
+LOCATION:aula/
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T080000
