@@ -1,8 +1,9 @@
 import os
 import re
-import requests
+import httpx
 from bs4 import BeautifulSoup
 from datetime import datetime
+from collections import defaultdict
 
 # Definicje katalogów i plików
 DATA_DIR = "data"
@@ -21,16 +22,13 @@ BLOCK_TIMES = {
     "block7": ("19:40", "21:15"),
 }
 
-# Tworzenie katalogu jeśli nie istnieje
 os.makedirs(SCHEDULES_DIR, exist_ok=True)
 
 def load_groups():
-    """Wczytuje listę grup z pliku `groups.txt`."""
     with open(GROUPS_FILE, "r", encoding="utf-8") as f:
         return [line.strip() for line in f.readlines()]
 
 def load_lecturer_titles():
-    """Wczytuje stopnie naukowe wykładowców z pliku `employees.txt`."""
     lecturer_dict = {}
     if not os.path.exists(EMPLOYEES_FILE):
         print(f"⚠️ Plik {EMPLOYEES_FILE} nie istnieje! Stopnie naukowe nie zostaną dodane.")
@@ -45,25 +43,49 @@ def load_lecturer_titles():
     return lecturer_dict
 
 def fetch_schedule(group_id):
-    """Pobiera plan zajęć dla danej grupy."""
     url = f"https://planzajec.wcy.wat.edu.pl/pl/rozklad?grupa_id={group_id}"
     headers = {"User-Agent": "Mozilla/5.0"}
-    response = requests.get(url, headers=headers)
     
-    if response.status_code != 200:
-        print(f"❌ Błąd pobierania planu dla {group_id}! Kod: {response.status_code}")
-        return None
-    
-    return response.text
+    try:
+        with httpx.Client(verify=False, timeout=20) as client:
+            response = client.get(url, headers=headers)
+            response.raise_for_status()
+            return response.text
+    except httpx.TimeoutException:
+        print(f"❌ Timeout: Serwer nie odpowiedział dla {group_id}")
+    except httpx.HTTPStatusError as e:
+        print(f"❌ Błąd HTTP {e.response.status_code} dla {group_id}")
+    except httpx.RequestError as e:
+        print(f"❌ Błąd połączenia: {e}")
+
+    return None
 
 def parse_schedule(html, academic_titles):
-    """Parsuje HTML z planem zajęć."""
     if not html:
         return []
     
     soup = BeautifulSoup(html, "html.parser")
     lessons = []
+    lesson_counters = defaultdict(int)  # Licznik zajęć dla danego przedmiotu i typu
+    max_lessons_count = defaultdict(int)  # Maksymalna liczba zajęć danego typu w semestrze
 
+    # Najpierw musimy policzyć maksymalną liczbę zajęć (Y)
+    for lesson in soup.find_all("div", class_="lesson"):
+        subject_element = lesson.find("span", class_="name")
+        subject_lines = [line.strip() for line in subject_element.stripped_strings]
+        
+        if len(subject_lines) < 4:
+            continue
+
+        subject_short = subject_lines[0]
+        lesson_type = subject_lines[1]
+        lesson_number_match = re.search(r"\[(\d+)\]", subject_lines[3])
+        lesson_number = int(lesson_number_match.group(1)) if lesson_number_match else 0
+
+        lesson_key = (subject_short, lesson_type)
+        max_lessons_count[lesson_key] = max(max_lessons_count[lesson_key], lesson_number)
+
+    # Teraz parsujemy plan i liczymy X/Y
     for lesson in soup.find_all("div", class_="lesson"):
         try:
             date_str = lesson.find("span", class_="date").text.strip()
@@ -78,10 +100,16 @@ def parse_schedule(html, academic_titles):
             lesson_type = subject_lines[1]
             room = subject_lines[2].replace(",", "").strip()
             lesson_number_match = re.search(r"\[(\d+)\]", subject_lines[3])
-            lesson_number = lesson_number_match.group(1) if lesson_number_match else "Brak"
+            lesson_number = int(lesson_number_match.group(1)) if lesson_number_match else 0
+
+            lesson_key = (subject_short, lesson_type)
+            lesson_counters[lesson_key] += 1  # X (obecne zajęcia)
+            max_lessons = max_lessons_count[lesson_key] or "Brak"  # Y (maksymalna liczba)
+
+            lesson_number_formatted = f"{lesson_counters[lesson_key]}/{max_lessons}"
 
             info_element = lesson.find("span", class_="info")
-            full_subject_info = info_element.text.strip() if info_element else "Nieznana nazwa"
+            full_subject_info = info_element.text.strip() if info_element else " - "
             full_subject_cleaned = re.sub(r" - \(.+\) - .*", "", full_subject_info).strip()
 
             lecturer_match = re.search(r"- \(.+\) - ((?:dr |prof\. |inż\. )?[A-ZĄĆĘŁŃÓŚŹŻ][a-ząćęłńóśźż]+) ([A-ZĄĆĘŁŃÓŚŹŻ][a-ząćęłńóśźż]+)", full_subject_info)
@@ -96,7 +124,7 @@ def parse_schedule(html, academic_titles):
                 "(ć)": "Ćwiczenia",
                 "(P)": "Projekt",
                 "(inne)": "inne",
-            }.get(lesson_type, "Nieznany")
+            }.get(lesson_type, " - ")
 
             date_obj = datetime.strptime(date_str, "%Y_%m_%d")
             start_time, end_time = BLOCK_TIMES.get(block_id, ("00:00", "00:00"))
@@ -111,7 +139,7 @@ def parse_schedule(html, academic_titles):
                 "type": lesson_type,
                 "type_full": lesson_type_full,
                 "room": room,
-                "lesson_number": lesson_number,
+                "lesson_number": lesson_number_formatted,
                 "full_subject": full_subject_cleaned,
                 "lecturer": lecturer_with_title,
             })
