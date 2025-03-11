@@ -2,7 +2,7 @@ import os
 from bs4 import BeautifulSoup
 from download_html import fetch_html 
 
-GROUPS_URL = "https://planzajec.wcy.wat.edu.pl/pl/rozklad"
+GROUPS_URL = "https://planzajec.wcy.wat.edu.pl/rozklad"
 DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data")
 OUTPUT_FILE = os.path.join(DATA_DIR, "groups.txt")
 
