@@ -5163,20 +5163,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 63\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250311T160000
-DTEND:20250311T173500
-SUMMARY:Pwst (L)
-LOCATION:120 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: dr Sławomir Machowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250311T175000
-DTEND:20250311T192500
-SUMMARY:Pwst (L)
-LOCATION:120 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: dr Sławomir Machowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250312T080000
 DTEND:20250312T093500
 SUMMARY:ZŻWAT (ć)
@@ -5289,13 +5275,6 @@ LOCATION:314 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250318T080000
-DTEND:20250318T093500
-SUMMARY:Pwst (P)
-LOCATION:011 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 1\nProwadzący: dr Sławomir Machowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250318T133000
 DTEND:20250318T150500
 SUMMARY:WF (ć)
@@ -5338,6 +5317,13 @@ LOCATION:309 S
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250320T095000
+DTEND:20250320T112500
+SUMMARY:Pwst (P)
+LOCATION:237 S
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 1\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250320T114000
 DTEND:20250320T131500
 SUMMARY:IRz (w)
@@ -5349,14 +5335,14 @@ DTSTART:20250320T133000
 DTEND:20250320T150500
 SUMMARY:Pwst (L)
 LOCATION:120 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T160000
 DTEND:20250320T173500
 SUMMARY:Pwst (L)
 LOCATION:120 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T080000
@@ -5434,6 +5420,20 @@ DTEND:20250325T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 67\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250325T160000
+DTEND:20250325T173500
+SUMMARY:Pwst (L)
+LOCATION:011 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250325T175000
+DTEND:20250325T192500
+SUMMARY:Pwst (L)
+LOCATION:011 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T080000
@@ -5779,27 +5779,6 @@ LOCATION:309 S
 DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250408T080000
-DTEND:20250408T093500
-SUMMARY:Zt (L)
-LOCATION:125 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Szymon Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250408T095000
-DTEND:20250408T112500
-SUMMARY:Zt (L)
-LOCATION:125 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Szymon Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250408T114000
-DTEND:20250408T131500
-SUMMARY:Zt (P)
-LOCATION:125 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 1\nProwadzący:  Szymon Chmielewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250408T133000
 DTEND:20250408T150500
 SUMMARY:WF (ć)
@@ -5944,14 +5923,14 @@ DTSTART:20250414T080000
 DTEND:20250414T093500
 SUMMARY:Zt (L)
 LOCATION:125 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Szymon Chmielewski
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący:  Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T095000
 DTEND:20250414T112500
 SUMMARY:Zt (L)
 LOCATION:125 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Szymon Chmielewski
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący:  Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T114000
@@ -5994,6 +5973,13 @@ DTEND:20250416T131500
 SUMMARY:Ja (ć)
 LOCATION:120 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250416T133000
+DTEND:20250416T150500
+SUMMARY:Zt (P)
+LOCATION:106 65
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 1\nProwadzący:  Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T080000
@@ -6084,14 +6070,14 @@ DTSTART:20250424T114000
 DTEND:20250424T131500
 SUMMARY:Zt (L)
 LOCATION:120 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Szymon Chmielewski
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący:  Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T133000
 DTEND:20250424T150500
 SUMMARY:Zt (L)
 LOCATION:120 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Szymon Chmielewski
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T160000
@@ -6246,6 +6232,20 @@ DTEND:20250506T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250507T080000
+DTEND:20250507T093500
+SUMMARY:Zt (L)
+LOCATION:125 65
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250507T095000
+DTEND:20250507T112500
+SUMMARY:Zt (L)
+LOCATION:125 65
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T114000

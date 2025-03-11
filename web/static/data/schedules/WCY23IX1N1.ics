@@ -2659,16 +2659,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250406T114000
 DTEND:20250406T131500
-SUMMARY:IK (w)
-LOCATION:201 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący:  Jozef Turczyn
+SUMMARY:Tik (w)
+LOCATION:203 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250406T133000
 DTEND:20250406T150500
-SUMMARY:IK (w)
-LOCATION:201 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący:  Jozef Turczyn
+SUMMARY:Tik (w)
+LOCATION:203 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250406T160000
@@ -2701,16 +2701,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250412T114000
 DTEND:20250412T131500
-SUMMARY:Tik (w)
-LOCATION:203 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Leszek Grad
+SUMMARY:IK (w)
+LOCATION:201 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący:  Jozef Turczyn
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250412T133000
 DTEND:20250412T150500
-SUMMARY:Tik (w)
-LOCATION:203 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Leszek Grad
+SUMMARY:IK (w)
+LOCATION:201 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący:  Jozef Turczyn
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250412T160000

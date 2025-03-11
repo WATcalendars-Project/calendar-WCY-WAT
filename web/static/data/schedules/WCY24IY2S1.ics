@@ -2118,6 +2118,13 @@ LOCATION:317 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250331T160000
+DTEND:20250331T173500
+SUMMARY:Mat I (Inne)
+LOCATION:314 S
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250401T095000
 DTEND:20250401T112500
 SUMMARY:Tpi (w)
@@ -2284,6 +2291,13 @@ DTEND:20250407T173500
 SUMMARY:Tgs (ć)
 LOCATION:308 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250407T175000
+DTEND:20250407T192500
+SUMMARY:M II (Inne)
+LOCATION:314 S
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T080000

@@ -5457,13 +5457,6 @@ LOCATION:52/ 62
 DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250326T095000
-DTEND:20250326T112500
-SUMMARY:Sze (w)
-LOCATION:19 47
-DESCRIPTION:Systemy zapewnienia energii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250326T114000
 DTEND:20250326T131500
 SUMMARY:PRo (w)
@@ -5650,7 +5643,7 @@ DTSTART:20250403T095000
 DTEND:20250403T112500
 SUMMARY:Sze (w)
 LOCATION:119 45
-DESCRIPTION:Systemy zapewnienia energii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: -
+DESCRIPTION:Systemy zapewnienia energii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T114000
@@ -5728,6 +5721,13 @@ DTEND:20250407T150500
 SUMMARY:TeAn (w)
 LOCATION:117 45
 DESCRIPTION:Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250408T095000
+DTEND:20250408T112500
+SUMMARY:Sze (w)
+LOCATION:3/ 54
+DESCRIPTION:Systemy zapewnienia energii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T114000

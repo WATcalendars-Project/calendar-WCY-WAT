@@ -5989,6 +5989,20 @@ LOCATION:313 S
 DESCRIPTION:Historia sztuki wojennej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250508T133000
+DTEND:20250508T150500
+SUMMARY:SO (L)
+LOCATION:106 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250508T160000
+DTEND:20250508T173500
+SUMMARY:SO (L)
+LOCATION:106 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący:  Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250509T080000
 DTEND:20250509T093500
 SUMMARY:Bd (L)
@@ -6399,14 +6413,14 @@ DTSTART:20250530T133000
 DTEND:20250530T150500
 SUMMARY:SO (L)
 LOCATION:09 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Szymon Chmielewski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący:  Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T160000
 DTEND:20250530T173500
 SUMMARY:SO (L)
 LOCATION:09 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9\nProwadzący:  Szymon Chmielewski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 11\nProwadzący:  Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T194000
@@ -6490,14 +6504,14 @@ DTSTART:20250605T114000
 DTEND:20250605T131500
 SUMMARY:SO (L)
 LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 10\nProwadzący:  Szymon Chmielewski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 12\nProwadzący:  Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T133000
 DTEND:20250605T150500
 SUMMARY:SO (L)
 LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 11\nProwadzący:  Szymon Chmielewski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 13\nProwadzący:  Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T080000
@@ -6575,20 +6589,6 @@ DTEND:20250610T112500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 88\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250610T114000
-DTEND:20250610T131500
-SUMMARY:SO (L)
-LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 12\nProwadzący:  Szymon Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250610T133000
-DTEND:20250610T150500
-SUMMARY:SO (L)
-LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 13\nProwadzący:  Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T095000

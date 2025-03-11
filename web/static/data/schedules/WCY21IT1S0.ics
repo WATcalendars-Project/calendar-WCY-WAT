@@ -5394,13 +5394,6 @@ LOCATION:121 65
 DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący:  Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250311T114000
-DTEND:20250311T131500
-SUMMARY:bai (w)
-LOCATION:101 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250312T080000
 DTEND:20250312T093500
 SUMMARY:ZŻWAT (ć)
@@ -5559,7 +5552,7 @@ DTSTART:20250318T160000
 DTEND:20250318T173500
 SUMMARY:bai (w)
 LOCATION:101 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T080000
@@ -5587,7 +5580,7 @@ DTSTART:20250319T133000
 DTEND:20250319T150500
 SUMMARY:bai (w)
 LOCATION:205 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T080000
@@ -5944,7 +5937,7 @@ DTSTART:20250402T080000
 DTEND:20250402T093500
 SUMMARY:bai (w)
 LOCATION:09 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T095000
@@ -6119,7 +6112,7 @@ DTSTART:20250409T080000
 DTEND:20250409T093500
 SUMMARY:bai (w)
 LOCATION:101 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T095000
@@ -6449,6 +6442,13 @@ DTEND:20250429T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 73\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250429T095000
+DTEND:20250429T112500
+SUMMARY:bai (w)
+LOCATION:125 65
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T114000

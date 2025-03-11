@@ -263,13 +263,6 @@ LOCATION:313 S
 DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250325T095000
-DTEND:20250325T112500
-SUMMARY:Ek (w)
-LOCATION:313 S
-DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250325T160000
 DTEND:20250325T173500
 SUMMARY:Mnk (L)
@@ -365,14 +358,14 @@ DTSTART:20250402T114000
 DTEND:20250402T131500
 SUMMARY:Ek (w)
 LOCATION:313 S
-DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: -
+DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T133000
 DTEND:20250402T150500
 SUMMARY:Ek (w)
 LOCATION:313 S
-DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: -
+DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T095000
@@ -1121,7 +1114,7 @@ DTSTART:20250611T114000
 DTEND:20250611T131500
 SUMMARY:Ek (w)
 LOCATION:313 S
-DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: -
+DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T095000
@@ -1157,6 +1150,13 @@ DTEND:20250616T112500
 SUMMARY:Ps (w)
 LOCATION:313 S
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250617T114000
+DTEND:20250617T131500
+SUMMARY:Ek (w)
+LOCATION:316 S
+DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T114000

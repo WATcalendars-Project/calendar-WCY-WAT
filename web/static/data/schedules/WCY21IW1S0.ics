@@ -5345,13 +5345,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 65\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250318T095000
-DTEND:20250318T112500
-SUMMARY:Pwst (P)
-LOCATION:125 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 1\nProwadzący: dr Sławomir Machowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250319T114000
 DTEND:20250319T131500
 SUMMARY:Ja (ć)
@@ -5559,7 +5552,7 @@ DTSTART:20250327T175000
 DTEND:20250327T192500
 SUMMARY:Pwst (P)
 LOCATION:011 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 2\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 1\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T080000
@@ -5755,7 +5748,7 @@ DTSTART:20250403T175000
 DTEND:20250403T192500
 SUMMARY:Pwst (P)
 LOCATION:125 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 3\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 2\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T080000
@@ -5854,6 +5847,13 @@ DTEND:20250408T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 70\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250408T095000
+DTEND:20250408T112500
+SUMMARY:Pwst (P)
+LOCATION:237 S
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 3\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T114000
@@ -6155,6 +6155,13 @@ DTEND:20250424T150500
 SUMMARY:TeIP (L)
 LOCATION:121 65
 DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250424T160000
+DTEND:20250424T173500
+SUMMARY:ESI (L)
+LOCATION:011 65
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250426T095000
@@ -6595,7 +6602,7 @@ DTSTART:20250520T160000
 DTEND:20250520T173500
 SUMMARY:ESI (L)
 LOCATION:120 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6\nProwadzący:  Sławomir Matusiak
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T175000
@@ -6763,7 +6770,7 @@ DTSTART:20250528T160000
 DTEND:20250528T173500
 SUMMARY:ESI (L)
 LOCATION:120 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7\nProwadzący:  Sławomir Matusiak
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T095000
@@ -6904,13 +6911,6 @@ DTEND:20250603T192500
 SUMMARY:Pwst (L)
 LOCATION:120 65
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 12\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250604T160000
-DTEND:20250604T173500
-SUMMARY:ESI (L)
-LOCATION:120 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T095000

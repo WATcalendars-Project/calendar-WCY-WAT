@@ -2097,6 +2097,13 @@ LOCATION:205 65
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250331T160000
+DTEND:20250331T173500
+SUMMARY:Mat I (Inne)
+LOCATION:314 S
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250401T095000
 DTEND:20250401T112500
 SUMMARY:Tpi (w)
@@ -2235,6 +2242,13 @@ DTEND:20250407T131500
 SUMMARY:Md2 (w)
 LOCATION:317 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250407T175000
+DTEND:20250407T192500
+SUMMARY:M II (Inne)
+LOCATION:314 S
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T080000

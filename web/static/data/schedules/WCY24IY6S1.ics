@@ -865,6 +865,20 @@ LOCATION:313 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Nieznany\nNr zajęć: 1\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250331T160000
+DTEND:20250331T173500
+SUMMARY:Mat I (Inne)
+LOCATION:314 S
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250407T175000
+DTEND:20250407T192500
+SUMMARY:M II (Inne)
+LOCATION:314 S
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250414T175000
 DTEND:20250414T192500
 SUMMARY:MD1 (Inne)

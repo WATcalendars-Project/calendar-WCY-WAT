@@ -319,13 +319,6 @@ LOCATION:AW 1
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250328T080000
-DTEND:20250328T093500
-SUMMARY:MWDS (w)
-LOCATION:226 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia i szkolenia\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący:  Dawid Maślanik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250328T095000
 DTEND:20250328T112500
 SUMMARY:SO (w)
@@ -737,13 +730,6 @@ DTEND:20250410T173500
 SUMMARY:HP (w)
 LOCATION:aula/
 DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250411T080000
-DTEND:20250411T093500
-SUMMARY:MWDS (w)
-LOCATION:227 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia i szkolenia\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący:  Dawid Maślanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T095000
@@ -1460,6 +1446,13 @@ LOCATION:AW 1
 DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250508T114000
+DTEND:20250508T131500
+SUMMARY:MWDS (w)
+LOCATION:228 S
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia i szkolenia\nRodzaj zajęć: Wykład\nNr zajęć: 1\nProwadzący:  Dawid Maślanik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250508T133000
 DTEND:20250508T150500
 SUMMARY:TW (ć)
@@ -1828,14 +1821,14 @@ DTSTART:20250521T114000
 DTEND:20250521T131500
 SUMMARY:MWDS (w)
 LOCATION:317 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia i szkolenia\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący:  Dawid Maślanik
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia i szkolenia\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący:  Dawid Maślanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T133000
 DTEND:20250521T150500
 SUMMARY:MWDS (w)
 LOCATION:317 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia i szkolenia\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący:  Dawid Maślanik
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia i szkolenia\nRodzaj zajęć: Wykład\nNr zajęć: 3\nProwadzący:  Dawid Maślanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T160000
@@ -1891,14 +1884,14 @@ DTSTART:20250526T114000
 DTEND:20250526T131500
 SUMMARY:MWDS (w)
 LOCATION:237 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia i szkolenia\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący:  Dawid Maślanik
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia i szkolenia\nRodzaj zajęć: Wykład\nNr zajęć: 4\nProwadzący:  Dawid Maślanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T133000
 DTEND:20250526T150500
 SUMMARY:MWDS (w)
 LOCATION:237 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia i szkolenia\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący:  Dawid Maślanik
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia i szkolenia\nRodzaj zajęć: Wykład\nNr zajęć: 5\nProwadzący:  Dawid Maślanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T160000
@@ -1976,6 +1969,13 @@ DTEND:20250528T150500
 SUMMARY:SO (L)
 LOCATION:011 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8\nProwadzący:  Piotr Targowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250528T160000
+DTEND:20250528T173500
+SUMMARY:MWDS (w)
+LOCATION:308 S
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia i szkolenia\nRodzaj zajęć: Wykład\nNr zajęć: 6\nProwadzący:  Dawid Maślanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T080000

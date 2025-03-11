@@ -1551,13 +1551,6 @@ LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250310T133000
-DTEND:20250310T150500
-SUMMARY:F1 (ć)
-LOCATION:205 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250311T080000
 DTEND:20250311T093500
 SUMMARY:F1 (w)
@@ -1607,13 +1600,6 @@ LOCATION:103 K
 DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250319T095000
-DTEND:20250319T112500
-SUMMARY:F1 (ć)
-LOCATION:205 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250319T133000
 DTEND:20250319T150500
 SUMMARY:F1 (w)
@@ -1633,13 +1619,6 @@ DTEND:20250320T173500
 SUMMARY:JoM (ć)
 LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250324T133000
-DTEND:20250324T150500
-SUMMARY:F1 (ć)
-LOCATION:205 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T080000
@@ -1684,18 +1663,11 @@ LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250328T114000
-DTEND:20250328T131500
-SUMMARY:F1 (L)
-LOCATION:141 S
-DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250331T133000
-DTEND:20250331T150500
-SUMMARY:F1 (ć)
-LOCATION:205 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4\nProwadzący: -
+DTSTART:20250331T160000
+DTEND:20250331T173500
+SUMMARY:Mat I (Inne)
+LOCATION:314 S
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T114000
@@ -1740,6 +1712,13 @@ LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250407T175000
+DTEND:20250407T192500
+SUMMARY:M II (Inne)
+LOCATION:314 S
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Nieznany\nNr zajęć: 2\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250409T114000
 DTEND:20250409T131500
 SUMMARY:PEM (ć)
@@ -1782,20 +1761,6 @@ LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250411T114000
-DTEND:20250411T131500
-SUMMARY:F1 (L)
-LOCATION:141 S
-DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250414T133000
-DTEND:20250414T150500
-SUMMARY:F1 (ć)
-LOCATION:205 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250414T175000
 DTEND:20250414T192500
 SUMMARY:MD1 (Inne)
@@ -1822,13 +1787,6 @@ DTEND:20250417T173500
 SUMMARY:JoM (ć)
 LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250423T095000
-DTEND:20250423T112500
-SUMMARY:F1 (ć)
-LOCATION:205 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T114000
@@ -1859,13 +1817,6 @@ LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 24\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250428T080000
-DTEND:20250428T093500
-SUMMARY:F1 (ć)
-LOCATION:205 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250430T133000
 DTEND:20250430T150500
 SUMMARY:F1 (w)
@@ -1878,20 +1829,6 @@ DTEND:20250430T173500
 SUMMARY:Ja (ć)
 LOCATION:241 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250505T114000
-DTEND:20250505T131500
-SUMMARY:F1 (ć)
-LOCATION:120 45
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250507T095000
-DTEND:20250507T112500
-SUMMARY:F1 (ć)
-LOCATION:205 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T133000
@@ -1913,13 +1850,6 @@ DTEND:20250508T173500
 SUMMARY:JoM (ć)
 LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250509T095000
-DTEND:20250509T112500
-SUMMARY:F1 (L)
-LOCATION:141 S
-DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T114000
@@ -1950,20 +1880,6 @@ LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 26\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250516T095000
-DTEND:20250516T112500
-SUMMARY:F1 (L)
-LOCATION:141 S
-DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250520T095000
-DTEND:20250520T112500
-SUMMARY:F1 (ć)
-LOCATION:203 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250521T114000
 DTEND:20250521T131500
 SUMMARY:PEM (w)
@@ -1990,13 +1906,6 @@ DTEND:20250522T173500
 SUMMARY:JoM (ć)
 LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 27\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250526T133000
-DTEND:20250526T150500
-SUMMARY:F1 (ć)
-LOCATION:203 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T114000
@@ -2034,13 +1943,6 @@ LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250603T095000
-DTEND:20250603T112500
-SUMMARY:F1 (ć)
-LOCATION:203 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250604T114000
 DTEND:20250604T131500
 SUMMARY:PEM (ć)
@@ -2067,20 +1969,6 @@ DTEND:20250605T173500
 SUMMARY:JoM (ć)
 LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 29\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250606T114000
-DTEND:20250606T131500
-SUMMARY:F1 (L)
-LOCATION:141 S
-DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250609T133000
-DTEND:20250609T150500
-SUMMARY:F1 (ć)
-LOCATION:203 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T114000
@@ -2116,20 +2004,6 @@ DTEND:20250613T150500
 SUMMARY:PEM (w)
 LOCATION:103 K
 DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250616T133000
-DTEND:20250616T150500
-SUMMARY:F1 (ć)
-LOCATION:203 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250618T095000
-DTEND:20250618T112500
-SUMMARY:F1 (ć)
-LOCATION:203 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T133000
