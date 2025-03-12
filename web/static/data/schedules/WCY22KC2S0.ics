@@ -207,20 +207,6 @@ LOCATION:313 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250312T160000
-DTEND:20250312T173500
-SUMMARY:Asie (w)
-LOCATION:308 S
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Marcin Pachnik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250312T175000
-DTEND:20250312T192500
-SUMMARY:Asie (w)
-LOCATION:308 S
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Marcin Pachnik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250313T080000
 DTEND:20250313T093500
 SUMMARY:SKII (w)
@@ -400,14 +386,14 @@ DTSTART:20250319T160000
 DTEND:20250319T173500
 SUMMARY:Asie (w)
 LOCATION:308 S
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T175000
 DTEND:20250319T192500
 SUMMARY:Asie (w)
 LOCATION:308 S
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T114000
@@ -575,7 +561,7 @@ DTSTART:20250326T160000
 DTEND:20250326T173500
 SUMMARY:Asie (w)
 LOCATION:308 S
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T080000
@@ -610,7 +596,7 @@ DTSTART:20250327T160000
 DTEND:20250327T173500
 SUMMARY:Asie (w)
 LOCATION:308 S
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T080000
@@ -757,7 +743,7 @@ DTSTART:20250402T160000
 DTEND:20250402T173500
 SUMMARY:Asie (w)
 LOCATION:308 S
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T175000
@@ -799,7 +785,7 @@ DTSTART:20250403T160000
 DTEND:20250403T173500
 SUMMARY:Asie (w)
 LOCATION:308 S
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T080000
@@ -1376,6 +1362,13 @@ LOCATION:19 36
 DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr hab. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250430T175000
+DTEND:20250430T192500
+SUMMARY:Asie (w)
+LOCATION:313 S
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250505T080000
 DTEND:20250505T093500
 SUMMARY:Est (L)
@@ -1479,6 +1472,13 @@ DTEND:20250508T131500
 SUMMARY:Ja (ć)
 LOCATION:239 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250508T160000
+DTEND:20250508T173500
+SUMMARY:Asie (w)
+LOCATION:313 S
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T080000

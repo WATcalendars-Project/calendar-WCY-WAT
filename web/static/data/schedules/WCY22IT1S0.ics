@@ -704,13 +704,6 @@ LOCATION:19 36
 DESCRIPTION:Działania pokojowe i stabilizacyjne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250402T133000
-DTEND:20250402T150500
-SUMMARY:PKSt (ć)
-LOCATION:205 65
-DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250402T160000
 DTEND:20250402T173500
 SUMMARY:JEt (L)
@@ -939,7 +932,7 @@ DTSTART:20250410T114000
 DTEND:20250410T131500
 SUMMARY:PKSt (ć)
 LOCATION:205 65
-DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący: -
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T133000
@@ -1093,7 +1086,7 @@ DTSTART:20250416T133000
 DTEND:20250416T150500
 SUMMARY:PKSt (ć)
 LOCATION:205 65
-DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: -
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T080000
@@ -1191,7 +1184,7 @@ DTSTART:20250424T114000
 DTEND:20250424T131500
 SUMMARY:PKSt (ć)
 LOCATION:205 65
-DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: -
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T133000
@@ -1310,7 +1303,7 @@ DTSTART:20250430T095000
 DTEND:20250430T112500
 SUMMARY:PKSt (ć)
 LOCATION:205 65
-DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący: -
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T114000
@@ -1478,7 +1471,7 @@ DTSTART:20250508T114000
 DTEND:20250508T131500
 SUMMARY:PKSt (ć)
 LOCATION:205 65
-DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: -
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T133000
@@ -1632,7 +1625,7 @@ DTSTART:20250515T114000
 DTEND:20250515T131500
 SUMMARY:PKSt (ć)
 LOCATION:205 65
-DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący: -
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T133000
@@ -1801,6 +1794,13 @@ DTEND:20250522T093500
 SUMMARY:Ja (ć)
 LOCATION:237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250522T095000
+DTEND:20250522T112500
+SUMMARY:PKSt (ć)
+LOCATION:205 65
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T114000
