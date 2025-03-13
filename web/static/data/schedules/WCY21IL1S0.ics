@@ -4743,13 +4743,6 @@ LOCATION:226 S
 DESCRIPTION:Wdrażanie metodyk obiektowych\nRodzaj zajęć: Projekt\nNr zajęć: 4/15\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250311T114000
-DTEND:20250311T131500
-SUMMARY:Orr (w)
-LOCATION:252 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr hab. inż. Zbigniew Tarapata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250311T133000
 DTEND:20250311T150500
 SUMMARY:WF (ć)
@@ -4880,7 +4873,7 @@ DTSTART:20250318T114000
 DTEND:20250318T131500
 SUMMARY:Orr (w)
 LOCATION:252 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T133000
@@ -4901,14 +4894,14 @@ DTSTART:20250319T080000
 DTEND:20250319T093500
 SUMMARY:Orr (w)
 LOCATION:252 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Patryk Serafin
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Patryk Serafin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T095000
 DTEND:20250319T112500
 SUMMARY:Orr (w)
 LOCATION:252 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 7/6\nProwadzący:  Patryk Serafin
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Patryk Serafin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T114000
@@ -5027,7 +5020,7 @@ DTSTART:20250325T114000
 DTEND:20250325T131500
 SUMMARY:Orr (w)
 LOCATION:252 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 8/6\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 7/6\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T133000
@@ -5174,14 +5167,14 @@ DTSTART:20250331T114000
 DTEND:20250331T131500
 SUMMARY:Orr (w)
 LOCATION:252 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 9/6\nProwadzący:  Patryk Serafin
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 8/6\nProwadzący:  Patryk Serafin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T133000
 DTEND:20250331T150500
 SUMMARY:Orr (w)
 LOCATION:252 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 10/6\nProwadzący:  Patryk Serafin
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 9/6\nProwadzący:  Patryk Serafin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T080000
@@ -5539,6 +5532,13 @@ DTEND:20250415T112500
 SUMMARY:Orr (L)
 LOCATION:236 S
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250415T114000
+DTEND:20250415T131500
+SUMMARY:Orr (w)
+LOCATION:239 S
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 10/6\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T133000

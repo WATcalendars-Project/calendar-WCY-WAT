@@ -5919,6 +5919,13 @@ LOCATION:309 S
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 8/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250410T095000
+DTEND:20250410T112500
+SUMMARY:dsk (L)
+LOCATION:218 65
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250410T114000
 DTEND:20250410T131500
 SUMMARY:TeIP (L)
@@ -5931,13 +5938,6 @@ DTEND:20250410T150500
 SUMMARY:TeIP (L)
 LOCATION:120 65
 DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Dagmara Mazur
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250410T160000
-DTEND:20250410T173500
-SUMMARY:dsk (L)
-LOCATION:125 65
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T080000

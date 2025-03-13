@@ -585,6 +585,13 @@ LOCATION:6/ 23a
 DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250325T114000
+DTEND:20250325T131500
+SUMMARY:Elpł (w)
+LOCATION:30a 54
+DESCRIPTION:Elektronika półprzewodnikowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250326T080000
 DTEND:20250326T093500
 SUMMARY:Wm (w)
@@ -631,7 +638,7 @@ DTSTART:20250327T095000
 DTEND:20250327T112500
 SUMMARY:Elpł (w)
 LOCATION:116 45
-DESCRIPTION:Elektronika półprzewodnikowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: -
+DESCRIPTION:Elektronika półprzewodnikowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T114000
@@ -840,8 +847,15 @@ BEGIN:VEVENT
 DTSTART:20250403T133000
 DTEND:20250403T150500
 SUMMARY:Elpł (w)
-LOCATION:119 45
-DESCRIPTION:Elektronika półprzewodnikowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: -
+LOCATION:30a 54
+DESCRIPTION:Elektronika półprzewodnikowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250403T160000
+DTEND:20250403T173500
+SUMMARY:Elpł (w)
+LOCATION:30a 54
+DESCRIPTION:Elektronika półprzewodnikowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T080000
@@ -1017,13 +1031,6 @@ DTEND:20250409T112500
 SUMMARY:Pps (w)
 LOCATION:15/ 23
 DESCRIPTION:Podstawy przetwarzania sygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250409T114000
-DTEND:20250409T131500
-SUMMARY:Elpł (w)
-LOCATION:116 45
-DESCRIPTION:Elektronika półprzewodnikowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T080000
@@ -1226,7 +1233,7 @@ DTSTART:20250416T114000
 DTEND:20250416T131500
 SUMMARY:Elpł (w)
 LOCATION:117 45
-DESCRIPTION:Elektronika półprzewodnikowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: -
+DESCRIPTION:Elektronika półprzewodnikowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T133000
@@ -1257,11 +1264,11 @@ LOCATION:108 80
 DESCRIPTION:Podstawy przetwarzania sygnałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250417T133000
-DTEND:20250417T150500
+DTSTART:20250417T114000
+DTEND:20250417T131500
 SUMMARY:Elpł (w)
-LOCATION:116 45
-DESCRIPTION:Elektronika półprzewodnikowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -
+LOCATION:30a 54
+DESCRIPTION:Elektronika półprzewodnikowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250418T080000
@@ -1507,13 +1514,6 @@ DTEND:20250422T211500
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 77/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250423T080000
-DTEND:20250423T093500
-SUMMARY:Elpł (w)
-LOCATION:116 45
-DESCRIPTION:Elektronika półprzewodnikowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T095000

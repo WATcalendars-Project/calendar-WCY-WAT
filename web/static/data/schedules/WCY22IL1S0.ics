@@ -298,20 +298,6 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250317T080000
-DTEND:20250317T093500
-SUMMARY:Tal (w)
-LOCATION:309 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250317T095000
-DTEND:20250317T112500
-SUMMARY:Tal (w)
-LOCATION:309 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250317T114000
 DTEND:20250317T131500
 SUMMARY:Hd (w)
@@ -435,7 +421,7 @@ DTSTART:20250321T114000
 DTEND:20250321T131500
 SUMMARY:Tal (w)
 LOCATION:309 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T133000
@@ -470,7 +456,7 @@ DTSTART:20250324T114000
 DTEND:20250324T131500
 SUMMARY:Tal (w)
 LOCATION:309 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T133000
@@ -596,7 +582,7 @@ DTSTART:20250328T114000
 DTEND:20250328T131500
 SUMMARY:Tal (w)
 LOCATION:309 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T133000
@@ -631,7 +617,7 @@ DTSTART:20250331T095000
 DTEND:20250331T112500
 SUMMARY:Tal (w)
 LOCATION:308 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T114000
@@ -821,6 +807,20 @@ DTEND:20250407T150500
 SUMMARY:Ja (ć)
 LOCATION:237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250407T160000
+DTEND:20250407T173500
+SUMMARY:Tal (w)
+LOCATION:317 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250407T175000
+DTEND:20250407T192500
+SUMMARY:Tal (w)
+LOCATION:317 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T080000

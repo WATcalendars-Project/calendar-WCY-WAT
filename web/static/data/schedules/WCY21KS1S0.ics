@@ -6514,13 +6514,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 86/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250530T095000
-DTEND:20250530T112500
-SUMMARY:Dn (ć)
-LOCATION:204 65
-DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250530T114000
 DTEND:20250530T131500
 SUMMARY:Ja (ć)
@@ -6855,6 +6848,13 @@ DTEND:20250617T112500
 SUMMARY:DWiPD (ć)
 LOCATION:204 65
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250617T114000
+DTEND:20250617T131500
+SUMMARY:Dn (ć)
+LOCATION:2 45
+DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T133000

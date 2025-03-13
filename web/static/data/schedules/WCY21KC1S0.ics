@@ -5282,13 +5282,6 @@ LOCATION:120 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 64/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250314T175000
-DTEND:20250314T192500
-SUMMARY:Sa. (L)
-LOCATION:011 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Adrian Myśliwiec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250315T095000
 DTEND:20250315T112500
 SUMMARY:XWF (ć)
@@ -5322,6 +5315,13 @@ DTEND:20250317T173500
 SUMMARY:MeSK (w)
 LOCATION:314 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250318T080000
+DTEND:20250318T093500
+SUMMARY:Sa. (L)
+LOCATION:011 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T095000
