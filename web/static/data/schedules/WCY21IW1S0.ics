@@ -5345,6 +5345,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 65/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250318T095000
+DTEND:20250318T112500
+SUMMARY:Psmo (Inne)
+LOCATION:201 65
+DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250319T114000
 DTEND:20250319T131500
 SUMMARY:Ja (ć)
