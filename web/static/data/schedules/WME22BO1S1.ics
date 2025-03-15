@@ -7424,20 +7424,6 @@ LOCATION:6 71
 DESCRIPTION:Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 100/122\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250528T080000
-DTEND:20250528T093500
-SUMMARY:XPiPJ (L)
-LOCATION:21 49
-DESCRIPTION:XPlazma i promieniowanie jonizujące w obróbce powierzchni - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250528T095000
-DTEND:20250528T112500
-SUMMARY:XPiPJ (L)
-LOCATION:21 49
-DESCRIPTION:XPlazma i promieniowanie jonizujące w obróbce powierzchni - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250528T114000
 DTEND:20250528T131500
 SUMMARY:Cpd (L)
@@ -7547,14 +7533,14 @@ DTSTART:20250602T080000
 DTEND:20250602T093500
 SUMMARY:XPiPJ (L)
 LOCATION:21 49
-DESCRIPTION:XPlazma i promieniowanie jonizujące w obróbce powierzchni - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: -
+DESCRIPTION:XPlazma i promieniowanie jonizujące w obróbce powierzchni - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T095000
 DTEND:20250602T112500
 SUMMARY:XPiPJ (L)
 LOCATION:21 49
-DESCRIPTION:XPlazma i promieniowanie jonizujące w obróbce powierzchni - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: -
+DESCRIPTION:XPlazma i promieniowanie jonizujące w obróbce powierzchni - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T080000
@@ -7884,6 +7870,20 @@ DTEND:20250614T192500
 SUMMARY:XMat3 (L)
 LOCATION:219 65
 DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T114000
+DTEND:20250616T131500
+SUMMARY:XPiPJ (L)
+LOCATION:21 49
+DESCRIPTION:XPlazma i promieniowanie jonizujące w obróbce powierzchni - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T133000
+DTEND:20250616T150500
+SUMMARY:XPiPJ (L)
+LOCATION:21 49
+DESCRIPTION:XPlazma i promieniowanie jonizujące w obróbce powierzchni - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T080000

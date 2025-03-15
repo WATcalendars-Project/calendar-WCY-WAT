@@ -1124,6 +1124,13 @@ LOCATION:203 65
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Krzysztof Pszczoła
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250322T194000
+DTEND:20250322T211500
+SUMMARY:Tgs (ć)
+LOCATION:308 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250323T080000
 DTEND:20250323T093500
 SUMMARY:Tpi (w)
@@ -1313,13 +1320,6 @@ LOCATION:307 S
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250406T133000
-DTEND:20250406T150500
-SUMMARY:Tgs (ć)
-LOCATION:308 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: mgr inż. Piotr Jakubowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250406T160000
 DTEND:20250406T173500
 SUMMARY:WdP (L)
@@ -1397,6 +1397,20 @@ LOCATION:317 S
 DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: dr inż. Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250413T175000
+DTEND:20250413T192500
+SUMMARY:Tgs (ć)
+LOCATION:317 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250413T194000
+DTEND:20250413T211500
+SUMMARY:Tgs (ć)
+LOCATION:317 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250426T080000
 DTEND:20250426T093500
 SUMMARY:PTk (w)
@@ -1464,7 +1478,7 @@ DTSTART:20250427T133000
 DTEND:20250427T150500
 SUMMARY:Tgs (ć)
 LOCATION:309 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250427T160000
@@ -1549,20 +1563,6 @@ DTEND:20250511T173500
 SUMMARY:Tpi (ć)
 LOCATION:317 S
 DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: dr inż. Piotr Marciniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250511T175000
-DTEND:20250511T192500
-SUMMARY:Tgs (ć)
-LOCATION:309 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: mgr inż. Piotr Jakubowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250511T194000
-DTEND:20250511T211500
-SUMMARY:Tgs (ć)
-LOCATION:309 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250517T080000

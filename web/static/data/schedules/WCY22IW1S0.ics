@@ -1574,16 +1574,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T095000
 DTEND:20250515T112500
-SUMMARY:Rou (L)
+SUMMARY:PZS (L)
 LOCATION:121 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/14\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/13\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T114000
 DTEND:20250515T131500
-SUMMARY:Rou (L)
+SUMMARY:PZS (L)
 LOCATION:121 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/14\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T133000
@@ -1891,14 +1891,14 @@ DTSTART:20250528T080000
 DTEND:20250528T093500
 SUMMARY:PZS (L)
 LOCATION:125 65
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/13\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T095000
 DTEND:20250528T112500
 SUMMARY:PZS (L)
 LOCATION:125 65
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/13\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T114000
@@ -1968,14 +1968,14 @@ DTSTART:20250530T080000
 DTEND:20250530T093500
 SUMMARY:Rou (L)
 LOCATION:121 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/14\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/14\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T095000
 DTEND:20250530T112500
 SUMMARY:Rou (L)
 LOCATION:121 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/14\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/14\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T114000
@@ -2122,14 +2122,14 @@ DTSTART:20250606T095000
 DTEND:20250606T112500
 SUMMARY:Rou (L)
 LOCATION:121 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/14\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/14\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T114000
 DTEND:20250606T131500
 SUMMARY:Rou (L)
 LOCATION:121 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/14\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/14\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T133000
@@ -2232,16 +2232,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T095000
 DTEND:20250611T112500
-SUMMARY:PZS (L)
+SUMMARY:Rou (L)
 LOCATION:125 65
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/14\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T114000
 DTEND:20250611T131500
-SUMMARY:PZS (L)
+SUMMARY:Rou (L)
 LOCATION:125 65
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/13\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/14\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T133000
