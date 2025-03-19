@@ -4281,6 +4281,13 @@ LOCATION:308 S
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250327T160000
+DTEND:20250327T173500
+SUMMARY:MM (w)
+LOCATION:316 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250328T095000
 DTEND:20250328T112500
 SUMMARY:Sck (w)
@@ -4307,13 +4314,6 @@ DTEND:20250331T093500
 SUMMARY:Tik (ć)
 LOCATION:101 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: dr inż. Leszek Grad
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250331T095000
-DTEND:20250331T112500
-SUMMARY:MM (w)
-LOCATION:317 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T114000

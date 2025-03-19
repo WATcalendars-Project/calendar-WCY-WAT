@@ -5716,13 +5716,6 @@ LOCATION:27 70
 DESCRIPTION:Cyfrowe przetwarzanie danych pomiarowych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250325T133000
-DTEND:20250325T150500
-SUMMARY:PRo (w)
-LOCATION:27 70
-DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250326T080000
 DTEND:20250326T093500
 SUMMARY:Wm (w)
@@ -6521,6 +6514,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 325/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250423T080000
+DTEND:20250423T093500
+SUMMARY:XPiPJ (w)
+LOCATION:9 49
+DESCRIPTION:XPlazma i promieniowanie jonizujące w obróbce powierzchni - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250423T095000
 DTEND:20250423T112500
 SUMMARY:Dtlm (w)
@@ -6637,7 +6637,7 @@ DTSTART:20250428T080000
 DTEND:20250428T093500
 SUMMARY:XPiPJ (w)
 LOCATION:9 49
-DESCRIPTION:XPlazma i promieniowanie jonizujące w obróbce powierzchni - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -
+DESCRIPTION:XPlazma i promieniowanie jonizujące w obróbce powierzchni - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T095000
@@ -6868,7 +6868,7 @@ DTSTART:20250505T080000
 DTEND:20250505T093500
 SUMMARY:XPiPJ (w)
 LOCATION:9 49
-DESCRIPTION:XPlazma i promieniowanie jonizujące w obróbce powierzchni - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
+DESCRIPTION:XPlazma i promieniowanie jonizujące w obróbce powierzchni - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T095000
@@ -7043,7 +7043,7 @@ DTSTART:20250512T080000
 DTEND:20250512T093500
 SUMMARY:XPiPJ (w)
 LOCATION:9 49
-DESCRIPTION:XPlazma i promieniowanie jonizujące w obróbce powierzchni - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
+DESCRIPTION:XPlazma i promieniowanie jonizujące w obróbce powierzchni - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T095000
@@ -7370,9 +7370,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T080000
 DTEND:20250526T093500
-SUMMARY:XPiPJ (w)
-LOCATION:9 49
-DESCRIPTION:XPlazma i promieniowanie jonizujące w obróbce powierzchni - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
+SUMMARY:PRo (w)
+LOCATION:13 71
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T095000

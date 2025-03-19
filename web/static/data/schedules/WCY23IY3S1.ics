@@ -2990,7 +2990,7 @@ DTSTART:20250220T133000
 DTEND:20250220T150500
 SUMMARY:SO (Inne)
 LOCATION:316 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250221T114000
@@ -3110,6 +3110,13 @@ DTEND:20250320T150500
 SUMMARY:Tik (w)
 LOCATION:308 S
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250321T160000
+DTEND:20250321T173500
+SUMMARY:SO (Inne)
+LOCATION:313 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T095000

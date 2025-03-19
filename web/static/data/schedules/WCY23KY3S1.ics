@@ -3781,7 +3781,7 @@ DTSTART:20250220T133000
 DTEND:20250220T150500
 SUMMARY:SO (Inne)
 LOCATION:316 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250221T114000
@@ -4113,6 +4113,13 @@ LOCATION:313 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250321T160000
+DTEND:20250321T173500
+SUMMARY:SO (Inne)
+LOCATION:313 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250324T095000
 DTEND:20250324T112500
 SUMMARY:MM (w)
@@ -4225,6 +4232,13 @@ LOCATION:313 S
 DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: prof. dr hab. Jacek Pomykała
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250327T160000
+DTEND:20250327T173500
+SUMMARY:MM (w)
+LOCATION:316 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250328T080000
 DTEND:20250328T093500
 SUMMARY:Zkst (w)
@@ -4251,13 +4265,6 @@ DTEND:20250328T150500
 SUMMARY:PO (w)
 LOCATION:316 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250331T095000
-DTEND:20250331T112500
-SUMMARY:MM (w)
-LOCATION:317 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T114000

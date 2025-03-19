@@ -5284,16 +5284,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T133000
 DTEND:20250403T150500
-SUMMARY:Ajf (L)
+SUMMARY:Ajf (w)
 LOCATION:307 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T160000
 DTEND:20250403T173500
 SUMMARY:Ajf (L)
 LOCATION:307 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T080000
@@ -5447,14 +5447,14 @@ DTSTART:20250410T095000
 DTEND:20250410T112500
 SUMMARY:Ajf (w)
 LOCATION:307 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T114000
 DTEND:20250410T131500
-SUMMARY:Ajf (w)
+SUMMARY:Ajf (L)
 LOCATION:307 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T133000
@@ -5592,9 +5592,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T114000
 DTEND:20250417T131500
-SUMMARY:Ajf (w)
+SUMMARY:Ajf (L)
 LOCATION:307 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T133000
@@ -5650,14 +5650,14 @@ DTSTART:20250424T095000
 DTEND:20250424T112500
 SUMMARY:Ajf (L)
 LOCATION:309 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T114000
 DTEND:20250424T131500
 SUMMARY:Ajf (L)
 LOCATION:309 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T133000
@@ -5800,6 +5800,13 @@ LOCATION:233 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250506T114000
+DTEND:20250506T131500
+SUMMARY:Dn (ć)
+LOCATION:201 65
+DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250506T133000
 DTEND:20250506T150500
 SUMMARY:WF (ć)
@@ -5811,7 +5818,7 @@ DTSTART:20250506T160000
 DTEND:20250506T173500
 SUMMARY:Ajf (w)
 LOCATION:309 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T194000
@@ -5858,9 +5865,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T095000
 DTEND:20250508T112500
-SUMMARY:Ajf (L)
+SUMMARY:Ajf (w)
 LOCATION:309 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T114000
@@ -5902,7 +5909,7 @@ DTSTART:20250509T133000
 DTEND:20250509T150500
 SUMMARY:Dn (ć)
 LOCATION:203 65
-DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -
+DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250510T095000
@@ -5980,13 +5987,6 @@ DTEND:20250514T131500
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 82/90\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250514T133000
-DTEND:20250514T150500
-SUMMARY:Dn (ć)
-LOCATION:201 65
-DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T160000

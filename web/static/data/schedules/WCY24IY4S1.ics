@@ -2083,13 +2083,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250331T114000
-DTEND:20250331T131500
-SUMMARY:Md2 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250331T133000
 DTEND:20250331T150500
 SUMMARY:F1 (ć)
@@ -2241,7 +2234,7 @@ DTSTART:20250407T114000
 DTEND:20250407T131500
 SUMMARY:Md2 (w)
 LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T175000
@@ -2395,7 +2388,7 @@ DTSTART:20250414T114000
 DTEND:20250414T131500
 SUMMARY:Md2 (w)
 LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T133000
@@ -2571,6 +2564,13 @@ DTEND:20250428T131500
 SUMMARY:PTk (w)
 LOCATION:316 S
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 9/14\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250428T133000
+DTEND:20250428T150500
+SUMMARY:Md2 (w)
+LOCATION:317 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T095000

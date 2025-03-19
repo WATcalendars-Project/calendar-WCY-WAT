@@ -6409,13 +6409,6 @@ LOCATION:116 61
 DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250430T080000
-DTEND:20250430T093500
-SUMMARY:Eam (ć)
-LOCATION:117 45
-DESCRIPTION:Elektroniczna aparatura medyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250430T095000
 DTEND:20250430T112500
 SUMMARY:TeMi (ć)
@@ -6657,8 +6650,8 @@ BEGIN:VEVENT
 DTSTART:20250506T095000
 DTEND:20250506T112500
 SUMMARY:Eam (ć)
-LOCATION:2 45
-DESCRIPTION:Elektroniczna aparatura medyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
+LOCATION:16 45
+DESCRIPTION:Elektroniczna aparatura medyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T114000
@@ -6778,6 +6771,13 @@ DTEND:20250511T150500
 SUMMARY:XMat3 (w)
 LOCATION:313 S
 DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 8/11\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250513T095000
+DTEND:20250513T112500
+SUMMARY:Eam (ć)
+LOCATION:16 45
+DESCRIPTION:Elektroniczna aparatura medyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T114000
@@ -6923,7 +6923,7 @@ BEGIN:VEVENT
 DTSTART:20250520T133000
 DTEND:20250520T150500
 SUMMARY:Eam (ć)
-LOCATION:117 45
+LOCATION:16 45
 DESCRIPTION:Elektroniczna aparatura medyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT

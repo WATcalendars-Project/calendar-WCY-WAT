@@ -4281,6 +4281,13 @@ LOCATION:313 S
 DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: prof. dr hab. Jacek Pomykała
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250327T160000
+DTEND:20250327T173500
+SUMMARY:MM (w)
+LOCATION:316 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250328T080000
 DTEND:20250328T093500
 SUMMARY:Zkst (w)
@@ -4316,25 +4323,11 @@ LOCATION:078 S
 DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Kamila Dzieł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250331T095000
-DTEND:20250331T112500
-SUMMARY:MM (w)
-LOCATION:317 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250331T114000
 DTEND:20250331T131500
 SUMMARY:Wek (L)
 LOCATION:085 S
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/16\nProwadzący: mgr inż. Alicja Kida
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250331T133000
-DTEND:20250331T150500
-SUMMARY:MM (ć)
-LOCATION:317 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T080000
@@ -4516,7 +4509,7 @@ DTSTART:20250409T095000
 DTEND:20250409T112500
 SUMMARY:MM (ć)
 LOCATION:316 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T114000
@@ -4663,7 +4656,7 @@ DTSTART:20250423T095000
 DTEND:20250423T112500
 SUMMARY:MM (ć)
 LOCATION:308 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T114000
@@ -4782,7 +4775,7 @@ DTSTART:20250505T114000
 DTEND:20250505T131500
 SUMMARY:MM (ć)
 LOCATION:313 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T095000
@@ -4922,7 +4915,7 @@ DTSTART:20250513T095000
 DTEND:20250513T112500
 SUMMARY:MM (ć)
 LOCATION:313 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T114000
@@ -5013,7 +5006,7 @@ DTSTART:20250519T114000
 DTEND:20250519T131500
 SUMMARY:MM (ć)
 LOCATION:317 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T095000
@@ -5090,7 +5083,7 @@ DTSTART:20250526T114000
 DTEND:20250526T131500
 SUMMARY:MM (ć)
 LOCATION:317 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T095000
@@ -5189,6 +5182,13 @@ DTEND:20250602T131500
 SUMMARY:PO (ć)
 LOCATION:314 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250602T133000
+DTEND:20250602T150500
+SUMMARY:MM (ć)
+LOCATION:317 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T095000

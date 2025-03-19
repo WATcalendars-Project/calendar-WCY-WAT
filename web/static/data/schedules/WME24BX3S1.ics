@@ -3224,13 +3224,6 @@ LOCATION:301/ S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250331T114000
-DTEND:20250331T131500
-SUMMARY:F1 (L)
-LOCATION:142 S
-DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250401T080000
 DTEND:20250401T093500
 SUMMARY:Mat3 (w)
@@ -3369,6 +3362,13 @@ DTEND:20250407T150500
 SUMMARY:Bwg (w)
 LOCATION:301/ S
 DESCRIPTION:Biologia z wprowadzeniem do genetyki - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250407T160000
+DTEND:20250407T173500
+SUMMARY:F1 (L)
+LOCATION:141 S
+DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T080000
@@ -3980,10 +3980,10 @@ LOCATION:301/ S
 DESCRIPTION:Biologia z wprowadzeniem do genetyki - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250428T133000
-DTEND:20250428T150500
+DTSTART:20250428T160000
+DTEND:20250428T173500
 SUMMARY:F1 (L)
-LOCATION:142 S
+LOCATION:141 S
 DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -4372,13 +4372,6 @@ LOCATION:301/ S
 DESCRIPTION:Biologia z wprowadzeniem do genetyki - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250512T133000
-DTEND:20250512T150500
-SUMMARY:F1 (L)
-LOCATION:142 S
-DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250513T080000
 DTEND:20250513T093500
 SUMMARY:Mat4 (w)
@@ -4540,6 +4533,13 @@ LOCATION:52/ 62
 DESCRIPTION:Anatomia człowieka - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 10/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250519T160000
+DTEND:20250519T173500
+SUMMARY:F1 (L)
+LOCATION:141 S
+DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250520T080000
 DTEND:20250520T093500
 SUMMARY:Mat4 (w)
@@ -4676,7 +4676,7 @@ BEGIN:VEVENT
 DTSTART:20250527T095000
 DTEND:20250527T112500
 SUMMARY:F1 (L)
-LOCATION:142 S
+LOCATION:141 S
 DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -4806,18 +4806,18 @@ LOCATION:52/ 62
 DESCRIPTION:Anatomia człowieka - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 13/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250602T160000
+DTEND:20250602T173500
+SUMMARY:F1 (L)
+LOCATION:141 S
+DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250603T080000
 DTEND:20250603T093500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
 DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 10/12\nProwadzący: dr Jerzy Ploch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250603T095000
-DTEND:20250603T112500
-SUMMARY:F1 (L)
-LOCATION:142 S
-DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T133000

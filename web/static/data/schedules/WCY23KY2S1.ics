@@ -4155,6 +4155,13 @@ LOCATION:313 S
 DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: prof. dr hab. Jacek Pomykała
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250327T160000
+DTEND:20250327T173500
+SUMMARY:MM (w)
+LOCATION:316 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250328T080000
 DTEND:20250328T093500
 SUMMARY:Zkst (w)
@@ -4195,13 +4202,6 @@ DTEND:20250331T093500
 SUMMARY:Wek (L)
 LOCATION:085 S
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/16\nProwadzący: mgr inż. Alicja Kida
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250331T095000
-DTEND:20250331T112500
-SUMMARY:MM (w)
-LOCATION:317 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T114000

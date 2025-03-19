@@ -5380,13 +5380,6 @@ LOCATION:309 S
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250320T095000
-DTEND:20250320T112500
-SUMMARY:dsk (L)
-LOCATION:125 65
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: mgr inż. Michał Melaniuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250321T080000
 DTEND:20250321T093500
 SUMMARY:WF (ć)
@@ -5406,6 +5399,13 @@ DTEND:20250321T131500
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 66/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250321T133000
+DTEND:20250321T150500
+SUMMARY:dsk (L)
+LOCATION:125 65
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250322T095000
