@@ -5247,13 +5247,6 @@ LOCATION:011 65
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 1/6\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250313T114000
-DTEND:20250313T131500
-SUMMARY:IRz (w)
-LOCATION:313 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Zbigniew Zielinski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250313T133000
 DTEND:20250313T150500
 SUMMARY:Zt (w)
@@ -5370,7 +5363,7 @@ DTSTART:20250320T114000
 DTEND:20250320T131500
 SUMMARY:IRz (w)
 LOCATION:316 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Zbigniew Zielinski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T080000
@@ -5517,7 +5510,7 @@ DTSTART:20250327T114000
 DTEND:20250327T131500
 SUMMARY:IRz (w)
 LOCATION:316 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Zbigniew Zielinski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T133000
@@ -5713,7 +5706,7 @@ DTSTART:20250403T114000
 DTEND:20250403T131500
 SUMMARY:IRz (w)
 LOCATION:316 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Zbigniew Zielinski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T133000
@@ -5902,7 +5895,7 @@ DTSTART:20250410T114000
 DTEND:20250410T131500
 SUMMARY:IRz (w)
 LOCATION:203 65
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Zbigniew Zielinski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T133000
@@ -6035,7 +6028,7 @@ DTSTART:20250417T095000
 DTEND:20250417T112500
 SUMMARY:IRz (w)
 LOCATION:307 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Zbigniew Zielinski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T114000
@@ -6091,7 +6084,7 @@ DTSTART:20250424T095000
 DTEND:20250424T112500
 SUMMARY:IRz (w)
 LOCATION:307 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Zbigniew Zielinski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T114000
@@ -6505,6 +6498,13 @@ DTEND:20250519T112500
 SUMMARY:DWiPD (ć)
 LOCATION:204 65
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250520T114000
+DTEND:20250520T131500
+SUMMARY:IRz (w)
+LOCATION:317 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T133000

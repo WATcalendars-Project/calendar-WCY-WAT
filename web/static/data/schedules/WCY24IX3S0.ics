@@ -2615,13 +2615,6 @@ LOCATION:317 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250319T160000
-DTEND:20250319T173500
-SUMMARY:Tpi (ć)
-LOCATION:316 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: mgr inż. Piotr Jakubowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250320T095000
 DTEND:20250320T112500
 SUMMARY:WF (ć)
@@ -2662,6 +2655,13 @@ DTEND:20250320T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 46/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250321T080000
+DTEND:20250321T093500
+SUMMARY:Tpi (ć)
+LOCATION:308 S
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T095000

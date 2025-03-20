@@ -3802,7 +3802,7 @@ DTSTART:20250220T133000
 DTEND:20250220T150500
 SUMMARY:SO (Inne)
 LOCATION:316 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250221T114000
@@ -4195,6 +4195,13 @@ DTEND:20250321T150500
 SUMMARY:PO (w)
 LOCATION:313 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250321T160000
+DTEND:20250321T173500
+SUMMARY:SO (Inne)
+LOCATION:313 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T095000

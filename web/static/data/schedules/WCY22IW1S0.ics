@@ -613,6 +613,20 @@ LOCATION:203 65
 DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250328T160000
+DTEND:20250328T173500
+SUMMARY:Asmo (L)
+LOCATION:106 65
+DESCRIPTION:Architektura systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250328T175000
+DTEND:20250328T192500
+SUMMARY:Asmo (L)
+LOCATION:106 65
+DESCRIPTION:Architektura systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250329T080000
 DTEND:20250329T093500
 SUMMARY:XWF (ć)
@@ -716,20 +730,6 @@ DTEND:20250402T131500
 SUMMARY:DPI (w)
 LOCATION:19 36
 DESCRIPTION:Działania pokojowe i stabilizacyjne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250402T133000
-DTEND:20250402T150500
-SUMMARY:Asmo (L)
-LOCATION:106 65
-DESCRIPTION:Architektura systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250402T160000
-DTEND:20250402T173500
-SUMMARY:Asmo (L)
-LOCATION:106 65
-DESCRIPTION:Architektura systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T080000

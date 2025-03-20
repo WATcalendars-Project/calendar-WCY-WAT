@@ -2136,7 +2136,7 @@ DTSTART:20250215T080000
 DTEND:20250215T093500
 SUMMARY:SO (Inne)
 LOCATION:106 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Sławomir Matusiak
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250215T095000
@@ -2164,7 +2164,7 @@ DTSTART:20250216T114000
 DTEND:20250216T131500
 SUMMARY:SO (Inne)
 LOCATION:203 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250216T133000
@@ -2431,6 +2431,13 @@ DTEND:20250316T211500
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 13/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250321T160000
+DTEND:20250321T173500
+SUMMARY:SO (Inne)
+LOCATION:313 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250322T080000

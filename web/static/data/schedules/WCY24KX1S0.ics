@@ -2227,14 +2227,14 @@ DTSTART:20250214T095000
 DTEND:20250214T112500
 SUMMARY:Mat I (Inne)
 LOCATION:201 65
-DESCRIPTION:Matematyka I\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250214T114000
 DTEND:20250214T131500
 SUMMARY:M II (Inne)
 LOCATION:201 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250218T080000
@@ -2255,7 +2255,7 @@ DTSTART:20250218T114000
 DTEND:20250218T131500
 SUMMARY:Mat I (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr inż. Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250218T160000
@@ -2269,7 +2269,7 @@ DTSTART:20250219T133000
 DTEND:20250219T150500
 SUMMARY:M II (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr inż. Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250220T080000
@@ -2930,6 +2930,13 @@ LOCATION:078 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250402T175000
+DTEND:20250402T192500
+SUMMARY:Mat I (Inne)
+LOCATION:313 S
+DESCRIPTION:Matematyka I\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr inż. Jarosław Łazuka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250403T080000
 DTEND:20250403T093500
 SUMMARY:WF (ć)
@@ -2998,6 +3005,13 @@ DTEND:20250404T150500
 SUMMARY:Ja (ć)
 LOCATION:132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 40/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250404T160000
+DTEND:20250404T173500
+SUMMARY:M II (Inne)
+LOCATION:313 S
+DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T080000
