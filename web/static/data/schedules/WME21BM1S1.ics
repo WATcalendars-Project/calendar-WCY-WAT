@@ -28,7 +28,7 @@ BEGIN:VEVENT
 DTSTART:20240228T095000
 DTEND:20240228T112500
 SUMMARY:Bio.1 (L)
-LOCATION:53/ 62
+LOCATION:53/ 62 57/ 62
 DESCRIPTION:Biomechatronika 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 DTSTART:20240306T080000
 DTEND:20240306T093500
 SUMMARY:Bio.1 (L)
-LOCATION:53/ 62
+LOCATION:53/ 62 57/ 62
 DESCRIPTION:Biomechatronika 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 DTSTART:20240313T095000
 DTEND:20240313T112500
 SUMMARY:Bio.1 (L)
-LOCATION:53/ 62
+LOCATION:53/ 62 57/ 62
 DESCRIPTION:Biomechatronika 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -245,14 +245,14 @@ BEGIN:VEVENT
 DTSTART:20240319T080000
 DTEND:20240319T093500
 SUMMARY:SiSS (L)
-LOCATION:108/ 5
+LOCATION:108/ 54
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240319T095000
 DTEND:20240319T112500
 SUMMARY:SiSS (L)
-LOCATION:108/ 5
+LOCATION:108/ 54
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -273,7 +273,7 @@ BEGIN:VEVENT
 DTSTART:20240320T080000
 DTEND:20240320T093500
 SUMMARY:Bio.1 (L)
-LOCATION:53/ 62
+LOCATION:53/ 62 57/ 62
 DESCRIPTION:Biomechatronika 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -385,28 +385,28 @@ BEGIN:VEVENT
 DTSTART:20240326T080000
 DTEND:20240326T093500
 SUMMARY:SiSS (L)
-LOCATION:108/ 5
+LOCATION:108/ 54
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240326T095000
 DTEND:20240326T112500
 SUMMARY:SiSS (L)
-LOCATION:108/ 5
+LOCATION:108/ 54
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240326T114000
 DTEND:20240326T131500
 SUMMARY:SiSS (L)
-LOCATION:108/ 5
+LOCATION:108/ 54
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240326T133000
 DTEND:20240326T150500
 SUMMARY:SiSS (L)
-LOCATION:108/ 5
+LOCATION:108/ 54
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -420,7 +420,7 @@ BEGIN:VEVENT
 DTSTART:20240327T095000
 DTEND:20240327T112500
 SUMMARY:Bio.1 (L)
-LOCATION:53/ 62
+LOCATION:53/ 62 57/ 62
 DESCRIPTION:Biomechatronika 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -693,7 +693,7 @@ BEGIN:VEVENT
 DTSTART:20240403T095000
 DTEND:20240403T112500
 SUMMARY:Bio.1 (L)
-LOCATION:53/ 62
+LOCATION:53/ 62 57/ 62
 DESCRIPTION:Biomechatronika 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -714,14 +714,14 @@ BEGIN:VEVENT
 DTSTART:20240404T114000
 DTEND:20240404T131500
 SUMMARY:URiPSR (L)
-LOCATION:53/ 62
+LOCATION:53/ 62 57/ 62
 DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240404T133000
 DTEND:20240404T150500
 SUMMARY:URiPSR (L)
-LOCATION:53/ 62
+LOCATION:53/ 62 57/ 62
 DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -784,14 +784,14 @@ BEGIN:VEVENT
 DTSTART:20240409T080000
 DTEND:20240409T093500
 SUMMARY:SiSS (L)
-LOCATION:108/ 5
+LOCATION:108/ 54
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240409T095000
 DTEND:20240409T112500
 SUMMARY:SiSS (L)
-LOCATION:108/ 5
+LOCATION:108/ 54
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -819,7 +819,7 @@ BEGIN:VEVENT
 DTSTART:20240410T095000
 DTEND:20240410T112500
 SUMMARY:Bio.1 (L)
-LOCATION:53/ 62
+LOCATION:53/ 62 57/ 62
 DESCRIPTION:Biomechatronika 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -847,14 +847,14 @@ BEGIN:VEVENT
 DTSTART:20240411T114000
 DTEND:20240411T131500
 SUMMARY:URiPSR (L)
-LOCATION:53/ 62
+LOCATION:53/ 62 57/ 62
 DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240411T133000
 DTEND:20240411T150500
 SUMMARY:URiPSR (L)
-LOCATION:53/ 62
+LOCATION:53/ 62 57/ 62
 DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -931,28 +931,28 @@ BEGIN:VEVENT
 DTSTART:20240416T095000
 DTEND:20240416T112500
 SUMMARY:SiSS (L)
-LOCATION:108/ 5
+LOCATION:108/ 54
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240416T114000
 DTEND:20240416T131500
 SUMMARY:SiSS (L)
-LOCATION:108/ 5
+LOCATION:108/ 54
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240416T133000
 DTEND:20240416T150500
 SUMMARY:SiSS (L)
-LOCATION:108/ 5
+LOCATION:108/ 54
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240416T160000
 DTEND:20240416T173500
 SUMMARY:SiSS (L)
-LOCATION:108/ 5
+LOCATION:108/ 54
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -987,14 +987,14 @@ BEGIN:VEVENT
 DTSTART:20240418T080000
 DTEND:20240418T093500
 SUMMARY:URiPSR (L)
-LOCATION:53/ 62
+LOCATION:53/ 62 57/ 62
 DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240418T095000
 DTEND:20240418T112500
 SUMMARY:URiPSR (L)
-LOCATION:53/ 62
+LOCATION:53/ 62 57/ 62
 DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1078,28 +1078,28 @@ BEGIN:VEVENT
 DTSTART:20240423T080000
 DTEND:20240423T093500
 SUMMARY:SiSS (L)
-LOCATION:108/ 5
+LOCATION:108/ 54
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240423T095000
 DTEND:20240423T112500
 SUMMARY:SiSS (L)
-LOCATION:108/ 5
+LOCATION:108/ 54
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240423T114000
 DTEND:20240423T131500
 SUMMARY:SiSS (L)
-LOCATION:108/ 5
+LOCATION:108/ 54
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240423T133000
 DTEND:20240423T150500
 SUMMARY:SiSS (L)
-LOCATION:108/ 5
+LOCATION:108/ 54
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1120,14 +1120,14 @@ BEGIN:VEVENT
 DTSTART:20240425T080000
 DTEND:20240425T093500
 SUMMARY:URiPSR (L)
-LOCATION:53/ 62
+LOCATION:53/ 62 57/ 62
 DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240425T095000
 DTEND:20240425T112500
 SUMMARY:URiPSR (L)
-LOCATION:53/ 62
+LOCATION:53/ 62 57/ 62
 DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1183,7 +1183,7 @@ BEGIN:VEVENT
 DTSTART:20240429T114000
 DTEND:20240429T131500
 SUMMARY:Mnisu1 (w)
-LOCATION:54/ 62
+LOCATION:54/ 62 Laptop
 DESCRIPTION:Metody numerycznego modelowania i symulacji urazów człowieka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1393,7 +1393,7 @@ BEGIN:VEVENT
 DTSTART:20240508T095000
 DTEND:20240508T112500
 SUMMARY:Bio.1 (L)
-LOCATION:53/ 62
+LOCATION:53/ 62 57/ 62
 DESCRIPTION:Biomechatronika 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1414,14 +1414,14 @@ BEGIN:VEVENT
 DTSTART:20240509T114000
 DTEND:20240509T131500
 SUMMARY:URiPSR (L)
-LOCATION:53/ 62
+LOCATION:53/ 62 57/ 62
 DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240509T133000
 DTEND:20240509T150500
 SUMMARY:URiPSR (L)
-LOCATION:53/ 62
+LOCATION:53/ 62 57/ 62
 DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1505,21 +1505,21 @@ BEGIN:VEVENT
 DTSTART:20240515T095000
 DTEND:20240515T112500
 SUMMARY:Bio.1 (L)
-LOCATION:53/ 62
+LOCATION:53/ 62 57/ 62
 DESCRIPTION:Biomechatronika 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240515T114000
 DTEND:20240515T131500
 SUMMARY:BR (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Biomechanika rehabilitacyjna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240515T133000
 DTEND:20240515T150500
 SUMMARY:BR (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Biomechanika rehabilitacyjna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1694,7 +1694,7 @@ BEGIN:VEVENT
 DTSTART:20240527T080000
 DTEND:20240527T093500
 SUMMARY:BR (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Biomechanika rehabilitacyjna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1708,7 +1708,7 @@ BEGIN:VEVENT
 DTSTART:20240527T114000
 DTEND:20240527T131500
 SUMMARY:BR (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Biomechanika rehabilitacyjna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1736,14 +1736,14 @@ BEGIN:VEVENT
 DTSTART:20240529T080000
 DTEND:20240529T093500
 SUMMARY:Bio.1 (L)
-LOCATION:53/ 62
+LOCATION:53/ 62 57/ 62
 DESCRIPTION:Biomechatronika 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240529T095000
 DTEND:20240529T112500
 SUMMARY:Bio.1 (L)
-LOCATION:53/ 62
+LOCATION:53/ 62 57/ 62
 DESCRIPTION:Biomechatronika 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1876,7 +1876,7 @@ BEGIN:VEVENT
 DTSTART:20240603T133000
 DTEND:20240603T150500
 SUMMARY:Bio.1 (L)
-LOCATION:53/ 62
+LOCATION:53/ 62 57/ 62
 DESCRIPTION:Biomechatronika 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1911,7 +1911,7 @@ BEGIN:VEVENT
 DTSTART:20240605T080000
 DTEND:20240605T093500
 SUMMARY:Bio.1 (L)
-LOCATION:53/ 62
+LOCATION:53/ 62 57/ 62
 DESCRIPTION:Biomechatronika 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2016,7 +2016,7 @@ BEGIN:VEVENT
 DTSTART:20240624T095000
 DTEND:20240624T112500
 SUMMARY:BR (Inne)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Biomechanika rehabilitacyjna - (Zaliczenie poprawkowe  lab.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2030,7 +2030,7 @@ BEGIN:VEVENT
 DTSTART:20240625T095000
 DTEND:20240625T112500
 SUMMARY:SiSS (Inne)
-LOCATION:108/ 5
+LOCATION:108/ 54
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Zaliczenie poprawkowe  lab.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2044,7 +2044,7 @@ BEGIN:VEVENT
 DTSTART:20240626T080000
 DTEND:20240626T093500
 SUMMARY:Bio.1 (Inne)
-LOCATION:53/ 62
+LOCATION:53/ 62 57/ 62
 DESCRIPTION:Biomechatronika 1 - (Zaliczenie poprawkowe  lab.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2058,7 +2058,7 @@ BEGIN:VEVENT
 DTSTART:20240627T114000
 DTEND:20240627T131500
 SUMMARY:URiPSR (Inne)
-LOCATION:53/ 62
+LOCATION:53/ 62 57/ 62
 DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Zaliczenie poprawkowe  lab.) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT

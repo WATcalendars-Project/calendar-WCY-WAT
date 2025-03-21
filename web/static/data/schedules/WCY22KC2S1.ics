@@ -288,7 +288,7 @@ DTSTART:20241025T095000
 DTEND:20241025T112500
 SUMMARY:SzOR (Inne)
 LOCATION:078 S
-DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Alicja Kida
+DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć:  - \nNr zajęć: 1/4\nProwadzący: mgr inż. Alicja Kida
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241025T114000
@@ -1450,7 +1450,7 @@ DTSTART:20250130T133000
 DTEND:20250130T150500
 SUMMARY:SzOR (Inne)
 LOCATION:085 S
-DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Alicja Kida
+DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć:  - \nNr zajęć: 2/4\nProwadzący: mgr inż. Alicja Kida
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250131T080000
@@ -1922,6 +1922,13 @@ LOCATION:09 65
 DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/20\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250328T160000
+DTEND:20250328T173500
+SUMMARY:SzOR (Inne)
+LOCATION:078 S
+DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć:  - \nNr zajęć: 3/4\nProwadzący: mgr inż. Alicja Kida
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250331T080000
 DTEND:20250331T093500
 SUMMARY:Ppz (L)
@@ -1997,13 +2004,6 @@ DTEND:20250401T192500
 SUMMARY:Bsbp (L)
 LOCATION:120 65
 DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Michał Jarosz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250402T080000
-DTEND:20250402T093500
-SUMMARY:TpsT (w)
-LOCATION:308 S
-DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T095000
@@ -2727,6 +2727,13 @@ LOCATION:101 65
 DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 9/10\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250611T133000
+DTEND:20250611T150500
+SUMMARY:TpsT (w)
+LOCATION:316 S
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250613T080000
 DTEND:20250613T093500
 SUMMARY:zsw (L)
@@ -2781,5 +2788,12 @@ DTEND:20250618T131500
 SUMMARY:Sp (Inne)
 LOCATION:201 65
 DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 10/10\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T133000
+DTEND:20250618T150500
+SUMMARY:SzOR (Inne)
+LOCATION:085 S
+DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć:  - \nNr zajęć: 4/4\nProwadzący: mgr inż. Alicja Kida
 END:VEVENT
 END:VCALENDAR

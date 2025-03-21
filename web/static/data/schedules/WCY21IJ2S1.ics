@@ -1120,14 +1120,14 @@ BEGIN:VEVENT
 DTSTART:20240626T114000
 DTEND:20240626T131500
 SUMMARY:Jtp (Inne)
-LOCATION:317 S
+LOCATION:317 S 316 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240626T133000
 DTEND:20240626T150500
 SUMMARY:Jtp (Inne)
-LOCATION:19 36
+LOCATION:19 36 316 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
@@ -1645,14 +1645,14 @@ BEGIN:VEVENT
 DTSTART:20241128T080000
 DTEND:20241128T093500
 SUMMARY:Orr (w)
-LOCATION:237 S
+LOCATION:237 S 239 S
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 9/6\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241128T095000
 DTEND:20241128T112500
 SUMMARY:Orr (w)
-LOCATION:237 S
+LOCATION:237 S 239 S
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 10/6\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT

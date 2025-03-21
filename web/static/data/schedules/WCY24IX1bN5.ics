@@ -7,7 +7,7 @@ BEGIN:VEVENT
 DTSTART:20241012T080000
 DTEND:20241012T093500
 SUMMARY:wi (w)
-LOCATION:S.Sena
+LOCATION:S.Senat/ S
 DESCRIPTION:Wykład inauguracyjny\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
@@ -119,56 +119,56 @@ BEGIN:VEVENT
 DTSTART:20241109T080000
 DTEND:20241109T093500
 SUMMARY:Dme (w)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Decyzje menedżerskie\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241109T095000
 DTEND:20241109T112500
 SUMMARY:Dme (w)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Decyzje menedżerskie\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241109T114000
 DTEND:20241109T131500
 SUMMARY:Zkc (w)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Zarządzanie kryzysowe w cyberbezpieczeństwie\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Bogusław Hajdasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241109T133000
 DTEND:20241109T150500
 SUMMARY:Zkc (w)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Zarządzanie kryzysowe w cyberbezpieczeństwie\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Bogusław Hajdasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241110T080000
 DTEND:20241110T093500
 SUMMARY:Zkc (w)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Zarządzanie kryzysowe w cyberbezpieczeństwie\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Bogusław Hajdasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241110T095000
 DTEND:20241110T112500
 SUMMARY:Zkc (L)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Zarządzanie kryzysowe w cyberbezpieczeństwie\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący:  Bogusław Hajdasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241110T114000
 DTEND:20241110T131500
 SUMMARY:Zkc (L)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Zarządzanie kryzysowe w cyberbezpieczeństwie\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący:  Bogusław Hajdasz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241110T133000
 DTEND:20241110T150500
 SUMMARY:Zrc (w)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Zarządzanie ryzykiem w cyberbezpieczeństwie\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
@@ -259,84 +259,84 @@ BEGIN:VEVENT
 DTSTART:20241215T080000
 DTEND:20241215T093500
 SUMMARY:Zpc (L)
-LOCATION:223 S
+LOCATION:223 S 224 S
 DESCRIPTION:Zarządzanie projektami i inżynieria systemów w cyberbezpieczeństwie\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241215T095000
 DTEND:20241215T112500
 SUMMARY:Zpc (L)
-LOCATION:223 S
+LOCATION:223 S 224 S
 DESCRIPTION:Zarządzanie projektami i inżynieria systemów w cyberbezpieczeństwie\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241215T114000
 DTEND:20241215T131500
 SUMMARY:CP (ć)
-LOCATION:237 S
+LOCATION:237 S 239 S
 DESCRIPTION:Cyberprzestępczość\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący:  Agnieszka Gryszczyńska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241215T133000
 DTEND:20241215T150500
 SUMMARY:CP (ć)
-LOCATION:237 S
+LOCATION:237 S 239 S
 DESCRIPTION:Cyberprzestępczość\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący:  Agnieszka Gryszczyńska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250111T080000
 DTEND:20250111T093500
 SUMMARY:Zrc (ć)
-LOCATION:223 S
+LOCATION:223 S 224 S
 DESCRIPTION:Zarządzanie ryzykiem w cyberbezpieczeństwie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250111T095000
 DTEND:20250111T112500
 SUMMARY:Zrc (ć)
-LOCATION:223 S
+LOCATION:223 S 224 S
 DESCRIPTION:Zarządzanie ryzykiem w cyberbezpieczeństwie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250111T114000
 DTEND:20250111T131500
 SUMMARY:Dme (L)
-LOCATION:237 S
+LOCATION:237 S 239 S
 DESCRIPTION:Decyzje menedżerskie\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250111T133000
 DTEND:20250111T150500
 SUMMARY:Dme (L)
-LOCATION:237 S
+LOCATION:237 S 239 S
 DESCRIPTION:Decyzje menedżerskie\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250112T080000
 DTEND:20250112T093500
 SUMMARY:Zpc (L)
-LOCATION:223 S
+LOCATION:223 S 224 S
 DESCRIPTION:Zarządzanie projektami i inżynieria systemów w cyberbezpieczeństwie\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250112T095000
 DTEND:20250112T112500
 SUMMARY:Zpc (L)
-LOCATION:223 S
+LOCATION:223 S 224 S
 DESCRIPTION:Zarządzanie projektami i inżynieria systemów w cyberbezpieczeństwie\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250112T114000
 DTEND:20250112T131500
 SUMMARY:CP (ć)
-LOCATION:237 S
+LOCATION:237 S 239 S
 DESCRIPTION:Cyberprzestępczość\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący:  Agnieszka Gryszczyńska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250112T133000
 DTEND:20250112T150500
 SUMMARY:CP (ć)
-LOCATION:237 S
+LOCATION:237 S 239 S
 DESCRIPTION:Cyberprzestępczość\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący:  Agnieszka Gryszczyńska
 END:VEVENT
 BEGIN:VEVENT
@@ -392,112 +392,112 @@ BEGIN:VEVENT
 DTSTART:20250126T133000
 DTEND:20250126T150500
 SUMMARY:ZIT (Inne)
-LOCATION:235 S
+LOCATION:235 S 237 S
 DESCRIPTION:Zarządzanie usługami IT\nRodzaj zajęć:  - \nNr zajęć: 3/3\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250215T080000
 DTEND:20250215T093500
 SUMMARY:Cse (w)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Cyber security systems\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Alessandro Armando
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250215T095000
 DTEND:20250215T112500
 SUMMARY:Cse (w)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Cyber security systems\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Alessandro Armando
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250215T114000
 DTEND:20250215T131500
 SUMMARY:Cse (w)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Cyber security systems\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Alessandro Armando
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250215T133000
 DTEND:20250215T150500
 SUMMARY:Cse (w)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Cyber security systems\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Alessandro Armando
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250216T080000
 DTEND:20250216T093500
 SUMMARY:Cse (w)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Cyber security systems\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Alessandro Armando
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250216T095000
 DTEND:20250216T112500
 SUMMARY:Cse (w)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Cyber security systems\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Alessandro Armando
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250216T114000
 DTEND:20250216T131500
 SUMMARY:Cse (L)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Cyber security systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący:  Alessandro Armando
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250216T133000
 DTEND:20250216T150500
 SUMMARY:Cse (L)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Cyber security systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący:  Alessandro Armando
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250222T080000
 DTEND:20250222T093500
 SUMMARY:Cse (L)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Cyber security systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący:  Alessandro Armando
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250222T095000
 DTEND:20250222T112500
 SUMMARY:Cse (L)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Cyber security systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący:  Alessandro Armando
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250222T114000
 DTEND:20250222T131500
 SUMMARY:Cse (L)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Cyber security systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący:  Alessandro Armando
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250222T133000
 DTEND:20250222T150500
 SUMMARY:Cse (L)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Cyber security systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący:  Alessandro Armando
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250223T080000
 DTEND:20250223T093500
 SUMMARY:Zrc (L)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Zarządzanie ryzykiem w cyberbezpieczeństwie\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/3\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250223T095000
 DTEND:20250223T112500
 SUMMARY:Zrc (L)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Zarządzanie ryzykiem w cyberbezpieczeństwie\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/3\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250223T114000
 DTEND:20250223T131500
 SUMMARY:Zrc (L)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Zarządzanie ryzykiem w cyberbezpieczeństwie\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/3\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
@@ -609,7 +609,7 @@ BEGIN:VEVENT
 DTSTART:20250316T133000
 DTEND:20250316T150500
 SUMMARY:ksc (ć)
-LOCATION:223 S
+LOCATION:223 S 224 S
 DESCRIPTION:Krajowy system cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący:  Filip Marczewski
 END:VEVENT
 BEGIN:VEVENT
@@ -644,14 +644,14 @@ BEGIN:VEVENT
 DTSTART:20250406T080000
 DTEND:20250406T093500
 SUMMARY:Twinf (L)
-LOCATION:237 S
+LOCATION:237 S 239 S
 DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250406T095000
 DTEND:20250406T112500
 SUMMARY:Twinf (L)
-LOCATION:237 S
+LOCATION:237 S 239 S
 DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
@@ -728,56 +728,56 @@ BEGIN:VEVENT
 DTSTART:20250510T160000
 DTEND:20250510T173500
 SUMMARY:PNc (w)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Polityka NATO w zakresie cyberbezpieczeństwa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250510T175000
 DTEND:20250510T192500
 SUMMARY:PNc (w)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Polityka NATO w zakresie cyberbezpieczeństwa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250511T080000
 DTEND:20250511T093500
 SUMMARY:Sd. (Inne)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć:  - \nNr zajęć: 1/6\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250511T095000
 DTEND:20250511T112500
 SUMMARY:Sd. (Inne)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć:  - \nNr zajęć: 2/6\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250511T114000
 DTEND:20250511T131500
 SUMMARY:Sd. (Inne)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć:  - \nNr zajęć: 3/6\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250511T133000
 DTEND:20250511T150500
 SUMMARY:Sd. (Inne)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć:  - \nNr zajęć: 4/6\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250511T160000
 DTEND:20250511T173500
 SUMMARY:Sd. (Inne)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć:  - \nNr zajęć: 5/6\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250511T175000
 DTEND:20250511T192500
 SUMMARY:Sd. (Inne)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Seminarium dyplomowe\nRodzaj zajęć:  - \nNr zajęć: 6/6\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
@@ -798,42 +798,42 @@ BEGIN:VEVENT
 DTSTART:20250517T114000
 DTEND:20250517T131500
 SUMMARY:ksc (ć)
-LOCATION:223 S
+LOCATION:223 S 224 S
 DESCRIPTION:Krajowy system cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący:  Filip Marczewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250517T133000
 DTEND:20250517T150500
 SUMMARY:ksc (ć)
-LOCATION:223 S
+LOCATION:223 S 224 S
 DESCRIPTION:Krajowy system cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący:  Filip Marczewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250518T080000
 DTEND:20250518T093500
 SUMMARY:Twinf (L)
-LOCATION:237 S
+LOCATION:237 S 239 S
 DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250518T095000
 DTEND:20250518T112500
 SUMMARY:Twinf (L)
-LOCATION:237 S
+LOCATION:237 S 239 S
 DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250518T114000
 DTEND:20250518T131500
 SUMMARY:ksc (ć)
-LOCATION:223 S
+LOCATION:223 S 224 S
 DESCRIPTION:Krajowy system cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący:  Filip Marczewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250518T133000
 DTEND:20250518T150500
 SUMMARY:ksc (ć)
-LOCATION:223 S
+LOCATION:223 S 224 S
 DESCRIPTION:Krajowy system cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący:  Filip Marczewski
 END:VEVENT
 BEGIN:VEVENT
@@ -924,336 +924,336 @@ BEGIN:VEVENT
 DTSTART:20250623T080000
 DTEND:20250623T093500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 1/12\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T080000
 DTEND:20250623T093500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 2/12\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T080000
 DTEND:20250623T093500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 3/12\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T080000
 DTEND:20250623T093500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 4/12\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T095000
 DTEND:20250623T112500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 5/12\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T095000
 DTEND:20250623T112500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 6/12\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T095000
 DTEND:20250623T112500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 7/12\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T095000
 DTEND:20250623T112500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 8/12\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T114000
 DTEND:20250623T131500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 9/12\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T114000
 DTEND:20250623T131500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 10/12\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T114000
 DTEND:20250623T131500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 11/12\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T114000
 DTEND:20250623T131500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 12/12\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T133000
 DTEND:20250623T150500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 13/12\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T133000
 DTEND:20250623T150500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 14/12\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T133000
 DTEND:20250623T150500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 15/12\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T133000
 DTEND:20250623T150500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 16/12\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T080000
 DTEND:20250624T093500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 17/12\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T080000
 DTEND:20250624T093500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 18/12\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T080000
 DTEND:20250624T093500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 19/12\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T080000
 DTEND:20250624T093500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 20/12\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T095000
 DTEND:20250624T112500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 21/12\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T095000
 DTEND:20250624T112500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 22/12\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T095000
 DTEND:20250624T112500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 23/12\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T095000
 DTEND:20250624T112500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 24/12\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T114000
 DTEND:20250624T131500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 25/12\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T114000
 DTEND:20250624T131500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 26/12\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T114000
 DTEND:20250624T131500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 27/12\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T114000
 DTEND:20250624T131500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 28/12\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T133000
 DTEND:20250624T150500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 29/12\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T133000
 DTEND:20250624T150500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 30/12\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T133000
 DTEND:20250624T150500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 31/12\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T133000
 DTEND:20250624T150500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 32/12\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T080000
 DTEND:20250625T093500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 33/12\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T080000
 DTEND:20250625T093500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 34/12\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T080000
 DTEND:20250625T093500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 35/12\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T080000
 DTEND:20250625T093500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 36/12\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T095000
 DTEND:20250625T112500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 37/12\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T095000
 DTEND:20250625T112500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 38/12\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T095000
 DTEND:20250625T112500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 39/12\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T095000
 DTEND:20250625T112500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 40/12\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T114000
 DTEND:20250625T131500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 41/12\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T114000
 DTEND:20250625T131500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 42/12\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T114000
 DTEND:20250625T131500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 43/12\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T114000
 DTEND:20250625T131500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 44/12\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T133000
 DTEND:20250625T150500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 45/12\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T133000
 DTEND:20250625T150500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 46/12\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T133000
 DTEND:20250625T150500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 47/12\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T133000
 DTEND:20250625T150500
 SUMMARY:Eko (E)
-LOCATION:252a S
+LOCATION:252a S 252 S
 DESCRIPTION:Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 48/12\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 END:VCALENDAR

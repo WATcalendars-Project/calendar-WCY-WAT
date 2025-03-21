@@ -28,14 +28,14 @@ BEGIN:VEVENT
 DTSTART:20250303T133000
 DTEND:20250303T150500
 SUMMARY:Ja (ć)
-LOCATION:240 K
+LOCATION:240 K 241 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T175000
 DTEND:20250303T192500
 SUMMARY:JoM (ć)
-LOCATION:230 K
+LOCATION:230 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -161,14 +161,14 @@ BEGIN:VEVENT
 DTSTART:20250310T133000
 DTEND:20250310T150500
 SUMMARY:Ja (ć)
-LOCATION:240 K
+LOCATION:240 K 241 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T175000
 DTEND:20250310T192500
 SUMMARY:JoM (ć)
-LOCATION:230 K
+LOCATION:230 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -231,7 +231,7 @@ BEGIN:VEVENT
 DTSTART:20250313T080000
 DTEND:20250313T093500
 SUMMARY:Sz.P (w)
-LOCATION:120/ 5
+LOCATION:120/ 54
 DESCRIPTION:Szybkie prototypowanie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -357,14 +357,14 @@ BEGIN:VEVENT
 DTSTART:20250317T133000
 DTEND:20250317T150500
 SUMMARY:Ja (ć)
-LOCATION:240 K
+LOCATION:240 K 241 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T175000
 DTEND:20250317T192500
 SUMMARY:JoM (ć)
-LOCATION:230 K
+LOCATION:230 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -427,7 +427,7 @@ BEGIN:VEVENT
 DTSTART:20250320T080000
 DTEND:20250320T093500
 SUMMARY:Sz.P (w)
-LOCATION:120/ 5
+LOCATION:120/ 54
 DESCRIPTION:Szybkie prototypowanie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -553,14 +553,14 @@ BEGIN:VEVENT
 DTSTART:20250324T133000
 DTEND:20250324T150500
 SUMMARY:Ja (ć)
-LOCATION:240 K
+LOCATION:240 K 241 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T175000
 DTEND:20250324T192500
 SUMMARY:JoM (ć)
-LOCATION:230 K
+LOCATION:230 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -644,7 +644,7 @@ BEGIN:VEVENT
 DTSTART:20250327T133000
 DTEND:20250327T150500
 SUMMARY:Sz.P (L)
-LOCATION:6/ 62
+LOCATION:6/ 62 7/ 62
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -735,21 +735,21 @@ BEGIN:VEVENT
 DTSTART:20250331T133000
 DTEND:20250331T150500
 SUMMARY:Ja (ć)
-LOCATION:240 K
+LOCATION:240 K 241 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T175000
 DTEND:20250331T192500
 SUMMARY:JoM (ć)
-LOCATION:230 K
+LOCATION:230 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T080000
 DTEND:20250401T093500
 SUMMARY:Sz.P (L)
-LOCATION:6/ 62
+LOCATION:6/ 62 7/ 62
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -910,14 +910,14 @@ BEGIN:VEVENT
 DTSTART:20250407T133000
 DTEND:20250407T150500
 SUMMARY:Ja (ć)
-LOCATION:240 K
+LOCATION:240 K 241 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T175000
 DTEND:20250407T192500
 SUMMARY:JoM (ć)
-LOCATION:230 K
+LOCATION:230 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -952,14 +952,14 @@ BEGIN:VEVENT
 DTSTART:20250409T095000
 DTEND:20250409T112500
 SUMMARY:Pps (w)
-LOCATION:15/ 23
+LOCATION:15/ 23a
 DESCRIPTION:Podstawy przetwarzania sygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T114000
 DTEND:20250409T131500
 SUMMARY:Sz.P (L)
-LOCATION:6/ 62
+LOCATION:6/ 62 7/ 62
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1099,7 +1099,7 @@ BEGIN:VEVENT
 DTSTART:20250414T133000
 DTEND:20250414T150500
 SUMMARY:Ja (ć)
-LOCATION:240 K
+LOCATION:240 K 241 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1113,21 +1113,21 @@ BEGIN:VEVENT
 DTSTART:20250414T175000
 DTEND:20250414T192500
 SUMMARY:JoM (ć)
-LOCATION:230 K
+LOCATION:230 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T080000
 DTEND:20250415T093500
 SUMMARY:Sz.P (L)
-LOCATION:6/ 62
+LOCATION:6/ 62 7/ 62
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T095000
 DTEND:20250415T112500
 SUMMARY:Sz.P (L)
-LOCATION:6/ 62
+LOCATION:6/ 62 7/ 62
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1162,7 +1162,7 @@ BEGIN:VEVENT
 DTSTART:20250417T095000
 DTEND:20250417T112500
 SUMMARY:Sz.P (L)
-LOCATION:6/ 62
+LOCATION:6/ 62 7/ 62
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1428,14 +1428,14 @@ BEGIN:VEVENT
 DTSTART:20250423T080000
 DTEND:20250423T093500
 SUMMARY:Gśr.PSP (ć)
-LOCATION:86 S
+LOCATION:86 S 82 S
 DESCRIPTION:Graficzne środowiska programowania systemów pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T095000
 DTEND:20250423T112500
 SUMMARY:Gśr.PSP (ć)
-LOCATION:86 S
+LOCATION:86 S 82 S
 DESCRIPTION:Graficzne środowiska programowania systemów pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1589,7 +1589,7 @@ BEGIN:VEVENT
 DTSTART:20250428T133000
 DTEND:20250428T150500
 SUMMARY:Ja (ć)
-LOCATION:240 K
+LOCATION:240 K 241 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1603,7 +1603,7 @@ BEGIN:VEVENT
 DTSTART:20250428T175000
 DTEND:20250428T192500
 SUMMARY:JoM (ć)
-LOCATION:230 K
+LOCATION:230 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1631,28 +1631,28 @@ BEGIN:VEVENT
 DTSTART:20250429T160000
 DTEND:20250429T173500
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T175000
 DTEND:20250429T192500
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T080000
 DTEND:20250430T093500
 SUMMARY:Gśr.PSP (ć)
-LOCATION:86 S
+LOCATION:86 S 82 S
 DESCRIPTION:Graficzne środowiska programowania systemów pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T095000
 DTEND:20250430T112500
 SUMMARY:Gśr.PSP (ć)
-LOCATION:86 S
+LOCATION:86 S 82 S
 DESCRIPTION:Graficzne środowiska programowania systemów pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1848,7 +1848,7 @@ BEGIN:VEVENT
 DTSTART:20250505T133000
 DTEND:20250505T150500
 SUMMARY:Ja (ć)
-LOCATION:240 K
+LOCATION:240 K 241 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1862,21 +1862,21 @@ BEGIN:VEVENT
 DTSTART:20250505T175000
 DTEND:20250505T192500
 SUMMARY:JoM (ć)
-LOCATION:230 K
+LOCATION:230 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T080000
 DTEND:20250506T093500
 SUMMARY:Sz.P (L)
-LOCATION:6/ 62
+LOCATION:6/ 62 7/ 62
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T095000
 DTEND:20250506T112500
 SUMMARY:Sz.P (L)
-LOCATION:6/ 62
+LOCATION:6/ 62 7/ 62
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1897,28 +1897,28 @@ BEGIN:VEVENT
 DTSTART:20250506T160000
 DTEND:20250506T173500
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T175000
 DTEND:20250506T192500
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T080000
 DTEND:20250507T093500
 SUMMARY:Gśr.PSP (ć)
-LOCATION:86 S
+LOCATION:86 S 82 S
 DESCRIPTION:Graficzne środowiska programowania systemów pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T095000
 DTEND:20250507T112500
 SUMMARY:Gśr.PSP (ć)
-LOCATION:86 S
+LOCATION:86 S 82 S
 DESCRIPTION:Graficzne środowiska programowania systemów pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1932,7 +1932,7 @@ BEGIN:VEVENT
 DTSTART:20250508T080000
 DTEND:20250508T093500
 SUMMARY:Sz.P (L)
-LOCATION:6/ 62
+LOCATION:6/ 62 7/ 62
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2044,7 +2044,7 @@ BEGIN:VEVENT
 DTSTART:20250512T133000
 DTEND:20250512T150500
 SUMMARY:Ja (ć)
-LOCATION:240 K
+LOCATION:240 K 241 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2065,14 +2065,14 @@ BEGIN:VEVENT
 DTSTART:20250513T080000
 DTEND:20250513T093500
 SUMMARY:Sz.P (L)
-LOCATION:13/ 54
+LOCATION:13/ 54 120/ 5
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T095000
 DTEND:20250513T112500
 SUMMARY:Sz.P (L)
-LOCATION:13/ 54
+LOCATION:13/ 54 120/ 5
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2093,21 +2093,21 @@ BEGIN:VEVENT
 DTSTART:20250513T160000
 DTEND:20250513T173500
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T080000
 DTEND:20250514T093500
 SUMMARY:Gśr.PSP (ć)
-LOCATION:86 S
+LOCATION:86 S 82 S
 DESCRIPTION:Graficzne środowiska programowania systemów pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T095000
 DTEND:20250514T112500
 SUMMARY:Gśr.PSP (ć)
-LOCATION:86 S
+LOCATION:86 S 82 S
 DESCRIPTION:Graficzne środowiska programowania systemów pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2233,7 +2233,7 @@ BEGIN:VEVENT
 DTSTART:20250519T133000
 DTEND:20250519T150500
 SUMMARY:Ja (ć)
-LOCATION:240 K
+LOCATION:240 K 241 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2247,7 +2247,7 @@ BEGIN:VEVENT
 DTSTART:20250519T175000
 DTEND:20250519T192500
 SUMMARY:JoM (ć)
-LOCATION:230 K
+LOCATION:230 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2268,21 +2268,21 @@ BEGIN:VEVENT
 DTSTART:20250520T160000
 DTEND:20250520T173500
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T080000
 DTEND:20250521T093500
 SUMMARY:Gśr.PSP (ć)
-LOCATION:86 S
+LOCATION:86 S 82 S
 DESCRIPTION:Graficzne środowiska programowania systemów pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T095000
 DTEND:20250521T112500
 SUMMARY:Gśr.PSP (ć)
-LOCATION:86 S
+LOCATION:86 S 82 S
 DESCRIPTION:Graficzne środowiska programowania systemów pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2401,7 +2401,7 @@ BEGIN:VEVENT
 DTSTART:20250526T133000
 DTEND:20250526T150500
 SUMMARY:Ja (ć)
-LOCATION:240 K
+LOCATION:240 K 241 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2415,7 +2415,7 @@ BEGIN:VEVENT
 DTSTART:20250526T175000
 DTEND:20250526T192500
 SUMMARY:JoM (ć)
-LOCATION:230 K
+LOCATION:230 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2436,21 +2436,21 @@ BEGIN:VEVENT
 DTSTART:20250527T160000
 DTEND:20250527T173500
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T175000
 DTEND:20250527T192500
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T080000
 DTEND:20250528T093500
 SUMMARY:Sz.P (L)
-LOCATION:13/ 54
+LOCATION:13/ 54 120/ 5
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2576,7 +2576,7 @@ BEGIN:VEVENT
 DTSTART:20250602T133000
 DTEND:20250602T150500
 SUMMARY:Ja (ć)
-LOCATION:240 K
+LOCATION:240 K 241 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2590,7 +2590,7 @@ BEGIN:VEVENT
 DTSTART:20250602T175000
 DTEND:20250602T192500
 SUMMARY:JoM (ć)
-LOCATION:230 K
+LOCATION:230 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2618,7 +2618,7 @@ BEGIN:VEVENT
 DTSTART:20250603T160000
 DTEND:20250603T173500
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2744,7 +2744,7 @@ BEGIN:VEVENT
 DTSTART:20250609T133000
 DTEND:20250609T150500
 SUMMARY:Ja (ć)
-LOCATION:240 K
+LOCATION:240 K 241 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2758,7 +2758,7 @@ BEGIN:VEVENT
 DTSTART:20250609T175000
 DTEND:20250609T192500
 SUMMARY:JoM (ć)
-LOCATION:230 K
+LOCATION:230 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2793,14 +2793,14 @@ BEGIN:VEVENT
 DTSTART:20250610T160000
 DTEND:20250610T173500
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T175000
 DTEND:20250610T192500
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2814,7 +2814,7 @@ BEGIN:VEVENT
 DTSTART:20250611T114000
 DTEND:20250611T131500
 SUMMARY:Sz.P (L)
-LOCATION:13/ 54
+LOCATION:13/ 54 120/ 5
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2905,14 +2905,14 @@ BEGIN:VEVENT
 DTSTART:20250616T133000
 DTEND:20250616T150500
 SUMMARY:Ja (ć)
-LOCATION:240 K
+LOCATION:240 K 241 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T175000
 DTEND:20250616T192500
 SUMMARY:JoM (ć)
-LOCATION:230 K
+LOCATION:230 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2933,14 +2933,14 @@ BEGIN:VEVENT
 DTSTART:20250617T160000
 DTEND:20250617T173500
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T175000
 DTEND:20250617T192500
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -3171,7 +3171,7 @@ BEGIN:VEVENT
 DTSTART:20250625T080000
 DTEND:20250625T093500
 SUMMARY:Gśr.PSP (Inne)
-LOCATION:86 S
+LOCATION:86 S 82 S
 DESCRIPTION:Graficzne środowiska programowania systemów pomiarowych - (Zp. Ćw) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -3199,7 +3199,7 @@ BEGIN:VEVENT
 DTSTART:20250626T095000
 DTEND:20250626T112500
 SUMMARY:Sz.P (Inne)
-LOCATION:13/ 54
+LOCATION:13/ 54 120/ 5
 DESCRIPTION:Szybkie prototypowanie - (Zaliczenie poprawkowe  lab.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT

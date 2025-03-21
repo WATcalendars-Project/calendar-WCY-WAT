@@ -2097,13 +2097,6 @@ LOCATION:09 65
 DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250402T080000
-DTEND:20250402T093500
-SUMMARY:TpsT (w)
-LOCATION:308 S
-DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250402T095000
 DTEND:20250402T112500
 SUMMARY:sd (w)
@@ -2949,6 +2942,13 @@ DTEND:20250610T112500
 SUMMARY:zsw (L)
 LOCATION:09 65
 DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 18/20\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T133000
+DTEND:20250611T150500
+SUMMARY:TpsT (w)
+LOCATION:316 S
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T095000

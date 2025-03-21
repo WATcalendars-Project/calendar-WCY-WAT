@@ -749,7 +749,7 @@ BEGIN:VEVENT
 DTSTART:20240430T114000
 DTEND:20240430T131500
 SUMMARY:Ek (ć)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Ekonomia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1176,7 +1176,7 @@ BEGIN:VEVENT
 DTSTART:20240920T194000
 DTEND:20240920T211500
 SUMMARY:Wpp (Inne)
-LOCATION:237 S
+LOCATION:237 S 239 S
 DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT

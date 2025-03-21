@@ -984,20 +984,6 @@ LOCATION:228 S
 DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250325T114000
-DTEND:20250325T131500
-SUMMARY:Twinf (w)
-LOCATION:307 S
-DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Rafał Kasprzyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250325T133000
-DTEND:20250325T150500
-SUMMARY:Twinf (w)
-LOCATION:307 S
-DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Rafał Kasprzyk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250331T114000
 DTEND:20250331T131500
 SUMMARY:UML (L)
@@ -1038,6 +1024,20 @@ DTEND:20250401T192500
 SUMMARY:ZPr (L)
 LOCATION:223 S
 DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: mgr inż. Jarosław Napiórkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250407T080000
+DTEND:20250407T093500
+SUMMARY:Twinf (w)
+LOCATION:309 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250407T095000
+DTEND:20250407T112500
+SUMMARY:Twinf (w)
+LOCATION:309 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T114000

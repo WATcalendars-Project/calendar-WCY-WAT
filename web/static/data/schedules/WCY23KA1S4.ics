@@ -1281,14 +1281,14 @@ BEGIN:VEVENT
 DTSTART:20250317T160000
 DTEND:20250317T173500
 SUMMARY:Imo (w)
-LOCATION:on-lin
+LOCATION:on-line.
 DESCRIPTION:Ilościowe metody oceny bezpieczeństwa syst. teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Mariusz Stawowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T175000
 DTEND:20250317T192500
 SUMMARY:Imo (w)
-LOCATION:on-lin
+LOCATION:on-line.
 DESCRIPTION:Ilościowe metody oceny bezpieczeństwa syst. teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Mariusz Stawowski
 END:VEVENT
 BEGIN:VEVENT
@@ -1302,14 +1302,14 @@ BEGIN:VEVENT
 DTSTART:20250318T160000
 DTEND:20250318T173500
 SUMMARY:Imo (w)
-LOCATION:on-lin
+LOCATION:on-line.
 DESCRIPTION:Ilościowe metody oceny bezpieczeństwa syst. teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Mariusz Stawowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T175000
 DTEND:20250318T192500
 SUMMARY:Imo (w)
-LOCATION:on-lin
+LOCATION:on-line.
 DESCRIPTION:Ilościowe metody oceny bezpieczeństwa syst. teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Mariusz Stawowski
 END:VEVENT
 BEGIN:VEVENT
@@ -1330,36 +1330,22 @@ BEGIN:VEVENT
 DTSTART:20250321T160000
 DTEND:20250321T173500
 SUMMARY:Imo (w)
-LOCATION:on-lin
+LOCATION:on-line.
 DESCRIPTION:Ilościowe metody oceny bezpieczeństwa syst. teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Mariusz Stawowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T175000
 DTEND:20250321T192500
 SUMMARY:Imo (w)
-LOCATION:on-lin
+LOCATION:on-line.
 DESCRIPTION:Ilościowe metody oceny bezpieczeństwa syst. teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Mariusz Stawowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T160000
 DTEND:20250324T173500
 SUMMARY:Imo (w)
-LOCATION:on-lin
+LOCATION:on-line.
 DESCRIPTION:Ilościowe metody oceny bezpieczeństwa syst. teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Mariusz Stawowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250325T114000
-DTEND:20250325T131500
-SUMMARY:Twinf (w)
-LOCATION:307 S
-DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Rafał Kasprzyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250325T133000
-DTEND:20250325T150500
-SUMMARY:Twinf (w)
-LOCATION:307 S
-DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T160000
@@ -1379,14 +1365,14 @@ BEGIN:VEVENT
 DTSTART:20250326T175000
 DTEND:20250326T192500
 SUMMARY:Imo (L)
-LOCATION:on-lin
+LOCATION:on-line.
 DESCRIPTION:Ilościowe metody oceny bezpieczeństwa syst. teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Hubert Ostap
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T194000
 DTEND:20250326T211500
 SUMMARY:Imo (L)
-LOCATION:on-lin
+LOCATION:on-line.
 DESCRIPTION:Ilościowe metody oceny bezpieczeństwa syst. teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Hubert Ostap
 END:VEVENT
 BEGIN:VEVENT
@@ -1428,15 +1414,29 @@ BEGIN:VEVENT
 DTSTART:20250402T175000
 DTEND:20250402T192500
 SUMMARY:Imo (L)
-LOCATION:on-lin
+LOCATION:on-line.
 DESCRIPTION:Ilościowe metody oceny bezpieczeństwa syst. teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Hubert Ostap
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T194000
 DTEND:20250402T211500
 SUMMARY:Imo (L)
-LOCATION:on-lin
+LOCATION:on-line.
 DESCRIPTION:Ilościowe metody oceny bezpieczeństwa syst. teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Hubert Ostap
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250407T080000
+DTEND:20250407T093500
+SUMMARY:Twinf (w)
+LOCATION:309 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250407T095000
+DTEND:20250407T112500
+SUMMARY:Twinf (w)
+LOCATION:309 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T095000
@@ -1463,14 +1463,14 @@ BEGIN:VEVENT
 DTSTART:20250409T175000
 DTEND:20250409T192500
 SUMMARY:Imo (L)
-LOCATION:on-lin
+LOCATION:on-line.
 DESCRIPTION:Ilościowe metody oceny bezpieczeństwa syst. teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Hubert Ostap
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T194000
 DTEND:20250409T211500
 SUMMARY:Imo (L)
-LOCATION:on-lin
+LOCATION:on-line.
 DESCRIPTION:Ilościowe metody oceny bezpieczeństwa syst. teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Hubert Ostap
 END:VEVENT
 BEGIN:VEVENT
@@ -1547,14 +1547,14 @@ BEGIN:VEVENT
 DTSTART:20250423T175000
 DTEND:20250423T192500
 SUMMARY:Imo (L)
-LOCATION:on-lin
+LOCATION:on-line.
 DESCRIPTION:Ilościowe metody oceny bezpieczeństwa syst. teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Hubert Ostap
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T194000
 DTEND:20250423T211500
 SUMMARY:Imo (L)
-LOCATION:on-lin
+LOCATION:on-line.
 DESCRIPTION:Ilościowe metody oceny bezpieczeństwa syst. teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Hubert Ostap
 END:VEVENT
 END:VCALENDAR

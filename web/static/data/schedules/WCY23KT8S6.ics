@@ -28,7 +28,7 @@ BEGIN:VEVENT
 DTSTART:20240226T160000
 DTEND:20240226T173500
 SUMMARY:Hsw (w)
-LOCATION:aula/
+LOCATION:aula/ 135
 DESCRIPTION:Historia sztuki wojennej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -56,7 +56,7 @@ BEGIN:VEVENT
 DTSTART:20240227T133000
 DTEND:20240227T150500
 SUMMARY:wzbnim (w)
-LOCATION:aula/
+LOCATION:aula/ 135
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -70,14 +70,14 @@ BEGIN:VEVENT
 DTSTART:20240228T114000
 DTEND:20240228T131500
 SUMMARY:DPI (ć)
-LOCATION:0.28/
+LOCATION:0.28/ 135
 DESCRIPTION:Działania pokojowe i stabilizacyjne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240228T160000
 DTEND:20240228T173500
 SUMMARY:Hsw (w)
-LOCATION:aula/
+LOCATION:aula/ 135
 DESCRIPTION:Historia sztuki wojennej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -91,14 +91,14 @@ BEGIN:VEVENT
 DTSTART:20240229T160000
 DTEND:20240229T173500
 SUMMARY:HP (w)
-LOCATION:aula/
+LOCATION:aula/ 135
 DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240301T080000
 DTEND:20240301T093500
 SUMMARY:Dn (w)
-LOCATION:aula/
+LOCATION:aula/ 135
 DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -119,7 +119,7 @@ BEGIN:VEVENT
 DTSTART:20240301T160000
 DTEND:20240301T173500
 SUMMARY:HP (w)
-LOCATION:aula/
+LOCATION:aula/ 135
 DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -147,7 +147,7 @@ BEGIN:VEVENT
 DTSTART:20240304T160000
 DTEND:20240304T173500
 SUMMARY:DWiPD (w)
-LOCATION:aula/
+LOCATION:aula/ 135
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -175,7 +175,7 @@ BEGIN:VEVENT
 DTSTART:20240305T133000
 DTEND:20240305T150500
 SUMMARY:wzbnim (w)
-LOCATION:aula/
+LOCATION:aula/ 135
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -189,35 +189,35 @@ BEGIN:VEVENT
 DTSTART:20240306T095000
 DTEND:20240306T112500
 SUMMARY:TA (Inne)
-LOCATION:AW 3/0
+LOCATION:AW 3/043
 DESCRIPTION:TAKTYKA - (repetytorium) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240306T133000
 DTEND:20240306T150500
 SUMMARY:HNs (w)
-LOCATION:aula/
+LOCATION:aula/ 135
 DESCRIPTION:Wsparcie wojsk sojuszniczych przez państwo-gospodarza (HNS) - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240306T160000
 DTEND:20240306T173500
 SUMMARY:HNs (w)
-LOCATION:aula/
+LOCATION:aula/ 135
 DESCRIPTION:Wsparcie wojsk sojuszniczych przez państwo-gospodarza (HNS) - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240307T095000
 DTEND:20240307T112500
 SUMMARY:REG (ć)
-LOCATION:AW 3/0
+LOCATION:AW 3/043
 DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240307T114000
 DTEND:20240307T131500
 SUMMARY:MPH (ć)
-LOCATION:0.19/
+LOCATION:0.19/ 135
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -238,7 +238,7 @@ BEGIN:VEVENT
 DTSTART:20240311T080000
 DTEND:20240311T093500
 SUMMARY:Dn (w)
-LOCATION:aula/
+LOCATION:aula/ 135
 DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -259,7 +259,7 @@ BEGIN:VEVENT
 DTSTART:20240311T160000
 DTEND:20240311T173500
 SUMMARY:DWiPD (ć)
-LOCATION:0.8/ 1
+LOCATION:0.8/ 16
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -280,14 +280,14 @@ BEGIN:VEVENT
 DTSTART:20240312T133000
 DTEND:20240312T150500
 SUMMARY:wzbnim (w)
-LOCATION:aula/
+LOCATION:aula/ 135
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240312T160000
 DTEND:20240312T173500
 SUMMARY:DWiPD (ć)
-LOCATION:0.8/ 1
+LOCATION:0.8/ 16
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -329,14 +329,14 @@ BEGIN:VEVENT
 DTSTART:20240314T095000
 DTEND:20240314T112500
 SUMMARY:REG (ć)
-LOCATION:PL. MU
+LOCATION:PL. MUSZ.
 DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240314T114000
 DTEND:20240314T131500
 SUMMARY:MPH (ć)
-LOCATION:0.8/ 1
+LOCATION:0.8/ 16
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -350,7 +350,7 @@ BEGIN:VEVENT
 DTSTART:20240314T160000
 DTEND:20240314T173500
 SUMMARY:HP (w)
-LOCATION:aula/
+LOCATION:aula/ 135
 DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -378,7 +378,7 @@ BEGIN:VEVENT
 DTSTART:20240318T114000
 DTEND:20240318T131500
 SUMMARY:HNs (Inne)
-LOCATION:0.8/ 1
+LOCATION:0.8/ 16
 DESCRIPTION:Wsparcie wojsk sojuszniczych przez państwo-gospodarza (HNS) - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -399,7 +399,7 @@ BEGIN:VEVENT
 DTSTART:20240319T133000
 DTEND:20240319T150500
 SUMMARY:wzbnim (w)
-LOCATION:aula/
+LOCATION:aula/ 135
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -448,7 +448,7 @@ BEGIN:VEVENT
 DTSTART:20240321T095000
 DTEND:20240321T112500
 SUMMARY:REG (ć)
-LOCATION:PL. MU
+LOCATION:PL. MUSZ.
 DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -462,14 +462,14 @@ BEGIN:VEVENT
 DTSTART:20240321T160000
 DTEND:20240321T173500
 SUMMARY:HP (w)
-LOCATION:aula/
+LOCATION:aula/ 135
 DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240322T095000
 DTEND:20240322T112500
 SUMMARY:Dn (Inne)
-LOCATION:0.8/ 1
+LOCATION:0.8/ 16
 DESCRIPTION:Działania niekinetyczne - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -504,7 +504,7 @@ BEGIN:VEVENT
 DTSTART:20240325T175000
 DTEND:20240325T192500
 SUMMARY:Pwd (w)
-LOCATION:aula/
+LOCATION:aula/ 135
 DESCRIPTION:Przywództwo w dowodzeniu - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -532,14 +532,14 @@ BEGIN:VEVENT
 DTSTART:20240326T133000
 DTEND:20240326T150500
 SUMMARY:wzbnim (w)
-LOCATION:aula/
+LOCATION:aula/ 135
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240326T160000
 DTEND:20240326T173500
 SUMMARY:Pr.A (w)
-LOCATION:aula/
+LOCATION:aula/ 135
 DESCRIPTION:Profilaktyka antykorupcyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -574,7 +574,7 @@ BEGIN:VEVENT
 DTSTART:20240328T095000
 DTEND:20240328T112500
 SUMMARY:REG (ć)
-LOCATION:AW 3/0
+LOCATION:AW 3/043
 DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -833,7 +833,7 @@ BEGIN:VEVENT
 DTSTART:20240403T095000
 DTEND:20240403T112500
 SUMMARY:PoKoSt (w)
-LOCATION:0.8/ 1
+LOCATION:0.8/ 16
 DESCRIPTION:Podstawy Komunikacji Strategicznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -875,42 +875,42 @@ BEGIN:VEVENT
 DTSTART:20240404T160000
 DTEND:20240404T173500
 SUMMARY:Pwd (w)
-LOCATION:aula/
+LOCATION:aula/ 135
 DESCRIPTION:Przywództwo w dowodzeniu - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240405T080000
 DTEND:20240405T093500
 SUMMARY:Pwd (w)
-LOCATION:aula/
+LOCATION:aula/ 135
 DESCRIPTION:Przywództwo w dowodzeniu - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240405T095000
 DTEND:20240405T112500
 SUMMARY:Pwd (w)
-LOCATION:aula/
+LOCATION:aula/ 135
 DESCRIPTION:Przywództwo w dowodzeniu - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240408T080000
 DTEND:20240408T093500
 SUMMARY:DWiPD (w)
-LOCATION:aula/
+LOCATION:aula/ 135
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240408T095000
 DTEND:20240408T112500
 SUMMARY:Hsw (ć)
-LOCATION:0.8/ 1
+LOCATION:0.8/ 16
 DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240408T114000
 DTEND:20240408T131500
 SUMMARY:Pwd (ć)
-LOCATION:0.8/ 1
+LOCATION:0.8/ 16
 DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -924,14 +924,14 @@ BEGIN:VEVENT
 DTSTART:20240408T175000
 DTEND:20240408T192500
 SUMMARY:Pwd (w)
-LOCATION:aula/
+LOCATION:aula/ 135
 DESCRIPTION:Przywództwo w dowodzeniu - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240409T080000
 DTEND:20240409T093500
 SUMMARY:PoKoSt (w)
-LOCATION:0.28/
+LOCATION:0.28/ 135
 DESCRIPTION:Podstawy Komunikacji Strategicznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -952,14 +952,14 @@ BEGIN:VEVENT
 DTSTART:20240409T133000
 DTEND:20240409T150500
 SUMMARY:Pwd (ć)
-LOCATION:0.8/ 1
+LOCATION:0.8/ 16
 DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240409T160000
 DTEND:20240409T173500
 SUMMARY:wzbnim (w)
-LOCATION:aula/
+LOCATION:aula/ 135
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1022,21 +1022,21 @@ BEGIN:VEVENT
 DTSTART:20240415T080000
 DTEND:20240415T093500
 SUMMARY:PoKoSt (w)
-LOCATION:0.8/ 1
+LOCATION:0.8/ 16
 DESCRIPTION:Podstawy Komunikacji Strategicznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240415T095000
 DTEND:20240415T112500
 SUMMARY:Pwd (ć)
-LOCATION:0.8/ 1
+LOCATION:0.8/ 16
 DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240415T114000
 DTEND:20240415T131500
 SUMMARY:Hsw (ć)
-LOCATION:0.8/ 1
+LOCATION:0.8/ 16
 DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1050,7 +1050,7 @@ BEGIN:VEVENT
 DTSTART:20240416T080000
 DTEND:20240416T093500
 SUMMARY:DWiPD (ć)
-LOCATION:0.8/ 1
+LOCATION:0.8/ 16
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1141,7 +1141,7 @@ BEGIN:VEVENT
 DTSTART:20240423T114000
 DTEND:20240423T131500
 SUMMARY:Pr.A (ć)
-LOCATION:3.16/
+LOCATION:3.16/ 135
 DESCRIPTION:Profilaktyka antykorupcyjna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1449,21 +1449,21 @@ BEGIN:VEVENT
 DTSTART:20240513T095000
 DTEND:20240513T112500
 SUMMARY:HP (ć)
-LOCATION:1.10/
+LOCATION:1.10/ 16
 DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240513T114000
 DTEND:20240513T131500
 SUMMARY:Pwd (ć)
-LOCATION:0.19/
+LOCATION:0.19/ 135
 DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240513T133000
 DTEND:20240513T150500
 SUMMARY:PoKoSt (ć)
-LOCATION:0.28/
+LOCATION:0.28/ 135
 DESCRIPTION:Podstawy Komunikacji Strategicznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1533,7 +1533,7 @@ BEGIN:VEVENT
 DTSTART:20240516T160000
 DTEND:20240516T173500
 SUMMARY:Hsw (ć)
-LOCATION:0.8/ 1
+LOCATION:0.8/ 16
 DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1561,28 +1561,28 @@ BEGIN:VEVENT
 DTSTART:20240520T095000
 DTEND:20240520T112500
 SUMMARY:HP (ć)
-LOCATION:5.17/
+LOCATION:5.17/ 135
 DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240520T114000
 DTEND:20240520T131500
 SUMMARY:Hsw (ć)
-LOCATION:0.7/ 1
+LOCATION:0.7/ 16
 DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240520T133000
 DTEND:20240520T150500
 SUMMARY:Pwd (Inne)
-LOCATION:0.28/
+LOCATION:0.28/ 135
 DESCRIPTION:Przywództwo w dowodzeniu - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240521T114000
 DTEND:20240521T131500
 SUMMARY:MPH (ć)
-LOCATION:0.19/
+LOCATION:0.19/ 135
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1603,7 +1603,7 @@ BEGIN:VEVENT
 DTSTART:20240522T095000
 DTEND:20240522T112500
 SUMMARY:MPH (ć)
-LOCATION:0.28/
+LOCATION:0.28/ 135
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT

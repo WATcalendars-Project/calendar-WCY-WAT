@@ -14,7 +14,7 @@ BEGIN:VEVENT
 DTSTART:20240226T095000
 DTEND:20240226T112500
 SUMMARY:DSiSM (w)
-LOCATION:AW 3/0
+LOCATION:AW 3/043
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 DTSTART:20240227T133000
 DTEND:20240227T150500
 SUMMARY:Ja (ć)
-LOCATION:134 K
+LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -119,7 +119,7 @@ BEGIN:VEVENT
 DTSTART:20240301T114000
 DTEND:20240301T131500
 SUMMARY:Ja (ć)
-LOCATION:231 K
+LOCATION:231 K 230 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -147,7 +147,7 @@ BEGIN:VEVENT
 DTSTART:20240304T080000
 DTEND:20240304T093500
 SUMMARY:DSiSM (ć)
-LOCATION:ST.nr1
+LOCATION:ST.nr1.
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -210,7 +210,7 @@ BEGIN:VEVENT
 DTSTART:20240305T133000
 DTEND:20240305T150500
 SUMMARY:Ja (ć)
-LOCATION:134 K
+LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -259,7 +259,7 @@ BEGIN:VEVENT
 DTSTART:20240308T114000
 DTEND:20240308T131500
 SUMMARY:Ja (ć)
-LOCATION:231 K
+LOCATION:231 K 230 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -287,7 +287,7 @@ BEGIN:VEVENT
 DTSTART:20240311T080000
 DTEND:20240311T093500
 SUMMARY:REG (ć)
-LOCATION:PL. MU
+LOCATION:PL. MUSZ.
 DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -301,7 +301,7 @@ BEGIN:VEVENT
 DTSTART:20240311T114000
 DTEND:20240311T131500
 SUMMARY:DSiSM (ć)
-LOCATION:PL. MU
+LOCATION:PL. MUSZ.
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -329,7 +329,7 @@ BEGIN:VEVENT
 DTSTART:20240312T133000
 DTEND:20240312T150500
 SUMMARY:Ja (ć)
-LOCATION:134 K
+LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -385,7 +385,7 @@ BEGIN:VEVENT
 DTSTART:20240315T114000
 DTEND:20240315T131500
 SUMMARY:Ja (ć)
-LOCATION:231 K
+LOCATION:231 K 230 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -462,7 +462,7 @@ BEGIN:VEVENT
 DTSTART:20240319T133000
 DTEND:20240319T150500
 SUMMARY:Ja (ć)
-LOCATION:134 K
+LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -560,7 +560,7 @@ BEGIN:VEVENT
 DTSTART:20240322T114000
 DTEND:20240322T131500
 SUMMARY:Ja (ć)
-LOCATION:231 K
+LOCATION:231 K 230 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -644,7 +644,7 @@ BEGIN:VEVENT
 DTSTART:20240326T133000
 DTEND:20240326T150500
 SUMMARY:Ja (ć)
-LOCATION:134 K
+LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -777,7 +777,7 @@ BEGIN:VEVENT
 DTSTART:20240405T114000
 DTEND:20240405T131500
 SUMMARY:Ja (ć)
-LOCATION:231 K
+LOCATION:231 K 230 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -805,7 +805,7 @@ BEGIN:VEVENT
 DTSTART:20240408T080000
 DTEND:20240408T093500
 SUMMARY:DSiSM (ć)
-LOCATION:PL. MU
+LOCATION:PL. MUSZ.
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -868,7 +868,7 @@ BEGIN:VEVENT
 DTSTART:20240409T133000
 DTEND:20240409T150500
 SUMMARY:Ja (ć)
-LOCATION:134 K
+LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -910,7 +910,7 @@ BEGIN:VEVENT
 DTSTART:20240410T160000
 DTEND:20240410T173500
 SUMMARY:SzOR (Inne)
-LOCATION:on-lin
+LOCATION:on-line
 DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
@@ -966,7 +966,7 @@ BEGIN:VEVENT
 DTSTART:20240412T114000
 DTEND:20240412T131500
 SUMMARY:Ja (ć)
-LOCATION:231 K
+LOCATION:231 K 230 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1008,7 +1008,7 @@ BEGIN:VEVENT
 DTSTART:20240415T114000
 DTEND:20240415T131500
 SUMMARY:DSiSM (ć)
-LOCATION:BIBL /
+LOCATION:BIBL /22
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1057,7 +1057,7 @@ BEGIN:VEVENT
 DTSTART:20240416T133000
 DTEND:20240416T150500
 SUMMARY:Ja (ć)
-LOCATION:134 K
+LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1134,7 +1134,7 @@ BEGIN:VEVENT
 DTSTART:20240419T114000
 DTEND:20240419T131500
 SUMMARY:Ja (ć)
-LOCATION:231 K
+LOCATION:231 K 230 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1162,14 +1162,14 @@ BEGIN:VEVENT
 DTSTART:20240422T080000
 DTEND:20240422T093500
 SUMMARY:SzS (ć)
-LOCATION:ST.nr
+LOCATION:ST.nr 1
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240422T095000
 DTEND:20240422T112500
 SUMMARY:SzS (ć)
-LOCATION:ST.nr
+LOCATION:ST.nr 1
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1225,7 +1225,7 @@ BEGIN:VEVENT
 DTSTART:20240423T133000
 DTEND:20240423T150500
 SUMMARY:Ja (ć)
-LOCATION:134 K
+LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1309,21 +1309,21 @@ BEGIN:VEVENT
 DTSTART:20240429T080000
 DTEND:20240429T093500
 SUMMARY:SzS (ć)
-LOCATION:ŚNIE�
+LOCATION:ŚNIEŻNIK
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240429T095000
 DTEND:20240429T112500
 SUMMARY:SzS (ć)
-LOCATION:ŚNIE�
+LOCATION:ŚNIEŻNIK
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240429T114000
 DTEND:20240429T131500
 SUMMARY:GMiB (Inne)
-LOCATION:AW 3/0
+LOCATION:AW 3/043
 DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1372,14 +1372,14 @@ BEGIN:VEVENT
 DTSTART:20240430T133000
 DTEND:20240430T150500
 SUMMARY:Ja (ć)
-LOCATION:134 K
+LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240506T080000
 DTEND:20240506T093500
 SUMMARY:DSiSM (ć)
-LOCATION:ST.nr1
+LOCATION:ST.nr1.
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1435,7 +1435,7 @@ BEGIN:VEVENT
 DTSTART:20240507T133000
 DTEND:20240507T150500
 SUMMARY:Ja (ć)
-LOCATION:134 K
+LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1526,7 +1526,7 @@ BEGIN:VEVENT
 DTSTART:20240510T114000
 DTEND:20240510T131500
 SUMMARY:Ja (ć)
-LOCATION:231 K
+LOCATION:231 K 230 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1568,7 +1568,7 @@ BEGIN:VEVENT
 DTSTART:20240513T114000
 DTEND:20240513T131500
 SUMMARY:GMiB (w)
-LOCATION:AW 3/0
+LOCATION:AW 3/038
 DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1603,7 +1603,7 @@ BEGIN:VEVENT
 DTSTART:20240514T133000
 DTEND:20240514T150500
 SUMMARY:Ja (ć)
-LOCATION:134 K
+LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1701,7 +1701,7 @@ BEGIN:VEVENT
 DTSTART:20240517T114000
 DTEND:20240517T131500
 SUMMARY:Ja (ć)
-LOCATION:231 K
+LOCATION:231 K 230 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1764,14 +1764,14 @@ BEGIN:VEVENT
 DTSTART:20240520T095000
 DTEND:20240520T112500
 SUMMARY:SzS (ć)
-LOCATION:ST.nr
+LOCATION:ST.nr 1
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240520T114000
 DTEND:20240520T131500
 SUMMARY:SzS (ć)
-LOCATION:ST.nr
+LOCATION:ST.nr 1
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1820,7 +1820,7 @@ BEGIN:VEVENT
 DTSTART:20240521T133000
 DTEND:20240521T150500
 SUMMARY:Ja (ć)
-LOCATION:134 K
+LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1897,7 +1897,7 @@ BEGIN:VEVENT
 DTSTART:20240524T114000
 DTEND:20240524T131500
 SUMMARY:Ja (ć)
-LOCATION:231 K
+LOCATION:231 K 230 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1925,7 +1925,7 @@ BEGIN:VEVENT
 DTSTART:20240527T080000
 DTEND:20240527T093500
 SUMMARY:REG (ć)
-LOCATION:PL.MUS
+LOCATION:PL.MUSZ1
 DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1995,7 +1995,7 @@ BEGIN:VEVENT
 DTSTART:20240528T133000
 DTEND:20240528T150500
 SUMMARY:Ja (ć)
-LOCATION:134 K
+LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2107,7 +2107,7 @@ BEGIN:VEVENT
 DTSTART:20240604T133000
 DTEND:20240604T150500
 SUMMARY:Ja (ć)
-LOCATION:134 K
+LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 24/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2177,7 +2177,7 @@ BEGIN:VEVENT
 DTSTART:20240607T114000
 DTEND:20240607T131500
 SUMMARY:Ja (ć)
-LOCATION:231 K
+LOCATION:231 K 230 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2240,7 +2240,7 @@ BEGIN:VEVENT
 DTSTART:20240611T133000
 DTEND:20240611T150500
 SUMMARY:Ja (ć)
-LOCATION:134 K
+LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 26/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2338,14 +2338,14 @@ BEGIN:VEVENT
 DTSTART:20240614T095000
 DTEND:20240614T112500
 SUMMARY:DSiSM (ć)
-LOCATION:AW 3/0
+LOCATION:AW 3/043
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240614T114000
 DTEND:20240614T131500
 SUMMARY:Ja (ć)
-LOCATION:231 K
+LOCATION:231 K 230 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 27/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2373,7 +2373,7 @@ BEGIN:VEVENT
 DTSTART:20240617T080000
 DTEND:20240617T093500
 SUMMARY:GMiB (Inne)
-LOCATION:AW 3/0
+LOCATION:AW 3/038
 DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2394,7 +2394,7 @@ BEGIN:VEVENT
 DTSTART:20240617T160000
 DTEND:20240617T173500
 SUMMARY:REG (ć)
-LOCATION:PL.MUS
+LOCATION:PL.MUSZ1
 DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2436,14 +2436,14 @@ BEGIN:VEVENT
 DTSTART:20240618T133000
 DTEND:20240618T150500
 SUMMARY:Ja (ć)
-LOCATION:134 K
+LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240618T194000
 DTEND:20240618T211500
 SUMMARY:Ja (ć)
-LOCATION:231 K
+LOCATION:231 K 230 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 29/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2513,7 +2513,7 @@ BEGIN:VEVENT
 DTSTART:20240621T114000
 DTEND:20240621T131500
 SUMMARY:Ja (ć)
-LOCATION:231 K
+LOCATION:231 K 230 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 30/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2569,7 +2569,7 @@ BEGIN:VEVENT
 DTSTART:20240627T095000
 DTEND:20240627T112500
 SUMMARY:SoU (E)
-LOCATION:120 65
+LOCATION:120 65 121 65
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
@@ -2604,7 +2604,7 @@ BEGIN:VEVENT
 DTSTART:20240923T095000
 DTEND:20240923T112500
 SUMMARY:SoU (Inne)
-LOCATION:121 65
+LOCATION:121 65 120 65
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
@@ -3185,49 +3185,49 @@ BEGIN:VEVENT
 DTSTART:20241029T080000
 DTEND:20241029T093500
 SUMMARY:PODS.SUR. (ć)
-LOCATION:POLIGO
+LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241029T095000
 DTEND:20241029T112500
 SUMMARY:PODS.SUR. (ć)
-LOCATION:POLIGO
+LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241029T114000
 DTEND:20241029T131500
 SUMMARY:PODS.SUR. (ć)
-LOCATION:POLIGO
+LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241029T133000
 DTEND:20241029T150500
 SUMMARY:PODS.SUR. (ć)
-LOCATION:POLIGO
+LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241029T160000
 DTEND:20241029T173500
 SUMMARY:PODS.SUR. (ć)
-LOCATION:POLIGO
+LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241029T175000
 DTEND:20241029T192500
 SUMMARY:PODS.SUR. (ć)
-LOCATION:POLIGO
+LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241029T194000
 DTEND:20241029T211500
 SUMMARY:PODS.SUR. (ć)
-LOCATION:POLIGO
+LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -4186,14 +4186,14 @@ BEGIN:VEVENT
 DTSTART:20241217T080000
 DTEND:20241217T093500
 SUMMARY:SzS (ć)
-LOCATION:ST.nr
+LOCATION:ST.nr 1
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241217T095000
 DTEND:20241217T112500
 SUMMARY:SzS (ć)
-LOCATION:ST.nr
+LOCATION:ST.nr 1
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -4473,14 +4473,14 @@ BEGIN:VEVENT
 DTSTART:20250114T133000
 DTEND:20250114T150500
 SUMMARY:SzS (ć)
-LOCATION:ST.nr
+LOCATION:ST.nr 1
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250114T160000
 DTEND:20250114T173500
 SUMMARY:SzS (ć)
-LOCATION:ST.nr
+LOCATION:ST.nr 1
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -5068,7 +5068,7 @@ BEGIN:VEVENT
 DTSTART:20250221T160000
 DTEND:20250221T173500
 SUMMARY:Ps (Inne)
-LOCATION:218 65
+LOCATION:218 65 219 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć:  - \nNr zajęć: 2/3\nProwadzący: dr Lucjan Kowalski
 END:VEVENT
 BEGIN:VEVENT
@@ -5096,7 +5096,7 @@ BEGIN:VEVENT
 DTSTART:20250305T114000
 DTEND:20250305T131500
 SUMMARY:Ja (ć)
-LOCATION:120 K
+LOCATION:120 K 121 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 61/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -5138,7 +5138,7 @@ BEGIN:VEVENT
 DTSTART:20250307T114000
 DTEND:20250307T131500
 SUMMARY:Ja (ć)
-LOCATION:120 K
+LOCATION:120 K 121 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 62/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -5271,7 +5271,7 @@ BEGIN:VEVENT
 DTSTART:20250314T114000
 DTEND:20250314T131500
 SUMMARY:Ja (ć)
-LOCATION:120 K
+LOCATION:120 K 121 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 64/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -5387,27 +5387,6 @@ LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 66/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250321T133000
-DTEND:20250321T150500
-SUMMARY:Pwst (L)
-LOCATION:011 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący: dr Sławomir Machowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250321T160000
-DTEND:20250321T173500
-SUMMARY:Pwst (L)
-LOCATION:011 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/12\nProwadzący: dr Sławomir Machowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250321T175000
-DTEND:20250321T192500
-SUMMARY:Sa. (L)
-LOCATION:011 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Adrian Myśliwiec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250322T095000
 DTEND:20250322T112500
 SUMMARY:XWF (ć)
@@ -5454,14 +5433,14 @@ DTSTART:20250325T095000
 DTEND:20250325T112500
 SUMMARY:Pwst (L)
 LOCATION:011 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/12\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T114000
 DTEND:20250325T131500
 SUMMARY:Pwst (L)
 LOCATION:011 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/12\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T133000
@@ -5544,7 +5523,7 @@ BEGIN:VEVENT
 DTSTART:20250328T114000
 DTEND:20250328T131500
 SUMMARY:Ja (ć)
-LOCATION:120 K
+LOCATION:120 K 121 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 68/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -5558,14 +5537,14 @@ BEGIN:VEVENT
 DTSTART:20250328T160000
 DTEND:20250328T173500
 SUMMARY:Ja (ć)
-LOCATION:120 K
+LOCATION:120 K 121 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 69/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T175000
 DTEND:20250328T192500
 SUMMARY:Ja (ć)
-LOCATION:120 K
+LOCATION:120 K 121 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 70/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -5628,35 +5607,35 @@ BEGIN:VEVENT
 DTSTART:20250401T080000
 DTEND:20250401T093500
 SUMMARY:OPBMR (ć)
-LOCATION:Pol.Dr
+LOCATION:Pol.Drawsko
 DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T095000
 DTEND:20250401T112500
 SUMMARY:OPBMR (ć)
-LOCATION:Pol.Dr
+LOCATION:Pol.Drawsko
 DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T114000
 DTEND:20250401T131500
 SUMMARY:OPBMR (ć)
-LOCATION:Pol.Dr
+LOCATION:Pol.Drawsko
 DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T133000
 DTEND:20250401T150500
 SUMMARY:OPBMR (ć)
-LOCATION:Pol.Dr
+LOCATION:Pol.Drawsko
 DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T160000
 DTEND:20250401T173500
 SUMMARY:OPBMR (ć)
-LOCATION:Pol.Dr
+LOCATION:Pol.Drawsko
 DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -5699,7 +5678,7 @@ DTSTART:20250402T175000
 DTEND:20250402T192500
 SUMMARY:Sa. (L)
 LOCATION:121 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Adrian Myśliwiec
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T114000
@@ -5713,14 +5692,14 @@ DTSTART:20250403T133000
 DTEND:20250403T150500
 SUMMARY:Pwst (L)
 LOCATION:120 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/12\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T160000
 DTEND:20250403T173500
 SUMMARY:Pwst (L)
 LOCATION:120 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T080000
@@ -5740,7 +5719,7 @@ BEGIN:VEVENT
 DTSTART:20250404T114000
 DTEND:20250404T131500
 SUMMARY:Ja (ć)
-LOCATION:120 K
+LOCATION:120 K 121 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 72/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -5754,14 +5733,14 @@ BEGIN:VEVENT
 DTSTART:20250404T160000
 DTEND:20250404T173500
 SUMMARY:Ja (ć)
-LOCATION:120 K
+LOCATION:120 K 121 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 73/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T175000
 DTEND:20250404T192500
 SUMMARY:Ja (ć)
-LOCATION:120 K
+LOCATION:120 K 121 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 74/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -5814,6 +5793,13 @@ LOCATION:121 65
 DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/15\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250408T080000
+DTEND:20250408T093500
+SUMMARY:Sa. (L)
+LOCATION:121 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250408T095000
 DTEND:20250408T112500
 SUMMARY:Zt (P)
@@ -5839,14 +5825,14 @@ DTSTART:20250409T080000
 DTEND:20250409T093500
 SUMMARY:Pwst (L)
 LOCATION:237 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T095000
 DTEND:20250409T112500
 SUMMARY:Pwst (L)
 LOCATION:237 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T114000
@@ -5902,14 +5888,14 @@ DTSTART:20250410T133000
 DTEND:20250410T150500
 SUMMARY:Pwst (L)
 LOCATION:237 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T160000
 DTEND:20250410T173500
 SUMMARY:Pwst (L)
 LOCATION:237 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T080000
@@ -5982,6 +5968,20 @@ LOCATION:121 65
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250415T080000
+DTEND:20250415T093500
+SUMMARY:Pwst (L)
+LOCATION:237 S
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250415T095000
+DTEND:20250415T112500
+SUMMARY:Pwst (L)
+LOCATION:237 S
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250415T114000
 DTEND:20250415T131500
 SUMMARY:Dn (ć)
@@ -6013,7 +6013,7 @@ BEGIN:VEVENT
 DTSTART:20250416T114000
 DTEND:20250416T131500
 SUMMARY:Ja (ć)
-LOCATION:120 K
+LOCATION:120 K 121 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 77/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -6062,7 +6062,7 @@ BEGIN:VEVENT
 DTSTART:20250423T114000
 DTEND:20250423T131500
 SUMMARY:Ja (ć)
-LOCATION:120 K
+LOCATION:120 K 121 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 78/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -6181,7 +6181,7 @@ BEGIN:VEVENT
 DTSTART:20250430T114000
 DTEND:20250430T131500
 SUMMARY:Ja (ć)
-LOCATION:120 K
+LOCATION:120 K 121 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 79/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -6244,14 +6244,14 @@ BEGIN:VEVENT
 DTSTART:20250506T133000
 DTEND:20250506T150500
 SUMMARY:SzS (ć)
-LOCATION:ST.nr
+LOCATION:ST.nr 1
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T160000
 DTEND:20250506T173500
 SUMMARY:SzS (ć)
-LOCATION:ST.nr
+LOCATION:ST.nr 1
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -6531,7 +6531,7 @@ BEGIN:VEVENT
 DTSTART:20250521T114000
 DTEND:20250521T131500
 SUMMARY:Ja (ć)
-LOCATION:120 K
+LOCATION:120 K 121 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 84/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -6580,7 +6580,7 @@ BEGIN:VEVENT
 DTSTART:20250523T114000
 DTEND:20250523T131500
 SUMMARY:Ja (ć)
-LOCATION:120 K
+LOCATION:120 K 121 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 85/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -6706,7 +6706,7 @@ BEGIN:VEVENT
 DTSTART:20250530T114000
 DTEND:20250530T131500
 SUMMARY:Ja (ć)
-LOCATION:120 K
+LOCATION:120 K 121 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 87/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -6818,7 +6818,7 @@ BEGIN:VEVENT
 DTSTART:20250606T114000
 DTEND:20250606T131500
 SUMMARY:Ja (ć)
-LOCATION:120 K
+LOCATION:120 K 121 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 88/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -6846,105 +6846,105 @@ BEGIN:VEVENT
 DTSTART:20250609T080000
 DTEND:20250609T093500
 SUMMARY:ZaMe (ć)
-LOCATION:AW 5/0
+LOCATION:AW 5/016A AW
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T095000
 DTEND:20250609T112500
 SUMMARY:ZaMe (ć)
-LOCATION:AW 5/0
+LOCATION:AW 5/016A AW
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T114000
 DTEND:20250609T131500
 SUMMARY:ZaMe (ć)
-LOCATION:AW 5/0
+LOCATION:AW 5/016A AW
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T133000
 DTEND:20250609T150500
 SUMMARY:ZaMe (ć)
-LOCATION:AW 5/0
+LOCATION:AW 5/016A AW
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T160000
 DTEND:20250609T173500
 SUMMARY:ZaMe (ć)
-LOCATION:AW 5/0
+LOCATION:AW 5/016A AW
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T080000
 DTEND:20250610T093500
 SUMMARY:ZaMe (ć)
-LOCATION:AW 5/0
+LOCATION:AW 5/016A AW
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T095000
 DTEND:20250610T112500
 SUMMARY:ZaMe (ć)
-LOCATION:AW 5/0
+LOCATION:AW 5/016A AW
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T114000
 DTEND:20250610T131500
 SUMMARY:ZaMe (ć)
-LOCATION:AW 5/0
+LOCATION:AW 5/016A AW
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T133000
 DTEND:20250610T150500
 SUMMARY:ZaMe (ć)
-LOCATION:AW 5/0
+LOCATION:AW 5/016A AW
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T160000
 DTEND:20250610T173500
 SUMMARY:ZaMe (ć)
-LOCATION:AW 5/0
+LOCATION:AW 5/016A AW
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T095000
 DTEND:20250611T112500
 SUMMARY:ZaMe (ć)
-LOCATION:AW 5/0
+LOCATION:AW 5/016A AW
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T114000
 DTEND:20250611T131500
 SUMMARY:ZaMe (ć)
-LOCATION:AW 5/0
+LOCATION:AW 5/016A AW
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T133000
 DTEND:20250611T150500
 SUMMARY:ZaMe (ć)
-LOCATION:AW 5/0
+LOCATION:AW 5/016A AW
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T160000
 DTEND:20250611T173500
 SUMMARY:ZaMe (ć)
-LOCATION:AW 5/0
+LOCATION:AW 5/016A AW
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T175000
 DTEND:20250611T192500
 SUMMARY:ZaMe (ć)
-LOCATION:AW 5/0
+LOCATION:AW 5/016A AW
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -6993,7 +6993,7 @@ BEGIN:VEVENT
 DTSTART:20250613T114000
 DTEND:20250613T131500
 SUMMARY:Ja (ć)
-LOCATION:120 K
+LOCATION:120 K 121 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 89/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -7056,14 +7056,14 @@ BEGIN:VEVENT
 DTSTART:20250617T080000
 DTEND:20250617T093500
 SUMMARY:SzS (ć)
-LOCATION:ŚNIE�
+LOCATION:ŚNIEŻNIK
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T095000
 DTEND:20250617T112500
 SUMMARY:SzS (ć)
-LOCATION:ŚNIE�
+LOCATION:ŚNIEŻNIK
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT

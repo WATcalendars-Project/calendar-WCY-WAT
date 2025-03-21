@@ -7,7 +7,7 @@ BEGIN:VEVENT
 DTSTART:20240226T080000
 DTEND:20240226T093500
 SUMMARY:Sz.P (w)
-LOCATION:120/ 5
+LOCATION:120/ 54
 DESCRIPTION:Szybkie prototypowanie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 DTSTART:20240227T080000
 DTEND:20240227T093500
 SUMMARY:Ja (ć)
-LOCATION:238 K
+LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 DTSTART:20240228T160000
 DTEND:20240228T173500
 SUMMARY:JoM (ć)
-LOCATION:233 K
+LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 DTSTART:20240305T080000
 DTEND:20240305T093500
 SUMMARY:Ja (ć)
-LOCATION:238 K
+LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 DTSTART:20240306T160000
 DTEND:20240306T173500
 SUMMARY:JoM (ć)
-LOCATION:233 K
+LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -147,7 +147,7 @@ BEGIN:VEVENT
 DTSTART:20240312T080000
 DTEND:20240312T093500
 SUMMARY:Ja (ć)
-LOCATION:238 K
+LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -189,14 +189,14 @@ BEGIN:VEVENT
 DTSTART:20240313T160000
 DTEND:20240313T173500
 SUMMARY:JoM (ć)
-LOCATION:233 K
+LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240314T133000
 DTEND:20240314T150500
 SUMMARY:Sz.P (w)
-LOCATION:120/ 5
+LOCATION:120/ 54
 DESCRIPTION:Szybkie prototypowanie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -252,7 +252,7 @@ BEGIN:VEVENT
 DTSTART:20240319T080000
 DTEND:20240319T093500
 SUMMARY:Ja (ć)
-LOCATION:238 K
+LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -273,7 +273,7 @@ BEGIN:VEVENT
 DTSTART:20240319T133000
 DTEND:20240319T150500
 SUMMARY:Sz.P (L)
-LOCATION:6/ 62
+LOCATION:6/ 62 7/ 62
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -301,7 +301,7 @@ BEGIN:VEVENT
 DTSTART:20240320T160000
 DTEND:20240320T173500
 SUMMARY:JoM (ć)
-LOCATION:233 K
+LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -350,7 +350,7 @@ BEGIN:VEVENT
 DTSTART:20240326T080000
 DTEND:20240326T093500
 SUMMARY:Ja (ć)
-LOCATION:238 K
+LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -392,21 +392,21 @@ BEGIN:VEVENT
 DTSTART:20240327T114000
 DTEND:20240327T131500
 SUMMARY:Sz.P (L)
-LOCATION:6/ 62
+LOCATION:6/ 62 7/ 62
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240327T133000
 DTEND:20240327T150500
 SUMMARY:Sz.P (L)
-LOCATION:6/ 62
+LOCATION:6/ 62 7/ 62
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240327T160000
 DTEND:20240327T173500
 SUMMARY:JoM (ć)
-LOCATION:233 K
+LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -434,7 +434,7 @@ BEGIN:VEVENT
 DTSTART:20240328T160000
 DTEND:20240328T173500
 SUMMARY:Sz.P (L)
-LOCATION:6/ 62
+LOCATION:6/ 62 7/ 62
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -721,7 +721,7 @@ BEGIN:VEVENT
 DTSTART:20240403T160000
 DTEND:20240403T173500
 SUMMARY:JoM (ć)
-LOCATION:233 K
+LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -833,7 +833,7 @@ BEGIN:VEVENT
 DTSTART:20240409T080000
 DTEND:20240409T093500
 SUMMARY:Ja (ć)
-LOCATION:238 K
+LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -889,7 +889,7 @@ BEGIN:VEVENT
 DTSTART:20240410T160000
 DTEND:20240410T173500
 SUMMARY:JoM (ć)
-LOCATION:233 K
+LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -910,14 +910,14 @@ BEGIN:VEVENT
 DTSTART:20240411T114000
 DTEND:20240411T131500
 SUMMARY:Sz.P (L)
-LOCATION:6/ 62
+LOCATION:6/ 62 7/ 62
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240411T133000
 DTEND:20240411T150500
 SUMMARY:Sz.P (L)
-LOCATION:6/ 62
+LOCATION:6/ 62 7/ 62
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1001,7 +1001,7 @@ BEGIN:VEVENT
 DTSTART:20240416T080000
 DTEND:20240416T093500
 SUMMARY:Ja (ć)
-LOCATION:238 K
+LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1043,14 +1043,14 @@ BEGIN:VEVENT
 DTSTART:20240417T160000
 DTEND:20240417T173500
 SUMMARY:JoM (ć)
-LOCATION:233 K
+LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240418T080000
 DTEND:20240418T093500
 SUMMARY:Sz.P (L)
-LOCATION:6/ 62
+LOCATION:6/ 62 7/ 62
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1176,7 +1176,7 @@ BEGIN:VEVENT
 DTSTART:20240423T080000
 DTEND:20240423T093500
 SUMMARY:Ja (ć)
-LOCATION:238 K
+LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1225,7 +1225,7 @@ BEGIN:VEVENT
 DTSTART:20240424T160000
 DTEND:20240424T173500
 SUMMARY:JoM (ć)
-LOCATION:233 K
+LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1351,7 +1351,7 @@ BEGIN:VEVENT
 DTSTART:20240430T080000
 DTEND:20240430T093500
 SUMMARY:Ja (ć)
-LOCATION:238 K
+LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1533,7 +1533,7 @@ BEGIN:VEVENT
 DTSTART:20240507T080000
 DTEND:20240507T093500
 SUMMARY:Ja (ć)
-LOCATION:238 K
+LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1575,21 +1575,21 @@ BEGIN:VEVENT
 DTSTART:20240508T160000
 DTEND:20240508T173500
 SUMMARY:JoM (ć)
-LOCATION:233 K
+LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240509T080000
 DTEND:20240509T093500
 SUMMARY:Sz.P (L)
-LOCATION:9/ 54
+LOCATION:9/ 54 22/ 54
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240509T095000
 DTEND:20240509T112500
 SUMMARY:Sz.P (L)
-LOCATION:9/ 54
+LOCATION:9/ 54 22/ 54
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1701,7 +1701,7 @@ BEGIN:VEVENT
 DTSTART:20240514T080000
 DTEND:20240514T093500
 SUMMARY:Ja (ć)
-LOCATION:238 K
+LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1743,14 +1743,14 @@ BEGIN:VEVENT
 DTSTART:20240515T114000
 DTEND:20240515T131500
 SUMMARY:Sz.P (L)
-LOCATION:9/ 54
+LOCATION:9/ 54 120/ 54
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240515T160000
 DTEND:20240515T173500
 SUMMARY:JoM (ć)
-LOCATION:233 K
+LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1820,7 +1820,7 @@ BEGIN:VEVENT
 DTSTART:20240521T080000
 DTEND:20240521T093500
 SUMMARY:Ja (ć)
-LOCATION:238 K
+LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1862,7 +1862,7 @@ BEGIN:VEVENT
 DTSTART:20240522T160000
 DTEND:20240522T173500
 SUMMARY:JoM (ć)
-LOCATION:233 K
+LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1883,7 +1883,7 @@ BEGIN:VEVENT
 DTSTART:20240523T114000
 DTEND:20240523T131500
 SUMMARY:Sz.P (L)
-LOCATION:9/ 54
+LOCATION:9/ 54 120/ 54
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1960,21 +1960,21 @@ BEGIN:VEVENT
 DTSTART:20240527T133000
 DTEND:20240527T150500
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240527T160000
 DTEND:20240527T173500
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240528T080000
 DTEND:20240528T093500
 SUMMARY:Ja (ć)
-LOCATION:238 K
+LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1988,7 +1988,7 @@ BEGIN:VEVENT
 DTSTART:20240528T114000
 DTEND:20240528T131500
 SUMMARY:Sz.P (L)
-LOCATION:6/ 62
+LOCATION:6/ 62 7/ 62
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2002,21 +2002,21 @@ BEGIN:VEVENT
 DTSTART:20240529T080000
 DTEND:20240529T093500
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240529T095000
 DTEND:20240529T112500
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240529T160000
 DTEND:20240529T173500
 SUMMARY:JoM (ć)
-LOCATION:233 K
+LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2135,21 +2135,21 @@ BEGIN:VEVENT
 DTSTART:20240603T114000
 DTEND:20240603T131500
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240603T133000
 DTEND:20240603T150500
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240604T080000
 DTEND:20240604T093500
 SUMMARY:Ja (ć)
-LOCATION:238 K
+LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2163,21 +2163,21 @@ BEGIN:VEVENT
 DTSTART:20240605T160000
 DTEND:20240605T173500
 SUMMARY:JoM (ć)
-LOCATION:233 K
+LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240606T095000
 DTEND:20240606T112500
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240606T114000
 DTEND:20240606T131500
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2226,7 +2226,7 @@ BEGIN:VEVENT
 DTSTART:20240607T114000
 DTEND:20240607T131500
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2282,21 +2282,21 @@ BEGIN:VEVENT
 DTSTART:20240610T114000
 DTEND:20240610T131500
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240610T133000
 DTEND:20240610T150500
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240611T080000
 DTEND:20240611T093500
 SUMMARY:Ja (ć)
-LOCATION:238 K
+LOCATION:238 K 237 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2310,7 +2310,7 @@ BEGIN:VEVENT
 DTSTART:20240611T133000
 DTEND:20240611T150500
 SUMMARY:Sz.P (L)
-LOCATION:6/ 62
+LOCATION:6/ 62 7/ 62
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2338,21 +2338,21 @@ BEGIN:VEVENT
 DTSTART:20240612T160000
 DTEND:20240612T173500
 SUMMARY:JoM (ć)
-LOCATION:233 K
+LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240613T080000
 DTEND:20240613T093500
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240613T095000
 DTEND:20240613T112500
 SUMMARY:Wzr. (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2527,7 +2527,7 @@ BEGIN:VEVENT
 DTSTART:20240625T114000
 DTEND:20240625T131500
 SUMMARY:Wzr. (Inne)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Zaliczenie poprawkowe  lab.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2590,7 +2590,7 @@ BEGIN:VEVENT
 DTSTART:20240701T080000
 DTEND:20240701T093500
 SUMMARY:Sz.P (Inne)
-LOCATION:6/ 62
+LOCATION:6/ 62 7/ 62
 DESCRIPTION:Szybkie prototypowanie - (Zaliczenie poprawkowe  lab.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2681,7 +2681,7 @@ BEGIN:VEVENT
 DTSTART:20240917T095000
 DTEND:20240917T112500
 SUMMARY:Sz.P (Inne)
-LOCATION:120/ 5
+LOCATION:120/ 54
 DESCRIPTION:Szybkie prototypowanie - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2905,14 +2905,14 @@ BEGIN:VEVENT
 DTSTART:20241003T133000
 DTEND:20241003T150500
 SUMMARY:Wdmsr (w)
-LOCATION:.ONLIN
+LOCATION:.ONLINE
 DESCRIPTION:Wstęp do modelowania sprzętu rehabilitacyjnego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241003T160000
 DTEND:20241003T173500
 SUMMARY:Wdmsr (w)
-LOCATION:.ONLIN
+LOCATION:.ONLINE
 DESCRIPTION:Wstęp do modelowania sprzętu rehabilitacyjnego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2926,21 +2926,21 @@ BEGIN:VEVENT
 DTSTART:20241007T095000
 DTEND:20241007T112500
 SUMMARY:GwIB (w)
-LOCATION:116/ 5
+LOCATION:116/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241007T114000
 DTEND:20241007T131500
 SUMMARY:Par (w)
-LOCATION:15/ 23
+LOCATION:15/ 23a
 DESCRIPTION:Podstawy automatyki i robotyki - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241007T133000
 DTEND:20241007T150500
 SUMMARY:Par (w)
-LOCATION:15/ 23
+LOCATION:15/ 23a
 DESCRIPTION:Podstawy automatyki i robotyki - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2982,28 +2982,28 @@ BEGIN:VEVENT
 DTSTART:20241010T095000
 DTEND:20241010T112500
 SUMMARY:Wdmsr (w)
-LOCATION:.ONLIN
+LOCATION:.ONLINE
 DESCRIPTION:Wstęp do modelowania sprzętu rehabilitacyjnego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241010T114000
 DTEND:20241010T131500
 SUMMARY:Wdmsr (w)
-LOCATION:.ONLIN
+LOCATION:.ONLINE
 DESCRIPTION:Wstęp do modelowania sprzętu rehabilitacyjnego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241011T095000
 DTEND:20241011T112500
 SUMMARY:Wdmsr (w)
-LOCATION:.ONLIN
+LOCATION:.ONLINE
 DESCRIPTION:Wstęp do modelowania sprzętu rehabilitacyjnego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241011T114000
 DTEND:20241011T131500
 SUMMARY:Wdmsr (w)
-LOCATION:.ONLIN
+LOCATION:.ONLINE
 DESCRIPTION:Wstęp do modelowania sprzętu rehabilitacyjnego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -3017,14 +3017,14 @@ BEGIN:VEVENT
 DTSTART:20241014T114000
 DTEND:20241014T131500
 SUMMARY:Par (w)
-LOCATION:15/ 23
+LOCATION:15/ 23a
 DESCRIPTION:Podstawy automatyki i robotyki - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241014T133000
 DTEND:20241014T150500
 SUMMARY:Par (w)
-LOCATION:15/ 23
+LOCATION:15/ 23a
 DESCRIPTION:Podstawy automatyki i robotyki - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -3080,7 +3080,7 @@ BEGIN:VEVENT
 DTSTART:20241021T114000
 DTEND:20241021T131500
 SUMMARY:GwIB (w)
-LOCATION:116/ 5
+LOCATION:116/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -3136,21 +3136,21 @@ BEGIN:VEVENT
 DTSTART:20241025T095000
 DTEND:20241025T112500
 SUMMARY:Wdmsr (w)
-LOCATION:.ONLIN
+LOCATION:.ONLINE
 DESCRIPTION:Wstęp do modelowania sprzętu rehabilitacyjnego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241028T114000
 DTEND:20241028T131500
 SUMMARY:Par (w)
-LOCATION:15/ 23
+LOCATION:15/ 23a
 DESCRIPTION:Podstawy automatyki i robotyki - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241028T133000
 DTEND:20241028T150500
 SUMMARY:Par (w)
-LOCATION:15/ 23
+LOCATION:15/ 23a
 DESCRIPTION:Podstawy automatyki i robotyki - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -3388,21 +3388,21 @@ BEGIN:VEVENT
 DTSTART:20241104T095000
 DTEND:20241104T112500
 SUMMARY:GwIB (w)
-LOCATION:116/ 5
+LOCATION:116/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241104T114000
 DTEND:20241104T131500
 SUMMARY:Par (w)
-LOCATION:15/ 23
+LOCATION:15/ 23a
 DESCRIPTION:Podstawy automatyki i robotyki - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241104T133000
 DTEND:20241104T150500
 SUMMARY:Par (w)
-LOCATION:15/ 23
+LOCATION:15/ 23a
 DESCRIPTION:Podstawy automatyki i robotyki - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -3745,14 +3745,14 @@ BEGIN:VEVENT
 DTSTART:20241119T133000
 DTEND:20241119T150500
 SUMMARY:TMiM (ć)
-LOCATION:108/ 5
+LOCATION:108/ 54
 DESCRIPTION:Teoria maszyn i mechanizmów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241119T160000
 DTEND:20241119T173500
 SUMMARY:TMiM (ć)
-LOCATION:108/ 5
+LOCATION:108/ 54
 DESCRIPTION:Teoria maszyn i mechanizmów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -3878,14 +3878,14 @@ BEGIN:VEVENT
 DTSTART:20241125T114000
 DTEND:20241125T131500
 SUMMARY:Par (w)
-LOCATION:15/ 23
+LOCATION:15/ 23a
 DESCRIPTION:Podstawy automatyki i robotyki - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241125T133000
 DTEND:20241125T150500
 SUMMARY:Par (w)
-LOCATION:15/ 23
+LOCATION:15/ 23a
 DESCRIPTION:Podstawy automatyki i robotyki - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -4046,7 +4046,7 @@ BEGIN:VEVENT
 DTSTART:20241203T114000
 DTEND:20241203T131500
 SUMMARY:ArCz (w)
-LOCATION:116/ 5
+LOCATION:116/ 54
 DESCRIPTION:Analiza ruchu człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -4060,14 +4060,14 @@ BEGIN:VEVENT
 DTSTART:20241204T095000
 DTEND:20241204T112500
 SUMMARY:Tmf (L)
-LOCATION:7 54E
+LOCATION:7 54E 26 54E
 DESCRIPTION:Technika mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241204T114000
 DTEND:20241204T131500
 SUMMARY:Tmf (L)
-LOCATION:7 54E
+LOCATION:7 54E 26 54E
 DESCRIPTION:Technika mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -4088,14 +4088,14 @@ BEGIN:VEVENT
 DTSTART:20241205T095000
 DTEND:20241205T112500
 SUMMARY:TMiM (ć)
-LOCATION:108/ 5
+LOCATION:108/ 54
 DESCRIPTION:Teoria maszyn i mechanizmów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241205T114000
 DTEND:20241205T131500
 SUMMARY:TMiM (ć)
-LOCATION:108/ 5
+LOCATION:108/ 54
 DESCRIPTION:Teoria maszyn i mechanizmów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -4116,35 +4116,35 @@ BEGIN:VEVENT
 DTSTART:20241209T114000
 DTEND:20241209T131500
 SUMMARY:Par (w)
-LOCATION:15/ 23
+LOCATION:15/ 23a
 DESCRIPTION:Podstawy automatyki i robotyki - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 11/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241209T133000
 DTEND:20241209T150500
 SUMMARY:Par (w)
-LOCATION:15/ 23
+LOCATION:15/ 23a
 DESCRIPTION:Podstawy automatyki i robotyki - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 12/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241210T080000
 DTEND:20241210T093500
 SUMMARY:GwIB (L)
-LOCATION:28/ 54
+LOCATION:28/ 54 9/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241210T095000
 DTEND:20241210T112500
 SUMMARY:GwIB (L)
-LOCATION:28/ 54
+LOCATION:28/ 54 9/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241210T114000
 DTEND:20241210T131500
 SUMMARY:ArCz (w)
-LOCATION:116/ 5
+LOCATION:116/ 54
 DESCRIPTION:Analiza ruchu człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -4186,21 +4186,21 @@ BEGIN:VEVENT
 DTSTART:20241212T095000
 DTEND:20241212T112500
 SUMMARY:TMiM (ć)
-LOCATION:108/ 5
+LOCATION:108/ 54
 DESCRIPTION:Teoria maszyn i mechanizmów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241212T114000
 DTEND:20241212T131500
 SUMMARY:Tmf (L)
-LOCATION:7 54E
+LOCATION:7 54E 26 54E
 DESCRIPTION:Technika mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241212T133000
 DTEND:20241212T150500
 SUMMARY:Tmf (L)
-LOCATION:7 54E
+LOCATION:7 54E 26 54E
 DESCRIPTION:Technika mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -4305,7 +4305,7 @@ BEGIN:VEVENT
 DTSTART:20241219T114000
 DTEND:20241219T131500
 SUMMARY:TMiM (ć)
-LOCATION:108/ 5
+LOCATION:108/ 54
 DESCRIPTION:Teoria maszyn i mechanizmów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -5096,21 +5096,21 @@ BEGIN:VEVENT
 DTSTART:20250107T133000
 DTEND:20250107T150500
 SUMMARY:Tmf (L)
-LOCATION:7 54E
+LOCATION:7 54E 26 54E
 DESCRIPTION:Technika mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250107T160000
 DTEND:20250107T173500
 SUMMARY:Tmf (L)
-LOCATION:7 54E
+LOCATION:7 54E 26 54E
 DESCRIPTION:Technika mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T114000
 DTEND:20250108T131500
 SUMMARY:TMiM (ć)
-LOCATION:108/ 5
+LOCATION:108/ 54
 DESCRIPTION:Teoria maszyn i mechanizmów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -5173,14 +5173,14 @@ BEGIN:VEVENT
 DTSTART:20250110T114000
 DTEND:20250110T131500
 SUMMARY:Par (L)
-LOCATION:14/ 23
+LOCATION:14/ 23a 16/ 2
 DESCRIPTION:Podstawy automatyki i robotyki - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250110T133000
 DTEND:20250110T150500
 SUMMARY:Par (L)
-LOCATION:14/ 23
+LOCATION:14/ 23a 16/ 2
 DESCRIPTION:Podstawy automatyki i robotyki - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -5215,7 +5215,7 @@ BEGIN:VEVENT
 DTSTART:20250113T133000
 DTEND:20250113T150500
 SUMMARY:TMiM (ć)
-LOCATION:108/ 5
+LOCATION:108/ 54
 DESCRIPTION:Teoria maszyn i mechanizmów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -5264,14 +5264,14 @@ BEGIN:VEVENT
 DTSTART:20250117T095000
 DTEND:20250117T112500
 SUMMARY:Par (L)
-LOCATION:14/ 23
+LOCATION:14/ 23a 16/ 2
 DESCRIPTION:Podstawy automatyki i robotyki - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250117T114000
 DTEND:20250117T131500
 SUMMARY:Par (L)
-LOCATION:14/ 23
+LOCATION:14/ 23a 16/ 2
 DESCRIPTION:Podstawy automatyki i robotyki - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -5327,14 +5327,14 @@ BEGIN:VEVENT
 DTSTART:20250121T080000
 DTEND:20250121T093500
 SUMMARY:GwIB (L)
-LOCATION:9/ 54
+LOCATION:9/ 54 28/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250121T095000
 DTEND:20250121T112500
 SUMMARY:GwIB (L)
-LOCATION:9/ 54
+LOCATION:9/ 54 28/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -5362,14 +5362,14 @@ BEGIN:VEVENT
 DTSTART:20250122T114000
 DTEND:20250122T131500
 SUMMARY:Tmf (L)
-LOCATION:7 54E
+LOCATION:7 54E 26 54E
 DESCRIPTION:Technika mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250122T133000
 DTEND:20250122T150500
 SUMMARY:Tmf (L)
-LOCATION:7 54E
+LOCATION:7 54E 26 54E
 DESCRIPTION:Technika mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -5397,21 +5397,21 @@ BEGIN:VEVENT
 DTSTART:20250124T114000
 DTEND:20250124T131500
 SUMMARY:GwIB (L)
-LOCATION:28/ 54
+LOCATION:28/ 54 120/ 5
 DESCRIPTION:Grafika w inżynierii biomedycznej - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T133000
 DTEND:20250124T150500
 SUMMARY:GwIB (L)
-LOCATION:28/ 54
+LOCATION:28/ 54 120/ 5
 DESCRIPTION:Grafika w inżynierii biomedycznej - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250127T114000
 DTEND:20250127T131500
 SUMMARY:GwIB (w)
-LOCATION:116/ 5
+LOCATION:116/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -5425,7 +5425,7 @@ BEGIN:VEVENT
 DTSTART:20250203T080000
 DTEND:20250203T093500
 SUMMARY:GwIB (Inne)
-LOCATION:6/ 62
+LOCATION:6/ 62 7/ 62
 DESCRIPTION:Grafika w inżynierii biomedycznej - (Zp. Ćw) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -5439,7 +5439,7 @@ BEGIN:VEVENT
 DTSTART:20250203T114000
 DTEND:20250203T131500
 SUMMARY:TMiM (Inne)
-LOCATION:108/ 5
+LOCATION:108/ 54
 DESCRIPTION:Teoria maszyn i mechanizmów - (Zp. Ćw) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -5495,21 +5495,21 @@ BEGIN:VEVENT
 DTSTART:20250206T114000
 DTEND:20250206T131500
 SUMMARY:GwIB (Inne)
-LOCATION:9/ 54
+LOCATION:9/ 54 28/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej - (Zaliczenie poprawkowe  lab.) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250206T133000
 DTEND:20250206T150500
 SUMMARY:Tmf (Inne)
-LOCATION:7 54E
+LOCATION:7 54E 26 54E
 DESCRIPTION:Technika mikrofalowa - (Zaliczenie poprawkowe  lab.) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250207T095000
 DTEND:20250207T112500
 SUMMARY:Par (Inne)
-LOCATION:14/ 23
+LOCATION:14/ 23a 16/ 2
 DESCRIPTION:Podstawy automatyki i robotyki - (Zaliczenie poprawkowe  lab.) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -5530,14 +5530,14 @@ BEGIN:VEVENT
 DTSTART:20250210T080000
 DTEND:20250210T093500
 SUMMARY:GwIB (Inne)
-LOCATION:116/ 5
+LOCATION:116/ 54
 DESCRIPTION:Grafika w inżynierii biomedycznej - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250210T114000
 DTEND:20250210T131500
 SUMMARY:Par (Inne)
-LOCATION:15/ 23
+LOCATION:15/ 23a
 DESCRIPTION:Podstawy automatyki i robotyki - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -5901,14 +5901,14 @@ BEGIN:VEVENT
 DTSTART:20250317T114000
 DTEND:20250317T131500
 SUMMARY:SiSS (w)
-LOCATION:120/ 5
+LOCATION:120/ 54
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T133000
 DTEND:20250317T150500
 SUMMARY:SiSS (w)
-LOCATION:120/ 5
+LOCATION:120/ 54
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -6027,14 +6027,14 @@ BEGIN:VEVENT
 DTSTART:20250324T114000
 DTEND:20250324T131500
 SUMMARY:SiSS (w)
-LOCATION:120/ 5
+LOCATION:120/ 54
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T133000
 DTEND:20250324T150500
 SUMMARY:SiSS (w)
-LOCATION:120/ 5
+LOCATION:120/ 54
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -6083,7 +6083,7 @@ BEGIN:VEVENT
 DTSTART:20250326T133000
 DTEND:20250326T150500
 SUMMARY:SiSS (L)
-LOCATION:2.10/
+LOCATION:2.10/ 54A
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -6104,7 +6104,7 @@ BEGIN:VEVENT
 DTSTART:20250327T114000
 DTEND:20250327T131500
 SUMMARY:SiSS (L)
-LOCATION:2.10/
+LOCATION:2.10/ 54A
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -6174,14 +6174,14 @@ BEGIN:VEVENT
 DTSTART:20250331T114000
 DTEND:20250331T131500
 SUMMARY:SiSS (w)
-LOCATION:2.42/
+LOCATION:2.42/ 54A
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T133000
 DTEND:20250331T150500
 SUMMARY:SiSS (w)
-LOCATION:2.42/
+LOCATION:2.42/ 54A
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -6237,14 +6237,14 @@ BEGIN:VEVENT
 DTSTART:20250402T133000
 DTEND:20250402T150500
 SUMMARY:SiSS (L)
-LOCATION:2.10/
+LOCATION:2.10/ 54A
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T160000
 DTEND:20250402T173500
 SUMMARY:SiSS (L)
-LOCATION:2.10/
+LOCATION:2.10/ 54A
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -6265,14 +6265,14 @@ BEGIN:VEVENT
 DTSTART:20250403T114000
 DTEND:20250403T131500
 SUMMARY:SiSS (L)
-LOCATION:2.10/
+LOCATION:2.10/ 54A
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T133000
 DTEND:20250403T150500
 SUMMARY:SiSS (L)
-LOCATION:2.10/
+LOCATION:2.10/ 54A
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -6377,7 +6377,7 @@ BEGIN:VEVENT
 DTSTART:20250408T133000
 DTEND:20250408T150500
 SUMMARY:SiSS (w)
-LOCATION:120/ 5
+LOCATION:120/ 54
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -6412,14 +6412,14 @@ BEGIN:VEVENT
 DTSTART:20250409T133000
 DTEND:20250409T150500
 SUMMARY:SiSS (L)
-LOCATION:2.10/
+LOCATION:2.10/ 54A
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T160000
 DTEND:20250409T173500
 SUMMARY:SiSS (L)
-LOCATION:2.10/
+LOCATION:2.10/ 54A
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -6440,14 +6440,14 @@ BEGIN:VEVENT
 DTSTART:20250410T114000
 DTEND:20250410T131500
 SUMMARY:SiSS (L)
-LOCATION:2.10/
+LOCATION:2.10/ 54A
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T133000
 DTEND:20250410T150500
 SUMMARY:SiSS (L)
-LOCATION:2.10/
+LOCATION:2.10/ 54A
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -6566,14 +6566,14 @@ BEGIN:VEVENT
 DTSTART:20250416T114000
 DTEND:20250416T131500
 SUMMARY:SiSS (L)
-LOCATION:2.10/
+LOCATION:2.10/ 54A
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T133000
 DTEND:20250416T150500
 SUMMARY:SiSS (L)
-LOCATION:2.10/
+LOCATION:2.10/ 54A
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -6601,14 +6601,14 @@ BEGIN:VEVENT
 DTSTART:20250417T133000
 DTEND:20250417T150500
 SUMMARY:SiSS (L)
-LOCATION:2.10/
+LOCATION:2.10/ 54A
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T160000
 DTEND:20250417T173500
 SUMMARY:SiSS (L)
-LOCATION:2.10/
+LOCATION:2.10/ 54A
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -6881,7 +6881,7 @@ BEGIN:VEVENT
 DTSTART:20250423T133000
 DTEND:20250423T150500
 SUMMARY:SiSS (L)
-LOCATION:2.10/
+LOCATION:2.10/ 54A
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -6895,7 +6895,7 @@ BEGIN:VEVENT
 DTSTART:20250424T095000
 DTEND:20250424T112500
 SUMMARY:SiSS (L)
-LOCATION:2.10/
+LOCATION:2.10/ 54A
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -7763,14 +7763,14 @@ BEGIN:VEVENT
 DTSTART:20250603T114000
 DTEND:20250603T131500
 SUMMARY:BR (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Biomechanika rehabilitacyjna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T133000
 DTEND:20250603T150500
 SUMMARY:BR (L)
-LOCATION:57B/ 6
+LOCATION:57B/ 62
 DESCRIPTION:Biomechanika rehabilitacyjna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -8253,7 +8253,7 @@ BEGIN:VEVENT
 DTSTART:20250625T080000
 DTEND:20250625T093500
 SUMMARY:Bio.1 (Inne)
-LOCATION:53/ 62
+LOCATION:53/ 62 57/ 62
 DESCRIPTION:Biomechatronika 1 - (zaliczenie poprawkowe lab.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -8267,7 +8267,7 @@ BEGIN:VEVENT
 DTSTART:20250625T114000
 DTEND:20250625T131500
 SUMMARY:SiSS (Inne)
-LOCATION:2.10/
+LOCATION:2.10/ 54A
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (zaliczenie poprawkowe lab.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -8295,7 +8295,7 @@ BEGIN:VEVENT
 DTSTART:20250701T095000
 DTEND:20250701T112500
 SUMMARY:SiSS (Inne)
-LOCATION:120/ 5
+LOCATION:120/ 54
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
