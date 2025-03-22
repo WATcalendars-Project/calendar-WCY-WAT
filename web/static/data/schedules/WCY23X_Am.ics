@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//scheduleWCY//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:WCY23X*Am
+BEGIN:VEVENT
+DTSTART:20240317T133000
+DTEND:20240317T150500
+SUMMARY:Amt (w)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący:  Tomasz Żynda
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240317T160000
+DTEND:20240317T173500
+SUMMARY:Amt (w)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący:  Tomasz Żynda
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240406T095000
+DTEND:20240406T112500
+SUMMARY:Amt (w)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący:  Tomasz Żynda
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240406T114000
+DTEND:20240406T131500
+SUMMARY:Amt (w)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący:  Tomasz Żynda
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240406T133000
+DTEND:20240406T150500
+SUMMARY:Amt (ć)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/12\nProwadzący:  Tomasz Żynda
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240413T114000
+DTEND:20240413T131500
+SUMMARY:Amt (ć)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/12\nProwadzący:  Tomasz Żynda
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240413T133000
+DTEND:20240413T150500
+SUMMARY:Amt (ć)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/12\nProwadzący:  Tomasz Żynda
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240413T160000
+DTEND:20240413T173500
+SUMMARY:Amt (ć)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/12\nProwadzący:  Tomasz Żynda
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240421T160000
+DTEND:20240421T173500
+SUMMARY:Amt (w)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący:  Tomasz Żynda
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240421T175000
+DTEND:20240421T192500
+SUMMARY:Amt (w)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący:  Tomasz Żynda
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240511T160000
+DTEND:20240511T173500
+SUMMARY:Amt (ć)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/12\nProwadzący:  Tomasz Żynda
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240511T175000
+DTEND:20240511T192500
+SUMMARY:Amt (ć)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/12\nProwadzący:  Tomasz Żynda
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240518T114000
+DTEND:20240518T131500
+SUMMARY:Amt (w)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący:  Tomasz Żynda
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240518T133000
+DTEND:20240518T150500
+SUMMARY:Amt (w)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący:  Tomasz Żynda
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240518T160000
+DTEND:20240518T173500
+SUMMARY:Amt (ć)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/12\nProwadzący:  Tomasz Żynda
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240518T175000
+DTEND:20240518T192500
+SUMMARY:Amt (ć)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/12\nProwadzący:  Tomasz Żynda
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240525T095000
+DTEND:20240525T112500
+SUMMARY:Amt (w)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący:  Tomasz Żynda
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240525T114000
+DTEND:20240525T131500
+SUMMARY:Amt (w)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Tomasz Żynda
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240608T160000
+DTEND:20240608T173500
+SUMMARY:Amt (ć)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/12\nProwadzący:  Tomasz Żynda
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240608T175000
+DTEND:20240608T192500
+SUMMARY:Amt (ć)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/12\nProwadzący:  Tomasz Żynda
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240615T160000
+DTEND:20240615T173500
+SUMMARY:Amt (ć)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/12\nProwadzący:  Tomasz Żynda
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240615T175000
+DTEND:20240615T192500
+SUMMARY:Amt (ć)
+LOCATION:204 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/12\nProwadzący:  Tomasz Żynda
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240622T114000
+DTEND:20240622T131500
+SUMMARY:Amt (E)
+LOCATION:203 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Tomasz Żynda
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240706T095000
+DTEND:20240706T112500
+SUMMARY:Amt (Inne)
+LOCATION:203 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Tomasz Żynda
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240921T095000
+DTEND:20240921T112500
+SUMMARY:Amt (Inne)
+LOCATION:201 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Tomasz Żynda
+END:VEVENT
+END:VCALENDAR

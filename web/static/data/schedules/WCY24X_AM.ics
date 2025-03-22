@@ -1,0 +1,160 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//scheduleWCY//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:WCY24X*AM
+BEGIN:VEVENT
+DTSTART:20250322T095000
+DTEND:20250322T112500
+SUMMARY:XAmat (w)
+LOCATION:313 S
+DESCRIPTION:XAnaliza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250322T114000
+DTEND:20250322T131500
+SUMMARY:XAmat (w)
+LOCATION:313 S
+DESCRIPTION:XAnaliza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250323T080000
+DTEND:20250323T093500
+SUMMARY:XAmat (ć)
+LOCATION:313 S
+DESCRIPTION:XAnaliza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/12\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250323T095000
+DTEND:20250323T112500
+SUMMARY:XAmat (ć)
+LOCATION:313 S
+DESCRIPTION:XAnaliza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/12\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250329T095000
+DTEND:20250329T112500
+SUMMARY:XAmat (w)
+LOCATION:313 S
+DESCRIPTION:XAnaliza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250329T114000
+DTEND:20250329T131500
+SUMMARY:XAmat (w)
+LOCATION:313 S
+DESCRIPTION:XAnaliza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250405T080000
+DTEND:20250405T093500
+SUMMARY:XAmat (ć)
+LOCATION:313 S
+DESCRIPTION:XAnaliza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/12\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250405T095000
+DTEND:20250405T112500
+SUMMARY:XAmat (ć)
+LOCATION:313 S
+DESCRIPTION:XAnaliza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/12\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250426T080000
+DTEND:20250426T093500
+SUMMARY:XAmat (w)
+LOCATION:313 S
+DESCRIPTION:XAnaliza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250426T095000
+DTEND:20250426T112500
+SUMMARY:XAmat (w)
+LOCATION:313 S
+DESCRIPTION:XAnaliza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250427T080000
+DTEND:20250427T093500
+SUMMARY:XAmat (ć)
+LOCATION:313 S
+DESCRIPTION:XAnaliza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/12\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250427T095000
+DTEND:20250427T112500
+SUMMARY:XAmat (ć)
+LOCATION:313 S
+DESCRIPTION:XAnaliza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/12\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250531T095000
+DTEND:20250531T112500
+SUMMARY:XAmat (w)
+LOCATION:313 S
+DESCRIPTION:XAnaliza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250531T114000
+DTEND:20250531T131500
+SUMMARY:XAmat (w)
+LOCATION:313 S
+DESCRIPTION:XAnaliza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250607T133000
+DTEND:20250607T150500
+SUMMARY:XAmat (ć)
+LOCATION:313 S
+DESCRIPTION:XAnaliza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/12\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250607T160000
+DTEND:20250607T173500
+SUMMARY:XAmat (ć)
+LOCATION:313 S
+DESCRIPTION:XAnaliza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/12\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250608T095000
+DTEND:20250608T112500
+SUMMARY:XAmat (w)
+LOCATION:313 S
+DESCRIPTION:XAnaliza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250608T114000
+DTEND:20250608T131500
+SUMMARY:XAmat (w)
+LOCATION:313 S
+DESCRIPTION:XAnaliza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250614T095000
+DTEND:20250614T112500
+SUMMARY:XAmat (ć)
+LOCATION:313 S
+DESCRIPTION:XAnaliza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/12\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250614T114000
+DTEND:20250614T131500
+SUMMARY:XAmat (ć)
+LOCATION:313 S
+DESCRIPTION:XAnaliza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/12\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250615T095000
+DTEND:20250615T112500
+SUMMARY:XAmat (ć)
+LOCATION:313 S
+DESCRIPTION:XAnaliza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/12\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250615T114000
+DTEND:20250615T131500
+SUMMARY:XAmat (ć)
+LOCATION:313 S
+DESCRIPTION:XAnaliza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/12\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+END:VCALENDAR

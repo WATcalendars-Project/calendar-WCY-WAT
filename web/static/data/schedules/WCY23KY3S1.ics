@@ -4197,20 +4197,6 @@ LOCATION:078 S
 DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący:  Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250326T160000
-DTEND:20250326T173500
-SUMMARY:Wek (L)
-LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/16\nProwadzący:  Mateusz Leśniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250326T175000
-DTEND:20250326T192500
-SUMMARY:Wek (L)
-LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/16\nProwadzący:  Mateusz Leśniak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250327T080000
 DTEND:20250327T093500
 SUMMARY:Pnak (w)
@@ -4295,13 +4281,6 @@ LOCATION:121 65
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący:  Maciej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250401T095000
-DTEND:20250401T112500
-SUMMARY:Pk (w)
-LOCATION:307 S
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: mgr inż. Tomasz Kijko
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250401T114000
 DTEND:20250401T131500
 SUMMARY:Wek (w)
@@ -4330,18 +4309,18 @@ LOCATION:313 S
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250402T160000
-DTEND:20250402T173500
+DTSTART:20250402T095000
+DTEND:20250402T112500
 SUMMARY:Wek (L)
-LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/16\nProwadzący:  Mateusz Leśniak
+LOCATION:233 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/16\nProwadzący:  Mateusz Leśniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250402T175000
-DTEND:20250402T192500
+DTSTART:20250402T114000
+DTEND:20250402T131500
 SUMMARY:Wek (L)
-LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/16\nProwadzący:  Mateusz Leśniak
+LOCATION:233 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/16\nProwadzący:  Mateusz Leśniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T080000
@@ -4407,6 +4386,27 @@ LOCATION:317 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250407T114000
+DTEND:20250407T131500
+SUMMARY:Wek (L)
+LOCATION:233 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/16\nProwadzący:  Mateusz Leśniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250407T133000
+DTEND:20250407T150500
+SUMMARY:Wek (L)
+LOCATION:233 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/16\nProwadzący:  Mateusz Leśniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250408T080000
+DTEND:20250408T093500
+SUMMARY:Pk (w)
+LOCATION:313 S
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: mgr inż. Tomasz Kijko
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250408T095000
 DTEND:20250408T112500
 SUMMARY:Pk (w)
@@ -4461,20 +4461,6 @@ DTEND:20250409T150500
 SUMMARY:PO (ć)
 LOCATION:314 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: dr inż. Joanna Wiśniewska
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250409T160000
-DTEND:20250409T173500
-SUMMARY:Wek (L)
-LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/16\nProwadzący:  Mateusz Leśniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250409T175000
-DTEND:20250409T192500
-SUMMARY:Wek (L)
-LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/16\nProwadzący:  Mateusz Leśniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T080000
@@ -4666,20 +4652,6 @@ LOCATION:236 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/14\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250423T160000
-DTEND:20250423T173500
-SUMMARY:Wek (L)
-LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/16\nProwadzący:  Mateusz Leśniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250423T175000
-DTEND:20250423T192500
-SUMMARY:Wek (L)
-LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/16\nProwadzący:  Mateusz Leśniak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250424T080000
 DTEND:20250424T093500
 SUMMARY:IK (w)
@@ -4771,20 +4743,6 @@ LOCATION:09 65
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący:  Jozef Turczyn
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250430T160000
-DTEND:20250430T173500
-SUMMARY:Wek (L)
-LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/16\nProwadzący:  Mateusz Leśniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250430T175000
-DTEND:20250430T192500
-SUMMARY:Wek (L)
-LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/16\nProwadzący:  Mateusz Leśniak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250505T114000
 DTEND:20250505T131500
 SUMMARY:MM (ć)
@@ -4860,20 +4818,6 @@ DTEND:20250507T112500
 SUMMARY:IO (L)
 LOCATION:227 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/14\nProwadzący: mgr inż. Paweł Pieczonka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250507T160000
-DTEND:20250507T173500
-SUMMARY:Wek (L)
-LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/16\nProwadzący:  Mateusz Leśniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250507T175000
-DTEND:20250507T192500
-SUMMARY:Wek (L)
-LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/16\nProwadzący:  Mateusz Leśniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T095000
@@ -4953,18 +4897,18 @@ LOCATION:078 S
 DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący:  Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250514T160000
-DTEND:20250514T173500
+DTSTART:20250514T114000
+DTEND:20250514T131500
 SUMMARY:Wek (L)
-LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/16\nProwadzący:  Mateusz Leśniak
+LOCATION:239 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/16\nProwadzący:  Mateusz Leśniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250514T175000
-DTEND:20250514T192500
+DTSTART:20250514T133000
+DTEND:20250514T150500
 SUMMARY:Wek (L)
-LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/16\nProwadzący:  Mateusz Leśniak
+LOCATION:239 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/16\nProwadzący:  Mateusz Leśniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T095000
@@ -5023,6 +4967,20 @@ LOCATION:252 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250520T095000
+DTEND:20250520T112500
+SUMMARY:Wek (L)
+LOCATION:239 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/16\nProwadzący:  Mateusz Leśniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250520T114000
+DTEND:20250520T131500
+SUMMARY:Wek (L)
+LOCATION:239 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/16\nProwadzący:  Mateusz Leśniak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250520T133000
 DTEND:20250520T150500
 SUMMARY:Ja (ć)
@@ -5044,18 +5002,18 @@ LOCATION:078 S
 DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250521T160000
-DTEND:20250521T173500
+DTSTART:20250521T114000
+DTEND:20250521T131500
 SUMMARY:Wek (L)
-LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/16\nProwadzący:  Mateusz Leśniak
+LOCATION:236 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/16\nProwadzący:  Mateusz Leśniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250521T175000
-DTEND:20250521T192500
+DTSTART:20250521T133000
+DTEND:20250521T150500
 SUMMARY:Wek (L)
-LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/16\nProwadzący:  Mateusz Leśniak
+LOCATION:236 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/16\nProwadzący:  Mateusz Leśniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T095000
@@ -5084,6 +5042,20 @@ DTEND:20250522T173500
 SUMMARY:Etl (ć)
 LOCATION:308 S
 DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: dr Robert Dryło
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250526T080000
+DTEND:20250526T093500
+SUMMARY:Wek (L)
+LOCATION:236 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/16\nProwadzący:  Mateusz Leśniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250526T095000
+DTEND:20250526T112500
+SUMMARY:Wek (L)
+LOCATION:236 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/16\nProwadzący:  Mateusz Leśniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T133000
@@ -5212,6 +5184,20 @@ LOCATION:308 S
 DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250609T080000
+DTEND:20250609T093500
+SUMMARY:Wek (L)
+LOCATION:233 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/16\nProwadzący:  Mateusz Leśniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250609T095000
+DTEND:20250609T112500
+SUMMARY:Wek (L)
+LOCATION:233 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/16\nProwadzący:  Mateusz Leśniak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250610T133000
 DTEND:20250610T150500
 SUMMARY:Ja (ć)
@@ -5224,6 +5210,20 @@ DTEND:20250610T173500
 SUMMARY:JoM (ć)
 LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 44/45\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T114000
+DTEND:20250611T131500
+SUMMARY:Wek (L)
+LOCATION:233 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/16\nProwadzący:  Mateusz Leśniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T133000
+DTEND:20250611T150500
+SUMMARY:Wek (L)
+LOCATION:233 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/16\nProwadzący:  Mateusz Leśniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T160000

@@ -6654,13 +6654,6 @@ LOCATION:52/ 62
 DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 19/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250428T133000
-DTEND:20250428T150500
-SUMMARY:SsO (ć)
-LOCATION:13 71
-DESCRIPTION:Sensory i systemy optoelektroniczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250429T080000
 DTEND:20250429T093500
 SUMMARY:OPS (ć)
@@ -6715,6 +6708,13 @@ DTEND:20250430T150500
 SUMMARY:Cpd (ć)
 LOCATION:120 144
 DESCRIPTION:Cyfrowe przetwarzanie danych pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250430T160000
+DTEND:20250430T173500
+SUMMARY:SsO (ć)
+LOCATION:13 71
+DESCRIPTION:Sensory i systemy optoelektroniczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250501T080000
@@ -7067,13 +7067,6 @@ LOCATION:315 135 12 70
 DESCRIPTION:Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 82/122\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250513T080000
-DTEND:20250513T093500
-SUMMARY:SsO (ć)
-LOCATION:13 71
-DESCRIPTION:Sensory i systemy optoelektroniczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250513T095000
 DTEND:20250513T112500
 SUMMARY:Pla (Inne)
@@ -7239,7 +7232,7 @@ DTSTART:20250520T080000
 DTEND:20250520T093500
 SUMMARY:SsO (ć)
 LOCATION:13 71
-DESCRIPTION:Sensory i systemy optoelektroniczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: -
+DESCRIPTION:Sensory i systemy optoelektroniczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T095000
@@ -7396,13 +7389,6 @@ LOCATION:02 71 8 70
 DESCRIPTION:Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 98/122\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250527T080000
-DTEND:20250527T093500
-SUMMARY:SsO (ć)
-LOCATION:13 71
-DESCRIPTION:Sensory i systemy optoelektroniczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250527T095000
 DTEND:20250527T112500
 SUMMARY:Pla (Inne)
@@ -7436,6 +7422,13 @@ DTEND:20250528T150500
 SUMMARY:Cpd (L)
 LOCATION:120 144
 DESCRIPTION:Cyfrowe przetwarzanie danych pomiarowych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250528T160000
+DTEND:20250528T173500
+SUMMARY:SsO (ć)
+LOCATION:13 71
+DESCRIPTION:Sensory i systemy optoelektroniczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T080000
@@ -7547,7 +7540,7 @@ DTSTART:20250603T080000
 DTEND:20250603T093500
 SUMMARY:SsO (ć)
 LOCATION:13 71
-DESCRIPTION:Sensory i systemy optoelektroniczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: -
+DESCRIPTION:Sensory i systemy optoelektroniczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T095000
@@ -7723,6 +7716,13 @@ DTEND:20250609T173500
 SUMMARY:L4g. (L)
 LOCATION:9 70
 DESCRIPTION:Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 110/122\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T080000
+DTEND:20250610T093500
+SUMMARY:SsO (ć)
+LOCATION:13 71
+DESCRIPTION:Sensory i systemy optoelektroniczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T095000

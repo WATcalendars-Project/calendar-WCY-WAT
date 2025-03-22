@@ -6605,6 +6605,20 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 89/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250611T133000
+DTEND:20250611T150500
+SUMMARY:OPL (ć)
+LOCATION:PĆT1
+DESCRIPTION:Powszechna obrona przeciwlotnicza i obrona przeciwlotnicza - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T160000
+DTEND:20250611T173500
+SUMMARY:OPL (ć)
+LOCATION:PĆT1
+DESCRIPTION:Powszechna obrona przeciwlotnicza i obrona przeciwlotnicza - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250612T080000
 DTEND:20250612T093500
 SUMMARY:Zkst (L)
@@ -6631,20 +6645,6 @@ DTEND:20250612T150500
 SUMMARY:Po (L)
 LOCATION:228 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/16\nProwadzący: mgr inż. Tomasz Derski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250613T080000
-DTEND:20250613T093500
-SUMMARY:OPL (ć)
-LOCATION:PĆT1
-DESCRIPTION:Powszechna obrona przeciwlotnicza i obrona przeciwlotnicza - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250613T095000
-DTEND:20250613T112500
-SUMMARY:OPL (ć)
-LOCATION:PĆT1
-DESCRIPTION:Powszechna obrona przeciwlotnicza i obrona przeciwlotnicza - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T114000

@@ -1,0 +1,230 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//scheduleWCY//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:WCY24X*RP
+BEGIN:VEVENT
+DTSTART:20241012T080000
+DTEND:20241012T093500
+SUMMARY:Rp (w)
+LOCATION:203 65
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241012T095000
+DTEND:20241012T112500
+SUMMARY:Rp (w)
+LOCATION:203 65
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241019T133000
+DTEND:20241019T150500
+SUMMARY:Rp (w)
+LOCATION:203 65
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 3/9\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241019T160000
+DTEND:20241019T173500
+SUMMARY:Rp (w)
+LOCATION:203 65
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 4/9\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241109T114000
+DTEND:20241109T131500
+SUMMARY:Rp (w)
+LOCATION:203 65
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 5/9\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241109T160000
+DTEND:20241109T173500
+SUMMARY:Rp (w)
+LOCATION:203 65
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241109T175000
+DTEND:20241109T192500
+SUMMARY:Rp (L)
+LOCATION:219 65
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241110T080000
+DTEND:20241110T093500
+SUMMARY:Rp (w)
+LOCATION:203 65
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241110T095000
+DTEND:20241110T112500
+SUMMARY:Rp (w)
+LOCATION:203 65
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241110T114000
+DTEND:20241110T131500
+SUMMARY:Rp (L)
+LOCATION:219 65
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241123T175000
+DTEND:20241123T192500
+SUMMARY:Rp (ć)
+LOCATION:219 65
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241123T194000
+DTEND:20241123T211500
+SUMMARY:Rp (L)
+LOCATION:219 65
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250118T080000
+DTEND:20250118T093500
+SUMMARY:Rp (L)
+LOCATION:219 65
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250118T095000
+DTEND:20250118T112500
+SUMMARY:Rp (L)
+LOCATION:219 65
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250201T133000
+DTEND:20250201T150500
+SUMMARY:Rp (ć)
+LOCATION:219 65
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250201T160000
+DTEND:20250201T173500
+SUMMARY:Rp (w)
+LOCATION:219 65
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250322T080000
+DTEND:20250322T093500
+SUMMARY:XRp (w)
+LOCATION:219 65
+DESCRIPTION:XRachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący: dr Justyna Kurkowiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250322T095000
+DTEND:20250322T112500
+SUMMARY:XRp (w)
+LOCATION:219 65
+DESCRIPTION:XRachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący: dr Justyna Kurkowiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250322T114000
+DTEND:20250322T131500
+SUMMARY:XRp (ć)
+LOCATION:219 65
+DESCRIPTION:XRachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250329T080000
+DTEND:20250329T093500
+SUMMARY:XRp (w)
+LOCATION:219 65
+DESCRIPTION:XRachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 3/9\nProwadzący: dr Justyna Kurkowiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250329T095000
+DTEND:20250329T112500
+SUMMARY:XRp (w)
+LOCATION:219 65
+DESCRIPTION:XRachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 4/9\nProwadzący: dr Justyna Kurkowiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250329T114000
+DTEND:20250329T131500
+SUMMARY:XRp (ć)
+LOCATION:219 65
+DESCRIPTION:XRachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250405T080000
+DTEND:20250405T093500
+SUMMARY:XRp (w)
+LOCATION:219 65
+DESCRIPTION:XRachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 5/9\nProwadzący: dr Justyna Kurkowiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250405T095000
+DTEND:20250405T112500
+SUMMARY:XRp (w)
+LOCATION:219 65
+DESCRIPTION:XRachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący: dr Justyna Kurkowiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250405T114000
+DTEND:20250405T131500
+SUMMARY:XRp (ć)
+LOCATION:219 65
+DESCRIPTION:XRachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250412T080000
+DTEND:20250412T093500
+SUMMARY:XRp (w)
+LOCATION:219 65
+DESCRIPTION:XRachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący: dr Justyna Kurkowiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250412T095000
+DTEND:20250412T112500
+SUMMARY:XRp (ć)
+LOCATION:219 65
+DESCRIPTION:XRachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250412T114000
+DTEND:20250412T131500
+SUMMARY:XRp (ć)
+LOCATION:219 65
+DESCRIPTION:XRachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250426T080000
+DTEND:20250426T093500
+SUMMARY:XRp (w)
+LOCATION:219 65
+DESCRIPTION:XRachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący: dr Justyna Kurkowiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250426T095000
+DTEND:20250426T112500
+SUMMARY:XRp (ć)
+LOCATION:219 65
+DESCRIPTION:XRachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250426T114000
+DTEND:20250426T131500
+SUMMARY:XRp (ć)
+LOCATION:219 65
+DESCRIPTION:XRachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250510T080000
+DTEND:20250510T093500
+SUMMARY:XRp (w)
+LOCATION:219 65
+DESCRIPTION:XRachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący: dr Justyna Kurkowiak
+END:VEVENT
+END:VCALENDAR
