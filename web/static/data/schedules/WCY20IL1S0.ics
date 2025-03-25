@@ -4883,6 +4883,13 @@ LOCATION:-
 DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 7/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250402T114000
+DTEND:20250402T131500
+SUMMARY:ak (Inne)
+LOCATION:307 S
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250403T080000
 DTEND:20250403T093500
 SUMMARY:Egz.Of (E)

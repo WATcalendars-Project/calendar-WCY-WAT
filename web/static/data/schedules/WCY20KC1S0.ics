@@ -4973,4 +4973,11 @@ SUMMARY:Egz.Of (E)
 LOCATION:-
 DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 14/14\nProwadzący: -
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250408T114000
+DTEND:20250408T131500
+SUMMARY:Dtu (Inne)
+LOCATION:125 65
+DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
 END:VCALENDAR

@@ -5975,13 +5975,6 @@ LOCATION:120 65
 DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250403T114000
-DTEND:20250403T131500
-SUMMARY:dsk (L)
-LOCATION:011 65
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: mgr inż. Michał Melaniuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250403T133000
 DTEND:20250403T150500
 SUMMARY:ESI (L)
@@ -6078,6 +6071,13 @@ DTEND:20250408T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 70/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250408T095000
+DTEND:20250408T112500
+SUMMARY:dsk (L)
+LOCATION:125 65
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T114000

@@ -2699,6 +2699,13 @@ LOCATION:106 65
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: mgr inż. Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250331T160000
+DTEND:20250331T173500
+SUMMARY:Tpi (L)
+LOCATION:233 S
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250401T080000
 DTEND:20250401T093500
 SUMMARY:Tpi (w)
@@ -2949,13 +2956,6 @@ DTEND:20250410T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 41/60\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250410T160000
-DTEND:20250410T173500
-SUMMARY:Tpi (L)
-LOCATION:233 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T194000

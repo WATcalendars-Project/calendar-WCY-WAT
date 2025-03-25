@@ -5795,13 +5795,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T114000
 DTEND:20250311T131500
-SUMMARY:SzNiI (L)
-LOCATION:57/ 62
-DESCRIPTION:Sztuczne narządy i implanty - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/11\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250311T133000
-DTEND:20250311T150500
 SUMMARY:WeM (w)
 LOCATION:3/ 23a
 DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: -
@@ -5912,25 +5905,11 @@ LOCATION:120/ 54
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250318T095000
-DTEND:20250318T112500
-SUMMARY:URiPSR (w)
-LOCATION:9/ 62
-DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250318T114000
 DTEND:20250318T131500
 SUMMARY:SzNiI (L)
 LOCATION:57/ 62
-DESCRIPTION:Sztuczne narządy i implanty - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/11\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250318T133000
-DTEND:20250318T150500
-SUMMARY:WeM (w)
-LOCATION:2/ 23a
-DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: -
+DESCRIPTION:Sztuczne narządy i implanty - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T080000
@@ -5951,7 +5930,7 @@ DTSTART:20250319T114000
 DTEND:20250319T131500
 SUMMARY:SzNiI (L)
 LOCATION:57/ 62
-DESCRIPTION:Sztuczne narządy i implanty - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/11\nProwadzący: -
+DESCRIPTION:Sztuczne narządy i implanty - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T133000
@@ -6042,21 +6021,21 @@ DTSTART:20250325T095000
 DTEND:20250325T112500
 SUMMARY:URiPSR (w)
 LOCATION:9/ 62
-DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: -
+DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T114000
 DTEND:20250325T131500
 SUMMARY:SzNiI (L)
 LOCATION:57/ 62
-DESCRIPTION:Sztuczne narządy i implanty - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący: -
+DESCRIPTION:Sztuczne narządy i implanty - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T133000
 DTEND:20250325T150500
-SUMMARY:WeM (w)
-LOCATION:3/ 23a
-DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: -
+SUMMARY:SzNiI (L)
+LOCATION:57/ 62
+DESCRIPTION:Sztuczne narządy i implanty - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T080000
@@ -6168,7 +6147,7 @@ DTSTART:20250331T095000
 DTEND:20250331T112500
 SUMMARY:WeM (w)
 LOCATION:9/ 62
-DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: -
+DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T114000
@@ -6203,7 +6182,7 @@ DTSTART:20250401T114000
 DTEND:20250401T131500
 SUMMARY:URiPSR (w)
 LOCATION:54/ 62
-DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -
+DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T133000
@@ -6371,7 +6350,7 @@ DTSTART:20250408T114000
 DTEND:20250408T131500
 SUMMARY:WeM (w)
 LOCATION:29/ 54
-DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -
+DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T133000
@@ -6539,7 +6518,7 @@ DTSTART:20250415T114000
 DTEND:20250415T131500
 SUMMARY:WeM (w)
 LOCATION:2/ 23a
-DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -
+DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T133000
@@ -6973,7 +6952,7 @@ DTSTART:20250428T095000
 DTEND:20250428T112500
 SUMMARY:WeM (w)
 LOCATION:51/ 62
-DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -
+DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T114000
@@ -7002,6 +6981,13 @@ DTEND:20250429T112500
 SUMMARY:Wm (ć)
 LOCATION:54/ 62
 DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/26\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250429T114000
+DTEND:20250429T131500
+SUMMARY:WeM (w)
+LOCATION:8/ 62
+DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T133000
@@ -7037,6 +7023,20 @@ DTEND:20250430T112500
 SUMMARY:Bio.1 (L)
 LOCATION:53/ 62
 DESCRIPTION:Biomechatronika 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250430T114000
+DTEND:20250430T131500
+SUMMARY:URiPSR (w)
+LOCATION:54/ 62
+DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250430T133000
+DTEND:20250430T150500
+SUMMARY:WeM (w)
+LOCATION:54/ 62
+DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250501T080000
@@ -8318,13 +8318,6 @@ DTEND:20250915T131500
 SUMMARY:Mnisu1 (Inne)
 LOCATION:9/ 62
 DESCRIPTION:Metody numerycznego modelowania i symulacji urazów człowieka 1 - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250915T133000
-DTEND:20250915T150500
-SUMMARY:MrBr (Inne)
-LOCATION:29/ 54
-DESCRIPTION:Mechanika ruchu i bezpieczeństwo ruchu drogowego - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250917T095000

@@ -1488,20 +1488,6 @@ LOCATION:308 S
 DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250427T175000
-DTEND:20250427T192500
-SUMMARY:PZ (P)
-LOCATION:223 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 8/15\nProwadzący: dr inż. Wojciech Kulas
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250427T194000
-DTEND:20250427T211500
-SUMMARY:PZ (P)
-LOCATION:223 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 9/15\nProwadzący: dr inż. Wojciech Kulas
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250504T080000
 DTEND:20250504T093500
 SUMMARY:- (Inne)
@@ -1618,14 +1604,14 @@ DTSTART:20250511T175000
 DTEND:20250511T192500
 SUMMARY:PZ (P)
 LOCATION:226 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 10/15\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 8/15\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250511T194000
 DTEND:20250511T211500
 SUMMARY:PZ (P)
 LOCATION:226 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 11/15\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 9/15\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250517T080000
@@ -1786,14 +1772,14 @@ DTSTART:20250525T160000
 DTEND:20250525T173500
 SUMMARY:PZ (P)
 LOCATION:223 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 12/15\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 10/15\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250525T175000
 DTEND:20250525T192500
 SUMMARY:PZ (P)
 LOCATION:223 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 13/15\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 11/15\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250531T080000
@@ -2011,6 +1997,20 @@ DTEND:20250614T173500
 SUMMARY:TAI (L)
 LOCATION:228 S
 DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250614T175000
+DTEND:20250614T192500
+SUMMARY:PZ (P)
+LOCATION:226 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 12/15\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250614T194000
+DTEND:20250614T211500
+SUMMARY:PZ (P)
+LOCATION:226 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 13/15\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250615T133000
