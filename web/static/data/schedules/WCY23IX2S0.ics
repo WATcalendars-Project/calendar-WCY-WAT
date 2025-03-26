@@ -4845,7 +4845,7 @@ DTSTART:20250217T095000
 DTEND:20250217T112500
 SUMMARY:Aok (Inne)
 LOCATION:314 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/4\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/5\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250217T133000
@@ -4859,14 +4859,14 @@ DTSTART:20250217T160000
 DTEND:20250217T173500
 SUMMARY:Aok (Inne)
 LOCATION:125 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć:  - \nNr zajęć: 2/4\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć:  - \nNr zajęć: 2/5\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250217T175000
 DTEND:20250217T192500
 SUMMARY:Aok (Inne)
 LOCATION:125 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć:  - \nNr zajęć: 3/4\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć:  - \nNr zajęć: 3/5\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250218T114000
@@ -5125,14 +5125,14 @@ DTSTART:20250312T160000
 DTEND:20250312T173500
 SUMMARY:Aok (Inne)
 LOCATION:125 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć:  - \nNr zajęć: 4/4\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć:  - \nNr zajęć: 4/5\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T175000
 DTEND:20250312T192500
 SUMMARY:Aok (Inne)
 LOCATION:125 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć:  - \nNr zajęć: 5/4\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć:  - \nNr zajęć: 5/5\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T095000
@@ -5485,6 +5485,13 @@ LOCATION:085 S
 DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250328T175000
+DTEND:20250328T192500
+SUMMARY:Aok (Inne)
+LOCATION:125 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć:  - \nNr zajęć: 6/5\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250328T194000
 DTEND:20250328T211500
 SUMMARY:- (S.Sz.W.)
@@ -5504,13 +5511,6 @@ DTEND:20250331T112500
 SUMMARY:Ja (ć)
 LOCATION:235 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 69/90\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250331T114000
-DTEND:20250331T131500
-SUMMARY:SI (w)
-LOCATION:307 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T133000
@@ -5751,13 +5751,6 @@ LOCATION:011 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/13\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250409T095000
-DTEND:20250409T112500
-SUMMARY:SI (w)
-LOCATION:307 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250409T114000
 DTEND:20250409T131500
 SUMMARY:WF (ć)
@@ -5853,7 +5846,7 @@ DTSTART:20250414T114000
 DTEND:20250414T131500
 SUMMARY:SI (w)
 LOCATION:307 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T133000
@@ -6063,7 +6056,7 @@ DTSTART:20250428T114000
 DTEND:20250428T131500
 SUMMARY:SI (w)
 LOCATION:307 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T133000
@@ -6113,6 +6106,13 @@ DTEND:20250429T173500
 SUMMARY:Po (L)
 LOCATION:233 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/16\nProwadzący: mgr inż. Łukasz Matuszelański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250429T175000
+DTEND:20250429T192500
+SUMMARY:SI (w)
+LOCATION:313 S
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T080000
@@ -6302,6 +6302,13 @@ DTEND:20250509T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 76/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250509T160000
+DTEND:20250509T173500
+SUMMARY:SI (w)
+LOCATION:313 S
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T194000

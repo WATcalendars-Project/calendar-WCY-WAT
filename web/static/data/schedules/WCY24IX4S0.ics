@@ -2860,6 +2860,13 @@ LOCATION:085 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250328T095000
+DTEND:20250328T112500
+SUMMARY:F1 (ć)
+LOCATION:201 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250328T114000
 DTEND:20250328T131500
 SUMMARY:Pwd (ć)
@@ -2948,7 +2955,7 @@ DTSTART:20250402T080000
 DTEND:20250402T093500
 SUMMARY:F1 (ć)
 LOCATION:205 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/15\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T095000
@@ -3361,7 +3368,7 @@ DTSTART:20250423T080000
 DTEND:20250423T093500
 SUMMARY:F1 (ć)
 LOCATION:205 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/15\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T095000
@@ -3459,7 +3466,7 @@ DTSTART:20250428T114000
 DTEND:20250428T131500
 SUMMARY:F1 (ć)
 LOCATION:204 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/15\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T160000
@@ -3495,13 +3502,6 @@ DTEND:20250429T131500
 SUMMARY:Ja (ć)
 LOCATION:132 K 239 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 44/60\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250429T133000
-DTEND:20250429T150500
-SUMMARY:F1 (ć)
-LOCATION:204 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T080000

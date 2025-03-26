@@ -2206,7 +2206,7 @@ DTSTART:20250203T160000
 DTEND:20250203T173500
 SUMMARY:M II (Inne)
 LOCATION:204 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250204T080000
@@ -2276,7 +2276,7 @@ DTSTART:20250220T114000
 DTEND:20250220T131500
 SUMMARY:M II (Inne)
 LOCATION:316 S 317 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250221T080000
@@ -2713,13 +2713,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 37/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250324T114000
-DTEND:20250324T131500
-SUMMARY:F1 (ć)
-LOCATION:204 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250324T133000
 DTEND:20250324T150500
 SUMMARY:SŁiŚD (w)
@@ -2871,7 +2864,7 @@ DTSTART:20250328T114000
 DTEND:20250328T131500
 SUMMARY:F1 (ć)
 LOCATION:204 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/15\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T133000
@@ -3068,13 +3061,6 @@ DTEND:20250407T131500
 SUMMARY:ZaMe (ć)
 LOCATION:AW 4
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250407T133000
-DTEND:20250407T150500
-SUMMARY:F1 (ć)
-LOCATION:204 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T160000
@@ -3277,7 +3263,7 @@ DTSTART:20250415T080000
 DTEND:20250415T093500
 SUMMARY:F1 (ć)
 LOCATION:204 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/15\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T095000
@@ -3299,6 +3285,13 @@ DTEND:20250415T150500
 SUMMARY:Amt (ć)
 LOCATION:313 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/12\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250415T160000
+DTEND:20250415T173500
+SUMMARY:M II (Inne)
+LOCATION:252 S
+DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T095000
@@ -3375,7 +3368,7 @@ DTSTART:20250423T080000
 DTEND:20250423T093500
 SUMMARY:F1 (ć)
 LOCATION:204 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/15\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T095000
@@ -3494,7 +3487,7 @@ DTSTART:20250429T080000
 DTEND:20250429T093500
 SUMMARY:F1 (ć)
 LOCATION:204 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/15\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T095000
@@ -3571,7 +3564,7 @@ DTSTART:20250506T080000
 DTEND:20250506T093500
 SUMMARY:F1 (ć)
 LOCATION:204 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/15\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T095000
@@ -3739,7 +3732,7 @@ DTSTART:20250513T080000
 DTEND:20250513T093500
 SUMMARY:F1 (ć)
 LOCATION:204 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/15\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T095000
@@ -3775,6 +3768,13 @@ DTEND:20250514T131500
 SUMMARY:F1 (w)
 LOCATION:314 S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 14/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250514T133000
+DTEND:20250514T150500
+SUMMARY:F1 (ć)
+LOCATION:201 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T160000
@@ -3838,6 +3838,13 @@ DTEND:20250516T112500
 SUMMARY:F1 (w)
 LOCATION:aF S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 15/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250516T114000
+DTEND:20250516T131500
+SUMMARY:F1 (ć)
+LOCATION:120 45
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T133000

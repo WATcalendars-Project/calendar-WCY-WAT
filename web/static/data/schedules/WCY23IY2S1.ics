@@ -4365,17 +4365,10 @@ LOCATION:224 S
 DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Krzysztof Mierzejewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250331T114000
-DTEND:20250331T131500
-SUMMARY:SI (w)
-LOCATION:307 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250401T114000
-DTEND:20250401T131500
+DTSTART:20250331T095000
+DTEND:20250331T112500
 SUMMARY:Tik (ć)
-LOCATION:09 65
+LOCATION:120 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
@@ -4547,13 +4540,6 @@ LOCATION:313 S
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250409T095000
-DTEND:20250409T112500
-SUMMARY:SI (w)
-LOCATION:307 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250409T133000
 DTEND:20250409T150500
 SUMMARY:Wkr (w)
@@ -4663,7 +4649,7 @@ DTSTART:20250414T114000
 DTEND:20250414T131500
 SUMMARY:SI (w)
 LOCATION:307 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T133000
@@ -4831,7 +4817,7 @@ DTSTART:20250428T114000
 DTEND:20250428T131500
 SUMMARY:SI (w)
 LOCATION:307 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T080000
@@ -4860,6 +4846,13 @@ DTEND:20250429T173500
 SUMMARY:JoM (ć)
 LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 38/45\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250429T175000
+DTEND:20250429T192500
+SUMMARY:SI (w)
+LOCATION:313 S
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T080000
@@ -4965,6 +4958,13 @@ DTEND:20250509T150500
 SUMMARY:Pw (L)
 LOCATION:233 S
 DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Krzysztof Mierzejewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250509T160000
+DTEND:20250509T173500
+SUMMARY:SI (w)
+LOCATION:313 S
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T080000

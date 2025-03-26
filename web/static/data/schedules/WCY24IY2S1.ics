@@ -2125,6 +2125,13 @@ LOCATION:317 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/12\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250331T133000
+DTEND:20250331T150500
+SUMMARY:Tgs (ć)
+LOCATION:237 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250331T160000
 DTEND:20250331T173500
 SUMMARY:Mat I (Inne)
@@ -2284,13 +2291,6 @@ DTEND:20250407T131500
 SUMMARY:Md2 (w)
 LOCATION:317 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250407T160000
-DTEND:20250407T173500
-SUMMARY:Tgs (ć)
-LOCATION:308 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T175000

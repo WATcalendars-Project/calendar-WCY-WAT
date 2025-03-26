@@ -1943,6 +1943,13 @@ LOCATION:317 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250324T133000
+DTEND:20250324T150500
+SUMMARY:Tpi (ć)
+LOCATION:308 S
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250324T160000
 DTEND:20250324T173500
 SUMMARY:ppk (w)
@@ -2018,13 +2025,6 @@ DTEND:20250326T173500
 SUMMARY:Ja (ć)
 LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250326T175000
-DTEND:20250326T192500
-SUMMARY:Tpi (ć)
-LOCATION:307 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T080000
@@ -2118,6 +2118,20 @@ LOCATION:314 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250331T175000
+DTEND:20250331T192500
+SUMMARY:Tpi (ć)
+LOCATION:308 S
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250331T194000
+DTEND:20250331T211500
+SUMMARY:Tpi (L)
+LOCATION:223 S
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250401T095000
 DTEND:20250401T112500
 SUMMARY:Tpi (w)
@@ -2207,6 +2221,13 @@ DTEND:20250403T131500
 SUMMARY:Rp (L)
 LOCATION:219 65
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: dr Justyna Kurkowiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250403T133000
+DTEND:20250403T150500
+SUMMARY:Tgs (ć)
+LOCATION:101 65
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T160000
@@ -2335,20 +2356,6 @@ LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250409T175000
-DTEND:20250409T192500
-SUMMARY:Tpi (ć)
-LOCATION:307 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: mgr inż. Piotr Jakubowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250409T194000
-DTEND:20250409T211500
-SUMMARY:Tpi (L)
-LOCATION:223 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący: mgr inż. Piotr Jakubowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250410T080000
 DTEND:20250410T093500
 SUMMARY:Amt (w)
@@ -2375,13 +2382,6 @@ DTEND:20250410T173500
 SUMMARY:JoM (ć)
 LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250410T175000
-DTEND:20250410T192500
-SUMMARY:Tgs (ć)
-LOCATION:307 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T080000

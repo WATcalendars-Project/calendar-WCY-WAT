@@ -1229,13 +1229,6 @@ LOCATION:228 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250330T114000
-DTEND:20250330T131500
-SUMMARY:Jtp (L)
-LOCATION:228 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: mgr inż. Piotr Adamczyk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250330T133000
 DTEND:20250330T150500
 SUMMARY:PZ (P)
@@ -1541,14 +1534,14 @@ DTSTART:20250510T095000
 DTEND:20250510T112500
 SUMMARY:Jtp (L)
 LOCATION:233 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący: mgr inż. Piotr Adamczyk
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250510T114000
 DTEND:20250510T131500
 SUMMARY:Jtp (L)
 LOCATION:233 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący: mgr inż. Piotr Adamczyk
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250510T133000
@@ -1751,14 +1744,14 @@ DTSTART:20250525T080000
 DTEND:20250525T093500
 SUMMARY:Jtp (L)
 LOCATION:233 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący: mgr inż. Piotr Adamczyk
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250525T095000
 DTEND:20250525T112500
 SUMMARY:Jtp (L)
 LOCATION:233 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący: mgr inż. Piotr Adamczyk
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250525T114000
@@ -1983,6 +1976,13 @@ DTEND:20250614T112500
 SUMMARY:SQL (w)
 LOCATION:308 S
 DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250614T114000
+DTEND:20250614T131500
+SUMMARY:Jtp (L)
+LOCATION:228 S
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T133000
