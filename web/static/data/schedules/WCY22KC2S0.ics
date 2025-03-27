@@ -368,13 +368,6 @@ LOCATION:313 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250319T080000
-DTEND:20250319T093500
-SUMMARY:PKSt (ć)
-LOCATION:203 65
-DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250319T095000
 DTEND:20250319T112500
 SUMMARY:Swb (w)
@@ -414,7 +407,7 @@ DTSTART:20250320T133000
 DTEND:20250320T150500
 SUMMARY:PKSt (ć)
 LOCATION:201 65
-DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: -
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T160000
@@ -582,7 +575,7 @@ DTSTART:20250327T133000
 DTEND:20250327T150500
 SUMMARY:PKSt (ć)
 LOCATION:201 65
-DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: -
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T160000
@@ -709,6 +702,13 @@ DTEND:20250401T192500
 SUMMARY:Asie (L)
 LOCATION:106 65
 DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/14\nProwadzący:  Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250402T080000
+DTEND:20250402T093500
+SUMMARY:PKSt (ć)
+LOCATION:8/ 62
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T095000

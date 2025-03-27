@@ -1033,13 +1033,6 @@ LOCATION:224 S
 DESCRIPTION:Business modelling in UML\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250331T133000
-DTEND:20250331T150500
-SUMMARY:Miob (w)
-LOCATION:224 S
-DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250401T080000
 DTEND:20250401T093500
 SUMMARY:Miob (L)
@@ -1096,13 +1089,6 @@ LOCATION:224 S
 DESCRIPTION:Business modelling in UML\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250407T133000
-DTEND:20250407T150500
-SUMMARY:Miob (w)
-LOCATION:224 S
-DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250408T080000
 DTEND:20250408T093500
 SUMMARY:Miob (L)
@@ -1142,7 +1128,14 @@ DTSTART:20250414T133000
 DTEND:20250414T150500
 SUMMARY:Miob (w)
 LOCATION:223 S
-DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250414T160000
+DTEND:20250414T173500
+SUMMARY:Miob (w)
+LOCATION:227 S
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T080000
@@ -1192,5 +1185,12 @@ DTEND:20250416T112500
 SUMMARY:Assp (L)
 LOCATION:224 S
 DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250416T114000
+DTEND:20250416T131500
+SUMMARY:Miob (w)
+LOCATION:226 S
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 END:VCALENDAR

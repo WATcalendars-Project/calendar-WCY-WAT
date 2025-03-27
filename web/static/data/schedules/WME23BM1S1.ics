@@ -627,13 +627,6 @@ LOCATION:108 80
 DESCRIPTION:Podstawy przetwarzania sygnałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250327T095000
-DTEND:20250327T112500
-SUMMARY:Ebe (w)
-LOCATION:6/ 23a
-DESCRIPTION:English in biomedical engineering - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250327T114000
 DTEND:20250327T131500
 SUMMARY:Wdmu (w)
@@ -757,7 +750,7 @@ DTSTART:20250401T095000
 DTEND:20250401T112500
 SUMMARY:Ebe (w)
 LOCATION:6/ 23a
-DESCRIPTION:English in biomedical engineering - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/15\nProwadzący: -
+DESCRIPTION:English in biomedical engineering - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T080000
@@ -799,7 +792,7 @@ DTSTART:20250403T095000
 DTEND:20250403T112500
 SUMMARY:Ebe (w)
 LOCATION:6/ 23a
-DESCRIPTION:English in biomedical engineering - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/15\nProwadzący: -
+DESCRIPTION:English in biomedical engineering - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T080000
@@ -925,7 +918,7 @@ DTSTART:20250408T095000
 DTEND:20250408T112500
 SUMMARY:Ebe (w)
 LOCATION:6/ 23a
-DESCRIPTION:English in biomedical engineering - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący: -
+DESCRIPTION:English in biomedical engineering - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T114000
@@ -1129,6 +1122,13 @@ DTEND:20250415T112500
 SUMMARY:Sz.P (L)
 LOCATION:6/ 62 7/ 62
 DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250415T114000
+DTEND:20250415T131500
+SUMMARY:Ebe (w)
+LOCATION:6/ 23a
+DESCRIPTION:English in biomedical engineering - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T080000

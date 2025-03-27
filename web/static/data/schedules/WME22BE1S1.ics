@@ -5436,20 +5436,6 @@ LOCATION:315b S
 DESCRIPTION:Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250325T114000
-DTEND:20250325T131500
-SUMMARY:PrSt (L)
-LOCATION:116 61
-DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250325T133000
-DTEND:20250325T150500
-SUMMARY:PrSt (L)
-LOCATION:116 61
-DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250326T080000
 DTEND:20250326T093500
 SUMMARY:Wm (w)
@@ -5630,6 +5616,20 @@ DTEND:20250402T131500
 SUMMARY:PRo (w)
 LOCATION:315b S
 DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250402T133000
+DTEND:20250402T150500
+SUMMARY:PrSt (L)
+LOCATION:116 61
+DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250402T160000
+DTEND:20250402T173500
+SUMMARY:PrSt (L)
+LOCATION:116 61
+DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T080000
@@ -6416,20 +6416,6 @@ LOCATION:3 54E
 DESCRIPTION:Termografia mikrofalowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250430T114000
-DTEND:20250430T131500
-SUMMARY:SsO (L)
-LOCATION:9 70 12 70 1
-DESCRIPTION:Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250430T133000
-DTEND:20250430T150500
-SUMMARY:SsO (L)
-LOCATION:9 70 12 70 1
-DESCRIPTION:Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250501T080000
 DTEND:20250501T093500
 SUMMARY:- (Inne)
@@ -6773,6 +6759,20 @@ LOCATION:313 S
 DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 8/11\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250512T080000
+DTEND:20250512T093500
+SUMMARY:SsO (L)
+LOCATION:26 136 10 70
+DESCRIPTION:Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250512T095000
+DTEND:20250512T112500
+SUMMARY:SsO (L)
+LOCATION:26 136 10 70
+DESCRIPTION:Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250513T095000
 DTEND:20250513T112500
 SUMMARY:Eam (ć)
@@ -6937,14 +6937,14 @@ BEGIN:VEVENT
 DTSTART:20250522T080000
 DTEND:20250522T093500
 SUMMARY:SsO (L)
-LOCATION:9 70 12 70 1
+LOCATION:26 136 10 70
 DESCRIPTION:Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T095000
 DTEND:20250522T112500
 SUMMARY:SsO (L)
-LOCATION:9 70 12 70 1
+LOCATION:26 136 10 70
 DESCRIPTION:Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -7427,14 +7427,14 @@ BEGIN:VEVENT
 DTSTART:20250617T080000
 DTEND:20250617T093500
 SUMMARY:SsO (L)
-LOCATION:9 70 12 70 1
+LOCATION:26 136 10 70
 DESCRIPTION:Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T095000
 DTEND:20250617T112500
 SUMMARY:SsO (L)
-LOCATION:9 70 12 70 1
+LOCATION:26 136 10 70
 DESCRIPTION:Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -7529,6 +7529,13 @@ LOCATION:315a S
 DESCRIPTION:Technika analogowa - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250916T160000
+DTEND:20250916T173500
+SUMMARY:TeMi (Inne)
+LOCATION:3 54E
+DESCRIPTION:Termografia mikrofalowa - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250917T114000
 DTEND:20250917T131500
 SUMMARY:Piab (Inne)
@@ -7557,17 +7564,10 @@ LOCATION:116 61
 DESCRIPTION:Programowanie strukturalne - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250919T095000
-DTEND:20250919T112500
+DTSTART:20250918T133000
+DTEND:20250918T150500
 SUMMARY:TC (Inne)
 LOCATION:117 45
 DESCRIPTION:Technika cyfrowa - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250919T114000
-DTEND:20250919T131500
-SUMMARY:TeMi (Inne)
-LOCATION:3 54E
-DESCRIPTION:Termografia mikrofalowa - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

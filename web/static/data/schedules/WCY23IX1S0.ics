@@ -5506,13 +5506,6 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 69/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250331T114000
-DTEND:20250331T131500
-SUMMARY:SI (w)
-LOCATION:307 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250331T133000
 DTEND:20250331T150500
 SUMMARY:DWiPD (ć)
@@ -5730,13 +5723,6 @@ LOCATION:223 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/16\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250409T095000
-DTEND:20250409T112500
-SUMMARY:SI (w)
-LOCATION:307 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250409T114000
 DTEND:20250409T131500
 SUMMARY:WF (ć)
@@ -5853,7 +5839,7 @@ DTSTART:20250414T114000
 DTEND:20250414T131500
 SUMMARY:SI (w)
 LOCATION:307 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T133000
@@ -6063,7 +6049,7 @@ DTSTART:20250428T114000
 DTEND:20250428T131500
 SUMMARY:SI (w)
 LOCATION:307 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T133000
@@ -6120,6 +6106,13 @@ DTEND:20250429T173500
 SUMMARY:Bd (ć)
 LOCATION:313 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250429T175000
+DTEND:20250429T192500
+SUMMARY:SI (w)
+LOCATION:313 S
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T095000
@@ -6295,6 +6288,13 @@ DTEND:20250509T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 76/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250509T160000
+DTEND:20250509T173500
+SUMMARY:SI (w)
+LOCATION:313 S
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T194000

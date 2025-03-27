@@ -1947,7 +1947,7 @@ DTSTART:20250120T095000
 DTEND:20250120T112500
 SUMMARY:MD1 (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 1/4\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 1/6\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T133000
@@ -2248,14 +2248,14 @@ DTSTART:20250218T080000
 DTEND:20250218T093500
 SUMMARY:MD1 (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 2/4\nProwadzący: dr inż. Elżbieta Burek
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 2/6\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250218T095000
 DTEND:20250218T112500
 SUMMARY:MD1 (Inne)
 LOCATION:085 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 3/4\nProwadzący: dr inż. Elżbieta Burek
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 3/6\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250218T160000
@@ -2283,7 +2283,7 @@ DTSTART:20250221T080000
 DTEND:20250221T093500
 SUMMARY:MD1 (Inne)
 LOCATION:316 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 4/4\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 4/6\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T095000
@@ -2689,14 +2689,14 @@ DTSTART:20250321T160000
 DTEND:20250321T173500
 SUMMARY:MD1 (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 5/4\nProwadzący: dr inż. Elżbieta Burek
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 5/6\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T175000
 DTEND:20250321T192500
 SUMMARY:MD1 (Inne)
 LOCATION:078 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 6/4\nProwadzący: dr inż. Elżbieta Burek
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 6/6\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T080000
@@ -2886,6 +2886,20 @@ DTEND:20250328T173500
 SUMMARY:F1 (w)
 LOCATION:aF S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250328T175000
+DTEND:20250328T192500
+SUMMARY:MD1 (Inne)
+LOCATION:085 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 7/6\nProwadzący: dr inż. Elżbieta Burek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250328T194000
+DTEND:20250328T211500
+SUMMARY:MD1 (Inne)
+LOCATION:316 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 8/6\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T080000
@@ -3151,7 +3165,7 @@ DTSTART:20250409T175000
 DTEND:20250409T192500
 SUMMARY:MD1 (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 7/4\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 9/6\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T080000
@@ -3749,13 +3763,6 @@ LOCATION:314 S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 14/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250514T133000
-DTEND:20250514T150500
-SUMMARY:F1 (ć)
-LOCATION:204 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250514T160000
 DTEND:20250514T173500
 SUMMARY:WdP (L)
@@ -3826,6 +3833,13 @@ LOCATION:aF S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 15/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250516T114000
+DTEND:20250516T131500
+SUMMARY:F1 (ć)
+LOCATION:9/ 62
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250516T133000
 DTEND:20250516T150500
 SUMMARY:Ja (ć)
@@ -3875,18 +3889,18 @@ LOCATION:078 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250521T095000
+DTEND:20250521T112500
+SUMMARY:F1 (ć)
+LOCATION:120 45
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250521T114000
 DTEND:20250521T131500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 51/60\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250521T133000
-DTEND:20250521T150500
-SUMMARY:F1 (ć)
-LOCATION:204 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T160000
@@ -4050,13 +4064,6 @@ LOCATION:314 S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 16/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250528T133000
-DTEND:20250528T150500
-SUMMARY:F1 (ć)
-LOCATION:204 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250528T160000
 DTEND:20250528T173500
 SUMMARY:WdP (L)
@@ -4166,7 +4173,7 @@ DTSTART:20250602T080000
 DTEND:20250602T093500
 SUMMARY:F1 (ć)
 LOCATION:204 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T095000
@@ -4286,6 +4293,13 @@ DTEND:20250606T112500
 SUMMARY:Rp (w)
 LOCATION:313 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący: dr Jerzy Chmaj
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250606T114000
+DTEND:20250606T131500
+SUMMARY:F1 (ć)
+LOCATION:204 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T133000

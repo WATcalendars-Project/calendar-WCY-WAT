@@ -1968,14 +1968,14 @@ DTSTART:20250120T114000
 DTEND:20250120T131500
 SUMMARY:MD1 (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 1/4\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 1/6\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250120T133000
 DTEND:20250120T150500
 SUMMARY:MD1 (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 2/4\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 2/6\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250121T080000
@@ -2262,14 +2262,14 @@ DTSTART:20250218T080000
 DTEND:20250218T093500
 SUMMARY:MD1 (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 3/4\nProwadzący: dr inż. Elżbieta Burek
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 3/6\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250218T095000
 DTEND:20250218T112500
 SUMMARY:MD1 (Inne)
 LOCATION:085 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 4/4\nProwadzący: dr inż. Elżbieta Burek
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 4/6\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250218T114000
@@ -2304,7 +2304,7 @@ DTSTART:20250221T133000
 DTEND:20250221T150500
 SUMMARY:MD1 (Inne)
 LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 5/4\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 5/6\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T114000
@@ -2689,14 +2689,14 @@ DTSTART:20250321T160000
 DTEND:20250321T173500
 SUMMARY:MD1 (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 6/4\nProwadzący: dr inż. Elżbieta Burek
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 6/6\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T175000
 DTEND:20250321T192500
 SUMMARY:MD1 (Inne)
 LOCATION:078 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 7/4\nProwadzący: dr inż. Elżbieta Burek
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 7/6\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T095000
@@ -2830,6 +2830,20 @@ DTEND:20250328T173500
 SUMMARY:F1 (w)
 LOCATION:aF S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250328T175000
+DTEND:20250328T192500
+SUMMARY:MD1 (Inne)
+LOCATION:085 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 8/6\nProwadzący: dr inż. Elżbieta Burek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250328T194000
+DTEND:20250328T211500
+SUMMARY:MD1 (Inne)
+LOCATION:316 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 9/6\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T080000
@@ -3088,7 +3102,7 @@ DTSTART:20250409T175000
 DTEND:20250409T192500
 SUMMARY:MD1 (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 8/4\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 10/6\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T080000

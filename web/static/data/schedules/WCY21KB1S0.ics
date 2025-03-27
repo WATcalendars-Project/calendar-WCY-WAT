@@ -5030,13 +5030,6 @@ LOCATION:201 65
 DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr Krzysztof Kanciak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250327T114000
-DTEND:20250327T131500
-SUMMARY:Masz (w)
-LOCATION:309 S
-DESCRIPTION:Modelowanie i analiza sieci złożonych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Rafał Kasprzyk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250327T133000
 DTEND:20250327T150500
 SUMMARY:Bsi (w)
@@ -5230,7 +5223,7 @@ DTSTART:20250403T080000
 DTEND:20250403T093500
 SUMMARY:Masz (w)
 LOCATION:309 S
-DESCRIPTION:Modelowanie i analiza sieci złożonych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Rafał Kasprzyk
+DESCRIPTION:Modelowanie i analiza sieci złożonych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T095000
@@ -5377,7 +5370,7 @@ DTSTART:20250409T080000
 DTEND:20250409T093500
 SUMMARY:Masz (w)
 LOCATION:309 S
-DESCRIPTION:Modelowanie i analiza sieci złożonych\nRodzaj zajęć: Wykład\nNr zajęć: 8/7\nProwadzący:  Rafał Kasprzyk
+DESCRIPTION:Modelowanie i analiza sieci złożonych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T095000
@@ -5511,6 +5504,13 @@ DTEND:20250414T192500
 SUMMARY:Bsi (ć)
 LOCATION:309 S
 DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250415T114000
+DTEND:20250415T131500
+SUMMARY:Masz (w)
+LOCATION:233 S
+DESCRIPTION:Modelowanie i analiza sieci złożonych\nRodzaj zajęć: Wykład\nNr zajęć: 8/7\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T133000

@@ -1492,7 +1492,7 @@ DTSTART:20250204T114000
 DTEND:20250204T131500
 SUMMARY:PSy (Inne)
 LOCATION:317 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250205T095000
@@ -1541,7 +1541,7 @@ DTSTART:20250219T114000
 DTEND:20250219T131500
 SUMMARY:PSy (Inne)
 LOCATION:224 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250220T095000
@@ -2032,6 +2032,13 @@ DTEND:20250403T112500
 SUMMARY:TpsT (ć)
 LOCATION:201 65
 DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250403T114000
+DTEND:20250403T131500
+SUMMARY:PSy (Inne)
+LOCATION:227 S
+DESCRIPTION:Podstawy symulacji\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T133000

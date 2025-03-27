@@ -1513,7 +1513,7 @@ DTSTART:20250219T133000
 DTEND:20250219T150500
 SUMMARY:WdI (Inne)
 LOCATION:317 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250221T080000
@@ -1717,6 +1717,13 @@ DTEND:20250407T192500
 SUMMARY:M II (Inne)
 LOCATION:314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250408T175000
+DTEND:20250408T192500
+SUMMARY:WdI (Inne)
+LOCATION:313 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T114000
