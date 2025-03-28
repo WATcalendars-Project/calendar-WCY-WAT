@@ -1485,7 +1485,7 @@ DTSTART:20250207T114000
 DTEND:20250207T131500
 SUMMARY:WdI (Inne)
 LOCATION:313 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250218T095000
@@ -1506,7 +1506,7 @@ DTSTART:20250219T133000
 DTEND:20250219T150500
 SUMMARY:WdI (Inne)
 LOCATION:317 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250221T080000
@@ -2319,6 +2319,13 @@ DTEND:20250408T131500
 SUMMARY:Amt (ć)
 LOCATION:314 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/12\nProwadzący: mgr inż. Stanisław Zoń
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250408T175000
+DTEND:20250408T192500
+SUMMARY:WdI (Inne)
+LOCATION:313 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T080000

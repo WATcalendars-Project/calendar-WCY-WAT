@@ -4323,13 +4323,6 @@ LOCATION:101 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250331T133000
-DTEND:20250331T150500
-SUMMARY:MM (ć)
-LOCATION:316 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: mgr inż. Michał Kapałka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250401T095000
 DTEND:20250401T112500
 SUMMARY:Pw (P)
@@ -4370,6 +4363,13 @@ DTEND:20250402T112500
 SUMMARY:WdA (L)
 LOCATION:120 65
 DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250402T114000
+DTEND:20250402T131500
+SUMMARY:MM (ć)
+LOCATION:314 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T133000

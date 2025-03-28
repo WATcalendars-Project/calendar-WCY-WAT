@@ -1362,18 +1362,11 @@ LOCATION:224 S
 DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250326T175000
-DTEND:20250326T192500
-SUMMARY:Imo (L)
-LOCATION:on-line.
-DESCRIPTION:Ilościowe metody oceny bezpieczeństwa syst. teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Hubert Ostap
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250326T194000
 DTEND:20250326T211500
 SUMMARY:Imo (L)
 LOCATION:on-line.
-DESCRIPTION:Ilościowe metody oceny bezpieczeństwa syst. teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Hubert Ostap
+DESCRIPTION:Ilościowe metody oceny bezpieczeństwa syst. teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Hubert Ostap
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T080000
@@ -1388,6 +1381,13 @@ DTEND:20250327T112500
 SUMMARY:UML (L)
 LOCATION:224 S
 DESCRIPTION:Business modelling in UML\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250327T175000
+DTEND:20250327T192500
+SUMMARY:Imo (L)
+LOCATION:on-line.
+DESCRIPTION:Ilościowe metody oceny bezpieczeństwa syst. teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Hubert Ostap
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T114000
@@ -1558,8 +1558,8 @@ LOCATION:on-line.
 DESCRIPTION:Ilościowe metody oceny bezpieczeństwa syst. teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Hubert Ostap
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250428T160000
-DTEND:20250428T173500
+DTSTART:20250424T133000
+DTEND:20250424T150500
 SUMMARY:Imo (E)
 LOCATION:on-line.
 DESCRIPTION:Ilościowe metody oceny bezpieczeństwa syst. teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Mariusz Stawowski

@@ -5709,13 +5709,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 16/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250402T080000
-DTEND:20250402T093500
-SUMMARY:ESI (L)
-LOCATION:120 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Sławomir Matusiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250402T095000
 DTEND:20250402T112500
 SUMMARY:Pwst (w)
@@ -5945,6 +5938,13 @@ DTEND:20250410T150500
 SUMMARY:TeIP (L)
 LOCATION:120 65
 DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250410T160000
+DTEND:20250410T173500
+SUMMARY:ESI (L)
+LOCATION:121 65
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T080000
