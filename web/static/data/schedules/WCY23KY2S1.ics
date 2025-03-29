@@ -4197,13 +4197,6 @@ LOCATION:316 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250328T160000
-DTEND:20250328T173500
-SUMMARY:Etl (ć)
-LOCATION:309 S
-DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: dr Robert Dryło
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250331T080000
 DTEND:20250331T093500
 SUMMARY:Wek (L)
@@ -4377,6 +4370,13 @@ DTEND:20250409T093500
 SUMMARY:IK (w)
 LOCATION:313 S
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250409T095000
+DTEND:20250409T112500
+SUMMARY:Etl (ć)
+LOCATION:307 S
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T114000

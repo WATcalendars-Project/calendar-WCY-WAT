@@ -4740,7 +4740,7 @@ DTSTART:20250203T095000
 DTEND:20250203T112500
 SUMMARY:Sm (Inne)
 LOCATION:314 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Jerzy Chmaj
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Jerzy Chmaj
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250203T114000
@@ -4852,7 +4852,7 @@ DTSTART:20250217T133000
 DTEND:20250217T150500
 SUMMARY:Sm (Inne)
 LOCATION:085 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250217T160000
@@ -4887,7 +4887,7 @@ DTSTART:20250220T114000
 DTEND:20250220T131500
 SUMMARY:Sm (Inne)
 LOCATION:314 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: dr Jerzy Chmaj
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr Jerzy Chmaj
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250221T095000
@@ -5371,6 +5371,13 @@ DTEND:20250324T131500
 SUMMARY:Hsw (w)
 LOCATION:313 S
 DESCRIPTION:Historia sztuki wojennej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250324T133000
+DTEND:20250324T150500
+SUMMARY:Sm (Inne)
+LOCATION:203 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: dr Jerzy Chmaj
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T080000

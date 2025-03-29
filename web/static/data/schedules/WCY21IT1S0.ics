@@ -6570,20 +6570,6 @@ LOCATION:09 65
 DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250506T160000
-DTEND:20250506T173500
-SUMMARY:bai (L)
-LOCATION:106 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący:  Maciej Walczak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250506T175000
-DTEND:20250506T192500
-SUMMARY:bai (L)
-LOCATION:106 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący:  Maciej Walczak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250507T080000
 DTEND:20250507T093500
 SUMMARY:MeSK (L)
@@ -6742,14 +6728,14 @@ DTSTART:20250515T080000
 DTEND:20250515T093500
 SUMMARY:bai (L)
 LOCATION:011 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/12\nProwadzący:  Maciej Walczak
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący:  Maciej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T095000
 DTEND:20250515T112500
 SUMMARY:bai (L)
 LOCATION:011 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący:  Maciej Walczak
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący:  Maciej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T114000
@@ -6833,14 +6819,14 @@ DTSTART:20250519T133000
 DTEND:20250519T150500
 SUMMARY:bai (L)
 LOCATION:121 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/12\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/12\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T160000
 DTEND:20250519T173500
 SUMMARY:bai (L)
 LOCATION:121 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/12\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T080000
@@ -6932,6 +6918,20 @@ DTEND:20250522T150500
 SUMMARY:MeSK (L)
 LOCATION:233 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250522T160000
+DTEND:20250522T173500
+SUMMARY:bai (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/12\nProwadzący:  Maciej Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250522T175000
+DTEND:20250522T192500
+SUMMARY:bai (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/12\nProwadzący:  Maciej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T080000

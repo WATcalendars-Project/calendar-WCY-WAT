@@ -4323,6 +4323,20 @@ LOCATION:233 S
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/16\nProwadzący:  Mateusz Leśniak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250402T133000
+DTEND:20250402T150500
+SUMMARY:Sck (L)
+LOCATION:120 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący:  Maciej Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250402T160000
+DTEND:20250402T173500
+SUMMARY:Sck (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący:  Maciej Walczak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250403T080000
 DTEND:20250403T093500
 SUMMARY:IO (L)
@@ -4600,14 +4614,14 @@ DTSTART:20250416T160000
 DTEND:20250416T173500
 SUMMARY:Sck (L)
 LOCATION:121 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący:  Maciej Walczak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący:  Maciej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T175000
 DTEND:20250416T192500
 SUMMARY:Sck (L)
 LOCATION:121 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący:  Maciej Walczak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący:  Maciej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T080000
@@ -4629,6 +4643,13 @@ DTEND:20250417T173500
 SUMMARY:Etl (ć)
 LOCATION:313 S
 DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: dr Robert Dryło
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250423T080000
+DTEND:20250423T093500
+SUMMARY:Sck (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący:  Maciej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T095000
@@ -4720,20 +4741,6 @@ DTEND:20250429T173500
 SUMMARY:JoM (ć)
 LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 38/45\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250429T175000
-DTEND:20250429T192500
-SUMMARY:Sck (L)
-LOCATION:121 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący:  Maciej Walczak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250429T194000
-DTEND:20250429T211500
-SUMMARY:Sck (L)
-LOCATION:121 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący:  Maciej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T095000
@@ -4839,13 +4846,6 @@ DTEND:20250508T150500
 SUMMARY:Pk (L)
 LOCATION:078 S
 DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący:  Łukasz Dzierzkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250508T160000
-DTEND:20250508T173500
-SUMMARY:Sck (L)
-LOCATION:121 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący:  Maciej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T095000
