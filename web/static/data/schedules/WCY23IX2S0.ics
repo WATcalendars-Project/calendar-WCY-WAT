@@ -5373,13 +5373,6 @@ LOCATION:313 S
 DESCRIPTION:Historia sztuki wojennej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250324T133000
-DTEND:20250324T150500
-SUMMARY:Sm (Inne)
-LOCATION:203 65
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: dr Jerzy Chmaj
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250325T080000
 DTEND:20250325T093500
 SUMMARY:WdA (w)
@@ -6036,6 +6029,13 @@ DTEND:20250424T173500
 SUMMARY:Gk (L)
 LOCATION:224 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/14\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250424T175000
+DTEND:20250424T192500
+SUMMARY:Sm (Inne)
+LOCATION:203 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: dr Jerzy Chmaj
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250426T095000

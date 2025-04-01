@@ -5884,20 +5884,6 @@ LOCATION:31 54E
 DESCRIPTION:Technika obliczeniowa i symulacyjna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250414T114000
-DTEND:20250414T131500
-SUMMARY:PrSt (L)
-LOCATION:116 61
-DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250414T133000
-DTEND:20250414T150500
-SUMMARY:PrSt (L)
-LOCATION:116 61
-DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250415T080000
 DTEND:20250415T093500
 SUMMARY:TC (L)
@@ -6246,6 +6232,20 @@ DTEND:20250423T150500
 SUMMARY:Sze (w)
 LOCATION:315b S
 DESCRIPTION:Systemy zapewnienia energii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250423T160000
+DTEND:20250423T173500
+SUMMARY:PrSt (L)
+LOCATION:116 61
+DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250423T175000
+DTEND:20250423T192500
+SUMMARY:PrSt (L)
+LOCATION:116 61
+DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T080000

@@ -5863,13 +5863,6 @@ LOCATION:9 70
 DESCRIPTION:Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 62/122\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250401T080000
-DTEND:20250401T093500
-SUMMARY:OPS (ć)
-LOCATION:4 41
-DESCRIPTION:Optyka stosowana - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250401T095000
 DTEND:20250401T112500
 SUMMARY:Pla (w)
@@ -6028,7 +6021,7 @@ DTSTART:20250408T080000
 DTEND:20250408T093500
 SUMMARY:OPS (ć)
 LOCATION:27 70
-DESCRIPTION:Optyka stosowana - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: -
+DESCRIPTION:Optyka stosowana - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T095000
@@ -6064,6 +6057,13 @@ DTEND:20250409T093500
 SUMMARY:Wm (w)
 LOCATION:52/ 62
 DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 15/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250409T095000
+DTEND:20250409T112500
+SUMMARY:OPS (ć)
+LOCATION:12 46
+DESCRIPTION:Optyka stosowana - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T114000

@@ -522,13 +522,6 @@ LOCATION:46 63
 DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250404T114000
-DTEND:20250404T131500
-SUMMARY:Oś (w)
-LOCATION:A  59
-DESCRIPTION:Ochrona środowiska - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250404T133000
 DTEND:20250404T150500
 SUMMARY:TW (ć)
@@ -743,7 +736,7 @@ DTSTART:20250411T114000
 DTEND:20250411T131500
 SUMMARY:Oś (w)
 LOCATION:A  59
-DESCRIPTION:Ochrona środowiska - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
+DESCRIPTION:Ochrona środowiska - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T160000
@@ -751,6 +744,13 @@ DTEND:20250411T173500
 SUMMARY:DSiSM (ć)
 LOCATION:AW 3/038
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250411T175000
+DTEND:20250411T192500
+SUMMARY:Oś (w)
+LOCATION:112 58
+DESCRIPTION:Ochrona środowiska - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250412T080000
