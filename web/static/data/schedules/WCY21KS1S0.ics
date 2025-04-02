@@ -6038,20 +6038,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 76/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250506T160000
-DTEND:20250506T173500
-SUMMARY:SzS (ć)
-LOCATION:ST.nr 1
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/14\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250506T175000
-DTEND:20250506T192500
-SUMMARY:SzS (ć)
-LOCATION:ST.nr 1
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/14\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250506T194000
 DTEND:20250506T211500
 SUMMARY:- (S.Sz.W.)
@@ -6428,6 +6414,20 @@ DTEND:20250526T150500
 SUMMARY:Akst (L)
 LOCATION:085 S
 DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/20\nProwadzący: mgr inż. Łukasz Dzieł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250526T160000
+DTEND:20250526T173500
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/14\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250526T175000
+DTEND:20250526T192500
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T133000

@@ -6038,13 +6038,6 @@ LOCATION:27 70
 DESCRIPTION:Diagnostyka i terapia laserowa w medycynie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250408T133000
-DTEND:20250408T150500
-SUMMARY:Cpd (w)
-LOCATION:13 71
-DESCRIPTION:Cyfrowe przetwarzanie danych pomiarowych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250408T160000
 DTEND:20250408T173500
 SUMMARY:Wm (ć)
@@ -6084,7 +6077,7 @@ DTSTART:20250410T080000
 DTEND:20250410T093500
 SUMMARY:Cpd (w)
 LOCATION:13 71
-DESCRIPTION:Cyfrowe przetwarzanie danych pomiarowych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -
+DESCRIPTION:Cyfrowe przetwarzanie danych pomiarowych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T095000
@@ -6652,6 +6645,13 @@ DTEND:20250428T131500
 SUMMARY:Wm (w)
 LOCATION:52/ 62
 DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 19/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250428T133000
+DTEND:20250428T150500
+SUMMARY:Cpd (w)
+LOCATION:13 71
+DESCRIPTION:Cyfrowe przetwarzanie danych pomiarowych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T080000
@@ -7704,15 +7704,15 @@ LOCATION:313 S
 DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250609T133000
-DTEND:20250609T150500
+DTSTART:20250609T114000
+DTEND:20250609T131500
 SUMMARY:L4g. (L)
 LOCATION:9 70
 DESCRIPTION:Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 109/122\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250609T160000
-DTEND:20250609T173500
+DTSTART:20250609T133000
+DTEND:20250609T150500
 SUMMARY:L4g. (L)
 LOCATION:9 70
 DESCRIPTION:Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 110/122\nProwadzący: -
@@ -7760,15 +7760,15 @@ LOCATION:6 71
 DESCRIPTION:Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 112/122\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250611T133000
-DTEND:20250611T150500
+DTSTART:20250611T114000
+DTEND:20250611T131500
 SUMMARY:L4g. (L)
 LOCATION:9 70
 DESCRIPTION:Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 113/122\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250611T160000
-DTEND:20250611T173500
+DTSTART:20250611T133000
+DTEND:20250611T150500
 SUMMARY:L4g. (L)
 LOCATION:9 70
 DESCRIPTION:Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 114/122\nProwadzący: -
@@ -7791,14 +7791,14 @@ BEGIN:VEVENT
 DTSTART:20250612T114000
 DTEND:20250612T131500
 SUMMARY:L4g. (L)
-LOCATION:6 71 101 136
+LOCATION:6 71 17 136
 DESCRIPTION:Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 117/122\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T133000
 DTEND:20250612T150500
 SUMMARY:L4g. (L)
-LOCATION:6 71 101 136
+LOCATION:6 71 17 136
 DESCRIPTION:Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 118/122\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -7931,14 +7931,14 @@ BEGIN:VEVENT
 DTSTART:20250618T114000
 DTEND:20250618T131500
 SUMMARY:L4g. (L)
-LOCATION:6 71 101 136
+LOCATION:6 71 17 136
 DESCRIPTION:Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 121/122\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T133000
 DTEND:20250618T150500
 SUMMARY:L4g. (L)
-LOCATION:6 71 101 136
+LOCATION:6 71 17 136
 DESCRIPTION:Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 122/122\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT

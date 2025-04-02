@@ -739,13 +739,6 @@ LOCATION:308 S
 DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250402T175000
-DTEND:20250402T192500
-SUMMARY:Nsk (ć)
-LOCATION:308 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: mgr inż. Michał Kapałka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250403T080000
 DTEND:20250403T093500
 SUMMARY:SKII (L)
@@ -890,7 +883,7 @@ DTSTART:20250408T175000
 DTEND:20250408T192500
 SUMMARY:Nsk (ć)
 LOCATION:307 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T080000
@@ -1101,6 +1094,13 @@ DTEND:20250415T192500
 SUMMARY:Swb (L)
 LOCATION:09 65
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250416T095000
+DTEND:20250416T112500
+SUMMARY:Nsk (ć)
+LOCATION:255 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T114000

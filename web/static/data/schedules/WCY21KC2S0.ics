@@ -5961,6 +5961,20 @@ LOCATION:106 65
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 1/5\nProwadzący:  Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250416T160000
+DTEND:20250416T173500
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/14\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250416T175000
+DTEND:20250416T192500
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/14\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250417T080000
 DTEND:20250417T093500
 SUMMARY:Pwst (w)
@@ -6190,20 +6204,6 @@ DTEND:20250506T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 29/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250506T133000
-DTEND:20250506T150500
-SUMMARY:SzS (ć)
-LOCATION:ST.nr 1
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/14\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250506T160000
-DTEND:20250506T173500
-SUMMARY:SzS (ć)
-LOCATION:ST.nr 1
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T175000

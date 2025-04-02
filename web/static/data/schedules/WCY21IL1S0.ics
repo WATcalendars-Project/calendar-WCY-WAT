@@ -5177,6 +5177,13 @@ LOCATION:252 S
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 9/6\nProwadzący:  Patryk Serafin
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250331T160000
+DTEND:20250331T173500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 69/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250401T080000
 DTEND:20250401T093500
 SUMMARY:- (Inne)
@@ -5300,7 +5307,7 @@ DTSTART:20250404T080000
 DTEND:20250404T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 69/90\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 70/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T095000
@@ -5384,7 +5391,7 @@ DTSTART:20250408T133000
 DTEND:20250408T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 70/90\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 71/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T160000
@@ -5469,13 +5476,6 @@ DTEND:20250410T173500
 SUMMARY:Ajf (L)
 LOCATION:307 S
 DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr hab. Piotr Kosiuczenko
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250411T080000
-DTEND:20250411T093500
-SUMMARY:WF (ć)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 71/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T095000

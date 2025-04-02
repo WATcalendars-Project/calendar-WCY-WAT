@@ -6178,6 +6178,13 @@ LOCATION:09 65
 DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNr zajęć: 4/8\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250410T175000
+DTEND:20250410T192500
+SUMMARY:bai (L)
+LOCATION:121 65
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący:  Maciej Walczak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250411T080000
 DTEND:20250411T093500
 SUMMARY:WF (ć)
@@ -6287,14 +6294,14 @@ DTSTART:20250415T160000
 DTEND:20250415T173500
 SUMMARY:bai (L)
 LOCATION:106 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący:  Maciej Walczak
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący:  Maciej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T175000
 DTEND:20250415T192500
 SUMMARY:bai (L)
 LOCATION:106 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący:  Maciej Walczak
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący:  Maciej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T095000
@@ -6309,6 +6316,13 @@ DTEND:20250416T131500
 SUMMARY:Ja (ć)
 LOCATION:120 K 121 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 77/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250416T133000
+DTEND:20250416T150500
+SUMMARY:bai (L)
+LOCATION:121 65
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący:  Maciej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T080000
@@ -6498,20 +6512,6 @@ DTEND:20250430T150500
 SUMMARY:Dn (ć)
 LOCATION:201 65
 DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250430T160000
-DTEND:20250430T173500
-SUMMARY:bai (L)
-LOCATION:106 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący:  Maciej Walczak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250430T175000
-DTEND:20250430T192500
-SUMMARY:bai (L)
-LOCATION:106 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący:  Maciej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T080000

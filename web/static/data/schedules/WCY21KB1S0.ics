@@ -5814,20 +5814,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 76/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250506T160000
-DTEND:20250506T173500
-SUMMARY:SzS (ć)
-LOCATION:ST.nr 1
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/14\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250506T175000
-DTEND:20250506T192500
-SUMMARY:SzS (ć)
-LOCATION:ST.nr 1
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/14\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250506T194000
 DTEND:20250506T211500
 SUMMARY:- (S.Sz.W.)
@@ -6148,6 +6134,20 @@ DTEND:20250524T112500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 40/43\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250526T160000
+DTEND:20250526T173500
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/14\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250526T175000
+DTEND:20250526T192500
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T114000
