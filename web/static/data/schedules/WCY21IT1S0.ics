@@ -5261,13 +5261,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 61/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250305T080000
-DTEND:20250305T093500
-SUMMARY:bai (w)
-LOCATION:101 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250305T114000
 DTEND:20250305T131500
 SUMMARY:Ja (ć)
@@ -5552,7 +5545,7 @@ DTSTART:20250318T160000
 DTEND:20250318T173500
 SUMMARY:bai (w)
 LOCATION:101 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T080000
@@ -5580,7 +5573,7 @@ DTSTART:20250319T133000
 DTEND:20250319T150500
 SUMMARY:bai (w)
 LOCATION:205 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T080000
@@ -5937,7 +5930,7 @@ DTSTART:20250402T080000
 DTEND:20250402T093500
 SUMMARY:bai (w)
 LOCATION:09 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T095000
@@ -6112,7 +6105,7 @@ DTSTART:20250409T080000
 DTEND:20250409T093500
 SUMMARY:bai (w)
 LOCATION:101 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T095000
@@ -6462,7 +6455,7 @@ DTSTART:20250429T095000
 DTEND:20250429T112500
 SUMMARY:bai (w)
 LOCATION:125 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T114000
@@ -6638,6 +6631,13 @@ DTEND:20250509T093500
 SUMMARY:MPH (ć)
 LOCATION:201 65
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250509T095000
+DTEND:20250509T112500
+SUMMARY:bai (w)
+LOCATION:204 65
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T114000

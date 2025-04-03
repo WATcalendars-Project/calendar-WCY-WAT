@@ -2153,13 +2153,6 @@ LOCATION:101 65
 DESCRIPTION:Telefonia IP\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250404T114000
-DTEND:20250404T131500
-SUMMARY:kck (w)
-LOCATION:307 S
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Pałys
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250404T133000
 DTEND:20250404T150500
 SUMMARY:zsw (L)
@@ -2179,6 +2172,13 @@ DTEND:20250407T093500
 SUMMARY:Psmo (w)
 LOCATION:101 65
 DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250407T114000
+DTEND:20250407T131500
+SUMMARY:kck (w)
+LOCATION:307 S
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T133000

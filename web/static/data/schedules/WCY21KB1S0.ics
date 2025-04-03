@@ -5394,13 +5394,6 @@ LOCATION:313 S
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250410T080000
-DTEND:20250410T093500
-SUMMARY:Masz (ć)
-LOCATION:314 S
-DESCRIPTION:Modelowanie i analiza sieci złożonych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący:  Rafał Kasprzyk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250410T095000
 DTEND:20250410T112500
 SUMMARY:Pjn (w)
@@ -5567,6 +5560,13 @@ DTEND:20250416T192500
 SUMMARY:Masz (L)
 LOCATION:224 S
 DESCRIPTION:Modelowanie i analiza sieci złożonych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250417T080000
+DTEND:20250417T093500
+SUMMARY:Masz (ć)
+LOCATION:314 S
+DESCRIPTION:Modelowanie i analiza sieci złożonych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T095000

@@ -1761,18 +1761,18 @@ LOCATION:307 S
 DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Damian Frąszczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250404T114000
-DTEND:20250404T131500
-SUMMARY:kck (w)
-LOCATION:307 S
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Pałys
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250407T080000
 DTEND:20250407T093500
 SUMMARY:PWSI (w)
 LOCATION:308 S
 DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Gzik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250407T114000
+DTEND:20250407T131500
+SUMMARY:kck (w)
+LOCATION:307 S
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T133000

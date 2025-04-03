@@ -1733,13 +1733,6 @@ LOCATION:316 S
 DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250404T114000
-DTEND:20250404T131500
-SUMMARY:kck (w)
-LOCATION:307 S
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Pałys
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250404T160000
 DTEND:20250404T173500
 SUMMARY:SQL (L)
@@ -1766,6 +1759,13 @@ DTEND:20250407T112500
 SUMMARY:Sn (L)
 LOCATION:224 S
 DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250407T114000
+DTEND:20250407T131500
+SUMMARY:kck (w)
+LOCATION:307 S
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T080000
@@ -1829,13 +1829,6 @@ DTEND:20250410T150500
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 4/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250411T095000
-DTEND:20250411T112500
-SUMMARY:Muma (w)
-LOCATION:308 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T114000
@@ -1913,6 +1906,13 @@ DTEND:20250416T112500
 SUMMARY:Sn (L)
 LOCATION:228 S
 DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250416T133000
+DTEND:20250416T150500
+SUMMARY:Muma (w)
+LOCATION:309 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T080000
