@@ -480,13 +480,6 @@ LOCATION:241 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20241107T080000
-DTEND:20241107T093500
-SUMMARY:WdI (L)
-LOCATION:226 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/11\nProwadzący: mgr inż. Paweł Pieczonka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20241107T095000
 DTEND:20241107T112500
 SUMMARY:Mat I (ć)
@@ -624,7 +617,7 @@ DTSTART:20241115T080000
 DTEND:20241115T093500
 SUMMARY:WdI (L)
 LOCATION:227 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/11\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/11\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241115T114000
@@ -652,7 +645,7 @@ DTSTART:20241118T080000
 DTEND:20241118T093500
 SUMMARY:WdI (L)
 LOCATION:226 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/11\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241118T095000
@@ -793,6 +786,13 @@ DTEND:20241125T112500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241125T114000
+DTEND:20241125T131500
+SUMMARY:WdI (L)
+LOCATION:233 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241126T114000

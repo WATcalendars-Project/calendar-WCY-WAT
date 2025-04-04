@@ -3560,13 +3560,6 @@ LOCATION:54/ 62
 DESCRIPTION:Anatomia człowieka - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 5/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250416T080000
-DTEND:20250416T093500
-SUMMARY:WF (ć)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250416T095000
 DTEND:20250416T112500
 SUMMARY:Acz. (w)
@@ -3579,6 +3572,13 @@ DTEND:20250416T131500
 SUMMARY:Mat3 (ć)
 LOCATION:55/ 62
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący: dr Jerzy Ploch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250416T133000
+DTEND:20250416T150500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T175000

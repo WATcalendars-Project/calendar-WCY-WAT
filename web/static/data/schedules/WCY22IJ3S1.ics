@@ -1775,13 +1775,6 @@ LOCATION:307 S
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250407T133000
-DTEND:20250407T150500
-SUMMARY:TAI (L)
-LOCATION:228 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Paweł Pieczonka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250407T160000
 DTEND:20250407T173500
 SUMMARY:EdP (w)
@@ -2052,7 +2045,7 @@ DTSTART:20250429T095000
 DTEND:20250429T112500
 SUMMARY:TAI (L)
 LOCATION:239 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T114000
@@ -2200,6 +2193,13 @@ DTEND:20250514T192500
 SUMMARY:Jtp (L)
 LOCATION:233 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250515T095000
+DTEND:20250515T112500
+SUMMARY:TAI (L)
+LOCATION:228 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T114000

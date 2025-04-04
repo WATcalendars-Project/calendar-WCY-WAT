@@ -508,13 +508,6 @@ LOCATION:307 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: dr Łukasz Matysiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20241107T095000
-DTEND:20241107T112500
-SUMMARY:WdI (L)
-LOCATION:226 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/11\nProwadzący: mgr inż. Paweł Pieczonka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20241107T114000
 DTEND:20241107T131500
 SUMMARY:WdS (w)
@@ -568,7 +561,7 @@ DTSTART:20241112T114000
 DTEND:20241112T131500
 SUMMARY:WdI (L)
 LOCATION:226 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/11\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/11\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241112T133000
@@ -778,7 +771,7 @@ DTSTART:20241121T095000
 DTEND:20241121T112500
 SUMMARY:WdI (L)
 LOCATION:226 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/11\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241122T095000
@@ -807,6 +800,13 @@ DTEND:20241122T173500
 SUMMARY:PGI (w)
 LOCATION:313 S
 DESCRIPTION:Podstawy grafiki inżynierskiej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241125T080000
+DTEND:20241125T093500
+SUMMARY:WdI (L)
+LOCATION:233 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241125T095000

@@ -1712,13 +1712,6 @@ LOCATION:308 S
 DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250407T095000
-DTEND:20250407T112500
-SUMMARY:TAI (L)
-LOCATION:226 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Paweł Pieczonka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250407T114000
 DTEND:20250407T131500
 SUMMARY:kck (w)
@@ -1955,6 +1948,13 @@ DTEND:20250428T131500
 SUMMARY:PWSI (L)
 LOCATION:228 S
 DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250428T133000
+DTEND:20250428T150500
+SUMMARY:TAI (L)
+LOCATION:228 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T175000
