@@ -5905,13 +5905,6 @@ LOCATION:13 71
 DESCRIPTION:Optyka stosowana - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250402T133000
-DTEND:20250402T150500
-SUMMARY:Cpd (w)
-LOCATION:27 70
-DESCRIPTION:Cyfrowe przetwarzanie danych pomiarowych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250403T080000
 DTEND:20250403T093500
 SUMMARY:Fv (w)
@@ -6031,13 +6024,6 @@ LOCATION:13 71
 DESCRIPTION:Podstawy laserów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250408T114000
-DTEND:20250408T131500
-SUMMARY:Dtlm (ć)
-LOCATION:27 70
-DESCRIPTION:Diagnostyka i terapia laserowa w medycynie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250408T160000
 DTEND:20250408T173500
 SUMMARY:Wm (ć)
@@ -6077,7 +6063,7 @@ DTSTART:20250410T080000
 DTEND:20250410T093500
 SUMMARY:Cpd (w)
 LOCATION:13 71
-DESCRIPTION:Cyfrowe przetwarzanie danych pomiarowych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -
+DESCRIPTION:Cyfrowe przetwarzanie danych pomiarowych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T095000
@@ -6203,7 +6189,7 @@ DTSTART:20250415T114000
 DTEND:20250415T131500
 SUMMARY:Dtlm (ć)
 LOCATION:27 70
-DESCRIPTION:Diagnostyka i terapia laserowa w medycynie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: -
+DESCRIPTION:Diagnostyka i terapia laserowa w medycynie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T133000
@@ -6661,13 +6647,6 @@ LOCATION:52/ 62
 DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 19/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250428T133000
-DTEND:20250428T150500
-SUMMARY:Cpd (w)
-LOCATION:13 71
-DESCRIPTION:Cyfrowe przetwarzanie danych pomiarowych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250429T080000
 DTEND:20250429T093500
 SUMMARY:OPS (ć)
@@ -6686,7 +6665,7 @@ DTSTART:20250429T114000
 DTEND:20250429T131500
 SUMMARY:Dtlm (ć)
 LOCATION:27 70
-DESCRIPTION:Diagnostyka i terapia laserowa w medycynie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: -
+DESCRIPTION:Diagnostyka i terapia laserowa w medycynie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T133000
@@ -6931,7 +6910,7 @@ DTSTART:20250506T114000
 DTEND:20250506T131500
 SUMMARY:Dtlm (ć)
 LOCATION:27 70
-DESCRIPTION:Diagnostyka i terapia laserowa w medycynie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: -
+DESCRIPTION:Diagnostyka i terapia laserowa w medycynie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T133000
@@ -6967,6 +6946,13 @@ DTEND:20250507T150500
 SUMMARY:Cpd (ć)
 LOCATION:120 144
 DESCRIPTION:Cyfrowe przetwarzanie danych pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250507T160000
+DTEND:20250507T173500
+SUMMARY:Cpd (w)
+LOCATION:120 144
+DESCRIPTION:Cyfrowe przetwarzanie danych pomiarowych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T080000
@@ -7088,6 +7074,13 @@ LOCATION:315 135 26 13
 DESCRIPTION:Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 82/122\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250513T080000
+DTEND:20250513T093500
+SUMMARY:Cpd (w)
+LOCATION:120 144
+DESCRIPTION:Cyfrowe przetwarzanie danych pomiarowych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250513T095000
 DTEND:20250513T112500
 SUMMARY:Pla (Inne)
@@ -7099,7 +7092,7 @@ DTSTART:20250513T114000
 DTEND:20250513T131500
 SUMMARY:Dtlm (ć)
 LOCATION:27 70
-DESCRIPTION:Diagnostyka i terapia laserowa w medycynie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: -
+DESCRIPTION:Diagnostyka i terapia laserowa w medycynie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T133000
@@ -7408,6 +7401,13 @@ DTEND:20250526T150500
 SUMMARY:L4g. (L)
 LOCATION:02 71 8 70
 DESCRIPTION:Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 98/122\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250527T080000
+DTEND:20250527T093500
+SUMMARY:Dtlm (ć)
+LOCATION:27 70
+DESCRIPTION:Diagnostyka i terapia laserowa w medycynie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T095000

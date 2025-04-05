@@ -1082,20 +1082,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250417T160000
-DTEND:20250417T173500
-SUMMARY:Pjf (L)
-LOCATION:228 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Krzysztof Mierzejewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250417T175000
-DTEND:20250417T192500
-SUMMARY:Pjf (L)
-LOCATION:228 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Krzysztof Mierzejewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250423T080000
 DTEND:20250423T093500
 SUMMARY:Spg (w)
@@ -1164,6 +1150,20 @@ DTEND:20250424T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250424T160000
+DTEND:20250424T173500
+SUMMARY:Pjf (L)
+LOCATION:233 S
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Krzysztof Mierzejewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250424T175000
+DTEND:20250424T192500
+SUMMARY:Pjf (L)
+LOCATION:233 S
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Krzysztof Mierzejewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250426T080000

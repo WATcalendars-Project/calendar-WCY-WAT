@@ -3406,13 +3406,6 @@ LOCATION:18 45
 DESCRIPTION:Telemonitoring w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250409T080000
-DTEND:20250409T093500
-SUMMARY:WF (ć)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250409T095000
 DTEND:20250409T112500
 SUMMARY:Acz. (w)
@@ -3511,6 +3504,13 @@ LOCATION:301/ S
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 9/11\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250414T114000
+DTEND:20250414T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250414T133000
 DTEND:20250414T150500
 SUMMARY:Bwg (w)
@@ -3553,13 +3553,6 @@ LOCATION:18 45
 DESCRIPTION:Telemonitoring w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250416T080000
-DTEND:20250416T093500
-SUMMARY:WF (ć)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250416T095000
 DTEND:20250416T112500
 SUMMARY:Acz. (w)
@@ -3586,6 +3579,13 @@ DTEND:20250416T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250417T133000
+DTEND:20250417T150500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T160000
@@ -4022,13 +4022,6 @@ LOCATION:29/ 54
 DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250430T080000
-DTEND:20250430T093500
-SUMMARY:WF (ć)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250430T114000
 DTEND:20250430T131500
 SUMMARY:Mat3 (ć)
@@ -4271,7 +4264,7 @@ DTSTART:20250507T080000
 DTEND:20250507T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 24/30\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T095000
@@ -4404,7 +4397,7 @@ DTSTART:20250514T080000
 DTEND:20250514T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/30\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 24/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T095000
@@ -4572,7 +4565,7 @@ DTSTART:20250521T080000
 DTEND:20250521T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 26/30\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T095000
@@ -4705,7 +4698,7 @@ DTSTART:20250528T080000
 DTEND:20250528T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 27/30\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 26/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T095000
@@ -4831,7 +4824,7 @@ DTSTART:20250604T080000
 DTEND:20250604T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28/30\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 27/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T095000
@@ -4895,6 +4888,13 @@ DTEND:20250609T093500
 SUMMARY:F1 (w)
 LOCATION:aula/ 135
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 19/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250609T095000
+DTEND:20250609T112500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T114000

@@ -893,13 +893,6 @@ LOCATION:19 36
 DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr hab. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250409T095000
-DTEND:20250409T112500
-SUMMARY:sd (w)
-LOCATION:203 65
-DESCRIPTION:Systemy dialogowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Tomasz Pałys
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250409T114000
 DTEND:20250409T131500
 SUMMARY:Pap (w)
@@ -1002,7 +995,7 @@ DTSTART:20250414T080000
 DTEND:20250414T093500
 SUMMARY:sd (w)
 LOCATION:203 65
-DESCRIPTION:Systemy dialogowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Systemy dialogowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T095000
@@ -1142,7 +1135,7 @@ DTSTART:20250423T095000
 DTEND:20250423T112500
 SUMMARY:sd (w)
 LOCATION:203 65
-DESCRIPTION:Systemy dialogowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Systemy dialogowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T114000
@@ -1226,7 +1219,7 @@ DTSTART:20250428T080000
 DTEND:20250428T093500
 SUMMARY:sd (w)
 LOCATION:203 65
-DESCRIPTION:Systemy dialogowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Systemy dialogowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T095000
@@ -1345,7 +1338,7 @@ DTSTART:20250505T080000
 DTEND:20250505T093500
 SUMMARY:sd (w)
 LOCATION:203 65
-DESCRIPTION:Systemy dialogowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Systemy dialogowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T095000
@@ -1549,6 +1542,13 @@ DTEND:20250512T150500
 SUMMARY:Ja (ć)
 LOCATION:237 K 235 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250512T160000
+DTEND:20250512T173500
+SUMMARY:sd (w)
+LOCATION:203 65
+DESCRIPTION:Systemy dialogowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T080000

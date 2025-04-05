@@ -5975,6 +5975,20 @@ LOCATION:314 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250429T160000
+DTEND:20250429T173500
+SUMMARY:Bd (ć)
+LOCATION:236 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: mgr inż. Radosław Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250429T175000
+DTEND:20250429T192500
+SUMMARY:Bd (ć)
+LOCATION:236 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: mgr inż. Radosław Woźniak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250430T080000
 DTEND:20250430T093500
 SUMMARY:DWiPD (ć)
@@ -5994,20 +6008,6 @@ DTEND:20250430T131500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 76/90\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250430T160000
-DTEND:20250430T173500
-SUMMARY:Bd (ć)
-LOCATION:308 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: mgr inż. Radosław Woźniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250430T175000
-DTEND:20250430T192500
-SUMMARY:Bd (ć)
-LOCATION:308 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: mgr inż. Radosław Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T080000

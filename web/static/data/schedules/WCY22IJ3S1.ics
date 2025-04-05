@@ -1768,13 +1768,6 @@ LOCATION:308 S
 DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250407T114000
-DTEND:20250407T131500
-SUMMARY:kck (w)
-LOCATION:307 S
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Pałys
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250407T160000
 DTEND:20250407T173500
 SUMMARY:EdP (w)
@@ -1842,7 +1835,7 @@ DTSTART:20250411T114000
 DTEND:20250411T131500
 SUMMARY:kck (w)
 LOCATION:307 S
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T080000
@@ -1969,6 +1962,13 @@ DTEND:20250417T150500
 SUMMARY:PZ (P)
 LOCATION:233 S
 DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 14/22\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250417T160000
+DTEND:20250417T173500
+SUMMARY:kck (w)
+LOCATION:316 S
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T095000

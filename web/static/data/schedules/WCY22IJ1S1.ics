@@ -1761,13 +1761,6 @@ LOCATION:224 S
 DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250407T114000
-DTEND:20250407T131500
-SUMMARY:kck (w)
-LOCATION:307 S
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Pałys
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250408T080000
 DTEND:20250408T093500
 SUMMARY:PWSI (P)
@@ -1835,7 +1828,7 @@ DTSTART:20250411T114000
 DTEND:20250411T131500
 SUMMARY:kck (w)
 LOCATION:307 S
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T080000
@@ -1941,6 +1934,13 @@ DTEND:20250417T150500
 SUMMARY:PWSI (L)
 LOCATION:239 S
 DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250417T160000
+DTEND:20250417T173500
+SUMMARY:kck (w)
+LOCATION:316 S
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T095000

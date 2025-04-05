@@ -3433,4 +3433,32 @@ SUMMARY:Tik (L)
 LOCATION:121 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250621T080000
+DTEND:20250621T093500
+SUMMARY:IO (E)
+LOCATION:307 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250628T080000
+DTEND:20250628T093500
+SUMMARY:Sck (E)
+LOCATION:307 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250705T080000
+DTEND:20250705T093500
+SUMMARY:IO (Inne)
+LOCATION:307 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250705T095000
+DTEND:20250705T112500
+SUMMARY:Sck (Inne)
+LOCATION:308 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
 END:VCALENDAR
