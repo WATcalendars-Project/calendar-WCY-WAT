@@ -1166,20 +1166,6 @@ LOCATION:011 65
 DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250423T080000
-DTEND:20250423T093500
-SUMMARY:SoU (L)
-LOCATION:09 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/20\nProwadzący:  Sebastian Łeska
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250423T095000
-DTEND:20250423T112500
-SUMMARY:SoU (L)
-LOCATION:09 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/20\nProwadzący:  Sebastian Łeska
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250423T114000
 DTEND:20250423T131500
 SUMMARY:BwCP (ć)
@@ -1254,14 +1240,14 @@ DTSTART:20250428T080000
 DTEND:20250428T093500
 SUMMARY:SoU (L)
 LOCATION:09 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/20\nProwadzący:  Sebastian Łeska
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/20\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T095000
 DTEND:20250428T112500
 SUMMARY:SoU (L)
 LOCATION:09 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/20\nProwadzący:  Sebastian Łeska
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/20\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T114000
@@ -1464,14 +1450,14 @@ DTSTART:20250508T080000
 DTEND:20250508T093500
 SUMMARY:SoU (L)
 LOCATION:09 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/20\nProwadzący:  Sebastian Łeska
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/20\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T095000
 DTEND:20250508T112500
 SUMMARY:SoU (L)
 LOCATION:09 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/20\nProwadzący:  Sebastian Łeska
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/20\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T114000
@@ -1548,14 +1534,14 @@ DTSTART:20250512T080000
 DTEND:20250512T093500
 SUMMARY:SoU (L)
 LOCATION:09 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/20\nProwadzący:  Sebastian Łeska
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/20\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T095000
 DTEND:20250512T112500
 SUMMARY:SoU (L)
 LOCATION:09 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/20\nProwadzący:  Sebastian Łeska
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/20\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T114000
@@ -1719,6 +1705,20 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250519T080000
+DTEND:20250519T093500
+SUMMARY:Est (L)
+LOCATION:106 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250519T095000
+DTEND:20250519T112500
+SUMMARY:Est (L)
+LOCATION:106 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250519T114000
 DTEND:20250519T131500
 SUMMARY:WF (ć)
@@ -1756,16 +1756,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T160000
 DTEND:20250520T173500
-SUMMARY:Est (L)
+SUMMARY:SoU (L)
 LOCATION:106 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/20\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T175000
 DTEND:20250520T192500
-SUMMARY:Est (L)
+SUMMARY:SoU (L)
 LOCATION:106 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/20\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T080000

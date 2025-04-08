@@ -1754,18 +1754,18 @@ LOCATION:316 S
 DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250404T095000
-DTEND:20250404T112500
-SUMMARY:TAI (w)
-LOCATION:307 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Damian Frąszczak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250407T080000
 DTEND:20250407T093500
 SUMMARY:PWSI (w)
 LOCATION:308 S
 DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Gzik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250407T095000
+DTEND:20250407T112500
+SUMMARY:TAI (w)
+LOCATION:314 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Damian Frąszczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T160000
@@ -1822,13 +1822,6 @@ DTEND:20250410T150500
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 4/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250411T080000
-DTEND:20250411T093500
-SUMMARY:TAI (w)
-LOCATION:313 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Damian Frąszczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T114000
@@ -1978,10 +1971,17 @@ LOCATION:307 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250423T114000
+DTEND:20250423T131500
+SUMMARY:TAI (w)
+LOCATION:125 65
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Damian Frąszczak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250423T133000
 DTEND:20250423T150500
 SUMMARY:TAI (w)
-LOCATION:313 S
+LOCATION:125 65
 DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Damian Frąszczak
 END:VEVENT
 BEGIN:VEVENT
@@ -2090,13 +2090,6 @@ LOCATION:239 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250505T095000
-DTEND:20250505T112500
-SUMMARY:TAI (w)
-LOCATION:309 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Damian Frąszczak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250506T080000
 DTEND:20250506T093500
 SUMMARY:Sn (L)
@@ -2116,6 +2109,20 @@ DTEND:20250506T131500
 SUMMARY:Sn (L)
 LOCATION:95 S
 DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250508T080000
+DTEND:20250508T093500
+SUMMARY:TAI (w)
+LOCATION:237 S 239 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Damian Frąszczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250508T095000
+DTEND:20250508T112500
+SUMMARY:TAI (w)
+LOCATION:237 S 239 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Damian Frąszczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T114000
@@ -2270,13 +2277,6 @@ DTEND:20250522T150500
 SUMMARY:PZ (P)
 LOCATION:226 S
 DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 22/22\nProwadzący: dr inż. Wojciech Kulas
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250526T133000
-DTEND:20250526T150500
-SUMMARY:TAI (w)
-LOCATION:307 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Damian Frąszczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T160000

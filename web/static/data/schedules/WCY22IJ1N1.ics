@@ -1376,6 +1376,20 @@ LOCATION:236 S
 DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 8/15\nProwadzący: mgr inż. Jarosław Napiórkowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250413T080000
+DTEND:20250413T093500
+SUMMARY:Jtp (L)
+LOCATION:233 S
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: mgr inż. Piotr Adamczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250413T095000
+DTEND:20250413T112500
+SUMMARY:Jtp (L)
+LOCATION:233 S
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący: mgr inż. Piotr Adamczyk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250413T114000
 DTEND:20250413T131500
 SUMMARY:kck (L)
@@ -1528,20 +1542,6 @@ DTEND:20250504T211500
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 35/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250510T095000
-DTEND:20250510T112500
-SUMMARY:Jtp (L)
-LOCATION:233 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: mgr inż. Piotr Adamczyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250510T114000
-DTEND:20250510T131500
-SUMMARY:Jtp (L)
-LOCATION:233 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250510T133000

@@ -5709,20 +5709,6 @@ LOCATION:314 S
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250408T160000
-DTEND:20250408T173500
-SUMMARY:Po (L)
-LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/16\nProwadzący: mgr inż. Łukasz Matuszelański
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250408T175000
-DTEND:20250408T192500
-SUMMARY:Po (L)
-LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/16\nProwadzący: mgr inż. Łukasz Matuszelański
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250409T114000
 DTEND:20250409T131500
 SUMMARY:WF (ć)
@@ -5923,14 +5909,14 @@ DTSTART:20250416T133000
 DTEND:20250416T150500
 SUMMARY:Po (L)
 LOCATION:236 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/16\nProwadzący: mgr inż. Łukasz Matuszelański
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/16\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T160000
 DTEND:20250416T173500
 SUMMARY:Po (L)
 LOCATION:236 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/16\nProwadzący: mgr inż. Łukasz Matuszelański
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/16\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T095000
@@ -6133,14 +6119,14 @@ DTSTART:20250430T133000
 DTEND:20250430T150500
 SUMMARY:Po (L)
 LOCATION:224 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/16\nProwadzący: mgr inż. Łukasz Matuszelański
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/16\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T160000
 DTEND:20250430T173500
 SUMMARY:Po (L)
 LOCATION:224 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/16\nProwadzący: mgr inż. Łukasz Matuszelański
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/16\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T080000
@@ -6169,6 +6155,20 @@ DTEND:20250505T150500
 SUMMARY:MM (ć)
 LOCATION:313 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250505T160000
+DTEND:20250505T173500
+SUMMARY:Po (L)
+LOCATION:227 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/16\nProwadzący: mgr inż. Łukasz Matuszelański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250505T175000
+DTEND:20250505T192500
+SUMMARY:Po (L)
+LOCATION:227 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/16\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T080000
@@ -6377,7 +6377,7 @@ BEGIN:VEVENT
 DTSTART:20250514T095000
 DTEND:20250514T112500
 SUMMARY:SO (w)
-LOCATION:317 S
+LOCATION:313 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 9/13\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
@@ -7032,17 +7032,38 @@ LOCATION:313 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/3\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250703T095000
+DTEND:20250703T112500
+SUMMARY:Bd (E)
+LOCATION:313 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 2/3\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250703T114000
 DTEND:20250703T131500
 SUMMARY:Bd (E)
 LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 2/3\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 3/3\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250703T114000
+DTEND:20250703T131500
+SUMMARY:Bd (E)
+LOCATION:313 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 4/3\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250703T133000
 DTEND:20250703T150500
 SUMMARY:Bd (E)
 LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 3/3\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 5/3\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250703T133000
+DTEND:20250703T150500
+SUMMARY:Bd (E)
+LOCATION:313 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 6/3\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 END:VCALENDAR

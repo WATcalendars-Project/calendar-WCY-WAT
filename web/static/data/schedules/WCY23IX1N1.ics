@@ -2671,13 +2671,6 @@ LOCATION:203 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250406T160000
-DTEND:20250406T173500
-SUMMARY:Pw (w)
-LOCATION:309 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Jarosław Rulka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250412T080000
 DTEND:20250412T093500
 SUMMARY:MM (w)
@@ -3047,6 +3040,13 @@ DTEND:20250517T192500
 SUMMARY:Ikc (L)
 LOCATION:106 65
 DESCRIPTION:Interfejsy komputerów cyfrowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: mgr inż. Krzysztof Szajewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250517T194000
+DTEND:20250517T211500
+SUMMARY:Pw (w)
+LOCATION:309 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250518T080000

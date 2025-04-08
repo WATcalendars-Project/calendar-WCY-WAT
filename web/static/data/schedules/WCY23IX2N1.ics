@@ -2699,13 +2699,6 @@ LOCATION:203 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250406T160000
-DTEND:20250406T173500
-SUMMARY:Pw (w)
-LOCATION:309 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Jarosław Rulka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250412T080000
 DTEND:20250412T093500
 SUMMARY:MM (w)
@@ -3054,6 +3047,13 @@ DTEND:20250517T192500
 SUMMARY:IO (L)
 LOCATION:228 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250517T194000
+DTEND:20250517T211500
+SUMMARY:Pw (w)
+LOCATION:309 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250518T080000

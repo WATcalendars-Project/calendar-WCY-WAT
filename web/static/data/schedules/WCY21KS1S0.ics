@@ -5856,13 +5856,6 @@ LOCATION:085 S
 DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych II\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/18\nProwadzący: dr inż. Michał Wroński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250423T080000
-DTEND:20250423T093500
-SUMMARY:Gtl (L)
-LOCATION:085 S
-DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący: mgr inż. Łukasz Dzieł
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250423T095000
 DTEND:20250423T112500
 SUMMARY:MeSK (w)
@@ -6021,7 +6014,7 @@ DTSTART:20250506T095000
 DTEND:20250506T112500
 SUMMARY:Gtl (L)
 LOCATION:085 S
-DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący: mgr inż. Łukasz Dzieł
+DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T114000
@@ -6329,7 +6322,7 @@ DTSTART:20250521T080000
 DTEND:20250521T093500
 SUMMARY:Gtl (L)
 LOCATION:085 S
-DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/4\nProwadzący: mgr inż. Łukasz Dzieł
+DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T095000
@@ -6393,6 +6386,13 @@ DTEND:20250523T131500
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 85/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250523T133000
+DTEND:20250523T150500
+SUMMARY:Gtl (L)
+LOCATION:085 S
+DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/4\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T095000
