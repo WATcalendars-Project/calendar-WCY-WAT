@@ -4936,14 +4936,14 @@ DTSTART:20250304T080000
 DTEND:20250304T093500
 SUMMARY:WdA (w)
 LOCATION:307 S
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T095000
 DTEND:20250304T112500
 SUMMARY:WdA (w)
 LOCATION:307 S
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T114000
@@ -5097,14 +5097,14 @@ DTSTART:20250311T080000
 DTEND:20250311T093500
 SUMMARY:WdA (w)
 LOCATION:307 S
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T095000
 DTEND:20250311T112500
 SUMMARY:WdA (w)
 LOCATION:307 S
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T114000
@@ -5216,14 +5216,14 @@ DTSTART:20250318T080000
 DTEND:20250318T093500
 SUMMARY:WdA (w)
 LOCATION:307 S
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T095000
 DTEND:20250318T112500
 SUMMARY:WdA (w)
 LOCATION:307 S
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T114000
@@ -5377,7 +5377,7 @@ DTSTART:20250325T080000
 DTEND:20250325T093500
 SUMMARY:WdA (w)
 LOCATION:307 S
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T095000
@@ -7051,6 +7051,13 @@ DTEND:20250618T131500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 90/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250626T095000
+DTEND:20250626T112500
+SUMMARY:WdA (w)
+LOCATION:106 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250703T095000

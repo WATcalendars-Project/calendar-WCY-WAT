@@ -5226,10 +5226,24 @@ LOCATION:-
 DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 14/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250415T114000
+DTEND:20250415T131500
+SUMMARY:v6 (E)
+LOCATION:120 65
+DESCRIPTION:Sieci IPv6\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250416T095000
 DTEND:20250416T112500
 SUMMARY:JA-E (E)
 LOCATION:-
 DESCRIPTION:Język angielski - egzamin\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250423T095000
+DTEND:20250423T112500
+SUMMARY:v6 (Inne)
+LOCATION:120 65
+DESCRIPTION:Sieci IPv6\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 END:VCALENDAR

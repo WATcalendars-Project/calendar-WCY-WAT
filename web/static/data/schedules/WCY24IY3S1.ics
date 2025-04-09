@@ -2300,18 +2300,11 @@ LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250411T080000
-DTEND:20250411T093500
-SUMMARY:Tgs (w)
-LOCATION:314 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250411T095000
 DTEND:20250411T112500
 SUMMARY:Tgs (w)
 LOCATION:316 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T114000
@@ -2578,6 +2571,13 @@ DTEND:20250430T173500
 SUMMARY:Ja (ć)
 LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250505T080000
+DTEND:20250505T093500
+SUMMARY:Tgs (w)
+LOCATION:314 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T095000

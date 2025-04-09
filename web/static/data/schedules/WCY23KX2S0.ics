@@ -5583,13 +5583,6 @@ LOCATION:309 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250410T080000
-DTEND:20250410T093500
-SUMMARY:Etl (ć)
-LOCATION:307 S
-DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: dr Robert Dryło
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250410T095000
 DTEND:20250410T112500
 SUMMARY:Ja (ć)
@@ -5790,7 +5783,7 @@ DTSTART:20250424T080000
 DTEND:20250424T093500
 SUMMARY:Etl (ć)
 LOCATION:307 S
-DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr Robert Dryło
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T095000
@@ -5972,7 +5965,7 @@ DTSTART:20250508T080000
 DTEND:20250508T093500
 SUMMARY:Etl (ć)
 LOCATION:307 S
-DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: dr Robert Dryło
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T095000
@@ -6238,7 +6231,7 @@ DTSTART:20250522T080000
 DTEND:20250522T093500
 SUMMARY:Etl (ć)
 LOCATION:307 S
-DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: dr Robert Dryło
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T095000
@@ -6316,6 +6309,13 @@ DTEND:20250526T173500
 SUMMARY:Po (L)
 LOCATION:227 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/16\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250527T080000
+DTEND:20250527T093500
+SUMMARY:Etl (ć)
+LOCATION:316 S
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T095000

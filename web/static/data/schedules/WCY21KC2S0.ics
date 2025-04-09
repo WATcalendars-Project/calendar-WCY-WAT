@@ -5765,13 +5765,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 70/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250408T160000
-DTEND:20250408T173500
-SUMMARY:MPH (ć)
-LOCATION:201 65
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250408T175000
 DTEND:20250408T192500
 SUMMARY:Pwst (P)
@@ -5930,7 +5923,7 @@ DTSTART:20250415T160000
 DTEND:20250415T173500
 SUMMARY:MPH (ć)
 LOCATION:201 65
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T175000
@@ -6050,6 +6043,13 @@ DTEND:20250423T173500
 SUMMARY:Tds (w)
 LOCATION:316 S
 DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250424T080000
+DTEND:20250424T093500
+SUMMARY:MPH (ć)
+LOCATION:201 65
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T095000
