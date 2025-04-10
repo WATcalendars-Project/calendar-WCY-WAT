@@ -5415,10 +5415,17 @@ LOCATION:125 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250623T095000
+DTEND:20250623T112500
+SUMMARY:SO (Inne)
+LOCATION:125 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250624T095000
 DTEND:20250624T112500
 SUMMARY:Tik (Inne)
-LOCATION:308 S
+LOCATION:106 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
@@ -5427,5 +5434,12 @@ DTEND:20250627T131500
 SUMMARY:WdA (Inne)
 LOCATION:106 65
 DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250915T080000
+DTEND:20250915T093500
+SUMMARY:SO (Inne)
+LOCATION:125 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 END:VCALENDAR

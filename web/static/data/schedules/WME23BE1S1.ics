@@ -1012,13 +1012,6 @@ LOCATION:52/ 62
 DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250409T095000
-DTEND:20250409T112500
-SUMMARY:Pps (w)
-LOCATION:15/ 23a
-DESCRIPTION:Podstawy przetwarzania sygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250410T080000
 DTEND:20250410T093500
 SUMMARY:Mele (L)
@@ -1170,7 +1163,7 @@ DTSTART:20250414T160000
 DTEND:20250414T173500
 SUMMARY:Pps (w)
 LOCATION:8/ 62
-DESCRIPTION:Podstawy przetwarzania sygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
+DESCRIPTION:Podstawy przetwarzania sygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T175000
@@ -1212,7 +1205,7 @@ DTSTART:20250416T095000
 DTEND:20250416T112500
 SUMMARY:Pps (w)
 LOCATION:54/ 62
-DESCRIPTION:Podstawy przetwarzania sygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
+DESCRIPTION:Podstawy przetwarzania sygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T114000
@@ -2648,6 +2641,13 @@ DTEND:20250603T192500
 SUMMARY:Wzr. (L)
 LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250604T080000
+DTEND:20250604T093500
+SUMMARY:Pps (w)
+LOCATION:52/ 62
+DESCRIPTION:Podstawy przetwarzania sygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T133000

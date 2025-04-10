@@ -6213,20 +6213,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 30/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250507T080000
-DTEND:20250507T093500
-SUMMARY:Zt (L)
-LOCATION:125 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Szymon Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250507T095000
-DTEND:20250507T112500
-SUMMARY:Zt (L)
-LOCATION:125 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Szymon Chmielewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250507T114000
 DTEND:20250507T131500
 SUMMARY:Ja (ć)
@@ -6448,14 +6434,14 @@ DTSTART:20250519T114000
 DTEND:20250519T131500
 SUMMARY:Zt (L)
 LOCATION:120 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Szymon Chmielewski
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T133000
 DTEND:20250519T150500
 SUMMARY:Zt (L)
 LOCATION:120 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Szymon Chmielewski
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T160000
@@ -6827,6 +6813,20 @@ DTEND:20250606T131500
 SUMMARY:Ja (ć)
 LOCATION:120 K 121 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 88/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250606T133000
+DTEND:20250606T150500
+SUMMARY:Zt (L)
+LOCATION:121 65
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250606T160000
+DTEND:20250606T173500
+SUMMARY:Zt (L)
+LOCATION:121 65
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250607T095000

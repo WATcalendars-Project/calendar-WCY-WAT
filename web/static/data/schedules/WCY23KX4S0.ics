@@ -5688,13 +5688,6 @@ LOCATION:314 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250410T133000
-DTEND:20250410T150500
-SUMMARY:DWiPD (ć)
-LOCATION:205 65
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250411T080000
 DTEND:20250411T093500
 SUMMARY:TA (ć)
@@ -5805,6 +5798,13 @@ DTEND:20250415T173500
 SUMMARY:Bpe (L)
 LOCATION:120 65
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250416T095000
+DTEND:20250416T112500
+SUMMARY:DWiPD (ć)
+LOCATION:3/ 54
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T114000

@@ -6955,6 +6955,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 90/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250623T080000
+DTEND:20250623T093500
+SUMMARY:SO (Inne)
+LOCATION:125 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Grzegorz Kropiewnicki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250703T095000
 DTEND:20250703T112500
 SUMMARY:Bd (E)

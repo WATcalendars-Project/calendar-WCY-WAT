@@ -4435,13 +4435,6 @@ LOCATION:120 65
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250411T160000
-DTEND:20250411T173500
-SUMMARY:Etl (ć)
-LOCATION:309 S
-DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: dr Robert Dryło
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250414T080000
 DTEND:20250414T093500
 SUMMARY:Wek (L)
@@ -4768,7 +4761,7 @@ DTSTART:20250509T114000
 DTEND:20250509T131500
 SUMMARY:Etl (ć)
 LOCATION:308 S
-DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: dr Robert Dryło
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T080000
@@ -4971,7 +4964,7 @@ DTSTART:20250523T133000
 DTEND:20250523T150500
 SUMMARY:Etl (ć)
 LOCATION:308 S
-DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr Robert Dryło
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T080000
@@ -5119,6 +5112,13 @@ DTEND:20250604T150500
 SUMMARY:Wek (L)
 LOCATION:085 S
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/16\nProwadzący: mgr inż. Alicja Kida
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250605T080000
+DTEND:20250605T093500
+SUMMARY:Etl (ć)
+LOCATION:316 S
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T095000

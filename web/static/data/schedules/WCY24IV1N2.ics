@@ -1215,13 +1215,6 @@ LOCATION:309 S
 DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250412T133000
-DTEND:20250412T150500
-SUMMARY:Sbay (L)
-LOCATION:224 S
-DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący:  Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250412T160000
 DTEND:20250412T173500
 SUMMARY:Ek (w)
@@ -1303,13 +1296,20 @@ DTSTART:20250426T160000
 DTEND:20250426T173500
 SUMMARY:Sbay (L)
 LOCATION:227 S
-DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący:  Tomasz Gutowski
+DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250426T175000
 DTEND:20250426T192500
 SUMMARY:Sbay (L)
 LOCATION:227 S
+DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący:  Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250427T080000
+DTEND:20250427T093500
+SUMMARY:Sbay (L)
+LOCATION:226 S
 DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT

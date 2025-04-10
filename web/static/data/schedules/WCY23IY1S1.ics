@@ -5380,6 +5380,13 @@ LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 45/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250623T095000
+DTEND:20250623T112500
+SUMMARY:SO (Inne)
+LOCATION:125 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć:  - \nNr zajęć: 5/2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250624T080000
 DTEND:20250624T093500
 SUMMARY:Tik (Inne)
@@ -5392,5 +5399,12 @@ DTEND:20250627T112500
 SUMMARY:WdA (Inne)
 LOCATION:106 65
 DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250915T080000
+DTEND:20250915T093500
+SUMMARY:SO (Inne)
+LOCATION:125 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć:  - \nNr zajęć: 6/2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 END:VCALENDAR

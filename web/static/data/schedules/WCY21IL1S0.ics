@@ -5149,13 +5149,6 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 34/43\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250331T080000
-DTEND:20250331T093500
-SUMMARY:Orr (ć)
-LOCATION:314 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: mgr inż. Piotr Stąpor
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250331T095000
 DTEND:20250331T112500
 SUMMARY:dsk (L)
@@ -5693,6 +5686,13 @@ DTEND:20250428T131500
 SUMMARY:dsk (L)
 LOCATION:106 65
 DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250428T133000
+DTEND:20250428T150500
+SUMMARY:Orr (ć)
+LOCATION:237 S
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T160000
