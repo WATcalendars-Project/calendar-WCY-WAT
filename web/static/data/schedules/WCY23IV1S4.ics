@@ -1124,32 +1124,18 @@ LOCATION:-
 DESCRIPTION:Targi pracy WAT\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250414T133000
-DTEND:20250414T150500
-SUMMARY:Miob (w)
-LOCATION:223 S
-DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250414T160000
-DTEND:20250414T173500
-SUMMARY:Miob (w)
-LOCATION:227 S
-DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250415T080000
 DTEND:20250415T093500
-SUMMARY:Assp (w)
+SUMMARY:Miob (w)
 LOCATION:307 S
-DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Rafał Kasprzyk
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T095000
 DTEND:20250415T112500
 SUMMARY:Assp (w)
 LOCATION:307 S
-DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Rafał Kasprzyk
+DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T114000
@@ -1191,6 +1177,20 @@ DTSTART:20250416T114000
 DTEND:20250416T131500
 SUMMARY:Miob (w)
 LOCATION:226 S
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250417T095000
+DTEND:20250417T112500
+SUMMARY:Assp (w)
+LOCATION:237 S
+DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250417T114000
+DTEND:20250417T131500
+SUMMARY:Miob (w)
+LOCATION:227 S
 DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 END:VCALENDAR

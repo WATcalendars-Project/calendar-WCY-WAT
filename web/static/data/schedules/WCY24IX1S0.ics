@@ -2094,7 +2094,7 @@ DTSTART:20250220T114000
 DTEND:20250220T131500
 SUMMARY:M II (Inne)
 LOCATION:316 S 317 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250221T080000
@@ -3112,13 +3112,6 @@ LOCATION:132 K 239 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 43/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250415T160000
-DTEND:20250415T173500
-SUMMARY:M II (Inne)
-LOCATION:252 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Joanna Piasecka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250416T095000
 DTEND:20250416T112500
 SUMMARY:REG (ć)
@@ -3455,13 +3448,6 @@ LOCATION:AW 3/043
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (repetytorium) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250508T114000
-DTEND:20250508T131500
-SUMMARY:REG (ć)
-LOCATION:AW 1
-DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250508T133000
 DTEND:20250508T150500
 SUMMARY:WF (ć)
@@ -3731,15 +3717,8 @@ BEGIN:VEVENT
 DTSTART:20250521T080000
 DTEND:20250521T093500
 SUMMARY:REG (ć)
-LOCATION:AW 3/038
-DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250521T095000
-DTEND:20250521T112500
-SUMMARY:REG (ć)
-LOCATION:AW 3/038
-DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/6\nProwadzący: -
+LOCATION:AW 3/043
+DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T080000
@@ -3772,23 +3751,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T160000
 DTEND:20250522T173500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 34/1\nProwadzący: -
+SUMMARY:REG (ć)
+LOCATION:AW 3/038
+DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T175000
 DTEND:20250522T192500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 35/1\nProwadzący: -
+SUMMARY:REG (ć)
+LOCATION:AW 3/038
+DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T194000
 DTEND:20250522T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 36/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 34/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T095000
@@ -3907,21 +3886,21 @@ DTSTART:20250529T160000
 DTEND:20250529T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 37/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 35/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T175000
 DTEND:20250529T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 38/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 36/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T194000
 DTEND:20250529T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 39/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 37/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T095000
@@ -4068,14 +4047,14 @@ DTSTART:20250605T175000
 DTEND:20250605T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 40/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 38/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T194000
 DTEND:20250605T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 41/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 39/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T080000
@@ -4169,39 +4148,25 @@ LOCATION:ST.nr 1
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250612T114000
-DTEND:20250612T131500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 42/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250612T133000
-DTEND:20250612T150500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 43/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250612T160000
 DTEND:20250612T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 44/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 40/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T175000
 DTEND:20250612T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 45/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 41/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T194000
 DTEND:20250612T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 46/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 42/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T080000

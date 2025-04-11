@@ -3567,13 +3567,6 @@ LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250507T080000
-DTEND:20250507T093500
-SUMMARY:REG (ć)
-LOCATION:AW 3/043
-DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250507T095000
 DTEND:20250507T112500
 SUMMARY:F1 (w)
@@ -4019,14 +4012,7 @@ DTSTART:20250528T080000
 DTEND:20250528T093500
 SUMMARY:REG (ć)
 LOCATION:BIBL /22
-DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250528T095000
-DTEND:20250528T112500
-SUMMARY:REG (ć)
-LOCATION:BIBL /22
-DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: -
+DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T114000
@@ -4213,30 +4199,30 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T133000
 DTEND:20250605T150500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 61/1\nProwadzący: -
+SUMMARY:REG (ć)
+LOCATION:AW 4
+DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T160000
 DTEND:20250605T173500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 62/1\nProwadzący: -
+SUMMARY:REG (ć)
+LOCATION:AW 4
+DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T175000
 DTEND:20250605T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 63/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 61/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T194000
 DTEND:20250605T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 64/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 62/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T095000
@@ -4383,14 +4369,14 @@ DTSTART:20250612T175000
 DTEND:20250612T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 65/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 63/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T194000
 DTEND:20250612T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 66/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 64/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T095000

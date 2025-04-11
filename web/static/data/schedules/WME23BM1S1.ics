@@ -963,13 +963,6 @@ LOCATION:52/ 62
 DESCRIPTION:Wstęp do projektowania w biomechanice - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250410T095000
-DTEND:20250410T112500
-SUMMARY:Wm (w)
-LOCATION:52/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250410T114000
 DTEND:20250410T131500
 SUMMARY:Pps (L)
@@ -1143,13 +1136,6 @@ DTEND:20250416T131500
 SUMMARY:BiO (L)
 LOCATION:233 S
 DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący: dr inż. Leszek Grad
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250417T080000
-DTEND:20250417T093500
-SUMMARY:Wm (w)
-LOCATION:52/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T095000
@@ -1446,13 +1432,6 @@ LOCATION:104 61
 DESCRIPTION:Podstawy przetwarzania sygnałów - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250424T080000
-DTEND:20250424T093500
-SUMMARY:Wm (w)
-LOCATION:52/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250424T095000
 DTEND:20250424T112500
 SUMMARY:Ebe (w)
@@ -1576,7 +1555,7 @@ DTSTART:20250428T114000
 DTEND:20250428T131500
 SUMMARY:Wm (w)
 LOCATION:52/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T133000
@@ -1835,7 +1814,7 @@ DTSTART:20250505T114000
 DTEND:20250505T131500
 SUMMARY:Wm (w)
 LOCATION:52/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T133000
@@ -2137,6 +2116,13 @@ DTEND:20250515T150500
 SUMMARY:WdPB (L)
 LOCATION:57/ 62
 DESCRIPTION:Wstęp do projektowania w biomechanice - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250515T160000
+DTEND:20250515T173500
+SUMMARY:Wm (w)
+LOCATION:52/ 62
+DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T080000
@@ -2482,6 +2468,13 @@ LOCATION:57/ 62
 DESCRIPTION:Wstęp do modelowania układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250529T160000
+DTEND:20250529T173500
+SUMMARY:Wm (w)
+LOCATION:52/ 62
+DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250530T080000
 DTEND:20250530T093500
 SUMMARY:- (Inne)
@@ -2720,13 +2713,6 @@ LOCATION:313 S
 DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 10/11\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250607T133000
-DTEND:20250607T150500
-SUMMARY:XFiz1 (E)
-LOCATION:aF S
-DESCRIPTION:XFizyka 1 - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250608T133000
 DTEND:20250608T150500
 SUMMARY:XMat3 (ć)
@@ -2900,6 +2886,13 @@ DTEND:20250614T150500
 SUMMARY:XMat3 (w)
 LOCATION:313 S
 DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 11/11\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T080000
+DTEND:20250616T093500
+SUMMARY:Wm (w)
+LOCATION:52/ 62
+DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T114000
@@ -3196,13 +3189,6 @@ LOCATION:2/ 23a
 DESCRIPTION:English in biomedical engineering - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250625T160000
-DTEND:20250625T173500
-SUMMARY:Wzr. (E)
-LOCATION:54/ 62
-DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250626T095000
 DTEND:20250626T112500
 SUMMARY:Sz.P (Inne)
@@ -3222,20 +3208,6 @@ DTEND:20250626T150500
 SUMMARY:WdPB (Inne)
 LOCATION:57/ 62
 DESCRIPTION:Wstęp do projektowania w biomechanice - (Zaliczenie poprawkowe  lab.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250628T133000
-DTEND:20250628T150500
-SUMMARY:XFiz1 (Inne)
-LOCATION:aF S
-DESCRIPTION:XFizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 15/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250630T095000
-DTEND:20250630T112500
-SUMMARY:Wm (E)
-LOCATION:52/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T114000
@@ -3306,19 +3278,5 @@ DTEND:20250703T150500
 SUMMARY:WdPB (Inne)
 LOCATION:54/ 62
 DESCRIPTION:Wstęp do projektowania w biomechanice - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250915T095000
-DTEND:20250915T112500
-SUMMARY:Wm (Inne)
-LOCATION:52/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250917T160000
-DTEND:20250917T173500
-SUMMARY:Wzr. (Inne)
-LOCATION:54/ 62
-DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

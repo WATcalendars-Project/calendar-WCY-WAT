@@ -4645,13 +4645,6 @@ LOCATION:317 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250414T114000
-DTEND:20250414T131500
-SUMMARY:SI (w)
-LOCATION:307 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250414T133000
 DTEND:20250414T150500
 SUMMARY:Pw (w)
@@ -4817,7 +4810,7 @@ DTSTART:20250428T114000
 DTEND:20250428T131500
 SUMMARY:SI (w)
 LOCATION:307 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T080000
@@ -4852,7 +4845,7 @@ DTSTART:20250429T175000
 DTEND:20250429T192500
 SUMMARY:SI (w)
 LOCATION:313 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T080000
@@ -4962,6 +4955,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T160000
 DTEND:20250509T173500
+SUMMARY:SI (w)
+LOCATION:313 S
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250509T175000
+DTEND:20250509T192500
 SUMMARY:SI (w)
 LOCATION:313 S
 DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
@@ -5417,9 +5417,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T095000
 DTEND:20250623T112500
-SUMMARY:SO (Inne)
+SUMMARY:Sck (Inne)
 LOCATION:125 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T095000
@@ -5438,8 +5438,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250915T080000
 DTEND:20250915T093500
-SUMMARY:SO (Inne)
+SUMMARY:Sck (Inne)
 LOCATION:125 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 END:VCALENDAR

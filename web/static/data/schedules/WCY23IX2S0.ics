@@ -4936,14 +4936,14 @@ DTSTART:20250304T080000
 DTEND:20250304T093500
 SUMMARY:WdA (w)
 LOCATION:307 S
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T095000
 DTEND:20250304T112500
 SUMMARY:WdA (w)
 LOCATION:307 S
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T114000
@@ -5097,14 +5097,14 @@ DTSTART:20250311T080000
 DTEND:20250311T093500
 SUMMARY:WdA (w)
 LOCATION:307 S
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T095000
 DTEND:20250311T112500
 SUMMARY:WdA (w)
 LOCATION:307 S
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T114000
@@ -5216,14 +5216,14 @@ DTSTART:20250318T080000
 DTEND:20250318T093500
 SUMMARY:WdA (w)
 LOCATION:307 S
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T095000
 DTEND:20250318T112500
 SUMMARY:WdA (w)
 LOCATION:307 S
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T114000
@@ -5377,7 +5377,7 @@ DTSTART:20250325T080000
 DTEND:20250325T093500
 SUMMARY:WdA (w)
 LOCATION:307 S
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T095000
@@ -5807,13 +5807,6 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 73/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250414T114000
-DTEND:20250414T131500
-SUMMARY:SI (w)
-LOCATION:307 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250414T133000
 DTEND:20250414T150500
 SUMMARY:Gk (L)
@@ -6035,7 +6028,7 @@ DTSTART:20250428T114000
 DTEND:20250428T131500
 SUMMARY:SI (w)
 LOCATION:307 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T133000
@@ -6091,7 +6084,7 @@ DTSTART:20250429T175000
 DTEND:20250429T192500
 SUMMARY:SI (w)
 LOCATION:313 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T080000
@@ -6299,6 +6292,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T160000
 DTEND:20250509T173500
+SUMMARY:SI (w)
+LOCATION:313 S
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250509T175000
+DTEND:20250509T192500
 SUMMARY:SI (w)
 LOCATION:313 S
 DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
@@ -7055,50 +7055,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T095000
 DTEND:20250626T112500
-SUMMARY:WdA (w)
+SUMMARY:WdA (Inne)
 LOCATION:106 65
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250703T095000
-DTEND:20250703T112500
-SUMMARY:Bd (E)
-LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/3\nProwadzący: dr hab. inż. Maciej Kiedrowicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250703T095000
-DTEND:20250703T112500
-SUMMARY:Bd (E)
-LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 2/3\nProwadzący: mgr inż. Józef Woźniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250703T114000
-DTEND:20250703T131500
-SUMMARY:Bd (E)
-LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 3/3\nProwadzący: dr hab. inż. Maciej Kiedrowicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250703T114000
-DTEND:20250703T131500
-SUMMARY:Bd (E)
-LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 4/3\nProwadzący: mgr inż. Józef Woźniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250703T133000
-DTEND:20250703T150500
-SUMMARY:Bd (E)
-LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 5/3\nProwadzący: dr hab. inż. Maciej Kiedrowicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250703T133000
-DTEND:20250703T150500
-SUMMARY:Bd (E)
-LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 6/3\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 END:VCALENDAR

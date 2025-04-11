@@ -2206,7 +2206,7 @@ DTSTART:20250203T160000
 DTEND:20250203T173500
 SUMMARY:M II (Inne)
 LOCATION:204 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250204T080000
@@ -2276,7 +2276,7 @@ DTSTART:20250220T114000
 DTEND:20250220T131500
 SUMMARY:M II (Inne)
 LOCATION:316 S 317 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250221T080000
@@ -3280,13 +3280,6 @@ LOCATION:132 K 239 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 43/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250415T160000
-DTEND:20250415T173500
-SUMMARY:M II (Inne)
-LOCATION:252 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr Joanna Piasecka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250416T095000
 DTEND:20250416T112500
 SUMMARY:WF (ć)
@@ -3700,20 +3693,6 @@ LOCATION:313 S
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250512T095000
-DTEND:20250512T112500
-SUMMARY:REG (ć)
-LOCATION:AW 7
-DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250512T114000
-DTEND:20250512T131500
-SUMMARY:REG (ć)
-LOCATION:AW 7
-DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250512T160000
 DTEND:20250512T173500
 SUMMARY:Tpi (ć)
@@ -3740,6 +3719,20 @@ DTEND:20250513T131500
 SUMMARY:Ja (ć)
 LOCATION:132 K 239 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 47/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250513T160000
+DTEND:20250513T173500
+SUMMARY:REG (ć)
+LOCATION:AW 3/043
+DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250513T175000
+DTEND:20250513T192500
+SUMMARY:REG (ć)
+LOCATION:AW 3/043
+DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T095000

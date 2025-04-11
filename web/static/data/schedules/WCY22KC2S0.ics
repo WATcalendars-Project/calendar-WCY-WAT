@@ -1481,13 +1481,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250509T095000
-DTEND:20250509T112500
-SUMMARY:REG (ć)
-LOCATION:AW 3/038
-DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250509T114000
 DTEND:20250509T131500
 SUMMARY:Pwo (w)
@@ -1670,32 +1663,25 @@ LOCATION:AW 3/038
 DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250516T133000
-DTEND:20250516T150500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250516T160000
 DTEND:20250516T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 16/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T175000
 DTEND:20250516T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 17/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 16/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T194000
 DTEND:20250516T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 18/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 17/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250517T080000
@@ -1877,21 +1863,21 @@ DTSTART:20250523T160000
 DTEND:20250523T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 19/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 18/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T175000
 DTEND:20250523T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 20/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 19/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T194000
 DTEND:20250523T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 21/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 20/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T080000
@@ -2006,6 +1992,13 @@ LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 27/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250529T133000
+DTEND:20250529T150500
+SUMMARY:REG (ć)
+LOCATION:AW 7
+DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250530T080000
 DTEND:20250530T093500
 SUMMARY:WF (ć)
@@ -2052,7 +2045,7 @@ DTSTART:20250530T194000
 DTEND:20250530T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 22/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 21/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250531T080000
@@ -2118,6 +2111,13 @@ LOCATION:125 65
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250604T194000
+DTEND:20250604T211500
+SUMMARY:REG (ć)
+LOCATION:PL.MUSZ1
+DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250605T095000
 DTEND:20250605T112500
 SUMMARY:PKSt (ć)
@@ -2164,14 +2164,14 @@ DTSTART:20250606T175000
 DTEND:20250606T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 23/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 22/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T194000
 DTEND:20250606T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 24/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 23/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250607T080000
@@ -2293,13 +2293,6 @@ LOCATION:011 65
 DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 5/5\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250613T080000
-DTEND:20250613T093500
-SUMMARY:REG (ć)
-LOCATION:PL.MUSZ1
-DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250613T095000
 DTEND:20250613T112500
 SUMMARY:Pwo (ć)
@@ -2332,14 +2325,14 @@ DTSTART:20250613T175000
 DTEND:20250613T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 25/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 24/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T194000
 DTEND:20250613T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 26/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 25/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T080000

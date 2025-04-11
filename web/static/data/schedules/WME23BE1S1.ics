@@ -1019,13 +1019,6 @@ LOCATION:7 80
 DESCRIPTION:Materiały elektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250410T095000
-DTEND:20250410T112500
-SUMMARY:Wm (w)
-LOCATION:52/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250410T114000
 DTEND:20250410T131500
 SUMMARY:Adp (w)
@@ -1227,13 +1220,6 @@ DTEND:20250416T173500
 SUMMARY:BiO (L)
 LOCATION:233 S
 DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący: dr inż. Leszek Grad
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250417T080000
-DTEND:20250417T093500
-SUMMARY:Wm (w)
-LOCATION:52/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T095000
@@ -1516,13 +1502,6 @@ LOCATION:233 S
 DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250424T080000
-DTEND:20250424T093500
-SUMMARY:Wm (w)
-LOCATION:52/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250424T095000
 DTEND:20250424T112500
 SUMMARY:Adp (w)
@@ -1653,7 +1632,7 @@ DTSTART:20250428T114000
 DTEND:20250428T131500
 SUMMARY:Wm (w)
 LOCATION:52/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T133000
@@ -1898,7 +1877,7 @@ DTSTART:20250505T114000
 DTEND:20250505T131500
 SUMMARY:Wm (w)
 LOCATION:52/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T133000
@@ -2158,6 +2137,13 @@ DTEND:20250515T150500
 SUMMARY:Adp (w)
 LOCATION:116 45
 DESCRIPTION:Analiza danych pomiarowych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250515T160000
+DTEND:20250515T173500
+SUMMARY:Wm (w)
+LOCATION:52/ 62
+DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T080000
@@ -2496,6 +2482,13 @@ LOCATION:30 54E
 DESCRIPTION:Wybrane zagadnienia fizyki kwantowej  - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250529T160000
+DTEND:20250529T173500
+SUMMARY:Wm (w)
+LOCATION:52/ 62
+DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250530T080000
 DTEND:20250530T093500
 SUMMARY:- (Inne)
@@ -2748,13 +2741,6 @@ LOCATION:313 S
 DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 10/11\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250607T133000
-DTEND:20250607T150500
-SUMMARY:XFiz1 (E)
-LOCATION:aF S
-DESCRIPTION:XFizyka 1 - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250608T133000
 DTEND:20250608T150500
 SUMMARY:XMat3 (ć)
@@ -2900,6 +2886,13 @@ DTEND:20250614T150500
 SUMMARY:XMat3 (w)
 LOCATION:313 S
 DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 11/11\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T080000
+DTEND:20250616T093500
+SUMMARY:Wm (w)
+LOCATION:52/ 62
+DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T095000
@@ -3210,27 +3203,6 @@ LOCATION:233 S
 DESCRIPTION:Biometria\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250625T160000
-DTEND:20250625T173500
-SUMMARY:Wzr. (E)
-LOCATION:54/ 62
-DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250628T133000
-DTEND:20250628T150500
-SUMMARY:XFiz1 (Inne)
-LOCATION:aF S
-DESCRIPTION:XFizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 15/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250630T095000
-DTEND:20250630T112500
-SUMMARY:Wm (E)
-LOCATION:52/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250630T114000
 DTEND:20250630T131500
 SUMMARY:Pr.M (Inne)
@@ -3280,13 +3252,6 @@ LOCATION:54/ 62
 DESCRIPTION:Graficzne środowiska programowania systemów pomiarowych - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250915T095000
-DTEND:20250915T112500
-SUMMARY:Wm (Inne)
-LOCATION:52/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250915T114000
 DTEND:20250915T131500
 SUMMARY:Elpł (Inne)
@@ -3313,12 +3278,5 @@ DTEND:20250917T150500
 SUMMARY:Wzf (Inne)
 LOCATION:3 54E
 DESCRIPTION:Wybrane zagadnienia fizyki kwantowej  - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250917T160000
-DTEND:20250917T173500
-SUMMARY:Wzr. (Inne)
-LOCATION:54/ 62
-DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

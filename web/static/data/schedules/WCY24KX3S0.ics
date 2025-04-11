@@ -4197,6 +4197,20 @@ LOCATION:236 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250604T160000
+DTEND:20250604T173500
+SUMMARY:REG (ć)
+LOCATION:AW 3/043
+DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250604T175000
+DTEND:20250604T192500
+SUMMARY:REG (ć)
+LOCATION:AW 3/043
+DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250605T080000
 DTEND:20250605T093500
 SUMMARY:- (S.Sz.W.)
@@ -4342,20 +4356,6 @@ DTEND:20250611T112500
 SUMMARY:F1 (w)
 LOCATION:314 S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 18/20\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250611T114000
-DTEND:20250611T131500
-SUMMARY:REG (ć)
-LOCATION:AW 7
-DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250611T133000
-DTEND:20250611T150500
-SUMMARY:REG (ć)
-LOCATION:AW 7
-DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T080000
