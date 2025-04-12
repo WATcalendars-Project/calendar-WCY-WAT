@@ -578,13 +578,6 @@ LOCATION:313 S
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr Lucjan Kowalski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250428T114000
-DTEND:20250428T131500
-SUMMARY:Msk. (w)
-LOCATION:309 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250430T080000
 DTEND:20250430T093500
 SUMMARY:Swp (w)
@@ -632,13 +625,6 @@ DTEND:20250505T112500
 SUMMARY:Soc (w)
 LOCATION:317 S
 DESCRIPTION:Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250505T114000
-DTEND:20250505T131500
-SUMMARY:Msk. (w)
-LOCATION:309 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T080000
@@ -729,7 +715,7 @@ DTSTART:20250512T114000
 DTEND:20250512T131500
 SUMMARY:Msk. (w)
 LOCATION:309 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T133000
@@ -785,7 +771,7 @@ DTSTART:20250519T114000
 DTEND:20250519T131500
 SUMMARY:Msk. (w)
 LOCATION:309 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T095000
@@ -821,6 +807,13 @@ DTEND:20250521T131500
 SUMMARY:Msk. (L)
 LOCATION:224 S
 DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący:  Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250522T080000
+DTEND:20250522T093500
+SUMMARY:Msk. (w)
+LOCATION:309 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T095000
@@ -890,7 +883,7 @@ DTSTART:20250526T114000
 DTEND:20250526T131500
 SUMMARY:Msk. (w)
 LOCATION:309 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T133000
@@ -926,6 +919,13 @@ DTEND:20250528T131500
 SUMMARY:Msk. (L)
 LOCATION:224 S
 DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący:  Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250528T133000
+DTEND:20250528T150500
+SUMMARY:Msk. (w)
+LOCATION:309 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T133000

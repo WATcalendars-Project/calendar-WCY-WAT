@@ -5877,6 +5877,20 @@ LOCATION:31 54E
 DESCRIPTION:Technika obliczeniowa i symulacyjna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250414T114000
+DTEND:20250414T131500
+SUMMARY:Sze (L)
+LOCATION:058 S
+DESCRIPTION:Systemy zapewnienia energii - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250414T133000
+DTEND:20250414T150500
+SUMMARY:Sze (L)
+LOCATION:058 S
+DESCRIPTION:Systemy zapewnienia energii - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250415T080000
 DTEND:20250415T093500
 SUMMARY:TC (L)
@@ -6329,14 +6343,14 @@ DTSTART:20250428T080000
 DTEND:20250428T093500
 SUMMARY:Sze (L)
 LOCATION:058 S
-DESCRIPTION:Systemy zapewnienia energii - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: -
+DESCRIPTION:Systemy zapewnienia energii - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T095000
 DTEND:20250428T112500
 SUMMARY:Sze (L)
 LOCATION:058 S
-DESCRIPTION:Systemy zapewnienia energii - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: -
+DESCRIPTION:Systemy zapewnienia energii - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T114000
@@ -6595,14 +6609,14 @@ DTSTART:20250505T080000
 DTEND:20250505T093500
 SUMMARY:Sze (L)
 LOCATION:058 S
-DESCRIPTION:Systemy zapewnienia energii - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: -
+DESCRIPTION:Systemy zapewnienia energii - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T095000
 DTEND:20250505T112500
 SUMMARY:Sze (L)
 LOCATION:058 S
-DESCRIPTION:Systemy zapewnienia energii - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: -
+DESCRIPTION:Systemy zapewnienia energii - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T114000
@@ -7183,14 +7197,14 @@ DTSTART:20250605T114000
 DTEND:20250605T131500
 SUMMARY:Sze (L)
 LOCATION:058 S
-DESCRIPTION:Systemy zapewnienia energii - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: -
+DESCRIPTION:Systemy zapewnienia energii - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T133000
 DTEND:20250605T150500
 SUMMARY:Sze (L)
 LOCATION:058 S
-DESCRIPTION:Systemy zapewnienia energii - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -
+DESCRIPTION:Systemy zapewnienia energii - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T160000
@@ -7324,20 +7338,6 @@ DTEND:20250611T112500
 SUMMARY:PRo (L)
 LOCATION:66 S
 DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250611T114000
-DTEND:20250611T131500
-SUMMARY:Sze (L)
-LOCATION:058 S
-DESCRIPTION:Systemy zapewnienia energii - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250611T133000
-DTEND:20250611T150500
-SUMMARY:Sze (L)
-LOCATION:058 S
-DESCRIPTION:Systemy zapewnienia energii - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T080000

@@ -1233,7 +1233,7 @@ DTSTART:20250227T095000
 DTEND:20250227T112500
 SUMMARY:Mnwd (w)
 LOCATION:233 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250227T114000
@@ -1499,7 +1499,7 @@ DTSTART:20250310T095000
 DTEND:20250310T112500
 SUMMARY:Mnwd (w)
 LOCATION:307 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T114000
@@ -1933,7 +1933,7 @@ DTSTART:20250326T133000
 DTEND:20250326T150500
 SUMMARY:Mnwd (w)
 LOCATION:307 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T160000
@@ -2381,7 +2381,7 @@ DTSTART:20250408T133000
 DTEND:20250408T150500
 SUMMARY:Mnwd (w)
 LOCATION:228 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 4/3\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T175000
@@ -2458,7 +2458,7 @@ DTSTART:20250410T160000
 DTEND:20250410T173500
 SUMMARY:Mnwd (w)
 LOCATION:317 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 5/3\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 5/4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T080000
@@ -2487,6 +2487,13 @@ DTEND:20250411T150500
 SUMMARY:Mnwd (L)
 LOCATION:224 S
 DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Dawid Maślanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250411T160000
+DTEND:20250411T173500
+SUMMARY:Mnwd (w)
+LOCATION:309 S
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T080000
@@ -2619,7 +2626,7 @@ DTSTART:20250417T160000
 DTEND:20250417T173500
 SUMMARY:Mnwd (w)
 LOCATION:317 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 6/3\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 7/4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250418T080000
