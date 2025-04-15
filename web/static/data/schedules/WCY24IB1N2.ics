@@ -1488,13 +1488,6 @@ LOCATION:309 S
 DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250510T095000
-DTEND:20250510T112500
-SUMMARY:ak (ć)
-LOCATION:308 S
-DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: dr inż. Joanna Wiśniewska
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250510T114000
 DTEND:20250510T131500
 SUMMARY:isi (L)
@@ -1667,7 +1660,7 @@ DTSTART:20250524T095000
 DTEND:20250524T112500
 SUMMARY:ak (ć)
 LOCATION:317 S
-DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T114000
@@ -1850,6 +1843,13 @@ DTEND:20250607T131500
 SUMMARY:No (L)
 LOCATION:224 S
 DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250607T133000
+DTEND:20250607T150500
+SUMMARY:ak (ć)
+LOCATION:307 S
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250607T160000

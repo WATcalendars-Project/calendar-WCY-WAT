@@ -2409,7 +2409,7 @@ DTSTART:20240701T095000
 DTEND:20240701T112500
 SUMMARY:Wm (E)
 LOCATION:52/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240703T095000
@@ -8103,10 +8103,66 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 399/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250623T095000
+DTEND:20250623T112500
+SUMMARY:SsO (E)
+LOCATION:13 71
+DESCRIPTION:Sensory i systemy optoelektroniczne - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250624T133000
 DTEND:20250624T150500
 SUMMARY:Wm (Inne)
 LOCATION:54/ 62
 DESCRIPTION:Wytrzymałość materiałów - (Zp. Ćw) -\nRodzaj zajęć:  - \nNr zajęć: 4/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250625T095000
+DTEND:20250625T112500
+SUMMARY:OPS (E)
+LOCATION:13 71
+DESCRIPTION:Optyka stosowana - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250627T095000
+DTEND:20250627T112500
+SUMMARY:MrT (E)
+LOCATION:13 71
+DESCRIPTION:Medycyna regeneracyjna i inżynieria tkankowa - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250630T095000
+DTEND:20250630T112500
+SUMMARY:Wm (E)
+LOCATION:52/ 62
+DESCRIPTION:Wytrzymałość materiałów - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250915T095000
+DTEND:20250915T112500
+SUMMARY:Wm (Inne)
+LOCATION:52/ 62
+DESCRIPTION:Wytrzymałość materiałów - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 5/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250915T114000
+DTEND:20250915T131500
+SUMMARY:SsO (Inne)
+LOCATION:13 71
+DESCRIPTION:Sensory i systemy optoelektroniczne - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250917T114000
+DTEND:20250917T131500
+SUMMARY:OPS (Inne)
+LOCATION:13 71
+DESCRIPTION:Optyka stosowana - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250919T095000
+DTEND:20250919T112500
+SUMMARY:MrT (Inne)
+LOCATION:13 71
+DESCRIPTION:Medycyna regeneracyjna i inżynieria tkankowa - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

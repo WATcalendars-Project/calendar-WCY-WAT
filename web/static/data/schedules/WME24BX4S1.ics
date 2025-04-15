@@ -5044,6 +5044,27 @@ LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 30/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250623T080000
+DTEND:20250623T093500
+SUMMARY:F1 (E)
+LOCATION:aula/ 135
+DESCRIPTION:Fizyka 1 - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250623T095000
+DTEND:20250623T112500
+SUMMARY:F1 (E)
+LOCATION:aula/ 135
+DESCRIPTION:Fizyka 1 - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250623T114000
+DTEND:20250623T131500
+SUMMARY:F1 (E)
+LOCATION:aula/ 135
+DESCRIPTION:Fizyka 1 - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250623T133000
 DTEND:20250623T150500
 SUMMARY:F1 (Inne)
@@ -5072,11 +5093,25 @@ LOCATION:55/ 62
 DESCRIPTION:Matematyka 3\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250625T095000
+DTEND:20250625T112500
+SUMMARY:Mat3 (E)
+LOCATION:301/ S
+DESCRIPTION:Matematyka 3\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Jerzy Ploch
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250626T114000
 DTEND:20250626T131500
 SUMMARY:TwM (Inne)
 LOCATION:18 45
 DESCRIPTION:Telemonitoring w medycynie - (Zaliczenie poprawkowe  lab.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250627T095000
+DTEND:20250627T112500
+SUMMARY:Acz. (E)
+LOCATION:51/ 62
+DESCRIPTION:Anatomia człowieka - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T095000
@@ -5128,11 +5163,32 @@ LOCATION:52/ 62
 DESCRIPTION:Filozofia - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250915T095000
+DTEND:20250915T112500
+SUMMARY:F1 (Inne)
+LOCATION:aula/ 135
+DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250915T114000
 DTEND:20250915T131500
 SUMMARY:Bwg (Inne)
 LOCATION:301/ S
 DESCRIPTION:Biologia z wprowadzeniem do genetyki - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 9/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250917T095000
+DTEND:20250917T112500
+SUMMARY:Mat3 (Inne)
+LOCATION:301/ S
+DESCRIPTION:Matematyka 3\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr Jerzy Ploch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250919T095000
+DTEND:20250919T112500
+SUMMARY:Acz. (Inne)
+LOCATION:51/ 62
+DESCRIPTION:Anatomia człowieka - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 18/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250919T114000

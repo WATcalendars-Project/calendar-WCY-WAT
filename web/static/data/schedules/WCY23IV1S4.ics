@@ -1166,13 +1166,6 @@ LOCATION:224 S
 DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250416T114000
-DTEND:20250416T131500
-SUMMARY:Miob (w)
-LOCATION:226 S
-DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250417T095000
 DTEND:20250417T112500
 SUMMARY:Assp (w)
@@ -1184,13 +1177,20 @@ DTSTART:20250417T114000
 DTEND:20250417T131500
 SUMMARY:Miob (w)
 LOCATION:227 S
-DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T114000
 DTEND:20250423T131500
 SUMMARY:Miob (w)
 LOCATION:307 S
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250423T133000
+DTEND:20250423T150500
+SUMMARY:Miob (w)
+LOCATION:313 S
 DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 END:VCALENDAR

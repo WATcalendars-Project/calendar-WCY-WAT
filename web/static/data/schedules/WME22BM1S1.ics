@@ -2598,7 +2598,7 @@ DTSTART:20240701T095000
 DTEND:20240701T112500
 SUMMARY:Wm (E)
 LOCATION:52/ 62
-DESCRIPTION:Wytrzymałość materiałów - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Wytrzymałość materiałów - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240703T095000
@@ -8243,6 +8243,13 @@ LOCATION:53/ 62 57/ 62
 DESCRIPTION:Biomechatronika 1 - (zaliczenie poprawkowe lab.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250625T095000
+DTEND:20250625T112500
+SUMMARY:Bio.1 (E)
+LOCATION:54/ 62
+DESCRIPTION:Biomechatronika 1 - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250625T114000
 DTEND:20250625T131500
 SUMMARY:SiSS (Inne)
@@ -8264,11 +8271,32 @@ LOCATION:55/ 62
 DESCRIPTION:Biomechanika rehabilitacyjna - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250630T095000
+DTEND:20250630T112500
+SUMMARY:Wm (E)
+LOCATION:52/ 62
+DESCRIPTION:Wytrzymałość materiałów - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250701T095000
 DTEND:20250701T112500
 SUMMARY:SiSS (Inne)
 LOCATION:120/ 54
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250702T095000
+DTEND:20250702T112500
+SUMMARY:SzNiI (E)
+LOCATION:55/ 62
+DESCRIPTION:Sztuczne narządy i implanty - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250915T095000
+DTEND:20250915T112500
+SUMMARY:Wm (Inne)
+LOCATION:52/ 62
+DESCRIPTION:Wytrzymałość materiałów - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 5/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250915T114000
@@ -8278,10 +8306,24 @@ LOCATION:9/ 62
 DESCRIPTION:Metody numerycznego modelowania i symulacji urazów człowieka 1 - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250917T095000
+DTEND:20250917T112500
+SUMMARY:Bio.1 (Inne)
+LOCATION:54/ 62
+DESCRIPTION:Biomechatronika 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250917T114000
 DTEND:20250917T131500
 SUMMARY:WeM (Inne)
 LOCATION:9/ 62
 DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250918T095000
+DTEND:20250918T112500
+SUMMARY:SzNiI (Inne)
+LOCATION:55/ 62
+DESCRIPTION:Sztuczne narządy i implanty - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

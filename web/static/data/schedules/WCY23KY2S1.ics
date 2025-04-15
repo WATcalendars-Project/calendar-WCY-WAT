@@ -4848,13 +4848,6 @@ LOCATION:078 S
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/16\nProwadzący: mgr inż. Alicja Kida
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250514T133000
-DTEND:20250514T150500
-SUMMARY:PO (ć)
-LOCATION:307 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: dr inż. Joanna Wiśniewska
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250515T095000
 DTEND:20250515T112500
 SUMMARY:MM (ć)
@@ -4950,7 +4943,7 @@ DTSTART:20250523T095000
 DTEND:20250523T112500
 SUMMARY:PO (ć)
 LOCATION:313 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T114000
@@ -5006,7 +4999,7 @@ DTSTART:20250528T114000
 DTEND:20250528T131500
 SUMMARY:PO (ć)
 LOCATION:317 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T133000
@@ -5056,6 +5049,13 @@ DTEND:20250530T150500
 SUMMARY:Sck (L)
 LOCATION:125 65
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250602T095000
+DTEND:20250602T112500
+SUMMARY:PO (ć)
+LOCATION:309 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T114000

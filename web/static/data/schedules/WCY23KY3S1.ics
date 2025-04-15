@@ -4624,13 +4624,6 @@ LOCATION:313 S
 DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: prof. dr hab. Jacek Pomykała
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250417T160000
-DTEND:20250417T173500
-SUMMARY:Etl (ć)
-LOCATION:313 S
-DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: dr Robert Dryło
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250423T080000
 DTEND:20250423T093500
 SUMMARY:Sck (L)
@@ -4848,6 +4841,13 @@ LOCATION:078 S
 DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący:  Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250508T160000
+DTEND:20250508T173500
+SUMMARY:Etl (ć)
+LOCATION:307 S
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: dr Robert Dryło
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250509T095000
 DTEND:20250509T112500
 SUMMARY:Etl (ć)
@@ -4923,13 +4923,6 @@ DTEND:20250515T131500
 SUMMARY:Etl (w)
 LOCATION:307 S
 DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: prof. dr hab. Jacek Pomykała
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250515T133000
-DTEND:20250515T150500
-SUMMARY:PO (ć)
-LOCATION:317 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T160000
@@ -5030,13 +5023,6 @@ LOCATION:307 S
 DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: prof. dr hab. Jacek Pomykała
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250522T133000
-DTEND:20250522T150500
-SUMMARY:PO (ć)
-LOCATION:316 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: dr inż. Joanna Wiśniewska
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250522T160000
 DTEND:20250522T173500
 SUMMARY:Etl (ć)
@@ -5118,7 +5104,7 @@ DTSTART:20250529T133000
 DTEND:20250529T150500
 SUMMARY:PO (ć)
 LOCATION:309 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T080000
@@ -5174,7 +5160,7 @@ DTSTART:20250605T114000
 DTEND:20250605T131500
 SUMMARY:PO (ć)
 LOCATION:317 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T133000
@@ -5196,6 +5182,13 @@ DTEND:20250609T112500
 SUMMARY:Wek (L)
 LOCATION:233 S
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/16\nProwadzący:  Mateusz Leśniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250609T114000
+DTEND:20250609T131500
+SUMMARY:PO (ć)
+LOCATION:313 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T133000
@@ -5251,7 +5244,7 @@ DTSTART:20250612T114000
 DTEND:20250612T131500
 SUMMARY:PO (ć)
 LOCATION:316 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T133000
@@ -5272,7 +5265,7 @@ DTSTART:20250617T114000
 DTEND:20250617T131500
 SUMMARY:PO (ć)
 LOCATION:313 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T133000
@@ -5301,6 +5294,13 @@ DTEND:20250618T112500
 SUMMARY:IO (L)
 LOCATION:224 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/14\nProwadzący: mgr inż. Paweł Pieczonka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T114000
+DTEND:20250618T131500
+SUMMARY:PO (ć)
+LOCATION:313 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T133000
