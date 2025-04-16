@@ -5940,13 +5940,6 @@ LOCATION:314 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 7/13\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250430T114000
-DTEND:20250430T131500
-SUMMARY:WF (ć)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 74/90\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250505T080000
 DTEND:20250505T093500
 SUMMARY:SO (L)
@@ -5979,7 +5972,7 @@ DTSTART:20250506T095000
 DTEND:20250506T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 75/90\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 74/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T114000
@@ -6056,7 +6049,7 @@ DTSTART:20250509T114000
 DTEND:20250509T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 76/90\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 75/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T194000
@@ -6112,7 +6105,7 @@ DTSTART:20250513T095000
 DTEND:20250513T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 77/90\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 76/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T114000
@@ -6133,7 +6126,7 @@ DTSTART:20250514T114000
 DTEND:20250514T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 78/90\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 77/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T080000
@@ -6175,7 +6168,7 @@ DTSTART:20250516T114000
 DTEND:20250516T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 79/90\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 78/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T133000
@@ -6232,6 +6225,13 @@ DTEND:20250519T131500
 SUMMARY:SO (w)
 LOCATION:313 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 10/13\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250519T133000
+DTEND:20250519T150500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 79/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T095000

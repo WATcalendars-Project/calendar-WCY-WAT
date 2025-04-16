@@ -2412,13 +2412,6 @@ LOCATION:314 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/12\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250415T133000
-DTEND:20250415T150500
-SUMMARY:Tgs (ć)
-LOCATION:316 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: mgr inż. Piotr Stąpor
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250415T160000
 DTEND:20250415T173500
 SUMMARY:HP (w)
@@ -2571,6 +2564,13 @@ DTEND:20250428T150500
 SUMMARY:Md2 (w)
 LOCATION:317 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250428T160000
+DTEND:20250428T173500
+SUMMARY:Tgs (ć)
+LOCATION:307 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T095000

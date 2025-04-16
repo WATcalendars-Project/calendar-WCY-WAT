@@ -2710,7 +2710,7 @@ DTSTART:20240920T194000
 DTEND:20240920T211500
 SUMMARY:Wpp (Inne)
 LOCATION:237 S 239 S
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Łukasz Paciorek
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240923T080000
@@ -4999,7 +4999,7 @@ DTSTART:20250210T080000
 DTEND:20250210T093500
 SUMMARY:Wpp (Inne)
 LOCATION:106 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Łukasz Czerniszewski
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250211T095000
@@ -5247,13 +5247,6 @@ LOCATION:-
 DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250312T160000
-DTEND:20250312T173500
-SUMMARY:Sa. (L)
-LOCATION:011 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Adrian Myśliwiec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250313T080000
 DTEND:20250313T093500
 SUMMARY:Pwst (w)
@@ -5366,13 +5359,6 @@ LOCATION:120 65
 DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250319T160000
-DTEND:20250319T173500
-SUMMARY:Sa. (L)
-LOCATION:011 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Adrian Myśliwiec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250320T080000
 DTEND:20250320T093500
 SUMMARY:Pwst (w)
@@ -5448,13 +5434,6 @@ DTEND:20250324T173500
 SUMMARY:ESI (w)
 LOCATION:203 65
 DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250324T175000
-DTEND:20250324T192500
-SUMMARY:Sa. (L)
-LOCATION:125 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T080000
@@ -6255,6 +6234,13 @@ LOCATION:101 65
 DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250430T160000
+DTEND:20250430T173500
+SUMMARY:Sa. (L)
+LOCATION:106 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250505T080000
 DTEND:20250505T093500
 SUMMARY:Pwst (w)
@@ -6344,6 +6330,13 @@ DTEND:20250507T150500
 SUMMARY:DWiPD (w)
 LOCATION:313 S
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250507T160000
+DTEND:20250507T173500
+SUMMARY:Sa. (L)
+LOCATION:121 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T080000
@@ -6616,7 +6609,7 @@ DTSTART:20250520T175000
 DTEND:20250520T192500
 SUMMARY:Sa. (L)
 LOCATION:120 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Adrian Myśliwiec
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T080000
@@ -6757,6 +6750,13 @@ DTEND:20250527T150500
 SUMMARY:TeIP (L)
 LOCATION:121 65
 DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250527T160000
+DTEND:20250527T173500
+SUMMARY:Sa. (L)
+LOCATION:125 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T095000
@@ -7212,5 +7212,19 @@ DTEND:20250618T173500
 SUMMARY:ZaMe (ć)
 LOCATION:AW 4
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250623T080000
+DTEND:20250623T093500
+SUMMARY:Wpp (Inne)
+LOCATION:121 65
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250623T095000
+DTEND:20250623T112500
+SUMMARY:Wpp (Inne)
+LOCATION:121 65
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 END:VCALENDAR

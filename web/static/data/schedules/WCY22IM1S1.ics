@@ -1639,7 +1639,7 @@ DTSTART:20250212T114000
 DTEND:20250212T131500
 SUMMARY:Wpp (Inne)
 LOCATION:125 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Sebastian Łeska
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250214T095000
@@ -1821,7 +1821,7 @@ DTSTART:20250314T133000
 DTEND:20250314T150500
 SUMMARY:Wpp (Inne)
 LOCATION:106 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T080000
@@ -2998,5 +2998,19 @@ DTEND:20250618T112500
 SUMMARY:TpsT (L)
 LOCATION:011 65
 DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250623T080000
+DTEND:20250623T093500
+SUMMARY:Wpp (Inne)
+LOCATION:121 65
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250623T095000
+DTEND:20250623T112500
+SUMMARY:Wpp (Inne)
+LOCATION:121 65
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 END:VCALENDAR

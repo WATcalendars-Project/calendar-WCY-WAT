@@ -1033,20 +1033,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250428T114000
-DTEND:20250428T131500
-SUMMARY:MPR (L)
-LOCATION:227 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250428T133000
-DTEND:20250428T150500
-SUMMARY:MPR (L)
-LOCATION:227 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250429T080000
 DTEND:20250429T093500
 SUMMARY:Tal (P)
@@ -1428,15 +1414,15 @@ BEGIN:VEVENT
 DTSTART:20250520T114000
 DTEND:20250520T131500
 SUMMARY:MPR (L)
-LOCATION:236 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Tomasz Gutowski
+LOCATION:252 S
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T133000
 DTEND:20250520T150500
 SUMMARY:MPR (L)
-LOCATION:236 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Tomasz Gutowski
+LOCATION:252 S
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T080000
@@ -1507,6 +1493,20 @@ DTEND:20250523T093500
 SUMMARY:REG (ć)
 LOCATION:AW 4
 DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250523T095000
+DTEND:20250523T112500
+SUMMARY:MPR (L)
+LOCATION:252 S
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250523T114000
+DTEND:20250523T131500
+SUMMARY:MPR (L)
+LOCATION:252 S
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T133000
@@ -1687,14 +1687,14 @@ BEGIN:VEVENT
 DTSTART:20250602T080000
 DTEND:20250602T093500
 SUMMARY:MPR (L)
-LOCATION:227 S
+LOCATION:252 S
 DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T095000
 DTEND:20250602T112500
 SUMMARY:MPR (L)
-LOCATION:227 S
+LOCATION:252 S
 DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT

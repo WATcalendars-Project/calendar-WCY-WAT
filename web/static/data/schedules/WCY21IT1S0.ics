@@ -5450,13 +5450,6 @@ LOCATION:307 S
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250313T160000
-DTEND:20250313T173500
-SUMMARY:Sa. (L)
-LOCATION:011 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Adrian Myśliwiec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250314T080000
 DTEND:20250314T093500
 SUMMARY:WF (ć)
@@ -5595,13 +5588,6 @@ DTEND:20250320T150500
 SUMMARY:dsk (P)
 LOCATION:09 65
 DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNr zajęć: 2/8\nProwadzący: mgr inż. Michał Melaniuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250320T160000
-DTEND:20250320T173500
-SUMMARY:Sa. (L)
-LOCATION:011 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T080000
@@ -5770,13 +5756,6 @@ DTEND:20250327T150500
 SUMMARY:Pwst (P)
 LOCATION:011 65
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 2/6\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250327T160000
-DTEND:20250327T173500
-SUMMARY:Sa. (L)
-LOCATION:011 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T080000
@@ -5973,13 +5952,6 @@ DTEND:20250403T150500
 SUMMARY:ESI (L)
 LOCATION:121 65
 DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Sławomir Matusiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250403T160000
-DTEND:20250403T173500
-SUMMARY:Sa. (L)
-LOCATION:106 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T080000
@@ -6325,20 +6297,6 @@ LOCATION:309 S
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 9/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250417T114000
-DTEND:20250417T131500
-SUMMARY:Sss (L)
-LOCATION:09 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Tomasz Żentara
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250417T133000
-DTEND:20250417T150500
-SUMMARY:Sss (L)
-LOCATION:09 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Tomasz Żentara
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250423T080000
 DTEND:20250423T093500
 SUMMARY:Zt (w)
@@ -6400,6 +6358,13 @@ DTEND:20250424T150500
 SUMMARY:dsk (P)
 LOCATION:09 65
 DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNr zajęć: 6/8\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250424T175000
+DTEND:20250424T192500
+SUMMARY:Sa. (L)
+LOCATION:011 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250426T095000
@@ -6560,14 +6525,14 @@ DTSTART:20250506T114000
 DTEND:20250506T131500
 SUMMARY:Sss (L)
 LOCATION:09 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T133000
 DTEND:20250506T150500
 SUMMARY:Sss (L)
 LOCATION:09 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T080000
@@ -6787,6 +6752,13 @@ LOCATION:301/ S
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250516T175000
+DTEND:20250516T192500
+SUMMARY:Sa. (L)
+LOCATION:011 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250517T095000
 DTEND:20250517T112500
 SUMMARY:XWF (ć)
@@ -6966,7 +6938,14 @@ DTSTART:20250523T160000
 DTEND:20250523T173500
 SUMMARY:Sa. (L)
 LOCATION:106 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Adrian Myśliwiec
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250523T175000
+DTEND:20250523T192500
+SUMMARY:Sa. (L)
+LOCATION:106 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T095000
@@ -7029,14 +7008,14 @@ DTSTART:20250527T114000
 DTEND:20250527T131500
 SUMMARY:Sss (L)
 LOCATION:09 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T133000
 DTEND:20250527T150500
 SUMMARY:Sss (L)
 LOCATION:09 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T095000
@@ -7097,6 +7076,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T160000
 DTEND:20250530T173500
+SUMMARY:Sa. (L)
+LOCATION:106 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250530T175000
+DTEND:20250530T192500
 SUMMARY:Sa. (L)
 LOCATION:106 65
 DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Adrian Myśliwiec
@@ -7184,6 +7170,20 @@ DTEND:20250606T131500
 SUMMARY:Ja (ć)
 LOCATION:120 K 121 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 88/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250606T133000
+DTEND:20250606T150500
+SUMMARY:Sss (L)
+LOCATION:121 65
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250606T160000
+DTEND:20250606T173500
+SUMMARY:Sss (L)
+LOCATION:121 65
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T175000
@@ -7422,5 +7422,19 @@ DTEND:20250618T173500
 SUMMARY:ZaMe (ć)
 LOCATION:AW 4
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250623T080000
+DTEND:20250623T093500
+SUMMARY:Wpp (Inne)
+LOCATION:121 65
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 5/2\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250623T095000
+DTEND:20250623T112500
+SUMMARY:Wpp (Inne)
+LOCATION:121 65
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 6/2\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 END:VCALENDAR

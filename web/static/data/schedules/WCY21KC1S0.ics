@@ -5310,13 +5310,6 @@ LOCATION:314 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250318T080000
-DTEND:20250318T093500
-SUMMARY:Sa. (L)
-LOCATION:011 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Adrian Myśliwiec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250318T095000
 DTEND:20250318T112500
 SUMMARY:IRz (P)
@@ -5674,13 +5667,6 @@ LOCATION:307 S
 DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250402T175000
-DTEND:20250402T192500
-SUMMARY:Sa. (L)
-LOCATION:121 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Adrian Myśliwiec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250403T114000
 DTEND:20250403T131500
 SUMMARY:IRz (w)
@@ -5797,7 +5783,7 @@ DTSTART:20250408T080000
 DTEND:20250408T093500
 SUMMARY:Sa. (L)
 LOCATION:121 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Adrian Myśliwiec
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T095000
@@ -6008,20 +5994,6 @@ DTEND:20250416T131500
 SUMMARY:Ja (ć)
 LOCATION:120 K 121 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 77/90\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250416T160000
-DTEND:20250416T173500
-SUMMARY:SzS (ć)
-LOCATION:ST.nr 1
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/14\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250416T175000
-DTEND:20250416T192500
-SUMMARY:SzS (ć)
-LOCATION:ST.nr 1
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T080000
@@ -6294,7 +6266,7 @@ DTSTART:20250507T175000
 DTEND:20250507T192500
 SUMMARY:Sa. (L)
 LOCATION:121 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Adrian Myśliwiec
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T080000
@@ -6337,6 +6309,20 @@ DTEND:20250510T112500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 38/43\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250510T133000
+DTEND:20250510T150500
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/14\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250510T160000
+DTEND:20250510T173500
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T080000
@@ -6584,6 +6570,13 @@ LOCATION:120 K 121 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 85/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250523T133000
+DTEND:20250523T150500
+SUMMARY:Sa. (L)
+LOCATION:011 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250524T095000
 DTEND:20250524T112500
 SUMMARY:XWF (ć)
@@ -6644,7 +6637,7 @@ DTSTART:20250527T175000
 DTEND:20250527T192500
 SUMMARY:Sa. (L)
 LOCATION:125 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Adrian Myśliwiec
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T095000
@@ -6770,7 +6763,7 @@ DTSTART:20250604T160000
 DTEND:20250604T173500
 SUMMARY:Sa. (L)
 LOCATION:121 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Adrian Myśliwiec
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T080000
@@ -6980,7 +6973,7 @@ DTSTART:20250612T160000
 DTEND:20250612T173500
 SUMMARY:Sa. (L)
 LOCATION:121 65
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Adrian Myśliwiec
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T080000
@@ -6995,6 +6988,13 @@ DTEND:20250613T131500
 SUMMARY:Ja (ć)
 LOCATION:120 K 121 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 89/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250613T133000
+DTEND:20250613T150500
+SUMMARY:Sa. (L)
+LOCATION:011 65
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T160000
@@ -7121,5 +7121,19 @@ DTEND:20250618T192500
 SUMMARY:MeSK (L)
 LOCATION:226 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/10\nProwadzący: dr inż. Michał Dyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250623T080000
+DTEND:20250623T093500
+SUMMARY:Wpp (Inne)
+LOCATION:121 65
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250623T095000
+DTEND:20250623T112500
+SUMMARY:Wpp (Inne)
+LOCATION:121 65
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 END:VCALENDAR

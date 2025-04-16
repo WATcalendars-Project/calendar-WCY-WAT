@@ -1761,20 +1761,6 @@ LOCATION:307 S
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250414T080000
-DTEND:20250414T093500
-SUMMARY:PZ (P)
-LOCATION:224 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 6/22\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250414T095000
-DTEND:20250414T112500
-SUMMARY:PZ (P)
-LOCATION:224 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 7/22\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250414T114000
 DTEND:20250414T131500
 SUMMARY:kck (L)
@@ -1831,6 +1817,20 @@ LOCATION:226 S
 DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 10/15\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250416T080000
+DTEND:20250416T093500
+SUMMARY:Sp (Inne)
+LOCATION:252A S
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 2/10\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250416T095000
+DTEND:20250416T112500
+SUMMARY:Sp (Inne)
+LOCATION:252A S
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 3/10\nProwadzący: dr inż. Wiesław Barcikowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250416T114000
 DTEND:20250416T131500
 SUMMARY:Jtp (L)
@@ -1845,31 +1845,17 @@ LOCATION:239 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250417T080000
-DTEND:20250417T093500
+DTSTART:20250416T160000
+DTEND:20250416T173500
 SUMMARY:Sp (Inne)
-LOCATION:252 S
-DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 2/10\nProwadzący: dr inż. Wiesław Barcikowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250417T095000
-DTEND:20250417T112500
-SUMMARY:Sp (Inne)
-LOCATION:252 S
-DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 3/10\nProwadzący: dr inż. Wiesław Barcikowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250417T114000
-DTEND:20250417T131500
-SUMMARY:Sp (Inne)
-LOCATION:252 S
+LOCATION:308 S
 DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 4/10\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250417T133000
-DTEND:20250417T150500
+DTSTART:20250416T175000
+DTEND:20250416T192500
 SUMMARY:Sp (Inne)
-LOCATION:252 S
+LOCATION:308 S
 DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 5/10\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
@@ -1919,14 +1905,14 @@ DTSTART:20250424T114000
 DTEND:20250424T131500
 SUMMARY:PZ (P)
 LOCATION:236 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 8/22\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 6/22\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T133000
 DTEND:20250424T150500
 SUMMARY:PZ (P)
 LOCATION:236 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 9/22\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 7/22\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T080000
@@ -2032,6 +2018,20 @@ DTEND:20250430T192500
 SUMMARY:Jtp (L)
 LOCATION:233 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250505T080000
+DTEND:20250505T093500
+SUMMARY:PZ (P)
+LOCATION:224 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 8/22\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250505T095000
+DTEND:20250505T112500
+SUMMARY:PZ (P)
+LOCATION:224 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 9/22\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T114000

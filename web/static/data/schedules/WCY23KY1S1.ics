@@ -4827,20 +4827,6 @@ LOCATION:078 S
 DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Kamila Dzieł
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250507T114000
-DTEND:20250507T131500
-SUMMARY:IO (L)
-LOCATION:226 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/14\nProwadzący: dr inż. Grzegorz Bliźniuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250507T133000
-DTEND:20250507T150500
-SUMMARY:IO (L)
-LOCATION:226 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/14\nProwadzący: dr inż. Grzegorz Bliźniuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250507T160000
 DTEND:20250507T173500
 SUMMARY:Sck (L)
@@ -4909,6 +4895,20 @@ DTEND:20250512T112500
 SUMMARY:IK (L)
 LOCATION:106 65
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/15\nProwadzący: mgr inż. Krzysztof Szajewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250512T114000
+DTEND:20250512T131500
+SUMMARY:IO (L)
+LOCATION:227 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/14\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250512T133000
+DTEND:20250512T150500
+SUMMARY:IO (L)
+LOCATION:227 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/14\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T160000

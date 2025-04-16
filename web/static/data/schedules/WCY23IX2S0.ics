@@ -6157,13 +6157,6 @@ LOCATION:223 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/14\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250506T080000
-DTEND:20250506T093500
-SUMMARY:Hsw (ć)
-LOCATION:203 65
-DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250506T095000
 DTEND:20250506T112500
 SUMMARY:DWiPD (ć)
@@ -6483,7 +6476,7 @@ DTSTART:20250520T114000
 DTEND:20250520T131500
 SUMMARY:Hsw (ć)
 LOCATION:205 65
-DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: -
+DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T133000
@@ -6595,7 +6588,7 @@ DTSTART:20250526T080000
 DTEND:20250526T093500
 SUMMARY:Hsw (ć)
 LOCATION:203 65
-DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: -
+DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T095000
@@ -6644,7 +6637,7 @@ DTSTART:20250527T114000
 DTEND:20250527T131500
 SUMMARY:Hsw (ć)
 LOCATION:205 65
-DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: -
+DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T080000
@@ -7044,6 +7037,13 @@ DTEND:20250617T192500
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 4/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T080000
+DTEND:20250618T093500
+SUMMARY:Hsw (ć)
+LOCATION:205 65
+DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T114000
