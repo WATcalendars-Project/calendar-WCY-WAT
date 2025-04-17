@@ -1201,13 +1201,6 @@ LOCATION:201 65
 DESCRIPTION:Struktury algebraiczne\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250430T095000
-DTEND:20250430T112500
-SUMMARY:GMiB (ć)
-LOCATION:AW 3/043
-DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250430T114000
 DTEND:20250430T131500
 SUMMARY:Pkuc (w)
@@ -1241,6 +1234,13 @@ DTEND:20250505T112500
 SUMMARY:Fbk (ć)
 LOCATION:085 S
 DESCRIPTION:Funkcje boolowskie w kryptol.\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: mgr inż. Tomasz Kijko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250505T160000
+DTEND:20250505T173500
+SUMMARY:GMiB (ć)
+LOCATION:AW 3/038
+DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T080000
@@ -1474,25 +1474,32 @@ LOCATION:AW 3/038
 DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250516T133000
+DTEND:20250516T150500
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250516T160000
 DTEND:20250516T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 16/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T175000
 DTEND:20250516T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 16/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 17/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T194000
 DTEND:20250516T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 17/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 18/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250517T080000
@@ -1625,21 +1632,21 @@ DTSTART:20250523T160000
 DTEND:20250523T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 18/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 19/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T175000
 DTEND:20250523T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 19/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 20/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T194000
 DTEND:20250523T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 20/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 21/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T080000
@@ -1772,7 +1779,7 @@ DTSTART:20250530T194000
 DTEND:20250530T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 21/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 22/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250531T080000
@@ -1891,14 +1898,14 @@ DTSTART:20250606T175000
 DTEND:20250606T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 22/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 23/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T194000
 DTEND:20250606T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 23/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 24/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250607T080000
@@ -1968,14 +1975,14 @@ DTSTART:20250613T175000
 DTEND:20250613T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 24/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 25/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T194000
 DTEND:20250613T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 25/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 26/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T080000

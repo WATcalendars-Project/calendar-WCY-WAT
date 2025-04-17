@@ -6339,13 +6339,6 @@ LOCATION:57/ 62
 DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250408T114000
-DTEND:20250408T131500
-SUMMARY:WeM (w)
-LOCATION:29/ 54
-DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250408T133000
 DTEND:20250408T150500
 SUMMARY:SiSS (w)
@@ -6393,13 +6386,6 @@ DTEND:20250409T173500
 SUMMARY:SiSS (L)
 LOCATION:2.10/ 54A
 DESCRIPTION:Serwomechanizmy i systemy sterowania - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/16\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250410T080000
-DTEND:20250410T093500
-SUMMARY:URiPSR (P)
-LOCATION:53/ 62
-DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 1/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T114000
@@ -6505,13 +6491,6 @@ DTEND:20250415T112500
 SUMMARY:URiPSR (L)
 LOCATION:57/ 62
 DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250415T114000
-DTEND:20250415T131500
-SUMMARY:WeM (w)
-LOCATION:2/ 23a
-DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T133000
@@ -6931,7 +6910,7 @@ DTSTART:20250428T095000
 DTEND:20250428T112500
 SUMMARY:WeM (w)
 LOCATION:51/ 62
-DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -
+DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T114000
@@ -6966,7 +6945,7 @@ DTSTART:20250429T114000
 DTEND:20250429T131500
 SUMMARY:WeM (w)
 LOCATION:8/ 62
-DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -
+DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T133000
@@ -7015,7 +6994,7 @@ DTSTART:20250430T133000
 DTEND:20250430T150500
 SUMMARY:WeM (w)
 LOCATION:54/ 62
-DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -
+DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250501T080000
@@ -7218,14 +7197,14 @@ DTSTART:20250506T160000
 DTEND:20250506T173500
 SUMMARY:URiPSR (P)
 LOCATION:53/ 62
-DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 2/15\nProwadzący: -
+DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 1/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T175000
 DTEND:20250506T192500
 SUMMARY:URiPSR (P)
 LOCATION:53/ 62
-DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 3/15\nProwadzący: -
+DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 2/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T095000
@@ -7344,14 +7323,14 @@ DTSTART:20250513T080000
 DTEND:20250513T093500
 SUMMARY:URiPSR (P)
 LOCATION:53/ 62
-DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 4/15\nProwadzący: -
+DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 3/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T095000
 DTEND:20250513T112500
 SUMMARY:URiPSR (P)
 LOCATION:53/ 62
-DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 5/15\nProwadzący: -
+DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 4/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T080000
@@ -7508,6 +7487,13 @@ LOCATION:53/ 62
 DESCRIPTION:Biomechatronika 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250521T114000
+DTEND:20250521T131500
+SUMMARY:WeM (w)
+LOCATION:3/ 34a
+DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250522T080000
 DTEND:20250522T093500
 SUMMARY:SzNiI (w)
@@ -7624,14 +7610,14 @@ DTSTART:20250526T133000
 DTEND:20250526T150500
 SUMMARY:URiPSR (P)
 LOCATION:53/ 62
-DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 6/15\nProwadzący: -
+DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 5/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T160000
 DTEND:20250526T173500
 SUMMARY:URiPSR (P)
 LOCATION:53/ 62
-DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 7/15\nProwadzący: -
+DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 6/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T080000
@@ -7646,6 +7632,13 @@ DTEND:20250528T112500
 SUMMARY:Bio.1 (L)
 LOCATION:53/ 62
 DESCRIPTION:Biomechatronika 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250528T114000
+DTEND:20250528T131500
+SUMMARY:WeM (w)
+LOCATION:3/ 34a
+DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T095000
@@ -7743,14 +7736,14 @@ DTSTART:20250603T080000
 DTEND:20250603T093500
 SUMMARY:URiPSR (P)
 LOCATION:53/ 62
-DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 8/15\nProwadzący: -
+DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 7/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T095000
 DTEND:20250603T112500
 SUMMARY:URiPSR (P)
 LOCATION:53/ 62
-DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 9/15\nProwadzący: -
+DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 8/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T114000
@@ -7806,14 +7799,14 @@ DTSTART:20250605T080000
 DTEND:20250605T093500
 SUMMARY:URiPSR (P)
 LOCATION:53/ 62
-DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 10/15\nProwadzący: -
+DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 9/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T095000
 DTEND:20250605T112500
 SUMMARY:URiPSR (P)
 LOCATION:53/ 62
-DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 11/15\nProwadzący: -
+DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 10/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T114000
@@ -7890,14 +7883,14 @@ DTSTART:20250611T095000
 DTEND:20250611T112500
 SUMMARY:URiPSR (P)
 LOCATION:57/ 62
-DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 12/15\nProwadzący: -
+DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 11/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T114000
 DTEND:20250611T131500
 SUMMARY:URiPSR (P)
 LOCATION:57/ 62
-DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 13/15\nProwadzący: -
+DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 12/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T080000
@@ -7975,6 +7968,13 @@ DTEND:20250616T093500
 SUMMARY:Wm (w)
 LOCATION:52/ 62
 DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 20/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T095000
+DTEND:20250616T112500
+SUMMARY:URiPSR (P)
+LOCATION:57/ 62
+DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 13/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T114000

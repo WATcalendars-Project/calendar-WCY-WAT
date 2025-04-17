@@ -6402,13 +6402,6 @@ LOCATION:116 61
 DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250430T095000
-DTEND:20250430T112500
-SUMMARY:TeMi (ć)
-LOCATION:3 54E
-DESCRIPTION:Termografia mikrofalowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250501T080000
 DTEND:20250501T093500
 SUMMARY:- (Inne)
@@ -6637,7 +6630,7 @@ DTSTART:20250506T114000
 DTEND:20250506T131500
 SUMMARY:TeMi (ć)
 LOCATION:3 54E
-DESCRIPTION:Termografia mikrofalowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
+DESCRIPTION:Termografia mikrofalowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T133000
@@ -6946,6 +6939,13 @@ DTEND:20250522T112500
 SUMMARY:SsO (L)
 LOCATION:26 136 10 70
 DESCRIPTION:Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250522T114000
+DTEND:20250522T131500
+SUMMARY:TeMi (ć)
+LOCATION:3 54E
+DESCRIPTION:Termografia mikrofalowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T080000

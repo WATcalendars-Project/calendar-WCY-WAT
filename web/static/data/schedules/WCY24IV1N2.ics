@@ -1509,17 +1509,17 @@ LOCATION:223 S
 DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/3\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250511T133000
-DTEND:20250511T150500
+DTSTART:20250516T175000
+DTEND:20250516T192500
 SUMMARY:Gum (L)
-LOCATION:224 S
+LOCATION:on-line.
 DESCRIPTION:Głębokie uczenie maszynowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250511T160000
-DTEND:20250511T173500
+DTSTART:20250516T194000
+DTEND:20250516T211500
 SUMMARY:Gum (L)
-LOCATION:224 S
+LOCATION:on-line.
 DESCRIPTION:Głębokie uczenie maszynowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
@@ -1619,6 +1619,20 @@ DTEND:20250518T211500
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 56/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250523T175000
+DTEND:20250523T192500
+SUMMARY:Gum (L)
+LOCATION:on-line.
+DESCRIPTION:Głębokie uczenie maszynowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250523T194000
+DTEND:20250523T211500
+SUMMARY:Gum (L)
+LOCATION:on-line.
+DESCRIPTION:Głębokie uczenie maszynowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T080000
@@ -1843,20 +1857,6 @@ DTEND:20250607T192500
 SUMMARY:SBD (L)
 LOCATION:228 S
 DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr inż. Jarosław Koszela
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250608T080000
-DTEND:20250608T093500
-SUMMARY:Gum (L)
-LOCATION:224 S
-DESCRIPTION:Głębokie uczenie maszynowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: dr inż. Marcin Mazurek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250608T095000
-DTEND:20250608T112500
-SUMMARY:Gum (L)
-LOCATION:224 S
-DESCRIPTION:Głębokie uczenie maszynowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250608T114000
