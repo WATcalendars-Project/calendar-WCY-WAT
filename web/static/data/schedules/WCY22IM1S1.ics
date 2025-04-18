@@ -2342,13 +2342,6 @@ LOCATION:101 65
 DESCRIPTION:Telefonia IP\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250417T133000
-DTEND:20250417T150500
-SUMMARY:zsw (w)
-LOCATION:203 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250417T160000
 DTEND:20250417T173500
 SUMMARY:kck (w)
@@ -2388,14 +2381,14 @@ DTSTART:20250424T114000
 DTEND:20250424T131500
 SUMMARY:zsw (w)
 LOCATION:203 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T133000
 DTEND:20250424T150500
 SUMMARY:zsw (w)
 LOCATION:203 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T160000
@@ -2536,6 +2529,13 @@ DTEND:20250507T112500
 SUMMARY:Psmo (L)
 LOCATION:011 65
 DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/15\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250507T114000
+DTEND:20250507T131500
+SUMMARY:zsw (w)
+LOCATION:307 S
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T133000

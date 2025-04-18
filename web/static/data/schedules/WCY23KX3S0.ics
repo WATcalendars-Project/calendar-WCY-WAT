@@ -5940,6 +5940,13 @@ LOCATION:314 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 7/13\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250430T175000
+DTEND:20250430T192500
+SUMMARY:Pnak (Inne)
+LOCATION:120 65
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 6/2\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250505T080000
 DTEND:20250505T093500
 SUMMARY:SO (L)

@@ -5590,27 +5590,6 @@ LOCATION:101 65
 DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr Krzysztof Kanciak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250417T160000
-DTEND:20250417T173500
-SUMMARY:Pjn (L)
-LOCATION:224 S
-DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący: dr inż. Marcin Mazurek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250417T175000
-DTEND:20250417T192500
-SUMMARY:Pjn (L)
-LOCATION:224 S
-DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący: dr inż. Marcin Mazurek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250423T080000
-DTEND:20250423T093500
-SUMMARY:Masz (ć)
-LOCATION:309 S
-DESCRIPTION:Modelowanie i analiza sieci złożonych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący:  Rafał Kasprzyk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250423T095000
 DTEND:20250423T112500
 SUMMARY:MeSK (w)
@@ -5735,6 +5714,13 @@ DTEND:20250429T112500
 SUMMARY:Pkw (ć)
 LOCATION:218 65
 DESCRIPTION:Podstawy kryptologii współczesnej\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: dr Krzysztof Kanciak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250429T114000
+DTEND:20250429T131500
+SUMMARY:Masz (ć)
+LOCATION:237 S
+DESCRIPTION:Modelowanie i analiza sieci złożonych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T133000
@@ -5868,20 +5854,6 @@ DTEND:20250508T131500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 79/90\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250508T160000
-DTEND:20250508T173500
-SUMMARY:Pjn (L)
-LOCATION:224 S
-DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: dr inż. Marcin Mazurek
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250508T175000
-DTEND:20250508T192500
-SUMMARY:Pjn (L)
-LOCATION:224 S
-DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T080000
@@ -6070,7 +6042,7 @@ DTSTART:20250522T080000
 DTEND:20250522T093500
 SUMMARY:Pjn (L)
 LOCATION:223 S
-DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T095000
@@ -6211,6 +6183,20 @@ DTEND:20250528T192500
 SUMMARY:Masz (L)
 LOCATION:224 S
 DESCRIPTION:Modelowanie i analiza sieci złożonych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250529T080000
+DTEND:20250529T093500
+SUMMARY:Pjn (L)
+LOCATION:252 S
+DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250529T095000
+DTEND:20250529T112500
+SUMMARY:Pjn (L)
+LOCATION:252 S
+DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T114000
@@ -6463,6 +6449,20 @@ DTEND:20250611T192500
 SUMMARY:ZaMe (ć)
 LOCATION:AW 4
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250612T080000
+DTEND:20250612T093500
+SUMMARY:Pjn (L)
+LOCATION:252 S
+DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący: dr inż. Marcin Mazurek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250612T095000
+DTEND:20250612T112500
+SUMMARY:Pjn (L)
+LOCATION:252 S
+DESCRIPTION:Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T114000
