@@ -1201,6 +1201,13 @@ LOCATION:201 65
 DESCRIPTION:Struktury algebraiczne\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250430T095000
+DTEND:20250430T112500
+SUMMARY:GMiB (ć)
+LOCATION:AW 7
+DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250430T114000
 DTEND:20250430T131500
 SUMMARY:Pkuc (w)
@@ -1234,13 +1241,6 @@ DTEND:20250505T112500
 SUMMARY:Fbk (ć)
 LOCATION:085 S
 DESCRIPTION:Funkcje boolowskie w kryptol.\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: mgr inż. Tomasz Kijko
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250505T160000
-DTEND:20250505T173500
-SUMMARY:GMiB (ć)
-LOCATION:AW 3/038
-DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T080000

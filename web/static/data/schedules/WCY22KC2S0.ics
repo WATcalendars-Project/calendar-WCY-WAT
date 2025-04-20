@@ -1250,6 +1250,13 @@ LOCATION:011 65
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250430T095000
+DTEND:20250430T112500
+SUMMARY:GMiB (ć)
+LOCATION:AW 7
+DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250430T114000
 DTEND:20250430T131500
 SUMMARY:Est (P)
@@ -1304,13 +1311,6 @@ DTEND:20250505T150500
 SUMMARY:SKII (L)
 LOCATION:120 65
 DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250505T160000
-DTEND:20250505T173500
-SUMMARY:GMiB (ć)
-LOCATION:AW 3/038
-DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T175000
