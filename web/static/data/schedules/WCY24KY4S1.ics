@@ -2622,6 +2622,13 @@ LOCATION:201 65
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr Łukasz Matysiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250508T095000
+DTEND:20250508T112500
+SUMMARY:Rp (L)
+LOCATION:227 S
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250508T114000
 DTEND:20250508T131500
 SUMMARY:PTk (ć)
@@ -2662,13 +2669,6 @@ DTEND:20250509T150500
 SUMMARY:PTk (L)
 LOCATION:236 S
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Waldemar Szylberg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250509T160000
-DTEND:20250509T173500
-SUMMARY:Rp (L)
-LOCATION:078 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T095000

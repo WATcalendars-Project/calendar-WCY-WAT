@@ -2300,20 +2300,6 @@ LOCATION:203 65
 DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250424T175000
-DTEND:20250424T192500
-SUMMARY:Asie (L)
-LOCATION:125 65
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/14\nProwadzący:  Marcin Pachnik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250424T194000
-DTEND:20250424T211500
-SUMMARY:Asie (L)
-LOCATION:125 65
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/14\nProwadzący:  Marcin Pachnik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250429T133000
 DTEND:20250429T150500
 SUMMARY:Bsbp (L)
@@ -2374,14 +2360,14 @@ DTSTART:20250505T175000
 DTEND:20250505T192500
 SUMMARY:Asie (L)
 LOCATION:011 65
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/14\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/14\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T194000
 DTEND:20250505T211500
 SUMMARY:Asie (L)
 LOCATION:011 65
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/14\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/14\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T080000
@@ -2424,6 +2410,20 @@ DTEND:20250508T173500
 SUMMARY:Asie (w)
 LOCATION:313 S
 DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250508T175000
+DTEND:20250508T192500
+SUMMARY:Asie (L)
+LOCATION:125 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/14\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250508T194000
+DTEND:20250508T211500
+SUMMARY:Asie (L)
+LOCATION:125 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/14\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T080000
