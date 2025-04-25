@@ -1698,13 +1698,6 @@ LOCATION:316 S
 DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250407T080000
-DTEND:20250407T093500
-SUMMARY:PWSI (w)
-LOCATION:308 S
-DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Gzik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250407T095000
 DTEND:20250407T112500
 SUMMARY:TAI (w)
@@ -1913,13 +1906,6 @@ DTEND:20250424T150500
 SUMMARY:PZ (P)
 LOCATION:236 S
 DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 7/22\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250428T080000
-DTEND:20250428T093500
-SUMMARY:PWSI (w)
-LOCATION:308 S
-DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T095000
@@ -2223,6 +2209,13 @@ LOCATION:228 S
 DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250523T080000
+DTEND:20250523T093500
+SUMMARY:PWSI (w)
+LOCATION:309 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Gzik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250526T080000
 DTEND:20250526T093500
 SUMMARY:PZ (P)
@@ -2361,6 +2354,13 @@ DTEND:20250605T112500
 SUMMARY:TAI (L)
 LOCATION:226 S
 DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Paweł Pieczonka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250609T080000
+DTEND:20250609T093500
+SUMMARY:PWSI (w)
+LOCATION:313 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T095000

@@ -1747,13 +1747,6 @@ LOCATION:223 S
 DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250407T080000
-DTEND:20250407T093500
-SUMMARY:PWSI (w)
-LOCATION:308 S
-DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Gzik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250407T095000
 DTEND:20250407T112500
 SUMMARY:Sn (L)
@@ -1992,13 +1985,6 @@ LOCATION:252 S
 DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250428T080000
-DTEND:20250428T093500
-SUMMARY:PWSI (w)
-LOCATION:308 S
-DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Tomasz Gzik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250429T080000
 DTEND:20250429T093500
 SUMMARY:PWSI (P)
@@ -2209,6 +2195,13 @@ LOCATION:224 S
 DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250523T080000
+DTEND:20250523T093500
+SUMMARY:PWSI (w)
+LOCATION:309 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Gzik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250529T080000
 DTEND:20250529T093500
 SUMMARY:PZ (P)
@@ -2354,6 +2347,13 @@ DTEND:20250606T112500
 SUMMARY:Muma (w)
 LOCATION:314 S
 DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250609T080000
+DTEND:20250609T093500
+SUMMARY:PWSI (w)
+LOCATION:313 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T095000

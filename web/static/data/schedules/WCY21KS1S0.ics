@@ -4838,7 +4838,7 @@ DTSTART:20250305T080000
 DTEND:20250305T093500
 SUMMARY:tcs (w)
 LOCATION:201 65
-DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T114000
@@ -4943,7 +4943,7 @@ DTSTART:20250311T080000
 DTEND:20250311T093500
 SUMMARY:tcs (w)
 LOCATION:204 65
-DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T133000
@@ -5118,14 +5118,14 @@ DTSTART:20250319T080000
 DTEND:20250319T093500
 SUMMARY:tcs (w)
 LOCATION:201 65
-DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T095000
 DTEND:20250319T112500
 SUMMARY:tcs (ć)
 LOCATION:201 65
-DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T114000
@@ -5279,7 +5279,7 @@ DTSTART:20250326T080000
 DTEND:20250326T093500
 SUMMARY:tcs (w)
 LOCATION:204 65
-DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T095000
@@ -5475,7 +5475,7 @@ DTSTART:20250402T080000
 DTEND:20250402T093500
 SUMMARY:tcs (w)
 LOCATION:101 65
-DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T095000
@@ -5615,14 +5615,14 @@ DTSTART:20250408T080000
 DTEND:20250408T093500
 SUMMARY:tcs (w)
 LOCATION:204 65
-DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T095000
 DTEND:20250408T112500
 SUMMARY:tcs (ć)
 LOCATION:218 65
-DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T114000
@@ -5706,7 +5706,7 @@ DTSTART:20250411T095000
 DTEND:20250411T112500
 SUMMARY:tcs (w)
 LOCATION:204 65
-DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T114000
@@ -5870,13 +5870,6 @@ LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 78/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250423T133000
-DTEND:20250423T150500
-SUMMARY:tcs (w)
-LOCATION:204 65
-DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr Piotr Kacprzyk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250424T080000
 DTEND:20250424T093500
 SUMMARY:NK (L)
@@ -5954,13 +5947,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 75/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250430T095000
-DTEND:20250430T112500
-SUMMARY:tcs (w)
-LOCATION:201 65
-DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr Piotr Kacprzyk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250430T114000
 DTEND:20250430T131500
 SUMMARY:Ja (ć)
@@ -6028,14 +6014,7 @@ DTSTART:20250507T080000
 DTEND:20250507T093500
 SUMMARY:tcs (w)
 LOCATION:201 65
-DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr Piotr Kacprzyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250507T095000
-DTEND:20250507T112500
-SUMMARY:tcs (ć)
-LOCATION:204 65
-DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T114000
@@ -6043,6 +6022,20 @@ DTEND:20250507T131500
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 80/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250507T133000
+DTEND:20250507T150500
+SUMMARY:tcs (w)
+LOCATION:201 65
+DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 9/8\nProwadzący: dr Łukasz Matysiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250507T160000
+DTEND:20250507T173500
+SUMMARY:tcs (ć)
+LOCATION:204 65
+DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: dr Łukasz Matysiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T080000
@@ -6141,13 +6134,6 @@ DTEND:20250513T112500
 SUMMARY:DWiPD (ć)
 LOCATION:205 65
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250513T114000
-DTEND:20250513T131500
-SUMMARY:Dn (ć)
-LOCATION:205 65
-DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T133000
@@ -6364,7 +6350,7 @@ DTSTART:20250523T095000
 DTEND:20250523T112500
 SUMMARY:Dn (ć)
 LOCATION:205 65
-DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
+DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T114000
@@ -6416,6 +6402,13 @@ LOCATION:ST.nr 1
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250527T095000
+DTEND:20250527T112500
+SUMMARY:Dn (ć)
+LOCATION:118 45
+DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250527T133000
 DTEND:20250527T150500
 SUMMARY:WF (ć)
@@ -6423,11 +6416,11 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 85/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250528T080000
-DTEND:20250528T093500
-SUMMARY:tcs (ć)
-LOCATION:204 65
-DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: dr Piotr Kacprzyk
+DTSTART:20250527T160000
+DTEND:20250527T173500
+SUMMARY:tcs (w)
+LOCATION:201 65
+DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 10/8\nProwadzący: dr Łukasz Matysiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T095000
@@ -6864,13 +6857,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 90/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250618T080000
-DTEND:20250618T093500
-SUMMARY:tcs (ć)
-LOCATION:201 65
-DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: dr Piotr Kacprzyk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250618T095000
 DTEND:20250618T112500
 SUMMARY:MeSK (L)
@@ -6883,5 +6869,19 @@ DTEND:20250618T131500
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 90/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T133000
+DTEND:20250618T150500
+SUMMARY:tcs (ć)
+LOCATION:201 65
+DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/3\nProwadzący: dr Łukasz Matysiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T160000
+DTEND:20250618T173500
+SUMMARY:tcs (ć)
+LOCATION:201 65
+DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/3\nProwadzący: dr Łukasz Matysiak
 END:VEVENT
 END:VCALENDAR

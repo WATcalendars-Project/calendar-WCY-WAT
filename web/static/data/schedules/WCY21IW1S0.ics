@@ -6542,13 +6542,6 @@ LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 83/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250516T133000
-DTEND:20250516T150500
-SUMMARY:Dn (ć)
-LOCATION:203 65
-DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250516T160000
 DTEND:20250516T173500
 SUMMARY:MPH (w)
@@ -6686,7 +6679,7 @@ DTSTART:20250523T133000
 DTEND:20250523T150500
 SUMMARY:Dn (ć)
 LOCATION:203 65
-DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
+DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T160000
@@ -7030,6 +7023,13 @@ DTEND:20250610T150500
 SUMMARY:Syt (L)
 LOCATION:09 65
 DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T160000
+DTEND:20250610T173500
+SUMMARY:Dn (ć)
+LOCATION:203 65
+DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T114000

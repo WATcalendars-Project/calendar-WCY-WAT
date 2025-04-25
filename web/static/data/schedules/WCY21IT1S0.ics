@@ -6724,13 +6724,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 79/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250516T095000
-DTEND:20250516T112500
-SUMMARY:Dn (ć)
-LOCATION:201 65
-DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250516T114000
 DTEND:20250516T131500
 SUMMARY:Ja (ć)
@@ -6976,20 +6969,6 @@ LOCATION:121 65
 DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250526T133000
-DTEND:20250526T150500
-SUMMARY:bai (L)
-LOCATION:121 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/12\nProwadzący: mgr inż. Krystian Wojdygowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250526T160000
-DTEND:20250526T173500
-SUMMARY:bai (L)
-LOCATION:121 65
-DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/12\nProwadzący: mgr inż. Krystian Wojdygowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250527T080000
 DTEND:20250527T093500
 SUMMARY:WF (ć)
@@ -7151,6 +7130,13 @@ LOCATION:09 65
 DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNr zajęć: 8/8\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250605T160000
+DTEND:20250605T173500
+SUMMARY:Dn (ć)
+LOCATION:201 65
+DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250606T080000
 DTEND:20250606T093500
 SUMMARY:WF (ć)
@@ -7256,6 +7242,13 @@ LOCATION:228 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/10\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250610T160000
+DTEND:20250610T173500
+SUMMARY:bai (L)
+LOCATION:121 65
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/12\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250610T175000
 DTEND:20250610T192500
 SUMMARY:Sa. (L)
@@ -7296,6 +7289,13 @@ DTEND:20250612T150500
 SUMMARY:Sss (L)
 LOCATION:09 65
 DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250612T175000
+DTEND:20250612T192500
+SUMMARY:bai (L)
+LOCATION:121 65
+DESCRIPTION:Bezpieczeństwo aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/12\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T080000

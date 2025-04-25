@@ -4799,13 +4799,6 @@ LOCATION:8/ 62
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250603T160000
-DTEND:20250603T173500
-SUMMARY:HP (ć)
-LOCATION:29/ 54
-DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250604T080000
 DTEND:20250604T093500
 SUMMARY:WF (ć)
@@ -4993,6 +4986,13 @@ DTEND:20250616T150500
 SUMMARY:Ppu. (w)
 LOCATION:3/ 54
 DESCRIPTION:Podstawy projektowania uniwersalnego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T160000
+DTEND:20250616T173500
+SUMMARY:HP (ć)
+LOCATION:29/ 54
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T080000

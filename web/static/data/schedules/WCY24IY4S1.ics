@@ -2052,7 +2052,7 @@ DTSTART:20250328T133000
 DTEND:20250328T150500
 SUMMARY:Amt (ć)
 LOCATION:317 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/12\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T160000
@@ -2213,7 +2213,7 @@ DTSTART:20250404T133000
 DTEND:20250404T150500
 SUMMARY:Amt (ć)
 LOCATION:317 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/12\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T194000
@@ -2360,7 +2360,7 @@ DTSTART:20250411T133000
 DTEND:20250411T150500
 SUMMARY:Amt (ć)
 LOCATION:317 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/12\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T160000
@@ -2409,7 +2409,7 @@ DTSTART:20250415T080000
 DTEND:20250415T093500
 SUMMARY:Amt (ć)
 LOCATION:314 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/12\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T160000
@@ -2573,6 +2573,13 @@ LOCATION:307 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250429T080000
+DTEND:20250429T093500
+SUMMARY:Amt (ć)
+LOCATION:308 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: mgr inż. Stanisław Zoń
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250429T095000
 DTEND:20250429T112500
 SUMMARY:Rp (ć)
@@ -2706,13 +2713,6 @@ LOCATION:316 S
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 11/14\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250508T133000
-DTEND:20250508T150500
-SUMMARY:Amt (ć)
-LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/12\nProwadzący: dr Piotr Kacprzyk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250508T160000
 DTEND:20250508T173500
 SUMMARY:JoM (ć)
@@ -2829,7 +2829,7 @@ DTSTART:20250515T114000
 DTEND:20250515T131500
 SUMMARY:Amt (ć)
 LOCATION:317 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/12\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T133000
@@ -2878,7 +2878,7 @@ DTSTART:20250521T114000
 DTEND:20250521T131500
 SUMMARY:Amt (ć)
 LOCATION:313 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/12\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T133000
@@ -2916,18 +2916,18 @@ LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 27/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250523T095000
-DTEND:20250523T112500
-SUMMARY:Amt (ć)
-LOCATION:308 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/12\nProwadzący: dr Piotr Kacprzyk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250523T114000
 DTEND:20250523T131500
 SUMMARY:PTk (ć)
 LOCATION:101 65
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący:  Jozef Turczyn
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250523T133000
+DTEND:20250523T150500
+SUMMARY:Amt (ć)
+LOCATION:314 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T095000
@@ -3021,18 +3021,18 @@ LOCATION:125 65
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr Maciej Lis
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250530T133000
-DTEND:20250530T150500
-SUMMARY:Amt (ć)
-LOCATION:307 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/12\nProwadzący: dr Piotr Kacprzyk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250602T095000
 DTEND:20250602T112500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250602T114000
+DTEND:20250602T131500
+SUMMARY:Amt (ć)
+LOCATION:316 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/8\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T095000
@@ -3054,13 +3054,6 @@ DTEND:20250604T112500
 SUMMARY:WdP (L)
 LOCATION:226 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Sławomir Wysocki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250604T114000
-DTEND:20250604T131500
-SUMMARY:Amt (ć)
-LOCATION:313 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/12\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T133000
@@ -3126,6 +3119,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 29/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250609T114000
+DTEND:20250609T131500
+SUMMARY:Amt (ć)
+LOCATION:316 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/8\nProwadzący: mgr inż. Stanisław Zoń
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250609T133000
 DTEND:20250609T150500
 SUMMARY:F1 (ć)
@@ -3164,8 +3164,8 @@ BEGIN:VEVENT
 DTSTART:20250612T095000
 DTEND:20250612T112500
 SUMMARY:Amt (ć)
-LOCATION:307 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/12\nProwadzący: dr Piotr Kacprzyk
+LOCATION:316 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/8\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T114000
@@ -3213,8 +3213,8 @@ BEGIN:VEVENT
 DTSTART:20250617T095000
 DTEND:20250617T112500
 SUMMARY:Amt (ć)
-LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/12\nProwadzący: dr Piotr Kacprzyk
+LOCATION:313 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/8\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T080000
