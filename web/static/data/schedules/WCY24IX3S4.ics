@@ -634,20 +634,6 @@ LOCATION:011 65
 DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Bartłomiej Szykuła
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250512T080000
-DTEND:20250512T093500
-SUMMARY:Msk. (L)
-LOCATION:237 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący:  Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250512T095000
-DTEND:20250512T112500
-SUMMARY:Msk. (L)
-LOCATION:237 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący:  Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250512T114000
 DTEND:20250512T131500
 SUMMARY:Msk. (w)
@@ -792,14 +778,14 @@ DTSTART:20250526T080000
 DTEND:20250526T093500
 SUMMARY:Msk. (L)
 LOCATION:226 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T095000
 DTEND:20250526T112500
 SUMMARY:Msk. (L)
 LOCATION:226 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T114000
@@ -883,14 +869,14 @@ DTSTART:20250530T114000
 DTEND:20250530T131500
 SUMMARY:Msk. (L)
 LOCATION:237 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T133000
 DTEND:20250530T150500
 SUMMARY:Msk. (L)
 LOCATION:237 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T160000
@@ -939,14 +925,14 @@ DTSTART:20250604T114000
 DTEND:20250604T131500
 SUMMARY:Msk. (L)
 LOCATION:237 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/6\nProwadzący:  Tomasz Gutowski
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T133000
 DTEND:20250604T150500
 SUMMARY:Msk. (L)
 LOCATION:237 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/6\nProwadzący:  Tomasz Gutowski
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T095000
@@ -1002,14 +988,14 @@ DTSTART:20250609T080000
 DTEND:20250609T093500
 SUMMARY:Msk. (L)
 LOCATION:226 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/6\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T095000
 DTEND:20250609T112500
 SUMMARY:Msk. (L)
 LOCATION:226 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/6\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T114000
@@ -1045,6 +1031,20 @@ DTEND:20250610T211500
 SUMMARY:Swp (L)
 LOCATION:011 65
 DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Bartłomiej Szykuła
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T080000
+DTEND:20250611T093500
+SUMMARY:Msk. (L)
+LOCATION:227 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/6\nProwadzący:  Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T095000
+DTEND:20250611T112500
+SUMMARY:Msk. (L)
+LOCATION:227 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/6\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T114000

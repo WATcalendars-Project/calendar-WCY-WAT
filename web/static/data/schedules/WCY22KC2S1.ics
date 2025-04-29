@@ -2342,20 +2342,6 @@ LOCATION:313 S
 DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250505T080000
-DTEND:20250505T093500
-SUMMARY:zsw (L)
-LOCATION:09 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/20\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250505T095000
-DTEND:20250505T112500
-SUMMARY:zsw (L)
-LOCATION:09 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/20\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250505T175000
 DTEND:20250505T192500
 SUMMARY:Asie (L)
@@ -2430,14 +2416,14 @@ DTSTART:20250509T080000
 DTEND:20250509T093500
 SUMMARY:zsw (L)
 LOCATION:09 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/20\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/20\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T095000
 DTEND:20250509T112500
 SUMMARY:zsw (L)
 LOCATION:09 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/20\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/20\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T114000
@@ -2570,14 +2556,14 @@ DTSTART:20250523T080000
 DTEND:20250523T093500
 SUMMARY:zsw (L)
 LOCATION:09 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/20\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/20\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T095000
 DTEND:20250523T112500
 SUMMARY:zsw (L)
 LOCATION:09 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/20\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/20\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T114000
@@ -2605,14 +2591,14 @@ DTSTART:20250530T080000
 DTEND:20250530T093500
 SUMMARY:zsw (L)
 LOCATION:09 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/20\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/20\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T095000
 DTEND:20250530T112500
 SUMMARY:zsw (L)
 LOCATION:09 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/20\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/20\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T114000
@@ -2668,14 +2654,14 @@ DTSTART:20250606T080000
 DTEND:20250606T093500
 SUMMARY:zsw (L)
 LOCATION:09 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/20\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/20\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T095000
 DTEND:20250606T112500
 SUMMARY:zsw (L)
 LOCATION:09 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/20\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/20\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T114000
@@ -2745,14 +2731,14 @@ DTSTART:20250613T080000
 DTEND:20250613T093500
 SUMMARY:zsw (L)
 LOCATION:09 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 17/20\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/20\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T095000
 DTEND:20250613T112500
 SUMMARY:zsw (L)
 LOCATION:09 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 18/20\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/20\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T114000
@@ -2773,11 +2759,25 @@ DTSTART:20250617T114000
 DTEND:20250617T131500
 SUMMARY:zsw (L)
 LOCATION:09 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 19/20\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 17/20\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T133000
 DTEND:20250617T150500
+SUMMARY:zsw (L)
+LOCATION:09 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 18/20\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250617T160000
+DTEND:20250617T173500
+SUMMARY:zsw (L)
+LOCATION:09 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 19/20\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250617T175000
+DTEND:20250617T192500
 SUMMARY:zsw (L)
 LOCATION:09 65
 DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 20/20\nProwadzący: mgr inż. Łukasz Mielniczuk

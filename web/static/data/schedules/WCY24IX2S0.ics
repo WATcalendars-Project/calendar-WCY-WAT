@@ -3245,13 +3245,6 @@ LOCATION:139 S 141 S
 DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250428T133000
-DTEND:20250428T150500
-SUMMARY:Amt (ć)
-LOCATION:307 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/12\nProwadzący: dr Joanna Piasecka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250429T080000
 DTEND:20250429T093500
 SUMMARY:WF (ć)
@@ -3354,7 +3347,7 @@ DTSTART:20250505T133000
 DTEND:20250505T150500
 SUMMARY:Amt (ć)
 LOCATION:307 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/12\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/12\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T160000
@@ -3425,6 +3418,13 @@ DTEND:20250508T112500
 SUMMARY:DSiSM (Inne)
 LOCATION:AW 3/043
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (repetytorium) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250508T114000
+DTEND:20250508T131500
+SUMMARY:Amt (ć)
+LOCATION:252 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/12\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T133000

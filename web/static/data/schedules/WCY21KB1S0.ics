@@ -5856,20 +5856,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 79/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250509T080000
-DTEND:20250509T093500
-SUMMARY:MeSK (L)
-LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250509T095000
-DTEND:20250509T112500
-SUMMARY:MeSK (L)
-LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250509T114000
 DTEND:20250509T131500
 SUMMARY:Ja (ć)
@@ -5982,11 +5968,25 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 82/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250516T095000
+DTEND:20250516T112500
+SUMMARY:MeSK (L)
+LOCATION:226 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250516T114000
 DTEND:20250516T131500
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 83/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250516T133000
+DTEND:20250516T150500
+SUMMARY:MeSK (L)
+LOCATION:226 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T160000
@@ -6008,13 +6008,6 @@ DTEND:20250519T093500
 SUMMARY:DWiPD (w)
 LOCATION:313 S
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250519T095000
-DTEND:20250519T112500
-SUMMARY:Miswd (L)
-LOCATION:95 S
-DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący:  Dawid Maślanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T114000
@@ -6073,13 +6066,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 84/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250523T095000
-DTEND:20250523T112500
-SUMMARY:Miswd (P)
-LOCATION:228 S
-DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Projekt\nNr zajęć: 1/4\nProwadzący:  Dawid Maślanik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250523T114000
 DTEND:20250523T131500
 SUMMARY:Ja (ć)
@@ -6106,6 +6092,13 @@ DTEND:20250524T112500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 40/43\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250526T095000
+DTEND:20250526T112500
+SUMMARY:Miswd (L)
+LOCATION:95 S
+DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący:  Dawid Maślanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T160000
@@ -6168,7 +6161,7 @@ DTSTART:20250528T133000
 DTEND:20250528T150500
 SUMMARY:Miswd (P)
 LOCATION:223 S
-DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Projekt\nNr zajęć: 2/4\nProwadzący:  Dawid Maślanik
+DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Projekt\nNr zajęć: 1/4\nProwadzący:  Dawid Maślanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T160000
@@ -6252,7 +6245,7 @@ DTSTART:20250602T114000
 DTEND:20250602T131500
 SUMMARY:Miswd (P)
 LOCATION:233 S
-DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Projekt\nNr zajęć: 3/4\nProwadzący:  Dawid Maślanik
+DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Projekt\nNr zajęć: 2/4\nProwadzący:  Dawid Maślanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T080000
@@ -6539,7 +6532,7 @@ DTSTART:20250616T114000
 DTEND:20250616T131500
 SUMMARY:Miswd (P)
 LOCATION:224 S
-DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Projekt\nNr zajęć: 4/4\nProwadzący:  Dawid Maślanik
+DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Projekt\nNr zajęć: 3/4\nProwadzący:  Dawid Maślanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T133000
@@ -6582,5 +6575,12 @@ DTEND:20250618T131500
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 90/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T133000
+DTEND:20250618T150500
+SUMMARY:Miswd (P)
+LOCATION:233 S
+DESCRIPTION:Metody i systemy wspomagania decyzji\nRodzaj zajęć: Projekt\nNr zajęć: 4/4\nProwadzący:  Dawid Maślanik
 END:VEVENT
 END:VCALENDAR

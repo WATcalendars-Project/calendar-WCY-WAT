@@ -1236,13 +1236,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 20/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250430T080000
-DTEND:20250430T093500
-SUMMARY:Spg (w)
-LOCATION:252 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Gzik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250430T095000
 DTEND:20250430T112500
 SUMMARY:Pjf (w)
@@ -1255,20 +1248,6 @@ DTEND:20250430T131500
 SUMMARY:Tal (P)
 LOCATION:224 S
 DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 1/6\nProwadzący: mgr inż. Piotr Stąpor
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250430T133000
-DTEND:20250430T150500
-SUMMARY:Hd (L)
-LOCATION:227 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Stefan Rozmus
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250430T160000
-DTEND:20250430T173500
-SUMMARY:Hd (L)
-LOCATION:227 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T080000
@@ -1492,7 +1471,7 @@ DTSTART:20250513T080000
 DTEND:20250513T093500
 SUMMARY:Spg (w)
 LOCATION:309 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T095000
@@ -1541,7 +1520,7 @@ DTSTART:20250514T114000
 DTEND:20250514T131500
 SUMMARY:Hd (L)
 LOCATION:227 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T080000
@@ -1828,7 +1807,7 @@ DTSTART:20250528T114000
 DTEND:20250528T131500
 SUMMARY:Hd (L)
 LOCATION:227 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T080000
@@ -1871,6 +1850,20 @@ DTEND:20250530T112500
 SUMMARY:Pjf (L)
 LOCATION:233 S
 DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Krzysztof Mierzejewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250530T114000
+DTEND:20250530T131500
+SUMMARY:Hd (L)
+LOCATION:252 S
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Stefan Rozmus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250530T133000
+DTEND:20250530T150500
+SUMMARY:Hd (L)
+LOCATION:252 S
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250531T080000
@@ -2130,6 +2123,13 @@ DTEND:20250614T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T080000
+DTEND:20250616T093500
+SUMMARY:Spg (w)
+LOCATION:252 S
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T114000

@@ -3504,20 +3504,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 45/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250505T133000
-DTEND:20250505T150500
-SUMMARY:WdP (L)
-LOCATION:237 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250505T160000
-DTEND:20250505T173500
-SUMMARY:WdP (L)
-LOCATION:237 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250506T080000
 DTEND:20250506T093500
 SUMMARY:Amt (w)
@@ -3880,6 +3866,20 @@ DTEND:20250521T131500
 SUMMARY:Amt (ć)
 LOCATION:308 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/12\nProwadzący: prof. dr hab. Wojciech Zajączkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250521T133000
+DTEND:20250521T150500
+SUMMARY:WdP (L)
+LOCATION:237 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250521T160000
+DTEND:20250521T173500
+SUMMARY:WdP (L)
+LOCATION:237 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T095000

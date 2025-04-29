@@ -1894,20 +1894,6 @@ LOCATION:228 S
 DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250424T114000
-DTEND:20250424T131500
-SUMMARY:PZ (P)
-LOCATION:236 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 6/22\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250424T133000
-DTEND:20250424T150500
-SUMMARY:PZ (P)
-LOCATION:236 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 7/22\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250428T095000
 DTEND:20250428T112500
 SUMMARY:PWSI (L)
@@ -1964,20 +1950,6 @@ LOCATION:227 S
 DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 12/15\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250430T080000
-DTEND:20250430T093500
-SUMMARY:EdP (L)
-LOCATION:228 S
-DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250430T095000
-DTEND:20250430T112500
-SUMMARY:EdP (L)
-LOCATION:228 S
-DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250430T114000
 DTEND:20250430T131500
 SUMMARY:kck (L)
@@ -2004,34 +1976,6 @@ DTEND:20250430T192500
 SUMMARY:Jtp (L)
 LOCATION:233 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr hab. Piotr Kosiuczenko
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250505T080000
-DTEND:20250505T093500
-SUMMARY:PZ (P)
-LOCATION:224 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 8/22\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250505T095000
-DTEND:20250505T112500
-SUMMARY:PZ (P)
-LOCATION:224 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 9/22\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250506T114000
-DTEND:20250506T131500
-SUMMARY:PZ (P)
-LOCATION:237 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 10/22\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250506T133000
-DTEND:20250506T150500
-SUMMARY:PZ (P)
-LOCATION:237 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 11/22\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T080000
@@ -2101,14 +2045,14 @@ DTSTART:20250513T114000
 DTEND:20250513T131500
 SUMMARY:PZ (P)
 LOCATION:237 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 12/22\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 6/22\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T133000
 DTEND:20250513T150500
 SUMMARY:PZ (P)
 LOCATION:237 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 13/22\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 7/22\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T080000
@@ -2143,42 +2087,42 @@ DTSTART:20250515T080000
 DTEND:20250515T093500
 SUMMARY:EdP (L)
 LOCATION:226 S
-DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T095000
 DTEND:20250515T112500
 SUMMARY:EdP (L)
 LOCATION:226 S
-DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T080000
 DTEND:20250519T093500
 SUMMARY:PZ (P)
 LOCATION:228 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 14/22\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 8/22\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T095000
 DTEND:20250519T112500
 SUMMARY:PZ (P)
 LOCATION:228 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 15/22\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 9/22\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T114000
 DTEND:20250519T131500
 SUMMARY:EdP (L)
 LOCATION:227 S
-DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T133000
 DTEND:20250519T150500
 SUMMARY:EdP (L)
 LOCATION:227 S
-DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T160000
@@ -2220,14 +2164,14 @@ DTSTART:20250526T080000
 DTEND:20250526T093500
 SUMMARY:PZ (P)
 LOCATION:228 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 16/22\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 10/22\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T095000
 DTEND:20250526T112500
 SUMMARY:PZ (P)
 LOCATION:228 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 17/22\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 11/22\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T160000
@@ -2244,6 +2188,20 @@ LOCATION:307 S
 DESCRIPTION:Event-driven programming\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250527T114000
+DTEND:20250527T131500
+SUMMARY:PZ (P)
+LOCATION:236 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 12/22\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250527T133000
+DTEND:20250527T150500
+SUMMARY:PZ (P)
+LOCATION:236 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 13/22\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250527T175000
 DTEND:20250527T192500
 SUMMARY:AM (L)
@@ -2256,6 +2214,20 @@ DTEND:20250527T211500
 SUMMARY:AM (L)
 LOCATION:223 S
 DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250528T114000
+DTEND:20250528T131500
+SUMMARY:EdP (L)
+LOCATION:228 S
+DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250528T133000
+DTEND:20250528T150500
+SUMMARY:EdP (L)
+LOCATION:228 S
+DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T080000
@@ -2276,14 +2248,14 @@ DTSTART:20250602T080000
 DTEND:20250602T093500
 SUMMARY:PZ (P)
 LOCATION:228 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 18/22\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 14/22\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T095000
 DTEND:20250602T112500
 SUMMARY:PZ (P)
 LOCATION:228 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 19/22\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 15/22\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T160000
@@ -2356,6 +2328,20 @@ LOCATION:226 S
 DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250606T080000
+DTEND:20250606T093500
+SUMMARY:PZ (P)
+LOCATION:237 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 16/22\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250606T095000
+DTEND:20250606T112500
+SUMMARY:PZ (P)
+LOCATION:237 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 17/22\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250609T080000
 DTEND:20250609T093500
 SUMMARY:PWSI (w)
@@ -2367,7 +2353,7 @@ DTSTART:20250609T095000
 DTEND:20250609T112500
 SUMMARY:PZ (P)
 LOCATION:223 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 20/22\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 18/22\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T080000
@@ -2389,6 +2375,20 @@ DTEND:20250616T093500
 SUMMARY:Sn (w)
 LOCATION:316 S
 DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T114000
+DTEND:20250616T131500
+SUMMARY:PZ (P)
+LOCATION:236 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 19/22\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T133000
+DTEND:20250616T150500
+SUMMARY:PZ (P)
+LOCATION:236 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 20/22\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T114000
