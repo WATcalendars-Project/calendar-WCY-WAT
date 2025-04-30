@@ -3364,13 +3364,6 @@ LOCATION:228 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250506T080000
-DTEND:20250506T093500
-SUMMARY:WF (ć)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 47/60\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250506T095000
 DTEND:20250506T112500
 SUMMARY:Amt (w)
@@ -3431,7 +3424,7 @@ DTSTART:20250508T133000
 DTEND:20250508T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 48/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 47/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T194000
@@ -3487,7 +3480,7 @@ DTSTART:20250512T095000
 DTEND:20250512T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 49/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 48/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T114000
@@ -3501,7 +3494,7 @@ DTSTART:20250513T080000
 DTEND:20250513T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 50/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 49/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T095000
@@ -3571,7 +3564,7 @@ DTSTART:20250515T133000
 DTEND:20250515T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 51/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 50/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T160000
@@ -3620,7 +3613,7 @@ DTSTART:20250519T095000
 DTEND:20250519T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 52/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 51/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T114000
@@ -3648,7 +3641,7 @@ DTSTART:20250520T080000
 DTEND:20250520T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 53/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 52/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T095000
@@ -3795,7 +3788,7 @@ DTSTART:20250526T095000
 DTEND:20250526T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 54/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 53/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T114000
@@ -3845,6 +3838,13 @@ DTEND:20250528T131500
 SUMMARY:F1 (w)
 LOCATION:314 S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 16/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250528T133000
+DTEND:20250528T150500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 54/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T080000

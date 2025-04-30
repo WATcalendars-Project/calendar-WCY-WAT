@@ -2426,20 +2426,6 @@ LOCATION:106 65
 DESCRIPTION:Kompresja danych multimedialnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250428T175000
-DTEND:20250428T192500
-SUMMARY:TeIP (L)
-LOCATION:121 65
-DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Dagmara Mazur
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250428T194000
-DTEND:20250428T211500
-SUMMARY:TeIP (L)
-LOCATION:121 65
-DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Dagmara Mazur
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250429T080000
 DTEND:20250429T093500
 SUMMARY:Sp (Inne)
@@ -2704,6 +2690,20 @@ DTEND:20250519T131500
 SUMMARY:kdm (w)
 LOCATION:308 S
 DESCRIPTION:Kompresja danych multimedialnych\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250519T175000
+DTEND:20250519T192500
+SUMMARY:TeIP (L)
+LOCATION:121 65
+DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250519T194000
+DTEND:20250519T211500
+SUMMARY:TeIP (L)
+LOCATION:121 65
+DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T080000

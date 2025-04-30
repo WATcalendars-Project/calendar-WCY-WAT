@@ -1278,13 +1278,6 @@ LOCATION:19 36
 DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr hab. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250430T175000
-DTEND:20250430T192500
-SUMMARY:Asie (w)
-LOCATION:313 S
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Marcin Pachnik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250505T080000
 DTEND:20250505T093500
 SUMMARY:Est (L)
@@ -1297,20 +1290,6 @@ DTEND:20250505T112500
 SUMMARY:Est (L)
 LOCATION:106 65
 DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: dr inż. Michał Jarosz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250505T114000
-DTEND:20250505T131500
-SUMMARY:SKII (L)
-LOCATION:120 65
-DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250505T133000
-DTEND:20250505T150500
-SUMMARY:SKII (L)
-LOCATION:120 65
-DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T175000
@@ -1422,7 +1401,7 @@ DTSTART:20250508T160000
 DTEND:20250508T173500
 SUMMARY:Asie (w)
 LOCATION:313 S
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T080000
@@ -1698,6 +1677,13 @@ LOCATION:313 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250520T080000
+DTEND:20250520T093500
+SUMMARY:SKII (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250520T095000
 DTEND:20250520T112500
 SUMMARY:WF (ć)
@@ -1709,14 +1695,14 @@ DTSTART:20250520T114000
 DTEND:20250520T131500
 SUMMARY:SKII (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T133000
 DTEND:20250520T150500
 SUMMARY:SKII (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T160000
@@ -2097,6 +2083,13 @@ LOCATION:125 65
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250604T160000
+DTEND:20250604T173500
+SUMMARY:Asie (w)
+LOCATION:307 S
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250604T194000
 DTEND:20250604T211500
 SUMMARY:REG (ć)
@@ -2193,6 +2186,13 @@ DTEND:20250609T173500
 SUMMARY:Asie (L)
 LOCATION:106 65
 DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/14\nProwadzący:  Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T080000
+DTEND:20250610T093500
+SUMMARY:SKII (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T095000

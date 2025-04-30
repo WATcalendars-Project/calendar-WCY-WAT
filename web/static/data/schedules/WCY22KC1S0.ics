@@ -1243,13 +1243,6 @@ LOCATION:19 36
 DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr hab. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250430T175000
-DTEND:20250430T192500
-SUMMARY:Asie (w)
-LOCATION:313 S
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Marcin Pachnik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250505T095000
 DTEND:20250505T112500
 SUMMARY:Oni (L)
@@ -1380,7 +1373,7 @@ DTSTART:20250508T160000
 DTEND:20250508T173500
 SUMMARY:Asie (w)
 LOCATION:313 S
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T175000
@@ -2004,6 +1997,13 @@ DTEND:20250603T173500
 SUMMARY:Asie (L)
 LOCATION:011 65
 DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/14\nProwadzący:  Adrian Myśliwiec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250604T160000
+DTEND:20250604T173500
+SUMMARY:Asie (w)
+LOCATION:307 S
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T175000

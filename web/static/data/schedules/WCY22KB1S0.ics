@@ -1019,13 +1019,6 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250428T080000
-DTEND:20250428T093500
-SUMMARY:Tal (w)
-LOCATION:307 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250428T095000
 DTEND:20250428T112500
 SUMMARY:WF (ć)
@@ -1794,6 +1787,13 @@ DTEND:20250609T112500
 SUMMARY:PESW (ć)
 LOCATION:S3 72
 DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250609T160000
+DTEND:20250609T173500
+SUMMARY:Tal (w)
+LOCATION:237 S 239 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T080000

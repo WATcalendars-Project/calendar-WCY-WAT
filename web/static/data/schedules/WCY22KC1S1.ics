@@ -2286,13 +2286,6 @@ LOCATION:09 65
 DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250430T175000
-DTEND:20250430T192500
-SUMMARY:Asie (w)
-LOCATION:313 S
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Marcin Pachnik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250505T095000
 DTEND:20250505T112500
 SUMMARY:TpsT (L)
@@ -2395,7 +2388,7 @@ DTSTART:20250508T160000
 DTEND:20250508T173500
 SUMMARY:Asie (w)
 LOCATION:313 S
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T175000
@@ -2669,6 +2662,13 @@ DTEND:20250604T150500
 SUMMARY:Sbs (L)
 LOCATION:120 65
 DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250604T160000
+DTEND:20250604T173500
+SUMMARY:Asie (w)
+LOCATION:307 S
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T080000

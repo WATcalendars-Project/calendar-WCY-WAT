@@ -6192,13 +6192,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 73/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250429T095000
-DTEND:20250429T112500
-SUMMARY:Zt (P)
-LOCATION:120 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 1/5\nProwadzący: mgr inż. Dagmara Mazur
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250429T114000
 DTEND:20250429T131500
 SUMMARY:MeSK (L)
@@ -6533,6 +6526,13 @@ DTEND:20250516T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 79/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250516T095000
+DTEND:20250516T112500
+SUMMARY:Zt (P)
+LOCATION:201 65
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 1/5\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T114000
