@@ -4715,20 +4715,6 @@ LOCATION:121 65
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250507T114000
-DTEND:20250507T131500
-SUMMARY:IO (L)
-LOCATION:228 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/14\nProwadzący: mgr inż. Paweł Pieczonka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250507T133000
-DTEND:20250507T150500
-SUMMARY:IO (L)
-LOCATION:228 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/14\nProwadzący: mgr inż. Paweł Pieczonka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250508T095000
 DTEND:20250508T112500
 SUMMARY:Pk (L)
@@ -4873,14 +4859,14 @@ DTSTART:20250519T114000
 DTEND:20250519T131500
 SUMMARY:IO (L)
 LOCATION:223 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/14\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/14\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T133000
 DTEND:20250519T150500
 SUMMARY:IO (L)
 LOCATION:223 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/14\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/14\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T133000
@@ -5006,14 +4992,14 @@ DTSTART:20250528T133000
 DTEND:20250528T150500
 SUMMARY:IO (L)
 LOCATION:236 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/14\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/14\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T160000
 DTEND:20250528T173500
 SUMMARY:IO (L)
 LOCATION:236 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/14\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/14\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T095000
@@ -5062,14 +5048,14 @@ DTSTART:20250602T114000
 DTEND:20250602T131500
 SUMMARY:IO (L)
 LOCATION:224 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/14\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/14\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T133000
 DTEND:20250602T150500
 SUMMARY:IO (L)
 LOCATION:224 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/14\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/14\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T133000
@@ -5182,6 +5168,20 @@ DTEND:20250611T112500
 SUMMARY:Wek (L)
 LOCATION:078 S
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/16\nProwadzący: mgr inż. Alicja Kida
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T114000
+DTEND:20250611T131500
+SUMMARY:IO (L)
+LOCATION:236 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/14\nProwadzący: mgr inż. Paweł Pieczonka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T133000
+DTEND:20250611T150500
+SUMMARY:IO (L)
+LOCATION:236 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/14\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T080000

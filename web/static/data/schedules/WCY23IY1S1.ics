@@ -4806,20 +4806,6 @@ LOCATION:236 S
 DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250505T114000
-DTEND:20250505T131500
-SUMMARY:Pw (P)
-LOCATION:228 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNr zajęć: 3/5\nProwadzący: dr inż. Jarosław Rulka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250505T133000
-DTEND:20250505T150500
-SUMMARY:Pw (P)
-LOCATION:228 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNr zajęć: 4/5\nProwadzący: dr inż. Jarosław Rulka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250506T080000
 DTEND:20250506T093500
 SUMMARY:SI (L)
@@ -4923,6 +4909,20 @@ DTEND:20250508T192500
 SUMMARY:IO (L)
 LOCATION:227 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/14\nProwadzący: mgr inż. Radosław Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250509T114000
+DTEND:20250509T131500
+SUMMARY:Pw (P)
+LOCATION:228 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNr zajęć: 3/5\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250509T133000
+DTEND:20250509T150500
+SUMMARY:Pw (P)
+LOCATION:228 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNr zajęć: 4/5\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T160000

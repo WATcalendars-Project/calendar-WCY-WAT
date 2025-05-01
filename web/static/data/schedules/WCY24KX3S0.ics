@@ -3507,14 +3507,14 @@ BEGIN:VEVENT
 DTSTART:20250506T080000
 DTEND:20250506T093500
 SUMMARY:Amt (w)
-LOCATION:313 S
+LOCATION:317 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: prof. dr hab. Wojciech Zajączkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T095000
 DTEND:20250506T112500
 SUMMARY:Md2 (w)
-LOCATION:314 S
+LOCATION:317 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
@@ -3523,6 +3523,13 @@ DTEND:20250506T131500
 SUMMARY:Ja (ć)
 LOCATION:132 K 239 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 45/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250506T175000
+DTEND:20250506T192500
+SUMMARY:ZLDT-1 (w)
+LOCATION:103 K
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T080000
@@ -3572,13 +3579,6 @@ DTEND:20250508T150500
 SUMMARY:PD (ć)
 LOCATION:AW 3/038
 DESCRIPTION:Podstawy dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250508T160000
-DTEND:20250508T173500
-SUMMARY:ZLDT-1 (w)
-LOCATION:103 K
-DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T175000

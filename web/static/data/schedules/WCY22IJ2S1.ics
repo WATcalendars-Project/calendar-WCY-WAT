@@ -2013,13 +2013,6 @@ LOCATION:237 S 239 S
 DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Damian Frąszczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250508T114000
-DTEND:20250508T131500
-SUMMARY:TAI (L)
-LOCATION:223 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Paweł Pieczonka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250512T080000
 DTEND:20250512T093500
 SUMMARY:kck (L)
@@ -2095,6 +2088,13 @@ DTEND:20250515T112500
 SUMMARY:EdP (L)
 LOCATION:226 S
 DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250515T114000
+DTEND:20250515T131500
+SUMMARY:TAI (L)
+LOCATION:228 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T080000

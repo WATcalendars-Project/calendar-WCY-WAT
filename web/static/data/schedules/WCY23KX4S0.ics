@@ -6027,7 +6027,7 @@ BEGIN:VEVENT
 DTSTART:20250506T114000
 DTEND:20250506T131500
 SUMMARY:MM (w)
-LOCATION:314 S
+LOCATION:317 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
@@ -6227,6 +6227,13 @@ LOCATION:224 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250516T095000
+DTEND:20250516T112500
+SUMMARY:SO (w)
+LOCATION:317 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 10/13\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250516T114000
 DTEND:20250516T131500
 SUMMARY:WF (ć)
@@ -6259,14 +6266,14 @@ DTSTART:20250519T114000
 DTEND:20250519T131500
 SUMMARY:SO (w)
 LOCATION:313 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 10/13\nProwadzący:  Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 11/13\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T095000
 DTEND:20250520T112500
 SUMMARY:SO (w)
 LOCATION:314 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 11/13\nProwadzący:  Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 12/13\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T114000
@@ -6448,7 +6455,7 @@ DTSTART:20250528T095000
 DTEND:20250528T112500
 SUMMARY:SO (w)
 LOCATION:317 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 12/13\nProwadzący:  Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 13/13\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T114000
@@ -6757,13 +6764,6 @@ DTEND:20250610T173500
 SUMMARY:OPL (ć)
 LOCATION:PĆT4
 DESCRIPTION:Powszechna obrona przeciwlotnicza i obrona przeciwlotnicza - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250611T095000
-DTEND:20250611T112500
-SUMMARY:SO (w)
-LOCATION:317 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 13/13\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T114000

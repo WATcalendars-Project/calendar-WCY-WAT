@@ -2454,13 +2454,6 @@ LOCATION:307 S
 DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250430T114000
-DTEND:20250430T131500
-SUMMARY:Md2 (ć)
-LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr Łukasz Matysiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250430T133000
 DTEND:20250430T150500
 SUMMARY:F1 (w)
@@ -2499,14 +2492,14 @@ BEGIN:VEVENT
 DTSTART:20250506T080000
 DTEND:20250506T093500
 SUMMARY:Amt (w)
-LOCATION:313 S
+LOCATION:317 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: prof. dr hab. Wojciech Zajączkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T095000
 DTEND:20250506T112500
 SUMMARY:Md2 (w)
-LOCATION:314 S
+LOCATION:317 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
@@ -2682,7 +2675,7 @@ DTSTART:20250513T160000
 DTEND:20250513T173500
 SUMMARY:Md2 (ć)
 LOCATION:204 65
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: dr Łukasz Matysiak
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr Łukasz Matysiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T080000
@@ -3019,6 +3012,13 @@ DTEND:20250604T173500
 SUMMARY:Ja (ć)
 LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250605T080000
+DTEND:20250605T093500
+SUMMARY:Md2 (ć)
+LOCATION:309 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: dr Łukasz Matysiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T114000

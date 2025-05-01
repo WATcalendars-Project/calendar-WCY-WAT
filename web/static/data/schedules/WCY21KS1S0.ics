@@ -4838,7 +4838,7 @@ DTSTART:20250305T080000
 DTEND:20250305T093500
 SUMMARY:tcs (w)
 LOCATION:201 65
-DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T114000
@@ -4943,7 +4943,7 @@ DTSTART:20250311T080000
 DTEND:20250311T093500
 SUMMARY:tcs (w)
 LOCATION:204 65
-DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T133000
@@ -5118,7 +5118,7 @@ DTSTART:20250319T080000
 DTEND:20250319T093500
 SUMMARY:tcs (w)
 LOCATION:201 65
-DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T095000
@@ -5279,7 +5279,7 @@ DTSTART:20250326T080000
 DTEND:20250326T093500
 SUMMARY:tcs (w)
 LOCATION:204 65
-DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T095000
@@ -5475,7 +5475,7 @@ DTSTART:20250402T080000
 DTEND:20250402T093500
 SUMMARY:tcs (w)
 LOCATION:101 65
-DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T095000
@@ -5615,7 +5615,7 @@ DTSTART:20250408T080000
 DTEND:20250408T093500
 SUMMARY:tcs (w)
 LOCATION:204 65
-DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T095000
@@ -5706,7 +5706,7 @@ DTSTART:20250411T095000
 DTEND:20250411T112500
 SUMMARY:tcs (w)
 LOCATION:204 65
-DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T114000
@@ -6010,13 +6010,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 43/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250507T080000
-DTEND:20250507T093500
-SUMMARY:tcs (w)
-LOCATION:201 65
-DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr Piotr Kacprzyk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250507T114000
 DTEND:20250507T131500
 SUMMARY:Ja (ć)
@@ -6028,7 +6021,7 @@ DTSTART:20250507T133000
 DTEND:20250507T150500
 SUMMARY:tcs (w)
 LOCATION:201 65
-DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 9/8\nProwadzący: dr Łukasz Matysiak
+DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 8/7\nProwadzący: dr Łukasz Matysiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T160000
@@ -6311,6 +6304,13 @@ LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 84/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250521T160000
+DTEND:20250521T173500
+SUMMARY:tcs (w)
+LOCATION:ON-LINE I
+DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 9/7\nProwadzący: dr Łukasz Matysiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250522T080000
 DTEND:20250522T093500
 SUMMARY:Pkuc2 (L)
@@ -6420,7 +6420,7 @@ DTSTART:20250527T160000
 DTEND:20250527T173500
 SUMMARY:tcs (w)
 LOCATION:201 65
-DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 10/8\nProwadzący: dr Łukasz Matysiak
+DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Wykład\nNr zajęć: 10/7\nProwadzący: dr Łukasz Matysiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T095000

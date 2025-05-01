@@ -4806,20 +4806,6 @@ LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 39/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250507T080000
-DTEND:20250507T093500
-SUMMARY:IO (L)
-LOCATION:227 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/14\nProwadzący: mgr inż. Paweł Pieczonka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250507T095000
-DTEND:20250507T112500
-SUMMARY:IO (L)
-LOCATION:227 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/14\nProwadzący: mgr inż. Paweł Pieczonka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250508T095000
 DTEND:20250508T112500
 SUMMARY:Zkst (L)
@@ -4943,14 +4929,14 @@ DTSTART:20250519T080000
 DTEND:20250519T093500
 SUMMARY:IO (L)
 LOCATION:223 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/14\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/14\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T095000
 DTEND:20250519T112500
 SUMMARY:IO (L)
 LOCATION:223 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/14\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/14\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T114000
@@ -5111,14 +5097,14 @@ DTSTART:20250602T080000
 DTEND:20250602T093500
 SUMMARY:IO (L)
 LOCATION:224 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/14\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/14\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T095000
 DTEND:20250602T112500
 SUMMARY:IO (L)
 LOCATION:224 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/14\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/14\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T133000
@@ -5203,6 +5189,20 @@ DTEND:20250610T173500
 SUMMARY:JoM (ć)
 LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 44/45\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T080000
+DTEND:20250611T093500
+SUMMARY:IO (L)
+LOCATION:233 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/14\nProwadzący: mgr inż. Paweł Pieczonka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T095000
+DTEND:20250611T112500
+SUMMARY:IO (L)
+LOCATION:233 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/14\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T114000
