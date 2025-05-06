@@ -4246,20 +4246,6 @@ LOCATION:aF S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 11/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250509T095000
-DTEND:20250509T112500
-SUMMARY:Fil (w)
-LOCATION:52/ 62
-DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250509T114000
-DTEND:20250509T131500
-SUMMARY:Fil (ć)
-LOCATION:54/ 62
-DESCRIPTION:Filozofia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250512T080000
 DTEND:20250512T093500
 SUMMARY:F1 (w)
@@ -4369,14 +4355,14 @@ DTSTART:20250516T095000
 DTEND:20250516T112500
 SUMMARY:Fil (w)
 LOCATION:52/ 62
-DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -
+DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T114000
 DTEND:20250516T131500
 SUMMARY:Fil (ć)
 LOCATION:54/ 62
-DESCRIPTION:Filozofia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: -
+DESCRIPTION:Filozofia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T133000
@@ -4467,7 +4453,7 @@ DTSTART:20250520T160000
 DTEND:20250520T173500
 SUMMARY:Fil (w)
 LOCATION:52/ 62
-DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -
+DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T080000
@@ -4530,7 +4516,7 @@ DTSTART:20250523T114000
 DTEND:20250523T131500
 SUMMARY:Fil (ć)
 LOCATION:54/ 62
-DESCRIPTION:Filozofia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: -
+DESCRIPTION:Filozofia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T080000
@@ -4656,7 +4642,7 @@ DTSTART:20250530T114000
 DTEND:20250530T131500
 SUMMARY:Fil (ć)
 LOCATION:54/ 62
-DESCRIPTION:Filozofia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: -
+DESCRIPTION:Filozofia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T080000
@@ -4706,6 +4692,13 @@ DTEND:20250603T150500
 SUMMARY:Acz. (Inne)
 LOCATION:54/ 62
 DESCRIPTION:Anatomia człowieka - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 12/16\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250603T160000
+DTEND:20250603T173500
+SUMMARY:Fil (ć)
+LOCATION:8/ 62
+DESCRIPTION:Filozofia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T080000
@@ -4895,6 +4888,13 @@ DTEND:20250617T131500
 SUMMARY:Acz. (Inne)
 LOCATION:54/ 62
 DESCRIPTION:Anatomia człowieka - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 15/16\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250617T160000
+DTEND:20250617T173500
+SUMMARY:Fil (w)
+LOCATION:52/ 62
+DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T080000

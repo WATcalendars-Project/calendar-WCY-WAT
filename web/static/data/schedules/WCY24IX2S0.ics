@@ -3896,6 +3896,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 37/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250530T080000
+DTEND:20250530T093500
+SUMMARY:Tpi (ć)
+LOCATION:313 S
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250530T095000
 DTEND:20250530T112500
 SUMMARY:PD (w)
@@ -3971,13 +3978,6 @@ DTEND:20250603T150500
 SUMMARY:Md2 (ć)
 LOCATION:316 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: dr Robert Dryło
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250603T160000
-DTEND:20250603T173500
-SUMMARY:Tpi (ć)
-LOCATION:309 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T080000

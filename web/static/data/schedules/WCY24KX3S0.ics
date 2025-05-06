@@ -3973,6 +3973,13 @@ LOCATION:205 65
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250526T160000
+DTEND:20250526T173500
+SUMMARY:SzOR (Inne)
+LOCATION:313 S
+DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250527T080000
 DTEND:20250527T093500
 SUMMARY:WF (ć)
