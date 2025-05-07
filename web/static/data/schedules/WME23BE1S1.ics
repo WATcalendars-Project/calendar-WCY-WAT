@@ -1943,13 +1943,6 @@ LOCATION:57B/ 62
 DESCRIPTION:Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250508T080000
-DTEND:20250508T093500
-SUMMARY:Wzf (L)
-LOCATION:30 54E
-DESCRIPTION:Wybrane zagadnienia fizyki kwantowej  - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250509T080000
 DTEND:20250509T093500
 SUMMARY:- (Inne)
@@ -2025,6 +2018,13 @@ DTEND:20250511T150500
 SUMMARY:XMat3 (w)
 LOCATION:313 S
 DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 8/11\nProwadzący: dr Agnieszka Gdula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250512T095000
+DTEND:20250512T112500
+SUMMARY:Wzf (L)
+LOCATION:30 54E
+DESCRIPTION:Wybrane zagadnienia fizyki kwantowej  - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T114000

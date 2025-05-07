@@ -7221,20 +7221,6 @@ LOCATION:7/ 34a
 DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250508T080000
-DTEND:20250508T093500
-SUMMARY:SzNiI (L)
-LOCATION:57/ 62
-DESCRIPTION:Sztuczne narządy i implanty - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/11\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250508T095000
-DTEND:20250508T112500
-SUMMARY:SzNiI (L)
-LOCATION:57/ 62
-DESCRIPTION:Sztuczne narządy i implanty - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/11\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250509T080000
 DTEND:20250509T093500
 SUMMARY:- (Inne)
@@ -7358,14 +7344,14 @@ DTSTART:20250515T080000
 DTEND:20250515T093500
 SUMMARY:SzNiI (L)
 LOCATION:57/ 62
-DESCRIPTION:Sztuczne narządy i implanty - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/11\nProwadzący: -
+DESCRIPTION:Sztuczne narządy i implanty - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T095000
 DTEND:20250515T112500
 SUMMARY:SzNiI (L)
 LOCATION:57/ 62
-DESCRIPTION:Sztuczne narządy i implanty - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/11\nProwadzący: -
+DESCRIPTION:Sztuczne narządy i implanty - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T160000
@@ -7722,14 +7708,14 @@ DTSTART:20250602T095000
 DTEND:20250602T112500
 SUMMARY:SzNiI (L)
 LOCATION:57/ 62
-DESCRIPTION:Sztuczne narządy i implanty - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/11\nProwadzący: -
+DESCRIPTION:Sztuczne narządy i implanty - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T114000
 DTEND:20250602T131500
 SUMMARY:SzNiI (L)
 LOCATION:57/ 62
-DESCRIPTION:Sztuczne narządy i implanty - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/11\nProwadzący: -
+DESCRIPTION:Sztuczne narządy i implanty - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T080000
@@ -7865,11 +7851,25 @@ LOCATION:57/ 62
 DESCRIPTION:Metody numerycznego modelowania i symulacji urazów człowieka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250610T114000
+DTEND:20250610T131500
+SUMMARY:SzNiI (L)
+LOCATION:57/ 62
+DESCRIPTION:Sztuczne narządy i implanty - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/11\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250610T133000
 DTEND:20250610T150500
 SUMMARY:Wm (ć)
 LOCATION:54/ 62
 DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/26\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T160000
+DTEND:20250610T173500
+SUMMARY:SzNiI (L)
+LOCATION:57/ 62
+DESCRIPTION:Sztuczne narządy i implanty - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T080000

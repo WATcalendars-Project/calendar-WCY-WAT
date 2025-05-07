@@ -3427,6 +3427,13 @@ LOCATION:aE S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 12/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250507T133000
+DTEND:20250507T150500
+SUMMARY:Tpi (L)
+LOCATION:226 S
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250508T080000
 DTEND:20250508T093500
 SUMMARY:GMiB (w)
@@ -3446,13 +3453,6 @@ DTEND:20250508T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 47/60\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250508T160000
-DTEND:20250508T173500
-SUMMARY:Tpi (L)
-LOCATION:233 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T194000
@@ -3854,6 +3854,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 54/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250528T160000
+DTEND:20250528T173500
+SUMMARY:Tpi (ć)
+LOCATION:307 S
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250529T080000
 DTEND:20250529T093500
 SUMMARY:SzS (ć)
@@ -3957,13 +3964,6 @@ DTEND:20250602T150500
 SUMMARY:PTk (ć)
 LOCATION:101 65
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący:  Jozef Turczyn
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250602T160000
-DTEND:20250602T173500
-SUMMARY:Tpi (ć)
-LOCATION:308 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T080000

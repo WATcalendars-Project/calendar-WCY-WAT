@@ -6059,13 +6059,6 @@ LOCATION:313 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250507T080000
-DTEND:20250507T093500
-SUMMARY:Etl (w)
-LOCATION:313 S
-DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr Robert Dryło
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250507T095000
 DTEND:20250507T112500
 SUMMARY:Po (w)
@@ -6785,6 +6778,13 @@ DTEND:20250610T173500
 SUMMARY:OPL (ć)
 LOCATION:PĆT4
 DESCRIPTION:Powszechna obrona przeciwlotnicza i obrona przeciwlotnicza - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T095000
+DTEND:20250611T112500
+SUMMARY:Etl (w)
+LOCATION:317 S
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T114000

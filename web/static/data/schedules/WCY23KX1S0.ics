@@ -6073,13 +6073,6 @@ LOCATION:317 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250506T133000
-DTEND:20250506T150500
-SUMMARY:DWiPD (ć)
-LOCATION:201 65
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250506T160000
 DTEND:20250506T173500
 SUMMARY:SO (L)
@@ -6092,13 +6085,6 @@ DTEND:20250506T192500
 SUMMARY:SO (L)
 LOCATION:120 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/13\nProwadzący: mgr inż. Grzegorz Kropiewnicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250507T080000
-DTEND:20250507T093500
-SUMMARY:Etl (w)
-LOCATION:313 S
-DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T095000
@@ -6260,6 +6246,13 @@ DTEND:20250514T131500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 78/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250514T133000
+DTEND:20250514T150500
+SUMMARY:DWiPD (ć)
+LOCATION:204 65
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T080000
@@ -6778,6 +6771,13 @@ DTEND:20250610T150500
 SUMMARY:PODS.SUR. (ć)
 LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/11\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T095000
+DTEND:20250611T112500
+SUMMARY:Etl (w)
+LOCATION:317 S
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T114000

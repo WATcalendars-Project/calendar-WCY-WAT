@@ -2237,20 +2237,6 @@ LOCATION:227 S
 DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250522T114000
-DTEND:20250522T131500
-SUMMARY:PZ (P)
-LOCATION:226 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 21/22\nProwadzący: dr inż. Wojciech Kulas
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250522T133000
-DTEND:20250522T150500
-SUMMARY:PZ (P)
-LOCATION:226 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 22/22\nProwadzący: dr inż. Wojciech Kulas
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250523T080000
 DTEND:20250523T093500
 SUMMARY:PWSI (w)
@@ -2284,6 +2270,20 @@ DTEND:20250528T112500
 SUMMARY:EdP (L)
 LOCATION:227 S
 DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250528T114000
+DTEND:20250528T131500
+SUMMARY:PZ (P)
+LOCATION:237 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 21/22\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250528T133000
+DTEND:20250528T150500
+SUMMARY:PZ (P)
+LOCATION:237 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 22/22\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T160000
