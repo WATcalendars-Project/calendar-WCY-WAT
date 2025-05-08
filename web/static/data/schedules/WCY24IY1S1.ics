@@ -2825,20 +2825,6 @@ LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250509T080000
-DTEND:20250509T093500
-SUMMARY:WdP (L)
-LOCATION:233 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Sławomir Wysocki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250509T095000
-DTEND:20250509T112500
-SUMMARY:WdP (L)
-LOCATION:233 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Sławomir Wysocki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250512T095000
 DTEND:20250512T112500
 SUMMARY:WF (ć)
@@ -2865,6 +2851,20 @@ DTEND:20250513T150500
 SUMMARY:Md2 (ć)
 LOCATION:309 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250514T080000
+DTEND:20250514T093500
+SUMMARY:WdP (L)
+LOCATION:233 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Sławomir Wysocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250514T095000
+DTEND:20250514T112500
+SUMMARY:WdP (L)
+LOCATION:233 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Sławomir Wysocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T114000
@@ -3091,6 +3091,13 @@ LOCATION:313 S
 DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250529T095000
+DTEND:20250529T112500
+SUMMARY:Tgs (ć)
+LOCATION:316 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250529T114000
 DTEND:20250529T131500
 SUMMARY:Md2 (ć)
@@ -3215,13 +3222,6 @@ DTEND:20250611T173500
 SUMMARY:Ja (ć)
 LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 29/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250611T175000
-DTEND:20250611T192500
-SUMMARY:Tgs (ć)
-LOCATION:308 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T160000

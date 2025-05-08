@@ -6388,13 +6388,6 @@ LOCATION:201 65
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250509T175000
-DTEND:20250509T192500
-SUMMARY:Pwst (P)
-LOCATION:106 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 5/6\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250510T095000
 DTEND:20250510T112500
 SUMMARY:XWF (ć)
@@ -6463,6 +6456,13 @@ DTEND:20250513T150500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 50/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250513T175000
+DTEND:20250513T192500
+SUMMARY:Pwst (P)
+LOCATION:218 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 5/6\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T095000

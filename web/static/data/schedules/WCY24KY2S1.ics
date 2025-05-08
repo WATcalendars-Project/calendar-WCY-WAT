@@ -2580,13 +2580,6 @@ LOCATION:308 S
 DESCRIPTION:Filozofia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250508T133000
-DTEND:20250508T150500
-SUMMARY:Tgs (ć)
-LOCATION:317 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250508T160000
 DTEND:20250508T173500
 SUMMARY:JoM (ć)
@@ -2713,13 +2706,6 @@ LOCATION:308 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/12\nProwadzący: prof. dr hab. Wojciech Zajączkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250515T133000
-DTEND:20250515T150500
-SUMMARY:Tgs (ć)
-LOCATION:316 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250515T160000
 DTEND:20250515T173500
 SUMMARY:JoM (ć)
@@ -2752,7 +2738,7 @@ DTSTART:20250520T080000
 DTEND:20250520T093500
 SUMMARY:Tgs (ć)
 LOCATION:313 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T095000
@@ -2850,7 +2836,7 @@ DTSTART:20250523T133000
 DTEND:20250523T150500
 SUMMARY:Tgs (ć)
 LOCATION:307 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T095000
@@ -2920,7 +2906,7 @@ DTSTART:20250529T095000
 DTEND:20250529T112500
 SUMMARY:Tgs (ć)
 LOCATION:314 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T160000
@@ -3056,6 +3042,13 @@ LOCATION:101 65
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący:  Jozef Turczyn
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250606T133000
+DTEND:20250606T150500
+SUMMARY:Tgs (ć)
+LOCATION:307 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250609T133000
 DTEND:20250609T150500
 SUMMARY:Rp (L)
@@ -3152,6 +3145,13 @@ DTEND:20250613T112500
 SUMMARY:PTk (L)
 LOCATION:125 65
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250613T114000
+DTEND:20250613T131500
+SUMMARY:Tgs (ć)
+LOCATION:313 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T133000

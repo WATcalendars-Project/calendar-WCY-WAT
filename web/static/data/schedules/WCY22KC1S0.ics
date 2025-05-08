@@ -1558,13 +1558,6 @@ LOCATION:AW 3/038
 DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250516T160000
-DTEND:20250516T173500
-SUMMARY:Asie (L)
-LOCATION:011 65
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/14\nProwadzący:  Adrian Myśliwiec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250516T194000
 DTEND:20250516T211500
 SUMMARY:- (S.Sz.W.)
@@ -1611,7 +1604,7 @@ DTSTART:20250519T175000
 DTEND:20250519T192500
 SUMMARY:Asie (L)
 LOCATION:106 65
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/14\nProwadzący:  Adrian Myśliwiec
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/14\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T095000
@@ -1681,7 +1674,7 @@ DTSTART:20250521T175000
 DTEND:20250521T192500
 SUMMARY:Asie (L)
 LOCATION:106 65
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/14\nProwadzący:  Adrian Myśliwiec
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/14\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T080000
@@ -1891,7 +1884,7 @@ DTSTART:20250529T175000
 DTEND:20250529T192500
 SUMMARY:Asie (L)
 LOCATION:011 65
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/14\nProwadzący:  Adrian Myśliwiec
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/14\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T080000
@@ -1906,6 +1899,13 @@ DTEND:20250530T112500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250530T114000
+DTEND:20250530T131500
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T133000
@@ -1926,14 +1926,14 @@ DTSTART:20250530T175000
 DTEND:20250530T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 16/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T194000
 DTEND:20250530T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 16/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 17/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250531T080000
@@ -1996,7 +1996,7 @@ DTSTART:20250603T160000
 DTEND:20250603T173500
 SUMMARY:Asie (L)
 LOCATION:011 65
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/14\nProwadzący:  Adrian Myśliwiec
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/14\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T160000
@@ -2080,14 +2080,14 @@ DTSTART:20250606T160000
 DTEND:20250606T173500
 SUMMARY:Asie (L)
 LOCATION:011 65
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/14\nProwadzący:  Adrian Myśliwiec
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/14\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T194000
 DTEND:20250606T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 17/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 18/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250607T080000
@@ -2164,7 +2164,7 @@ DTSTART:20250610T160000
 DTEND:20250610T173500
 SUMMARY:Asie (L)
 LOCATION:011 65
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/14\nProwadzący:  Adrian Myśliwiec
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/14\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T095000
@@ -2192,7 +2192,7 @@ DTSTART:20250611T160000
 DTEND:20250611T173500
 SUMMARY:Asie (L)
 LOCATION:121 65
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/14\nProwadzący:  Adrian Myśliwiec
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/14\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T080000
@@ -2248,7 +2248,7 @@ DTSTART:20250613T114000
 DTEND:20250613T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 18/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 19/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T133000
@@ -2262,14 +2262,14 @@ DTSTART:20250613T160000
 DTEND:20250613T173500
 SUMMARY:Asie (L)
 LOCATION:011 65
-DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/14\nProwadzący:  Adrian Myśliwiec
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/14\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T194000
 DTEND:20250613T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 19/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 20/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T080000
@@ -2312,6 +2312,13 @@ DTEND:20250617T150500
 SUMMARY:Nsk (ć)
 LOCATION:316 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250617T160000
+DTEND:20250617T173500
+SUMMARY:Asie (L)
+LOCATION:120 65
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/14\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T095000

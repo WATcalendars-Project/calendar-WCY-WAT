@@ -4213,37 +4213,30 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T095000
 DTEND:20250605T112500
-SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(KSP)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/18\nProwadzący: -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 68/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T114000
 DTEND:20250605T131500
-SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(KSP)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/18\nProwadzący: -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 69/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T133000
 DTEND:20250605T150500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 68/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250605T160000
-DTEND:20250605T173500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 69/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 70/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T194000
 DTEND:20250605T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 70/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 71/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T080000
@@ -4404,14 +4397,14 @@ DTSTART:20250612T175000
 DTEND:20250612T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 71/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 72/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T194000
 DTEND:20250612T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 72/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 73/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T080000
@@ -4468,6 +4461,20 @@ DTEND:20250616T150500
 SUMMARY:PTk (ć)
 LOCATION:201 65
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący:  Jozef Turczyn
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T160000
+DTEND:20250616T173500
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(KSP)
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/18\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T175000
+DTEND:20250616T192500
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(KSP)
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T080000

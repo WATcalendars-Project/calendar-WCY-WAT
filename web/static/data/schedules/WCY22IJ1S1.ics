@@ -2104,20 +2104,6 @@ LOCATION:224 S
 DESCRIPTION:Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250515T114000
-DTEND:20250515T131500
-SUMMARY:Awd (L)
-LOCATION:239 S
-DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr Jarosław Olejniczak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250515T133000
-DTEND:20250515T150500
-SUMMARY:Awd (L)
-LOCATION:239 S
-DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr Jarosław Olejniczak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250519T114000
 DTEND:20250519T131500
 SUMMARY:kck (L)
@@ -2150,14 +2136,14 @@ DTSTART:20250521T114000
 DTEND:20250521T131500
 SUMMARY:Awd (L)
 LOCATION:239 S
-DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T133000
 DTEND:20250521T150500
 SUMMARY:Awd (L)
 LOCATION:239 S
-DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T160000
@@ -2333,6 +2319,20 @@ DTEND:20250606T112500
 SUMMARY:Muma (w)
 LOCATION:314 S
 DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250606T114000
+DTEND:20250606T131500
+SUMMARY:Awd (L)
+LOCATION:223 S
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250606T133000
+DTEND:20250606T150500
+SUMMARY:Awd (L)
+LOCATION:223 S
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T080000

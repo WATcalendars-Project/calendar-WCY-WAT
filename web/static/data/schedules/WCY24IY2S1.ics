@@ -3063,6 +3063,13 @@ LOCATION:316 S
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 14/14\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250526T133000
+DTEND:20250526T150500
+SUMMARY:Tgs (ć)
+LOCATION:307 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250527T114000
 DTEND:20250527T131500
 SUMMARY:PEM (ć)
@@ -3278,13 +3285,6 @@ DTEND:20250613T150500
 SUMMARY:PEM (w)
 LOCATION:103 K
 DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250613T160000
-DTEND:20250613T173500
-SUMMARY:Tgs (ć)
-LOCATION:314 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T095000

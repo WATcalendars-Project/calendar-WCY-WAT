@@ -4162,27 +4162,6 @@ LOCATION:309 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/12\nProwadzący: prof. dr hab. Wojciech Zajączkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250605T080000
-DTEND:20250605T093500
-SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(KSP)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/18\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250605T095000
-DTEND:20250605T112500
-SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(KSP)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/18\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250605T114000
-DTEND:20250605T131500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 60/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250605T133000
 DTEND:20250605T150500
 SUMMARY:REG (ć)
@@ -4201,14 +4180,14 @@ DTSTART:20250605T175000
 DTEND:20250605T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 61/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 60/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T194000
 DTEND:20250605T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 62/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 61/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T080000
@@ -4316,6 +4295,20 @@ LOCATION:224 S
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250611T160000
+DTEND:20250611T173500
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(KSP)
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/18\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T175000
+DTEND:20250611T192500
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(KSP)
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/18\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250612T080000
 DTEND:20250612T093500
 SUMMARY:WF (ć)
@@ -4355,14 +4348,14 @@ DTSTART:20250612T175000
 DTEND:20250612T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 63/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 62/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T194000
 DTEND:20250612T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 64/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 63/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T080000

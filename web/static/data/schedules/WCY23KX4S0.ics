@@ -6143,20 +6143,6 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 79/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250512T114000
-DTEND:20250512T131500
-SUMMARY:Po (L)
-LOCATION:233 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/16\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250512T133000
-DTEND:20250512T150500
-SUMMARY:Po (L)
-LOCATION:233 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/16\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250512T160000
 DTEND:20250512T173500
 SUMMARY:Ja (ć)
@@ -6273,14 +6259,14 @@ DTSTART:20250520T114000
 DTEND:20250520T131500
 SUMMARY:Po (L)
 LOCATION:236 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/16\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/16\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T133000
 DTEND:20250520T150500
 SUMMARY:Po (L)
 LOCATION:236 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/16\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/16\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T080000
@@ -6402,20 +6388,6 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 85/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250526T114000
-DTEND:20250526T131500
-SUMMARY:Po (L)
-LOCATION:233 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/16\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250526T133000
-DTEND:20250526T150500
-SUMMARY:Po (L)
-LOCATION:233 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/16\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250526T160000
 DTEND:20250526T173500
 SUMMARY:MM (ć)
@@ -6483,14 +6455,14 @@ DTSTART:20250529T133000
 DTEND:20250529T150500
 SUMMARY:Po (L)
 LOCATION:239 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/16\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/16\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T160000
 DTEND:20250529T173500
 SUMMARY:Po (L)
 LOCATION:239 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/16\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/16\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T175000
@@ -6560,14 +6532,14 @@ DTSTART:20250602T114000
 DTEND:20250602T131500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/16\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/16\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T133000
 DTEND:20250602T150500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/16\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/16\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T095000
@@ -6589,6 +6561,27 @@ DTEND:20250603T150500
 SUMMARY:MM (ć)
 LOCATION:314 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250603T160000
+DTEND:20250603T173500
+SUMMARY:Etl (w)
+LOCATION:314 S
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr Robert Dryło
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250604T160000
+DTEND:20250604T173500
+SUMMARY:Po (L)
+LOCATION:224 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/16\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250604T175000
+DTEND:20250604T192500
+SUMMARY:Po (L)
+LOCATION:224 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/16\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T080000
@@ -6713,15 +6706,15 @@ BEGIN:VEVENT
 DTSTART:20250609T114000
 DTEND:20250609T131500
 SUMMARY:Po (L)
-LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/16\nProwadzący: mgr inż. Michał Sobolewski
+LOCATION:233 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/16\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T133000
 DTEND:20250609T150500
 SUMMARY:Po (L)
-LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/16\nProwadzący: mgr inż. Michał Sobolewski
+LOCATION:233 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/16\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T080000
@@ -6759,18 +6752,25 @@ LOCATION:PĆT4
 DESCRIPTION:Powszechna obrona przeciwlotnicza i obrona przeciwlotnicza - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250611T095000
-DTEND:20250611T112500
-SUMMARY:Etl (w)
-LOCATION:317 S
-DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr Robert Dryło
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250611T114000
 DTEND:20250611T131500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 88/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T160000
+DTEND:20250611T173500
+SUMMARY:Po (L)
+LOCATION:224 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/16\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T175000
+DTEND:20250611T192500
+SUMMARY:Po (L)
+LOCATION:224 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/16\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T080000
@@ -6939,5 +6939,33 @@ DTEND:20250618T150500
 SUMMARY:Hsw (ć)
 LOCATION:308 S
 DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250704T080000
+DTEND:20250704T093500
+SUMMARY:Zkst (Inne)
+LOCATION:078 S 085 S
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Kamila Dzieł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250704T080000
+DTEND:20250704T093500
+SUMMARY:Zkst (Inne)
+LOCATION:078 S 085 S
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Łukasz Dzieł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250704T095000
+DTEND:20250704T112500
+SUMMARY:Zkst (Inne)
+LOCATION:078 S 085 S
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: mgr inż. Kamila Dzieł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250704T095000
+DTEND:20250704T112500
+SUMMARY:Zkst (Inne)
+LOCATION:078 S 085 S
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 END:VCALENDAR

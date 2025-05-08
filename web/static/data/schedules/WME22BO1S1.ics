@@ -7417,13 +7417,6 @@ LOCATION:02 71 8 70
 DESCRIPTION:Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 102/126\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250527T080000
-DTEND:20250527T093500
-SUMMARY:Dtlm (ć)
-LOCATION:27 70
-DESCRIPTION:Diagnostyka i terapia laserowa w medycynie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250527T095000
 DTEND:20250527T112500
 SUMMARY:Pla (Inne)
@@ -7961,6 +7954,13 @@ DTEND:20250616T093500
 SUMMARY:Wm (w)
 LOCATION:52/ 62
 DESCRIPTION:Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 20/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T095000
+DTEND:20250616T112500
+SUMMARY:Dtlm (ć)
+LOCATION:27 70
+DESCRIPTION:Diagnostyka i terapia laserowa w medycynie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T114000

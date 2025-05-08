@@ -1313,20 +1313,6 @@ LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250515T080000
-DTEND:20250515T093500
-SUMMARY:Awd (L)
-LOCATION:227 S
-DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr Jarosław Olejniczak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250515T095000
-DTEND:20250515T112500
-SUMMARY:Awd (L)
-LOCATION:227 S
-DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr Jarosław Olejniczak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250515T114000
 DTEND:20250515T131500
 SUMMARY:Ja (ć)
@@ -1422,14 +1408,14 @@ DTSTART:20250521T080000
 DTEND:20250521T093500
 SUMMARY:Awd (L)
 LOCATION:223 S
-DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T095000
 DTEND:20250521T112500
 SUMMARY:Awd (L)
 LOCATION:223 S
-DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T114000
@@ -1642,6 +1628,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250530T114000
+DTEND:20250530T131500
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250530T133000
 DTEND:20250530T150500
 SUMMARY:SzS (ć)
@@ -1660,14 +1653,14 @@ DTSTART:20250530T175000
 DTEND:20250530T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 16/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T194000
 DTEND:20250530T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 16/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 17/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250531T080000
@@ -1733,6 +1726,20 @@ LOCATION:227 S
 DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: dr inż. Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250605T133000
+DTEND:20250605T150500
+SUMMARY:Awd (L)
+LOCATION:228 S
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250605T160000
+DTEND:20250605T173500
+SUMMARY:Awd (L)
+LOCATION:228 S
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250606T080000
 DTEND:20250606T093500
 SUMMARY:PESW (ć)
@@ -1765,7 +1772,7 @@ DTSTART:20250606T194000
 DTEND:20250606T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 17/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 18/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250607T080000
@@ -1870,7 +1877,7 @@ DTSTART:20250613T114000
 DTEND:20250613T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 18/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 19/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T133000
@@ -1884,7 +1891,7 @@ DTSTART:20250613T194000
 DTEND:20250613T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 19/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 20/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T080000

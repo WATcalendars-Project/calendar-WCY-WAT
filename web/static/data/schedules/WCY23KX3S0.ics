@@ -6507,6 +6507,13 @@ LOCATION:226 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/13\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250603T160000
+DTEND:20250603T173500
+SUMMARY:Etl (w)
+LOCATION:314 S
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr Robert Dryło
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250606T080000
 DTEND:20250606T093500
 SUMMARY:TA (Inne)
@@ -6610,13 +6617,6 @@ DTEND:20250610T150500
 SUMMARY:MM (ć)
 LOCATION:313 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: mgr inż. Michał Kapałka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250611T095000
-DTEND:20250611T112500
-SUMMARY:Etl (w)
-LOCATION:317 S
-DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T114000
@@ -6785,5 +6785,33 @@ DTEND:20250618T150500
 SUMMARY:PODS.SUR. (ć)
 LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/11\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250704T080000
+DTEND:20250704T093500
+SUMMARY:Zkst (Inne)
+LOCATION:078 S 085 S
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Kamila Dzieł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250704T080000
+DTEND:20250704T093500
+SUMMARY:Zkst (Inne)
+LOCATION:078 S 085 S
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Łukasz Dzieł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250704T095000
+DTEND:20250704T112500
+SUMMARY:Zkst (Inne)
+LOCATION:078 S 085 S
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: mgr inż. Kamila Dzieł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250704T095000
+DTEND:20250704T112500
+SUMMARY:Zkst (Inne)
+LOCATION:078 S 085 S
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 END:VCALENDAR
