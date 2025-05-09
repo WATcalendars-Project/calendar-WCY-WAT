@@ -2356,11 +2356,18 @@ LOCATION:aF S
 DESCRIPTION:XFizyka 1 - (Wyk./Sem.) -\nRodzaj zajęć:  - \nNr zajęć: 12/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250525T095000
+DTEND:20250525T112500
+SUMMARY:XFiz1 (ć)
+LOCATION:52/ 62
+DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250525T114000
 DTEND:20250525T131500
 SUMMARY:XFiz1 (ć)
 LOCATION:52/ 62
-DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: -
+DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250525T133000
@@ -2543,13 +2550,6 @@ DTEND:20250531T173500
 SUMMARY:XMat3 (ć)
 LOCATION:313 S
 DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący: dr Agnieszka Gdula
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250601T114000
-DTEND:20250601T131500
-SUMMARY:XFiz1 (ć)
-LOCATION:52/ 62
-DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T114000
