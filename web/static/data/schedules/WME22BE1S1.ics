@@ -6766,27 +6766,6 @@ LOCATION:16 45
 DESCRIPTION:Elektroniczna aparatura medyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250513T114000
-DTEND:20250513T131500
-SUMMARY:PrSt (L)
-LOCATION:116 61
-DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250513T133000
-DTEND:20250513T150500
-SUMMARY:PrSt (L)
-LOCATION:116 61
-DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250513T160000
-DTEND:20250513T173500
-SUMMARY:PrSt (P)
-LOCATION:116 61
-DESCRIPTION:Programowanie strukturalne - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 2/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250514T080000
 DTEND:20250514T093500
 SUMMARY:Eam (L)
@@ -7029,7 +7008,7 @@ DTSTART:20250528T133000
 DTEND:20250528T150500
 SUMMARY:PrSt (P)
 LOCATION:116 61
-DESCRIPTION:Programowanie strukturalne - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 3/3\nProwadzący: -
+DESCRIPTION:Programowanie strukturalne - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T160000
@@ -7044,6 +7023,20 @@ DTEND:20250528T192500
 SUMMARY:ToiS (L)
 LOCATION:31 54E
 DESCRIPTION:Technika obliczeniowa i symulacyjna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250529T114000
+DTEND:20250529T131500
+SUMMARY:PrSt (L)
+LOCATION:7 61
+DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250529T133000
+DTEND:20250529T150500
+SUMMARY:PrSt (L)
+LOCATION:7 61
+DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T160000
@@ -7191,6 +7184,13 @@ DTEND:20250604T150500
 SUMMARY:PRo (L)
 LOCATION:66 S
 DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250604T160000
+DTEND:20250604T173500
+SUMMARY:PrSt (P)
+LOCATION:7 61
+DESCRIPTION:Programowanie strukturalne - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T114000

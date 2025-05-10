@@ -1481,13 +1481,6 @@ LOCATION:AW 3/038
 DESCRIPTION:Regulaminy SZ RP - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250509T175000
-DTEND:20250509T192500
-SUMMARY:SBD (L)
-LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr inż. Jarosław Koszela
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250512T080000
 DTEND:20250512T093500
 SUMMARY:SzS (ć)
@@ -1793,14 +1786,14 @@ DTSTART:20250520T160000
 DTEND:20250520T173500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T175000
 DTEND:20250520T192500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T080000
@@ -1835,14 +1828,14 @@ DTSTART:20250521T160000
 DTEND:20250521T173500
 SUMMARY:SBD (L)
 LOCATION:227 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T175000
 DTEND:20250521T192500
 SUMMARY:SBD (L)
 LOCATION:227 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T080000
@@ -1864,6 +1857,13 @@ DTEND:20250522T131500
 SUMMARY:MWDS (L)
 LOCATION:236 S
 DESCRIPTION:Metody i narzędzia wspomagania dowodzenia i szkolenia\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Jakub Grątkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250522T160000
+DTEND:20250522T173500
+SUMMARY:SBD (L)
+LOCATION:226 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T080000

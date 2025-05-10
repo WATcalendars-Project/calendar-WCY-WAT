@@ -5135,20 +5135,6 @@ LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 42/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250528T114000
-DTEND:20250528T131500
-SUMMARY:IO (L)
-LOCATION:226 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/14\nProwadzący: dr inż. Grzegorz Bliźniuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250528T133000
-DTEND:20250528T150500
-SUMMARY:IO (L)
-LOCATION:226 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/14\nProwadzący: dr inż. Grzegorz Bliźniuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250529T095000
 DTEND:20250529T112500
 SUMMARY:PO (ć)
@@ -5251,14 +5237,14 @@ DTSTART:20250604T114000
 DTEND:20250604T131500
 SUMMARY:IO (L)
 LOCATION:226 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/14\nProwadzący: dr inż. Grzegorz Bliźniuk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/14\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T133000
 DTEND:20250604T150500
 SUMMARY:IO (L)
 LOCATION:226 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/14\nProwadzący: dr inż. Grzegorz Bliźniuk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/14\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T095000
@@ -5287,6 +5273,20 @@ DTEND:20250609T112500
 SUMMARY:PO (ć)
 LOCATION:307 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T095000
+DTEND:20250610T112500
+SUMMARY:IO (L)
+LOCATION:237 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/14\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T114000
+DTEND:20250610T131500
+SUMMARY:IO (L)
+LOCATION:237 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/14\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T133000
