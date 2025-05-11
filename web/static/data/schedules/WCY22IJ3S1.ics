@@ -2125,13 +2125,6 @@ LOCATION:120 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250512T160000
-DTEND:20250512T173500
-SUMMARY:EdP (w)
-LOCATION:307 S
-DESCRIPTION:Event-driven programming\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Mariusz Chmielewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250514T114000
 DTEND:20250514T131500
 SUMMARY:Sn (L)
@@ -2200,6 +2193,13 @@ DTEND:20250519T173500
 SUMMARY:AM (w)
 LOCATION:307 S
 DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Mariusz Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250519T175000
+DTEND:20250519T192500
+SUMMARY:EdP (w)
+LOCATION:307 S
+DESCRIPTION:Event-driven programming\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T080000
