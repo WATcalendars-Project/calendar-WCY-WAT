@@ -1586,13 +1586,6 @@ LOCATION:236 S
 DESCRIPTION:Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250511T133000
-DTEND:20250511T150500
-SUMMARY:TAI (w)
-LOCATION:308 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Mariusz Chmielewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250511T175000
 DTEND:20250511T192500
 SUMMARY:PZ (P)
@@ -1738,6 +1731,13 @@ DTEND:20250524T173500
 SUMMARY:Jtp (L)
 LOCATION:226 S
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250524T175000
+DTEND:20250524T192500
+SUMMARY:TAI (w)
+LOCATION:308 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250525T080000
