@@ -3007,25 +3007,11 @@ LOCATION:239 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250603T114000
-DTEND:20250603T131500
-SUMMARY:F1 (ć)
-LOCATION:201 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250603T133000
 DTEND:20250603T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250604T095000
-DTEND:20250604T112500
-SUMMARY:F1 (ć)
-LOCATION:201 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T114000
@@ -3096,6 +3082,13 @@ DTEND:20250609T173500
 SUMMARY:PTk (w)
 LOCATION:314 S
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 14/14\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T095000
+DTEND:20250610T112500
+SUMMARY:F1 (ć)
+LOCATION:119 45
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T114000
@@ -3187,6 +3180,13 @@ DTEND:20250616T093500
 SUMMARY:Rp (w)
 LOCATION:314 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący: dr Ryszard Kopiecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T095000
+DTEND:20250616T112500
+SUMMARY:F1 (ć)
+LOCATION:201 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T095000

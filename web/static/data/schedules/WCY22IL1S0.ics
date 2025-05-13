@@ -1544,13 +1544,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250516T133000
-DTEND:20250516T150500
-SUMMARY:PKSt (ć)
-LOCATION:120 45
-DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250517T080000
 DTEND:20250517T093500
 SUMMARY:XWF (ć)
@@ -1577,6 +1570,13 @@ DTEND:20250519T150500
 SUMMARY:Ja (ć)
 LOCATION:237 K 235 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250519T160000
+DTEND:20250519T173500
+SUMMARY:PKSt (ć)
+LOCATION:120 45
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T080000

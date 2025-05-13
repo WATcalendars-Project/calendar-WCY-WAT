@@ -6731,6 +6731,13 @@ LOCATION:205 65
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250603T114000
+DTEND:20250603T131500
+SUMMARY:IRz (P)
+LOCATION:236 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Projekt\nNr zajęć: 6/7\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250603T133000
 DTEND:20250603T150500
 SUMMARY:WF (ć)
@@ -6771,20 +6778,6 @@ DTEND:20250605T112500
 SUMMARY:Zt (L)
 LOCATION:121 65
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Dagmara Mazur
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250605T114000
-DTEND:20250605T131500
-SUMMARY:IRz (P)
-LOCATION:125 65
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Projekt\nNr zajęć: 6/7\nProwadzący:  Zbigniew Zielinski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250605T133000
-DTEND:20250605T150500
-SUMMARY:IRz (P)
-LOCATION:125 65
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Projekt\nNr zajęć: 7/7\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T175000
@@ -7093,6 +7086,13 @@ DTEND:20250618T093500
 SUMMARY:DWiPD (ć)
 LOCATION:204 65
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T095000
+DTEND:20250618T112500
+SUMMARY:IRz (P)
+LOCATION:236 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Projekt\nNr zajęć: 7/7\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T114000

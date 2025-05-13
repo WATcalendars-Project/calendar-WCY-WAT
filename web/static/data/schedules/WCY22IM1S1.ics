@@ -2762,6 +2762,20 @@ LOCATION:125 65
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250522T160000
+DTEND:20250522T173500
+SUMMARY:Syt (L)
+LOCATION:120 65
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250522T175000
+DTEND:20250522T192500
+SUMMARY:Syt (L)
+LOCATION:120 65
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250523T080000
 DTEND:20250523T093500
 SUMMARY:TeIP (L)
@@ -2857,14 +2871,14 @@ DTSTART:20250602T114000
 DTEND:20250602T131500
 SUMMARY:Syt (L)
 LOCATION:09 65
-DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Tomasz Żentara
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T133000
 DTEND:20250602T150500
 SUMMARY:Syt (L)
 LOCATION:09 65
-DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Tomasz Żentara
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T160000
@@ -2956,20 +2970,6 @@ DTEND:20250616T112500
 SUMMARY:Psmo (L)
 LOCATION:011 65
 DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/15\nProwadzący: dr inż. Artur Arciuch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250616T114000
-DTEND:20250616T131500
-SUMMARY:Syt (L)
-LOCATION:09 65
-DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Tomasz Żentara
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250616T133000
-DTEND:20250616T150500
-SUMMARY:Syt (L)
-LOCATION:09 65
-DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T080000

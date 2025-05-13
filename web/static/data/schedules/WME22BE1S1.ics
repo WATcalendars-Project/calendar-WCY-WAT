@@ -6759,27 +6759,6 @@ LOCATION:26 136 10 70
 DESCRIPTION:Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250513T095000
-DTEND:20250513T112500
-SUMMARY:Eam (ć)
-LOCATION:16 45
-DESCRIPTION:Elektroniczna aparatura medyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250514T080000
-DTEND:20250514T093500
-SUMMARY:Eam (L)
-LOCATION:18 45
-DESCRIPTION:Elektroniczna aparatura medyczna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250514T095000
-DTEND:20250514T112500
-SUMMARY:Eam (L)
-LOCATION:18 45
-DESCRIPTION:Elektroniczna aparatura medyczna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250514T114000
 DTEND:20250514T131500
 SUMMARY:Wm (ć)
@@ -6896,7 +6875,7 @@ DTSTART:20250520T133000
 DTEND:20250520T150500
 SUMMARY:Eam (ć)
 LOCATION:16 45
-DESCRIPTION:Elektroniczna aparatura medyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
+DESCRIPTION:Elektroniczna aparatura medyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T160000
@@ -6990,18 +6969,25 @@ LOCATION:8/ 62
 DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23/26\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250527T095000
+DTEND:20250527T112500
+SUMMARY:Eam (ć)
+LOCATION:16 45
+DESCRIPTION:Elektroniczna aparatura medyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250527T114000
 DTEND:20250527T131500
 SUMMARY:Eam (L)
 LOCATION:18 45
-DESCRIPTION:Elektroniczna aparatura medyczna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: -
+DESCRIPTION:Elektroniczna aparatura medyczna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T133000
 DTEND:20250527T150500
 SUMMARY:Eam (L)
 LOCATION:18 45
-DESCRIPTION:Elektroniczna aparatura medyczna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: -
+DESCRIPTION:Elektroniczna aparatura medyczna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T133000
@@ -7127,11 +7113,25 @@ DTSTART:20250602T114000
 DTEND:20250602T131500
 SUMMARY:Eam (L)
 LOCATION:18 45
-DESCRIPTION:Elektroniczna aparatura medyczna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: -
+DESCRIPTION:Elektroniczna aparatura medyczna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T133000
 DTEND:20250602T150500
+SUMMARY:Eam (L)
+LOCATION:18 45
+DESCRIPTION:Elektroniczna aparatura medyczna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250603T080000
+DTEND:20250603T093500
+SUMMARY:Eam (L)
+LOCATION:18 45
+DESCRIPTION:Elektroniczna aparatura medyczna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250603T095000
+DTEND:20250603T112500
 SUMMARY:Eam (L)
 LOCATION:18 45
 DESCRIPTION:Elektroniczna aparatura medyczna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: -

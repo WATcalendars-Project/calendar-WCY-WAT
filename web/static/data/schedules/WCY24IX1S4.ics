@@ -907,6 +907,13 @@ LOCATION:011 65
 DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250602T095000
+DTEND:20250602T112500
+SUMMARY:Ps (ć)
+LOCATION:204 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: dr Justyna Kurkowiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250602T114000
 DTEND:20250602T131500
 SUMMARY:Msk. (L)
@@ -946,7 +953,7 @@ DTSTART:20250604T114000
 DTEND:20250604T131500
 SUMMARY:Ps (ć)
 LOCATION:205 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T133000
@@ -1129,12 +1136,5 @@ DTEND:20250618T112500
 SUMMARY:Tal (P)
 LOCATION:228 S
 DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 6/6\nProwadzący: mgr inż. Piotr Stąpor
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250618T114000
-DTEND:20250618T131500
-SUMMARY:Ps (ć)
-LOCATION:205 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 END:VCALENDAR

@@ -2027,20 +2027,6 @@ LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250513T080000
-DTEND:20250513T093500
-SUMMARY:Sz.P (L)
-LOCATION:13/ 54 120/ 5
-DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250513T095000
-DTEND:20250513T112500
-SUMMARY:Sz.P (L)
-LOCATION:13/ 54 120/ 5
-DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250513T114000
 DTEND:20250513T131500
 SUMMARY:Rou (L)
@@ -2095,6 +2081,20 @@ DTEND:20250515T112500
 SUMMARY:Ebe (w)
 LOCATION:6/ 23a
 DESCRIPTION:English in biomedical engineering - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250515T114000
+DTEND:20250515T131500
+SUMMARY:Sz.P (L)
+LOCATION:13/ 54 30/ 54
+DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250515T133000
+DTEND:20250515T150500
+SUMMARY:Sz.P (L)
+LOCATION:13/ 54 30/ 54
+DESCRIPTION:Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T160000

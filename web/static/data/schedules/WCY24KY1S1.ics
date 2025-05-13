@@ -3147,11 +3147,25 @@ LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 29/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250606T080000
+DTEND:20250606T093500
+SUMMARY:PTk (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250606T095000
 DTEND:20250606T112500
 SUMMARY:PTk (ć)
 LOCATION:101 65
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący:  Jozef Turczyn
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250606T114000
+DTEND:20250606T131500
+SUMMARY:PTk (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T080000
@@ -3306,20 +3320,6 @@ DTEND:20250617T173500
 SUMMARY:Tgs (ć)
 LOCATION:316 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250618T080000
-DTEND:20250618T093500
-SUMMARY:PTk (L)
-LOCATION:09 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Tomasz Żentara
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250618T095000
-DTEND:20250618T112500
-SUMMARY:PTk (L)
-LOCATION:09 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T114000

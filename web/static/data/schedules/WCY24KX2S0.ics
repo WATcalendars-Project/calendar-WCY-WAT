@@ -4113,13 +4113,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 56/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250602T133000
-DTEND:20250602T150500
-SUMMARY:F1 (ć)
-LOCATION:205 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250603T080000
 DTEND:20250603T093500
 SUMMARY:WdP (L)
@@ -4243,7 +4236,7 @@ DTSTART:20250609T133000
 DTEND:20250609T150500
 SUMMARY:F1 (ć)
 LOCATION:204 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/15\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T160000
@@ -4251,6 +4244,13 @@ DTEND:20250609T173500
 SUMMARY:PTk (w)
 LOCATION:314 S
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 14/14\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T080000
+DTEND:20250610T093500
+SUMMARY:F1 (ć)
+LOCATION:205 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T095000

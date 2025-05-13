@@ -2031,7 +2031,7 @@ DTSTART:20250328T114000
 DTEND:20250328T131500
 SUMMARY:Amt (ć)
 LOCATION:308 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/9\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/10\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T080000
@@ -2230,13 +2230,6 @@ LOCATION:205 65
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250408T133000
-DTEND:20250408T150500
-SUMMARY:Amt (ć)
-LOCATION:201 65
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/9\nProwadzący: dr Piotr Kacprzyk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250408T175000
 DTEND:20250408T192500
 SUMMARY:WdI (Inne)
@@ -2311,7 +2304,7 @@ DTSTART:20250411T114000
 DTEND:20250411T131500
 SUMMARY:Amt (ć)
 LOCATION:317 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/9\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący: dr Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T095000
@@ -2633,7 +2626,7 @@ DTSTART:20250507T095000
 DTEND:20250507T112500
 SUMMARY:Amt (ć)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/9\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T114000
@@ -2752,7 +2745,7 @@ DTSTART:20250513T133000
 DTEND:20250513T150500
 SUMMARY:Amt (ć)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/9\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T080000
@@ -2801,7 +2794,7 @@ DTSTART:20250515T095000
 DTEND:20250515T112500
 SUMMARY:Amt (ć)
 LOCATION:317 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/9\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T133000
@@ -2899,14 +2892,14 @@ DTSTART:20250523T080000
 DTEND:20250523T093500
 SUMMARY:Amt (ć)
 LOCATION:314 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/9\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T095000
 DTEND:20250523T112500
 SUMMARY:Amt (ć)
 LOCATION:314 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/9\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T114000
@@ -3004,7 +2997,7 @@ DTSTART:20250602T080000
 DTEND:20250602T093500
 SUMMARY:Amt (ć)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/9\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T095000
@@ -3056,13 +3049,6 @@ LOCATION:141 S 139 S
 DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250604T114000
-DTEND:20250604T131500
-SUMMARY:F1 (ć)
-LOCATION:203 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250604T133000
 DTEND:20250604T150500
 SUMMARY:F1 (w)
@@ -3088,7 +3074,7 @@ DTSTART:20250609T080000
 DTEND:20250609T093500
 SUMMARY:Amt (ć)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/9\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T095000
@@ -3102,7 +3088,7 @@ DTSTART:20250609T114000
 DTEND:20250609T131500
 SUMMARY:F1 (ć)
 LOCATION:205 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T133000
@@ -3133,6 +3119,13 @@ LOCATION:101 65
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący:  Jozef Turczyn
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250611T080000
+DTEND:20250611T093500
+SUMMARY:F1 (ć)
+LOCATION:201 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250611T095000
 DTEND:20250611T112500
 SUMMARY:WdP (L)
@@ -3161,6 +3154,13 @@ LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 29/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250612T080000
+DTEND:20250612T093500
+SUMMARY:Amt (ć)
+LOCATION:316 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: mgr inż. Stanisław Zoń
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250612T114000
 DTEND:20250612T131500
 SUMMARY:Tpi (ć)
@@ -3172,7 +3172,7 @@ DTSTART:20250612T133000
 DTEND:20250612T150500
 SUMMARY:Amt (ć)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/9\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/10\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T160000
@@ -3214,7 +3214,7 @@ DTSTART:20250617T080000
 DTEND:20250617T093500
 SUMMARY:Amt (ć)
 LOCATION:313 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/9\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/10\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T080000

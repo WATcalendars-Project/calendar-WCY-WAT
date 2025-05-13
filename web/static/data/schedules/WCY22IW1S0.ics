@@ -1628,13 +1628,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250516T133000
-DTEND:20250516T150500
-SUMMARY:PKSt (ć)
-LOCATION:120 45
-DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250517T080000
 DTEND:20250517T093500
 SUMMARY:XWF (ć)
@@ -1668,6 +1661,13 @@ DTEND:20250519T150500
 SUMMARY:Ja (ć)
 LOCATION:237 K 235 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250519T160000
+DTEND:20250519T173500
+SUMMARY:PKSt (ć)
+LOCATION:120 45
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T080000
@@ -1782,17 +1782,17 @@ LOCATION:125 65
 DESCRIPTION:Systemy dialogowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250523T160000
-DTEND:20250523T173500
+DTSTART:20250523T080000
+DTEND:20250523T093500
 SUMMARY:kck (L)
-LOCATION:125 65
+LOCATION:228 S
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250523T175000
-DTEND:20250523T192500
+DTSTART:20250523T095000
+DTEND:20250523T112500
 SUMMARY:kck (L)
-LOCATION:125 65
+LOCATION:228 S
 DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
