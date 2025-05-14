@@ -1936,6 +1936,13 @@ LOCATION:106 65
 DESCRIPTION:Robotics and Comp. Vision Systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250528T160000
+DTEND:20250528T173500
+SUMMARY:Rcv (E)
+LOCATION:204 65
+DESCRIPTION:Robotics and Comp. Vision Systems\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250529T080000
 DTEND:20250529T093500
 SUMMARY:Stc (L)
@@ -2123,5 +2130,12 @@ DTEND:20250616T131500
 SUMMARY:Ec (L)
 LOCATION:078 S
 DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący: mgr inż. Tomasz Kijko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250626T080000
+DTEND:20250626T093500
+SUMMARY:Stc (E)
+LOCATION:239 S
+DESCRIPTION:Statistics\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Ewa Łakoma
 END:VEVENT
 END:VCALENDAR

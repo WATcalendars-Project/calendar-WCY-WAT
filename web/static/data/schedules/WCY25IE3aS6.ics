@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//scheduleWCY//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:WCY25IE3aS6
+BEGIN:VEVENT
+DTSTART:20250922T080000
+DTEND:20250922T093500
+SUMMARY:Sws (Inne)
+LOCATION:-
+DESCRIPTION:Spotkanie organizacyjne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250922T095000
+DTEND:20250922T112500
+SUMMARY:AsU (w)
+LOCATION:308 S
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250922T114000
+DTEND:20250922T131500
+SUMMARY:AsU (w)
+LOCATION:308 S
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250923T114000
+DTEND:20250923T131500
+SUMMARY:Bst (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250923T133000
+DTEND:20250923T150500
+SUMMARY:Bst (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250924T095000
+DTEND:20250924T112500
+SUMMARY:Lan (w)
+LOCATION:203 65
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250925T080000
+DTEND:20250925T093500
+SUMMARY:StS (w)
+LOCATION:203 65
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250926T080000
+DTEND:20250926T093500
+SUMMARY:Rsk (w)
+LOCATION:203 65
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250929T114000
+DTEND:20250929T131500
+SUMMARY:Lan (w)
+LOCATION:203 65
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250930T114000
+DTEND:20250930T131500
+SUMMARY:Bst (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250930T133000
+DTEND:20250930T150500
+SUMMARY:Bst (w)
+LOCATION:203 65
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+END:VCALENDAR

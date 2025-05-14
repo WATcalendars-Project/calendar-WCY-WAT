@@ -3440,4 +3440,32 @@ SUMMARY:WdA (Inne)
 LOCATION:106 65
 DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250628T114000
+DTEND:20250628T131500
+SUMMARY:Sck (E)
+LOCATION:120 65 121 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250705T080000
+DTEND:20250705T093500
+SUMMARY:IO (E)
+LOCATION:307 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250920T080000
+DTEND:20250920T093500
+SUMMARY:Sck (Inne)
+LOCATION:120 65 121 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250920T095000
+DTEND:20250920T112500
+SUMMARY:IO (Inne)
+LOCATION:308 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
 END:VCALENDAR

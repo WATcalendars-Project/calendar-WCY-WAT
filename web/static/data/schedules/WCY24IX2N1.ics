@@ -2005,4 +2005,60 @@ SUMMARY:ppk (Inne)
 LOCATION:317 S
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250628T080000
+DTEND:20250628T093500
+SUMMARY:WdP (E)
+LOCATION:317 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250628T095000
+DTEND:20250628T112500
+SUMMARY:Md2 (E)
+LOCATION:307 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Krzysztof Pszczoła
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250629T080000
+DTEND:20250629T093500
+SUMMARY:Amt (E)
+LOCATION:307 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250705T114000
+DTEND:20250705T131500
+SUMMARY:F1 (E)
+LOCATION:317 S
+DESCRIPTION:Fizyka 1 - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250913T114000
+DTEND:20250913T131500
+SUMMARY:F1 (Inne)
+LOCATION:317 S
+DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250920T080000
+DTEND:20250920T093500
+SUMMARY:WdP (Inne)
+LOCATION:317 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250920T095000
+DTEND:20250920T112500
+SUMMARY:Md2 (Inne)
+LOCATION:307 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Krzysztof Pszczoła
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250921T080000
+DTEND:20250921T093500
+SUMMARY:Amt (Inne)
+LOCATION:203 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr Piotr Kozarzewski
+END:VEVENT
 END:VCALENDAR

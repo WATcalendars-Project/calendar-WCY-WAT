@@ -1977,4 +1977,32 @@ SUMMARY:Gum (L)
 LOCATION:224 S
 DESCRIPTION:Głębokie uczenie maszynowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250628T080000
+DTEND:20250628T093500
+SUMMARY:Swp (E)
+LOCATION:314 S
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250629T080000
+DTEND:20250629T093500
+SUMMARY:Wmo (E)
+LOCATION:316 S
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250920T080000
+DTEND:20250920T093500
+SUMMARY:Swp (Inne)
+LOCATION:314 S
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250920T095000
+DTEND:20250920T112500
+SUMMARY:Wmo (Inne)
+LOCATION:316 S
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Piotr Górny
+END:VEVENT
 END:VCALENDAR

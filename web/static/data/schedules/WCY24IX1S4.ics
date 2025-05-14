@@ -1137,4 +1137,32 @@ SUMMARY:Tal (P)
 LOCATION:228 S
 DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 6/6\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250625T080000
+DTEND:20250625T093500
+SUMMARY:Swp (E)
+LOCATION:317 S
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250630T080000
+DTEND:20250630T093500
+SUMMARY:Msk. (E)
+LOCATION:309 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250915T080000
+DTEND:20250915T093500
+SUMMARY:Msk. (Inne)
+LOCATION:309 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250917T080000
+DTEND:20250917T093500
+SUMMARY:Swp (Inne)
+LOCATION:317 S
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
 END:VCALENDAR

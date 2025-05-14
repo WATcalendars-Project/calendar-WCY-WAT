@@ -6003,20 +6003,6 @@ LOCATION:223 S
 DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: dr inż. Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250515T133000
-DTEND:20250515T150500
-SUMMARY:Bsi (ć)
-LOCATION:309 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250515T160000
-DTEND:20250515T173500
-SUMMARY:Bsi (ć)
-LOCATION:309 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250516T080000
 DTEND:20250516T093500
 SUMMARY:WF (ć)
@@ -6204,6 +6190,20 @@ DTEND:20250528T131500
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 86/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250528T133000
+DTEND:20250528T150500
+SUMMARY:Bsi (ć)
+LOCATION:316 S
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250528T160000
+DTEND:20250528T173500
+SUMMARY:Bsi (ć)
+LOCATION:316 S
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T114000
@@ -6603,5 +6603,26 @@ DTEND:20250618T173500
 SUMMARY:ZaMe (ć)
 LOCATION:AW 4
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250624T114000
+DTEND:20250624T131500
+SUMMARY:dsk (E)
+LOCATION:314 S
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250630T095000
+DTEND:20250630T112500
+SUMMARY:MeSK (E)
+LOCATION:317 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250630T114000
+DTEND:20250630T131500
+SUMMARY:MeSK (E)
+LOCATION:317 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 END:VCALENDAR

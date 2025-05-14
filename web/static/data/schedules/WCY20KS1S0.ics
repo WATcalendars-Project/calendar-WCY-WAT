@@ -4924,4 +4924,18 @@ SUMMARY:Dtu (Inne)
 LOCATION:125 65
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250416T114000
+DTEND:20250416T131500
+SUMMARY:Epc (E)
+LOCATION:085 S
+DESCRIPTION:Elements of Public-Key Cryptology\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250416T133000
+DTEND:20250416T150500
+SUMMARY:Epc (E)
+LOCATION:085 S
+DESCRIPTION:Elements of Public-Key Cryptology\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
 END:VCALENDAR

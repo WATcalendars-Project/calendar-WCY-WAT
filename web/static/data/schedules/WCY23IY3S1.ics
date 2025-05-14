@@ -3209,4 +3209,25 @@ SUMMARY:Tik (Inne)
 LOCATION:106 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250630T095000
+DTEND:20250630T112500
+SUMMARY:IO (E)
+LOCATION:313 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250630T114000
+DTEND:20250630T131500
+SUMMARY:IO (E)
+LOCATION:313 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250917T114000
+DTEND:20250917T131500
+SUMMARY:IO (Inne)
+LOCATION:313 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
 END:VCALENDAR

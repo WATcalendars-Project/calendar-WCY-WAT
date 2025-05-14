@@ -2447,20 +2447,6 @@ LOCATION:120 65
 DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 3/8\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250514T080000
-DTEND:20250514T093500
-SUMMARY:Ppz (L)
-LOCATION:106 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250514T095000
-DTEND:20250514T112500
-SUMMARY:Ppz (L)
-LOCATION:106 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250514T114000
 DTEND:20250514T131500
 SUMMARY:Sp (Inne)
@@ -2664,6 +2650,20 @@ LOCATION:011 65
 DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250610T080000
+DTEND:20250610T093500
+SUMMARY:Ppz (L)
+LOCATION:120 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250610T095000
+DTEND:20250610T112500
+SUMMARY:Ppz (L)
+LOCATION:120 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250610T114000
 DTEND:20250610T131500
 SUMMARY:Oni (P)
@@ -2802,5 +2802,47 @@ DTEND:20250618T150500
 SUMMARY:SzOR (Inne)
 LOCATION:085 S
 DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć:  - \nNr zajęć: 4/4\nProwadzący: mgr inż. Alicja Kida
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250626T114000
+DTEND:20250626T131500
+SUMMARY:TpsT (E)
+LOCATION:120 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250626T133000
+DTEND:20250626T150500
+SUMMARY:TpsT (E)
+LOCATION:120 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250702T095000
+DTEND:20250702T112500
+SUMMARY:zsw (E)
+LOCATION:121 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250702T114000
+DTEND:20250702T131500
+SUMMARY:zsw (E)
+LOCATION:121 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250917T095000
+DTEND:20250917T112500
+SUMMARY:zsw (Inne)
+LOCATION:121 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250918T095000
+DTEND:20250918T112500
+SUMMARY:TpsT (Inne)
+LOCATION:120 65
+DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 END:VCALENDAR

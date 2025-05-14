@@ -7087,4 +7087,46 @@ SUMMARY:Tds (L)
 LOCATION:121 65
 DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250625T114000
+DTEND:20250625T131500
+SUMMARY:Zt (E)
+LOCATION:316 S
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250625T133000
+DTEND:20250625T150500
+SUMMARY:Zt (E)
+LOCATION:316 S
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250626T080000
+DTEND:20250626T093500
+SUMMARY:Pwst (E)
+LOCATION:120 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250626T095000
+DTEND:20250626T112500
+SUMMARY:Pwst (E)
+LOCATION:120 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250630T095000
+DTEND:20250630T112500
+SUMMARY:MeSK (E)
+LOCATION:317 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250630T114000
+DTEND:20250630T131500
+SUMMARY:MeSK (E)
+LOCATION:317 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
 END:VCALENDAR

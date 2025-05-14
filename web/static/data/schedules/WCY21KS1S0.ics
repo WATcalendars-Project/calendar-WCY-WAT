@@ -6885,6 +6885,27 @@ LOCATION:201 65
 DESCRIPTION:Teoria ciał skończonych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/3\nProwadzący: dr Łukasz Matysiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250623T080000
+DTEND:20250623T093500
+SUMMARY:Akst (E)
+LOCATION:085 S
+DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Łukasz Dzieł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250630T095000
+DTEND:20250630T112500
+SUMMARY:MeSK (E)
+LOCATION:317 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250630T114000
+DTEND:20250630T131500
+SUMMARY:MeSK (E)
+LOCATION:317 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250701T080000
 DTEND:20250701T093500
 SUMMARY:Akst (Inne)

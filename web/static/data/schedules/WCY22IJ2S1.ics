@@ -2439,4 +2439,25 @@ SUMMARY:Jtp (Inne)
 LOCATION:19 36
 DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250625T080000
+DTEND:20250625T093500
+SUMMARY:PWSI (E)
+LOCATION:316 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Tomasz Gzik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250625T095000
+DTEND:20250625T112500
+SUMMARY:PWSI (E)
+LOCATION:316 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Tomasz Gzik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250917T080000
+DTEND:20250917T093500
+SUMMARY:PWSI (Inne)
+LOCATION:316 S
+DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Tomasz Gzik
+END:VEVENT
 END:VCALENDAR

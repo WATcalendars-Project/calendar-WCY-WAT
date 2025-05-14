@@ -5429,6 +5429,13 @@ LOCATION:106 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250626T080000
+DTEND:20250626T093500
+SUMMARY:IK (E)
+LOCATION:313 S
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250627T114000
 DTEND:20250627T131500
 SUMMARY:WdA (Inne)
@@ -5436,10 +5443,59 @@ LOCATION:106 65
 DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250630T095000
+DTEND:20250630T112500
+SUMMARY:IO (E)
+LOCATION:313 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250630T114000
+DTEND:20250630T131500
+SUMMARY:IO (E)
+LOCATION:313 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250703T080000
+DTEND:20250703T093500
+SUMMARY:Sck (E)
+LOCATION:120 65 121 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250703T095000
+DTEND:20250703T112500
+SUMMARY:Sck (E)
+LOCATION:120 65 121 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250915T080000
 DTEND:20250915T093500
 SUMMARY:Sck (Inne)
 LOCATION:125 65
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250917T114000
+DTEND:20250917T131500
+SUMMARY:IO (Inne)
+LOCATION:313 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250918T080000
+DTEND:20250918T093500
+SUMMARY:IK (Inne)
+LOCATION:313 S
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250919T080000
+DTEND:20250919T093500
+SUMMARY:Sck (Inne)
+LOCATION:120 65 121 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 END:VCALENDAR

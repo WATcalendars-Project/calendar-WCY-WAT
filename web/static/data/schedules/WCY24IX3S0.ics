@@ -2206,7 +2206,7 @@ DTSTART:20250203T160000
 DTEND:20250203T173500
 SUMMARY:M II (Inne)
 LOCATION:204 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr Wojciech Matuszewski
+DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250204T080000
@@ -2276,7 +2276,7 @@ DTSTART:20250220T114000
 DTEND:20250220T131500
 SUMMARY:M II (Inne)
 LOCATION:316 S 317 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250221T080000
@@ -3299,6 +3299,13 @@ DTEND:20250415T150500
 SUMMARY:Amt (ć)
 LOCATION:313 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/12\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250415T160000
+DTEND:20250415T173500
+SUMMARY:M II (Inne)
+LOCATION:252 S
+DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T095000
@@ -4526,6 +4533,34 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 60/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250624T080000
+DTEND:20250624T093500
+SUMMARY:Md2 (E)
+LOCATION:317 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250624T095000
+DTEND:20250624T112500
+SUMMARY:Md2 (E)
+LOCATION:317 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250626T095000
+DTEND:20250626T112500
+SUMMARY:Amt (E)
+LOCATION:316 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250626T114000
+DTEND:20250626T131500
+SUMMARY:Amt (E)
+LOCATION:316 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250627T095000
 DTEND:20250627T112500
 SUMMARY:Rp (Inne)
@@ -4533,10 +4568,87 @@ LOCATION:317 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Jerzy Chmaj
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250630T080000
+DTEND:20250630T093500
+SUMMARY:WdP (E)
+LOCATION:316 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250630T095000
+DTEND:20250630T112500
+SUMMARY:WdP (E)
+LOCATION:316 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250711T095000
 DTEND:20250711T112500
 SUMMARY:Rp (Inne)
 LOCATION:317 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Jerzy Chmaj
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250715T095000
+DTEND:20250715T112500
+SUMMARY:WdP (Inne)
+LOCATION:316 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250716T095000
+DTEND:20250716T112500
+SUMMARY:Md2 (Inne)
+LOCATION:317 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250717T095000
+DTEND:20250717T112500
+SUMMARY:Amt (Inne)
+LOCATION:316 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250724T080000
+DTEND:20250724T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250724T095000
+DTEND:20250724T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250724T114000
+DTEND:20250724T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250724T133000
+DTEND:20250724T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 4/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250724T160000
+DTEND:20250724T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 5/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250724T175000
+DTEND:20250724T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 6/1\nProwadzący: -
 END:VEVENT
 END:VCALENDAR
