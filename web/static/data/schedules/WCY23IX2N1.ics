@@ -3273,20 +3273,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 34/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250607T080000
-DTEND:20250607T093500
-SUMMARY:Sck (L)
-LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Piotr Targowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250607T095000
-DTEND:20250607T112500
-SUMMARY:Sck (L)
-LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący:  Piotr Targowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250607T114000
 DTEND:20250607T131500
 SUMMARY:PO (ć)
@@ -3368,7 +3354,7 @@ DTSTART:20250614T080000
 DTEND:20250614T093500
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Piotr Targowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T095000
@@ -3404,6 +3390,13 @@ DTEND:20250614T192500
 SUMMARY:Pw (P)
 LOCATION:233 S
 DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNr zajęć: 4/4\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250614T194000
+DTEND:20250614T211500
+SUMMARY:Sck (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący:  Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250615T080000
@@ -3448,6 +3441,13 @@ LOCATION:227 S
 DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250615T194000
+DTEND:20250615T211500
+SUMMARY:Sck (L)
+LOCATION:120 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Piotr Targowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250621T095000
 DTEND:20250621T112500
 SUMMARY:WdA (Inne)
@@ -3455,8 +3455,8 @@ LOCATION:106 65
 DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250628T114000
-DTEND:20250628T131500
+DTSTART:20250628T080000
+DTEND:20250628T093500
 SUMMARY:Sck (E)
 LOCATION:120 65 121 65
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak

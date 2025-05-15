@@ -2678,13 +2678,6 @@ LOCATION:307 S
 DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250514T114000
-DTEND:20250514T131500
-SUMMARY:Tpi (ć)
-LOCATION:313 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: mgr inż. Łukasz Matuszelański
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250514T133000
 DTEND:20250514T150500
 SUMMARY:F1 (w)
@@ -2878,7 +2871,7 @@ DTSTART:20250528T114000
 DTEND:20250528T131500
 SUMMARY:Tpi (ć)
 LOCATION:307 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: mgr inż. Łukasz Matuszelański
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T133000
@@ -2928,6 +2921,13 @@ DTEND:20250530T131500
 SUMMARY:Amt (ć)
 LOCATION:307 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/12\nProwadzący: prof. dr hab. Wojciech Zajączkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250530T133000
+DTEND:20250530T150500
+SUMMARY:Tpi (ć)
+LOCATION:226 S
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: mgr inż. Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T160000

@@ -7319,13 +7319,6 @@ LOCATION:53/ 62
 DESCRIPTION:Urządzenia rehabilitacyjne i projektowanie sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 4/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250514T080000
-DTEND:20250514T093500
-SUMMARY:Bio.1 (w)
-LOCATION:54/ 62
-DESCRIPTION:Biomechatronika 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/12\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250514T095000
 DTEND:20250514T112500
 SUMMARY:Bio.1 (L)
@@ -7463,7 +7456,7 @@ DTSTART:20250521T080000
 DTEND:20250521T093500
 SUMMARY:Bio.1 (w)
 LOCATION:54/ 62
-DESCRIPTION:Biomechatronika 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/12\nProwadzący: -
+DESCRIPTION:Biomechatronika 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T095000
@@ -7610,7 +7603,7 @@ DTSTART:20250528T080000
 DTEND:20250528T093500
 SUMMARY:Bio.1 (w)
 LOCATION:54/ 62
-DESCRIPTION:Biomechatronika 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 11/12\nProwadzący: -
+DESCRIPTION:Biomechatronika 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T095000
@@ -7639,6 +7632,13 @@ DTEND:20250529T131500
 SUMMARY:WeM (L)
 LOCATION:7/ 34a
 DESCRIPTION:Wspomaganie eksperymentalne modelowania numerycznego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250529T133000
+DTEND:20250529T150500
+SUMMARY:Bio.1 (w)
+LOCATION:52/ 62
+DESCRIPTION:Biomechatronika 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 11/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T160000
