@@ -3658,13 +3658,6 @@ LOCATION:132 K 239 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 48/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250516T160000
-DTEND:20250516T173500
-SUMMARY:F1 (ć)
-LOCATION:204 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250519T095000
 DTEND:20250519T112500
 SUMMARY:WF (ć)
@@ -3809,7 +3802,7 @@ DTSTART:20250526T133000
 DTEND:20250526T150500
 SUMMARY:F1 (ć)
 LOCATION:204 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/15\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T095000
@@ -3844,7 +3837,7 @@ DTSTART:20250528T095000
 DTEND:20250528T112500
 SUMMARY:F1 (ć)
 LOCATION:204 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/15\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T114000
@@ -3915,6 +3908,13 @@ DTEND:20250529T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 37/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250530T080000
+DTEND:20250530T093500
+SUMMARY:F1 (ć)
+LOCATION:204 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T095000
@@ -4017,16 +4017,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T080000
 DTEND:20250605T093500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 38/1\nProwadzący: -
+SUMMARY:F1 (ć)
+LOCATION:204 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T095000
 DTEND:20250605T112500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 39/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 38/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T114000
@@ -4054,14 +4054,14 @@ DTSTART:20250605T175000
 DTEND:20250605T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 40/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 39/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T194000
 DTEND:20250605T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 41/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 40/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T080000
@@ -4110,7 +4110,7 @@ DTSTART:20250609T114000
 DTEND:20250609T131500
 SUMMARY:F1 (ć)
 LOCATION:204 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T080000
@@ -4145,7 +4145,7 @@ DTSTART:20250612T080000
 DTEND:20250612T093500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 42/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 41/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T095000
@@ -4180,14 +4180,14 @@ DTSTART:20250612T175000
 DTEND:20250612T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 43/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 42/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T194000
 DTEND:20250612T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 44/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 43/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T080000
@@ -4201,7 +4201,7 @@ DTSTART:20250613T095000
 DTEND:20250613T112500
 SUMMARY:F1 (ć)
 LOCATION:204 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T114000
@@ -4216,13 +4216,6 @@ DTEND:20250613T150500
 SUMMARY:Ja (ć)
 LOCATION:132 K 239 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 59/60\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250613T160000
-DTEND:20250613T173500
-SUMMARY:F1 (ć)
-LOCATION:204 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T080000

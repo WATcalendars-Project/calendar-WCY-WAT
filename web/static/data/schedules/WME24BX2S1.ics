@@ -4575,13 +4575,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 27/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250528T095000
-DTEND:20250528T112500
-SUMMARY:Acz. (w)
-LOCATION:51/ 62
-DESCRIPTION:Anatomia człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 13/14\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250528T114000
 DTEND:20250528T131500
 SUMMARY:Acz. (Inne)
@@ -4712,7 +4705,7 @@ DTSTART:20250604T095000
 DTEND:20250604T112500
 SUMMARY:Acz. (w)
 LOCATION:51/ 62
-DESCRIPTION:Anatomia człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 14/14\nProwadzący: -
+DESCRIPTION:Anatomia człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 13/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T114000
@@ -4811,6 +4804,13 @@ DTEND:20250611T131500
 SUMMARY:WdP (w)
 LOCATION:301/ S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T133000
+DTEND:20250611T150500
+SUMMARY:Acz. (w)
+LOCATION:51/ 62
+DESCRIPTION:Anatomia człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 14/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T175000
