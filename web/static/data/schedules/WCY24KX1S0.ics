@@ -3756,13 +3756,6 @@ LOCATION:AW 3/038
 DESCRIPTION:Podstawy dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250515T114000
-DTEND:20250515T131500
-SUMMARY:RiAIP (w)
-LOCATION:AW 3/038
-DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250515T133000
 DTEND:20250515T150500
 SUMMARY:GMiB (w)
@@ -4146,6 +4139,13 @@ DTEND:20250602T150500
 SUMMARY:Rp (L)
 LOCATION:078 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250602T160000
+DTEND:20250602T173500
+SUMMARY:RiAIP (w)
+LOCATION:103 K
+DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T080000

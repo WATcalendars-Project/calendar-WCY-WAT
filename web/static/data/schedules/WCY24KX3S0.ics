@@ -3700,13 +3700,6 @@ LOCATION:314 S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 14/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250514T133000
-DTEND:20250514T150500
-SUMMARY:RiAIP (w)
-LOCATION:AW 3/038
-DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250514T160000
 DTEND:20250514T173500
 SUMMARY:Amt (ć)
@@ -3873,6 +3866,13 @@ DTEND:20250521T173500
 SUMMARY:WdP (L)
 LOCATION:237 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250521T175000
+DTEND:20250521T192500
+SUMMARY:RiAIP (w)
+LOCATION:AW 3/038
+DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T095000
