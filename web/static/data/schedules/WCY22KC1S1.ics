@@ -2797,6 +2797,20 @@ LOCATION:121 65
 DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250625T080000
+DTEND:20250625T093500
+SUMMARY:zsw (E)
+LOCATION:121 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250625T095000
+DTEND:20250625T112500
+SUMMARY:zsw (E)
+LOCATION:121 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250626T114000
 DTEND:20250626T131500
 SUMMARY:TpsT (E)
@@ -2809,20 +2823,6 @@ DTEND:20250626T150500
 SUMMARY:TpsT (E)
 LOCATION:120 65
 DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250702T095000
-DTEND:20250702T112500
-SUMMARY:zsw (E)
-LOCATION:121 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250702T114000
-DTEND:20250702T131500
-SUMMARY:zsw (E)
-LOCATION:121 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250917T095000

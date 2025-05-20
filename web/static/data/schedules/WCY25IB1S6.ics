@@ -1775,13 +1775,6 @@ LOCATION:101 65
 DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr hab. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250520T095000
-DTEND:20250520T112500
-SUMMARY:SO (w)
-LOCATION:101 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250520T160000
 DTEND:20250520T173500
 SUMMARY:SBD (L)
@@ -1857,6 +1850,13 @@ DTEND:20250522T131500
 SUMMARY:MWDS (L)
 LOCATION:236 S
 DESCRIPTION:Metody i narzędzia wspomagania dowodzenia i szkolenia\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Jakub Grątkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250522T133000
+DTEND:20250522T150500
+SUMMARY:SO (w)
+LOCATION:101 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T160000

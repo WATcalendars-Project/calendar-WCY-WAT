@@ -6976,13 +6976,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 83/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250527T095000
-DTEND:20250527T112500
-SUMMARY:MeSK (L)
-LOCATION:236 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Stanisław Skrzypecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250527T114000
 DTEND:20250527T131500
 SUMMARY:Sss (L)
@@ -7022,14 +7015,14 @@ DTSTART:20250529T114000
 DTEND:20250529T131500
 SUMMARY:MeSK (L)
 LOCATION:233 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/10\nProwadzący: dr inż. Jarosław Rulka
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T133000
 DTEND:20250529T150500
 SUMMARY:MeSK (L)
 LOCATION:233 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/10\nProwadzący: dr inż. Jarosław Rulka
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/10\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T080000
@@ -7100,6 +7093,13 @@ DTEND:20250603T112500
 SUMMARY:SzS (ć)
 LOCATION:ŚNIEŻNIK
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/14\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250603T133000
+DTEND:20250603T150500
+SUMMARY:MeSK (L)
+LOCATION:239 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/10\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T080000

@@ -6640,13 +6640,6 @@ LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 86/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250528T175000
-DTEND:20250528T192500
-SUMMARY:Ztel (L)
-LOCATION:121 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/15\nProwadzący: mgr inż. Krystian Wojdygowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250529T080000
 DTEND:20250529T093500
 SUMMARY:Zt (P)
@@ -6665,21 +6658,21 @@ DTSTART:20250529T114000
 DTEND:20250529T131500
 SUMMARY:Ztel (L)
 LOCATION:121 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/15\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/15\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T133000
 DTEND:20250529T150500
 SUMMARY:Ztel (L)
 LOCATION:121 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/15\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/15\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T160000
 DTEND:20250529T173500
 SUMMARY:Ztel (L)
 LOCATION:121 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/15\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/15\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T080000
@@ -6715,6 +6708,20 @@ DTEND:20250531T112500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 41/43\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250602T160000
+DTEND:20250602T173500
+SUMMARY:Ztel (L)
+LOCATION:09 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/15\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250602T175000
+DTEND:20250602T192500
+SUMMARY:Ztel (L)
+LOCATION:09 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/15\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T080000
@@ -6778,13 +6785,6 @@ DTEND:20250605T112500
 SUMMARY:Zt (L)
 LOCATION:121 65
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Dagmara Mazur
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250605T175000
-DTEND:20250605T192500
-SUMMARY:Ztel (L)
-LOCATION:121 65
-DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/15\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T080000

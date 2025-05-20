@@ -6857,20 +6857,6 @@ LOCATION:31 54E 30a 54
 DESCRIPTION:Pomiary i analiza biosygnałów - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250519T114000
-DTEND:20250519T131500
-SUMMARY:PRo (L)
-LOCATION:66 S
-DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250519T133000
-DTEND:20250519T150500
-SUMMARY:PRo (L)
-LOCATION:66 S
-DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250520T133000
 DTEND:20250520T150500
 SUMMARY:Eam (ć)
@@ -7176,14 +7162,14 @@ DTSTART:20250604T114000
 DTEND:20250604T131500
 SUMMARY:PRo (L)
 LOCATION:66 S
-DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: -
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T133000
 DTEND:20250604T150500
 SUMMARY:PRo (L)
 LOCATION:66 S
-DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T160000
@@ -7330,11 +7316,25 @@ DTSTART:20250611T080000
 DTEND:20250611T093500
 SUMMARY:PRo (L)
 LOCATION:66 S
-DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: -
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T095000
 DTEND:20250611T112500
+SUMMARY:PRo (L)
+LOCATION:66 S
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T114000
+DTEND:20250611T131500
+SUMMARY:PRo (L)
+LOCATION:66 S
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T133000
+DTEND:20250611T150500
 SUMMARY:PRo (L)
 LOCATION:66 S
 DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: -

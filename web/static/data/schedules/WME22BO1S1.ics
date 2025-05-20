@@ -6192,13 +6192,6 @@ LOCATION:6/ 23a
 DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/26\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250415T160000
-DTEND:20250415T173500
-SUMMARY:SOwBM. (w)
-LOCATION:204 136
-DESCRIPTION:Spektroskopia optyczna w biologii, medycynie i chemii - różnica programowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250416T080000
 DTEND:20250416T093500
 SUMMARY:L4g. (L)
@@ -6882,7 +6875,7 @@ DTSTART:20250505T160000
 DTEND:20250505T173500
 SUMMARY:SOwBM. (w)
 LOCATION:204 136
-DESCRIPTION:Spektroskopia optyczna w biologii, medycynie i chemii - różnica programowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -
+DESCRIPTION:Spektroskopia optyczna w biologii, medycynie i chemii - różnica programowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T080000
@@ -7008,7 +7001,7 @@ DTSTART:20250509T114000
 DTEND:20250509T131500
 SUMMARY:SOwBM. (w)
 LOCATION:204 136
-DESCRIPTION:Spektroskopia optyczna w biologii, medycynie i chemii - różnica programowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -
+DESCRIPTION:Spektroskopia optyczna w biologii, medycynie i chemii - różnica programowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T133000
@@ -7183,7 +7176,7 @@ DTSTART:20250516T114000
 DTEND:20250516T131500
 SUMMARY:SOwBM. (w)
 LOCATION:204 136
-DESCRIPTION:Spektroskopia optyczna w biologii, medycynie i chemii - różnica programowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
+DESCRIPTION:Spektroskopia optyczna w biologii, medycynie i chemii - różnica programowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T133000
@@ -7231,14 +7224,14 @@ BEGIN:VEVENT
 DTSTART:20250519T114000
 DTEND:20250519T131500
 SUMMARY:L4g. (L)
-LOCATION:5 46
+LOCATION:5 46 02 71
 DESCRIPTION:Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 93/126\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T133000
 DTEND:20250519T150500
 SUMMARY:L4g. (L)
-LOCATION:5 46
+LOCATION:5 46 02 71
 DESCRIPTION:Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 94/126\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -7275,6 +7268,13 @@ DTEND:20250520T173500
 SUMMARY:Wm (ć)
 LOCATION:54/ 62
 DESCRIPTION:Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22/26\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250521T080000
+DTEND:20250521T093500
+SUMMARY:SOwBM. (w)
+LOCATION:204 136
+DESCRIPTION:Spektroskopia optyczna w biologii, medycynie i chemii - różnica programowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T095000
@@ -7966,14 +7966,14 @@ BEGIN:VEVENT
 DTSTART:20250617T080000
 DTEND:20250617T093500
 SUMMARY:L4g. (L)
-LOCATION:5 46 02 71 8
+LOCATION:5 46 8 70
 DESCRIPTION:Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 123/126\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T095000
 DTEND:20250617T112500
 SUMMARY:L4g. (L)
-LOCATION:5 46 02 71 8
+LOCATION:5 46 8 70
 DESCRIPTION:Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 124/126\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT

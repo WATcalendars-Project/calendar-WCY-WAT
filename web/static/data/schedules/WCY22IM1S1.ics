@@ -3021,6 +3021,20 @@ LOCATION:316 S
 DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250625T080000
+DTEND:20250625T093500
+SUMMARY:zsw (E)
+LOCATION:121 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250625T095000
+DTEND:20250625T112500
+SUMMARY:zsw (E)
+LOCATION:121 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250626T114000
 DTEND:20250626T131500
 SUMMARY:TpsT (E)
@@ -3040,20 +3054,6 @@ DTEND:20250630T131500
 SUMMARY:kdm (E)
 LOCATION:106 65
 DESCRIPTION:Kompresja danych multimedialnych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250702T095000
-DTEND:20250702T112500
-SUMMARY:zsw (E)
-LOCATION:121 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250702T114000
-DTEND:20250702T131500
-SUMMARY:zsw (E)
-LOCATION:121 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250915T114000
