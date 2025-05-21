@@ -1903,16 +1903,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T114000
 DTEND:20250528T131500
-SUMMARY:SoU (L)
+SUMMARY:Pap (L)
 LOCATION:09 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/14\nProwadzący:  Paweł Głębocki
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T133000
 DTEND:20250528T150500
-SUMMARY:SoU (L)
+SUMMARY:Pap (L)
 LOCATION:09 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/14\nProwadzący:  Paweł Głębocki
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T160000
@@ -2078,16 +2078,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T160000
 DTEND:20250604T173500
-SUMMARY:Pap (L)
+SUMMARY:SoU (L)
 LOCATION:011 65
-DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/14\nProwadzący:  Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T175000
 DTEND:20250604T192500
-SUMMARY:Pap (L)
+SUMMARY:SoU (L)
 LOCATION:011 65
-DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/14\nProwadzący:  Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T080000

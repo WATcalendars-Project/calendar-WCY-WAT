@@ -6640,6 +6640,20 @@ LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 86/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250528T133000
+DTEND:20250528T150500
+SUMMARY:Tds (L)
+LOCATION:121 65
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250528T160000
+DTEND:20250528T173500
+SUMMARY:Tds (L)
+LOCATION:121 65
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250529T080000
 DTEND:20250529T093500
 SUMMARY:Zt (P)
@@ -6988,20 +7002,6 @@ DTEND:20250613T150500
 SUMMARY:Sa. (L)
 LOCATION:011 65
 DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Adrian Myśliwiec
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250613T160000
-DTEND:20250613T173500
-SUMMARY:Tds (L)
-LOCATION:125 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250613T175000
-DTEND:20250613T192500
-SUMMARY:Tds (L)
-LOCATION:125 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T095000

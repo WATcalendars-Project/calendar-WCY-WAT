@@ -6493,20 +6493,6 @@ LOCATION:201 65
 DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: dr inż. Krzysztof Liderman
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250522T114000
-DTEND:20250522T131500
-SUMMARY:Tds (L)
-LOCATION:106 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250522T133000
-DTEND:20250522T150500
-SUMMARY:Tds (L)
-LOCATION:106 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250522T160000
 DTEND:20250522T173500
 SUMMARY:Zt (L)
@@ -6547,6 +6533,20 @@ DTEND:20250524T112500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 40/43\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250526T080000
+DTEND:20250526T093500
+SUMMARY:Tds (L)
+LOCATION:09 65
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250526T095000
+DTEND:20250526T112500
+SUMMARY:Tds (L)
+LOCATION:09 65
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T114000
