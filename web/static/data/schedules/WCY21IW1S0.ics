@@ -6577,13 +6577,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 80/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250520T095000
-DTEND:20250520T112500
-SUMMARY:dsk (L)
-LOCATION:121 65
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: mgr inż. Michał Melaniuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250520T114000
 DTEND:20250520T131500
 SUMMARY:Sss (w)
@@ -6792,6 +6785,13 @@ DTEND:20250530T131500
 SUMMARY:Ja (ć)
 LOCATION:120 K 121 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 87/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250530T133000
+DTEND:20250530T150500
+SUMMARY:dsk (L)
+LOCATION:219 65
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250531T095000

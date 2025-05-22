@@ -5048,7 +5048,7 @@ DTSTART:20250515T114000
 DTEND:20250515T131500
 SUMMARY:Tik (L)
 LOCATION:106 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/3\nProwadzący:  Bartłomiej Szykuła
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T133000
@@ -5069,7 +5069,7 @@ DTSTART:20250519T114000
 DTEND:20250519T131500
 SUMMARY:Tik (L)
 LOCATION:125 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/3\nProwadzący:  Bartłomiej Szykuła
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T133000
@@ -5119,13 +5119,6 @@ DTEND:20250521T131500
 SUMMARY:WdA (L)
 LOCATION:121 65
 DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250522T114000
-DTEND:20250522T131500
-SUMMARY:Tik (L)
-LOCATION:09 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący:  Bartłomiej Szykuła
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T160000
@@ -5188,7 +5181,7 @@ DTSTART:20250528T133000
 DTEND:20250528T150500
 SUMMARY:Tik (L)
 LOCATION:106 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/3\nProwadzący:  Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T160000
@@ -5203,6 +5196,13 @@ DTEND:20250528T192500
 SUMMARY:IO (L)
 LOCATION:228 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/14\nProwadzący: mgr inż. Radosław Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250529T114000
+DTEND:20250529T131500
+SUMMARY:Tik (L)
+LOCATION:09 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/3\nProwadzący:  Bartłomiej Szykuła
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T095000
@@ -5251,7 +5251,7 @@ DTSTART:20250604T114000
 DTEND:20250604T131500
 SUMMARY:Tik (L)
 LOCATION:106 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/3\nProwadzący:  Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T133000
@@ -5279,7 +5279,7 @@ DTSTART:20250609T133000
 DTEND:20250609T150500
 SUMMARY:Tik (L)
 LOCATION:125 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/3\nProwadzący:  Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T160000

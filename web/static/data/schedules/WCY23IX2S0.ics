@@ -6486,13 +6486,6 @@ LOCATION:205 65
 DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250520T133000
-DTEND:20250520T150500
-SUMMARY:SO (L)
-LOCATION:106 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący: mgr inż. Michał Melaniuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250521T080000
 DTEND:20250521T093500
 SUMMARY:SI (L)
@@ -6553,7 +6546,7 @@ DTSTART:20250522T133000
 DTEND:20250522T150500
 SUMMARY:SO (L)
 LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący: mgr inż. Michał Melaniuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T080000
@@ -6651,7 +6644,7 @@ DTSTART:20250528T080000
 DTEND:20250528T093500
 SUMMARY:SO (L)
 LOCATION:106 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/13\nProwadzący: mgr inż. Michał Melaniuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T095000
@@ -6924,7 +6917,7 @@ DTSTART:20250610T095000
 DTEND:20250610T112500
 SUMMARY:SO (L)
 LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/13\nProwadzący: mgr inż. Michał Melaniuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/13\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T114000
@@ -7015,6 +7008,13 @@ DTSTART:20250616T133000
 DTEND:20250616T150500
 SUMMARY:SO (L)
 LOCATION:011 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/13\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250617T080000
+DTEND:20250617T093500
+SUMMARY:SO (L)
+LOCATION:106 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/13\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT

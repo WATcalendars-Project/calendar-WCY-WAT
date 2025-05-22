@@ -123,18 +123,39 @@ LOCATION:106 65
 DESCRIPTION:Konfiguracja systemów operacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/13\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250919T114000
+DTEND:20250919T131500
+SUMMARY:wst (w)
+LOCATION:101 65
+DESCRIPTION:Weryfikacja i zarządzanie ryzykiem w syst. teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250919T133000
+DTEND:20250919T150500
+SUMMARY:wst (ć)
+LOCATION:101 65
+DESCRIPTION:Weryfikacja i zarządzanie ryzykiem w syst. teleinformatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący:  Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250919T160000
+DTEND:20250919T173500
+SUMMARY:wst (ć)
+LOCATION:101 65
+DESCRIPTION:Weryfikacja i zarządzanie ryzykiem w syst. teleinformatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący:  Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250922T080000
 DTEND:20250922T093500
 SUMMARY:wst (w)
 LOCATION:101 65
-DESCRIPTION:Weryfikacja i zarządzanie ryzykiem w syst. teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Mieczysław Kania
+DESCRIPTION:Weryfikacja i zarządzanie ryzykiem w syst. teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250922T095000
 DTEND:20250922T112500
 SUMMARY:wst (w)
 LOCATION:101 65
-DESCRIPTION:Weryfikacja i zarządzanie ryzykiem w syst. teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Mieczysław Kania
+DESCRIPTION:Weryfikacja i zarządzanie ryzykiem w syst. teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250922T114000
@@ -142,13 +163,6 @@ DTEND:20250922T131500
 SUMMARY:kso (w)
 LOCATION:106 65
 DESCRIPTION:Konfiguracja systemów operacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: mgr inż. Łukasz Laszko
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250923T080000
-DTEND:20250923T093500
-SUMMARY:wst (w)
-LOCATION:101 65
-DESCRIPTION:Weryfikacja i zarządzanie ryzykiem w syst. teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250923T095000
@@ -186,20 +200,6 @@ LOCATION:106 65
 DESCRIPTION:Konfiguracja systemów operacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250925T080000
-DTEND:20250925T093500
-SUMMARY:wst (L)
-LOCATION:106 65
-DESCRIPTION:Weryfikacja i zarządzanie ryzykiem w syst. teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący:  Mieczysław Kania
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250925T095000
-DTEND:20250925T112500
-SUMMARY:wst (L)
-LOCATION:106 65
-DESCRIPTION:Weryfikacja i zarządzanie ryzykiem w syst. teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący:  Mieczysław Kania
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250925T114000
 DTEND:20250925T131500
 SUMMARY:kso (L)
@@ -232,13 +232,13 @@ DTSTART:20250926T114000
 DTEND:20250926T131500
 SUMMARY:wst (L)
 LOCATION:106 65
-DESCRIPTION:Weryfikacja i zarządzanie ryzykiem w syst. teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/2\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Weryfikacja i zarządzanie ryzykiem w syst. teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250926T133000
 DTEND:20250926T150500
 SUMMARY:wst (L)
 LOCATION:106 65
-DESCRIPTION:Weryfikacja i zarządzanie ryzykiem w syst. teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/2\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Weryfikacja i zarządzanie ryzykiem w syst. teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 END:VCALENDAR

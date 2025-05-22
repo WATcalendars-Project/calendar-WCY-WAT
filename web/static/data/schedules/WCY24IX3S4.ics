@@ -491,14 +491,14 @@ DTSTART:20250424T095000
 DTEND:20250424T112500
 SUMMARY:Swp (L)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący:  Bartłomiej Szykuła
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T114000
 DTEND:20250424T131500
 SUMMARY:Swp (L)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący:  Bartłomiej Szykuła
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T133000
@@ -624,14 +624,14 @@ DTSTART:20250509T080000
 DTEND:20250509T093500
 SUMMARY:Swp (L)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący:  Bartłomiej Szykuła
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T095000
 DTEND:20250509T112500
 SUMMARY:Swp (L)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący:  Bartłomiej Szykuła
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T114000
@@ -771,7 +771,7 @@ DTSTART:20250523T114000
 DTEND:20250523T131500
 SUMMARY:Swp (P)
 LOCATION:09 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 1/5\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 1/5\nProwadzący:  Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T133000
@@ -911,28 +911,28 @@ DTSTART:20250603T080000
 DTEND:20250603T093500
 SUMMARY:Swp (P)
 LOCATION:120 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 2/5\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 2/5\nProwadzący:  Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T095000
 DTEND:20250603T112500
 SUMMARY:Swp (P)
 LOCATION:120 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 3/5\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 3/5\nProwadzący:  Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T080000
 DTEND:20250604T093500
 SUMMARY:Swp (L)
 LOCATION:106 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/4\nProwadzący:  Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T095000
 DTEND:20250604T112500
 SUMMARY:Swp (L)
 LOCATION:106 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/4\nProwadzący:  Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T095000
@@ -960,14 +960,14 @@ DTSTART:20250606T114000
 DTEND:20250606T131500
 SUMMARY:Swp (P)
 LOCATION:120 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 4/5\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 4/5\nProwadzący:  Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T133000
 DTEND:20250606T150500
 SUMMARY:Swp (P)
 LOCATION:120 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 5/5\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 5/5\nProwadzący:  Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T160000
@@ -1017,20 +1017,6 @@ DTEND:20250610T173500
 SUMMARY:Soc (ć)
 LOCATION:308 S
 DESCRIPTION:Socjologia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250610T175000
-DTEND:20250610T192500
-SUMMARY:Swp (L)
-LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Bartłomiej Szykuła
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250610T194000
-DTEND:20250610T211500
-SUMMARY:Swp (L)
-LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Bartłomiej Szykuła
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T080000
@@ -1115,6 +1101,20 @@ DTEND:20250616T150500
 SUMMARY:Tal (P)
 LOCATION:228 S
 DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 6/6\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250617T080000
+DTEND:20250617T093500
+SUMMARY:Swp (L)
+LOCATION:125 65
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/4\nProwadzący:  Jakub Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250617T095000
+DTEND:20250617T112500
+SUMMARY:Swp (L)
+LOCATION:125 65
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/4\nProwadzący:  Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T114000

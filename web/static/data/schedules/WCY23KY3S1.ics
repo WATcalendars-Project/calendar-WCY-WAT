@@ -5009,13 +5009,6 @@ LOCATION:307 S
 DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: prof. dr hab. Jacek Pomykała
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250522T160000
-DTEND:20250522T173500
-SUMMARY:Etl (ć)
-LOCATION:308 S
-DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: dr Robert Dryło
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250527T095000
 DTEND:20250527T112500
 SUMMARY:Wek (L)
@@ -5091,6 +5084,13 @@ DTEND:20250529T150500
 SUMMARY:PO (ć)
 LOCATION:309 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250529T160000
+DTEND:20250529T173500
+SUMMARY:Etl (ć)
+LOCATION:307 S
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T080000

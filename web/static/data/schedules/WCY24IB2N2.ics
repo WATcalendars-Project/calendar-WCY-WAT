@@ -1492,14 +1492,14 @@ DTSTART:20250510T133000
 DTEND:20250510T150500
 SUMMARY:Swp (L)
 LOCATION:121 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/3\nProwadzący:  Bartłomiej Szykuła
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250510T160000
 DTEND:20250510T173500
 SUMMARY:Swp (L)
 LOCATION:121 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/3\nProwadzący:  Bartłomiej Szykuła
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250510T175000
@@ -1835,14 +1835,14 @@ DTSTART:20250607T080000
 DTEND:20250607T093500
 SUMMARY:Swp (L)
 LOCATION:121 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/3\nProwadzący:  Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250607T095000
 DTEND:20250607T112500
 SUMMARY:Swp (L)
 LOCATION:121 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący:  Bartłomiej Szykuła
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/3\nProwadzący:  Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250607T114000
@@ -1929,13 +1929,6 @@ LOCATION:223 S
 DESCRIPTION:Integracja systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250614T114000
-DTEND:20250614T131500
-SUMMARY:Swp (L)
-LOCATION:121 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący:  Bartłomiej Szykuła
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250614T133000
 DTEND:20250614T150500
 SUMMARY:Zui (P)
@@ -1969,6 +1962,13 @@ DTEND:20250615T131500
 SUMMARY:SBD (w)
 LOCATION:309 S
 DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250615T133000
+DTEND:20250615T150500
+SUMMARY:Swp (L)
+LOCATION:120 65
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/3\nProwadzący:  Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250615T160000
