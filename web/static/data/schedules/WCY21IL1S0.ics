@@ -6605,6 +6605,13 @@ LOCATION:AW 4
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250624T095000
+DTEND:20250624T112500
+SUMMARY:Ajf (E)
+LOCATION:313 S
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250624T114000
 DTEND:20250624T131500
 SUMMARY:dsk (E)

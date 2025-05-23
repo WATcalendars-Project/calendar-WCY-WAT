@@ -6941,13 +6941,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 367/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250526T080000
-DTEND:20250526T093500
-SUMMARY:TeMi (w)
-LOCATION:3 54E
-DESCRIPTION:Termografia mikrofalowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250526T095000
 DTEND:20250526T112500
 SUMMARY:Wm (ć)
@@ -6995,6 +6988,13 @@ DTEND:20250528T192500
 SUMMARY:ToiS (L)
 LOCATION:31 54E
 DESCRIPTION:Technika obliczeniowa i symulacyjna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250529T095000
+DTEND:20250529T112500
+SUMMARY:TeMi (w)
+LOCATION:3 54E
+DESCRIPTION:Termografia mikrofalowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T114000

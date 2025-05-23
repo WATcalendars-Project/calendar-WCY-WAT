@@ -3882,13 +3882,6 @@ LOCATION:139 S 141 S
 DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250519T133000
-DTEND:20250519T150500
-SUMMARY:Amt (ć)
-LOCATION:307 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/12\nProwadzący: dr Joanna Piasecka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250520T080000
 DTEND:20250520T093500
 SUMMARY:F1 (ć)
@@ -3991,7 +3984,7 @@ DTSTART:20250523T080000
 DTEND:20250523T093500
 SUMMARY:Amt (ć)
 LOCATION:308 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/12\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/12\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T095000
@@ -4047,7 +4040,7 @@ DTSTART:20250526T133000
 DTEND:20250526T150500
 SUMMARY:Amt (ć)
 LOCATION:308 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/12\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/12\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T080000
@@ -4061,7 +4054,7 @@ DTSTART:20250527T095000
 DTEND:20250527T112500
 SUMMARY:Amt (ć)
 LOCATION:307 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/12\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/12\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T114000
@@ -4076,20 +4069,6 @@ DTEND:20250527T150500
 SUMMARY:F1 (ć)
 LOCATION:204 65
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250527T160000
-DTEND:20250527T173500
-SUMMARY:WdP (L)
-LOCATION:227 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Kamil Małysz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250527T175000
-DTEND:20250527T192500
-SUMMARY:WdP (L)
-LOCATION:227 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T080000
@@ -4166,7 +4145,7 @@ DTSTART:20250530T080000
 DTEND:20250530T093500
 SUMMARY:Amt (ć)
 LOCATION:308 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/12\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/12\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T095000
@@ -4209,6 +4188,13 @@ DTEND:20250602T112500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 53/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250602T114000
+DTEND:20250602T131500
+SUMMARY:Amt (ć)
+LOCATION:252 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/12\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T133000
@@ -4484,6 +4470,20 @@ LOCATION:132 K 239 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 59/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250613T160000
+DTEND:20250613T173500
+SUMMARY:WdP (L)
+LOCATION:227 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Kamil Małysz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250613T175000
+DTEND:20250613T192500
+SUMMARY:WdP (L)
+LOCATION:227 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Kamil Małysz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250616T095000
 DTEND:20250616T112500
 SUMMARY:WF (ć)
@@ -4582,6 +4582,13 @@ LOCATION:316 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250710T095000
+DTEND:20250710T112500
+SUMMARY:Amt (Inne)
+LOCATION:316 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250711T095000
 DTEND:20250711T112500
 SUMMARY:Rp (Inne)
@@ -4601,13 +4608,6 @@ DTEND:20250716T112500
 SUMMARY:Md2 (Inne)
 LOCATION:317 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250717T095000
-DTEND:20250717T112500
-SUMMARY:Amt (Inne)
-LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250724T080000

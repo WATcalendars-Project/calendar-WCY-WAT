@@ -6472,13 +6472,6 @@ LOCATION:085 S
 DESCRIPTION:Narzędzia kryptoanalizy\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący: dr inż. Michał Wroński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250529T160000
-DTEND:20250529T173500
-SUMMARY:Dn (ć)
-LOCATION:205 65
-DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250530T080000
 DTEND:20250530T093500
 SUMMARY:WF (ć)
@@ -6624,6 +6617,13 @@ DTEND:20250605T150500
 SUMMARY:NK (L)
 LOCATION:085 S
 DESCRIPTION:Narzędzia kryptoanalizy\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący: dr inż. Michał Wroński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250605T160000
+DTEND:20250605T173500
+SUMMARY:Dn (ć)
+LOCATION:205 65
+DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T080000
