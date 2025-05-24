@@ -4498,13 +4498,6 @@ LOCATION:52/ 62
 DESCRIPTION:Filozofia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250521T080000
-DTEND:20250521T093500
-SUMMARY:WF (ć)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 26/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250521T095000
 DTEND:20250521T112500
 SUMMARY:Acz. (w)
@@ -4635,7 +4628,7 @@ DTSTART:20250528T080000
 DTEND:20250528T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 27/30\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 26/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T114000
@@ -4657,6 +4650,13 @@ DTEND:20250528T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 27/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250529T080000
+DTEND:20250529T093500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 27/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T095000
