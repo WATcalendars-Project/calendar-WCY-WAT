@@ -1908,6 +1908,13 @@ LOCATION:307 S
 DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250614T095000
+DTEND:20250614T112500
+SUMMARY:Esi (ć)
+LOCATION:307 S
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250614T114000
 DTEND:20250614T131500
 SUMMARY:isi (L)
@@ -1957,13 +1964,6 @@ LOCATION:309 S
 DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250615T133000
-DTEND:20250615T150500
-SUMMARY:Esi (ć)
-LOCATION:307 S
-DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: mgr inż. Marcin Perka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250615T175000
 DTEND:20250615T192500
 SUMMARY:Sme. (ć)
@@ -1985,8 +1985,8 @@ LOCATION:314 S
 DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250629T080000
-DTEND:20250629T093500
+DTSTART:20250628T095000
+DTEND:20250628T112500
 SUMMARY:Wmo (E)
 LOCATION:316 S
 DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Piotr Górny

@@ -2976,14 +2976,14 @@ DTSTART:20250511T133000
 DTEND:20250511T150500
 SUMMARY:MM (ć)
 LOCATION:309 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250511T160000
 DTEND:20250511T173500
 SUMMARY:MM (ć)
 LOCATION:309 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250511T175000
@@ -3074,7 +3074,7 @@ DTSTART:20250518T133000
 DTEND:20250518T150500
 SUMMARY:MM (ć)
 LOCATION:308 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250518T160000
@@ -3158,7 +3158,7 @@ DTSTART:20250525T133000
 DTEND:20250525T150500
 SUMMARY:MM (ć)
 LOCATION:309 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250525T160000
@@ -3317,16 +3317,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250608T080000
 DTEND:20250608T093500
-SUMMARY:SI (L)
-LOCATION:223 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr inż. Przemysław Czuba
+SUMMARY:MM (ć)
+LOCATION:307 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250608T095000
 DTEND:20250608T112500
-SUMMARY:SI (L)
-LOCATION:223 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Przemysław Czuba
+SUMMARY:MM (ć)
+LOCATION:307 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250608T114000
@@ -3348,6 +3348,20 @@ DTEND:20250608T173500
 SUMMARY:WdA (L)
 LOCATION:121 65
 DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250608T175000
+DTEND:20250608T192500
+SUMMARY:SI (L)
+LOCATION:228 S
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250608T194000
+DTEND:20250608T211500
+SUMMARY:SI (L)
+LOCATION:228 S
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T080000
@@ -3424,7 +3438,7 @@ DTSTART:20250615T133000
 DTEND:20250615T150500
 SUMMARY:MM (ć)
 LOCATION:308 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250615T160000

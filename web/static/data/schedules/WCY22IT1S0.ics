@@ -1957,13 +1957,6 @@ LOCATION:237 K 235 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250529T114000
-DTEND:20250529T131500
-SUMMARY:PKSt (ć)
-LOCATION:205 65
-DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250529T133000
 DTEND:20250529T150500
 SUMMARY:WF (ć)
@@ -2129,6 +2122,13 @@ DTSTART:20250605T095000
 DTEND:20250605T112500
 SUMMARY:PKSt (ć)
 LOCATION:205 65
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250605T114000
+DTEND:20250605T131500
+SUMMARY:PKSt (ć)
+LOCATION:8/ 62
 DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT

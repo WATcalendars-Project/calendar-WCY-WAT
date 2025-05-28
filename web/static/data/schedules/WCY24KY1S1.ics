@@ -3301,6 +3301,13 @@ LOCATION:101 65
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący:  Jozef Turczyn
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250616T160000
+DTEND:20250616T173500
+SUMMARY:ppk (Inne)
+LOCATION:316 S
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250617T114000
 DTEND:20250617T131500
 SUMMARY:Amt (ć)
@@ -3341,13 +3348,6 @@ DTEND:20250618T173500
 SUMMARY:Ja (ć)
 LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 30/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250619T114000
-DTEND:20250619T131500
-SUMMARY:ppk (Inne)
-LOCATION:317 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T114000

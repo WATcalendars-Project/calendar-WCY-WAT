@@ -3812,6 +3812,13 @@ LOCATION:132 K 239 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 51/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250527T160000
+DTEND:20250527T173500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 54/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250528T080000
 DTEND:20250528T093500
 SUMMARY:Rp (w)
@@ -3837,7 +3844,7 @@ DTSTART:20250528T133000
 DTEND:20250528T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 54/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 55/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T080000
@@ -3942,7 +3949,7 @@ DTSTART:20250602T095000
 DTEND:20250602T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 55/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 56/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T160000
@@ -3998,7 +4005,7 @@ DTSTART:20250605T133000
 DTEND:20250605T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 56/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 57/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T160000
@@ -4062,13 +4069,6 @@ DTEND:20250609T093500
 SUMMARY:F1 (ć)
 LOCATION:204 65
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250609T095000
-DTEND:20250609T112500
-SUMMARY:WF (ć)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 57/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T114000

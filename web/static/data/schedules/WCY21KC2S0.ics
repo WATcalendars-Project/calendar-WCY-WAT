@@ -6591,20 +6591,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 85/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250527T160000
-DTEND:20250527T173500
-SUMMARY:Zt (P)
-LOCATION:121 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 2/5\nProwadzący:  Szymon Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250527T175000
-DTEND:20250527T192500
-SUMMARY:Zt (P)
-LOCATION:121 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 3/5\nProwadzący:  Szymon Chmielewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250528T080000
 DTEND:20250528T093500
 SUMMARY:Zbi (ć)
@@ -6899,6 +6885,13 @@ LOCATION:AW 4
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250610T175000
+DTEND:20250610T192500
+SUMMARY:Zt (P)
+LOCATION:120 65
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 2/5\nProwadzący:  Szymon Chmielewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250611T095000
 DTEND:20250611T112500
 SUMMARY:ZaMe (ć)
@@ -6952,14 +6945,14 @@ DTSTART:20250612T114000
 DTEND:20250612T131500
 SUMMARY:Zt (P)
 LOCATION:125 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 4/5\nProwadzący:  Szymon Chmielewski
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 3/5\nProwadzący:  Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T133000
 DTEND:20250612T150500
 SUMMARY:Zt (P)
 LOCATION:125 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 5/5\nProwadzący:  Szymon Chmielewski
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 4/5\nProwadzący:  Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T160000
@@ -7072,6 +7065,13 @@ DTEND:20250618T131500
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 90/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T133000
+DTEND:20250618T150500
+SUMMARY:Zt (P)
+LOCATION:125 65
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 5/5\nProwadzący:  Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T160000

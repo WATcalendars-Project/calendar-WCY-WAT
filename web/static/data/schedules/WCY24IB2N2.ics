@@ -1929,6 +1929,13 @@ LOCATION:223 S
 DESCRIPTION:Integracja systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250614T114000
+DTEND:20250614T131500
+SUMMARY:Esi (ć)
+LOCATION:307 S
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: mgr inż. Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250614T133000
 DTEND:20250614T150500
 SUMMARY:Zui (P)
@@ -1971,13 +1978,6 @@ LOCATION:120 65
 DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/3\nProwadzący:  Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250615T160000
-DTEND:20250615T173500
-SUMMARY:Esi (ć)
-LOCATION:307 S
-DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: mgr inż. Marcin Perka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250628T080000
 DTEND:20250628T093500
 SUMMARY:Swp (E)
@@ -1985,8 +1985,8 @@ LOCATION:314 S
 DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250629T080000
-DTEND:20250629T093500
+DTSTART:20250628T095000
+DTEND:20250628T112500
 SUMMARY:Wmo (E)
 LOCATION:316 S
 DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Piotr Górny

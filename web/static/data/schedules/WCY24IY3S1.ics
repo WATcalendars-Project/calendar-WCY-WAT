@@ -3217,6 +3217,13 @@ LOCATION:313 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/10\nProwadzący: mgr inż. Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250617T160000
+DTEND:20250617T173500
+SUMMARY:ppk (Inne)
+LOCATION:317 S
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250618T080000
 DTEND:20250618T093500
 SUMMARY:Rp (w)
@@ -3250,13 +3257,6 @@ DTEND:20250618T173500
 SUMMARY:Ja (ć)
 LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 30/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250619T095000
-DTEND:20250619T112500
-SUMMARY:ppk (Inne)
-LOCATION:317 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T114000

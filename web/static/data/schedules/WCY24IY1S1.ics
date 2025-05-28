@@ -3105,13 +3105,6 @@ LOCATION:316 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250529T133000
-DTEND:20250529T150500
-SUMMARY:Rp (ć)
-LOCATION:201 65
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: dr Justyna Kurkowiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250529T160000
 DTEND:20250529T173500
 SUMMARY:JoM (ć)
@@ -3138,6 +3131,13 @@ DTEND:20250603T093500
 SUMMARY:WdP (L)
 LOCATION:223 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Sławomir Wysocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250603T095000
+DTEND:20250603T112500
+SUMMARY:Rp (ć)
+LOCATION:314 S
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T114000
@@ -3252,6 +3252,13 @@ LOCATION:101 65
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący:  Jozef Turczyn
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250617T160000
+DTEND:20250617T173500
+SUMMARY:ppk (Inne)
+LOCATION:317 S
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250618T080000
 DTEND:20250618T093500
 SUMMARY:Rp (w)
@@ -3278,13 +3285,6 @@ DTEND:20250618T173500
 SUMMARY:Ja (ć)
 LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 30/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250619T095000
-DTEND:20250619T112500
-SUMMARY:ppk (Inne)
-LOCATION:317 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T114000
