@@ -1894,20 +1894,6 @@ LOCATION:106 65
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250608T114000
-DTEND:20250608T131500
-SUMMARY:PTk (L)
-LOCATION:106 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Marcin Goluch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250608T133000
-DTEND:20250608T150500
-SUMMARY:PTk (L)
-LOCATION:106 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Marcin Goluch
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250608T160000
 DTEND:20250608T173500
 SUMMARY:Amt (ć)
@@ -1955,6 +1941,20 @@ DTEND:20250614T173500
 SUMMARY:Rp (L)
 LOCATION:218 65
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/3\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250614T175000
+DTEND:20250614T192500
+SUMMARY:PTk (L)
+LOCATION:106 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Marcin Goluch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250614T194000
+DTEND:20250614T211500
+SUMMARY:PTk (L)
+LOCATION:106 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250615T080000

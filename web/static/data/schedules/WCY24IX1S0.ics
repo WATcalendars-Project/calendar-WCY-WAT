@@ -3966,6 +3966,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 56/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250602T114000
+DTEND:20250602T131500
+SUMMARY:F1 (ć)
+LOCATION:54/ 62
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250602T133000
 DTEND:20250602T150500
 SUMMARY:PTk (ć)
@@ -4020,13 +4027,6 @@ DTEND:20250603T192500
 SUMMARY:PTk (L)
 LOCATION:09 65
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Marcin Goluch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250605T080000
-DTEND:20250605T093500
-SUMMARY:F1 (ć)
-LOCATION:204 65
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T095000
