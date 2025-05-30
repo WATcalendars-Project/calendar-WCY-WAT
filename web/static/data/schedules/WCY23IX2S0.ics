@@ -6829,6 +6829,13 @@ LOCATION:308 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250604T080000
+DTEND:20250604T093500
+SUMMARY:DGB (ć)
+LOCATION:-
+DESCRIPTION:Szkolenie wojskowe - DGB\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250605T080000
 DTEND:20250605T093500
 SUMMARY:WdA (L)
@@ -7011,18 +7018,18 @@ LOCATION:011 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/13\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250616T160000
+DTEND:20250616T173500
+SUMMARY:Bd (L)
+LOCATION:317 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250617T080000
 DTEND:20250617T093500
 SUMMARY:SO (L)
 LOCATION:106 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/13\nProwadzący: mgr inż. Michał Melaniuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250617T095000
-DTEND:20250617T112500
-SUMMARY:Bd (L)
-LOCATION:314 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T114000

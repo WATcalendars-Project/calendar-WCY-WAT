@@ -81,13 +81,6 @@ LOCATION:203 65
 DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr hab. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250613T095000
-DTEND:20250613T112500
-SUMMARY:AsU (L)
-LOCATION:106 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący:  Jakub Walczak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250616T080000
 DTEND:20250616T093500
 SUMMARY:Lan (w)
@@ -106,14 +99,14 @@ DTSTART:20250616T114000
 DTEND:20250616T131500
 SUMMARY:AsU (L)
 LOCATION:106 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący:  Jakub Walczak
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący:  Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T133000
 DTEND:20250616T150500
 SUMMARY:AsU (L)
 LOCATION:106 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący:  Jakub Walczak
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący:  Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T080000
@@ -184,20 +177,6 @@ DTEND:20250623T112500
 SUMMARY:Rsk (w)
 LOCATION:203 65
 DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Tomasz Malinowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250623T114000
-DTEND:20250623T131500
-SUMMARY:AsU (L)
-LOCATION:106 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący:  Jakub Walczak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250623T133000
-DTEND:20250623T150500
-SUMMARY:AsU (L)
-LOCATION:106 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący:  Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T080000
@@ -394,6 +373,27 @@ DTEND:20250708T112500
 SUMMARY:Bst (w)
 LOCATION:203 65
 DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr hab. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250708T114000
+DTEND:20250708T131500
+SUMMARY:AsU (L)
+LOCATION:106 65
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący:  Jakub Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250708T133000
+DTEND:20250708T150500
+SUMMARY:AsU (L)
+LOCATION:106 65
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący:  Jakub Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250709T080000
+DTEND:20250709T093500
+SUMMARY:AsU (L)
+LOCATION:106 65
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący:  Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250709T095000
