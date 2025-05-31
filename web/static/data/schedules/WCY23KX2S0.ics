@@ -6584,6 +6584,13 @@ LOCATION:308 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250609T133000
+DTEND:20250609T150500
+SUMMARY:Hsw (ć)
+LOCATION:205 65
+DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250610T080000
 DTEND:20250610T093500
 SUMMARY:SzS (w)
@@ -6687,13 +6694,6 @@ DTEND:20250614T112500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 43/43\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250616T080000
-DTEND:20250616T093500
-SUMMARY:Hsw (ć)
-LOCATION:205 65
-DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T095000

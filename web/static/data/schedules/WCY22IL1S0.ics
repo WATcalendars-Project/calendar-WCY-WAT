@@ -1740,18 +1740,11 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 29/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250527T095000
-DTEND:20250527T112500
-SUMMARY:DSiSM (ć)
-LOCATION:PĆT1
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250527T114000
 DTEND:20250527T131500
 SUMMARY:DSiSM (ć)
 LOCATION:ST.nr 1(DS)
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: -
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T133000
@@ -2221,6 +2214,13 @@ DTEND:20250623T112500
 SUMMARY:ASI (E)
 LOCATION:314 S
 DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Stefan Rozmus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250624T080000
+DTEND:20250624T093500
+SUMMARY:DSiSM (ć)
+LOCATION:PĆT1
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250627T095000
