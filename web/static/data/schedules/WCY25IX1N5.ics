@@ -200,13 +200,6 @@ LOCATION:309 S
 DESCRIPTION:Dydaktyka szkoły wyższej\nRodzaj zajęć:  - \nNr zajęć: 9/10\nProwadzący: dr Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250603T114000
-DTEND:20250603T131500
-SUMMARY:ZPZD (ć)
-LOCATION:309 S
-DESCRIPTION:Zasady prowadzenia zajęć dydaktycznych i techniki autoprezentacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: dr Ewa Łakoma
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250610T114000
 DTEND:20250610T131500
 SUMMARY:Paka (w)
@@ -246,6 +239,13 @@ DTSTART:20250624T095000
 DTEND:20250624T112500
 SUMMARY:ZPZD (ć)
 LOCATION:239 S
+DESCRIPTION:Zasady prowadzenia zajęć dydaktycznych i techniki autoprezentacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: dr Ewa Łakoma
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250624T133000
+DTEND:20250624T150500
+SUMMARY:ZPZD (ć)
+LOCATION:309 S
 DESCRIPTION:Zasady prowadzenia zajęć dydaktycznych i techniki autoprezentacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: dr Ewa Łakoma
 END:VEVENT
 END:VCALENDAR

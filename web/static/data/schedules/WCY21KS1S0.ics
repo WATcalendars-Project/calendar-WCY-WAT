@@ -6633,13 +6633,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 87/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250606T095000
-DTEND:20250606T112500
-SUMMARY:Gtl (L)
-LOCATION:085 S
-DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/4\nProwadzący: mgr inż. Łukasz Dzieł
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250606T114000
 DTEND:20250606T131500
 SUMMARY:Ja (ć)
@@ -6812,7 +6805,7 @@ DTSTART:20250616T080000
 DTEND:20250616T093500
 SUMMARY:Gtl (L)
 LOCATION:085 S
-DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/4\nProwadzący: mgr inż. Krzysztof Mańk
+DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/4\nProwadzący: mgr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T095000
@@ -6834,6 +6827,13 @@ DTEND:20250616T150500
 SUMMARY:Akst (L)
 LOCATION:085 S
 DESCRIPTION:Akredytacja systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 20/20\nProwadzący: mgr inż. Łukasz Dzieł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250617T080000
+DTEND:20250617T093500
+SUMMARY:Gtl (L)
+LOCATION:085 S
+DESCRIPTION:Generacja i testowanie losowości\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/4\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T095000
