@@ -1110,6 +1110,13 @@ LOCATION:313 S
 DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250611T133000
+DTEND:20250611T150500
+SUMMARY:Mnk (L)
+LOCATION:219 65
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/11\nProwadzący: dr hab. Ewa Czuchry
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250612T095000
 DTEND:20250612T112500
 SUMMARY:Dtu (P)
@@ -1129,13 +1136,6 @@ DTEND:20250612T150500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250612T160000
-DTEND:20250612T173500
-SUMMARY:Mnk (L)
-LOCATION:219 65
-DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/11\nProwadzący: dr hab. Ewa Czuchry
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T133000

@@ -3896,20 +3896,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 51/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250521T160000
-DTEND:20250521T173500
-SUMMARY:PTk (L)
-LOCATION:09 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Marcin Goluch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250521T175000
-DTEND:20250521T192500
-SUMMARY:PTk (L)
-LOCATION:09 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Marcin Goluch
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250522T080000
 DTEND:20250522T093500
 SUMMARY:DSiSM (Inne)
@@ -4215,14 +4201,14 @@ DTSTART:20250604T160000
 DTEND:20250604T173500
 SUMMARY:PTk (L)
 LOCATION:09 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T175000
 DTEND:20250604T192500
 SUMMARY:PTk (L)
 LOCATION:09 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T080000
@@ -4531,6 +4517,20 @@ DTEND:20250618T150500
 SUMMARY:F1 (ć)
 LOCATION:204 65
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T160000
+DTEND:20250618T173500
+SUMMARY:PTk (L)
+LOCATION:125 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Marcin Goluch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T175000
+DTEND:20250618T192500
+SUMMARY:PTk (L)
+LOCATION:125 65
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T080000

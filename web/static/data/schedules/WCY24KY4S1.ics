@@ -3056,18 +3056,18 @@ LOCATION:141 S 139 S
 DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250606T095000
+DTEND:20250606T112500
+SUMMARY:Rp (ć)
+LOCATION:236 S
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250606T114000
 DTEND:20250606T131500
 SUMMARY:Amt (ć)
 LOCATION:309 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/12\nProwadzący: prof. dr hab. Wojciech Zajączkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250606T160000
-DTEND:20250606T173500
-SUMMARY:Rp (ć)
-LOCATION:078 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T133000

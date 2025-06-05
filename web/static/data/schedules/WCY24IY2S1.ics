@@ -3210,6 +3210,13 @@ LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250605T080000
+DTEND:20250605T093500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 29/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250605T114000
 DTEND:20250605T131500
 SUMMARY:ppk (L)
@@ -3229,13 +3236,6 @@ DTEND:20250605T173500
 SUMMARY:JoM (ć)
 LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 29/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250609T095000
-DTEND:20250609T112500
-SUMMARY:WF (ć)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 29/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T114000

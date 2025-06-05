@@ -1915,13 +1915,6 @@ LOCATION:224 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 6/6\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250614T133000
-DTEND:20250614T150500
-SUMMARY:Sbay (L)
-LOCATION:226 S
-DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250614T160000
 DTEND:20250614T173500
 SUMMARY:isi (L)
@@ -1934,6 +1927,13 @@ DTEND:20250614T192500
 SUMMARY:isi (L)
 LOCATION:223 S
 DESCRIPTION:Integracja systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250615T080000
+DTEND:20250615T093500
+SUMMARY:Sbay (L)
+LOCATION:226 S
+DESCRIPTION:Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250615T095000
