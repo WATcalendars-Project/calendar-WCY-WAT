@@ -4221,7 +4221,7 @@ BEGIN:VEVENT
 DTSTART:20250606T095000
 DTEND:20250606T112500
 SUMMARY:PD (Inne)
-LOCATION:AW 1
+LOCATION:AW 7
 DESCRIPTION:Podstawy dowodzenia - (repetytorium) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -4346,9 +4346,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T114000
 DTEND:20250612T131500
-SUMMARY:RiAIP (Inne)
-LOCATION:AW 3/043
-DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 62/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T133000
@@ -4369,14 +4369,14 @@ DTSTART:20250612T175000
 DTEND:20250612T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 62/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 63/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T194000
 DTEND:20250612T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 63/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 64/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T095000
@@ -4489,6 +4489,13 @@ DTEND:20250623T150500
 SUMMARY:Md2 (E)
 LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250624T133000
+DTEND:20250624T150500
+SUMMARY:RiAIP (Inne)
+LOCATION:AW 3/038
+DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T080000

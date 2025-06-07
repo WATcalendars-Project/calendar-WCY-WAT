@@ -1208,13 +1208,6 @@ LOCATION:125 65
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250428T175000
-DTEND:20250428T192500
-SUMMARY:Nsk (ć)
-LOCATION:309 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: mgr inż. Michał Kapałka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250429T095000
 DTEND:20250429T112500
 SUMMARY:WF (ć)
@@ -1492,7 +1485,7 @@ DTSTART:20250512T160000
 DTEND:20250512T173500
 SUMMARY:Nsk (ć)
 LOCATION:314 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T095000
@@ -1668,13 +1661,6 @@ DTEND:20250519T131500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250519T160000
-DTEND:20250519T173500
-SUMMARY:Nsk (ć)
-LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T080000
@@ -1940,7 +1926,7 @@ DTSTART:20250528T160000
 DTEND:20250528T173500
 SUMMARY:Nsk (ć)
 LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T095000
@@ -2333,6 +2319,20 @@ DTEND:20250614T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T080000
+DTEND:20250616T093500
+SUMMARY:Nsk (ć)
+LOCATION:309 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T095000
+DTEND:20250616T112500
+SUMMARY:Nsk (ć)
+LOCATION:309 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T114000

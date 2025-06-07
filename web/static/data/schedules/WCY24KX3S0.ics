@@ -4381,9 +4381,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T133000
 DTEND:20250612T150500
-SUMMARY:RiAIP (Inne)
-LOCATION:AW 3/043
-DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 72/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T160000
@@ -4397,14 +4397,14 @@ DTSTART:20250612T175000
 DTEND:20250612T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 72/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 73/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T194000
 DTEND:20250612T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 73/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 74/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T080000
@@ -4545,6 +4545,13 @@ DTEND:20250623T150500
 SUMMARY:Md2 (E)
 LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250624T160000
+DTEND:20250624T173500
+SUMMARY:RiAIP (Inne)
+LOCATION:AW 3/038
+DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T080000

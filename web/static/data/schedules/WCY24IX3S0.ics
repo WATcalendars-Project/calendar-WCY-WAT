@@ -4442,13 +4442,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 71/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250613T080000
-DTEND:20250613T093500
-SUMMARY:RiAIP (Inne)
-LOCATION:AW 3/043
-DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250613T095000
 DTEND:20250613T112500
 SUMMARY:Md2 (ć)
@@ -4545,6 +4538,13 @@ DTEND:20250624T112500
 SUMMARY:Md2 (E)
 LOCATION:317 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250625T114000
+DTEND:20250625T131500
+SUMMARY:RiAIP (Inne)
+LOCATION:AW 3/038
+DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T095000
