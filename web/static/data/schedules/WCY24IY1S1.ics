@@ -3371,6 +3371,13 @@ LOCATION:315 S
 DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250915T095000
+DTEND:20250915T112500
+SUMMARY:Rp (Inne)
+LOCATION:316 S
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Justyna Kurkowiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250916T095000
 DTEND:20250916T112500
 SUMMARY:F1 (Inne)
@@ -3404,6 +3411,13 @@ DTEND:20250918T093500
 SUMMARY:Amt (Inne)
 LOCATION:316 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250918T095000
+DTEND:20250918T112500
+SUMMARY:Rp (Inne)
+LOCATION:316 S
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250919T095000

@@ -2174,32 +2174,11 @@ LOCATION:106 65
 DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/14\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250610T080000
-DTEND:20250610T093500
-SUMMARY:SKII (L)
-LOCATION:121 65
-DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250610T095000
 DTEND:20250610T112500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 29/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250610T114000
-DTEND:20250610T131500
-SUMMARY:SKII (L)
-LOCATION:125 65
-DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250610T133000
-DTEND:20250610T150500
-SUMMARY:SKII (L)
-LOCATION:125 65
-DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T095000
@@ -2340,6 +2319,27 @@ DTEND:20250616T131500
 SUMMARY:PKSt (w)
 LOCATION:aula/ 135
 DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T133000
+DTEND:20250616T150500
+SUMMARY:SKII (L)
+LOCATION:252 S
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T160000
+DTEND:20250616T173500
+SUMMARY:SKII (L)
+LOCATION:252 S
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T175000
+DTEND:20250616T192500
+SUMMARY:SKII (L)
+LOCATION:252 S
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T095000

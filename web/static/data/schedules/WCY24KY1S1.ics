@@ -1957,13 +1957,6 @@ LOCATION:314 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: prof. dr hab. Wojciech Zajączkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250328T133000
-DTEND:20250328T150500
-SUMMARY:Tgs (ć)
-LOCATION:308 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250331T080000
 DTEND:20250331T093500
 SUMMARY:F1 (ć)
@@ -2129,7 +2122,7 @@ DTSTART:20250404T133000
 DTEND:20250404T150500
 SUMMARY:Tgs (ć)
 LOCATION:316 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T160000
@@ -2885,7 +2878,7 @@ DTSTART:20250522T095000
 DTEND:20250522T112500
 SUMMARY:Tgs (ć)
 LOCATION:317 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T160000
@@ -3074,7 +3067,7 @@ DTSTART:20250604T080000
 DTEND:20250604T093500
 SUMMARY:Tgs (ć)
 LOCATION:307 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T095000
@@ -3158,7 +3151,7 @@ DTSTART:20250609T080000
 DTEND:20250609T093500
 SUMMARY:Tgs (ć)
 LOCATION:308 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T114000
@@ -3280,6 +3273,13 @@ LOCATION:103 K
 DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250613T160000
+DTEND:20250613T173500
+SUMMARY:Tgs (ć)
+LOCATION:308 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250616T080000
 DTEND:20250616T093500
 SUMMARY:Rp (w)
@@ -3299,6 +3299,13 @@ DTEND:20250616T131500
 SUMMARY:PTk (ć)
 LOCATION:101 65
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący:  Jozef Turczyn
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T133000
+DTEND:20250616T150500
+SUMMARY:Md2 (Inne)
+LOCATION:313 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T160000
@@ -3466,7 +3473,7 @@ DTSTART:20250917T114000
 DTEND:20250917T131500
 SUMMARY:Md2 (Inne)
 LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250918T080000
