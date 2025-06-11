@@ -6381,13 +6381,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 82/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250521T133000
-DTEND:20250521T150500
-SUMMARY:MM (ć)
-LOCATION:309 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: mgr inż. Michał Kapałka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250522T095000
 DTEND:20250522T112500
 SUMMARY:Ja (ć)
@@ -6462,7 +6455,7 @@ DTSTART:20250528T080000
 DTEND:20250528T093500
 SUMMARY:MM (ć)
 LOCATION:309 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T114000
@@ -6602,7 +6595,7 @@ DTSTART:20250602T133000
 DTEND:20250602T150500
 SUMMARY:MM (ć)
 LOCATION:307 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T080000
@@ -6798,14 +6791,7 @@ DTSTART:20250611T133000
 DTEND:20250611T150500
 SUMMARY:MM (ć)
 LOCATION:307 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: mgr inż. Michał Kapałka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250612T080000
-DTEND:20250612T093500
-SUMMARY:Etl (ć)
-LOCATION:308 S
-DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr Robert Dryło
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T095000
@@ -6941,11 +6927,25 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 4/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250618T095000
+DTEND:20250618T112500
+SUMMARY:MM (ć)
+LOCATION:314 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250618T114000
 DTEND:20250618T131500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 90/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T133000
+DTEND:20250618T150500
+SUMMARY:Etl (ć)
+LOCATION:309 S
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T080000

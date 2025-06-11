@@ -5261,13 +5261,6 @@ LOCATION:316 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250612T133000
-DTEND:20250612T150500
-SUMMARY:Etl (ć)
-LOCATION:308 S
-DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr Robert Dryło
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250616T095000
 DTEND:20250616T112500
 SUMMARY:MM (Inne)
@@ -5315,6 +5308,13 @@ DTEND:20250618T112500
 SUMMARY:IO (L)
 LOCATION:224 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/14\nProwadzący: mgr inż. Paweł Pieczonka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T114000
+DTEND:20250618T131500
+SUMMARY:Etl (ć)
+LOCATION:308 S
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T095000

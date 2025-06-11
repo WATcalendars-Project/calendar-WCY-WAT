@@ -452,13 +452,6 @@ LOCATION:316 S
 DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250324T133000
-DTEND:20250324T150500
-SUMMARY:Nsk (ć)
-LOCATION:316 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: mgr inż. Michał Kapałka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250324T160000
 DTEND:20250324T173500
 SUMMARY:JEt (w)
@@ -673,7 +666,7 @@ DTSTART:20250402T080000
 DTEND:20250402T093500
 SUMMARY:Nsk (ć)
 LOCATION:252 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T095000
@@ -869,7 +862,7 @@ DTSTART:20250409T160000
 DTEND:20250409T173500
 SUMMARY:Nsk (ć)
 LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T080000
@@ -1044,7 +1037,7 @@ DTSTART:20250416T114000
 DTEND:20250416T131500
 SUMMARY:Nsk (ć)
 LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T133000
@@ -1261,7 +1254,7 @@ DTSTART:20250505T160000
 DTEND:20250505T173500
 SUMMARY:Nsk (ć)
 LOCATION:309 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T080000
@@ -1646,7 +1639,7 @@ DTSTART:20250521T080000
 DTEND:20250521T093500
 SUMMARY:Nsk (ć)
 LOCATION:316 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T095000
@@ -2010,7 +2003,7 @@ DTSTART:20250604T175000
 DTEND:20250604T192500
 SUMMARY:Nsk (ć)
 LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T194000
@@ -2298,6 +2291,13 @@ DTEND:20250616T131500
 SUMMARY:PKSt (w)
 LOCATION:aula/ 135
 DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250616T133000
+DTEND:20250616T150500
+SUMMARY:Nsk (ć)
+LOCATION:316 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T095000
