@@ -71,14 +71,14 @@ DTSTART:20240309T080000
 DTEND:20240309T093500
 SUMMARY:Wmo (w)
 LOCATION:308 S
-DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240309T095000
 DTEND:20240309T112500
 SUMMARY:Wmo (w)
 LOCATION:308 S
-DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240309T114000
@@ -253,7 +253,7 @@ DTSTART:20240407T114000
 DTEND:20240407T131500
 SUMMARY:Wmo (w)
 LOCATION:308 S
-DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240407T133000
@@ -316,14 +316,14 @@ DTSTART:20240421T095000
 DTEND:20240421T112500
 SUMMARY:Wmo (w)
 LOCATION:308 S
-DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240421T114000
 DTEND:20240421T131500
 SUMMARY:Wmo (ć)
 LOCATION:307 S
-DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: dr Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240421T133000
@@ -358,7 +358,7 @@ DTSTART:20240427T080000
 DTEND:20240427T093500
 SUMMARY:Wmo (w)
 LOCATION:308 S
-DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240427T095000
@@ -442,7 +442,7 @@ DTSTART:20240511T080000
 DTEND:20240511T093500
 SUMMARY:Wmo (ć)
 LOCATION:308 S
-DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: dr Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240511T114000
@@ -512,7 +512,7 @@ DTSTART:20240518T080000
 DTEND:20240518T093500
 SUMMARY:Wmo (ć)
 LOCATION:252 S
-DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: dr Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240518T114000
@@ -582,7 +582,7 @@ DTSTART:20240525T080000
 DTEND:20240525T093500
 SUMMARY:Wmo (ć)
 LOCATION:252 S
-DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: dr Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240525T095000
@@ -673,7 +673,7 @@ DTSTART:20240608T080000
 DTEND:20240608T093500
 SUMMARY:Wmo (ć)
 LOCATION:252 S
-DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: dr Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240608T095000
@@ -764,7 +764,7 @@ DTSTART:20240629T095000
 DTEND:20240629T112500
 SUMMARY:Wmo (E)
 LOCATION:308 S
-DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240629T114000
@@ -785,7 +785,7 @@ DTSTART:20240706T095000
 DTEND:20240706T112500
 SUMMARY:Wmo (Inne)
 LOCATION:308 S
-DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240706T114000
@@ -827,7 +827,7 @@ DTSTART:20240921T114000
 DTEND:20240921T131500
 SUMMARY:Wmo (Inne)
 LOCATION:308 S
-DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240921T133000
