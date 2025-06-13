@@ -5128,13 +5128,6 @@ LOCATION:55/ 62
 DESCRIPTION:Fizyka 1 - (Zp. Ćw) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250627T095000
-DTEND:20250627T112500
-SUMMARY:Acz. (E)
-LOCATION:51/ 62
-DESCRIPTION:Anatomia człowieka - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250630T095000
 DTEND:20250630T112500
 SUMMARY:TwM (Inne)
@@ -5175,6 +5168,13 @@ DTEND:20250701T150500
 SUMMARY:Ppu. (Inne)
 LOCATION:11/ 23
 DESCRIPTION:Podstawy projektowania uniwersalnego - (Zaliczenie poprawkowe  lab.) -\nRodzaj zajęć:  - \nNr zajęć: 5/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250702T095000
+DTEND:20250702T112500
+SUMMARY:Acz. (E)
+LOCATION:51/ 62
+DESCRIPTION:Anatomia człowieka - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250704T095000

@@ -4974,13 +4974,6 @@ LOCATION:18 45
 DESCRIPTION:Telemonitoring w medycynie - (Zaliczenie poprawkowe  lab.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250627T095000
-DTEND:20250627T112500
-SUMMARY:Acz. (E)
-LOCATION:51/ 62
-DESCRIPTION:Anatomia człowieka - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250630T095000
 DTEND:20250630T112500
 SUMMARY:TwM (Inne)
@@ -5021,6 +5014,13 @@ DTEND:20250701T131500
 SUMMARY:Ppu. (Inne)
 LOCATION:2.09/ 54A
 DESCRIPTION:Podstawy projektowania uniwersalnego - (Zp.Sem.) -\nRodzaj zajęć:  - \nNr zajęć: 5/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250702T095000
+DTEND:20250702T112500
+SUMMARY:Acz. (E)
+LOCATION:51/ 62
+DESCRIPTION:Anatomia człowieka - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250704T095000
