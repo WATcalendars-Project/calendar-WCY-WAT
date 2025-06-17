@@ -5415,6 +5415,20 @@ LOCATION:125 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250620T095000
+DTEND:20250620T112500
+SUMMARY:Pw (Inne)
+LOCATION:224 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Krzysztof Mierzejewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250620T114000
+DTEND:20250620T131500
+SUMMARY:Pw (Inne)
+LOCATION:224 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Krzysztof Mierzejewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250623T095000
 DTEND:20250623T112500
 SUMMARY:Sck (Inne)

@@ -1590,7 +1590,7 @@ DTSTART:20250306T080000
 DTEND:20250306T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 1/11\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T095000
@@ -1716,7 +1716,7 @@ DTSTART:20250313T080000
 DTEND:20250313T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 2/11\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T095000
@@ -1849,7 +1849,7 @@ DTSTART:20250320T080000
 DTEND:20250320T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 3/11\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T095000
@@ -2003,7 +2003,7 @@ DTSTART:20250327T080000
 DTEND:20250327T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 4/11\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T114000
@@ -2164,7 +2164,7 @@ DTSTART:20250403T080000
 DTEND:20250403T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 5/11\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T095000
@@ -2318,7 +2318,7 @@ DTSTART:20250410T080000
 DTEND:20250410T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 6/11\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T114000
@@ -2451,7 +2451,7 @@ DTSTART:20250417T080000
 DTEND:20250417T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 7/11\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T095000
@@ -2507,7 +2507,7 @@ DTSTART:20250424T080000
 DTEND:20250424T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 8/11\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T095000
@@ -2696,7 +2696,7 @@ DTSTART:20250508T080000
 DTEND:20250508T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 9/11\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T095000
@@ -2815,7 +2815,7 @@ DTSTART:20250515T080000
 DTEND:20250515T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 10/11\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T095000
@@ -3229,6 +3229,13 @@ DTEND:20250617T173500
 SUMMARY:ppk (Inne)
 LOCATION:317 S
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250617T175000
+DTEND:20250617T192500
+SUMMARY:Amt (w)
+LOCATION:316 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 11/11\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T080000

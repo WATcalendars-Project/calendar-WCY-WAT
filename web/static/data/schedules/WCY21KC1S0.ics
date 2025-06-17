@@ -7081,6 +7081,13 @@ LOCATION:125 65
 DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący:  Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250617T175000
+DTEND:20250617T192500
+SUMMARY:Pwst (P)
+LOCATION:125 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 6/5\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250618T080000
 DTEND:20250618T093500
 SUMMARY:DWiPD (ć)
@@ -7100,13 +7107,6 @@ DTEND:20250618T131500
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 90/90\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250618T133000
-DTEND:20250618T150500
-SUMMARY:Pwst (P)
-LOCATION:011 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 6/5\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T160000

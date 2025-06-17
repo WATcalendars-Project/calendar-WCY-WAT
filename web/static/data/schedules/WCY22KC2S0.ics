@@ -2405,6 +2405,20 @@ LOCATION:106 65
 DESCRIPTION:Ataki sieciowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/14\nProwadzący:  Adrian Myśliwiec
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250623T080000
+DTEND:20250623T093500
+SUMMARY:Est (Inne)
+LOCATION:106 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250623T095000
+DTEND:20250623T112500
+SUMMARY:Est (Inne)
+LOCATION:106 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250625T095000
 DTEND:20250625T112500
 SUMMARY:Swb (E)
@@ -2444,7 +2458,7 @@ DTSTART:20250923T095000
 DTEND:20250923T112500
 SUMMARY:Est (Inne)
 LOCATION:120 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250924T095000
