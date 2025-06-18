@@ -1145,6 +1145,13 @@ LOCATION:228 S
 DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 6/6\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250624T114000
+DTEND:20250624T131500
+SUMMARY:Msk. (Inne)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250625T080000
 DTEND:20250625T093500
 SUMMARY:Swp (E)
@@ -1163,7 +1170,7 @@ DTSTART:20250915T080000
 DTEND:20250915T093500
 SUMMARY:Msk. (Inne)
 LOCATION:309 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250917T080000

@@ -3259,13 +3259,6 @@ LOCATION:224 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Sławomir Wysocki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250611T114000
-DTEND:20250611T131500
-SUMMARY:Amt (ć)
-LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/12\nProwadzący:  Stanisław Zoń
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250611T133000
 DTEND:20250611T150500
 SUMMARY:F1 (w)
@@ -3313,6 +3306,13 @@ DTEND:20250616T131500
 SUMMARY:Tpi (w)
 LOCATION:317 S
 DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250617T114000
+DTEND:20250617T131500
+SUMMARY:Amt (ć)
+LOCATION:317 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/12\nProwadzący:  Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T133000

@@ -288,7 +288,7 @@ DTSTART:20240314T080000
 DTEND:20240314T093500
 SUMMARY:Amt (ć)
 LOCATION:313 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/9\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/9\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240314T095000
@@ -561,7 +561,7 @@ DTSTART:20240328T080000
 DTEND:20240328T093500
 SUMMARY:Amt (ć)
 LOCATION:308 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/9\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/9\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240328T095000
@@ -1093,7 +1093,7 @@ DTSTART:20240429T114000
 DTEND:20240429T131500
 SUMMARY:Amt (ć)
 LOCATION:317 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/9\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/9\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240429T133000
@@ -1142,7 +1142,7 @@ DTSTART:20240506T080000
 DTEND:20240506T093500
 SUMMARY:Amt (ć)
 LOCATION:317 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/9\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/9\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240506T095000
@@ -1296,7 +1296,7 @@ DTSTART:20240514T080000
 DTEND:20240514T093500
 SUMMARY:Amt (ć)
 LOCATION:309 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/9\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/9\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240514T095000
@@ -1485,7 +1485,7 @@ DTSTART:20240527T133000
 DTEND:20240527T150500
 SUMMARY:Amt (ć)
 LOCATION:309 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/9\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/9\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240527T160000
@@ -1555,7 +1555,7 @@ DTSTART:20240604T114000
 DTEND:20240604T131500
 SUMMARY:Amt (ć)
 LOCATION:314 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/9\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/9\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240604T133000
@@ -1681,7 +1681,7 @@ DTSTART:20240612T095000
 DTEND:20240612T112500
 SUMMARY:Amt (ć)
 LOCATION:309 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/9\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/9\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240612T114000
@@ -1744,7 +1744,7 @@ DTSTART:20240617T095000
 DTEND:20240617T112500
 SUMMARY:Amt (ć)
 LOCATION:309 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/9\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/9\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240617T114000
@@ -5289,6 +5289,13 @@ LOCATION:224 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250702T095000
+DTEND:20250702T112500
+SUMMARY:PO (Inne)
+LOCATION:313 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250703T080000
 DTEND:20250703T093500
 SUMMARY:Sck (E)
@@ -5336,6 +5343,13 @@ DTEND:20250916T112500
 SUMMARY:Wek (Inne)
 LOCATION:316 S
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250917T095000
+DTEND:20250917T112500
+SUMMARY:PO (Inne)
+LOCATION:313 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250917T114000

@@ -1978,13 +1978,6 @@ LOCATION:308 S
 DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250621T080000
-DTEND:20250621T093500
-SUMMARY:ak (Inne)
-LOCATION:314 S
-DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Joanna Wiśniewska
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250628T080000
 DTEND:20250628T093500
 SUMMARY:Swp (E)
@@ -1997,6 +1990,13 @@ DTEND:20250628T112500
 SUMMARY:Wmo (E)
 LOCATION:316 S
 DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250628T114000
+DTEND:20250628T131500
+SUMMARY:ak (Inne)
+LOCATION:314 S
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250920T080000
@@ -2017,6 +2017,6 @@ DTSTART:20250920T114000
 DTEND:20250920T131500
 SUMMARY:ak (Inne)
 LOCATION:314 S
-DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 END:VCALENDAR

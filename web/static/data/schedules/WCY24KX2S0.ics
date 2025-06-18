@@ -141,7 +141,7 @@ DTSTART:20241008T114000
 DTEND:20241008T131500
 SUMMARY:Mat I (ć)
 LOCATION:201 65
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/18\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/18\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241009T095000
@@ -253,14 +253,14 @@ DTSTART:20241015T095000
 DTEND:20241015T112500
 SUMMARY:M II (ć)
 LOCATION:201 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/17\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/17\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241015T114000
 DTEND:20241015T131500
 SUMMARY:Mat I (ć)
 LOCATION:201 65
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/18\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/18\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241015T133000
@@ -589,7 +589,7 @@ DTSTART:20241029T095000
 DTEND:20241029T112500
 SUMMARY:M II (ć)
 LOCATION:201 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/17\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/17\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241029T114000
@@ -729,7 +729,7 @@ DTSTART:20241105T114000
 DTEND:20241105T131500
 SUMMARY:Mat I (ć)
 LOCATION:101 65
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/18\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/18\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241105T133000
@@ -862,7 +862,7 @@ DTSTART:20241112T114000
 DTEND:20241112T131500
 SUMMARY:M II (ć)
 LOCATION:101 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/17\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/17\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241112T133000
@@ -897,7 +897,7 @@ DTSTART:20241113T095000
 DTEND:20241113T112500
 SUMMARY:Mat I (ć)
 LOCATION:201 65
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/18\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/18\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241113T114000
@@ -1044,7 +1044,7 @@ DTSTART:20241119T114000
 DTEND:20241119T131500
 SUMMARY:Mat I (ć)
 LOCATION:101 65
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/18\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/18\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241119T133000
@@ -1317,7 +1317,7 @@ DTSTART:20241203T114000
 DTEND:20241203T131500
 SUMMARY:Mat I (ć)
 LOCATION:101 65
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/18\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/18\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241203T133000
@@ -1380,14 +1380,14 @@ DTSTART:20241206T095000
 DTEND:20241206T112500
 SUMMARY:Mat I (ć)
 LOCATION:101 65
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/18\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/18\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241206T114000
 DTEND:20241206T131500
 SUMMARY:M II (ć)
 LOCATION:101 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/17\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/17\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241206T133000
@@ -1422,21 +1422,21 @@ DTSTART:20241210T080000
 DTEND:20241210T093500
 SUMMARY:Mat I (ć)
 LOCATION:101 65
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/18\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/18\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241210T095000
 DTEND:20241210T112500
 SUMMARY:M II (ć)
 LOCATION:101 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/17\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/17\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241210T114000
 DTEND:20241210T131500
 SUMMARY:Mat I (ć)
 LOCATION:101 65
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/18\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/18\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241210T133000
@@ -1464,7 +1464,7 @@ DTSTART:20241211T114000
 DTEND:20241211T131500
 SUMMARY:M II (ć)
 LOCATION:205 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/17\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/17\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241211T133000
@@ -1527,7 +1527,7 @@ DTSTART:20241213T114000
 DTEND:20241213T131500
 SUMMARY:M II (ć)
 LOCATION:204 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/17\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/17\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241213T133000
@@ -1576,7 +1576,7 @@ DTSTART:20241217T114000
 DTEND:20241217T131500
 SUMMARY:Mat I (ć)
 LOCATION:101 65
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/18\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/18\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241217T133000
@@ -1604,7 +1604,7 @@ DTSTART:20241218T095000
 DTEND:20241218T112500
 SUMMARY:M II (ć)
 LOCATION:201 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/17\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/17\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241218T114000
@@ -1660,14 +1660,14 @@ DTSTART:20241220T095000
 DTEND:20241220T112500
 SUMMARY:Mat I (ć)
 LOCATION:101 65
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/18\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/18\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241220T114000
 DTEND:20241220T131500
 SUMMARY:M II (ć)
 LOCATION:101 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/17\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/17\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241220T133000
@@ -1688,14 +1688,14 @@ DTSTART:20250107T095000
 DTEND:20250107T112500
 SUMMARY:Mat I (ć)
 LOCATION:101 65
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/18\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/18\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250107T114000
 DTEND:20250107T131500
 SUMMARY:M II (ć)
 LOCATION:101 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/17\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/17\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250107T133000
@@ -1716,7 +1716,7 @@ DTSTART:20250108T114000
 DTEND:20250108T131500
 SUMMARY:M II (ć)
 LOCATION:101 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/17\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/17\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T133000
@@ -1779,7 +1779,7 @@ DTSTART:20250110T080000
 DTEND:20250110T093500
 SUMMARY:Mat I (ć)
 LOCATION:204 65
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/18\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/18\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250110T095000
@@ -1835,7 +1835,7 @@ DTSTART:20250114T080000
 DTEND:20250114T093500
 SUMMARY:M II (ć)
 LOCATION:205 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/17\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/17\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250114T095000
@@ -1926,7 +1926,7 @@ DTSTART:20250117T080000
 DTEND:20250117T093500
 SUMMARY:Mat I (ć)
 LOCATION:204 65
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/18\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/18\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250117T095000
@@ -1940,7 +1940,7 @@ DTSTART:20250117T114000
 DTEND:20250117T131500
 SUMMARY:M II (ć)
 LOCATION:204 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/17\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/17\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250117T133000
@@ -1975,14 +1975,14 @@ DTSTART:20250121T095000
 DTEND:20250121T112500
 SUMMARY:Mat I (ć)
 LOCATION:205 65
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/18\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/18\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250121T114000
 DTEND:20250121T131500
 SUMMARY:M II (ć)
 LOCATION:201 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/17\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/17\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250121T133000
@@ -2003,14 +2003,14 @@ DTSTART:20250122T114000
 DTEND:20250122T131500
 SUMMARY:Mat I (ć)
 LOCATION:204 65
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/18\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/18\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250122T133000
 DTEND:20250122T150500
 SUMMARY:M II (ć)
 LOCATION:204 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/17\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/17\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250123T095000
@@ -2094,14 +2094,14 @@ DTSTART:20250128T080000
 DTEND:20250128T093500
 SUMMARY:Mat I (ć)
 LOCATION:204 65
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/18\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/18\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250128T095000
 DTEND:20250128T112500
 SUMMARY:M II (ć)
 LOCATION:204 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/17\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/17\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250128T114000
@@ -2129,14 +2129,14 @@ DTSTART:20250129T114000
 DTEND:20250129T131500
 SUMMARY:Mat I (ć)
 LOCATION:204 65
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/18\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/18\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250129T133000
 DTEND:20250129T150500
 SUMMARY:M II (ć)
 LOCATION:204 65
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/17\nProwadzący: dr Piotr Kacprzyk
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/17\nProwadzący:  Piotr Kacprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250130T080000
@@ -4463,6 +4463,13 @@ LOCATION:314 S
 DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250618T175000
+DTEND:20250618T192500
+SUMMARY:Md2 (Inne)
+LOCATION:313 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Robert Dryło
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250623T114000
 DTEND:20250623T131500
 SUMMARY:Md2 (E)
@@ -4544,7 +4551,7 @@ DTSTART:20250709T114000
 DTEND:20250709T131500
 SUMMARY:Md2 (Inne)
 LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250710T095000
@@ -4554,8 +4561,8 @@ LOCATION:317 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250711T114000
-DTEND:20250711T131500
+DTSTART:20250711T133000
+DTEND:20250711T150500
 SUMMARY:F1 (Inne)
 LOCATION:316 S
 DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -

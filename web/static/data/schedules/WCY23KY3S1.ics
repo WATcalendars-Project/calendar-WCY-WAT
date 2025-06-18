@@ -5338,6 +5338,13 @@ LOCATION:224 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250702T095000
+DTEND:20250702T112500
+SUMMARY:PO (Inne)
+LOCATION:313 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250703T080000
 DTEND:20250703T093500
 SUMMARY:Sck (E)
@@ -5385,6 +5392,13 @@ DTEND:20250916T112500
 SUMMARY:Wek (Inne)
 LOCATION:316 S
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250917T095000
+DTEND:20250917T112500
+SUMMARY:PO (Inne)
+LOCATION:313 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250917T114000

@@ -4526,6 +4526,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 60/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250618T175000
+DTEND:20250618T192500
+SUMMARY:Md2 (Inne)
+LOCATION:313 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Robert Dryło
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250624T080000
 DTEND:20250624T093500
 SUMMARY:Md2 (E)
@@ -4600,7 +4607,7 @@ DTSTART:20250709T095000
 DTEND:20250709T112500
 SUMMARY:Md2 (Inne)
 LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250710T080000
@@ -4624,8 +4631,8 @@ LOCATION:317 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Jerzy Chmaj
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250711T114000
-DTEND:20250711T131500
+DTSTART:20250711T133000
+DTEND:20250711T150500
 SUMMARY:F1 (Inne)
 LOCATION:316 S
 DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -

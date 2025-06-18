@@ -214,32 +214,18 @@ LOCATION:203 65
 DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250626T114000
-DTEND:20250626T131500
-SUMMARY:Rsk (L)
-LOCATION:121 65
-DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250626T133000
-DTEND:20250626T150500
-SUMMARY:Rsk (L)
-LOCATION:121 65
-DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250627T095000
 DTEND:20250627T112500
 SUMMARY:Rsk (L)
 LOCATION:121 65
-DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250627T114000
 DTEND:20250627T131500
 SUMMARY:Rsk (L)
 LOCATION:121 65
-DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T080000
@@ -337,14 +323,14 @@ DTSTART:20250704T095000
 DTEND:20250704T112500
 SUMMARY:Rsk (L)
 LOCATION:121 65
-DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250704T114000
 DTEND:20250704T131500
 SUMMARY:Rsk (L)
 LOCATION:121 65
-DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250707T114000
@@ -407,11 +393,25 @@ DTSTART:20250709T114000
 DTEND:20250709T131500
 SUMMARY:Rsk (L)
 LOCATION:121 65
-DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250709T133000
 DTEND:20250709T150500
+SUMMARY:Rsk (L)
+LOCATION:121 65
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250710T080000
+DTEND:20250710T093500
+SUMMARY:Rsk (L)
+LOCATION:121 65
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250710T095000
+DTEND:20250710T112500
 SUMMARY:Rsk (L)
 LOCATION:121 65
 DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Łukasz Skibniewski
