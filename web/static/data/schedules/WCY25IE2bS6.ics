@@ -186,18 +186,11 @@ LOCATION:203 65
 DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr hab. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250625T114000
-DTEND:20250625T131500
+DTSTART:20250625T175000
+DTEND:20250625T192500
 SUMMARY:Lan (L)
 LOCATION:121 65
 DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250625T133000
-DTEND:20250625T150500
-SUMMARY:Lan (L)
-LOCATION:121 65
-DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T080000
@@ -246,14 +239,14 @@ DTSTART:20250630T114000
 DTEND:20250630T131500
 SUMMARY:Lan (L)
 LOCATION:121 65
-DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T133000
 DTEND:20250630T150500
 SUMMARY:Lan (L)
 LOCATION:121 65
-DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250701T080000
@@ -331,6 +324,13 @@ DTEND:20250704T131500
 SUMMARY:Rsk (L)
 LOCATION:121 65
 DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250707T095000
+DTEND:20250707T112500
+SUMMARY:Lan (L)
+LOCATION:121 65
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250707T114000

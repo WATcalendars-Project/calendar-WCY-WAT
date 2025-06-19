@@ -2446,32 +2446,4 @@ SUMMARY:SoU (E)
 LOCATION:120 65 121 65
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250922T080000
-DTEND:20250922T093500
-SUMMARY:kdm (Inne)
-LOCATION:106 65
-DESCRIPTION:Kompresja danych multimedialnych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250924T080000
-DTEND:20250924T093500
-SUMMARY:Rou (Inne)
-LOCATION:313 S
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Tomasz Malinowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250925T095000
-DTEND:20250925T112500
-SUMMARY:PZS (Inne)
-LOCATION:125 65
-DESCRIPTION:Podstawy zabezpieczeń sieci\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Łukasz Laszko
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250926T080000
-DTEND:20250926T093500
-SUMMARY:SoU (Inne)
-LOCATION:120 65 121 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
-END:VEVENT
 END:VCALENDAR
