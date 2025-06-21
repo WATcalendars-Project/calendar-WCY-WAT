@@ -2027,6 +2027,13 @@ LOCATION:307 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Piotr Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250705T095000
+DTEND:20250705T112500
+SUMMARY:Tgs (Inne)
+LOCATION:308 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250705T114000
 DTEND:20250705T131500
 SUMMARY:F1 (E)
