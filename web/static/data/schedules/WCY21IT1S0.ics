@@ -7438,13 +7438,6 @@ LOCATION:121 65
 DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 6/2\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250624T114000
-DTEND:20250624T131500
-SUMMARY:dsk (E)
-LOCATION:314 S
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Zbigniew Zielinski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250625T114000
 DTEND:20250625T131500
 SUMMARY:Zt (E)
@@ -7485,5 +7478,12 @@ DTEND:20250630T131500
 SUMMARY:MeSK (E)
 LOCATION:317 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250702T095000
+DTEND:20250702T112500
+SUMMARY:dsk (E)
+LOCATION:314 S
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 END:VCALENDAR
