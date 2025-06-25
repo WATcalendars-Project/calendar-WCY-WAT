@@ -4365,13 +4365,6 @@ LOCATION:BIBL /22
 DESCRIPTION:Podstawy dowodzenia - (repetytorium) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250612T095000
-DTEND:20250612T112500
-SUMMARY:TA (Inne)
-LOCATION:AW 7
-DESCRIPTION:TAKTYKA - (repetytorium) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250612T114000
 DTEND:20250612T131500
 SUMMARY:WF (ć)
@@ -4537,7 +4530,7 @@ DTSTART:20250618T175000
 DTEND:20250618T192500
 SUMMARY:Md2 (Inne)
 LOCATION:313 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Robert Dryło
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T114000
@@ -4617,11 +4610,32 @@ LOCATION:316 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250701T095000
+DTEND:20250701T112500
+SUMMARY:TA (Inne)
+LOCATION:AW 3/038
+DESCRIPTION:TAKTYKA - (repetytorium) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250702T095000
+DTEND:20250702T112500
+SUMMARY:Md2 (Inne)
+LOCATION:317 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Robert Dryło
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250704T114000
+DTEND:20250704T131500
+SUMMARY:Tpi (Inne)
+LOCATION:317 S
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250709T114000
 DTEND:20250709T131500
 SUMMARY:Md2 (Inne)
 LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250710T095000
@@ -4629,6 +4643,13 @@ DTEND:20250710T112500
 SUMMARY:WdP (Inne)
 LOCATION:317 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250711T114000
+DTEND:20250711T131500
+SUMMARY:Tpi (Inne)
+LOCATION:317 S
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250711T133000
