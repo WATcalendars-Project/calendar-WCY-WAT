@@ -1555,7 +1555,7 @@ DTSTART:20250220T114000
 DTEND:20250220T131500
 SUMMARY:htm (Inne)
 LOCATION:011 65
-DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250221T080000
@@ -2837,6 +2837,13 @@ DTEND:20250626T150500
 SUMMARY:TpsT (E)
 LOCATION:120 65
 DESCRIPTION:Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250630T114000
+DTEND:20250630T131500
+SUMMARY:htm (Inne)
+LOCATION:203 65
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250917T095000
