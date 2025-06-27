@@ -3711,20 +3711,34 @@ DTSTART:20250221T133000
 DTEND:20250221T150500
 SUMMARY:Pnak (Inne)
 LOCATION:106 65
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 1/3\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T175000
 DTEND:20250430T192500
 SUMMARY:Pnak (Inne)
 LOCATION:120 65
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 2/3\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T175000
 DTEND:20250430T192500
 SUMMARY:Pnak (Inne)
 LOCATION:120 65
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 3/3\nProwadzący: mgr inż. Waldemar Szylberg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250701T114000
+DTEND:20250701T131500
+SUMMARY:Pnak (Inne)
+LOCATION:106 65
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 4/3\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250701T114000
+DTEND:20250701T131500
+SUMMARY:Pnak (Inne)
+LOCATION:106 65
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 5/3\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 END:VCALENDAR
