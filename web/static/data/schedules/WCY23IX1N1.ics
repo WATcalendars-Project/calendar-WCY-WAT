@@ -3476,6 +3476,13 @@ LOCATION:307 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250705T114000
+DTEND:20250705T131500
+SUMMARY:Pnak (Inne)
+LOCATION:106 65
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250920T080000
 DTEND:20250920T093500
 SUMMARY:Sck (Inne)
