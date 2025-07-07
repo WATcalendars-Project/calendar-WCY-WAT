@@ -4561,18 +4561,18 @@ LOCATION:AW 3/038
 DESCRIPTION:TAKTYKA - (repetytorium) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250702T095000
-DTEND:20250702T112500
-SUMMARY:Md2 (Inne)
-LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Robert Dryło
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250704T114000
 DTEND:20250704T131500
 SUMMARY:Tpi (Inne)
 LOCATION:317 S
 DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250708T095000
+DTEND:20250708T112500
+SUMMARY:Md2 (Inne)
+LOCATION:317 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250708T114000

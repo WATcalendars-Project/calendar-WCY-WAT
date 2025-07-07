@@ -4358,18 +4358,25 @@ LOCATION:316 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250702T095000
-DTEND:20250702T112500
-SUMMARY:Md2 (Inne)
-LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Robert Dryło
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250704T114000
 DTEND:20250704T131500
 SUMMARY:Tpi (Inne)
 LOCATION:317 S
 DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250708T095000
+DTEND:20250708T112500
+SUMMARY:Md2 (Inne)
+LOCATION:317 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Robert Dryło
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250708T160000
+DTEND:20250708T173500
+SUMMARY:WdP (Inne)
+LOCATION:317 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250709T133000
@@ -4383,7 +4390,7 @@ DTSTART:20250710T080000
 DTEND:20250710T093500
 SUMMARY:WdP (Inne)
 LOCATION:317 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Rafał Kasprzyk
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250710T095000
@@ -4391,6 +4398,13 @@ DTEND:20250710T112500
 SUMMARY:Amt (Inne)
 LOCATION:316 S
 DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250710T160000
+DTEND:20250710T173500
+SUMMARY:Tpi (Inne)
+LOCATION:317 S
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250711T095000
@@ -4404,7 +4418,7 @@ DTSTART:20250711T114000
 DTEND:20250711T131500
 SUMMARY:Tpi (Inne)
 LOCATION:317 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250711T133000
