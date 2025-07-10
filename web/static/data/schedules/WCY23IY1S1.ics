@@ -4859,7 +4859,7 @@ DTSTART:20250507T133000
 DTEND:20250507T150500
 SUMMARY:WdA (Inne)
 LOCATION:120 65
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T160000
@@ -5391,14 +5391,14 @@ DTSTART:20250624T080000
 DTEND:20250624T093500
 SUMMARY:Tik (Inne)
 LOCATION:106 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T114000
 DTEND:20250625T131500
 SUMMARY:WdA (Inne)
 LOCATION:120 65
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T080000
@@ -5412,7 +5412,7 @@ DTSTART:20250627T095000
 DTEND:20250627T112500
 SUMMARY:WdA (Inne)
 LOCATION:106 65
-DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T095000
@@ -5450,6 +5450,20 @@ LOCATION:125 65
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250916T080000
+DTEND:20250916T093500
+SUMMARY:Tik (Inne)
+LOCATION:106 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250916T095000
+DTEND:20250916T112500
+SUMMARY:Tik (Inne)
+LOCATION:106 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250917T114000
 DTEND:20250917T131500
 SUMMARY:IO (Inne)
@@ -5469,5 +5483,19 @@ DTEND:20250919T093500
 SUMMARY:Sck (Inne)
 LOCATION:120 65 121 65
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250919T114000
+DTEND:20250919T131500
+SUMMARY:WdA (Inne)
+LOCATION:106 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250919T133000
+DTEND:20250919T150500
+SUMMARY:WdA (Inne)
+LOCATION:106 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć:  - \nNr zajęć: 5/2\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 END:VCALENDAR
