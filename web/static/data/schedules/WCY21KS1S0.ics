@@ -64,7 +64,7 @@ DTSTART:20240227T114000
 DTEND:20240227T131500
 SUMMARY:Pkuc (w)
 LOCATION:078 S
-DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240227T133000
@@ -225,7 +225,7 @@ DTSTART:20240305T114000
 DTEND:20240305T131500
 SUMMARY:Pkuc (w)
 LOCATION:078 S
-DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240305T133000
@@ -365,7 +365,7 @@ DTSTART:20240312T114000
 DTEND:20240312T131500
 SUMMARY:Pkuc (w)
 LOCATION:078 S
-DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240312T133000
@@ -554,7 +554,7 @@ DTSTART:20240319T114000
 DTEND:20240319T131500
 SUMMARY:Pkuc (w)
 LOCATION:078 S
-DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240319T133000
@@ -722,7 +722,7 @@ DTSTART:20240326T114000
 DTEND:20240326T131500
 SUMMARY:Pkuc (w)
 LOCATION:078 S
-DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240326T133000
@@ -911,7 +911,7 @@ DTSTART:20240409T114000
 DTEND:20240409T131500
 SUMMARY:Pkuc (w)
 LOCATION:078 S
-DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240409T133000
@@ -1093,7 +1093,7 @@ DTSTART:20240416T114000
 DTEND:20240416T131500
 SUMMARY:Pkuc (w)
 LOCATION:078 S
-DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240416T133000
@@ -1240,7 +1240,7 @@ DTSTART:20240423T114000
 DTEND:20240423T131500
 SUMMARY:Pkuc (w)
 LOCATION:078 S
-DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240423T133000
@@ -1324,7 +1324,7 @@ DTSTART:20240430T114000
 DTEND:20240430T131500
 SUMMARY:Pkuc (w)
 LOCATION:078 S
-DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240430T133000
@@ -1373,7 +1373,7 @@ DTSTART:20240507T114000
 DTEND:20240507T131500
 SUMMARY:Pkuc (w)
 LOCATION:078 S
-DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240507T133000
@@ -2297,14 +2297,14 @@ DTSTART:20240627T095000
 DTEND:20240627T112500
 SUMMARY:Pkuc (E)
 LOCATION:078 S
-DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240627T114000
 DTEND:20240627T131500
 SUMMARY:Pkuc (E)
 LOCATION:078 S
-DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240702T080000
@@ -2332,7 +2332,7 @@ DTSTART:20240926T095000
 DTEND:20240926T112500
 SUMMARY:Pkuc (Inne)
 LOCATION:078 S
-DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240927T080000
@@ -2374,7 +2374,7 @@ DTSTART:20241003T095000
 DTEND:20241003T112500
 SUMMARY:Pkuc (Inne)
 LOCATION:078 S
-DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Projektowanie kryptograficznych układów cyfrowych\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241004T080000
@@ -2500,7 +2500,7 @@ DTSTART:20241009T133000
 DTEND:20241009T150500
 SUMMARY:SZP (w)
 LOCATION:309 S
-DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241010T095000
@@ -2633,7 +2633,7 @@ DTSTART:20241016T133000
 DTEND:20241016T150500
 SUMMARY:SZP (w)
 LOCATION:309 S
-DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241016T175000
@@ -2983,7 +2983,7 @@ DTSTART:20241030T133000
 DTEND:20241030T150500
 SUMMARY:SZP (w)
 LOCATION:309 S
-DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241030T160000
@@ -3109,7 +3109,7 @@ DTSTART:20241106T133000
 DTEND:20241106T150500
 SUMMARY:SZP (w)
 LOCATION:309 S
-DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241106T160000

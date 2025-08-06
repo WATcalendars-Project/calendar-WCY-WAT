@@ -2262,14 +2262,14 @@ DTSTART:20250302T133000
 DTEND:20250302T150500
 SUMMARY:Wkr (w)
 LOCATION:309 S
-DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250302T160000
 DTEND:20250302T173500
 SUMMARY:Wkr (w)
 LOCATION:309 S
-DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T175000
@@ -2311,14 +2311,14 @@ DTSTART:20250308T160000
 DTEND:20250308T173500
 SUMMARY:Wkr (L)
 LOCATION:078 S
-DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/3\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/3\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250308T175000
 DTEND:20250308T192500
 SUMMARY:Wkr (L)
 LOCATION:078 S
-DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/3\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/3\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250309T080000
@@ -2542,14 +2542,14 @@ DTSTART:20250323T160000
 DTEND:20250323T173500
 SUMMARY:Wkr (w)
 LOCATION:309 S
-DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250323T175000
 DTEND:20250323T192500
 SUMMARY:Wkr (w)
 LOCATION:309 S
-DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250329T080000
@@ -2584,7 +2584,7 @@ DTSTART:20250329T160000
 DTEND:20250329T173500
 SUMMARY:Wkr (L)
 LOCATION:078 S
-DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/3\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/3\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250329T175000
