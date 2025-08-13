@@ -5450,6 +5450,13 @@ LOCATION:125 65
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250915T114000
+DTEND:20250915T131500
+SUMMARY:PO (Inne)
+LOCATION:252 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250916T080000
 DTEND:20250916T093500
 SUMMARY:Tik (Inne)
