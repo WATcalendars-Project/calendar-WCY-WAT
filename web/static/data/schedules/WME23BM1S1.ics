@@ -22,7 +22,7 @@ DTSTART:20250303T114000
 DTEND:20250303T131500
 SUMMARY:BiO (w)
 LOCATION:6/ 23a
-DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T133000
@@ -155,7 +155,7 @@ DTSTART:20250310T114000
 DTEND:20250310T131500
 SUMMARY:BiO (w)
 LOCATION:6/ 23a
-DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T133000
@@ -547,7 +547,7 @@ DTSTART:20250324T114000
 DTEND:20250324T131500
 SUMMARY:BiO (w)
 LOCATION:6/ 23a
-DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T133000
@@ -715,7 +715,7 @@ DTSTART:20250331T114000
 DTEND:20250331T131500
 SUMMARY:BiO (w)
 LOCATION:6/ 23a
-DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T133000
@@ -897,7 +897,7 @@ DTSTART:20250407T114000
 DTEND:20250407T131500
 SUMMARY:BiO (w)
 LOCATION:6/ 23a
-DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T133000
@@ -1072,7 +1072,7 @@ DTSTART:20250414T114000
 DTEND:20250414T131500
 SUMMARY:BiO (w)
 LOCATION:6/ 23a
-DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T133000
@@ -1121,7 +1121,7 @@ DTSTART:20250416T080000
 DTEND:20250416T093500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T095000
@@ -1135,7 +1135,7 @@ DTSTART:20250416T114000
 DTEND:20250416T131500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T095000
@@ -1422,7 +1422,7 @@ DTSTART:20250423T114000
 DTEND:20250423T131500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T133000
@@ -1632,7 +1632,7 @@ DTSTART:20250430T114000
 DTEND:20250430T131500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T160000
@@ -1884,7 +1884,7 @@ DTSTART:20250507T114000
 DTEND:20250507T131500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T080000
@@ -2066,7 +2066,7 @@ DTSTART:20250514T114000
 DTEND:20250514T131500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T080000
@@ -2255,7 +2255,7 @@ DTSTART:20250521T114000
 DTEND:20250521T131500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T133000
@@ -2458,7 +2458,7 @@ DTSTART:20250528T114000
 DTEND:20250528T131500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T095000
@@ -2633,7 +2633,7 @@ DTSTART:20250604T114000
 DTEND:20250604T131500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T095000
@@ -3193,7 +3193,7 @@ DTSTART:20250625T114000
 DTEND:20250625T131500
 SUMMARY:BiO (Inne)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T133000
@@ -3263,7 +3263,7 @@ DTSTART:20250630T133000
 DTEND:20250630T150500
 SUMMARY:BiO (Inne)
 LOCATION:6/ 23a
-DESCRIPTION:Biometria\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250701T114000

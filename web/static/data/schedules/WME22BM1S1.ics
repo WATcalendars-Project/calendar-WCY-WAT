@@ -57,7 +57,7 @@ DTSTART:20240304T080000
 DTEND:20240304T093500
 SUMMARY:BiO (w)
 LOCATION:52/ 62
-DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240304T095000
@@ -134,14 +134,14 @@ DTSTART:20240311T114000
 DTEND:20240311T131500
 SUMMARY:BiO (w)
 LOCATION:52/ 62
-DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240311T133000
 DTEND:20240311T150500
 SUMMARY:BiO (w)
 LOCATION:52/ 62
-DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240312T080000
@@ -239,14 +239,14 @@ DTSTART:20240318T114000
 DTEND:20240318T131500
 SUMMARY:BiO (w)
 LOCATION:52/ 62
-DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240318T133000
 DTEND:20240318T150500
 SUMMARY:BiO (w)
 LOCATION:52/ 62
-DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240319T080000
@@ -337,7 +337,7 @@ DTSTART:20240325T114000
 DTEND:20240325T131500
 SUMMARY:BiO (w)
 LOCATION:52/ 62
-DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240325T133000
@@ -372,7 +372,7 @@ DTSTART:20240326T133000
 DTEND:20240326T150500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240327T080000
@@ -883,7 +883,7 @@ DTSTART:20240410T133000
 DTEND:20240410T150500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240410T160000
@@ -1023,7 +1023,7 @@ DTSTART:20240416T133000
 DTEND:20240416T150500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240417T080000
@@ -1198,7 +1198,7 @@ DTSTART:20240423T133000
 DTEND:20240423T150500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240424T080000
@@ -1555,7 +1555,7 @@ DTSTART:20240507T133000
 DTEND:20240507T150500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240508T114000
@@ -1723,7 +1723,7 @@ DTSTART:20240514T133000
 DTEND:20240514T150500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240515T080000
@@ -1835,7 +1835,7 @@ DTSTART:20240521T133000
 DTEND:20240521T150500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240522T080000
@@ -1856,7 +1856,7 @@ DTSTART:20240522T114000
 DTEND:20240522T131500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240522T160000
@@ -1996,7 +1996,7 @@ DTSTART:20240528T133000
 DTEND:20240528T150500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240529T080000
@@ -2535,7 +2535,7 @@ DTSTART:20240625T133000
 DTEND:20240625T150500
 SUMMARY:BiO (Inne)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240625T160000
@@ -2668,7 +2668,7 @@ DTSTART:20240916T133000
 DTEND:20240916T150500
 SUMMARY:BiO (Inne)
 LOCATION:52/ 62
-DESCRIPTION:Biometria\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240917T080000
@@ -3613,14 +3613,14 @@ DTSTART:20241113T133000
 DTEND:20241113T150500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241113T160000
 DTEND:20241113T173500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/12\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/12\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241114T080000
@@ -3767,14 +3767,14 @@ DTSTART:20241120T133000
 DTEND:20241120T150500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/12\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/12\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241120T160000
 DTEND:20241120T173500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241121T080000
@@ -4075,14 +4075,14 @@ DTSTART:20241204T133000
 DTEND:20241204T150500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241204T160000
 DTEND:20241204T173500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241205T095000
@@ -4173,14 +4173,14 @@ DTSTART:20241211T133000
 DTEND:20241211T150500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241211T160000
 DTEND:20241211T173500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241212T095000
@@ -5118,14 +5118,14 @@ DTSTART:20250108T133000
 DTEND:20250108T150500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250108T160000
 DTEND:20250108T173500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250109T114000
@@ -5251,14 +5251,14 @@ DTSTART:20250115T133000
 DTEND:20250115T150500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/12\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/12\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250115T160000
 DTEND:20250115T173500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250117T095000
@@ -5475,7 +5475,7 @@ DTSTART:20250205T133000
 DTEND:20250205T150500
 SUMMARY:Swb (Inne)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250205T160000
