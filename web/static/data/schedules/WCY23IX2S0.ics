@@ -722,14 +722,14 @@ DTSTART:20240405T133000
 DTEND:20240405T150500
 SUMMARY:PTk (L)
 LOCATION:011 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Marcin Goluch
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240405T160000
 DTEND:20240405T173500
 SUMMARY:PTk (L)
 LOCATION:011 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Marcin Goluch
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240408T080000
@@ -1422,14 +1422,14 @@ DTSTART:20240510T133000
 DTEND:20240510T150500
 SUMMARY:PTk (L)
 LOCATION:09 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Marcin Goluch
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240510T160000
 DTEND:20240510T173500
 SUMMARY:PTk (L)
 LOCATION:09 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Marcin Goluch
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240513T095000
@@ -1646,14 +1646,14 @@ DTSTART:20240522T160000
 DTEND:20240522T173500
 SUMMARY:PTk (L)
 LOCATION:09 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Marcin Goluch
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240522T175000
 DTEND:20240522T192500
 SUMMARY:PTk (L)
 LOCATION:09 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Marcin Goluch
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240523T080000
@@ -1926,14 +1926,14 @@ DTSTART:20240607T133000
 DTEND:20240607T150500
 SUMMARY:PTk (L)
 LOCATION:011 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Marcin Goluch
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240607T160000
 DTEND:20240607T173500
 SUMMARY:PTk (L)
 LOCATION:011 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Marcin Goluch
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240610T095000
@@ -3620,7 +3620,7 @@ DTSTART:20241121T160000
 DTEND:20241121T173500
 SUMMARY:PO (ć)
 LOCATION:313 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący:  Piotr Górny
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: dr Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241122T080000
@@ -3886,7 +3886,7 @@ DTSTART:20241205T160000
 DTEND:20241205T173500
 SUMMARY:PO (ć)
 LOCATION:316 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący:  Piotr Górny
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: dr Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241206T080000
@@ -4033,7 +4033,7 @@ DTSTART:20241212T133000
 DTEND:20241212T150500
 SUMMARY:PO (ć)
 LOCATION:314 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący:  Piotr Górny
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: dr Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241213T080000
@@ -4166,7 +4166,7 @@ DTSTART:20241218T095000
 DTEND:20241218T112500
 SUMMARY:PO (ć)
 LOCATION:309 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący:  Piotr Górny
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: dr Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241218T114000
@@ -4320,7 +4320,7 @@ DTSTART:20250109T080000
 DTEND:20250109T093500
 SUMMARY:PO (ć)
 LOCATION:309 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący:  Piotr Górny
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: dr Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250109T095000
@@ -4488,7 +4488,7 @@ DTSTART:20250117T133000
 DTEND:20250117T150500
 SUMMARY:PO (ć)
 LOCATION:307 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący:  Piotr Górny
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: dr Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250117T175000
@@ -4600,7 +4600,7 @@ DTSTART:20250123T133000
 DTEND:20250123T150500
 SUMMARY:PO (ć)
 LOCATION:314 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący:  Piotr Górny
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: dr Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250124T080000
@@ -4677,7 +4677,7 @@ DTSTART:20250128T114000
 DTEND:20250128T131500
 SUMMARY:PO (ć)
 LOCATION:309 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący:  Piotr Górny
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: dr Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250129T080000
