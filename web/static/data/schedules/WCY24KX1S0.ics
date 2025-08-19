@@ -4502,14 +4502,14 @@ DTSTART:20250625T114000
 DTEND:20250625T131500
 SUMMARY:Rp (Inne)
 LOCATION:317 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć:  - \nNr zajęć: 1/3\nProwadzący: dr Ryszard Kopiecki
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć:  - \nNr zajęć: 1/4\nProwadzący: dr Ryszard Kopiecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T133000
 DTEND:20250625T150500
 SUMMARY:Rp (Inne)
 LOCATION:317 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć:  - \nNr zajęć: 2/3\nProwadzący: dr Ryszard Kopiecki
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć:  - \nNr zajęć: 2/4\nProwadzący: dr Ryszard Kopiecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T080000
@@ -4579,7 +4579,7 @@ DTSTART:20250708T114000
 DTEND:20250708T131500
 SUMMARY:Rp (Inne)
 LOCATION:317 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć:  - \nNr zajęć: 3/3\nProwadzący: dr Ryszard Kopiecki
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć:  - \nNr zajęć: 3/4\nProwadzący: dr Ryszard Kopiecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250709T114000
@@ -4664,5 +4664,12 @@ DTEND:20250724T192500
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 6/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250915T114000
+DTEND:20250915T131500
+SUMMARY:Rp (Inne)
+LOCATION:317 S
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć:  - \nNr zajęć: 4/4\nProwadzący: dr Ryszard Kopiecki
 END:VEVENT
 END:VCALENDAR
