@@ -3305,7 +3305,7 @@ DTSTART:20250616T133000
 DTEND:20250616T150500
 SUMMARY:Md2 (Inne)
 LOCATION:313 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Elżbieta Burek
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T160000
@@ -3462,6 +3462,13 @@ LOCATION:316 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250915T095000
+DTEND:20250915T112500
+SUMMARY:Md2 (Inne)
+LOCATION:085 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Elżbieta Burek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250915T114000
 DTEND:20250915T131500
 SUMMARY:Rp (Inne)
@@ -3501,7 +3508,7 @@ DTSTART:20250917T114000
 DTEND:20250917T131500
 SUMMARY:Md2 (Inne)
 LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250918T080000
