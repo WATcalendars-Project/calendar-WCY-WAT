@@ -2383,4 +2383,18 @@ SUMMARY:SoU (E)
 LOCATION:120 65 121 65
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250918T080000
+DTEND:20250918T093500
+SUMMARY:Nsk (Inne)
+LOCATION:307 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250918T080000
+DTEND:20250918T093500
+SUMMARY:Nsk (Inne)
+LOCATION:307 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
 END:VCALENDAR
