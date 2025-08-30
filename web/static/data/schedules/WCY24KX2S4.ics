@@ -1208,11 +1208,18 @@ LOCATION:314 S
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250915T114000
+DTEND:20250915T131500
+SUMMARY:Dtu (Inne)
+LOCATION:011 65
+DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250916T095000
 DTEND:20250916T112500
 SUMMARY:Dtu (Inne)
 LOCATION:314 S
-DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Zbigniew Zielinski
+DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250918T095000
