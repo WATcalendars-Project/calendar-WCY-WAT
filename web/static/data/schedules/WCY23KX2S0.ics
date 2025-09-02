@@ -4918,6 +4918,20 @@ LOCATION:313 S
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250303T175000
+DTEND:20250303T192500
+SUMMARY:Zkst (Inne)
+LOCATION:085 S
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/4\nProwadzący: mgr inż. Łukasz Dzieł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250303T194000
+DTEND:20250303T211500
+SUMMARY:Zkst (Inne)
+LOCATION:085 S
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 2/4\nProwadzący: mgr inż. Łukasz Dzieł
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250304T095000
 DTEND:20250304T112500
 SUMMARY:TA (w)
@@ -6854,27 +6868,27 @@ DTSTART:20250704T080000
 DTEND:20250704T093500
 SUMMARY:Zkst (Inne)
 LOCATION:078 S 085 S
-DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Kamila Dzieł
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 3/4\nProwadzący: mgr inż. Kamila Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250704T080000
 DTEND:20250704T093500
 SUMMARY:Zkst (Inne)
 LOCATION:078 S 085 S
-DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Łukasz Dzieł
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 4/4\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250704T095000
 DTEND:20250704T112500
 SUMMARY:Zkst (Inne)
 LOCATION:078 S 085 S
-DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: mgr inż. Kamila Dzieł
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 5/4\nProwadzący: mgr inż. Kamila Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250704T095000
 DTEND:20250704T112500
 SUMMARY:Zkst (Inne)
 LOCATION:078 S 085 S
-DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: mgr inż. Łukasz Dzieł
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 6/4\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 END:VCALENDAR

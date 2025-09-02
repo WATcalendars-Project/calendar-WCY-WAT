@@ -5520,6 +5520,20 @@ LOCATION:106 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250916T160000
+DTEND:20250916T173500
+SUMMARY:IK (Inne)
+LOCATION:09 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250916T175000
+DTEND:20250916T192500
+SUMMARY:IK (Inne)
+LOCATION:09 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250917T114000
 DTEND:20250917T131500
 SUMMARY:IO (Inne)
@@ -5531,7 +5545,7 @@ DTSTART:20250918T080000
 DTEND:20250918T093500
 SUMMARY:IK (Inne)
 LOCATION:313 S
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250919T080000

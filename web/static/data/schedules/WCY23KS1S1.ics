@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//scheduleWCY//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:WCY23KS1S1
+BEGIN:VEVENT
+DTSTART:20250303T175000
+DTEND:20250303T192500
+SUMMARY:Zkst (Inne)
+LOCATION:085 S
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Łukasz Dzieł
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250303T194000
+DTEND:20250303T211500
+SUMMARY:Zkst (Inne)
+LOCATION:085 S
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Łukasz Dzieł
+END:VEVENT
+END:VCALENDAR

@@ -50,7 +50,14 @@ DTSTART:20250925T080000
 DTEND:20250925T093500
 SUMMARY:StS (w)
 LOCATION:203 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: dr hab. inż. Maciej Marczyk
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: dr hab. inż. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250925T095000
+DTEND:20250925T112500
+SUMMARY:StS (w)
+LOCATION:203 65
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250926T080000
