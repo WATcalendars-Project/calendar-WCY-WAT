@@ -2860,6 +2860,13 @@ LOCATION:120 65
 DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250915T080000
+DTEND:20250915T093500
+SUMMARY:Bsbp (Inne)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250917T095000
 DTEND:20250917T112500
 SUMMARY:zsw (Inne)

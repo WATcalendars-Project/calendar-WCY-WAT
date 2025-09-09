@@ -5414,4 +5414,11 @@ SUMMARY:Sck (Inne)
 LOCATION:120 65 121 65
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250919T095000
+DTEND:20250919T112500
+SUMMARY:MM (Inne)
+LOCATION:317 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
 END:VCALENDAR
