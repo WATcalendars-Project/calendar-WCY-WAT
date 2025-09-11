@@ -139,30 +139,30 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250919T133000
 DTEND:20250919T150500
-SUMMARY:wst (ć)
-LOCATION:101 65
-DESCRIPTION:Weryfikacja i zarządzanie ryzykiem w syst. teleinformatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący:  Mieczysław Kania
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250919T160000
-DTEND:20250919T173500
-SUMMARY:wst (ć)
-LOCATION:101 65
-DESCRIPTION:Weryfikacja i zarządzanie ryzykiem w syst. teleinformatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący:  Mieczysław Kania
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250922T080000
-DTEND:20250922T093500
 SUMMARY:wst (w)
 LOCATION:101 65
 DESCRIPTION:Weryfikacja i zarządzanie ryzykiem w syst. teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250922T095000
-DTEND:20250922T112500
+DTSTART:20250919T160000
+DTEND:20250919T173500
 SUMMARY:wst (w)
 LOCATION:101 65
 DESCRIPTION:Weryfikacja i zarządzanie ryzykiem w syst. teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250922T080000
+DTEND:20250922T093500
+SUMMARY:wst (ć)
+LOCATION:101 65
+DESCRIPTION:Weryfikacja i zarządzanie ryzykiem w syst. teleinformatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący:  Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250922T095000
+DTEND:20250922T112500
+SUMMARY:wst (ć)
+LOCATION:101 65
+DESCRIPTION:Weryfikacja i zarządzanie ryzykiem w syst. teleinformatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący:  Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250922T114000

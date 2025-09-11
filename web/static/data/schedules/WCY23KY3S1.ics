@@ -5387,6 +5387,13 @@ LOCATION:078 S 085 S
 DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250915T160000
+DTEND:20250915T173500
+SUMMARY:MM (Inne)
+LOCATION:307 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250916T095000
 DTEND:20250916T112500
 SUMMARY:Wek (Inne)
@@ -5419,6 +5426,6 @@ DTSTART:20250919T095000
 DTEND:20250919T112500
 SUMMARY:MM (Inne)
 LOCATION:317 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 END:VCALENDAR
