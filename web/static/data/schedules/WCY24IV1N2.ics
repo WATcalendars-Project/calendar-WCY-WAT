@@ -1978,13 +1978,6 @@ LOCATION:224 S
 DESCRIPTION:Głębokie uczenie maszynowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr inż. Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250621T133000
-DTEND:20250621T150500
-SUMMARY:Sme. (Inne)
-LOCATION:307 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Michał Kapałka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250628T080000
 DTEND:20250628T093500
 SUMMARY:Swp (E)
@@ -2011,5 +2004,12 @@ DTEND:20250920T112500
 SUMMARY:Wmo (Inne)
 LOCATION:316 S
 DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250921T133000
+DTEND:20250921T150500
+SUMMARY:Sme. (Inne)
+LOCATION:307 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 END:VCALENDAR

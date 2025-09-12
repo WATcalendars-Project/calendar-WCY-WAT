@@ -1978,13 +1978,6 @@ LOCATION:120 65
 DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/3\nProwadzący:  Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250621T133000
-DTEND:20250621T150500
-SUMMARY:Sme. (Inne)
-LOCATION:307 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Michał Kapałka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250628T080000
 DTEND:20250628T093500
 SUMMARY:Swp (E)
@@ -2025,5 +2018,12 @@ DTEND:20250920T131500
 SUMMARY:ak (Inne)
 LOCATION:314 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250921T133000
+DTEND:20250921T150500
+SUMMARY:Sme. (Inne)
+LOCATION:307 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 END:VCALENDAR

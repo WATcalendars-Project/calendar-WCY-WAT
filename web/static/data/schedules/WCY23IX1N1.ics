@@ -3483,6 +3483,20 @@ LOCATION:106 65
 DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250911T160000
+DTEND:20250911T173500
+SUMMARY:SI (Inne)
+LOCATION:317 S
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250912T160000
+DTEND:20250912T173500
+SUMMARY:SI (Inne)
+LOCATION:317 S
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250920T080000
 DTEND:20250920T093500
 SUMMARY:Sck (Inne)
