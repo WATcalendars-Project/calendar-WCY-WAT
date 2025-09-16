@@ -3480,7 +3480,7 @@ DTSTART:20250705T114000
 DTEND:20250705T131500
 SUMMARY:Pnak (Inne)
 LOCATION:106 65
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250911T160000
@@ -3530,5 +3530,12 @@ DTEND:20250921T131500
 SUMMARY:Tik (Inne)
 LOCATION:203 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250921T133000
+DTEND:20250921T150500
+SUMMARY:Pnak (Inne)
+LOCATION:106 65
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 END:VCALENDAR
