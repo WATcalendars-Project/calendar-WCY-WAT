@@ -2390,4 +2390,11 @@ SUMMARY:Wpp (Inne)
 LOCATION:106 65
 DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250923T175000
+DTEND:20250923T192500
+SUMMARY:Asie (Inne)
+LOCATION:308 S
+DESCRIPTION:Ataki sieciowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Marcin Pachnik
+END:VEVENT
 END:VCALENDAR
