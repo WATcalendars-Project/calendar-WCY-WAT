@@ -4,895 +4,6 @@ PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY22IJ2N1
 BEGIN:VEVENT
-DTSTART:20241005T080000
-DTEND:20241005T093500
-SUMMARY:Gk (w)
-LOCATION:309 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Marek Salamon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241005T095000
-DTEND:20241005T112500
-SUMMARY:Hd (w)
-LOCATION:309 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Stefan Rozmus
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241005T114000
-DTEND:20241005T131500
-SUMMARY:BPiE (w)
-LOCATION:203 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: mgr inż. Leszek Kalman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241005T133000
-DTEND:20241005T150500
-SUMMARY:BPiE (w)
-LOCATION:203 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: mgr inż. Leszek Kalman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241005T160000
-DTEND:20241005T173500
-SUMMARY:PBI (w)
-LOCATION:203 65
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Krzysztof Liderman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241005T175000
-DTEND:20241005T192500
-SUMMARY:PBI (w)
-LOCATION:203 65
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Krzysztof Liderman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241006T080000
-DTEND:20241006T093500
-SUMMARY:Psy (w)
-LOCATION:308 S
-DESCRIPTION:Psychologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241006T095000
-DTEND:20241006T112500
-SUMMARY:Psy (w)
-LOCATION:308 S
-DESCRIPTION:Psychologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241006T114000
-DTEND:20241006T131500
-SUMMARY:PSy (w)
-LOCATION:308 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241006T133000
-DTEND:20241006T150500
-SUMMARY:Nsk (w)
-LOCATION:308 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr hab. inż. Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241006T160000
-DTEND:20241006T173500
-SUMMARY:Med (w)
-LOCATION:307 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Romuald Hoffmann
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241006T175000
-DTEND:20241006T192500
-SUMMARY:Med (w)
-LOCATION:307 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Romuald Hoffmann
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241019T080000
-DTEND:20241019T093500
-SUMMARY:PBI (w)
-LOCATION:203 65
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Krzysztof Liderman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241019T095000
-DTEND:20241019T112500
-SUMMARY:PBI (w)
-LOCATION:203 65
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Krzysztof Liderman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241019T114000
-DTEND:20241019T131500
-SUMMARY:Gk (w)
-LOCATION:316 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Marek Salamon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241019T133000
-DTEND:20241019T150500
-SUMMARY:Gk (w)
-LOCATION:316 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Marek Salamon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241019T160000
-DTEND:20241019T173500
-SUMMARY:Med (w)
-LOCATION:308 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Romuald Hoffmann
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241019T175000
-DTEND:20241019T192500
-SUMMARY:Med (w)
-LOCATION:308 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Romuald Hoffmann
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241020T095000
-DTEND:20241020T112500
-SUMMARY:Pjf (w)
-LOCATION:307 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241020T114000
-DTEND:20241020T131500
-SUMMARY:Nsk (w)
-LOCATION:317 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr hab. inż. Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241020T133000
-DTEND:20241020T150500
-SUMMARY:Nsk (w)
-LOCATION:317 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr hab. inż. Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241020T160000
-DTEND:20241020T173500
-SUMMARY:PZiP (w)
-LOCATION:317 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241026T080000
-DTEND:20241026T093500
-SUMMARY:BPiE (w)
-LOCATION:203 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: mgr inż. Leszek Kalman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241026T095000
-DTEND:20241026T112500
-SUMMARY:BPiE (w)
-LOCATION:203 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: mgr inż. Leszek Kalman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241026T114000
-DTEND:20241026T131500
-SUMMARY:Med (L)
-LOCATION:236 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: dr inż. Romuald Hoffmann
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241026T133000
-DTEND:20241026T150500
-SUMMARY:Med (L)
-LOCATION:236 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: dr inż. Romuald Hoffmann
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241027T080000
-DTEND:20241027T093500
-SUMMARY:Psy (w)
-LOCATION:308 S
-DESCRIPTION:Psychologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241027T095000
-DTEND:20241027T112500
-SUMMARY:Psy (w)
-LOCATION:308 S
-DESCRIPTION:Psychologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241027T114000
-DTEND:20241027T131500
-SUMMARY:Hd (w)
-LOCATION:313 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Stefan Rozmus
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241027T160000
-DTEND:20241027T173500
-SUMMARY:NET (w)
-LOCATION:314 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Mariusz Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241027T175000
-DTEND:20241027T192500
-SUMMARY:Wdis (w)
-LOCATION:308 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241027T194000
-DTEND:20241027T211500
-SUMMARY:NET (w)
-LOCATION:314 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Mariusz Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241109T080000
-DTEND:20241109T093500
-SUMMARY:Gk (w)
-LOCATION:308 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Marek Salamon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241109T095000
-DTEND:20241109T112500
-SUMMARY:Hd (w)
-LOCATION:309 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Stefan Rozmus
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241109T114000
-DTEND:20241109T131500
-SUMMARY:NET (w)
-LOCATION:313 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Mariusz Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241110T080000
-DTEND:20241110T093500
-SUMMARY:PZiP (w)
-LOCATION:307 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241110T095000
-DTEND:20241110T112500
-SUMMARY:Pjf (w)
-LOCATION:307 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241110T114000
-DTEND:20241110T131500
-SUMMARY:Nsk (w)
-LOCATION:307 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241110T133000
-DTEND:20241110T150500
-SUMMARY:Nsk (w)
-LOCATION:307 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241110T160000
-DTEND:20241110T173500
-SUMMARY:PBI (w)
-LOCATION:203 65
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Krzysztof Liderman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241110T175000
-DTEND:20241110T192500
-SUMMARY:PBI (w)
-LOCATION:203 65
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Krzysztof Liderman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241116T080000
-DTEND:20241116T093500
-SUMMARY:PBI (w)
-LOCATION:203 65
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Krzysztof Liderman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241116T095000
-DTEND:20241116T112500
-SUMMARY:Gk (w)
-LOCATION:309 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Marek Salamon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241116T114000
-DTEND:20241116T131500
-SUMMARY:Hd (w)
-LOCATION:309 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Stefan Rozmus
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241116T133000
-DTEND:20241116T150500
-SUMMARY:Pjf (L)
-LOCATION:228 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr inż. Piotr Adamczyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241116T160000
-DTEND:20241116T173500
-SUMMARY:Pjf (L)
-LOCATION:228 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr inż. Piotr Adamczyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241116T175000
-DTEND:20241116T192500
-SUMMARY:Hd (L)
-LOCATION:224 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: dr inż. Stefan Rozmus
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241117T080000
-DTEND:20241117T093500
-SUMMARY:Psy (w)
-LOCATION:308 S
-DESCRIPTION:Psychologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241117T095000
-DTEND:20241117T112500
-SUMMARY:Psy (w)
-LOCATION:308 S
-DESCRIPTION:Psychologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241117T114000
-DTEND:20241117T131500
-SUMMARY:PSy (w)
-LOCATION:308 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241117T133000
-DTEND:20241117T150500
-SUMMARY:NET (w)
-LOCATION:309 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Mariusz Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241117T160000
-DTEND:20241117T173500
-SUMMARY:Nsk (ć)
-LOCATION:308 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: dr hab. inż. Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241117T175000
-DTEND:20241117T192500
-SUMMARY:BPiE (L)
-LOCATION:121 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241123T080000
-DTEND:20241123T093500
-SUMMARY:Pjf (w)
-LOCATION:-
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241123T095000
-DTEND:20241123T112500
-SUMMARY:Hd (w)
-LOCATION:309 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Stefan Rozmus
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241123T114000
-DTEND:20241123T131500
-SUMMARY:NET (L)
-LOCATION:233 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr inż. Kamil Małysz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241123T133000
-DTEND:20241123T150500
-SUMMARY:NET (L)
-LOCATION:233 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr inż. Kamil Małysz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241124T095000
-DTEND:20241124T112500
-SUMMARY:Hd (L)
-LOCATION:224 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: dr inż. Stefan Rozmus
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241124T114000
-DTEND:20241124T131500
-SUMMARY:Nsk (ć)
-LOCATION:307 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: dr hab. inż. Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241124T133000
-DTEND:20241124T150500
-SUMMARY:PBI (L)
-LOCATION:106 65
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący:  Mieczysław Kania
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241124T160000
-DTEND:20241124T173500
-SUMMARY:PBI (L)
-LOCATION:106 65
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący:  Mieczysław Kania
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241124T175000
-DTEND:20241124T192500
-SUMMARY:NET (w)
-LOCATION:313 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Mariusz Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241130T080000
-DTEND:20241130T093500
-SUMMARY:Med (L)
-LOCATION:236 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: dr inż. Romuald Hoffmann
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241130T095000
-DTEND:20241130T112500
-SUMMARY:Med (L)
-LOCATION:236 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: dr inż. Romuald Hoffmann
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241130T114000
-DTEND:20241130T131500
-SUMMARY:Wdis (L)
-LOCATION:228 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241130T133000
-DTEND:20241130T150500
-SUMMARY:Wdis (L)
-LOCATION:228 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241130T160000
-DTEND:20241130T173500
-SUMMARY:Wdis (w)
-LOCATION:307 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241130T175000
-DTEND:20241130T192500
-SUMMARY:Wdis (w)
-LOCATION:307 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241201T080000
-DTEND:20241201T093500
-SUMMARY:PSy (w)
-LOCATION:309 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241201T095000
-DTEND:20241201T112500
-SUMMARY:PSy (w)
-LOCATION:309 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/3\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241201T114000
-DTEND:20241201T131500
-SUMMARY:PZiP (w)
-LOCATION:307 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241201T133000
-DTEND:20241201T150500
-SUMMARY:PZiP (w)
-LOCATION:307 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241201T160000
-DTEND:20241201T173500
-SUMMARY:Gk (L)
-LOCATION:233 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: dr inż. Marek Salamon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241201T175000
-DTEND:20241201T192500
-SUMMARY:Gk (L)
-LOCATION:233 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: dr inż. Marek Salamon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241201T194000
-DTEND:20241201T211500
-SUMMARY:Gk (L)
-LOCATION:233 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: dr inż. Marek Salamon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241207T080000
-DTEND:20241207T093500
-SUMMARY:BPiE (w)
-LOCATION:203 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: mgr inż. Leszek Kalman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241207T095000
-DTEND:20241207T112500
-SUMMARY:BPiE (w)
-LOCATION:203 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: mgr inż. Leszek Kalman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241207T114000
-DTEND:20241207T131500
-SUMMARY:PSy (L)
-LOCATION:227 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241207T133000
-DTEND:20241207T150500
-SUMMARY:PSy (L)
-LOCATION:227 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241207T160000
-DTEND:20241207T173500
-SUMMARY:Gk (L)
-LOCATION:233 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: dr inż. Marek Salamon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241207T175000
-DTEND:20241207T192500
-SUMMARY:Gk (L)
-LOCATION:233 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: dr inż. Marek Salamon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241208T080000
-DTEND:20241208T093500
-SUMMARY:NET (L)
-LOCATION:226 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr inż. Kamil Małysz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241208T095000
-DTEND:20241208T112500
-SUMMARY:NET (L)
-LOCATION:226 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr inż. Kamil Małysz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241208T114000
-DTEND:20241208T131500
-SUMMARY:PSy (w)
-LOCATION:308 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/3\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241208T133000
-DTEND:20241208T150500
-SUMMARY:Psy (ć)
-LOCATION:308 S
-DESCRIPTION:Psychologia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241208T160000
-DTEND:20241208T173500
-SUMMARY:Nsk (ć)
-LOCATION:307 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: dr hab. inż. Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241221T095000
-DTEND:20241221T112500
-SUMMARY:Pjf (w)
-LOCATION:307 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241221T114000
-DTEND:20241221T131500
-SUMMARY:Pjf (w)
-LOCATION:307 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241221T133000
-DTEND:20241221T150500
-SUMMARY:Wdis (w)
-LOCATION:307 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241221T160000
-DTEND:20241221T173500
-SUMMARY:Gk (L)
-LOCATION:233 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr inż. Marek Salamon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241221T175000
-DTEND:20241221T192500
-SUMMARY:Gk (L)
-LOCATION:233 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: dr inż. Marek Salamon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241221T194000
-DTEND:20241221T211500
-SUMMARY:Gk (L)
-LOCATION:233 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr inż. Marek Salamon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241222T080000
-DTEND:20241222T093500
-SUMMARY:Hd (L)
-LOCATION:223 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: dr inż. Stefan Rozmus
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241222T095000
-DTEND:20241222T112500
-SUMMARY:Nsk (ć)
-LOCATION:307 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241222T114000
-DTEND:20241222T131500
-SUMMARY:PZiP (w)
-LOCATION:307 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241222T133000
-DTEND:20241222T150500
-SUMMARY:PZiP (w)
-LOCATION:307 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241222T160000
-DTEND:20241222T173500
-SUMMARY:PBI (L)
-LOCATION:106 65
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/2\nProwadzący: dr inż. Krzysztof Liderman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241222T175000
-DTEND:20241222T192500
-SUMMARY:BPiE (L)
-LOCATION:121 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250111T080000
-DTEND:20250111T093500
-SUMMARY:Pjf (L)
-LOCATION:228 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr inż. Piotr Adamczyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250111T095000
-DTEND:20250111T112500
-SUMMARY:Pjf (L)
-LOCATION:228 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr inż. Piotr Adamczyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250111T114000
-DTEND:20250111T131500
-SUMMARY:Hd (L)
-LOCATION:226 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: dr inż. Stefan Rozmus
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250111T133000
-DTEND:20250111T150500
-SUMMARY:PZiP (ć)
-LOCATION:309 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250111T160000
-DTEND:20250111T173500
-SUMMARY:PZiP (ć)
-LOCATION:309 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250112T080000
-DTEND:20250112T093500
-SUMMARY:NET (L)
-LOCATION:233 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Kamil Małysz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250112T095000
-DTEND:20250112T112500
-SUMMARY:Nsk (ć)
-LOCATION:307 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250112T160000
-DTEND:20250112T173500
-SUMMARY:PSy (L)
-LOCATION:226 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250112T175000
-DTEND:20250112T192500
-SUMMARY:PSy (L)
-LOCATION:226 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250118T080000
-DTEND:20250118T093500
-SUMMARY:Pjf (L)
-LOCATION:228 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Piotr Adamczyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250118T095000
-DTEND:20250118T112500
-SUMMARY:Med (L)
-LOCATION:236 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: dr inż. Romuald Hoffmann
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250118T114000
-DTEND:20250118T131500
-SUMMARY:Med (L)
-LOCATION:236 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr inż. Romuald Hoffmann
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250118T133000
-DTEND:20250118T150500
-SUMMARY:PSy (L)
-LOCATION:223 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250118T160000
-DTEND:20250118T173500
-SUMMARY:Hd (L)
-LOCATION:223 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: dr inż. Stefan Rozmus
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250118T175000
-DTEND:20250118T192500
-SUMMARY:Gk (L)
-LOCATION:233 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: dr inż. Marek Salamon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250118T194000
-DTEND:20250118T211500
-SUMMARY:Gk (L)
-LOCATION:233 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr inż. Marek Salamon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250119T080000
-DTEND:20250119T093500
-SUMMARY:PZiP (ć)
-LOCATION:309 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250119T095000
-DTEND:20250119T112500
-SUMMARY:PZiP (ć)
-LOCATION:309 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250119T114000
-DTEND:20250119T131500
-SUMMARY:Wdis (L)
-LOCATION:252 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250119T133000
-DTEND:20250119T150500
-SUMMARY:Wdis (L)
-LOCATION:252 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250126T133000
-DTEND:20250126T150500
-SUMMARY:Wdis (L)
-LOCATION:252 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250126T160000
-DTEND:20250126T173500
-SUMMARY:Wdis (L)
-LOCATION:252 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250201T080000
-DTEND:20250201T093500
-SUMMARY:Med (E)
-LOCATION:237 S 239 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Romuald Hoffmann
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250208T080000
-DTEND:20250208T093500
-SUMMARY:Gk (E)
-LOCATION:309 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Marek Salamon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250215T080000
-DTEND:20250215T093500
-SUMMARY:Gk (Inne)
-LOCATION:309 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Marek Salamon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250215T095000
-DTEND:20250215T112500
-SUMMARY:Med (Inne)
-LOCATION:308 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Romuald Hoffmann
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250215T114000
-DTEND:20250215T131500
-SUMMARY:PBI (Inne)
-LOCATION:101 65
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Krzysztof Liderman
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250215T133000
-DTEND:20250215T150500
-SUMMARY:PSy (Inne)
-LOCATION:226 S
-DESCRIPTION:Podstawy symulacji\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250215T160000
-DTEND:20250215T173500
-SUMMARY:Nsk (Inne)
-LOCATION:314 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr hab. inż. Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250301T080000
 DTEND:20250301T093500
 SUMMARY:PWSI (w)
@@ -953,7 +64,7 @@ DTSTART:20250302T160000
 DTEND:20250302T173500
 SUMMARY:Nsk (Inne)
 LOCATION:316 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250308T080000
@@ -2067,5 +1178,320 @@ DTEND:20250920T093500
 SUMMARY:PWSI (Inne)
 LOCATION:309 S
 DESCRIPTION:Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Tomasz Gzik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251004T114000
+DTEND:20251004T131500
+SUMMARY:Bda (w)
+LOCATION:314 S
+DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251004T133000
+DTEND:20251004T150500
+SUMMARY:Bda (w)
+LOCATION:314 S
+DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251004T160000
+DTEND:20251004T173500
+SUMMARY:Bsi (w)
+LOCATION:309 S
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251004T175000
+DTEND:20251004T192500
+SUMMARY:Bsi (w)
+LOCATION:309 S
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251005T080000
+DTEND:20251005T093500
+SUMMARY:Orr (w)
+LOCATION:308 S
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący:  Patryk Serafin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251005T095000
+DTEND:20251005T112500
+SUMMARY:Orr (w)
+LOCATION:308 S
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący:  Patryk Serafin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251005T114000
+DTEND:20251005T131500
+SUMMARY:Swbo (w)
+LOCATION:309 S
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251005T133000
+DTEND:20251005T150500
+SUMMARY:Swbo (w)
+LOCATION:309 S
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251011T080000
+DTEND:20251011T093500
+SUMMARY:Orr (w)
+LOCATION:313 S
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący:  Patryk Serafin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251011T095000
+DTEND:20251011T112500
+SUMMARY:Orr (w)
+LOCATION:313 S
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący:  Patryk Serafin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251011T114000
+DTEND:20251011T131500
+SUMMARY:Bda (w)
+LOCATION:224 S
+DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251011T133000
+DTEND:20251011T150500
+SUMMARY:Bda (w)
+LOCATION:224 S
+DESCRIPTION:Big data\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251011T160000
+DTEND:20251011T173500
+SUMMARY:Bsi (w)
+LOCATION:309 S
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251011T175000
+DTEND:20251011T192500
+SUMMARY:Bsi (w)
+LOCATION:309 S
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251012T080000
+DTEND:20251012T093500
+SUMMARY:Orr (ć)
+LOCATION:308 S
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący:  Patryk Serafin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251012T095000
+DTEND:20251012T112500
+SUMMARY:Orr (ć)
+LOCATION:308 S
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący:  Patryk Serafin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251012T114000
+DTEND:20251012T131500
+SUMMARY:Swbo (w)
+LOCATION:228 S
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251012T133000
+DTEND:20251012T150500
+SUMMARY:Swbo (L)
+LOCATION:228 S
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251012T160000
+DTEND:20251012T173500
+SUMMARY:Swbo (L)
+LOCATION:228 S
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251018T114000
+DTEND:20251018T131500
+SUMMARY:Bda (L)
+LOCATION:228 S
+DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251018T133000
+DTEND:20251018T150500
+SUMMARY:Bda (L)
+LOCATION:228 S
+DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251019T095000
+DTEND:20251019T112500
+SUMMARY:Orr (L)
+LOCATION:223 S
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący:  Patryk Serafin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251019T114000
+DTEND:20251019T131500
+SUMMARY:Orr (L)
+LOCATION:223 S
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący:  Patryk Serafin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251019T133000
+DTEND:20251019T150500
+SUMMARY:Orr (L)
+LOCATION:223 S
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący:  Patryk Serafin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251019T160000
+DTEND:20251019T173500
+SUMMARY:Bsi (L)
+LOCATION:226 S
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251019T175000
+DTEND:20251019T192500
+SUMMARY:Bsi (L)
+LOCATION:226 S
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T080000
+DTEND:20251025T093500
+SUMMARY:Orr (L)
+LOCATION:228 S
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący:  Patryk Serafin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T095000
+DTEND:20251025T112500
+SUMMARY:Orr (L)
+LOCATION:228 S
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący:  Patryk Serafin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T114000
+DTEND:20251025T131500
+SUMMARY:Bda (L)
+LOCATION:228 S
+DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T133000
+DTEND:20251025T150500
+SUMMARY:Bda (L)
+LOCATION:228 S
+DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251026T095000
+DTEND:20251026T112500
+SUMMARY:Swbo (w)
+LOCATION:228 S
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251026T114000
+DTEND:20251026T131500
+SUMMARY:Swbo (L)
+LOCATION:228 S
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251026T133000
+DTEND:20251026T150500
+SUMMARY:Swbo (L)
+LOCATION:228 S
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251026T160000
+DTEND:20251026T173500
+SUMMARY:Bsi (L)
+LOCATION:226 S
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251026T175000
+DTEND:20251026T192500
+SUMMARY:Bsi (L)
+LOCATION:226 S
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251115T095000
+DTEND:20251115T112500
+SUMMARY:Bda (L)
+LOCATION:223 S
+DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251115T114000
+DTEND:20251115T131500
+SUMMARY:Bda (L)
+LOCATION:223 S
+DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251115T133000
+DTEND:20251115T150500
+SUMMARY:Orr (w)
+LOCATION:308 S
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 5/4\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251115T160000
+DTEND:20251115T173500
+SUMMARY:Orr (w)
+LOCATION:308 S
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251116T080000
+DTEND:20251116T093500
+SUMMARY:Orr (L)
+LOCATION:223 S
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący:  Patryk Serafin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251116T095000
+DTEND:20251116T112500
+SUMMARY:Orr (L)
+LOCATION:223 S
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący:  Patryk Serafin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251116T114000
+DTEND:20251116T131500
+SUMMARY:Bsi (L)
+LOCATION:224 S
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251116T133000
+DTEND:20251116T150500
+SUMMARY:Bsi (L)
+LOCATION:224 S
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251116T160000
+DTEND:20251116T173500
+SUMMARY:Swbo (L)
+LOCATION:228 S
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251116T175000
+DTEND:20251116T192500
+SUMMARY:Swbo (L)
+LOCATION:228 S
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 END:VCALENDAR

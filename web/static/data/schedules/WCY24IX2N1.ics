@@ -4,830 +4,11 @@ PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY24IX2N1
 BEGIN:VEVENT
-DTSTART:20240928T114000
-DTEND:20240928T131500
-SUMMARY:Ez (w)
-LOCATION:317 S
-DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240928T133000
-DTEND:20240928T150500
-SUMMARY:PGI (w)
-LOCATION:317 S
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240928T160000
-DTEND:20240928T173500
-SUMMARY:MD1 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Krzysztof Pszczoła
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240928T175000
-DTEND:20240928T192500
-SUMMARY:MD1 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Krzysztof Pszczoła
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240929T080000
-DTEND:20240929T093500
-SUMMARY:Wzp (w)
-LOCATION:317 S
-DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240929T095000
-DTEND:20240929T112500
-SUMMARY:Wzp (w)
-LOCATION:317 S
-DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240929T114000
-DTEND:20240929T131500
-SUMMARY:WdI (w)
-LOCATION:317 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr hab. inż. Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241005T080000
-DTEND:20241005T093500
-SUMMARY:Ez (w)
-LOCATION:317 S
-DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241005T095000
-DTEND:20241005T112500
-SUMMARY:Jo (ć)
-LOCATION:235 K
-DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/20\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241005T114000
-DTEND:20241005T131500
-SUMMARY:WdS (w)
-LOCATION:317 S
-DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: dr Ewa Łakoma
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241005T133000
-DTEND:20241005T150500
-SUMMARY:M1 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241005T160000
-DTEND:20241005T173500
-SUMMARY:M1 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241006T080000
-DTEND:20241006T093500
-SUMMARY:WDM (w)
-LOCATION:317 S
-DESCRIPTION:Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241006T095000
-DTEND:20241006T112500
-SUMMARY:PGI (w)
-LOCATION:317 S
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241006T114000
-DTEND:20241006T131500
-SUMMARY:WdI (w)
-LOCATION:317 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr hab. inż. Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241006T133000
-DTEND:20241006T150500
-SUMMARY:M1 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 3/9\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241006T160000
-DTEND:20241006T173500
-SUMMARY:M1 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 4/9\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241006T175000
-DTEND:20241006T192500
-SUMMARY:M1 (ć)
-LOCATION:317 S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/12\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241006T194000
-DTEND:20241006T211500
-SUMMARY:M1 (ć)
-LOCATION:317 S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/12\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241019T080000
-DTEND:20241019T093500
-SUMMARY:WdS (w)
-LOCATION:317 S
-DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: dr Ewa Łakoma
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241019T095000
-DTEND:20241019T112500
-SUMMARY:Jo (ć)
-LOCATION:235 K
-DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/20\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241019T114000
-DTEND:20241019T131500
-SUMMARY:M1 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 5/9\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241019T133000
-DTEND:20241019T150500
-SUMMARY:M1 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241019T160000
-DTEND:20241019T173500
-SUMMARY:MD1 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Krzysztof Pszczoła
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241019T175000
-DTEND:20241019T192500
-SUMMARY:MD1 (ć)
-LOCATION:313 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: dr inż. Krzysztof Pszczoła
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241020T080000
-DTEND:20241020T093500
-SUMMARY:WDM (w)
-LOCATION:317 S
-DESCRIPTION:Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241020T095000
-DTEND:20241020T112500
-SUMMARY:WdI (w)
-LOCATION:317 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr hab. inż. Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241020T114000
-DTEND:20241020T131500
-SUMMARY:PGI (ć)
-LOCATION:313 S
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241020T133000
-DTEND:20241020T150500
-SUMMARY:M1 (ć)
-LOCATION:201 65
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/12\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241020T160000
-DTEND:20241020T173500
-SUMMARY:M1 (ć)
-LOCATION:201 65
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/12\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241026T080000
-DTEND:20241026T093500
-SUMMARY:WdS (w)
-LOCATION:317 S
-DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr Ewa Łakoma
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241026T095000
-DTEND:20241026T112500
-SUMMARY:Jo (ć)
-LOCATION:235 K
-DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/20\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241026T114000
-DTEND:20241026T131500
-SUMMARY:M1 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241026T133000
-DTEND:20241026T150500
-SUMMARY:M1 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241026T160000
-DTEND:20241026T173500
-SUMMARY:MD1 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Krzysztof Pszczoła
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241026T175000
-DTEND:20241026T192500
-SUMMARY:M1 (ć)
-LOCATION:317 S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/12\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241026T194000
-DTEND:20241026T211500
-SUMMARY:M1 (ć)
-LOCATION:317 S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/12\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241027T080000
-DTEND:20241027T093500
-SUMMARY:WDM (w)
-LOCATION:317 S
-DESCRIPTION:Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241027T095000
-DTEND:20241027T112500
-SUMMARY:PGI (w)
-LOCATION:317 S
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241027T114000
-DTEND:20241027T131500
-SUMMARY:WdI (L)
-LOCATION:236 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: dr inż. Paweł Moszczyński
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241027T133000
-DTEND:20241027T150500
-SUMMARY:WdI (L)
-LOCATION:236 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: dr inż. Paweł Moszczyński
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241027T160000
-DTEND:20241027T173500
-SUMMARY:M1 (ć)
-LOCATION:317 S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/12\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241027T175000
-DTEND:20241027T192500
-SUMMARY:M1 (ć)
-LOCATION:317 S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/12\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241109T095000
-DTEND:20241109T112500
-SUMMARY:Jo (ć)
-LOCATION:235 K
-DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/20\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241109T114000
-DTEND:20241109T131500
-SUMMARY:Ez (w)
-LOCATION:317 S
-DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241109T133000
-DTEND:20241109T150500
-SUMMARY:M1 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241109T160000
-DTEND:20241109T173500
-SUMMARY:PGI (ć)
-LOCATION:307 S
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241109T175000
-DTEND:20241109T192500
-SUMMARY:M1 (ć)
-LOCATION:317 S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/12\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241109T194000
-DTEND:20241109T211500
-SUMMARY:M1 (ć)
-LOCATION:317 S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/12\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241110T080000
-DTEND:20241110T093500
-SUMMARY:WdI (w)
-LOCATION:317 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr hab. inż. Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241110T095000
-DTEND:20241110T112500
-SUMMARY:PGI (w)
-LOCATION:317 S
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241110T114000
-DTEND:20241110T131500
-SUMMARY:Owi (w)
-LOCATION:317 S
-DESCRIPTION:Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241110T133000
-DTEND:20241110T150500
-SUMMARY:Owi (w)
-LOCATION:317 S
-DESCRIPTION:Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241123T080000
-DTEND:20241123T093500
-SUMMARY:WDM (w)
-LOCATION:317 S
-DESCRIPTION:Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241123T095000
-DTEND:20241123T112500
-SUMMARY:Jo (ć)
-LOCATION:235 K
-DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/20\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241123T114000
-DTEND:20241123T131500
-SUMMARY:Mat2 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241123T133000
-DTEND:20241123T150500
-SUMMARY:Mat2 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241123T160000
-DTEND:20241123T173500
-SUMMARY:Ez (w)
-LOCATION:317 S
-DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241124T080000
-DTEND:20241124T093500
-SUMMARY:Wzp (w)
-LOCATION:317 S
-DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241124T095000
-DTEND:20241124T112500
-SUMMARY:Wzp (w)
-LOCATION:317 S
-DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241124T114000
-DTEND:20241124T131500
-SUMMARY:Owi (w)
-LOCATION:317 S
-DESCRIPTION:Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241124T133000
-DTEND:20241124T150500
-SUMMARY:Owi (w)
-LOCATION:317 S
-DESCRIPTION:Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241124T160000
-DTEND:20241124T173500
-SUMMARY:MD1 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr Monika Pszczoła
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241124T175000
-DTEND:20241124T192500
-SUMMARY:MD1 (ć)
-LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: dr Monika Pszczoła
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241124T194000
-DTEND:20241124T211500
-SUMMARY:WDM (ć)
-LOCATION:11/ 34
-DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241207T080000
-DTEND:20241207T093500
-SUMMARY:Ez (w)
-LOCATION:317 S
-DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241207T095000
-DTEND:20241207T112500
-SUMMARY:Jo (ć)
-LOCATION:235 K
-DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/20\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241207T114000
-DTEND:20241207T131500
-SUMMARY:Mat2 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241207T133000
-DTEND:20241207T150500
-SUMMARY:Mat2 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241207T160000
-DTEND:20241207T173500
-SUMMARY:PGI (ć)
-LOCATION:307 S
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241207T175000
-DTEND:20241207T192500
-SUMMARY:Mat2 (ć)
-LOCATION:317 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/11\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241207T194000
-DTEND:20241207T211500
-SUMMARY:Mat2 (ć)
-LOCATION:317 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/11\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241208T080000
-DTEND:20241208T093500
-SUMMARY:Mat2 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241208T095000
-DTEND:20241208T112500
-SUMMARY:Mat2 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241208T114000
-DTEND:20241208T131500
-SUMMARY:M1 (ć)
-LOCATION:317 S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/12\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241208T133000
-DTEND:20241208T150500
-SUMMARY:M1 (ć)
-LOCATION:317 S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/12\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241208T160000
-DTEND:20241208T173500
-SUMMARY:WDM (ć)
-LOCATION:11/ 34
-DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241221T080000
-DTEND:20241221T093500
-SUMMARY:MD1 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 6/5\nProwadzący: dr inż. Krzysztof Pszczoła
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241221T095000
-DTEND:20241221T112500
-SUMMARY:Jo (ć)
-LOCATION:235 K
-DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/20\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241221T114000
-DTEND:20241221T131500
-SUMMARY:Mat2 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241221T133000
-DTEND:20241221T150500
-SUMMARY:Mat2 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241221T160000
-DTEND:20241221T173500
-SUMMARY:WdI (L)
-LOCATION:236 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: dr inż. Paweł Moszczyński
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241221T175000
-DTEND:20241221T192500
-SUMMARY:WdI (L)
-LOCATION:236 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: dr inż. Paweł Moszczyński
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241222T080000
-DTEND:20241222T093500
-SUMMARY:Owi (ć)
-LOCATION:309 S
-DESCRIPTION:Ochrona własności intelektualnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241222T095000
-DTEND:20241222T112500
-SUMMARY:MD1 (ć)
-LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: dr inż. Krzysztof Pszczoła
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241222T114000
-DTEND:20241222T131500
-SUMMARY:Wzp (ć)
-LOCATION:309 S
-DESCRIPTION:Wybrane zagadnienia prawa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241222T133000
-DTEND:20241222T150500
-SUMMARY:PGI (ć)
-LOCATION:309 S
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241222T160000
-DTEND:20241222T173500
-SUMMARY:Mat2 (ć)
-LOCATION:317 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/11\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241222T175000
-DTEND:20241222T192500
-SUMMARY:Ez (ć)
-LOCATION:307 S
-DESCRIPTION:Etyka zawodowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250111T095000
-DTEND:20250111T112500
-SUMMARY:Jo (ć)
-LOCATION:235 K
-DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/20\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250111T114000
-DTEND:20250111T131500
-SUMMARY:Mat2 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250111T133000
-DTEND:20250111T150500
-SUMMARY:Mat2 (w)
-LOCATION:317 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250111T160000
-DTEND:20250111T173500
-SUMMARY:PGI (ć)
-LOCATION:7/ 62
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250111T175000
-DTEND:20250111T192500
-SUMMARY:Mat2 (ć)
-LOCATION:317 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/11\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250111T194000
-DTEND:20250111T211500
-SUMMARY:Mat2 (ć)
-LOCATION:317 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/11\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250112T095000
-DTEND:20250112T112500
-SUMMARY:WDM (ć)
-LOCATION:11/ 34
-DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250112T114000
-DTEND:20250112T131500
-SUMMARY:WdI (L)
-LOCATION:236 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: dr inż. Paweł Moszczyński
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250112T133000
-DTEND:20250112T150500
-SUMMARY:Mat2 (ć)
-LOCATION:317 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/11\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250112T160000
-DTEND:20250112T173500
-SUMMARY:Mat2 (ć)
-LOCATION:317 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/11\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250118T080000
-DTEND:20250118T093500
-SUMMARY:Jo (ć)
-LOCATION:235 K
-DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/20\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250118T095000
-DTEND:20250118T112500
-SUMMARY:Jo (ć)
-LOCATION:235 K
-DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/20\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250118T114000
-DTEND:20250118T131500
-SUMMARY:WdI (L)
-LOCATION:239 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr inż. Paweł Moszczyński
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250118T160000
-DTEND:20250118T173500
-SUMMARY:PGI (ć)
-LOCATION:309 S
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250118T175000
-DTEND:20250118T192500
-SUMMARY:Mat2 (ć)
-LOCATION:317 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/11\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250118T194000
-DTEND:20250118T211500
-SUMMARY:Mat2 (ć)
-LOCATION:317 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/11\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250119T095000
-DTEND:20250119T112500
-SUMMARY:WDM (ć)
-LOCATION:11/ 34
-DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250119T114000
-DTEND:20250119T131500
-SUMMARY:MD1 (ć)
-LOCATION:307 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/3\nProwadzący: dr inż. Krzysztof Pszczoła
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250119T133000
-DTEND:20250119T150500
-SUMMARY:Mat2 (ć)
-LOCATION:317 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/11\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250119T160000
-DTEND:20250119T173500
-SUMMARY:Mat2 (ć)
-LOCATION:317 S
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/11\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250201T095000
-DTEND:20250201T112500
-SUMMARY:M1 (E)
-LOCATION:203 65
-DESCRIPTION:Matematyka 1\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250202T095000
-DTEND:20250202T112500
-SUMMARY:MD1 (Inne)
-LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Krzysztof Pszczoła
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250202T114000
-DTEND:20250202T131500
-SUMMARY:WdI (Inne)
-LOCATION:309 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr hab. inż. Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250208T095000
-DTEND:20250208T112500
-SUMMARY:Mat2 (E)
-LOCATION:203 65
-DESCRIPTION:Matematyka 2\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250215T095000
-DTEND:20250215T112500
-SUMMARY:M1 (Inne)
-LOCATION:203 65
-DESCRIPTION:Matematyka 1\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250215T114000
-DTEND:20250215T131500
-SUMMARY:Mat2 (Inne)
-LOCATION:203 65
-DESCRIPTION:Matematyka 2\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250216T095000
-DTEND:20250216T112500
-SUMMARY:MD1 (Inne)
-LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Krzysztof Pszczoła
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250216T114000
-DTEND:20250216T131500
-SUMMARY:WdI (Inne)
-LOCATION:309 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. inż. Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250301T095000
 DTEND:20250301T112500
 SUMMARY:Jo (ć)
 LOCATION:235 K
-DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/20\nProwadzący: -
+DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250301T114000
@@ -918,7 +99,7 @@ DTSTART:20250308T095000
 DTEND:20250308T112500
 SUMMARY:Jo (ć)
 LOCATION:235 K
-DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/20\nProwadzący: -
+DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250308T114000
@@ -1247,7 +428,7 @@ DTSTART:20250405T095000
 DTEND:20250405T112500
 SUMMARY:Jo (ć)
 LOCATION:235 K
-DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/20\nProwadzący: -
+DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250405T114000
@@ -1317,7 +498,7 @@ DTSTART:20250412T095000
 DTEND:20250412T112500
 SUMMARY:Jo (ć)
 LOCATION:235 K
-DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/20\nProwadzący: -
+DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250412T114000
@@ -1408,7 +589,7 @@ DTSTART:20250426T095000
 DTEND:20250426T112500
 SUMMARY:Jo (ć)
 LOCATION:235 K
-DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/20\nProwadzący: -
+DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250426T114000
@@ -1499,7 +680,7 @@ DTSTART:20250510T095000
 DTEND:20250510T112500
 SUMMARY:Jo (ć)
 LOCATION:235 K
-DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/20\nProwadzący: -
+DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250510T114000
@@ -1576,7 +757,7 @@ DTSTART:20250517T095000
 DTEND:20250517T112500
 SUMMARY:Jo (ć)
 LOCATION:235 K
-DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/20\nProwadzący: -
+DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250517T114000
@@ -1660,7 +841,7 @@ DTSTART:20250524T095000
 DTEND:20250524T112500
 SUMMARY:Jo (ć)
 LOCATION:235 K
-DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/20\nProwadzący: -
+DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T114000
@@ -1842,7 +1023,7 @@ DTSTART:20250607T095000
 DTEND:20250607T112500
 SUMMARY:Jo (ć)
 LOCATION:235 K
-DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/20\nProwadzący: -
+DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250607T114000
@@ -1919,7 +1100,7 @@ DTSTART:20250614T095000
 DTEND:20250614T112500
 SUMMARY:Jo (ć)
 LOCATION:235 K
-DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20/20\nProwadzący: -
+DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T114000
@@ -2074,5 +1255,1286 @@ DTEND:20250921T112500
 SUMMARY:ppk (Inne)
 LOCATION:106 65
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251004T080000
+DTEND:20251004T093500
+SUMMARY:Aok (w)
+LOCATION:203 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251004T095000
+DTEND:20251004T112500
+SUMMARY:Aok (w)
+LOCATION:203 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251004T114000
+DTEND:20251004T131500
+SUMMARY:Swb (w)
+LOCATION:203 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251004T133000
+DTEND:20251004T150500
+SUMMARY:Bd (w)
+LOCATION:308 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251004T160000
+DTEND:20251004T173500
+SUMMARY:Bd (w)
+LOCATION:308 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251004T175000
+DTEND:20251004T192500
+SUMMARY:Sm (w)
+LOCATION:203 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251005T080000
+DTEND:20251005T093500
+SUMMARY:SO (w)
+LOCATION:203 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251005T095000
+DTEND:20251005T112500
+SUMMARY:SO (w)
+LOCATION:203 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251005T114000
+DTEND:20251005T131500
+SUMMARY:Po (w)
+LOCATION:308 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251005T133000
+DTEND:20251005T150500
+SUMMARY:Po (w)
+LOCATION:308 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251011T080000
+DTEND:20251011T093500
+SUMMARY:Als (w)
+LOCATION:308 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251011T095000
+DTEND:20251011T112500
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251011T114000
+DTEND:20251011T131500
+SUMMARY:Swb (w)
+LOCATION:203 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251011T133000
+DTEND:20251011T150500
+SUMMARY:Swb (w)
+LOCATION:203 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251011T175000
+DTEND:20251011T192500
+SUMMARY:Sm (w)
+LOCATION:203 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251012T080000
+DTEND:20251012T093500
+SUMMARY:Aok (w)
+LOCATION:203 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251012T095000
+DTEND:20251012T112500
+SUMMARY:Aok (w)
+LOCATION:203 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251012T114000
+DTEND:20251012T131500
+SUMMARY:Bd (w)
+LOCATION:308 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251012T133000
+DTEND:20251012T150500
+SUMMARY:Bd (w)
+LOCATION:308 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251012T160000
+DTEND:20251012T173500
+SUMMARY:Po (w)
+LOCATION:308 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251012T175000
+DTEND:20251012T192500
+SUMMARY:Po (w)
+LOCATION:308 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251018T080000
+DTEND:20251018T093500
+SUMMARY:Als (w)
+LOCATION:308 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251018T095000
+DTEND:20251018T112500
+SUMMARY:Swb (w)
+LOCATION:203 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251018T114000
+DTEND:20251018T131500
+SUMMARY:Swb (w)
+LOCATION:203 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251018T133000
+DTEND:20251018T150500
+SUMMARY:Sm (w)
+LOCATION:203 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251018T160000
+DTEND:20251018T173500
+SUMMARY:Sm (w)
+LOCATION:203 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251018T175000
+DTEND:20251018T192500
+SUMMARY:Po (w)
+LOCATION:308 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251018T194000
+DTEND:20251018T211500
+SUMMARY:Po (w)
+LOCATION:308 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251019T080000
+DTEND:20251019T093500
+SUMMARY:Aok (w)
+LOCATION:203 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251019T095000
+DTEND:20251019T112500
+SUMMARY:Aok (w)
+LOCATION:203 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251019T114000
+DTEND:20251019T131500
+SUMMARY:SO (w)
+LOCATION:203 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 3/9\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251019T133000
+DTEND:20251019T150500
+SUMMARY:SO (w)
+LOCATION:203 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 4/9\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251019T160000
+DTEND:20251019T173500
+SUMMARY:Aok (L)
+LOCATION:106 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251019T175000
+DTEND:20251019T192500
+SUMMARY:Aok (L)
+LOCATION:106 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T080000
+DTEND:20251025T093500
+SUMMARY:Als (w)
+LOCATION:308 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T095000
+DTEND:20251025T112500
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T114000
+DTEND:20251025T131500
+SUMMARY:Swb (w)
+LOCATION:203 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T133000
+DTEND:20251025T150500
+SUMMARY:Swb (w)
+LOCATION:203 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T160000
+DTEND:20251025T173500
+SUMMARY:FII (w)
+LOCATION:aF S
+DESCRIPTION:Fizyka II - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T175000
+DTEND:20251025T192500
+SUMMARY:FII (w)
+LOCATION:aF S
+DESCRIPTION:Fizyka II - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T194000
+DTEND:20251025T211500
+SUMMARY:SO (L)
+LOCATION:121 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251026T080000
+DTEND:20251026T093500
+SUMMARY:Aok (w)
+LOCATION:203 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251026T095000
+DTEND:20251026T112500
+SUMMARY:Aok (w)
+LOCATION:203 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251026T114000
+DTEND:20251026T131500
+SUMMARY:Bd (w)
+LOCATION:308 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251026T133000
+DTEND:20251026T150500
+SUMMARY:Bd (w)
+LOCATION:308 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251026T160000
+DTEND:20251026T173500
+SUMMARY:Po (L)
+LOCATION:228 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/11\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251026T175000
+DTEND:20251026T192500
+SUMMARY:Po (L)
+LOCATION:228 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/11\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251108T080000
+DTEND:20251108T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 29/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251108T095000
+DTEND:20251108T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 30/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251108T114000
+DTEND:20251108T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 31/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251108T133000
+DTEND:20251108T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 32/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251108T160000
+DTEND:20251108T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 33/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251108T175000
+DTEND:20251108T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 34/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251108T194000
+DTEND:20251108T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 35/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251109T080000
+DTEND:20251109T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 36/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251109T095000
+DTEND:20251109T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 37/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251109T114000
+DTEND:20251109T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 38/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251109T133000
+DTEND:20251109T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 39/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251109T160000
+DTEND:20251109T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 40/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251109T175000
+DTEND:20251109T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 41/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251109T194000
+DTEND:20251109T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 42/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251115T080000
+DTEND:20251115T093500
+SUMMARY:Als (w)
+LOCATION:308 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251115T095000
+DTEND:20251115T112500
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251115T114000
+DTEND:20251115T131500
+SUMMARY:SO (w)
+LOCATION:203 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 5/9\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251115T133000
+DTEND:20251115T150500
+SUMMARY:SO (w)
+LOCATION:203 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251115T160000
+DTEND:20251115T173500
+SUMMARY:FII (w)
+LOCATION:aF S
+DESCRIPTION:Fizyka II - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251115T175000
+DTEND:20251115T192500
+SUMMARY:FII (w)
+LOCATION:aF S
+DESCRIPTION:Fizyka II - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251116T080000
+DTEND:20251116T093500
+SUMMARY:Bd (L)
+LOCATION:228 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251116T095000
+DTEND:20251116T112500
+SUMMARY:Bd (L)
+LOCATION:228 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251116T114000
+DTEND:20251116T131500
+SUMMARY:FII (ć)
+LOCATION:308 S
+DESCRIPTION:Fizyka II - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251116T133000
+DTEND:20251116T150500
+SUMMARY:FII (ć)
+LOCATION:308 S
+DESCRIPTION:Fizyka II - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251116T160000
+DTEND:20251116T173500
+SUMMARY:Aok (L)
+LOCATION:106 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251116T175000
+DTEND:20251116T192500
+SUMMARY:Aok (L)
+LOCATION:106 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251116T194000
+DTEND:20251116T211500
+SUMMARY:SO (L)
+LOCATION:121 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251122T080000
+DTEND:20251122T093500
+SUMMARY:Als (w)
+LOCATION:308 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251122T095000
+DTEND:20251122T112500
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251122T114000
+DTEND:20251122T131500
+SUMMARY:SO (w)
+LOCATION:203 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251122T133000
+DTEND:20251122T150500
+SUMMARY:SO (w)
+LOCATION:203 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251122T160000
+DTEND:20251122T173500
+SUMMARY:FII (w)
+LOCATION:aF S
+DESCRIPTION:Fizyka II - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251122T175000
+DTEND:20251122T192500
+SUMMARY:FII (w)
+LOCATION:aF S
+DESCRIPTION:Fizyka II - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251122T194000
+DTEND:20251122T211500
+SUMMARY:SO (L)
+LOCATION:121 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251123T080000
+DTEND:20251123T093500
+SUMMARY:Po (L)
+LOCATION:228 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/11\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251123T095000
+DTEND:20251123T112500
+SUMMARY:Po (L)
+LOCATION:228 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251123T114000
+DTEND:20251123T131500
+SUMMARY:FII (ć)
+LOCATION:308 S
+DESCRIPTION:Fizyka II - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251123T133000
+DTEND:20251123T150500
+SUMMARY:FII (ć)
+LOCATION:308 S
+DESCRIPTION:Fizyka II - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251123T160000
+DTEND:20251123T173500
+SUMMARY:FII (L)
+LOCATION:139 S 141 S
+DESCRIPTION:Fizyka II - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251123T175000
+DTEND:20251123T192500
+SUMMARY:Als (L)
+LOCATION:228 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Piotr Adamczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251123T194000
+DTEND:20251123T211500
+SUMMARY:Als (L)
+LOCATION:228 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Piotr Adamczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251129T080000
+DTEND:20251129T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 43/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251129T095000
+DTEND:20251129T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 44/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251129T114000
+DTEND:20251129T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 45/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251129T133000
+DTEND:20251129T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 46/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251129T160000
+DTEND:20251129T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 47/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251129T175000
+DTEND:20251129T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 48/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251129T194000
+DTEND:20251129T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 49/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251130T080000
+DTEND:20251130T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 50/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251130T095000
+DTEND:20251130T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 51/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251130T114000
+DTEND:20251130T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 52/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251130T133000
+DTEND:20251130T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 53/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251130T160000
+DTEND:20251130T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 54/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251130T175000
+DTEND:20251130T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 55/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251130T194000
+DTEND:20251130T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 56/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251206T080000
+DTEND:20251206T093500
+SUMMARY:Als (w)
+LOCATION:314 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251206T095000
+DTEND:20251206T112500
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251206T114000
+DTEND:20251206T131500
+SUMMARY:Swb (L)
+LOCATION:09 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251206T133000
+DTEND:20251206T150500
+SUMMARY:Swb (L)
+LOCATION:09 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251206T160000
+DTEND:20251206T173500
+SUMMARY:FII (w)
+LOCATION:aF S
+DESCRIPTION:Fizyka II - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251206T175000
+DTEND:20251206T192500
+SUMMARY:FII (w)
+LOCATION:aF S
+DESCRIPTION:Fizyka II - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251206T194000
+DTEND:20251206T211500
+SUMMARY:SO (L)
+LOCATION:121 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251207T080000
+DTEND:20251207T093500
+SUMMARY:Bd (L)
+LOCATION:228 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251207T095000
+DTEND:20251207T112500
+SUMMARY:Bd (L)
+LOCATION:228 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251207T114000
+DTEND:20251207T131500
+SUMMARY:FII (ć)
+LOCATION:308 S
+DESCRIPTION:Fizyka II - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251207T133000
+DTEND:20251207T150500
+SUMMARY:FII (ć)
+LOCATION:308 S
+DESCRIPTION:Fizyka II - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251207T160000
+DTEND:20251207T173500
+SUMMARY:FII (L)
+LOCATION:139 S 141 S
+DESCRIPTION:Fizyka II - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251207T175000
+DTEND:20251207T192500
+SUMMARY:Po (L)
+LOCATION:228 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/11\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251207T194000
+DTEND:20251207T211500
+SUMMARY:Po (L)
+LOCATION:228 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/11\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251213T080000
+DTEND:20251213T093500
+SUMMARY:SO (w)
+LOCATION:203 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251213T095000
+DTEND:20251213T112500
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251213T114000
+DTEND:20251213T131500
+SUMMARY:Sm (w)
+LOCATION:203 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251213T133000
+DTEND:20251213T150500
+SUMMARY:FII (w)
+LOCATION:aF S
+DESCRIPTION:Fizyka II - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251213T160000
+DTEND:20251213T173500
+SUMMARY:Sm (L)
+LOCATION:218 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251213T175000
+DTEND:20251213T192500
+SUMMARY:SO (L)
+LOCATION:121 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251214T080000
+DTEND:20251214T093500
+SUMMARY:Bd (ć)
+LOCATION:308 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251214T095000
+DTEND:20251214T112500
+SUMMARY:Bd (ć)
+LOCATION:308 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251214T114000
+DTEND:20251214T131500
+SUMMARY:Bd (ć)
+LOCATION:308 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251214T133000
+DTEND:20251214T150500
+SUMMARY:Po (L)
+LOCATION:228 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/11\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251214T175000
+DTEND:20251214T192500
+SUMMARY:Als (L)
+LOCATION:228 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Piotr Adamczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251214T194000
+DTEND:20251214T211500
+SUMMARY:Als (L)
+LOCATION:228 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Piotr Adamczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251220T080000
+DTEND:20251220T093500
+SUMMARY:Po (w)
+LOCATION:308 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251220T095000
+DTEND:20251220T112500
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251220T114000
+DTEND:20251220T131500
+SUMMARY:Sm (L)
+LOCATION:218 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251220T133000
+DTEND:20251220T150500
+SUMMARY:FII (ć)
+LOCATION:308 S
+DESCRIPTION:Fizyka II - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251220T160000
+DTEND:20251220T173500
+SUMMARY:Sm (w)
+LOCATION:203 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251220T175000
+DTEND:20251220T192500
+SUMMARY:Bd (ć)
+LOCATION:252 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251221T080000
+DTEND:20251221T093500
+SUMMARY:SO (L)
+LOCATION:121 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251221T095000
+DTEND:20251221T112500
+SUMMARY:Bd (L)
+LOCATION:228 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251221T114000
+DTEND:20251221T131500
+SUMMARY:Bd (L)
+LOCATION:228 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251221T133000
+DTEND:20251221T150500
+SUMMARY:FII (L)
+LOCATION:139 S 141 S
+DESCRIPTION:Fizyka II - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251221T160000
+DTEND:20251221T173500
+SUMMARY:FII (L)
+LOCATION:139 S 141 S
+DESCRIPTION:Fizyka II - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260110T080000
+DTEND:20260110T093500
+SUMMARY:SO (L)
+LOCATION:121 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260110T095000
+DTEND:20260110T112500
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260110T114000
+DTEND:20260110T131500
+SUMMARY:Sm (L)
+LOCATION:218 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260110T133000
+DTEND:20260110T150500
+SUMMARY:Swb (L)
+LOCATION:09 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260110T160000
+DTEND:20260110T173500
+SUMMARY:Swb (L)
+LOCATION:09 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260111T095000
+DTEND:20260111T112500
+SUMMARY:FII (L)
+LOCATION:139 S 141 S
+DESCRIPTION:Fizyka II - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260111T114000
+DTEND:20260111T131500
+SUMMARY:Po (L)
+LOCATION:228 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/11\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260111T133000
+DTEND:20260111T150500
+SUMMARY:Po (L)
+LOCATION:228 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/11\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260111T160000
+DTEND:20260111T173500
+SUMMARY:Aok (L)
+LOCATION:106 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260111T175000
+DTEND:20260111T192500
+SUMMARY:Aok (L)
+LOCATION:106 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260111T194000
+DTEND:20260111T211500
+SUMMARY:Bd (L)
+LOCATION:228 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260117T080000
+DTEND:20260117T093500
+SUMMARY:SO (L)
+LOCATION:121 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260117T095000
+DTEND:20260117T112500
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260117T114000
+DTEND:20260117T131500
+SUMMARY:Sm (L)
+LOCATION:218 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260117T133000
+DTEND:20260117T150500
+SUMMARY:Swb (L)
+LOCATION:09 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260117T160000
+DTEND:20260117T173500
+SUMMARY:Swb (L)
+LOCATION:09 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260117T175000
+DTEND:20260117T192500
+SUMMARY:Als (L)
+LOCATION:228 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Piotr Adamczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260117T194000
+DTEND:20260117T211500
+SUMMARY:Als (L)
+LOCATION:228 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Piotr Adamczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260118T133000
+DTEND:20260118T150500
+SUMMARY:Aok (L)
+LOCATION:106 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260118T160000
+DTEND:20260118T173500
+SUMMARY:Aok (L)
+LOCATION:106 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260118T175000
+DTEND:20260118T192500
+SUMMARY:Po (L)
+LOCATION:228 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/11\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260118T194000
+DTEND:20260118T211500
+SUMMARY:Po (L)
+LOCATION:228 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/11\nProwadzący: mgr inż. Tomasz Derski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260124T080000
+DTEND:20260124T093500
+SUMMARY:SO (L)
+LOCATION:121 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260124T095000
+DTEND:20260124T112500
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260124T114000
+DTEND:20260124T131500
+SUMMARY:Swb (L)
+LOCATION:09 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260124T133000
+DTEND:20260124T150500
+SUMMARY:Aok (L)
+LOCATION:106 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260124T160000
+DTEND:20260124T173500
+SUMMARY:Aok (L)
+LOCATION:106 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260125T095000
+DTEND:20260125T112500
+SUMMARY:Bd (L)
+LOCATION:316 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260125T133000
+DTEND:20260125T150500
+SUMMARY:Als (L)
+LOCATION:228 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Piotr Adamczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260125T160000
+DTEND:20260125T173500
+SUMMARY:Als (L)
+LOCATION:228 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Piotr Adamczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260131T080000
+DTEND:20260131T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 57/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260131T095000
+DTEND:20260131T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 58/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260131T114000
+DTEND:20260131T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 59/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260131T133000
+DTEND:20260131T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 60/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260131T160000
+DTEND:20260131T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 61/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260131T175000
+DTEND:20260131T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 62/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260131T194000
+DTEND:20260131T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 63/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260201T080000
+DTEND:20260201T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 64/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260201T095000
+DTEND:20260201T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 65/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260201T114000
+DTEND:20260201T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 66/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260201T133000
+DTEND:20260201T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 67/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260201T160000
+DTEND:20260201T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 68/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260201T175000
+DTEND:20260201T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 69/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260201T194000
+DTEND:20260201T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 70/1\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

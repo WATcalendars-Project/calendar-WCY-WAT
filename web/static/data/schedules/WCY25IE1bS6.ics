@@ -4,151 +4,25 @@ PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY25IE1bS6
 BEGIN:VEVENT
-DTSTART:20250217T080000
-DTEND:20250217T093500
-SUMMARY:Sws (Inne)
-LOCATION:-
-DESCRIPTION:Spotkanie organizacyjne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250217T095000
-DTEND:20250217T112500
-SUMMARY:Lan (w)
-LOCATION:203 65
-DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Tomasz Malinowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250218T080000
-DTEND:20250218T093500
-SUMMARY:Bst (w)
-LOCATION:203 65
-DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr hab. inż. Maciej Marczyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250218T095000
-DTEND:20250218T112500
-SUMMARY:Bst (w)
-LOCATION:203 65
-DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr hab. inż. Maciej Marczyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250219T080000
-DTEND:20250219T093500
-SUMMARY:AsU (w)
-LOCATION:203 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250219T095000
-DTEND:20250219T112500
-SUMMARY:AsU (w)
-LOCATION:203 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250219T114000
-DTEND:20250219T131500
-SUMMARY:Rsk (w)
-LOCATION:203 65
-DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Tomasz Malinowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250220T080000
-DTEND:20250220T093500
-SUMMARY:StS (w)
-LOCATION:203 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr hab. inż. Maciej Marczyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250220T095000
-DTEND:20250220T112500
-SUMMARY:StS (w)
-LOCATION:203 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr hab. inż. Maciej Marczyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250221T080000
-DTEND:20250221T093500
-SUMMARY:Rsk (w)
-LOCATION:203 65
-DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Tomasz Malinowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250221T095000
-DTEND:20250221T112500
-SUMMARY:Lan (w)
-LOCATION:-
-DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Tomasz Malinowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250224T080000
-DTEND:20250224T093500
-SUMMARY:Lan (w)
-LOCATION:203 65
-DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Tomasz Malinowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250224T095000
-DTEND:20250224T112500
-SUMMARY:Lan (L)
-LOCATION:121 65
-DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250224T114000
-DTEND:20250224T131500
-SUMMARY:Lan (L)
-LOCATION:121 65
-DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250225T080000
-DTEND:20250225T093500
-SUMMARY:Bst (w)
-LOCATION:203 65
-DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr hab. inż. Maciej Marczyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250225T095000
-DTEND:20250225T112500
-SUMMARY:Bst (w)
-LOCATION:203 65
-DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr hab. inż. Maciej Marczyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250225T114000
-DTEND:20250225T131500
-SUMMARY:Rsk (L)
-LOCATION:120 65
-DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250225T133000
-DTEND:20250225T150500
-SUMMARY:Rsk (L)
-LOCATION:120 65
-DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250226T080000
 DTEND:20250226T093500
 SUMMARY:Rsk (w)
 LOCATION:203 65
-DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250226T095000
 DTEND:20250226T112500
 SUMMARY:Lan (L)
 LOCATION:125 65
-DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250226T114000
 DTEND:20250226T131500
 SUMMARY:Lan (L)
 LOCATION:125 65
-DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250227T080000
@@ -169,56 +43,56 @@ DTSTART:20250227T114000
 DTEND:20250227T131500
 SUMMARY:Lan (L)
 LOCATION:125 65
-DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250227T133000
 DTEND:20250227T150500
 SUMMARY:Lan (L)
 LOCATION:125 65
-DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250228T080000
 DTEND:20250228T093500
 SUMMARY:Rsk (w)
 LOCATION:203 65
-DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T080000
 DTEND:20250303T093500
 SUMMARY:Lan (w)
 LOCATION:203 65
-DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T080000
 DTEND:20250304T093500
 SUMMARY:Bst (w)
 LOCATION:203 65
-DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr hab. inż. Maciej Marczyk
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T095000
 DTEND:20250304T112500
 SUMMARY:Bst (w)
 LOCATION:203 65
-DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr hab. inż. Maciej Marczyk
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T114000
 DTEND:20250304T131500
 SUMMARY:Rsk (L)
 LOCATION:120 65
-DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T133000
 DTEND:20250304T150500
 SUMMARY:Rsk (L)
 LOCATION:120 65
-DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T114000
@@ -232,14 +106,14 @@ DTSTART:20250306T080000
 DTEND:20250306T093500
 SUMMARY:StS (w)
 LOCATION:203 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr hab. inż. Maciej Marczyk
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T095000
 DTEND:20250306T112500
 SUMMARY:StS (w)
 LOCATION:203 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Maciej Marczyk
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T114000
@@ -267,42 +141,42 @@ DTSTART:20250310T080000
 DTEND:20250310T093500
 SUMMARY:Lan (w)
 LOCATION:203 65
-DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T080000
 DTEND:20250311T093500
 SUMMARY:Bst (w)
 LOCATION:203 65
-DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr hab. inż. Maciej Marczyk
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T095000
 DTEND:20250311T112500
 SUMMARY:Bst (w)
 LOCATION:203 65
-DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr hab. inż. Maciej Marczyk
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T114000
 DTEND:20250311T131500
 SUMMARY:Rsk (L)
 LOCATION:120 65
-DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T133000
 DTEND:20250311T150500
 SUMMARY:Rsk (L)
 LOCATION:120 65
-DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T080000
 DTEND:20250312T093500
 SUMMARY:Rsk (w)
 LOCATION:203 65
-DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T095000
@@ -316,14 +190,14 @@ DTSTART:20250312T114000
 DTEND:20250312T131500
 SUMMARY:Lan (L)
 LOCATION:121 65
-DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T133000
 DTEND:20250312T150500
 SUMMARY:Lan (L)
 LOCATION:121 65
-DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T080000
@@ -358,49 +232,49 @@ DTSTART:20250317T160000
 DTEND:20250317T173500
 SUMMARY:StS (w)
 LOCATION:203 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Maciej Marczyk
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T080000
 DTEND:20250318T093500
 SUMMARY:Bst (w)
 LOCATION:203 65
-DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr hab. inż. Maciej Marczyk
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T095000
 DTEND:20250318T112500
 SUMMARY:Bst (w)
 LOCATION:203 65
-DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr hab. inż. Maciej Marczyk
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T114000
 DTEND:20250318T131500
 SUMMARY:Rsk (L)
 LOCATION:120 65
-DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T133000
 DTEND:20250318T150500
 SUMMARY:Rsk (L)
 LOCATION:120 65
-DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T080000
 DTEND:20250319T093500
 SUMMARY:Lan (L)
 LOCATION:125 65
-DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T095000
 DTEND:20250319T112500
 SUMMARY:Lan (L)
 LOCATION:125 65
-DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T114000
@@ -414,14 +288,14 @@ DTSTART:20250320T095000
 DTEND:20250320T112500
 SUMMARY:Rsk (L)
 LOCATION:120 65
-DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T114000
 DTEND:20250320T131500
 SUMMARY:Rsk (L)
 LOCATION:120 65
-DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T133000
