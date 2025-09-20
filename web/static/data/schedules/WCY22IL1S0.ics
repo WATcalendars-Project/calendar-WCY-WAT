@@ -8,7 +8,7 @@ DTSTART:20250303T095000
 DTEND:20250303T112500
 SUMMARY:Hd (w)
 LOCATION:313 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T133000
@@ -85,14 +85,14 @@ DTSTART:20250305T114000
 DTEND:20250305T131500
 SUMMARY:ASI (w)
 LOCATION:252 S
-DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T160000
 DTEND:20250305T173500
 SUMMARY:Pjf (w)
 LOCATION:307 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T080000
@@ -106,14 +106,14 @@ DTSTART:20250306T095000
 DTEND:20250306T112500
 SUMMARY:Jtp (w)
 LOCATION:316 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T114000
 DTEND:20250306T131500
 SUMMARY:Jtp (w)
 LOCATION:316 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T133000
@@ -127,21 +127,21 @@ DTSTART:20250307T095000
 DTEND:20250307T112500
 SUMMARY:kck (w)
 LOCATION:308 S
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T114000
 DTEND:20250307T131500
 SUMMARY:SBD (w)
 LOCATION:308 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T133000
 DTEND:20250307T150500
 SUMMARY:SBD (w)
 LOCATION:308 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250308T080000
@@ -155,7 +155,7 @@ DTSTART:20250310T080000
 DTEND:20250310T093500
 SUMMARY:Spg (w)
 LOCATION:308 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T095000
@@ -225,14 +225,14 @@ DTSTART:20250312T160000
 DTEND:20250312T173500
 SUMMARY:Jtp (L)
 LOCATION:223 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T175000
 DTEND:20250312T192500
 SUMMARY:Jtp (L)
 LOCATION:223 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T080000
@@ -246,14 +246,14 @@ DTSTART:20250313T095000
 DTEND:20250313T112500
 SUMMARY:ASI (w)
 LOCATION:314 S
-DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T114000
 DTEND:20250313T131500
 SUMMARY:Wdis (w)
 LOCATION:252 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Jerzy Stanik
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T133000
@@ -267,28 +267,28 @@ DTSTART:20250314T080000
 DTEND:20250314T093500
 SUMMARY:Spg (w)
 LOCATION:314 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T095000
 DTEND:20250314T112500
 SUMMARY:kck (w)
 LOCATION:307 S
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T114000
 DTEND:20250314T131500
 SUMMARY:SBD (w)
 LOCATION:308 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T133000
 DTEND:20250314T150500
 SUMMARY:SBD (w)
 LOCATION:308 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250315T080000
@@ -302,7 +302,7 @@ DTSTART:20250317T114000
 DTEND:20250317T131500
 SUMMARY:Hd (w)
 LOCATION:309 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T133000
@@ -365,14 +365,14 @@ DTSTART:20250319T080000
 DTEND:20250319T093500
 SUMMARY:Spg (w)
 LOCATION:308 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T095000
 DTEND:20250319T112500
 SUMMARY:BwCP (w)
 LOCATION:19 36
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący:  Maciej Marczyk
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T114000
@@ -386,7 +386,7 @@ DTSTART:20250319T160000
 DTEND:20250319T173500
 SUMMARY:Pjf (w)
 LOCATION:307 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T080000
@@ -400,14 +400,14 @@ DTSTART:20250320T095000
 DTEND:20250320T112500
 SUMMARY:SBD (w)
 LOCATION:307 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T114000
 DTEND:20250320T131500
 SUMMARY:SBD (w)
 LOCATION:307 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T133000
@@ -421,14 +421,14 @@ DTSTART:20250321T114000
 DTEND:20250321T131500
 SUMMARY:Tal (w)
 LOCATION:309 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T133000
 DTEND:20250321T150500
 SUMMARY:Wdis (w)
 LOCATION:308 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Jerzy Stanik
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250322T080000
@@ -449,14 +449,14 @@ DTSTART:20250324T095000
 DTEND:20250324T112500
 SUMMARY:Hd (w)
 LOCATION:308 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T114000
 DTEND:20250324T131500
 SUMMARY:Tal (w)
 LOCATION:309 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T133000
@@ -491,14 +491,14 @@ DTSTART:20250325T133000
 DTEND:20250325T150500
 SUMMARY:Hd (L)
 LOCATION:223 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T160000
 DTEND:20250325T173500
 SUMMARY:Hd (L)
 LOCATION:223 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T175000
@@ -519,14 +519,14 @@ DTSTART:20250326T080000
 DTEND:20250326T093500
 SUMMARY:Spg (w)
 LOCATION:236 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T114000
 DTEND:20250326T131500
 SUMMARY:Wdis (w)
 LOCATION:309 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Jerzy Stanik
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T080000
@@ -540,14 +540,14 @@ DTSTART:20250327T095000
 DTEND:20250327T112500
 SUMMARY:Pjf (w)
 LOCATION:316 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T114000
 DTEND:20250327T131500
 SUMMARY:ASI (w)
 LOCATION:226 S
-DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T133000
@@ -575,28 +575,28 @@ DTSTART:20250328T095000
 DTEND:20250328T112500
 SUMMARY:kck (w)
 LOCATION:307 S
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T114000
 DTEND:20250328T131500
 SUMMARY:Tal (w)
 LOCATION:309 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T133000
 DTEND:20250328T150500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T160000
 DTEND:20250328T173500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250329T080000
@@ -617,14 +617,14 @@ DTSTART:20250331T095000
 DTEND:20250331T112500
 SUMMARY:Tal (w)
 LOCATION:308 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T114000
 DTEND:20250331T131500
 SUMMARY:Hd (w)
 LOCATION:314 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T133000
@@ -680,14 +680,14 @@ DTSTART:20250402T080000
 DTEND:20250402T093500
 SUMMARY:BwCP (w)
 LOCATION:19 36
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący:  Maciej Marczyk
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T095000
 DTEND:20250402T112500
 SUMMARY:Pjf (w)
 LOCATION:308 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T114000
@@ -701,7 +701,7 @@ DTSTART:20250402T133000
 DTEND:20250402T150500
 SUMMARY:ASI (w)
 LOCATION:308 S
-DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T080000
@@ -715,14 +715,14 @@ DTSTART:20250403T095000
 DTEND:20250403T112500
 SUMMARY:Jtp (w)
 LOCATION:313 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T114000
 DTEND:20250403T131500
 SUMMARY:Jtp (w)
 LOCATION:313 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T133000
@@ -736,49 +736,49 @@ DTSTART:20250403T160000
 DTEND:20250403T173500
 SUMMARY:Pjf (L)
 LOCATION:239 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Krzysztof Mierzejewski
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Krzysztof Mierzejewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T175000
 DTEND:20250403T192500
 SUMMARY:Pjf (L)
 LOCATION:239 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Krzysztof Mierzejewski
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Krzysztof Mierzejewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T080000
 DTEND:20250404T093500
 SUMMARY:Wdis (L)
 LOCATION:224 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Jarosław Napiórkowski
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Jarosław Napiórkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T095000
 DTEND:20250404T112500
 SUMMARY:Wdis (L)
 LOCATION:224 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Jarosław Napiórkowski
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Jarosław Napiórkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T114000
 DTEND:20250404T131500
 SUMMARY:Wdis (w)
 LOCATION:308 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Jerzy Stanik
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T133000
 DTEND:20250404T150500
 SUMMARY:ASI (L)
 LOCATION:227 S
-DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T160000
 DTEND:20250404T173500
 SUMMARY:ASI (L)
 LOCATION:227 S
-DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250405T080000
@@ -799,7 +799,7 @@ DTSTART:20250407T095000
 DTEND:20250407T112500
 SUMMARY:BwCP (ć)
 LOCATION:204 65
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący:  Leszek Kalman
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T133000
@@ -813,14 +813,14 @@ DTSTART:20250407T160000
 DTEND:20250407T173500
 SUMMARY:Tal (w)
 LOCATION:317 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T175000
 DTEND:20250407T192500
 SUMMARY:Tal (w)
 LOCATION:317 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T080000
@@ -876,21 +876,21 @@ DTSTART:20250409T080000
 DTEND:20250409T093500
 SUMMARY:BwCP (w)
 LOCATION:19 36
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący:  Maciej Marczyk
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T095000
 DTEND:20250409T112500
 SUMMARY:Pjf (w)
 LOCATION:313 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T114000
 DTEND:20250409T131500
 SUMMARY:ASI (w)
 LOCATION:307 S
-DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T133000
@@ -904,14 +904,14 @@ DTSTART:20250409T160000
 DTEND:20250409T173500
 SUMMARY:Jtp (L)
 LOCATION:224 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T175000
 DTEND:20250409T192500
 SUMMARY:Jtp (L)
 LOCATION:224 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T080000
@@ -925,7 +925,7 @@ DTSTART:20250410T095000
 DTEND:20250410T112500
 SUMMARY:Hd (w)
 LOCATION:309 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T133000
@@ -946,28 +946,28 @@ DTSTART:20250411T095000
 DTEND:20250411T112500
 SUMMARY:kck (w)
 LOCATION:307 S
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T114000
 DTEND:20250411T131500
 SUMMARY:Wdis (w)
 LOCATION:239 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Jerzy Stanik
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T133000
 DTEND:20250411T150500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T160000
 DTEND:20250411T173500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250412T080000
@@ -981,7 +981,7 @@ DTSTART:20250414T095000
 DTEND:20250414T112500
 SUMMARY:kck (w)
 LOCATION:307 S
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T133000
@@ -995,14 +995,14 @@ DTSTART:20250414T160000
 DTEND:20250414T173500
 SUMMARY:Spg (L)
 LOCATION:224 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T175000
 DTEND:20250414T192500
 SUMMARY:Spg (L)
 LOCATION:224 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T080000
@@ -1023,7 +1023,7 @@ DTSTART:20250415T133000
 DTEND:20250415T150500
 SUMMARY:ASI (L)
 LOCATION:228 S
-DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T194000
@@ -1037,7 +1037,7 @@ DTSTART:20250416T095000
 DTEND:20250416T112500
 SUMMARY:ASI (w)
 LOCATION:252 S
-DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T114000
@@ -1051,14 +1051,14 @@ DTSTART:20250416T133000
 DTEND:20250416T150500
 SUMMARY:Hd (L)
 LOCATION:252 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T160000
 DTEND:20250416T173500
 SUMMARY:Wdis (w)
 LOCATION:309 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Jerzy Stanik
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T080000
@@ -1072,7 +1072,7 @@ DTSTART:20250417T095000
 DTEND:20250417T112500
 SUMMARY:Hd (w)
 LOCATION:309 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T133000
@@ -1086,42 +1086,42 @@ DTSTART:20250423T080000
 DTEND:20250423T093500
 SUMMARY:Spg (w)
 LOCATION:252 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T095000
 DTEND:20250423T112500
 SUMMARY:Jtp (w)
 LOCATION:307 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T114000
 DTEND:20250423T131500
 SUMMARY:Hd (w)
 LOCATION:309 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T133000
 DTEND:20250423T150500
 SUMMARY:ASI (w)
 LOCATION:307 S
-DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T160000
 DTEND:20250423T173500
 SUMMARY:Jtp (L)
 LOCATION:226 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T175000
 DTEND:20250423T192500
 SUMMARY:Jtp (L)
 LOCATION:226 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T080000
@@ -1135,14 +1135,14 @@ DTSTART:20250424T095000
 DTEND:20250424T112500
 SUMMARY:BwCP (ć)
 LOCATION:204 65
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący:  Leszek Kalman
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T114000
 DTEND:20250424T131500
 SUMMARY:Hd (L)
 LOCATION:223 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T133000
@@ -1156,14 +1156,14 @@ DTSTART:20250424T160000
 DTEND:20250424T173500
 SUMMARY:Pjf (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Krzysztof Mierzejewski
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Krzysztof Mierzejewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T175000
 DTEND:20250424T192500
 SUMMARY:Pjf (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Krzysztof Mierzejewski
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Krzysztof Mierzejewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250426T080000
@@ -1177,14 +1177,14 @@ DTSTART:20250428T095000
 DTEND:20250428T112500
 SUMMARY:kck (w)
 LOCATION:307 S
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T114000
 DTEND:20250428T131500
 SUMMARY:Tal (L)
 LOCATION:223 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący:  Piotr Stąpor
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T133000
@@ -1205,7 +1205,7 @@ DTSTART:20250429T133000
 DTEND:20250429T150500
 SUMMARY:Wdis (w)
 LOCATION:252 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Jerzy Stanik
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T160000
@@ -1233,14 +1233,14 @@ DTSTART:20250430T095000
 DTEND:20250430T112500
 SUMMARY:Pjf (w)
 LOCATION:308 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T114000
 DTEND:20250430T131500
 SUMMARY:Tal (P)
 LOCATION:224 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 1/6\nProwadzący:  Piotr Stąpor
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 1/6\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T080000
@@ -1261,7 +1261,7 @@ DTSTART:20250505T114000
 DTEND:20250505T131500
 SUMMARY:ASI (L)
 LOCATION:224 S
-DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T133000
@@ -1275,14 +1275,14 @@ DTSTART:20250505T160000
 DTEND:20250505T173500
 SUMMARY:Spg (L)
 LOCATION:224 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T175000
 DTEND:20250505T192500
 SUMMARY:Spg (L)
 LOCATION:224 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T080000
@@ -1338,21 +1338,21 @@ DTSTART:20250507T080000
 DTEND:20250507T093500
 SUMMARY:Tal (P)
 LOCATION:237 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 2/6\nProwadzący:  Piotr Stąpor
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 2/6\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T114000
 DTEND:20250507T131500
 SUMMARY:Jtp (L)
 LOCATION:223 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T133000
 DTEND:20250507T150500
 SUMMARY:Jtp (L)
 LOCATION:223 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T080000
@@ -1373,42 +1373,42 @@ DTSTART:20250508T160000
 DTEND:20250508T173500
 SUMMARY:Spg (L)
 LOCATION:224 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T175000
 DTEND:20250508T192500
 SUMMARY:Spg (L)
 LOCATION:224 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T080000
 DTEND:20250509T093500
 SUMMARY:Wdis (L)
 LOCATION:228 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Jarosław Napiórkowski
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Jarosław Napiórkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T095000
 DTEND:20250509T112500
 SUMMARY:Wdis (L)
 LOCATION:228 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Jarosław Napiórkowski
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Jarosław Napiórkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T114000
 DTEND:20250509T131500
 SUMMARY:kck (L)
 LOCATION:125 65
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T133000
 DTEND:20250509T150500
 SUMMARY:kck (L)
 LOCATION:125 65
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250510T080000
@@ -1422,21 +1422,21 @@ DTSTART:20250512T080000
 DTEND:20250512T093500
 SUMMARY:kck (w)
 LOCATION:307 S
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T095000
 DTEND:20250512T112500
 SUMMARY:ASI (L)
 LOCATION:224 S
-DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T114000
 DTEND:20250512T131500
 SUMMARY:ASI (L)
 LOCATION:224 S
-DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T133000
@@ -1450,14 +1450,14 @@ DTSTART:20250512T160000
 DTEND:20250512T173500
 SUMMARY:Spg (L)
 LOCATION:224 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T175000
 DTEND:20250512T192500
 SUMMARY:Spg (L)
 LOCATION:224 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T095000
@@ -1506,7 +1506,7 @@ DTSTART:20250514T114000
 DTEND:20250514T131500
 SUMMARY:Hd (L)
 LOCATION:227 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T080000
@@ -1520,14 +1520,14 @@ DTSTART:20250515T095000
 DTEND:20250515T112500
 SUMMARY:SBD (L)
 LOCATION:224 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T114000
 DTEND:20250515T131500
 SUMMARY:SBD (L)
 LOCATION:224 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T133000
@@ -1625,21 +1625,21 @@ DTSTART:20250521T095000
 DTEND:20250521T112500
 SUMMARY:Tal (P)
 LOCATION:233 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 3/6\nProwadzący:  Piotr Stąpor
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 3/6\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T114000
 DTEND:20250521T131500
 SUMMARY:Jtp (L)
 LOCATION:223 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T133000
 DTEND:20250521T150500
 SUMMARY:Jtp (L)
 LOCATION:223 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T080000
@@ -1653,49 +1653,49 @@ DTSTART:20250522T095000
 DTEND:20250522T112500
 SUMMARY:Pjf (w)
 LOCATION:307 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T114000
 DTEND:20250522T131500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T133000
 DTEND:20250522T150500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T080000
 DTEND:20250523T093500
 SUMMARY:Wdis (L)
 LOCATION:227 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Jarosław Napiórkowski
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Jarosław Napiórkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T095000
 DTEND:20250523T112500
 SUMMARY:Wdis (L)
 LOCATION:227 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Jarosław Napiórkowski
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Jarosław Napiórkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T114000
 DTEND:20250523T131500
 SUMMARY:kck (L)
 LOCATION:125 65
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T133000
 DTEND:20250523T150500
 SUMMARY:kck (L)
 LOCATION:125 65
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T080000
@@ -1716,7 +1716,7 @@ DTSTART:20250526T114000
 DTEND:20250526T131500
 SUMMARY:ASI (L)
 LOCATION:224 S
-DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T133000
@@ -1779,14 +1779,14 @@ DTSTART:20250528T095000
 DTEND:20250528T112500
 SUMMARY:Tal (P)
 LOCATION:233 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 4/6\nProwadzący:  Piotr Stąpor
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 4/6\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T114000
 DTEND:20250528T131500
 SUMMARY:Hd (L)
 LOCATION:227 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T080000
@@ -1821,28 +1821,28 @@ DTSTART:20250530T080000
 DTEND:20250530T093500
 SUMMARY:Pjf (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Krzysztof Mierzejewski
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Krzysztof Mierzejewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T095000
 DTEND:20250530T112500
 SUMMARY:Pjf (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Krzysztof Mierzejewski
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Krzysztof Mierzejewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T114000
 DTEND:20250530T131500
 SUMMARY:Hd (L)
 LOCATION:252 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T133000
 DTEND:20250530T150500
 SUMMARY:Hd (L)
 LOCATION:252 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250531T080000
@@ -1954,14 +1954,14 @@ DTSTART:20250606T080000
 DTEND:20250606T093500
 SUMMARY:Wdis (L)
 LOCATION:224 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Jarosław Napiórkowski
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Jarosław Napiórkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T095000
 DTEND:20250606T112500
 SUMMARY:Wdis (L)
 LOCATION:224 S
-DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Jarosław Napiórkowski
+DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Jarosław Napiórkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250607T080000
@@ -1975,21 +1975,21 @@ DTSTART:20250609T080000
 DTEND:20250609T093500
 SUMMARY:kck (L)
 LOCATION:236 S
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T095000
 DTEND:20250609T112500
 SUMMARY:kck (L)
 LOCATION:236 S
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T114000
 DTEND:20250609T131500
 SUMMARY:ASI (L)
 LOCATION:224 S
-DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T133000
@@ -2003,7 +2003,7 @@ DTSTART:20250609T160000
 DTEND:20250609T173500
 SUMMARY:Tal (w)
 LOCATION:237 S 239 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T080000
@@ -2052,14 +2052,14 @@ DTSTART:20250611T114000
 DTEND:20250611T131500
 SUMMARY:kck (L)
 LOCATION:121 65
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T133000
 DTEND:20250611T150500
 SUMMARY:kck (L)
 LOCATION:121 65
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T080000
@@ -2080,28 +2080,28 @@ DTSTART:20250613T080000
 DTEND:20250613T093500
 SUMMARY:Tal (P)
 LOCATION:223 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 5/6\nProwadzący:  Piotr Stąpor
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 5/6\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T095000
 DTEND:20250613T112500
 SUMMARY:SBD (w)
 LOCATION:313 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T114000
 DTEND:20250613T131500
 SUMMARY:Pjf (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Krzysztof Mierzejewski
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Krzysztof Mierzejewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T133000
 DTEND:20250613T150500
 SUMMARY:Pjf (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Krzysztof Mierzejewski
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Krzysztof Mierzejewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T080000
@@ -2115,21 +2115,21 @@ DTSTART:20250616T080000
 DTEND:20250616T093500
 SUMMARY:Spg (w)
 LOCATION:252 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T095000
 DTEND:20250616T112500
 SUMMARY:Spg (w)
 LOCATION:236 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T114000
 DTEND:20250616T131500
 SUMMARY:Tal (P)
 LOCATION:227 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 6/6\nProwadzący:  Piotr Stąpor
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 6/6\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T133000
@@ -2150,7 +2150,7 @@ DTSTART:20250617T095000
 DTEND:20250617T112500
 SUMMARY:Tal (L)
 LOCATION:224 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący:  Piotr Stąpor
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T114000
@@ -2192,21 +2192,21 @@ DTSTART:20250618T114000
 DTEND:20250618T131500
 SUMMARY:Jtp (Inne)
 LOCATION:19 36
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T133000
 DTEND:20250618T150500
 SUMMARY:Jtp (Inne)
 LOCATION:19 36
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T095000
 DTEND:20250623T112500
 SUMMARY:ASI (E)
 LOCATION:314 S
-DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T080000
@@ -2220,21 +2220,21 @@ DTSTART:20250627T095000
 DTEND:20250627T112500
 SUMMARY:Tal (E)
 LOCATION:313 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T080000
 DTEND:20251001T093500
 SUMMARY:Tal (Inne)
 LOCATION:307 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T095000
 DTEND:20251001T112500
 SUMMARY:ASI (Inne)
 LOCATION:309 S
-DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Stefan Rozmus
+DESCRIPTION:Analiza strukturalna SI\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T114000
@@ -2248,35 +2248,35 @@ DTSTART:20251001T133000
 DTEND:20251001T150500
 SUMMARY:Muma (w)
 LOCATION:308 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T160000
 DTEND:20251001T173500
 SUMMARY:SBD (Inne)
 LOCATION:313 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T080000
 DTEND:20251002T093500
 SUMMARY:mo (w)
 LOCATION:308 S
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Wojciech Kulas
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T095000
 DTEND:20251002T112500
 SUMMARY:Med (w)
 LOCATION:224 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T160000
 DTEND:20251002T173500
 SUMMARY:Wpp (Inne)
 LOCATION:314 S
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T114000
@@ -2304,7 +2304,7 @@ DTSTART:20251006T095000
 DTEND:20251006T112500
 SUMMARY:Ps (w)
 LOCATION:316 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T080000
@@ -2318,7 +2318,7 @@ DTSTART:20251007T095000
 DTEND:20251007T112500
 SUMMARY:Med (w)
 LOCATION:308 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T175000
@@ -2332,42 +2332,42 @@ DTSTART:20251009T080000
 DTEND:20251009T093500
 SUMMARY:mo (w)
 LOCATION:308 S
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Wojciech Kulas
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T133000
 DTEND:20251009T150500
 SUMMARY:TAI (w)
 LOCATION:224 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Michał Sobolewski
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T175000
 DTEND:20251009T192500
 SUMMARY:Insz (w)
 LOCATION:308 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Tomasz Protasowicki
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T194000
 DTEND:20251009T211500
 SUMMARY:Insz (w)
 LOCATION:308 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Tomasz Protasowicki
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T080000
 DTEND:20251010T093500
 SUMMARY:SQL (w)
 LOCATION:223 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T095000
 DTEND:20251010T112500
 SUMMARY:SQL (w)
 LOCATION:223 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T114000
@@ -2395,7 +2395,7 @@ DTSTART:20251013T095000
 DTEND:20251013T112500
 SUMMARY:Ps (w)
 LOCATION:316 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T080000
@@ -2409,7 +2409,7 @@ DTSTART:20251015T095000
 DTEND:20251015T112500
 SUMMARY:Ps (w)
 LOCATION:316 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T114000
@@ -2423,7 +2423,7 @@ DTSTART:20251015T133000
 DTEND:20251015T150500
 SUMMARY:Muma (w)
 LOCATION:309 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T175000
@@ -2444,56 +2444,56 @@ DTSTART:20251016T080000
 DTEND:20251016T093500
 SUMMARY:mo (w)
 LOCATION:313 S
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Wojciech Kulas
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T095000
 DTEND:20251016T112500
 SUMMARY:Med (w)
 LOCATION:223 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T114000
 DTEND:20251016T131500
 SUMMARY:TAI (w)
 LOCATION:224 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Michał Sobolewski
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T133000
 DTEND:20251016T150500
 SUMMARY:TAI (w)
 LOCATION:224 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Michał Sobolewski
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T175000
 DTEND:20251016T192500
 SUMMARY:Insz (w)
 LOCATION:308 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Tomasz Protasowicki
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T194000
 DTEND:20251016T211500
 SUMMARY:Insz (w)
 LOCATION:308 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Tomasz Protasowicki
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T080000
 DTEND:20251017T093500
 SUMMARY:SQL (w)
 LOCATION:223 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T095000
 DTEND:20251017T112500
 SUMMARY:SQL (w)
 LOCATION:223 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T114000
@@ -2528,7 +2528,7 @@ DTSTART:20251022T095000
 DTEND:20251022T112500
 SUMMARY:Ps (w)
 LOCATION:316 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T114000
@@ -2542,7 +2542,7 @@ DTSTART:20251022T133000
 DTEND:20251022T150500
 SUMMARY:Ps (ć)
 LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący:  Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T175000
@@ -2556,56 +2556,56 @@ DTSTART:20251023T080000
 DTEND:20251023T093500
 SUMMARY:mo (w)
 LOCATION:308 S
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Wojciech Kulas
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T095000
 DTEND:20251023T112500
 SUMMARY:Med (w)
 LOCATION:223 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T114000
 DTEND:20251023T131500
 SUMMARY:TAI (w)
 LOCATION:224 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Michał Sobolewski
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T133000
 DTEND:20251023T150500
 SUMMARY:TAI (w)
 LOCATION:224 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Michał Sobolewski
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T175000
 DTEND:20251023T192500
 SUMMARY:Insz (w)
 LOCATION:308 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Tomasz Protasowicki
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T194000
 DTEND:20251023T211500
 SUMMARY:Insz (w)
 LOCATION:308 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Tomasz Protasowicki
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T080000
 DTEND:20251024T093500
 SUMMARY:SQL (w)
 LOCATION:223 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T095000
 DTEND:20251024T112500
 SUMMARY:SQL (w)
 LOCATION:223 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T114000
@@ -2682,28 +2682,28 @@ DTSTART:20251028T095000
 DTEND:20251028T112500
 SUMMARY:Med (w)
 LOCATION:224 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T114000
 DTEND:20251028T131500
 SUMMARY:Med (L)
 LOCATION:223 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T080000
 DTEND:20251029T093500
 SUMMARY:Muma (L)
 LOCATION:223 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T095000
 DTEND:20251029T112500
 SUMMARY:Muma (L)
 LOCATION:223 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T114000
@@ -2717,7 +2717,7 @@ DTSTART:20251029T133000
 DTEND:20251029T150500
 SUMMARY:Muma (w)
 LOCATION:307 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T175000
@@ -2731,35 +2731,35 @@ DTSTART:20251030T080000
 DTEND:20251030T093500
 SUMMARY:mo (w)
 LOCATION:309 S
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Wojciech Kulas
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T095000
 DTEND:20251030T112500
 SUMMARY:SQL (L)
 LOCATION:227 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T114000
 DTEND:20251030T131500
 SUMMARY:SQL (L)
 LOCATION:227 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T175000
 DTEND:20251030T192500
 SUMMARY:Insz (w)
 LOCATION:308 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Tomasz Protasowicki
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T095000
 DTEND:20251031T112500
 SUMMARY:Ps (w)
 LOCATION:316 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T114000
@@ -2780,14 +2780,14 @@ DTSTART:20251103T095000
 DTEND:20251103T112500
 SUMMARY:Med (w)
 LOCATION:223 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T114000
 DTEND:20251103T131500
 SUMMARY:mo (L)
 LOCATION:223 S
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Wojciech Kulas
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T080000
@@ -2836,7 +2836,7 @@ DTSTART:20251105T095000
 DTEND:20251105T112500
 SUMMARY:Ps (ć)
 LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący:  Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T114000
@@ -2857,42 +2857,42 @@ DTSTART:20251106T080000
 DTEND:20251106T093500
 SUMMARY:mo (w)
 LOCATION:313 S
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Wojciech Kulas
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T114000
 DTEND:20251106T131500
 SUMMARY:TAI (w)
 LOCATION:227 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Michał Sobolewski
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T133000
 DTEND:20251106T150500
 SUMMARY:TAI (w)
 LOCATION:227 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Michał Sobolewski
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T175000
 DTEND:20251106T192500
 SUMMARY:Insz (L)
 LOCATION:223 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Tomasz Protasowicki
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T194000
 DTEND:20251106T211500
 SUMMARY:Insz (L)
 LOCATION:223 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Tomasz Protasowicki
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T095000
 DTEND:20251107T112500
 SUMMARY:Ps (w)
 LOCATION:316 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T114000
@@ -2913,14 +2913,14 @@ DTSTART:20251112T080000
 DTEND:20251112T093500
 SUMMARY:Muma (L)
 LOCATION:226 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T095000
 DTEND:20251112T112500
 SUMMARY:Muma (L)
 LOCATION:226 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T114000
@@ -2934,7 +2934,7 @@ DTSTART:20251112T133000
 DTEND:20251112T150500
 SUMMARY:Muma (w)
 LOCATION:309 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T175000
@@ -2948,35 +2948,35 @@ DTSTART:20251113T080000
 DTEND:20251113T093500
 SUMMARY:SQL (L)
 LOCATION:224 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T095000
 DTEND:20251113T112500
 SUMMARY:SQL (L)
 LOCATION:224 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T114000
 DTEND:20251113T131500
 SUMMARY:TAI (L)
 LOCATION:226 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Paweł Pieczonka
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T133000
 DTEND:20251113T150500
 SUMMARY:TAI (L)
 LOCATION:226 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Paweł Pieczonka
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T095000
 DTEND:20251114T112500
 SUMMARY:Ps (ć)
 LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący:  Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T114000
@@ -3004,21 +3004,21 @@ DTSTART:20251117T095000
 DTEND:20251117T112500
 SUMMARY:mo (L)
 LOCATION:227 S
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Wojciech Kulas
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T114000
 DTEND:20251117T131500
 SUMMARY:Mipb (w)
 LOCATION:309 S
-DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Robert Waszkowski
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T133000
 DTEND:20251117T150500
 SUMMARY:Mipb (w)
 LOCATION:309 S
-DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Robert Waszkowski
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T080000
@@ -3032,14 +3032,14 @@ DTSTART:20251118T095000
 DTEND:20251118T112500
 SUMMARY:Med (w)
 LOCATION:309 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T114000
 DTEND:20251118T131500
 SUMMARY:Med (L)
 LOCATION:233 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T114000
@@ -3060,28 +3060,28 @@ DTSTART:20251120T080000
 DTEND:20251120T093500
 SUMMARY:mo (w)
 LOCATION:313 S
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Wojciech Kulas
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T175000
 DTEND:20251120T192500
 SUMMARY:Insz (L)
 LOCATION:223 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Tomasz Protasowicki
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T194000
 DTEND:20251120T211500
 SUMMARY:Insz (L)
 LOCATION:223 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Tomasz Protasowicki
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T095000
 DTEND:20251121T112500
 SUMMARY:Ps (w)
 LOCATION:316 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T114000
@@ -3095,7 +3095,7 @@ DTSTART:20251121T133000
 DTEND:20251121T150500
 SUMMARY:Mnwd (w)
 LOCATION:307 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Andrzej Najgebauer
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T095000
@@ -3116,21 +3116,21 @@ DTSTART:20251124T095000
 DTEND:20251124T112500
 SUMMARY:Med (L)
 LOCATION:252 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T114000
 DTEND:20251124T131500
 SUMMARY:Mipb (w)
 LOCATION:313 S
-DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Robert Waszkowski
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T133000
 DTEND:20251124T150500
 SUMMARY:Mipb (w)
 LOCATION:313 S
-DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Robert Waszkowski
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T080000
@@ -3144,21 +3144,21 @@ DTSTART:20251125T095000
 DTEND:20251125T112500
 SUMMARY:Ao (w)
 LOCATION:309 S
-DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Ryszard Antkiewicz
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T080000
 DTEND:20251126T093500
 SUMMARY:Muma (L)
 LOCATION:233 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T095000
 DTEND:20251126T112500
 SUMMARY:Muma (L)
 LOCATION:233 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T114000
@@ -3168,11 +3168,11 @@ LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 48/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251126T133000
-DTEND:20251126T150500
+DTSTART:20251126T160000
+DTEND:20251126T173500
 SUMMARY:Muma (w)
-LOCATION:309 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Jarosław Olejniczak
+LOCATION:313 S
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T175000
@@ -3186,28 +3186,28 @@ DTSTART:20251127T080000
 DTEND:20251127T093500
 SUMMARY:SQL (L)
 LOCATION:226 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T095000
 DTEND:20251127T112500
 SUMMARY:SQL (L)
 LOCATION:226 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T114000
 DTEND:20251127T131500
 SUMMARY:TAI (L)
 LOCATION:228 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Paweł Pieczonka
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T133000
 DTEND:20251127T150500
 SUMMARY:TAI (L)
 LOCATION:228 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Paweł Pieczonka
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T160000
@@ -3249,14 +3249,14 @@ DTSTART:20251201T095000
 DTEND:20251201T112500
 SUMMARY:mo (L)
 LOCATION:223 S
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Wojciech Kulas
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T114000
 DTEND:20251201T131500
 SUMMARY:Ps (ć)
 LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący:  Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T080000
@@ -3270,14 +3270,14 @@ DTSTART:20251202T095000
 DTEND:20251202T112500
 SUMMARY:Mnwd (w)
 LOCATION:309 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Ryszard Antkiewicz
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T114000
 DTEND:20251202T131500
 SUMMARY:Med (L)
 LOCATION:233 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T114000
@@ -3291,21 +3291,21 @@ DTSTART:20251204T175000
 DTEND:20251204T192500
 SUMMARY:Insz (L)
 LOCATION:223 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Tomasz Protasowicki
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T194000
 DTEND:20251204T211500
 SUMMARY:Insz (L)
 LOCATION:223 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Tomasz Protasowicki
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T095000
 DTEND:20251205T112500
 SUMMARY:Ao (w)
 LOCATION:316 S
-DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Ryszard Antkiewicz
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T114000
@@ -3319,7 +3319,7 @@ DTSTART:20251205T133000
 DTEND:20251205T150500
 SUMMARY:Mnwd (w)
 LOCATION:307 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Andrzej Najgebauer
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T095000
@@ -3340,14 +3340,14 @@ DTSTART:20251208T095000
 DTEND:20251208T112500
 SUMMARY:Mnwd (w)
 LOCATION:317 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Ryszard Antkiewicz
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T133000
 DTEND:20251208T150500
 SUMMARY:Mipb (w)
 LOCATION:309 S
-DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Robert Waszkowski
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T080000
@@ -3361,14 +3361,14 @@ DTSTART:20251209T095000
 DTEND:20251209T112500
 SUMMARY:mo (L)
 LOCATION:224 S
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Wojciech Kulas
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T114000
 DTEND:20251209T131500
 SUMMARY:Med (L)
 LOCATION:226 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T080000
@@ -3403,35 +3403,35 @@ DTSTART:20251211T080000
 DTEND:20251211T093500
 SUMMARY:SQL (L)
 LOCATION:227 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T095000
 DTEND:20251211T112500
 SUMMARY:SQL (L)
 LOCATION:227 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T114000
 DTEND:20251211T131500
 SUMMARY:TAI (L)
 LOCATION:228 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Paweł Pieczonka
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T133000
 DTEND:20251211T150500
 SUMMARY:TAI (L)
 LOCATION:228 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Paweł Pieczonka
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T095000
 DTEND:20251212T112500
 SUMMARY:Ao (w)
 LOCATION:313 S
-DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Ryszard Antkiewicz
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T114000
@@ -3459,7 +3459,7 @@ DTSTART:20251215T095000
 DTEND:20251215T112500
 SUMMARY:mo (L)
 LOCATION:227 S
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Wojciech Kulas
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T080000
@@ -3473,7 +3473,7 @@ DTSTART:20251216T095000
 DTEND:20251216T112500
 SUMMARY:Mnwd (w)
 LOCATION:308 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Ryszard Antkiewicz
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T080000
@@ -3487,7 +3487,7 @@ DTSTART:20251217T095000
 DTEND:20251217T112500
 SUMMARY:Med (L)
 LOCATION:226 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T114000
@@ -3501,56 +3501,56 @@ DTSTART:20251218T080000
 DTEND:20251218T093500
 SUMMARY:Mipb (L)
 LOCATION:236 S
-DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Robert Waszkowski
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T095000
 DTEND:20251218T112500
 SUMMARY:Mipb (L)
 LOCATION:236 S
-DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Robert Waszkowski
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T114000
 DTEND:20251218T131500
 SUMMARY:Muma (L)
 LOCATION:228 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T133000
 DTEND:20251218T150500
 SUMMARY:Muma (L)
 LOCATION:228 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T175000
 DTEND:20251218T192500
 SUMMARY:Insz (L)
 LOCATION:224 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Tomasz Protasowicki
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T194000
 DTEND:20251218T211500
 SUMMARY:Insz (L)
 LOCATION:224 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Tomasz Protasowicki
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T080000
 DTEND:20251219T093500
 SUMMARY:Ps (ć)
 LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący:  Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T095000
 DTEND:20251219T112500
 SUMMARY:Ao (w)
 LOCATION:313 S
-DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Ryszard Antkiewicz
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T114000
@@ -3564,7 +3564,7 @@ DTSTART:20251219T133000
 DTEND:20251219T150500
 SUMMARY:Mnwd (w)
 LOCATION:317 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 6/5\nProwadzący:  Andrzej Najgebauer
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 6/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T095000
@@ -3599,42 +3599,42 @@ DTSTART:20260108T080000
 DTEND:20260108T093500
 SUMMARY:Mipb (L)
 LOCATION:236 S
-DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Robert Waszkowski
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T095000
 DTEND:20260108T112500
 SUMMARY:Mipb (L)
 LOCATION:236 S
-DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Robert Waszkowski
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T114000
 DTEND:20260108T131500
 SUMMARY:TAI (L)
 LOCATION:226 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Paweł Pieczonka
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T133000
 DTEND:20260108T150500
 SUMMARY:TAI (L)
 LOCATION:226 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Paweł Pieczonka
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T080000
 DTEND:20260109T093500
 SUMMARY:Ps (ć)
 LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący:  Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T095000
 DTEND:20260109T112500
 SUMMARY:Ao (w)
 LOCATION:309 S
-DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Ryszard Antkiewicz
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T114000
@@ -3648,7 +3648,7 @@ DTSTART:20260109T133000
 DTEND:20260109T150500
 SUMMARY:Mnwd (w)
 LOCATION:309 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 7/5\nProwadzący:  Andrzej Najgebauer
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 7/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260110T095000
@@ -3669,7 +3669,7 @@ DTSTART:20260112T095000
 DTEND:20260112T112500
 SUMMARY:Med (L)
 LOCATION:227 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T080000
@@ -3683,7 +3683,7 @@ DTSTART:20260113T095000
 DTEND:20260113T112500
 SUMMARY:mo (L)
 LOCATION:227 S
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Wojciech Kulas
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T080000
@@ -3711,14 +3711,14 @@ DTSTART:20260115T080000
 DTEND:20260115T093500
 SUMMARY:Mipb (L)
 LOCATION:236 S
-DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Robert Waszkowski
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T095000
 DTEND:20260115T112500
 SUMMARY:Mipb (L)
 LOCATION:236 S
-DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Robert Waszkowski
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T114000
@@ -3739,7 +3739,7 @@ DTSTART:20260116T095000
 DTEND:20260116T112500
 SUMMARY:Ao (w)
 LOCATION:317 S
-DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Ryszard Antkiewicz
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T114000
@@ -3767,14 +3767,14 @@ DTSTART:20260119T095000
 DTEND:20260119T112500
 SUMMARY:Mnwd (w)
 LOCATION:316 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 8/5\nProwadzący:  Andrzej Najgebauer
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 8/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T114000
 DTEND:20260119T131500
 SUMMARY:Med (L)
 LOCATION:224 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T080000
@@ -3788,14 +3788,14 @@ DTSTART:20260121T080000
 DTEND:20260121T093500
 SUMMARY:Ps (ć)
 LOCATION:314 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący:  Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T095000
 DTEND:20260121T112500
 SUMMARY:mo (L)
 LOCATION:223 S
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Wojciech Kulas
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T114000
@@ -3809,14 +3809,14 @@ DTSTART:20260122T080000
 DTEND:20260122T093500
 SUMMARY:Mipb (L)
 LOCATION:236 S
-DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Robert Waszkowski
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T095000
 DTEND:20260122T112500
 SUMMARY:Mipb (L)
 LOCATION:236 S
-DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Robert Waszkowski
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T114000
@@ -3837,7 +3837,7 @@ DTSTART:20260123T095000
 DTEND:20260123T112500
 SUMMARY:Ao (w)
 LOCATION:317 S
-DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Ryszard Antkiewicz
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T114000
@@ -3865,14 +3865,14 @@ DTSTART:20260126T095000
 DTEND:20260126T112500
 SUMMARY:Ps (w)
 LOCATION:317 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T114000
 DTEND:20260126T131500
 SUMMARY:mo (L)
 LOCATION:233 S
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Wojciech Kulas
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T080000
@@ -3928,14 +3928,14 @@ DTSTART:20260128T080000
 DTEND:20260128T093500
 SUMMARY:Muma (w)
 LOCATION:316 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T095000
 DTEND:20260128T112500
 SUMMARY:Muma (w)
 LOCATION:316 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T114000
@@ -3956,14 +3956,14 @@ DTSTART:20260129T080000
 DTEND:20260129T093500
 SUMMARY:Mipb (L)
 LOCATION:236 S
-DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Robert Waszkowski
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T095000
 DTEND:20260129T112500
 SUMMARY:Mipb (L)
 LOCATION:236 S
-DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Robert Waszkowski
+DESCRIPTION:Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T114000
@@ -3984,14 +3984,14 @@ DTSTART:20260130T080000
 DTEND:20260130T093500
 SUMMARY:SQL (w)
 LOCATION:314 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T095000
 DTEND:20260130T112500
 SUMMARY:Ao (w)
 LOCATION:317 S
-DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Ryszard Antkiewicz
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T114000

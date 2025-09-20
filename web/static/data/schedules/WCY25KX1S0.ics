@@ -78,14 +78,14 @@ DTSTART:20251006T095000
 DTEND:20251006T112500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 1/15\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 1/15\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T114000
 DTEND:20251006T131500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 1/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 1/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T133000
@@ -120,7 +120,7 @@ DTSTART:20251007T114000
 DTEND:20251007T131500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 2/15\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 2/15\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T133000
@@ -197,7 +197,7 @@ DTSTART:20251010T114000
 DTEND:20251010T131500
 SUMMARY:MD1 (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T133000
@@ -225,21 +225,21 @@ DTSTART:20251013T095000
 DTEND:20251013T112500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 3/15\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 3/15\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T114000
 DTEND:20251013T131500
 SUMMARY:Mat I (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/19\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/19\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T133000
 DTEND:20251013T150500
 SUMMARY:MD1 (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T160000
@@ -274,7 +274,7 @@ DTSTART:20251014T133000
 DTEND:20251014T150500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 2/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 2/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T080000
@@ -288,21 +288,21 @@ DTSTART:20251015T095000
 DTEND:20251015T112500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 3/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 3/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T114000
 DTEND:20251015T131500
 SUMMARY:M II (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T133000
 DTEND:20251015T150500
 SUMMARY:MD1 (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T080000
@@ -351,7 +351,7 @@ DTSTART:20251017T095000
 DTEND:20251017T112500
 SUMMARY:WdS (w)
 LOCATION:19 36
-DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący:  Ewa Łakoma
+DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: dr Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T114000
@@ -379,7 +379,7 @@ DTSTART:20251020T095000
 DTEND:20251020T112500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 4/15\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 4/15\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T114000
@@ -442,21 +442,21 @@ DTSTART:20251022T095000
 DTEND:20251022T112500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 4/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 4/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T114000
 DTEND:20251022T131500
 SUMMARY:M II (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T133000
 DTEND:20251022T150500
 SUMMARY:Mat I (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/19\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/19\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T160000
@@ -505,7 +505,7 @@ DTSTART:20251024T095000
 DTEND:20251024T112500
 SUMMARY:WdS (w)
 LOCATION:19 36
-DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący:  Ewa Łakoma
+DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: dr Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T114000
@@ -540,21 +540,21 @@ DTSTART:20251027T095000
 DTEND:20251027T112500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 5/15\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 5/15\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T114000
 DTEND:20251027T131500
 SUMMARY:Mat I (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/19\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/19\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T133000
 DTEND:20251027T150500
 SUMMARY:MD1 (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T160000
@@ -582,21 +582,21 @@ DTSTART:20251028T114000
 DTEND:20251028T131500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T133000
 DTEND:20251028T150500
 SUMMARY:Mat I (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/19\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/19\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T160000
 DTEND:20251028T173500
 SUMMARY:WdI (L)
 LOCATION:223 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/11\nProwadzący:  Marcin Perka
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/11\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T175000
@@ -610,21 +610,21 @@ DTSTART:20251029T095000
 DTEND:20251029T112500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 5/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 5/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T114000
 DTEND:20251029T131500
 SUMMARY:M II (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T133000
 DTEND:20251029T150500
 SUMMARY:MD1 (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T080000
@@ -673,7 +673,7 @@ DTSTART:20251031T114000
 DTEND:20251031T131500
 SUMMARY:BwCP (w)
 LOCATION:313 S
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący:  Maciej Marczyk
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T133000
@@ -701,14 +701,14 @@ DTSTART:20251103T095000
 DTEND:20251103T112500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 7/15\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 7/15\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T114000
 DTEND:20251103T131500
 SUMMARY:Mat I (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/19\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/19\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T133000
@@ -743,21 +743,21 @@ DTSTART:20251104T133000
 DTEND:20251104T150500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 6/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 6/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T160000
 DTEND:20251104T173500
 SUMMARY:WdI (L)
 LOCATION:223 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/11\nProwadzący:  Marcin Perka
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/11\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T175000
 DTEND:20251104T192500
 SUMMARY:WdI (L)
 LOCATION:223 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/11\nProwadzący:  Marcin Perka
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/11\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T080000
@@ -771,14 +771,14 @@ DTSTART:20251105T095000
 DTEND:20251105T112500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 7/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 7/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T114000
 DTEND:20251105T131500
 SUMMARY:M II (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T080000
@@ -806,7 +806,7 @@ DTSTART:20251106T133000
 DTEND:20251106T150500
 SUMMARY:MD1 (ć)
 LOCATION:316 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący:  Łukasz Dzierzkowski
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T194000
@@ -827,14 +827,14 @@ DTSTART:20251107T095000
 DTEND:20251107T112500
 SUMMARY:Mat I (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/19\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/19\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T114000
 DTEND:20251107T131500
 SUMMARY:MD1 (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T133000
@@ -862,21 +862,21 @@ DTSTART:20251112T095000
 DTEND:20251112T112500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 8/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 8/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T114000
 DTEND:20251112T131500
 SUMMARY:M II (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T133000
 DTEND:20251112T150500
 SUMMARY:MD1 (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T160000
@@ -932,7 +932,7 @@ DTSTART:20251114T095000
 DTEND:20251114T112500
 SUMMARY:Mat I (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/19\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/19\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T133000
@@ -953,14 +953,14 @@ DTSTART:20251117T080000
 DTEND:20251117T093500
 SUMMARY:MD1 (ć)
 LOCATION:203 65
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący:  Łukasz Dzierzkowski
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T095000
 DTEND:20251117T112500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 8/15\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 8/15\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T114000
@@ -974,7 +974,7 @@ DTSTART:20251117T114000
 DTEND:20251117T131500
 SUMMARY:SiKD (Inne)
 LOCATION:313 S
-DESCRIPTION:Spotkanie informacyjne z kierownikiem Dziekanatu\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Joanna Piasecka
+DESCRIPTION:Spotkanie informacyjne z kierownikiem Dziekanatu\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T175000
@@ -1009,42 +1009,42 @@ DTSTART:20251118T133000
 DTEND:20251118T150500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 9/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 9/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T160000
 DTEND:20251118T173500
 SUMMARY:WdI (L)
 LOCATION:223 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący:  Marcin Perka
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T175000
 DTEND:20251118T192500
 SUMMARY:WdI (L)
 LOCATION:223 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/11\nProwadzący:  Marcin Perka
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/11\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T095000
 DTEND:20251119T112500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 10/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 10/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T114000
 DTEND:20251119T131500
 SUMMARY:M II (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T133000
 DTEND:20251119T150500
 SUMMARY:Mat I (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/19\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/19\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T160000
@@ -1114,14 +1114,14 @@ DTSTART:20251121T095000
 DTEND:20251121T112500
 SUMMARY:WdS (w)
 LOCATION:19 36
-DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący:  Ewa Łakoma
+DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T114000
 DTEND:20251121T131500
 SUMMARY:BwCP (w)
 LOCATION:313 S
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący:  Maciej Marczyk
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T133000
@@ -1135,28 +1135,28 @@ DTSTART:20251121T160000
 DTEND:20251121T173500
 SUMMARY:BwCP (ć)
 LOCATION:201 65
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący:  Leszek Kalman
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T080000
 DTEND:20251124T093500
 SUMMARY:MD1 (ć)
 LOCATION:203 65
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący:  Łukasz Dzierzkowski
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T095000
 DTEND:20251124T112500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 9/15\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 9/15\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T114000
 DTEND:20251124T131500
 SUMMARY:Mat I (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/19\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/19\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T175000
@@ -1205,21 +1205,21 @@ DTSTART:20251126T095000
 DTEND:20251126T112500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 11/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 11/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T114000
 DTEND:20251126T131500
 SUMMARY:M II (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T133000
 DTEND:20251126T150500
 SUMMARY:MD1 (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T160000
@@ -1289,14 +1289,14 @@ DTSTART:20251201T095000
 DTEND:20251201T112500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 10/15\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 10/15\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T114000
 DTEND:20251201T131500
 SUMMARY:Mat I (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/19\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/19\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T133000
@@ -1345,7 +1345,7 @@ DTSTART:20251202T133000
 DTEND:20251202T150500
 SUMMARY:BwCP (ć)
 LOCATION:201 65
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący:  Leszek Kalman
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T160000
@@ -1359,14 +1359,14 @@ DTSTART:20251203T095000
 DTEND:20251203T112500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 12/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 12/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T114000
 DTEND:20251203T131500
 SUMMARY:M II (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T080000
@@ -1415,14 +1415,14 @@ DTSTART:20251205T095000
 DTEND:20251205T112500
 SUMMARY:Mat I (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/19\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/19\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T114000
 DTEND:20251205T131500
 SUMMARY:M II (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T133000
@@ -1436,14 +1436,14 @@ DTSTART:20251208T080000
 DTEND:20251208T093500
 SUMMARY:MD1 (ć)
 LOCATION:316 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący:  Łukasz Dzierzkowski
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T095000
 DTEND:20251208T112500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 11/15\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 11/15\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T114000
@@ -1492,14 +1492,14 @@ DTSTART:20251210T160000
 DTEND:20251210T173500
 SUMMARY:WdI (L)
 LOCATION:226 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/11\nProwadzący:  Marcin Perka
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/11\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T175000
 DTEND:20251210T192500
 SUMMARY:WdI (L)
 LOCATION:226 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/11\nProwadzący:  Marcin Perka
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/11\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T095000
@@ -1555,14 +1555,14 @@ DTSTART:20251212T095000
 DTEND:20251212T112500
 SUMMARY:Mat I (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/19\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/19\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T114000
 DTEND:20251212T131500
 SUMMARY:M II (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T133000
@@ -1576,7 +1576,7 @@ DTSTART:20251215T095000
 DTEND:20251215T112500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 12/15\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 12/15\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T114000
@@ -1625,14 +1625,14 @@ DTSTART:20251217T095000
 DTEND:20251217T112500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 13/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 13/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T114000
 DTEND:20251217T131500
 SUMMARY:M II (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T133000
@@ -1646,7 +1646,7 @@ DTSTART:20251218T080000
 DTEND:20251218T093500
 SUMMARY:MD1 (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący:  Łukasz Dzierzkowski
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T095000
@@ -1695,14 +1695,14 @@ DTSTART:20251219T095000
 DTEND:20251219T112500
 SUMMARY:Mat I (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/19\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/19\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T114000
 DTEND:20251219T131500
 SUMMARY:BwCP (ć)
 LOCATION:201 65
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący:  Leszek Kalman
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T133000
@@ -1723,21 +1723,21 @@ DTSTART:20260107T080000
 DTEND:20260107T093500
 SUMMARY:MD1 (ć)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący:  Łukasz Dzierzkowski
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T095000
 DTEND:20260107T112500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 14/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 14/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T114000
 DTEND:20260107T131500
 SUMMARY:M II (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T080000
@@ -1807,7 +1807,7 @@ DTSTART:20260109T114000
 DTEND:20260109T131500
 SUMMARY:Mat I (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/19\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/19\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T133000
@@ -1821,7 +1821,7 @@ DTSTART:20260112T095000
 DTEND:20260112T112500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 13/15\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 13/15\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T114000
@@ -1849,42 +1849,42 @@ DTSTART:20260113T114000
 DTEND:20260113T131500
 SUMMARY:M II (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T133000
 DTEND:20260113T150500
 SUMMARY:Mat I (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/19\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/19\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T160000
 DTEND:20260113T173500
 SUMMARY:WdI (L)
 LOCATION:223 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/11\nProwadzący:  Marcin Perka
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/11\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T175000
 DTEND:20260113T192500
 SUMMARY:WdI (L)
 LOCATION:223 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/11\nProwadzący:  Marcin Perka
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/11\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T095000
 DTEND:20260114T112500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 15/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 15/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T114000
 DTEND:20260114T131500
 SUMMARY:M II (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T080000
@@ -1940,7 +1940,7 @@ DTSTART:20260116T114000
 DTEND:20260116T131500
 SUMMARY:Mat I (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/19\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/19\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T133000
@@ -1954,14 +1954,14 @@ DTSTART:20260119T080000
 DTEND:20260119T093500
 SUMMARY:MD1 (ć)
 LOCATION:316 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący:  Łukasz Dzierzkowski
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T095000
 DTEND:20260119T112500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 14/15\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 14/15\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T114000
@@ -1989,14 +1989,14 @@ DTSTART:20260120T114000
 DTEND:20260120T131500
 SUMMARY:M II (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T133000
 DTEND:20260120T150500
 SUMMARY:Mat I (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/19\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/19\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T160000
@@ -2010,14 +2010,14 @@ DTSTART:20260121T095000
 DTEND:20260121T112500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 16/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 16/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T114000
 DTEND:20260121T131500
 SUMMARY:M II (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T080000
@@ -2073,7 +2073,7 @@ DTSTART:20260123T114000
 DTEND:20260123T131500
 SUMMARY:Mat I (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/19\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/19\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T133000
@@ -2087,7 +2087,7 @@ DTSTART:20260126T095000
 DTEND:20260126T112500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 15/15\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 15/15\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T114000
@@ -2122,42 +2122,42 @@ DTSTART:20260127T114000
 DTEND:20260127T131500
 SUMMARY:M II (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T133000
 DTEND:20260127T150500
 SUMMARY:Mat I (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/19\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/19\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T160000
 DTEND:20260127T173500
 SUMMARY:WdI (L)
 LOCATION:223 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/11\nProwadzący:  Marcin Perka
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/11\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T175000
 DTEND:20260127T192500
 SUMMARY:WdI (L)
 LOCATION:223 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/11\nProwadzący:  Marcin Perka
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/11\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T095000
 DTEND:20260128T112500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 17/17\nProwadzący:  Jarosław Łazuka
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 17/17\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T114000
 DTEND:20260128T131500
 SUMMARY:MD1 (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T160000
