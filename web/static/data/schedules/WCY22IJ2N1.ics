@@ -1222,20 +1222,6 @@ LOCATION:308 S
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący:  Patryk Serafin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251005T114000
-DTEND:20251005T131500
-SUMMARY:Swbo (w)
-LOCATION:309 S
-DESCRIPTION:Systemy webowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: mgr inż. Michał Kapałka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251005T133000
-DTEND:20251005T150500
-SUMMARY:Swbo (w)
-LOCATION:309 S
-DESCRIPTION:Systemy webowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: mgr inż. Michał Kapałka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251011T080000
 DTEND:20251011T093500
 SUMMARY:Orr (w)
@@ -1290,27 +1276,6 @@ DTEND:20251012T112500
 SUMMARY:Orr (ć)
 LOCATION:308 S
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący:  Patryk Serafin
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251012T114000
-DTEND:20251012T131500
-SUMMARY:Swbo (w)
-LOCATION:228 S
-DESCRIPTION:Systemy webowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: mgr inż. Michał Kapałka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251012T133000
-DTEND:20251012T150500
-SUMMARY:Swbo (L)
-LOCATION:228 S
-DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: mgr inż. Michał Kapałka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251012T160000
-DTEND:20251012T173500
-SUMMARY:Swbo (L)
-LOCATION:228 S
-DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251018T114000
@@ -1390,25 +1355,46 @@ LOCATION:228 S
 DESCRIPTION:Big data\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251025T160000
+DTEND:20251025T173500
+SUMMARY:Swbo (w)
+LOCATION:252 S
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T175000
+DTEND:20251025T192500
+SUMMARY:Swbo (w)
+LOCATION:252 S
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T194000
+DTEND:20251025T211500
+SUMMARY:Swbo (L)
+LOCATION:252 S
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251026T095000
 DTEND:20251026T112500
 SUMMARY:Swbo (w)
 LOCATION:228 S
-DESCRIPTION:Systemy webowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251026T114000
 DTEND:20251026T131500
 SUMMARY:Swbo (L)
 LOCATION:228 S
-DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251026T133000
 DTEND:20251026T150500
 SUMMARY:Swbo (L)
 LOCATION:228 S
-DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251026T160000
@@ -1451,6 +1437,20 @@ DTEND:20251115T173500
 SUMMARY:Orr (w)
 LOCATION:308 S
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251115T175000
+DTEND:20251115T192500
+SUMMARY:Swbo (w)
+LOCATION:252 S
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: mgr inż. Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251115T194000
+DTEND:20251115T211500
+SUMMARY:Swbo (L)
+LOCATION:228 S
+DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251116T080000

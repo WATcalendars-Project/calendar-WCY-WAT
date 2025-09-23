@@ -3924,6 +3924,20 @@ LOCATION:230 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Wykład\nNr zajęć: 10/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251202T080000
+DTEND:20251202T093500
+SUMMARY:Bchm (L)
+LOCATION:127A/ 14
+DESCRIPTION:Biochemia - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251202T095000
+DTEND:20251202T112500
+SUMMARY:Bchm (L)
+LOCATION:127A/ 14
+DESCRIPTION:Biochemia - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251202T114000
 DTEND:20251202T131500
 SUMMARY:Mis (L)
@@ -3936,20 +3950,6 @@ DTEND:20251202T150500
 SUMMARY:Mis (L)
 LOCATION:032 S
 DESCRIPTION:Metrologia i systemy pomiarowe - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251202T160000
-DTEND:20251202T173500
-SUMMARY:Bchm (L)
-LOCATION:127A/ 14
-DESCRIPTION:Biochemia - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251202T175000
-DTEND:20251202T192500
-SUMMARY:Bchm (L)
-LOCATION:127A/ 14
-DESCRIPTION:Biochemia - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T080000
