@@ -1315,23 +1315,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T133000
 DTEND:20251004T150500
-SUMMARY:ZPr (w)
-LOCATION:313 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Jerzy Stanik
+SUMMARY:mo (P)
+LOCATION:252 S
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 1/10\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T160000
 DTEND:20251004T173500
 SUMMARY:mo (P)
 LOCATION:252 S
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 1/10\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 2/10\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251004T175000
-DTEND:20251004T192500
-SUMMARY:mo (P)
+DTSTART:20251005T095000
+DTEND:20251005T112500
+SUMMARY:ZPr (w)
 LOCATION:252 S
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 2/10\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T080000

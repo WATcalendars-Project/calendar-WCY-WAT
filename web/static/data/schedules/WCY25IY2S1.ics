@@ -281,7 +281,7 @@ DTSTART:20251029T080000
 DTEND:20251029T093500
 SUMMARY:MD1 (ć)
 LOCATION:201 65
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: dr inż. Krzysztof Pszczoła
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący:  Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T095000
@@ -463,7 +463,7 @@ DTSTART:20251107T114000
 DTEND:20251107T131500
 SUMMARY:MD1 (ć)
 LOCATION:201 65
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: dr inż. Krzysztof Pszczoła
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący:  Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T160000
@@ -683,18 +683,18 @@ LOCATION:314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 7/17\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251121T095000
+DTEND:20251121T112500
+SUMMARY:MD1 (ć)
+LOCATION:218 65
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący:  Anna Cichocka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251121T114000
 DTEND:20251121T131500
 SUMMARY:WdS (w)
 LOCATION:314 S
 DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr Ewa Łakoma
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251121T133000
-DTEND:20251121T150500
-SUMMARY:MD1 (ć)
-LOCATION:203 65
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: dr inż. Krzysztof Pszczoła
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T160000
@@ -813,7 +813,7 @@ DTSTART:20251202T095000
 DTEND:20251202T112500
 SUMMARY:MD1 (ć)
 LOCATION:205 65
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr inż. Krzysztof Pszczoła
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący:  Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T114000
@@ -1023,7 +1023,7 @@ DTSTART:20251216T095000
 DTEND:20251216T112500
 SUMMARY:MD1 (ć)
 LOCATION:205 65
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: dr inż. Krzysztof Pszczoła
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący:  Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T114000
@@ -1163,7 +1163,7 @@ DTSTART:20260109T095000
 DTEND:20260109T112500
 SUMMARY:MD1 (ć)
 LOCATION:203 65
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: dr inż. Krzysztof Pszczoła
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący:  Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T114000
@@ -1359,7 +1359,7 @@ DTSTART:20260123T080000
 DTEND:20260123T093500
 SUMMARY:MD1 (ć)
 LOCATION:204 65
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr inż. Krzysztof Pszczoła
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący:  Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T095000

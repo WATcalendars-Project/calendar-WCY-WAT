@@ -130,20 +130,6 @@ LOCATION:203 65
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Krzysztof Liderman
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251012T160000
-DTEND:20251012T173500
-SUMMARY:NET (w)
-LOCATION:309 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Mariusz Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251012T175000
-DTEND:20251012T192500
-SUMMARY:NET (w)
-LOCATION:309 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Mariusz Chmielewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251018T080000
 DTEND:20251018T093500
 SUMMARY:Gk (w)
@@ -281,7 +267,14 @@ DTSTART:20251026T175000
 DTEND:20251026T192500
 SUMMARY:NET (w)
 LOCATION:309 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Mariusz Chmielewski
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Mariusz Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251026T194000
+DTEND:20251026T211500
+SUMMARY:NET (w)
+LOCATION:309 S
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251101T080000
@@ -610,14 +603,14 @@ DTSTART:20251123T160000
 DTEND:20251123T173500
 SUMMARY:NET (w)
 LOCATION:309 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Mariusz Chmielewski
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251123T175000
 DTEND:20251123T192500
 SUMMARY:NET (w)
 LOCATION:309 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Mariusz Chmielewski
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251129T080000
@@ -877,6 +870,13 @@ DTEND:20251214T192500
 SUMMARY:PSy (w)
 LOCATION:307 S
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/3\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251214T194000
+DTEND:20251214T211500
+SUMMARY:NET (w)
+LOCATION:309 S
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T080000

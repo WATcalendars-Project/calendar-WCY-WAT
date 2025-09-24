@@ -1803,6 +1803,20 @@ LOCATION:228 S
 DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: dr inż. Jarosław Rulka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250925T080000
+DTEND:20250925T093500
+SUMMARY:Pw (Inne)
+LOCATION:224 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć:  - \nNr zajęć: 5/2\nProwadzący: mgr inż. Krzysztof Mierzejewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250925T095000
+DTEND:20250925T112500
+SUMMARY:Pw (Inne)
+LOCATION:224 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć:  - \nNr zajęć: 6/2\nProwadzący: mgr inż. Krzysztof Mierzejewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251020T114000
 DTEND:20251020T131500
 SUMMARY:WdA (Inne)

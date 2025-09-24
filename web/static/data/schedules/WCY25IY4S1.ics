@@ -372,7 +372,7 @@ DTSTART:20251031T095000
 DTEND:20251031T112500
 SUMMARY:MD1 (ć)
 LOCATION:204 65
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: dr inż. Krzysztof Pszczoła
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący:  Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T114000
@@ -666,7 +666,7 @@ DTSTART:20251120T114000
 DTEND:20251120T131500
 SUMMARY:MD1 (ć)
 LOCATION:101 65
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: dr inż. Krzysztof Pszczoła
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący:  Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T080000
@@ -715,7 +715,7 @@ DTSTART:20251124T095000
 DTEND:20251124T112500
 SUMMARY:MD1 (ć)
 LOCATION:101 65
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: dr inż. Krzysztof Pszczoła
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący:  Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T175000
@@ -984,13 +984,6 @@ LOCATION:252 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/11\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251211T133000
-DTEND:20251211T150500
-SUMMARY:MD1 (ć)
-LOCATION:204 65
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr inż. Krzysztof Pszczoła
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251211T160000
 DTEND:20251211T173500
 SUMMARY:Wzp (ć)
@@ -1107,7 +1100,7 @@ DTSTART:20251219T095000
 DTEND:20251219T112500
 SUMMARY:MD1 (ć)
 LOCATION:203 65
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: dr inż. Krzysztof Pszczoła
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący:  Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T114000
@@ -1143,6 +1136,13 @@ DTEND:20260107T093500
 SUMMARY:M II (ć)
 LOCATION:307 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/17\nProwadzący: mgr Wojciech Matuszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260107T095000
+DTEND:20260107T112500
+SUMMARY:MD1 (ć)
+LOCATION:205 65
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący:  Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T160000
@@ -1199,13 +1199,6 @@ DTEND:20260109T131500
 SUMMARY:Ez (w)
 LOCATION:314 S
 DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260109T133000
-DTEND:20260109T150500
-SUMMARY:MD1 (ć)
-LOCATION:205 65
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: dr inż. Krzysztof Pszczoła
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T080000
@@ -1283,6 +1276,13 @@ DTEND:20260115T112500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260115T114000
+DTEND:20260115T131500
+SUMMARY:MD1 (ć)
+LOCATION:205 65
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący:  Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T114000
@@ -1369,6 +1369,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260122T114000
+DTEND:20260122T131500
+SUMMARY:MD1 (ć)
+LOCATION:205 65
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący:  Anna Cichocka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260123T095000
 DTEND:20260123T112500
 SUMMARY:WDM (ć)
@@ -1381,13 +1388,6 @@ DTEND:20260123T131500
 SUMMARY:Ez (w)
 LOCATION:314 S
 DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260123T133000
-DTEND:20260123T150500
-SUMMARY:MD1 (ć)
-LOCATION:205 65
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr inż. Krzysztof Pszczoła
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T080000

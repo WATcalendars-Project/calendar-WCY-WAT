@@ -2804,27 +2804,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 193/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251008T080000
-DTEND:20251008T093500
-SUMMARY:SNUB (w)
-LOCATION:57/ 62
-DESCRIPTION:Symulacja numeryczna układów biomechanicznych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251008T095000
-DTEND:20251008T112500
-SUMMARY:SNUB (L)
-LOCATION:57/ 62
-DESCRIPTION:Symulacja numeryczna układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251008T114000
-DTEND:20251008T131500
-SUMMARY:SNUB (L)
-LOCATION:57/ 62
-DESCRIPTION:Symulacja numeryczna układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/12\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251009T114000
 DTEND:20251009T131500
 SUMMARY:MiSSR (w)
@@ -2916,18 +2895,25 @@ LOCATION:53/ 62
 DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251013T160000
+DTEND:20251013T173500
+SUMMARY:SNUB (w)
+LOCATION:53/ 62
+DESCRIPTION:Symulacja numeryczna układów biomechanicznych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251016T080000
 DTEND:20251016T093500
 SUMMARY:SNUB (L)
 LOCATION:57/ 62
-DESCRIPTION:Symulacja numeryczna układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/12\nProwadzący: -
+DESCRIPTION:Symulacja numeryczna układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T095000
 DTEND:20251016T112500
 SUMMARY:SNUB (L)
 LOCATION:57/ 62
-DESCRIPTION:Symulacja numeryczna układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący: -
+DESCRIPTION:Symulacja numeryczna układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T114000
@@ -3004,14 +2990,14 @@ DTSTART:20251022T080000
 DTEND:20251022T093500
 SUMMARY:SNUB (L)
 LOCATION:57/ 62
-DESCRIPTION:Symulacja numeryczna układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący: -
+DESCRIPTION:Symulacja numeryczna układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T095000
 DTEND:20251022T112500
 SUMMARY:SNUB (L)
 LOCATION:57/ 62
-DESCRIPTION:Symulacja numeryczna układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący: -
+DESCRIPTION:Symulacja numeryczna układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T114000
@@ -3096,20 +3082,6 @@ DTEND:20251024T211500
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 214/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251029T080000
-DTEND:20251029T093500
-SUMMARY:SNUB (L)
-LOCATION:57/ 62
-DESCRIPTION:Symulacja numeryczna układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251029T095000
-DTEND:20251029T112500
-SUMMARY:SNUB (L)
-LOCATION:57/ 62
-DESCRIPTION:Symulacja numeryczna układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T114000
@@ -3236,20 +3208,6 @@ DTEND:20251101T211500
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 228/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251105T080000
-DTEND:20251105T093500
-SUMMARY:SNUB (L)
-LOCATION:57/ 62
-DESCRIPTION:Symulacja numeryczna układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251105T095000
-DTEND:20251105T112500
-SUMMARY:SNUB (L)
-LOCATION:57/ 62
-DESCRIPTION:Symulacja numeryczna układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T114000
@@ -3532,6 +3490,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 256/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251118T095000
+DTEND:20251118T112500
+SUMMARY:SNUB (L)
+LOCATION:53/ 62
+DESCRIPTION:Symulacja numeryczna układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251118T114000
+DTEND:20251118T131500
+SUMMARY:SNUB (L)
+LOCATION:53/ 62
+DESCRIPTION:Symulacja numeryczna układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251119T080000
 DTEND:20251119T093500
 SUMMARY:Sd. (Inne)
@@ -3641,14 +3613,14 @@ DTSTART:20251127T114000
 DTEND:20251127T131500
 SUMMARY:SNUB (L)
 LOCATION:57/ 62
-DESCRIPTION:Symulacja numeryczna układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/12\nProwadzący: -
+DESCRIPTION:Symulacja numeryczna układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T133000
 DTEND:20251127T150500
 SUMMARY:SNUB (L)
 LOCATION:57/ 62
-DESCRIPTION:Symulacja numeryczna układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący: -
+DESCRIPTION:Symulacja numeryczna układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251128T080000
@@ -3698,6 +3670,34 @@ DTEND:20251128T211500
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 270/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251202T095000
+DTEND:20251202T112500
+SUMMARY:SNUB (L)
+LOCATION:53/ 62
+DESCRIPTION:Symulacja numeryczna układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251202T114000
+DTEND:20251202T131500
+SUMMARY:SNUB (L)
+LOCATION:53/ 62
+DESCRIPTION:Symulacja numeryczna układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251203T080000
+DTEND:20251203T093500
+SUMMARY:SNUB (L)
+LOCATION:53/ 62
+DESCRIPTION:Symulacja numeryczna układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251203T095000
+DTEND:20251203T112500
+SUMMARY:SNUB (L)
+LOCATION:53/ 62
+DESCRIPTION:Symulacja numeryczna układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T080000

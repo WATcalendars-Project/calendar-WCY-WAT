@@ -25,6 +25,13 @@ LOCATION:203 65
 DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251007T095000
+DTEND:20251007T112500
+SUMMARY:Psk (w)
+LOCATION:309 S
+DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251008T080000
 DTEND:20251008T093500
 SUMMARY:Zbi (w)
@@ -64,7 +71,7 @@ DTSTART:20251013T095000
 DTEND:20251013T112500
 SUMMARY:Psk (w)
 LOCATION:309 S
-DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T114000
@@ -78,7 +85,7 @@ DTSTART:20251015T114000
 DTEND:20251015T131500
 SUMMARY:Psk (w)
 LOCATION:203 65
-DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T095000
@@ -113,7 +120,7 @@ DTSTART:20251020T095000
 DTEND:20251020T112500
 SUMMARY:Psk (w)
 LOCATION:309 S
-DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T114000
@@ -219,13 +226,6 @@ DTEND:20251024T150500
 SUMMARY:BsW (w)
 LOCATION:203 65
 DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: mgr inż. Łukasz Laszko
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251027T080000
-DTEND:20251027T093500
-SUMMARY:Psk (w)
-LOCATION:203 65
-DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T095000
