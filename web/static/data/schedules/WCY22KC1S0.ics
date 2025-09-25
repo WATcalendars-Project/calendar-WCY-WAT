@@ -2482,8 +2482,8 @@ LOCATION:120 65 121 65
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251004T095000
-DTEND:20251004T112500
+DTSTART:20251004T080000
+DTEND:20251004T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/28\nProwadzący: -
@@ -2556,7 +2556,7 @@ DTSTART:20251008T194000
 DTEND:20251008T211500
 SUMMARY:WF (w)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T080000
@@ -2601,8 +2601,8 @@ LOCATION:316 S
 DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251011T095000
-DTEND:20251011T112500
+DTSTART:20251011T080000
+DTEND:20251011T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/28\nProwadzący: -
@@ -2734,8 +2734,8 @@ LOCATION:204 65
 DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251018T095000
-DTEND:20251018T112500
+DTSTART:20251018T080000
+DTEND:20251018T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/28\nProwadzący: -
@@ -2811,13 +2811,6 @@ LOCATION:121 65
 DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251022T194000
-DTEND:20251022T211500
-SUMMARY:WF (w)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251023T080000
 DTEND:20251023T093500
 SUMMARY:AśW (L)
@@ -2874,8 +2867,8 @@ LOCATION:121 65
 DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251025T095000
-DTEND:20251025T112500
+DTSTART:20251025T080000
+DTEND:20251025T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/28\nProwadzący: -
@@ -3116,7 +3109,7 @@ DTSTART:20251105T194000
 DTEND:20251105T211500
 SUMMARY:WF (w)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T080000
@@ -3168,8 +3161,8 @@ LOCATION:218 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251108T095000
-DTEND:20251108T112500
+DTSTART:20251108T080000
+DTEND:20251108T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/28\nProwadzący: -
@@ -3200,7 +3193,7 @@ DTSTART:20251112T194000
 DTEND:20251112T211500
 SUMMARY:WF (w)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T080000
@@ -3259,8 +3252,8 @@ LOCATION:121 65
 DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251115T095000
-DTEND:20251115T112500
+DTSTART:20251115T080000
+DTEND:20251115T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/28\nProwadzący: -
@@ -3350,13 +3343,6 @@ LOCATION:09 65
 DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251119T194000
-DTEND:20251119T211500
-SUMMARY:WF (w)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251120T080000
 DTEND:20251120T093500
 SUMMARY:Bsbp (L)
@@ -3420,8 +3406,8 @@ LOCATION:011 65
 DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/14\nProwadzący:  Paweł Głębocki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251122T095000
-DTEND:20251122T112500
+DTSTART:20251122T080000
+DTEND:20251122T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20/28\nProwadzący: -
@@ -3515,7 +3501,7 @@ DTSTART:20251126T194000
 DTEND:20251126T211500
 SUMMARY:WF (w)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T080000
@@ -3539,8 +3525,8 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 46/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251129T095000
-DTEND:20251129T112500
+DTSTART:20251129T080000
+DTEND:20251129T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/28\nProwadzący: -
@@ -3700,8 +3686,8 @@ LOCATION:218 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251206T095000
-DTEND:20251206T112500
+DTSTART:20251206T080000
+DTEND:20251206T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22/28\nProwadzący: -
@@ -3840,8 +3826,8 @@ LOCATION:011 65
 DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 4/8\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251213T095000
-DTEND:20251213T112500
+DTSTART:20251213T080000
+DTEND:20251213T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23/28\nProwadzący: -
@@ -4001,8 +3987,8 @@ LOCATION:121 65
 DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251220T095000
-DTEND:20251220T112500
+DTSTART:20251220T080000
+DTEND:20251220T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 24/28\nProwadzący: -
@@ -4092,8 +4078,8 @@ LOCATION:121 65
 DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260110T095000
-DTEND:20260110T112500
+DTSTART:20260110T080000
+DTEND:20260110T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/28\nProwadzący: -
@@ -4211,8 +4197,8 @@ LOCATION:120 65
 DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260117T095000
-DTEND:20260117T112500
+DTSTART:20260117T080000
+DTEND:20260117T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 26/28\nProwadzący: -
@@ -4337,8 +4323,8 @@ LOCATION:313 S
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260124T095000
-DTEND:20260124T112500
+DTSTART:20260124T080000
+DTEND:20260124T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 27/28\nProwadzący: -
@@ -4383,7 +4369,7 @@ DTSTART:20260128T194000
 DTEND:20260128T211500
 SUMMARY:WF (w)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T080000
@@ -4428,8 +4414,8 @@ LOCATION:011 65
 DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260131T095000
-DTEND:20260131T112500
+DTSTART:20260131T080000
+DTEND:20260131T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28/28\nProwadzący: -

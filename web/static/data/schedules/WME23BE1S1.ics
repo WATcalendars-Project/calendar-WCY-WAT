@@ -4029,6 +4029,13 @@ LOCATION:5/ 23a
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251021T080000
+DTEND:20251021T093500
+SUMMARY:Prmi (L)
+LOCATION:86 S
+DESCRIPTION:Programowanie mikrokontrolerów  - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251021T095000
 DTEND:20251021T112500
 SUMMARY:GwIB (ć)
@@ -4083,6 +4090,13 @@ DTEND:20251023T131500
 SUMMARY:Swb (w)
 LOCATION:54/ 62
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251023T133000
+DTEND:20251023T150500
+SUMMARY:Prmi (L)
+LOCATION:86 S
+DESCRIPTION:Programowanie mikrokontrolerów  - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T080000
@@ -4227,20 +4241,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T095000
 DTEND:20251030T112500
-SUMMARY:Prmi (L)
-LOCATION:86 S
-DESCRIPTION:Programowanie mikrokontrolerów  - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251030T114000
-DTEND:20251030T131500
 SUMMARY:Cps (L)
 LOCATION:86 S
 DESCRIPTION:Cyfrowe przetwarzanie sygnałów - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251030T133000
-DTEND:20251030T150500
+DTSTART:20251030T114000
+DTEND:20251030T131500
 SUMMARY:Cps (L)
 LOCATION:86 S
 DESCRIPTION:Cyfrowe przetwarzanie sygnałów - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący: -
@@ -4727,13 +4734,6 @@ DTEND:20251119T131500
 SUMMARY:Popt (w)
 LOCATION:118 45
 DESCRIPTION:Podstawy optoelektroniki - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T095000
-DTEND:20251120T112500
-SUMMARY:Prmi (L)
-LOCATION:86 S
-DESCRIPTION:Programowanie mikrokontrolerów  - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T114000

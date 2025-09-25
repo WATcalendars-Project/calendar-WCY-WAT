@@ -207,13 +207,6 @@ LOCATION:224 S
 DESCRIPTION:Metody numeryczne II\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: dr inż. Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251025T175000
-DTEND:20251025T192500
-SUMMARY:Ps (ć)
-LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: dr Piotr Mularczyk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251026T080000
 DTEND:20251026T093500
 SUMMARY:Jo (ć)
@@ -452,11 +445,32 @@ LOCATION:233 S
 DESCRIPTION:Teoria decyzji statystycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251122T160000
-DTEND:20251122T173500
+DTSTART:20251116T160000
+DTEND:20251116T173500
+SUMMARY:Tal (w)
+LOCATION:309 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251122T095000
+DTEND:20251122T112500
+SUMMARY:Nmtz (w)
+LOCATION:307 S
+DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251122T114000
+DTEND:20251122T131500
 SUMMARY:Ps (w)
-LOCATION:203 65
+LOCATION:204 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251122T133000
+DTEND:20251122T150500
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251123T080000
@@ -589,21 +603,21 @@ DTSTART:20251206T080000
 DTEND:20251206T093500
 SUMMARY:Tal (w)
 LOCATION:309 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T095000
 DTEND:20251206T112500
 SUMMARY:Tal (w)
 LOCATION:309 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T114000
 DTEND:20251206T131500
 SUMMARY:Nmtz (w)
 LOCATION:314 S
-DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: -
+DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T133000
@@ -634,18 +648,11 @@ LOCATION:134 K
 DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251207T133000
-DTEND:20251207T150500
+DTSTART:20251207T114000
+DTEND:20251207T131500
 SUMMARY:Clc (L)
 LOCATION:233 S
 DESCRIPTION:Cloud computing\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący: dr inż. Michał Dyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251207T160000
-DTEND:20251207T173500
-SUMMARY:Tal (w)
-LOCATION:309 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T095000
@@ -659,7 +666,7 @@ DTSTART:20251213T114000
 DTEND:20251213T131500
 SUMMARY:Nmtz (w)
 LOCATION:317 S
-DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: -
+DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T133000
@@ -737,13 +744,6 @@ DTEND:20251220T150500
 SUMMARY:Ps (w)
 LOCATION:203 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr Piotr Mularczyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251220T194000
-DTEND:20251220T211500
-SUMMARY:Nmtz (w)
-LOCATION:307 S
-DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251221T080000

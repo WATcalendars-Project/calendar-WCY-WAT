@@ -424,6 +424,13 @@ LOCATION:203 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251115T175000
+DTEND:20251115T192500
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251116T080000
 DTEND:20251116T093500
 SUMMARY:Jo (ć)
@@ -452,18 +459,25 @@ LOCATION:226 S
 DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251122T160000
-DTEND:20251122T173500
-SUMMARY:Ps (w)
-LOCATION:203 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr Piotr Mularczyk
+DTSTART:20251116T160000
+DTEND:20251116T173500
+SUMMARY:Tal (w)
+LOCATION:309 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251122T175000
-DTEND:20251122T192500
-SUMMARY:Ps (ć)
-LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: dr Piotr Mularczyk
+DTSTART:20251122T095000
+DTEND:20251122T112500
+SUMMARY:Nmtz (w)
+LOCATION:307 S
+DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251122T114000
+DTEND:20251122T131500
+SUMMARY:Ps (w)
+LOCATION:204 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251123T080000
@@ -589,21 +603,21 @@ DTSTART:20251206T080000
 DTEND:20251206T093500
 SUMMARY:Tal (w)
 LOCATION:309 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T095000
 DTEND:20251206T112500
 SUMMARY:Tal (w)
 LOCATION:309 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T114000
 DTEND:20251206T131500
 SUMMARY:Nmtz (w)
 LOCATION:314 S
-DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: -
+DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T133000
@@ -648,13 +662,6 @@ LOCATION:224 S
 DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251207T160000
-DTEND:20251207T173500
-SUMMARY:Tal (w)
-LOCATION:309 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251213T080000
 DTEND:20251213T093500
 SUMMARY:Msk. (L)
@@ -673,7 +680,7 @@ DTSTART:20251213T114000
 DTEND:20251213T131500
 SUMMARY:Nmtz (w)
 LOCATION:317 S
-DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: -
+DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T133000
@@ -751,13 +758,6 @@ DTEND:20251220T192500
 SUMMARY:MumII (L)
 LOCATION:223 S
 DESCRIPTION:Metody uczenia maszynowego II\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący: dr Jarosław Olejniczak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251220T194000
-DTEND:20251220T211500
-SUMMARY:Nmtz (w)
-LOCATION:307 S
-DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251221T080000

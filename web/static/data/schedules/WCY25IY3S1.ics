@@ -1257,6 +1257,13 @@ LOCATION:308 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/17\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260114T114000
+DTEND:20260114T131500
+SUMMARY:MD1 (ć)
+LOCATION:101 65
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący:  Anna Cichocka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260114T160000
 DTEND:20260114T173500
 SUMMARY:JoM (ć)
@@ -1297,13 +1304,6 @@ DTEND:20260116T093500
 SUMMARY:WdI (L)
 LOCATION:252 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/11\nProwadzący: mgr inż. Tadeusz Kowiorski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260116T095000
-DTEND:20260116T112500
-SUMMARY:MD1 (ć)
-LOCATION:101 65
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący:  Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T114000

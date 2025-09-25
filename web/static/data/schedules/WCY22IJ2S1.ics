@@ -1138,6 +1138,13 @@ LOCATION:314 S
 DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250929T080000
+DTEND:20250929T093500
+SUMMARY:Sn (Inne)
+LOCATION:227 S
+DESCRIPTION:Sieci neuronowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251007T080000
 DTEND:20251007T093500
 SUMMARY:Orr (w)

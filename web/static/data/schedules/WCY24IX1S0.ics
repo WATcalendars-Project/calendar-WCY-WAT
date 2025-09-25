@@ -2426,11 +2426,11 @@ LOCATION:aula/ 135
 DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251004T095000
-DTEND:20251004T112500
+DTSTART:20251004T080000
+DTEND:20251004T093500
 SUMMARY:XWF (ć)
 LOCATION:-
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/14\nProwadzący: -
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T080000
@@ -2566,11 +2566,11 @@ LOCATION:313 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251011T095000
-DTEND:20251011T112500
+DTSTART:20251011T080000
+DTEND:20251011T093500
 SUMMARY:XWF (ć)
 LOCATION:-
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/14\nProwadzący: -
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T080000
@@ -2706,11 +2706,11 @@ LOCATION:317 S
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251018T095000
-DTEND:20251018T112500
+DTSTART:20251018T080000
+DTEND:20251018T093500
 SUMMARY:XWF (ć)
 LOCATION:-
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/14\nProwadzący: -
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T080000
@@ -2888,11 +2888,11 @@ LOCATION:125 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251025T095000
-DTEND:20251025T112500
+DTSTART:20251025T080000
+DTEND:20251025T093500
 SUMMARY:XWF (ć)
 LOCATION:-
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/14\nProwadzący: -
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T080000
@@ -3231,11 +3231,11 @@ LOCATION:224 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/11\nProwadzący:  Piotr Kaliszuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251108T095000
-DTEND:20251108T112500
+DTSTART:20251108T080000
+DTEND:20251108T093500
 SUMMARY:XWF (ć)
 LOCATION:-
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/14\nProwadzący: -
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T080000
@@ -3336,11 +3336,11 @@ LOCATION:224 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/11\nProwadzący:  Piotr Kaliszuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251115T095000
-DTEND:20251115T112500
+DTSTART:20251115T080000
+DTEND:20251115T093500
 SUMMARY:XWF (ć)
 LOCATION:-
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/14\nProwadzący: -
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T080000
@@ -3488,6 +3488,13 @@ DTEND:20251121T150500
 SUMMARY:Tik (w)
 LOCATION:316 S
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251122T080000
+DTEND:20251122T093500
+SUMMARY:XWF (ć)
+LOCATION:-
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T095000
@@ -3658,11 +3665,11 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 9/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251129T095000
-DTEND:20251129T112500
+DTSTART:20251129T080000
+DTEND:20251129T093500
 SUMMARY:XWF (ć)
 LOCATION:-
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/14\nProwadzący: -
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T095000
@@ -3833,11 +3840,11 @@ LOCATION:125 65
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251206T095000
-DTEND:20251206T112500
+DTSTART:20251206T080000
+DTEND:20251206T093500
 SUMMARY:XWF (ć)
 LOCATION:-
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/14\nProwadzący: -
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T095000
@@ -3959,11 +3966,11 @@ LOCATION:218 65
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251213T095000
-DTEND:20251213T112500
+DTSTART:20251213T080000
+DTEND:20251213T093500
 SUMMARY:XWF (ć)
 LOCATION:-
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/14\nProwadzący: -
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T095000
@@ -4099,11 +4106,11 @@ LOCATION:101 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251220T095000
-DTEND:20251220T112500
+DTSTART:20251220T080000
+DTEND:20251220T093500
 SUMMARY:XWF (ć)
 LOCATION:-
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/14\nProwadzący: -
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T080000
@@ -4169,11 +4176,11 @@ LOCATION:101 65
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260110T095000
-DTEND:20260110T112500
+DTSTART:20260110T080000
+DTEND:20260110T093500
 SUMMARY:XWF (ć)
 LOCATION:-
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/14\nProwadzący: -
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T080000
@@ -4309,11 +4316,11 @@ LOCATION:011 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260117T095000
-DTEND:20260117T112500
+DTSTART:20260117T080000
+DTEND:20260117T093500
 SUMMARY:XWF (ć)
 LOCATION:-
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/14\nProwadzący: -
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T080000
@@ -4407,11 +4414,11 @@ LOCATION:aula/ 135
 DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 14/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260124T095000
-DTEND:20260124T112500
+DTSTART:20260124T080000
+DTEND:20260124T093500
 SUMMARY:XWF (ć)
 LOCATION:-
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/14\nProwadzący: -
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T080000
@@ -4533,11 +4540,11 @@ LOCATION:011 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: mgr inż. Łukasz Paciorek
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260131T095000
-DTEND:20260131T112500
+DTSTART:20260131T080000
+DTEND:20260131T093500
 SUMMARY:XWF (ć)
 LOCATION:-
-DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/14\nProwadzący: -
+DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T095000

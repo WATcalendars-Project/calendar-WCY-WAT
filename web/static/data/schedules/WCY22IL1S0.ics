@@ -2251,13 +2251,6 @@ LOCATION:308 S
 DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251001T160000
-DTEND:20251001T173500
-SUMMARY:SBD (Inne)
-LOCATION:313 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Jarosław Koszela
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251002T080000
 DTEND:20251002T093500
 SUMMARY:mo (w)
@@ -2286,8 +2279,8 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 31/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251004T095000
-DTEND:20251004T112500
+DTSTART:20251004T080000
+DTEND:20251004T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/28\nProwadzący: -
@@ -2325,7 +2318,7 @@ DTSTART:20251008T175000
 DTEND:20251008T192500
 SUMMARY:WF (w)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T080000
@@ -2377,8 +2370,8 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 33/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251011T095000
-DTEND:20251011T112500
+DTSTART:20251011T080000
+DTEND:20251011T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/28\nProwadzący: -
@@ -2503,8 +2496,8 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 35/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251018T095000
-DTEND:20251018T112500
+DTSTART:20251018T080000
+DTEND:20251018T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/28\nProwadzący: -
@@ -2543,13 +2536,6 @@ DTEND:20251022T150500
 SUMMARY:Ps (ć)
 LOCATION:218 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: dr Justyna Kurkowiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251022T175000
-DTEND:20251022T192500
-SUMMARY:WF (w)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T080000
@@ -2615,8 +2601,8 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 37/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251025T095000
-DTEND:20251025T112500
+DTSTART:20251025T080000
+DTEND:20251025T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/28\nProwadzący: -
@@ -2850,7 +2836,7 @@ DTSTART:20251105T175000
 DTEND:20251105T192500
 SUMMARY:WF (w)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T080000
@@ -2902,8 +2888,8 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 41/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251108T095000
-DTEND:20251108T112500
+DTSTART:20251108T080000
+DTEND:20251108T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/28\nProwadzący: -
@@ -2941,7 +2927,7 @@ DTSTART:20251112T175000
 DTEND:20251112T192500
 SUMMARY:WF (w)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T080000
@@ -2986,8 +2972,8 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 42/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251115T095000
-DTEND:20251115T112500
+DTSTART:20251115T080000
+DTEND:20251115T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/28\nProwadzący: -
@@ -3049,13 +3035,6 @@ LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 46/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251119T175000
-DTEND:20251119T192500
-SUMMARY:WF (w)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251120T080000
 DTEND:20251120T093500
 SUMMARY:mo (w)
@@ -3098,8 +3077,8 @@ LOCATION:307 S
 DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251122T095000
-DTEND:20251122T112500
+DTSTART:20251122T080000
+DTEND:20251122T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20/28\nProwadzący: -
@@ -3179,7 +3158,7 @@ DTSTART:20251126T175000
 DTEND:20251126T192500
 SUMMARY:WF (w)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T080000
@@ -3231,8 +3210,8 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251129T095000
-DTEND:20251129T112500
+DTSTART:20251129T080000
+DTEND:20251129T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/28\nProwadzący: -
@@ -3322,8 +3301,8 @@ LOCATION:307 S
 DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251206T095000
-DTEND:20251206T112500
+DTSTART:20251206T080000
+DTEND:20251206T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22/28\nProwadzący: -
@@ -3441,8 +3420,8 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 49/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251213T095000
-DTEND:20251213T112500
+DTSTART:20251213T080000
+DTEND:20251213T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23/28\nProwadzący: -
@@ -3567,8 +3546,8 @@ LOCATION:317 S
 DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 6/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251220T095000
-DTEND:20251220T112500
+DTSTART:20251220T080000
+DTEND:20251220T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 24/28\nProwadzący: -
@@ -3651,8 +3630,8 @@ LOCATION:309 S
 DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Wykład\nNr zajęć: 7/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260110T095000
-DTEND:20260110T112500
+DTSTART:20260110T080000
+DTEND:20260110T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/28\nProwadzący: -
@@ -3749,8 +3728,8 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 56/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260117T095000
-DTEND:20260117T112500
+DTSTART:20260117T080000
+DTEND:20260117T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 26/28\nProwadzący: -
@@ -3847,8 +3826,8 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 58/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260124T095000
-DTEND:20260124T112500
+DTSTART:20260124T080000
+DTEND:20260124T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 27/28\nProwadzący: -
@@ -3949,7 +3928,7 @@ DTSTART:20260128T175000
 DTEND:20260128T192500
 SUMMARY:WF (w)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T080000
@@ -4001,8 +3980,8 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 60/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260131T095000
-DTEND:20260131T112500
+DTSTART:20260131T080000
+DTEND:20260131T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28/28\nProwadzący: -
