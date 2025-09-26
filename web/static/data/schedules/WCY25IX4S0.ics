@@ -1280,37 +1280,37 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T114000
 DTEND:20251127T131500
-SUMMARY:RiAIP (ć)
-LOCATION:PĆT2
-DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 21/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T133000
 DTEND:20251127T150500
-SUMMARY:RiAIP (ć)
-LOCATION:PĆT2
-DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 22/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T160000
 DTEND:20251127T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 21/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 23/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T175000
 DTEND:20251127T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 22/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 24/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T194000
 DTEND:20251127T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 23/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 25/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T080000
@@ -1457,14 +1457,14 @@ DTSTART:20251204T175000
 DTEND:20251204T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 24/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 26/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T194000
 DTEND:20251204T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 25/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 27/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T080000
@@ -1604,7 +1604,7 @@ DTSTART:20251211T194000
 DTEND:20251211T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 26/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 28/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T095000
@@ -1728,16 +1728,30 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T095000
 DTEND:20251218T112500
-SUMMARY:REG (ć)
-LOCATION:PL.MUSZ1
-DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 29/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251218T114000
+DTEND:20251218T131500
+SUMMARY:RiAIP (ć)
+LOCATION:PĆT5
+DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251218T133000
+DTEND:20251218T150500
+SUMMARY:RiAIP (ć)
+LOCATION:PĆT5
+DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T194000
 DTEND:20251218T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 27/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 30/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T080000
@@ -1814,7 +1828,7 @@ DTSTART:20260108T194000
 DTEND:20260108T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 28/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 31/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T080000
@@ -1926,7 +1940,7 @@ DTSTART:20260115T095000
 DTEND:20260115T112500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 29/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 32/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T114000
@@ -1947,21 +1961,21 @@ DTSTART:20260115T160000
 DTEND:20260115T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 30/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 33/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T175000
 DTEND:20260115T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 31/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 34/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T194000
 DTEND:20260115T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 32/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 35/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T080000
@@ -2080,7 +2094,7 @@ DTSTART:20260122T095000
 DTEND:20260122T112500
 SUMMARY:REG (ć)
 LOCATION:PL.MUSZ1
-DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
+DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T114000
@@ -2094,7 +2108,7 @@ DTSTART:20260122T194000
 DTEND:20260122T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 33/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 36/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T080000
@@ -2206,7 +2220,7 @@ DTSTART:20260129T114000
 DTEND:20260129T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 34/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 37/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T133000
@@ -2220,7 +2234,14 @@ DTSTART:20260129T194000
 DTEND:20260129T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 35/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 38/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260130T080000
+DTEND:20260130T093500
+SUMMARY:REG (ć)
+LOCATION:PL.MUSZ1
+DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T095000
@@ -2318,34 +2339,34 @@ DTSTART:20260609T114000
 DTEND:20260609T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 36/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 39/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T133000
 DTEND:20260609T150500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 37/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 40/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T160000
 DTEND:20260609T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 38/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 41/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T175000
 DTEND:20260609T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 39/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 42/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T194000
 DTEND:20260609T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 40/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 43/1\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

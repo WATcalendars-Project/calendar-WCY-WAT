@@ -1978,6 +1978,20 @@ LOCATION:313 S
 DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250930T080000
+DTEND:20250930T093500
+SUMMARY:Pjf (Inne)
+LOCATION:236 S
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Krzysztof Mierzejewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250930T095000
+DTEND:20250930T112500
+SUMMARY:Pjf (Inne)
+LOCATION:236 S
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Krzysztof Mierzejewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251001T080000
 DTEND:20251001T093500
 SUMMARY:Tal (Inne)

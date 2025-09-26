@@ -585,25 +585,11 @@ LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251030T080000
-DTEND:20251030T093500
-SUMMARY:RiAIP (ć)
-LOCATION:PĆT1
-DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251030T095000
-DTEND:20251030T112500
-SUMMARY:RiAIP (ć)
-LOCATION:PĆT1
-DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251030T114000
 DTEND:20251030T131500
-SUMMARY:- (S.Sz.W.)
+SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 5/1\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T133000
@@ -624,7 +610,7 @@ DTSTART:20251030T194000
 DTEND:20251030T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 6/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 5/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T095000
@@ -687,7 +673,7 @@ DTSTART:20251104T080000
 DTEND:20251104T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/30\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T095000
@@ -757,7 +743,7 @@ DTSTART:20251106T114000
 DTEND:20251106T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/30\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T133000
@@ -785,7 +771,7 @@ DTSTART:20251106T194000
 DTEND:20251106T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 7/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 6/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T080000
@@ -855,7 +841,7 @@ DTSTART:20251113T114000
 DTEND:20251113T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/30\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T133000
@@ -883,7 +869,7 @@ DTSTART:20251113T194000
 DTEND:20251113T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 8/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 7/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T080000
@@ -967,7 +953,7 @@ DTSTART:20251118T080000
 DTEND:20251118T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/30\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T095000
@@ -1051,21 +1037,21 @@ DTSTART:20251120T160000
 DTEND:20251120T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 9/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 8/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T175000
 DTEND:20251120T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 10/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 9/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T194000
 DTEND:20251120T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 11/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 10/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T095000
@@ -1135,7 +1121,7 @@ DTSTART:20251125T080000
 DTEND:20251125T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/30\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T095000
@@ -1205,7 +1191,7 @@ DTSTART:20251127T114000
 DTEND:20251127T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/30\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T133000
@@ -1226,7 +1212,7 @@ DTSTART:20251127T194000
 DTEND:20251127T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 12/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 11/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T080000
@@ -1261,7 +1247,7 @@ DTSTART:20251202T080000
 DTEND:20251202T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/30\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T095000
@@ -1331,7 +1317,7 @@ DTSTART:20251204T114000
 DTEND:20251204T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/30\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T133000
@@ -1359,7 +1345,7 @@ DTSTART:20251204T194000
 DTEND:20251204T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 13/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 12/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T114000
@@ -1401,7 +1387,7 @@ DTSTART:20251208T114000
 DTEND:20251208T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/30\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T133000
@@ -1429,7 +1415,7 @@ DTSTART:20251209T080000
 DTEND:20251209T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/30\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T095000
@@ -1492,7 +1478,7 @@ DTSTART:20251211T114000
 DTEND:20251211T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/30\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T133000
@@ -1506,7 +1492,7 @@ DTSTART:20251211T194000
 DTEND:20251211T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 14/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 13/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T114000
@@ -1548,7 +1534,7 @@ DTSTART:20251215T114000
 DTEND:20251215T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20/30\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T133000
@@ -1576,7 +1562,7 @@ DTSTART:20251216T080000
 DTEND:20251216T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/30\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T095000
@@ -1625,7 +1611,7 @@ DTSTART:20251217T114000
 DTEND:20251217T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 14/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T133000
@@ -1660,7 +1646,7 @@ DTSTART:20251218T114000
 DTEND:20251218T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 16/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T160000
@@ -1681,7 +1667,7 @@ DTSTART:20251218T194000
 DTEND:20251218T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 17/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 16/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T133000
@@ -1719,6 +1705,13 @@ LOCATION:204 65
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/19\nProwadzący: dr Jan Nawrocki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260108T080000
+DTEND:20260108T093500
+SUMMARY:REG (ć)
+LOCATION:PL.MUSZ2
+DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260108T095000
 DTEND:20260108T112500
 SUMMARY:OPW (w)
@@ -1730,7 +1723,7 @@ DTSTART:20260108T114000
 DTEND:20260108T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22/30\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T133000
@@ -1751,7 +1744,7 @@ DTSTART:20260108T194000
 DTEND:20260108T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 18/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 17/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T114000
@@ -1793,14 +1786,14 @@ DTSTART:20260112T114000
 DTEND:20260112T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23/30\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 24/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T080000
 DTEND:20260113T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 24/30\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T095000
@@ -1838,18 +1831,25 @@ LOCATION:219 65
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący:  Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260115T080000
+DTEND:20260115T093500
+SUMMARY:RiAIP (ć)
+LOCATION:PĆT5
+DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260115T095000
 DTEND:20260115T112500
-SUMMARY:REG (ć)
-LOCATION:PL.MUSZ1
-DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
+SUMMARY:RiAIP (ć)
+LOCATION:PĆT6
+DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T114000
 DTEND:20260115T131500
-SUMMARY:WF (ć)
+SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/30\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 18/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T133000

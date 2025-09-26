@@ -1933,7 +1933,7 @@ DTSTART:20250626T133000
 DTEND:20250626T150500
 SUMMARY:Etl (Inne)
 LOCATION:314 S
-DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Robert Dryło
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T095000
@@ -2116,6 +2116,13 @@ DTEND:20251003T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 21/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251004T080000
+DTEND:20251004T093500
+SUMMARY:Etl (Inne)
+LOCATION:314 S
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T095000

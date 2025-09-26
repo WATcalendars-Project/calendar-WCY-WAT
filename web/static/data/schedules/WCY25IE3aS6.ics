@@ -74,6 +74,20 @@ LOCATION:203 65
 DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250925T114000
+DTEND:20250925T131500
+SUMMARY:AsU (L)
+LOCATION:106 65
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250925T133000
+DTEND:20250925T150500
+SUMMARY:AsU (L)
+LOCATION:106 65
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250926T080000
 DTEND:20250926T093500
 SUMMARY:Rsk (w)
@@ -85,7 +99,7 @@ DTSTART:20250929T095000
 DTEND:20250929T112500
 SUMMARY:AsU (L)
 LOCATION:106 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250929T114000
@@ -169,14 +183,14 @@ DTSTART:20251006T095000
 DTEND:20251006T112500
 SUMMARY:AsU (L)
 LOCATION:106 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T114000
 DTEND:20251006T131500
 SUMMARY:AsU (L)
 LOCATION:106 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T133000
@@ -387,20 +401,6 @@ DTEND:20251022T173500
 SUMMARY:Lan (L)
 LOCATION:120 65
 DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr inż. Tomasz Malinowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251023T114000
-DTEND:20251023T131500
-SUMMARY:AsU (L)
-LOCATION:106 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr inż. Krystian Wojdygowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251023T133000
-DTEND:20251023T150500
-SUMMARY:AsU (L)
-LOCATION:106 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T160000

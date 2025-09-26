@@ -2699,20 +2699,6 @@ LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 36/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251020T114000
-DTEND:20251020T131500
-SUMMARY:PO (w)
-LOCATION:317 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251020T133000
-DTEND:20251020T150500
-SUMMARY:PO (w)
-LOCATION:317 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251021T080000
 DTEND:20251021T093500
 SUMMARY:OIN (w)
@@ -2801,14 +2787,14 @@ DTSTART:20251024T114000
 DTEND:20251024T131500
 SUMMARY:PO (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T133000
 DTEND:20251024T150500
 SUMMARY:PO (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T080000
@@ -2930,6 +2916,13 @@ LOCATION:aula/ 135
 DESCRIPTION:Profilaktyka antykorupcyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251029T175000
+DTEND:20251029T192500
+SUMMARY:PO (w)
+LOCATION:317 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251030T080000
 DTEND:20251030T093500
 SUMMARY:WF (ć)
@@ -2969,14 +2962,14 @@ DTSTART:20251031T114000
 DTEND:20251031T131500
 SUMMARY:PO (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T133000
 DTEND:20251031T150500
 SUMMARY:PO (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T080000
@@ -3005,6 +2998,13 @@ DTEND:20251103T150500
 SUMMARY:Als (w)
 LOCATION:313 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/9\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251103T175000
+DTEND:20251103T192500
+SUMMARY:PO (w)
+LOCATION:313 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T080000

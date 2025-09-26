@@ -2727,20 +2727,6 @@ LOCATION:316 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251020T114000
-DTEND:20251020T131500
-SUMMARY:PO (w)
-LOCATION:317 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251020T133000
-DTEND:20251020T150500
-SUMMARY:PO (w)
-LOCATION:317 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251020T160000
 DTEND:20251020T173500
 SUMMARY:F2 (L)
@@ -2871,14 +2857,14 @@ DTSTART:20251024T114000
 DTEND:20251024T131500
 SUMMARY:PO (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T133000
 DTEND:20251024T150500
 SUMMARY:PO (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T160000
@@ -2986,6 +2972,13 @@ LOCATION:aula/ 135
 DESCRIPTION:Profilaktyka antykorupcyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251029T175000
+DTEND:20251029T192500
+SUMMARY:PO (w)
+LOCATION:317 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251030T080000
 DTEND:20251030T093500
 SUMMARY:WF (ć)
@@ -3032,14 +3025,14 @@ DTSTART:20251031T114000
 DTEND:20251031T131500
 SUMMARY:PO (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T133000
 DTEND:20251031T150500
 SUMMARY:PO (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T160000
@@ -3082,6 +3075,13 @@ DTEND:20251103T173500
 SUMMARY:Aok (L)
 LOCATION:106 65
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/16\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251103T175000
+DTEND:20251103T192500
+SUMMARY:PO (w)
+LOCATION:313 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T080000

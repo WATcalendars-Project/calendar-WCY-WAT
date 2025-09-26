@@ -2636,20 +2636,6 @@ LOCATION:203 65
 DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251021T114000
-DTEND:20251021T131500
-SUMMARY:Sme. (w)
-LOCATION:317 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251021T133000
-DTEND:20251021T150500
-SUMMARY:Sme. (w)
-LOCATION:317 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251021T160000
 DTEND:20251021T173500
 SUMMARY:Ja (ć)
@@ -2934,14 +2920,14 @@ DTSTART:20251104T114000
 DTEND:20251104T131500
 SUMMARY:Sme. (w)
 LOCATION:317 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T133000
 DTEND:20251104T150500
 SUMMARY:Sme. (w)
 LOCATION:317 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T160000
@@ -2991,6 +2977,20 @@ DTEND:20251106T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 45/70\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251106T160000
+DTEND:20251106T173500
+SUMMARY:Sme. (w)
+LOCATION:314 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251106T175000
+DTEND:20251106T192500
+SUMMARY:Sme. (w)
+LOCATION:314 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T080000

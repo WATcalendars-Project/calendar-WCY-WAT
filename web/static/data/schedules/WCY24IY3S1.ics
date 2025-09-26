@@ -1807,21 +1807,21 @@ DTSTART:20250715T095000
 DTEND:20250715T112500
 SUMMARY:F1 (Inne)
 LOCATION:315 S
-DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 1/6\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250715T114000
 DTEND:20250715T131500
 SUMMARY:F1 (Inne)
 LOCATION:315 S
-DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 2/6\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250715T133000
 DTEND:20250715T150500
 SUMMARY:F1 (Inne)
 LOCATION:315 S
-DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 3/6\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250912T133000
@@ -1905,21 +1905,21 @@ DTSTART:20250923T095000
 DTEND:20250923T112500
 SUMMARY:F1 (Inne)
 LOCATION:315 S
-DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 4/6\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250923T114000
 DTEND:20250923T131500
 SUMMARY:F1 (Inne)
 LOCATION:315 S
-DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 5/6\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250923T133000
 DTEND:20250923T150500
 SUMMARY:F1 (Inne)
 LOCATION:315 S
-DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 6/6\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T080000
@@ -2781,6 +2781,13 @@ DTEND:20251124T150500
 SUMMARY:SO (L)
 LOCATION:237 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/13\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251124T194000
+DTEND:20251124T211500
+SUMMARY:F1 (Inne)
+LOCATION:313 S
+DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T080000

@@ -385,28 +385,28 @@ BEGIN:VEVENT
 DTSTART:20251010T080000
 DTEND:20251010T093500
 SUMMARY:In.WIM (Inne)
-LOCATION:S. Kinowa K
+LOCATION:-
 DESCRIPTION:Inauguracja r.ak. WIM\nRodzaj zajęć:  - \nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T095000
 DTEND:20251010T112500
 SUMMARY:In.WIM (Inne)
-LOCATION:S. Kinowa K
+LOCATION:-
 DESCRIPTION:Inauguracja r.ak. WIM\nRodzaj zajęć:  - \nNr zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T114000
 DTEND:20251010T131500
 SUMMARY:In.WIM (Inne)
-LOCATION:S. Kinowa K
+LOCATION:-
 DESCRIPTION:Inauguracja r.ak. WIM\nRodzaj zajęć:  - \nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T133000
 DTEND:20251010T150500
 SUMMARY:In.WIM (Inne)
-LOCATION:S. Kinowa K
+LOCATION:-
 DESCRIPTION:Inauguracja r.ak. WIM\nRodzaj zajęć:  - \nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -1063,9 +1063,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T133000
 DTEND:20251119T150500
-SUMMARY:Mat2 (w)
+SUMMARY:M1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 1/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 13/15\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T080000
@@ -1156,7 +1156,7 @@ DTSTART:20251125T095000
 DTEND:20251125T112500
 SUMMARY:M1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 13/15\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 14/15\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T114000
@@ -1189,9 +1189,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T133000
 DTEND:20251126T150500
-SUMMARY:Mat2 (w)
+SUMMARY:M1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 2/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 15/15\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T080000
@@ -1301,16 +1301,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T095000
 DTEND:20251202T112500
-SUMMARY:M1 (w)
+SUMMARY:Mat2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 14/15\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 1/17\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T114000
 DTEND:20251202T131500
 SUMMARY:Mat2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 3/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 2/17\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T133000
@@ -1345,7 +1345,7 @@ DTSTART:20251203T133000
 DTEND:20251203T150500
 SUMMARY:Mat2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 4/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 3/17\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T080000
@@ -1450,7 +1450,7 @@ DTSTART:20251208T114000
 DTEND:20251208T131500
 SUMMARY:Mat2 (w)
 LOCATION:3.8 75
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 5/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 4/17\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T080000
@@ -1462,9 +1462,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T095000
 DTEND:20251209T112500
-SUMMARY:M1 (w)
+SUMMARY:Mat2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 15/15\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 5/17\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T114000

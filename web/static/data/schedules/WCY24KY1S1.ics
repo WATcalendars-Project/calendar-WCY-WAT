@@ -1919,35 +1919,35 @@ DTSTART:20250715T095000
 DTEND:20250715T112500
 SUMMARY:F1 (Inne)
 LOCATION:315 S
-DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 1/6\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 1/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250715T114000
 DTEND:20250715T131500
 SUMMARY:F1 (Inne)
 LOCATION:315 S
-DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 2/6\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250715T133000
 DTEND:20250715T150500
 SUMMARY:F1 (Inne)
 LOCATION:315 S
-DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 3/6\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 3/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250911T095000
 DTEND:20250911T112500
 SUMMARY:F1 (Inne)
 LOCATION:313 S
-DESCRIPTION:Fizyka 1 - (zal popr) -\nRodzaj zajęć:  - \nNr zajęć: 4/6\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (zal popr) -\nRodzaj zajęć:  - \nNr zajęć: 4/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250911T114000
 DTEND:20250911T131500
 SUMMARY:F1 (Inne)
 LOCATION:313 S
-DESCRIPTION:Fizyka 1 - (zal popr) -\nRodzaj zajęć:  - \nNr zajęć: 5/6\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (zal popr) -\nRodzaj zajęć:  - \nNr zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250912T133000
@@ -2031,21 +2031,21 @@ DTSTART:20250923T095000
 DTEND:20250923T112500
 SUMMARY:F1 (Inne)
 LOCATION:315 S
-DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 6/6\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250923T114000
 DTEND:20250923T131500
 SUMMARY:F1 (Inne)
 LOCATION:315 S
-DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 7/6\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250923T133000
 DTEND:20250923T150500
 SUMMARY:F1 (Inne)
 LOCATION:315 S
-DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 8/6\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T080000
@@ -2970,6 +2970,20 @@ DTEND:20251124T173500
 SUMMARY:Sm (L)
 LOCATION:078 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251124T175000
+DTEND:20251124T192500
+SUMMARY:F1 (Inne)
+LOCATION:313 S
+DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 9/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251124T194000
+DTEND:20251124T211500
+SUMMARY:F1 (Inne)
+LOCATION:313 S
+DESCRIPTION:Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 10/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T080000
