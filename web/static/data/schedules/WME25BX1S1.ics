@@ -1551,6 +1551,13 @@ LOCATION:3.8 75
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 7/17\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251215T133000
+DTEND:20251215T150500
+SUMMARY:WDM (ć)
+LOCATION:2/ 68
+DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251216T080000
 DTEND:20251216T093500
 SUMMARY:Wdi. (w)
@@ -1605,13 +1612,6 @@ DTEND:20251218T112500
 SUMMARY:Mat2 (ć)
 LOCATION:108/ 54
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/17\nProwadzący: dr Jerzy Ploch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251218T114000
-DTEND:20251218T131500
-SUMMARY:WDM (ć)
-LOCATION:2/ 68
-DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T160000

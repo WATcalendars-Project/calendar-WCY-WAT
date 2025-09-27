@@ -4,20 +4,6 @@ PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY24KC1S4
 BEGIN:VEVENT
-DTSTART:20251008T080000
-DTEND:20251008T093500
-SUMMARY:Zbi (w)
-LOCATION:101 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący:  Mieczysław Kania
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251008T095000
-DTEND:20251008T112500
-SUMMARY:mST (w)
-LOCATION:101 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: mgr inż. Łukasz Laszko
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251008T114000
 DTEND:20251008T131500
 SUMMARY:Aip (w)
@@ -37,13 +23,6 @@ DTEND:20251009T093500
 SUMMARY:Temo (w)
 LOCATION:-
 DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Artur Arciuch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251009T095000
-DTEND:20251009T112500
-SUMMARY:Tds (w)
-LOCATION:101 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T080000
@@ -74,20 +53,6 @@ LOCATION:101 65
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251015T080000
-DTEND:20251015T093500
-SUMMARY:Zbi (w)
-LOCATION:101 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący:  Mieczysław Kania
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251015T095000
-DTEND:20251015T112500
-SUMMARY:Zbi (w)
-LOCATION:101 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący:  Mieczysław Kania
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251016T080000
 DTEND:20251016T093500
 SUMMARY:Temo (w)
@@ -99,7 +64,7 @@ DTSTART:20251016T095000
 DTEND:20251016T112500
 SUMMARY:Tds (w)
 LOCATION:101 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T080000
@@ -109,18 +74,25 @@ LOCATION:308 S
 DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251017T095000
+DTEND:20251017T112500
+SUMMARY:Zbi (w)
+LOCATION:201 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący:  Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251022T080000
 DTEND:20251022T093500
 SUMMARY:Zbi (w)
 LOCATION:101 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący:  Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący:  Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T095000
 DTEND:20251022T112500
 SUMMARY:mST (w)
 LOCATION:101 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T114000
@@ -141,7 +113,7 @@ DTSTART:20251023T095000
 DTEND:20251023T112500
 SUMMARY:Tds (w)
 LOCATION:101 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T080000
@@ -197,7 +169,7 @@ DTSTART:20251029T095000
 DTEND:20251029T112500
 SUMMARY:mST (w)
 LOCATION:101 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T114000
@@ -239,7 +211,7 @@ DTSTART:20251030T133000
 DTEND:20251030T150500
 SUMMARY:Tds (w)
 LOCATION:101 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T080000
@@ -288,7 +260,7 @@ DTSTART:20251105T095000
 DTEND:20251105T112500
 SUMMARY:mST (w)
 LOCATION:101 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T114000
@@ -365,7 +337,7 @@ DTSTART:20251112T095000
 DTEND:20251112T112500
 SUMMARY:mST (w)
 LOCATION:101 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T114000
@@ -407,14 +379,14 @@ DTSTART:20251113T133000
 DTEND:20251113T150500
 SUMMARY:Tds (w)
 LOCATION:101 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T080000
 DTEND:20251114T093500
 SUMMARY:Zbi (w)
 LOCATION:101 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący:  Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący:  Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T095000
@@ -470,7 +442,7 @@ DTSTART:20251119T095000
 DTEND:20251119T112500
 SUMMARY:mST (w)
 LOCATION:101 65
-DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: mgr inż. Łukasz Laszko
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T114000
@@ -508,6 +480,20 @@ LOCATION:106 65
 DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251120T133000
+DTEND:20251120T150500
+SUMMARY:Tds (w)
+LOCATION:101 65
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251121T080000
+DTEND:20251121T093500
+SUMMARY:Zbi (w)
+LOCATION:203 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący:  Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251121T095000
 DTEND:20251121T112500
 SUMMARY:Zt (L)
@@ -520,6 +506,13 @@ DTEND:20251121T131500
 SUMMARY:Zt (L)
 LOCATION:120 65
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251124T160000
+DTEND:20251124T173500
+SUMMARY:mST (w)
+LOCATION:205 65
+DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T175000
@@ -547,7 +540,7 @@ DTSTART:20251126T080000
 DTEND:20251126T093500
 SUMMARY:Zbi (w)
 LOCATION:101 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący:  Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący:  Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T095000
@@ -652,7 +645,7 @@ DTSTART:20251203T080000
 DTEND:20251203T093500
 SUMMARY:Zbi (w)
 LOCATION:101 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący:  Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący:  Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T095000
@@ -708,7 +701,7 @@ DTSTART:20251205T080000
 DTEND:20251205T093500
 SUMMARY:Zbi (w)
 LOCATION:101 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący:  Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący:  Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T095000
@@ -736,7 +729,7 @@ DTSTART:20251210T080000
 DTEND:20251210T093500
 SUMMARY:Zbi (w)
 LOCATION:101 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący:  Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący:  Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T095000
@@ -778,7 +771,7 @@ DTSTART:20251212T080000
 DTEND:20251212T093500
 SUMMARY:Zbi (w)
 LOCATION:101 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący:  Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T095000
@@ -842,6 +835,13 @@ DTEND:20251218T112500
 SUMMARY:Aip (L)
 LOCATION:106 65
 DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251219T080000
+DTEND:20251219T093500
+SUMMARY:Zbi (w)
+LOCATION:101 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T095000

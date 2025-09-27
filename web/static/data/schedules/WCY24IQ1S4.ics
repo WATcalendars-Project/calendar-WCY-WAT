@@ -25,6 +25,13 @@ LOCATION:201 65
 DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr Lucjan Kowalski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251013T080000
+DTEND:20251013T093500
+SUMMARY:Ekk (w)
+LOCATION:223 S
+DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Paweł Moszczyński
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251013T095000
 DTEND:20251013T112500
 SUMMARY:Eaa (w)
@@ -37,13 +44,6 @@ DTEND:20251013T131500
 SUMMARY:Mpik (w)
 LOCATION:201 65
 DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr hab. Marek Kojdecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251014T095000
-DTEND:20251014T112500
-SUMMARY:Ekk (w)
-LOCATION:223 S
-DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T114000
@@ -81,6 +81,13 @@ LOCATION:201 65
 DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr Lucjan Kowalski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251020T080000
+DTEND:20251020T093500
+SUMMARY:Ekk (w)
+LOCATION:224 S
+DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Paweł Moszczyński
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251020T095000
 DTEND:20251020T112500
 SUMMARY:Eaa (w)
@@ -93,13 +100,6 @@ DTEND:20251020T131500
 SUMMARY:Mpik (w)
 LOCATION:201 65
 DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. Marek Kojdecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251021T095000
-DTEND:20251021T112500
-SUMMARY:Ekk (w)
-LOCATION:223 S
-DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T114000
@@ -151,6 +151,13 @@ LOCATION:308 S
 DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251027T080000
+DTEND:20251027T093500
+SUMMARY:Ekk (w)
+LOCATION:224 S
+DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Paweł Moszczyński
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251027T095000
 DTEND:20251027T112500
 SUMMARY:Eaa (w)
@@ -163,13 +170,6 @@ DTEND:20251027T131500
 SUMMARY:Mpik (w)
 LOCATION:201 65
 DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. Marek Kojdecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251028T095000
-DTEND:20251028T112500
-SUMMARY:Ekk (w)
-LOCATION:223 S
-DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T114000
@@ -240,13 +240,6 @@ DTEND:20251103T131500
 SUMMARY:Mpik (w)
 LOCATION:201 65
 DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr hab. Marek Kojdecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251104T080000
-DTEND:20251104T093500
-SUMMARY:Ekk (w)
-LOCATION:223 S
-DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T095000
@@ -354,6 +347,13 @@ LOCATION:201 65
 DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251117T080000
+DTEND:20251117T093500
+SUMMARY:Ekk (w)
+LOCATION:223 S
+DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Paweł Moszczyński
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251117T095000
 DTEND:20251117T112500
 SUMMARY:Eaa (w)
@@ -366,13 +366,6 @@ DTEND:20251117T131500
 SUMMARY:Mpik (ć)
 LOCATION:201 65
 DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: dr hab. Marek Kojdecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251118T080000
-DTEND:20251118T093500
-SUMMARY:Ekk (w)
-LOCATION:223 S
-DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T095000
@@ -445,6 +438,13 @@ LOCATION:201 65
 DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251124T080000
+DTEND:20251124T093500
+SUMMARY:Ekk (w)
+LOCATION:223 S
+DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Paweł Moszczyński
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251124T095000
 DTEND:20251124T112500
 SUMMARY:Eaa (w)
@@ -457,13 +457,6 @@ DTEND:20251124T131500
 SUMMARY:Mpik (ć)
 LOCATION:201 65
 DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr hab. Marek Kojdecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251125T080000
-DTEND:20251125T093500
-SUMMARY:Ekk (w)
-LOCATION:223 S
-DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T095000
@@ -613,6 +606,13 @@ LOCATION:201 65
 DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251208T080000
+DTEND:20251208T093500
+SUMMARY:Ekk (w)
+LOCATION:224 S
+DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Paweł Moszczyński
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251208T095000
 DTEND:20251208T112500
 SUMMARY:Wekk (w)
@@ -625,13 +625,6 @@ DTEND:20251208T131500
 SUMMARY:Mpik (ć)
 LOCATION:201 65
 DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr hab. Marek Kojdecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251209T080000
-DTEND:20251209T093500
-SUMMARY:Ekk (w)
-LOCATION:224 S
-DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T095000
@@ -695,6 +688,13 @@ DTEND:20251211T131500
 SUMMARY:Weok (L)
 LOCATION:223 S
 DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251215T080000
+DTEND:20251215T093500
+SUMMARY:Ekk (w)
+LOCATION:233 S
+DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T095000

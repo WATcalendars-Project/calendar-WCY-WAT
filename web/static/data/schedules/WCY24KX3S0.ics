@@ -3602,6 +3602,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 47/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251127T095000
+DTEND:20251127T112500
+SUMMARY:Pwd (ć)
+LOCATION:9/ 62
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251127T114000
 DTEND:20251127T131500
 SUMMARY:F2 (L)
@@ -3728,6 +3735,13 @@ LOCATION:239 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/16\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251203T114000
+DTEND:20251203T131500
+SUMMARY:Pwd (ć)
+LOCATION:119 45
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251203T133000
 DTEND:20251203T150500
 SUMMARY:Ja (ć)
@@ -3802,7 +3816,7 @@ DTSTART:20251205T133000
 DTEND:20251205T150500
 SUMMARY:Pwd (ć)
 LOCATION:201 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: -
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T160000
@@ -3838,6 +3852,13 @@ DTEND:20251208T131500
 SUMMARY:Tgs (ć)
 LOCATION:316 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251208T133000
+DTEND:20251208T150500
+SUMMARY:Pwd (ć)
+LOCATION:118 45
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T080000
@@ -3942,7 +3963,7 @@ DTSTART:20251212T133000
 DTEND:20251212T150500
 SUMMARY:Pwd (ć)
 LOCATION:201 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący: -
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T160000
@@ -4089,7 +4110,7 @@ DTSTART:20251219T133000
 DTEND:20251219T150500
 SUMMARY:Pwd (ć)
 LOCATION:201 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: -
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T160000
@@ -4180,7 +4201,7 @@ DTSTART:20260109T133000
 DTEND:20260109T150500
 SUMMARY:Pwd (ć)
 LOCATION:201 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący: -
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T160000
@@ -4195,13 +4216,6 @@ DTEND:20260110T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260112T080000
-DTEND:20260112T093500
-SUMMARY:Pwd (ć)
-LOCATION:201 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T095000
@@ -4307,13 +4321,6 @@ DTEND:20260117T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260119T080000
-DTEND:20260119T093500
-SUMMARY:Pwd (ć)
-LOCATION:201 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T095000
@@ -4440,13 +4447,6 @@ DTEND:20260124T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260126T080000
-DTEND:20260126T093500
-SUMMARY:Pwd (ć)
-LOCATION:201 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T095000

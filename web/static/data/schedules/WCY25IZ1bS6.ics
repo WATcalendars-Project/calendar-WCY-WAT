@@ -291,20 +291,6 @@ LOCATION:120 65
 DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251014T114000
-DTEND:20251014T131500
-SUMMARY:zsw (L)
-LOCATION:106 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Sławomir Matusiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251014T133000
-DTEND:20251014T150500
-SUMMARY:zsw (L)
-LOCATION:106 65
-DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Sławomir Matusiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251015T095000
 DTEND:20251015T112500
 SUMMARY:Rou (L)
@@ -331,6 +317,20 @@ DTEND:20251016T131500
 SUMMARY:Lan (L)
 LOCATION:121 65
 DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251016T133000
+DTEND:20251016T150500
+SUMMARY:zsw (L)
+LOCATION:121 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Sławomir Matusiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251016T160000
+DTEND:20251016T173500
+SUMMARY:zsw (L)
+LOCATION:121 65
+DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T095000

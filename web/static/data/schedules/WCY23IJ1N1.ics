@@ -865,13 +865,6 @@ LOCATION:307 S
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/3\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251214T194000
-DTEND:20251214T211500
-SUMMARY:NET (w)
-LOCATION:309 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Mariusz Chmielewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251220T080000
 DTEND:20251220T093500
 SUMMARY:BPiE (w)
@@ -1038,6 +1031,13 @@ DTEND:20260118T131500
 SUMMARY:Hd (L)
 LOCATION:227 S
 DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: dr inż. Stefan Rozmus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260118T160000
+DTEND:20260118T173500
+SUMMARY:NET (w)
+LOCATION:309 S
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T080000

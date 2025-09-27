@@ -74,20 +74,6 @@ LOCATION:203 65
 DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250925T114000
-DTEND:20250925T131500
-SUMMARY:AsU (L)
-LOCATION:106 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr inż. Krystian Wojdygowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250925T133000
-DTEND:20250925T150500
-SUMMARY:AsU (L)
-LOCATION:106 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr inż. Krystian Wojdygowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250926T080000
 DTEND:20250926T093500
 SUMMARY:Rsk (w)
@@ -99,7 +85,7 @@ DTSTART:20250929T095000
 DTEND:20250929T112500
 SUMMARY:AsU (L)
 LOCATION:106 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250929T114000
@@ -114,6 +100,20 @@ DTEND:20250929T150500
 SUMMARY:Rsk (L)
 LOCATION:120 65
 DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250930T080000
+DTEND:20250930T093500
+SUMMARY:AsU (L)
+LOCATION:106 65
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250930T095000
+DTEND:20250930T112500
+SUMMARY:AsU (L)
+LOCATION:106 65
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250930T114000
