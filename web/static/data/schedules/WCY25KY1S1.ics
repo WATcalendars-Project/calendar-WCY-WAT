@@ -753,13 +753,6 @@ LOCATION:307 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/34\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251117T095000
-DTEND:20251117T112500
-SUMMARY:Mat I (ć)
-LOCATION:307 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/38\nProwadzący: dr Arkadiusz Szymaniec
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251117T114000
 DTEND:20251117T131500
 SUMMARY:MD1 (w)
@@ -797,6 +790,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T114000
 DTEND:20251118T131500
+SUMMARY:Mat I (ć)
+LOCATION:307 S
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/38\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251119T080000
+DTEND:20251119T093500
 SUMMARY:Mat I (ć)
 LOCATION:307 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/38\nProwadzący: dr Arkadiusz Szymaniec

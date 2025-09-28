@@ -7,7 +7,7 @@ BEGIN:VEVENT
 DTSTART:20251006T080000
 DTEND:20251006T093500
 SUMMARY:Sws (Inne)
-LOCATION:-
+LOCATION:Klub WAT k
 DESCRIPTION:Spotkanie organizacyjne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -51,6 +51,20 @@ DTEND:20251009T112500
 SUMMARY:bis (w)
 LOCATION:203 65
 DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Zbigniew Świerczynski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251009T160000
+DTEND:20251009T173500
+SUMMARY:bis (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251009T175000
+DTEND:20251009T192500
+SUMMARY:bis (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T114000
@@ -100,6 +114,20 @@ DTEND:20251015T131500
 SUMMARY:Psk (w)
 LOCATION:203 65
 DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: mgr inż. Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251015T160000
+DTEND:20251015T173500
+SUMMARY:bis (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251015T175000
+DTEND:20251015T192500
+SUMMARY:bis (L)
+LOCATION:120 65
+DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T095000
@@ -256,20 +284,6 @@ LOCATION:011 65
 DESCRIPTION:Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251028T114000
-DTEND:20251028T131500
-SUMMARY:bis (L)
-LOCATION:120 65
-DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Krystian Wojdygowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251028T133000
-DTEND:20251028T150500
-SUMMARY:bis (L)
-LOCATION:120 65
-DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Krystian Wojdygowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251029T080000
 DTEND:20251029T093500
 SUMMARY:Zbi (w)
@@ -282,20 +296,6 @@ DTEND:20251029T112500
 SUMMARY:Psk (w)
 LOCATION:203 65
 DESCRIPTION:Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: mgr inż. Dagmara Mazur
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251029T114000
-DTEND:20251029T131500
-SUMMARY:bis (L)
-LOCATION:120 65
-DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Krystian Wojdygowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251029T133000
-DTEND:20251029T150500
-SUMMARY:bis (L)
-LOCATION:120 65
-DESCRIPTION:Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T080000

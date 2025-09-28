@@ -557,6 +557,13 @@ LOCATION:313 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/38\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251029T133000
+DTEND:20251029T150500
+SUMMARY:Mat I (ć)
+LOCATION:316 S
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/38\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251029T160000
 DTEND:20251029T173500
 SUMMARY:JoM (ć)
@@ -625,13 +632,6 @@ DTEND:20251031T173500
 SUMMARY:WdI (w)
 LOCATION:314 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251103T095000
-DTEND:20251103T112500
-SUMMARY:Mat I (ć)
-LOCATION:307 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/38\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T095000
