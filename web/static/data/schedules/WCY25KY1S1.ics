@@ -361,6 +361,13 @@ LOCATION:314 S
 DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: dr Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251020T133000
+DTEND:20251020T150500
+SUMMARY:Mat I (ć)
+LOCATION:218 65
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/38\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251021T095000
 DTEND:20251021T112500
 SUMMARY:Mat I (w)
@@ -372,7 +379,7 @@ DTSTART:20251021T114000
 DTEND:20251021T131500
 SUMMARY:Mat I (ć)
 LOCATION:307 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/38\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/38\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T133000
@@ -456,7 +463,7 @@ DTSTART:20251024T114000
 DTEND:20251024T131500
 SUMMARY:Mat I (ć)
 LOCATION:307 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/38\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/38\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T160000
@@ -498,7 +505,7 @@ DTSTART:20251028T114000
 DTEND:20251028T131500
 SUMMARY:Mat I (ć)
 LOCATION:307 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/38\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/38\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T133000
@@ -569,13 +576,6 @@ DTEND:20251031T093500
 SUMMARY:WdS (w)
 LOCATION:314 S
 DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr Ewa Łakoma
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251031T114000
-DTEND:20251031T131500
-SUMMARY:Mat I (ć)
-LOCATION:307 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/38\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T133000
