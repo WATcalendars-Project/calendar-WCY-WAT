@@ -267,7 +267,7 @@ DTSTART:20250317T160000
 DTEND:20250317T173500
 SUMMARY:MeSK (w)
 LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T080000
@@ -470,7 +470,7 @@ DTSTART:20250326T095000
 DTEND:20250326T112500
 SUMMARY:MeSK (w)
 LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T114000
@@ -904,7 +904,7 @@ DTSTART:20250411T133000
 DTEND:20250411T150500
 SUMMARY:MeSK (L)
 LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Stanisław Skrzypecki
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T160000
@@ -1044,7 +1044,7 @@ DTSTART:20250423T095000
 DTEND:20250423T112500
 SUMMARY:MeSK (w)
 LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 6/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 6/5\nProwadzący:  Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T114000
@@ -1121,7 +1121,7 @@ DTSTART:20250429T095000
 DTEND:20250429T112500
 SUMMARY:MeSK (L)
 LOCATION:252 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Stanisław Skrzypecki
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T133000
@@ -1331,7 +1331,7 @@ DTSTART:20250514T095000
 DTEND:20250514T112500
 SUMMARY:MeSK (w)
 LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 7/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 7/5\nProwadzący:  Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T114000
@@ -1604,7 +1604,7 @@ DTSTART:20250528T095000
 DTEND:20250528T112500
 SUMMARY:MeSK (w)
 LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 8/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 8/5\nProwadzący:  Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T114000
@@ -1758,7 +1758,7 @@ DTSTART:20250603T160000
 DTEND:20250603T173500
 SUMMARY:MeSK (L)
 LOCATION:239 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/10\nProwadzący: mgr inż. Stanisław Skrzypecki
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/10\nProwadzący:  Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T160000
@@ -2045,7 +2045,7 @@ DTSTART:20250618T095000
 DTEND:20250618T112500
 SUMMARY:MeSK (L)
 LOCATION:227 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/10\nProwadzący: mgr inż. Stanisław Skrzypecki
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/10\nProwadzący:  Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T114000
@@ -2087,14 +2087,14 @@ DTSTART:20250630T095000
 DTEND:20250630T112500
 SUMMARY:MeSK (E)
 LOCATION:317 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T114000
 DTEND:20250630T131500
 SUMMARY:MeSK (E)
 LOCATION:317 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250701T080000
@@ -2122,7 +2122,7 @@ DTSTART:20251002T080000
 DTEND:20251002T093500
 SUMMARY:MeSK (Inne)
 LOCATION:313 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T114000

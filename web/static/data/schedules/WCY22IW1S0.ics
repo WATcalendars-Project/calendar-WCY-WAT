@@ -190,7 +190,7 @@ DTSTART:20250310T160000
 DTEND:20250310T173500
 SUMMARY:JEt (w)
 LOCATION:316 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T080000
@@ -337,7 +337,7 @@ DTSTART:20250317T160000
 DTEND:20250317T173500
 SUMMARY:JEt (w)
 LOCATION:316 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T080000
@@ -484,7 +484,7 @@ DTSTART:20250324T160000
 DTEND:20250324T173500
 SUMMARY:JEt (w)
 LOCATION:316 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T080000
@@ -533,14 +533,14 @@ DTSTART:20250326T160000
 DTEND:20250326T173500
 SUMMARY:JEt (L)
 LOCATION:011 65
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T175000
 DTEND:20250326T192500
 SUMMARY:JEt (L)
 LOCATION:011 65
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T080000
@@ -659,7 +659,7 @@ DTSTART:20250331T160000
 DTEND:20250331T173500
 SUMMARY:JEt (w)
 LOCATION:316 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T080000
@@ -834,7 +834,7 @@ DTSTART:20250407T160000
 DTEND:20250407T173500
 SUMMARY:JEt (w)
 LOCATION:316 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T080000
@@ -904,14 +904,14 @@ DTSTART:20250409T160000
 DTEND:20250409T173500
 SUMMARY:JEt (L)
 LOCATION:106 65
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T175000
 DTEND:20250409T192500
 SUMMARY:JEt (L)
 LOCATION:106 65
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T080000
@@ -1282,14 +1282,14 @@ DTSTART:20250430T160000
 DTEND:20250430T173500
 SUMMARY:JEt (L)
 LOCATION:121 65
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T175000
 DTEND:20250430T192500
 SUMMARY:JEt (L)
 LOCATION:121 65
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T080000
@@ -1548,14 +1548,14 @@ DTSTART:20250514T160000
 DTEND:20250514T173500
 SUMMARY:JEt (L)
 LOCATION:125 65
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T175000
 DTEND:20250514T192500
 SUMMARY:JEt (L)
 LOCATION:125 65
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T080000
@@ -1905,14 +1905,14 @@ DTSTART:20250528T160000
 DTEND:20250528T173500
 SUMMARY:JEt (L)
 LOCATION:125 65
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T175000
 DTEND:20250528T192500
 SUMMARY:JEt (L)
 LOCATION:125 65
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T080000
@@ -2535,14 +2535,14 @@ DTSTART:20251007T095000
 DTEND:20251007T112500
 SUMMARY:MAST (w)
 LOCATION:316 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/12\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/12\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T114000
 DTEND:20251007T131500
 SUMMARY:MAST (w)
 LOCATION:316 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/12\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/12\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T175000
@@ -2675,14 +2675,14 @@ DTSTART:20251017T080000
 DTEND:20251017T093500
 SUMMARY:Tro (w)
 LOCATION:204 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T095000
 DTEND:20251017T112500
 SUMMARY:Tro (w)
 LOCATION:204 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T114000
@@ -2759,14 +2759,14 @@ DTSTART:20251024T080000
 DTEND:20251024T093500
 SUMMARY:Tro (w)
 LOCATION:201 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T095000
 DTEND:20251024T112500
 SUMMARY:Tro (w)
 LOCATION:201 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T114000
@@ -2780,14 +2780,14 @@ DTSTART:20251024T133000
 DTEND:20251024T150500
 SUMMARY:Tro (ć)
 LOCATION:106 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T160000
 DTEND:20251024T173500
 SUMMARY:Tro (ć)
 LOCATION:106 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T080000
@@ -2808,14 +2808,14 @@ DTSTART:20251027T095000
 DTEND:20251027T112500
 SUMMARY:MAST (w)
 LOCATION:316 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/12\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/12\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T114000
 DTEND:20251027T131500
 SUMMARY:MAST (w)
 LOCATION:316 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/12\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/12\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T133000
@@ -2892,14 +2892,14 @@ DTSTART:20251030T133000
 DTEND:20251030T150500
 SUMMARY:MAST (L)
 LOCATION:011 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T160000
 DTEND:20251030T173500
 SUMMARY:MAST (L)
 LOCATION:011 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T095000
@@ -3018,14 +3018,14 @@ DTSTART:20251105T133000
 DTEND:20251105T150500
 SUMMARY:MAST (L)
 LOCATION:125 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T160000
 DTEND:20251105T173500
 SUMMARY:MAST (L)
 LOCATION:125 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T175000
@@ -3039,14 +3039,14 @@ DTSTART:20251106T080000
 DTEND:20251106T093500
 SUMMARY:Tro (w)
 LOCATION:204 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T095000
 DTEND:20251106T112500
 SUMMARY:Tro (w)
 LOCATION:204 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T114000
@@ -3193,14 +3193,14 @@ DTSTART:20251114T080000
 DTEND:20251114T093500
 SUMMARY:Tro (ć)
 LOCATION:125 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T095000
 DTEND:20251114T112500
 SUMMARY:Tro (ć)
 LOCATION:125 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T114000
@@ -3221,14 +3221,14 @@ DTSTART:20251114T160000
 DTEND:20251114T173500
 SUMMARY:MAST (P)
 LOCATION:106 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 1/8\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 1/8\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T175000
 DTEND:20251114T192500
 SUMMARY:MAST (P)
 LOCATION:106 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 2/8\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 2/8\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T080000
@@ -3249,14 +3249,14 @@ DTSTART:20251117T095000
 DTEND:20251117T112500
 SUMMARY:MAST (w)
 LOCATION:316 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/12\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/12\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T114000
 DTEND:20251117T131500
 SUMMARY:MAST (w)
 LOCATION:316 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/12\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/12\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T133000
@@ -3284,14 +3284,14 @@ DTSTART:20251118T114000
 DTEND:20251118T131500
 SUMMARY:Tro (ć)
 LOCATION:106 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T133000
 DTEND:20251118T150500
 SUMMARY:Tro (ć)
 LOCATION:106 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T095000
@@ -3326,14 +3326,14 @@ DTSTART:20251120T080000
 DTEND:20251120T093500
 SUMMARY:Tro (w)
 LOCATION:205 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T095000
 DTEND:20251120T112500
 SUMMARY:Tro (w)
 LOCATION:205 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T160000
@@ -3494,14 +3494,14 @@ DTSTART:20251127T114000
 DTEND:20251127T131500
 SUMMARY:Tro (L)
 LOCATION:011 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T133000
 DTEND:20251127T150500
 SUMMARY:Tro (L)
 LOCATION:011 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T160000
@@ -3543,14 +3543,14 @@ DTSTART:20251201T095000
 DTEND:20251201T112500
 SUMMARY:MAST (w)
 LOCATION:313 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/12\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/12\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T114000
 DTEND:20251201T131500
 SUMMARY:MAST (w)
 LOCATION:313 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 8/12\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 8/12\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T133000
@@ -3606,14 +3606,14 @@ DTSTART:20251203T160000
 DTEND:20251203T173500
 SUMMARY:MAST (L)
 LOCATION:125 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T175000
 DTEND:20251203T192500
 SUMMARY:MAST (L)
 LOCATION:125 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T095000
@@ -3746,14 +3746,14 @@ DTSTART:20251210T160000
 DTEND:20251210T173500
 SUMMARY:MAST (P)
 LOCATION:09 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 3/8\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 3/8\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T175000
 DTEND:20251210T192500
 SUMMARY:MAST (P)
 LOCATION:09 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 4/8\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 4/8\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T114000
@@ -3781,14 +3781,14 @@ DTSTART:20251212T133000
 DTEND:20251212T150500
 SUMMARY:Tro (L)
 LOCATION:106 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T160000
 DTEND:20251212T173500
 SUMMARY:Tro (L)
 LOCATION:106 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T080000
@@ -3809,14 +3809,14 @@ DTSTART:20251215T095000
 DTEND:20251215T112500
 SUMMARY:MAST (w)
 LOCATION:313 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 9/12\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 9/12\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T114000
 DTEND:20251215T131500
 SUMMARY:MAST (w)
 LOCATION:313 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 10/12\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 10/12\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T133000
@@ -3879,14 +3879,14 @@ DTSTART:20251217T133000
 DTEND:20251217T150500
 SUMMARY:MAST (L)
 LOCATION:09 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T160000
 DTEND:20251217T173500
 SUMMARY:MAST (L)
 LOCATION:09 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T080000
@@ -3907,14 +3907,14 @@ DTSTART:20251218T114000
 DTEND:20251218T131500
 SUMMARY:Tro (L)
 LOCATION:011 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T133000
 DTEND:20251218T150500
 SUMMARY:Tro (L)
 LOCATION:011 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T095000
@@ -3935,14 +3935,14 @@ DTSTART:20251219T133000
 DTEND:20251219T150500
 SUMMARY:Tro (L)
 LOCATION:106 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T160000
 DTEND:20251219T173500
 SUMMARY:Tro (L)
 LOCATION:106 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T080000
@@ -3977,7 +3977,7 @@ DTSTART:20260108T133000
 DTEND:20260108T150500
 SUMMARY:MAST (P)
 LOCATION:09 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 5/8\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 5/8\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T080000
@@ -4040,14 +4040,14 @@ DTSTART:20260113T095000
 DTEND:20260113T112500
 SUMMARY:MAST (w)
 LOCATION:317 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 11/12\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 11/12\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T114000
 DTEND:20260113T131500
 SUMMARY:MAST (w)
 LOCATION:317 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 12/12\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 12/12\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T080000
@@ -4068,14 +4068,14 @@ DTSTART:20260115T114000
 DTEND:20260115T131500
 SUMMARY:MAST (L)
 LOCATION:09 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T133000
 DTEND:20260115T150500
 SUMMARY:MAST (L)
 LOCATION:09 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T080000
@@ -4152,21 +4152,21 @@ DTSTART:20260122T095000
 DTEND:20260122T112500
 SUMMARY:MAST (P)
 LOCATION:011 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 6/8\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 6/8\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T114000
 DTEND:20260122T131500
 SUMMARY:MAST (P)
 LOCATION:011 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 7/8\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 7/8\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T133000
 DTEND:20260122T150500
 SUMMARY:MAST (P)
 LOCATION:011 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 8/8\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 8/8\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T080000

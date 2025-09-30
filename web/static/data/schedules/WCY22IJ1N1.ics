@@ -1194,20 +1194,6 @@ LOCATION:308 S
 DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251004T080000
-DTEND:20251004T093500
-SUMMARY:IRz (w)
-LOCATION:307 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251004T095000
-DTEND:20251004T112500
-SUMMARY:IRz (w)
-LOCATION:307 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251004T114000
 DTEND:20251004T131500
 SUMMARY:Srrw (w)
@@ -1355,20 +1341,6 @@ LOCATION:223 S
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący:  Patryk Serafin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251019T080000
-DTEND:20251019T093500
-SUMMARY:IRz (w)
-LOCATION:309 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251019T095000
-DTEND:20251019T112500
-SUMMARY:IRz (w)
-LOCATION:309 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251019T114000
 DTEND:20251019T131500
 SUMMARY:Bsi (L)
@@ -1467,6 +1439,20 @@ LOCATION:95 S
 DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251115T095000
+DTEND:20251115T112500
+SUMMARY:IRz (w)
+LOCATION:226 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251115T114000
+DTEND:20251115T131500
+SUMMARY:IRz (w)
+LOCATION:226 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251115T133000
 DTEND:20251115T150500
 SUMMARY:Orr (w)
@@ -1479,6 +1465,20 @@ DTEND:20251115T173500
 SUMMARY:Orr (w)
 LOCATION:308 S
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251116T080000
+DTEND:20251116T093500
+SUMMARY:IRz (w)
+LOCATION:308 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251116T095000
+DTEND:20251116T112500
+SUMMARY:IRz (w)
+LOCATION:308 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251116T114000

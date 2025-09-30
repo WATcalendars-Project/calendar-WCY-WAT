@@ -106,7 +106,7 @@ DTSTART:20251003T114000
 DTEND:20251003T131500
 SUMMARY:In. WCY (Inne)
 LOCATION:S. Kinowa K
-DESCRIPTION:Inauguracja WCY\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Inauguracja WCY\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący:  Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T114000
@@ -163,6 +163,13 @@ DTEND:20251003T131500
 SUMMARY:In. WCY (Inne)
 LOCATION:S. Kinowa K
 DESCRIPTION:Inauguracja WCY\nRodzaj zajęć:  - \nNr zajęć: 23/1\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251003T133000
+DTEND:20251003T150500
+SUMMARY:In. WCY (Inne)
+LOCATION:S. Kinowa K
+DESCRIPTION:Inauguracja WCY\nRodzaj zajęć:  - \nNr zajęć: 24/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T080000
@@ -596,7 +603,7 @@ DTSTART:20251103T080000
 DTEND:20251103T093500
 SUMMARY:MD1 (ć)
 LOCATION:101 65
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący:  Tomasz Żynda
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: dr Tomasz Żynda
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T080000
@@ -883,7 +890,7 @@ DTSTART:20251124T080000
 DTEND:20251124T093500
 SUMMARY:MD1 (ć)
 LOCATION:101 65
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący:  Tomasz Żynda
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: dr Tomasz Żynda
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T095000
@@ -981,7 +988,7 @@ DTSTART:20251201T080000
 DTEND:20251201T093500
 SUMMARY:MD1 (ć)
 LOCATION:203 65
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący:  Tomasz Żynda
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: dr Tomasz Żynda
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T095000
@@ -1114,7 +1121,7 @@ DTSTART:20251208T080000
 DTEND:20251208T093500
 SUMMARY:MD1 (ć)
 LOCATION:203 65
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący:  Tomasz Żynda
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr Tomasz Żynda
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T095000
@@ -1212,7 +1219,7 @@ DTSTART:20251215T080000
 DTEND:20251215T093500
 SUMMARY:MD1 (ć)
 LOCATION:204 65
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący:  Tomasz Żynda
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: dr Tomasz Żynda
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T095000
@@ -1387,7 +1394,7 @@ DTSTART:20260112T095000
 DTEND:20260112T112500
 SUMMARY:MD1 (ć)
 LOCATION:204 65
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący:  Tomasz Żynda
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: dr Tomasz Żynda
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T133000
@@ -1478,7 +1485,7 @@ DTSTART:20260119T160000
 DTEND:20260119T173500
 SUMMARY:MD1 (ć)
 LOCATION:307 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący:  Tomasz Żynda
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr Tomasz Żynda
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T095000

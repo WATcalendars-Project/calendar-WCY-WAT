@@ -295,7 +295,7 @@ DTSTART:20250317T160000
 DTEND:20250317T173500
 SUMMARY:MeSK (w)
 LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T080000
@@ -463,7 +463,7 @@ DTSTART:20250325T095000
 DTEND:20250325T112500
 SUMMARY:MeSK (L)
 LOCATION:228 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Stanisław Skrzypecki
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T114000
@@ -491,7 +491,7 @@ DTSTART:20250326T095000
 DTEND:20250326T112500
 SUMMARY:MeSK (w)
 LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T114000
@@ -1023,7 +1023,7 @@ DTSTART:20250415T095000
 DTEND:20250415T112500
 SUMMARY:MeSK (L)
 LOCATION:233 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Stanisław Skrzypecki
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T114000
@@ -1093,7 +1093,7 @@ DTSTART:20250423T095000
 DTEND:20250423T112500
 SUMMARY:MeSK (w)
 LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 6/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 6/5\nProwadzący:  Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T114000
@@ -1303,21 +1303,21 @@ DTSTART:20250506T095000
 DTEND:20250506T112500
 SUMMARY:MeSK (L)
 LOCATION:252 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Stanisław Skrzypecki
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T114000
 DTEND:20250506T131500
 SUMMARY:Sss (L)
 LOCATION:09 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T133000
 DTEND:20250506T150500
 SUMMARY:Sss (L)
 LOCATION:09 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T080000
@@ -1457,7 +1457,7 @@ DTSTART:20250514T095000
 DTEND:20250514T112500
 SUMMARY:MeSK (w)
 LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 7/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 7/5\nProwadzący:  Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T114000
@@ -1765,21 +1765,21 @@ DTSTART:20250527T114000
 DTEND:20250527T131500
 SUMMARY:Sss (L)
 LOCATION:09 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T133000
 DTEND:20250527T150500
 SUMMARY:Sss (L)
 LOCATION:09 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T095000
 DTEND:20250528T112500
 SUMMARY:MeSK (w)
 LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 8/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 8/5\nProwadzący:  Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T114000
@@ -1884,7 +1884,7 @@ DTSTART:20250603T133000
 DTEND:20250603T150500
 SUMMARY:MeSK (L)
 LOCATION:239 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/10\nProwadzący: mgr inż. Stanisław Skrzypecki
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/10\nProwadzący:  Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T080000
@@ -1947,14 +1947,14 @@ DTSTART:20250606T133000
 DTEND:20250606T150500
 SUMMARY:Sss (L)
 LOCATION:121 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T160000
 DTEND:20250606T173500
 SUMMARY:Sss (L)
 LOCATION:121 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T175000
@@ -2066,14 +2066,14 @@ DTSTART:20250612T114000
 DTEND:20250612T131500
 SUMMARY:Sss (L)
 LOCATION:09 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T133000
 DTEND:20250612T150500
 SUMMARY:Sss (L)
 LOCATION:09 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T175000
@@ -2255,14 +2255,14 @@ DTSTART:20250630T095000
 DTEND:20250630T112500
 SUMMARY:MeSK (E)
 LOCATION:317 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T114000
 DTEND:20250630T131500
 SUMMARY:MeSK (E)
 LOCATION:317 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250702T095000
@@ -2332,7 +2332,7 @@ DTSTART:20251002T080000
 DTEND:20251002T093500
 SUMMARY:MeSK (Inne)
 LOCATION:313 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T095000
@@ -2584,14 +2584,14 @@ DTSTART:20251016T080000
 DTEND:20251016T093500
 SUMMARY:TCT (w)
 LOCATION:316 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący:  Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T095000
 DTEND:20251016T112500
 SUMMARY:TCT (w)
 LOCATION:316 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący:  Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T114000
@@ -2710,14 +2710,14 @@ DTSTART:20251023T080000
 DTEND:20251023T093500
 SUMMARY:TCT (w)
 LOCATION:316 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący:  Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T095000
 DTEND:20251023T112500
 SUMMARY:TCT (w)
 LOCATION:316 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący:  Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T114000
@@ -2864,14 +2864,14 @@ DTSTART:20251030T080000
 DTEND:20251030T093500
 SUMMARY:TCT (w)
 LOCATION:316 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący:  Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T095000
 DTEND:20251030T112500
 SUMMARY:TCT (w)
 LOCATION:316 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący:  Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T133000
@@ -3095,14 +3095,14 @@ DTSTART:20251113T080000
 DTEND:20251113T093500
 SUMMARY:TCT (w)
 LOCATION:316 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący:  Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T095000
 DTEND:20251113T112500
 SUMMARY:TCT (w)
 LOCATION:316 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący:  Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T114000
@@ -3431,14 +3431,14 @@ DTSTART:20251127T080000
 DTEND:20251127T093500
 SUMMARY:TCT (w)
 LOCATION:316 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący:  Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T095000
 DTEND:20251127T112500
 SUMMARY:TCT (w)
 LOCATION:316 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T114000
@@ -3837,14 +3837,14 @@ DTSTART:20251219T095000
 DTEND:20251219T112500
 SUMMARY:TCT (L)
 LOCATION:011 65
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący:  Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T114000
 DTEND:20251219T131500
 SUMMARY:TCT (L)
 LOCATION:011 65
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący:  Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T095000
@@ -4054,21 +4054,21 @@ DTSTART:20260116T095000
 DTEND:20260116T112500
 SUMMARY:TCT (L)
 LOCATION:011 65
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący:  Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T114000
 DTEND:20260116T131500
 SUMMARY:TCT (L)
 LOCATION:011 65
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący:  Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T133000
 DTEND:20260116T150500
 SUMMARY:TCT (L)
 LOCATION:011 65
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący:  Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T160000
