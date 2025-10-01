@@ -1187,13 +1187,6 @@ LOCATION:226 S
 DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251017T095000
-DTEND:20251017T112500
-SUMMARY:IRz (w)
-LOCATION:308 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251017T114000
 DTEND:20251017T131500
 SUMMARY:IRz (L)
@@ -1241,13 +1234,6 @@ DTEND:20251023T150500
 SUMMARY:Srrw (w)
 LOCATION:95 S
 DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251024T080000
-DTEND:20251024T093500
-SUMMARY:IRz (w)
-LOCATION:309 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T095000
@@ -1338,7 +1324,14 @@ DTSTART:20251031T080000
 DTEND:20251031T093500
 SUMMARY:IRz (w)
 LOCATION:309 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251031T095000
+DTEND:20251031T112500
+SUMMARY:IRz (w)
+LOCATION:307 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T114000
@@ -1418,6 +1411,13 @@ LOCATION:95 S
 DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251106T133000
+DTEND:20251106T150500
+SUMMARY:IRz (w)
+LOCATION:203 65
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251107T080000
 DTEND:20251107T093500
 SUMMARY:IRz (w)
@@ -1437,6 +1437,13 @@ DTEND:20251107T131500
 SUMMARY:IRz (L)
 LOCATION:228 S
 DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251107T160000
+DTEND:20251107T173500
+SUMMARY:Wpp (Inne)
+LOCATION:313 S
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T080000

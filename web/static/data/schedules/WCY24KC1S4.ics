@@ -25,13 +25,6 @@ LOCATION:-
 DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251009T095000
-DTEND:20251009T112500
-SUMMARY:Tds (w)
-LOCATION:101 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251010T080000
 DTEND:20251010T093500
 SUMMARY:BsIP (w)
@@ -46,34 +39,6 @@ LOCATION:101 65
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251013T175000
-DTEND:20251013T192500
-SUMMARY:PsbI (w)
-LOCATION:101 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Marcin Pachnik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251013T194000
-DTEND:20251013T211500
-SUMMARY:PsbI (w)
-LOCATION:101 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Marcin Pachnik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251014T080000
-DTEND:20251014T093500
-SUMMARY:Zbi (w)
-LOCATION:101 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący:  Mieczysław Kania
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251014T095000
-DTEND:20251014T112500
-SUMMARY:Zbi (w)
-LOCATION:101 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący:  Mieczysław Kania
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251016T080000
 DTEND:20251016T093500
 SUMMARY:Temo (w)
@@ -85,7 +50,7 @@ DTSTART:20251016T095000
 DTEND:20251016T112500
 SUMMARY:Tds (w)
 LOCATION:101 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T080000
@@ -99,14 +64,14 @@ DTSTART:20251021T080000
 DTEND:20251021T093500
 SUMMARY:Zbi (w)
 LOCATION:101 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący:  Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący:  Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T095000
 DTEND:20251021T112500
 SUMMARY:Zbi (w)
 LOCATION:101 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący:  Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący:  Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T095000
@@ -134,7 +99,7 @@ DTSTART:20251023T095000
 DTEND:20251023T112500
 SUMMARY:Tds (w)
 LOCATION:101 65
-DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Łukasz Czerniszewski
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T080000
@@ -169,28 +134,28 @@ DTSTART:20251027T175000
 DTEND:20251027T192500
 SUMMARY:PsbI (w)
 LOCATION:201 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T194000
 DTEND:20251027T211500
 SUMMARY:PsbI (w)
 LOCATION:201 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T080000
 DTEND:20251028T093500
 SUMMARY:Zbi (w)
 LOCATION:203 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący:  Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący:  Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T095000
 DTEND:20251028T112500
 SUMMARY:Zbi (w)
 LOCATION:203 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący:  Mieczysław Kania
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący:  Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T095000
@@ -214,11 +179,32 @@ LOCATION:101 65
 DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251029T160000
+DTEND:20251029T173500
+SUMMARY:Zbi (w)
+LOCATION:204 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący:  Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251029T175000
+DTEND:20251029T192500
+SUMMARY:Zbi (w)
+LOCATION:204 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący:  Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251030T080000
 DTEND:20251030T093500
 SUMMARY:Temo (w)
 LOCATION:-
 DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251030T095000
+DTEND:20251030T112500
+SUMMARY:Tds (w)
+LOCATION:101 65
+DESCRIPTION:Techniki dochodzeniowe i śledcze\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T080000
@@ -340,20 +326,6 @@ LOCATION:120 65
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251111T080000
-DTEND:20251111T093500
-SUMMARY:Zbi (w)
-LOCATION:101 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący:  Mieczysław Kania
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251111T095000
-DTEND:20251111T112500
-SUMMARY:Zbi (w)
-LOCATION:101 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Mieczysław Kania
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251112T095000
 DTEND:20251112T112500
 SUMMARY:mST (w)
@@ -373,6 +345,20 @@ DTEND:20251112T150500
 SUMMARY:Aip (P)
 LOCATION:106 65
 DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 1/7\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251112T160000
+DTEND:20251112T173500
+SUMMARY:Zbi (w)
+LOCATION:204 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący:  Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251112T175000
+DTEND:20251112T192500
+SUMMARY:Zbi (w)
+LOCATION:204 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T080000
@@ -421,14 +407,14 @@ DTSTART:20251117T175000
 DTEND:20251117T192500
 SUMMARY:PsbI (w)
 LOCATION:201 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T194000
 DTEND:20251117T211500
 SUMMARY:PsbI (w)
 LOCATION:201 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T080000
@@ -533,7 +519,14 @@ DTSTART:20251124T175000
 DTEND:20251124T192500
 SUMMARY:PsbI (w)
 LOCATION:101 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251124T194000
+DTEND:20251124T211500
+SUMMARY:PsbI (w)
+LOCATION:101 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T080000
@@ -739,6 +732,13 @@ LOCATION:120 65
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 2/5\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251208T160000
+DTEND:20251208T173500
+SUMMARY:PsbI (w)
+LOCATION:101 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251209T080000
 DTEND:20251209T093500
 SUMMARY:Zbi (L)
@@ -884,13 +884,6 @@ DTEND:20251219T112500
 SUMMARY:Zt (P)
 LOCATION:120 65
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 3/5\nProwadzący: dr inż. Tomasz Malinowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260107T080000
-DTEND:20260107T093500
-SUMMARY:Zbi (L)
-LOCATION:106 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący:  Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T114000
@@ -1157,6 +1150,13 @@ DTEND:20260128T173500
 SUMMARY:mST (P)
 LOCATION:106 65
 DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 8/8\nProwadzący: mgr inż. Łukasz Laszko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260130T080000
+DTEND:20260130T093500
+SUMMARY:Zbi (L)
+LOCATION:227 S
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący:  Mieczysław Kania
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T095000

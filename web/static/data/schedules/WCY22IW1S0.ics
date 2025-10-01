@@ -3147,20 +3147,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251113T080000
-DTEND:20251113T093500
-SUMMARY:Ppz (L)
-LOCATION:09 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251113T095000
-DTEND:20251113T112500
-SUMMARY:Ppz (L)
-LOCATION:09 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251113T114000
 DTEND:20251113T131500
 SUMMARY:Nm (w)
@@ -3476,20 +3462,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251127T080000
-DTEND:20251127T093500
-SUMMARY:Ppz (L)
-LOCATION:011 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251127T095000
-DTEND:20251127T112500
-SUMMARY:Ppz (L)
-LOCATION:011 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251127T114000
 DTEND:20251127T131500
 SUMMARY:Tro (L)
@@ -3641,14 +3613,14 @@ DTSTART:20251205T080000
 DTEND:20251205T093500
 SUMMARY:Ppz (L)
 LOCATION:011 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T095000
 DTEND:20251205T112500
 SUMMARY:Ppz (L)
 LOCATION:011 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T114000
@@ -3889,20 +3861,6 @@ LOCATION:09 65
 DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251218T080000
-DTEND:20251218T093500
-SUMMARY:Ppz (L)
-LOCATION:09 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251218T095000
-DTEND:20251218T112500
-SUMMARY:Ppz (L)
-LOCATION:09 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251218T114000
 DTEND:20251218T131500
 SUMMARY:Tro (L)
@@ -4001,6 +3959,20 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 55/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260109T160000
+DTEND:20260109T173500
+SUMMARY:Ppz (L)
+LOCATION:121 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260109T175000
+DTEND:20260109T192500
+SUMMARY:Ppz (L)
+LOCATION:121 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260110T080000
 DTEND:20260110T093500
 SUMMARY:XWF (ć)
@@ -4027,6 +3999,20 @@ DTEND:20260112T150500
 SUMMARY:Psmo (L)
 LOCATION:106 65
 DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/15\nProwadzący:  Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260112T160000
+DTEND:20260112T173500
+SUMMARY:Ppz (L)
+LOCATION:120 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260112T175000
+DTEND:20260112T192500
+SUMMARY:Ppz (L)
+LOCATION:120 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T080000
@@ -4134,6 +4120,20 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 58/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260121T080000
+DTEND:20260121T093500
+SUMMARY:Ppz (L)
+LOCATION:106 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260121T095000
+DTEND:20260121T112500
+SUMMARY:Ppz (L)
+LOCATION:106 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260121T114000
 DTEND:20260121T131500
 SUMMARY:Ja (ć)
@@ -4211,6 +4211,20 @@ LOCATION:317 S
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260126T160000
+DTEND:20260126T173500
+SUMMARY:Ppz (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260126T175000
+DTEND:20260126T192500
+SUMMARY:Ppz (L)
+LOCATION:011 65
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260127T080000
 DTEND:20260127T093500
 SUMMARY:SzS (ć)
@@ -4251,20 +4265,6 @@ DTEND:20260128T192500
 SUMMARY:WF (w)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260129T080000
-DTEND:20260129T093500
-SUMMARY:Ppz (L)
-LOCATION:09 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260129T095000
-DTEND:20260129T112500
-SUMMARY:Ppz (L)
-LOCATION:09 65
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T114000

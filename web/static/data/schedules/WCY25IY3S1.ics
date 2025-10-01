@@ -452,6 +452,13 @@ LOCATION:314 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251027T114000
+DTEND:20251027T131500
+SUMMARY:WdI (L)
+LOCATION:252 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/11\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251027T160000
 DTEND:20251027T173500
 SUMMARY:REZ (Inne)
@@ -534,13 +541,6 @@ DTEND:20251031T093500
 SUMMARY:Mat I (ć)
 LOCATION:307 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/19\nProwadzący: mgr Wojciech Matuszewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251031T095000
-DTEND:20251031T112500
-SUMMARY:WdI (L)
-LOCATION:252 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/11\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T114000

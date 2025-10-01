@@ -3224,6 +3224,13 @@ LOCATION:313 S
 DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251127T133000
+DTEND:20251127T150500
+SUMMARY:PZiP (ć)
+LOCATION:204 65
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251127T160000
 DTEND:20251127T173500
 SUMMARY:- (Inne)
@@ -3326,7 +3333,7 @@ DTSTART:20251202T160000
 DTEND:20251202T173500
 SUMMARY:PZiP (ć)
 LOCATION:204 65
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T080000
@@ -3487,7 +3494,7 @@ DTSTART:20251210T160000
 DTEND:20251210T173500
 SUMMARY:PZiP (ć)
 LOCATION:205 65
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T080000
@@ -3585,7 +3592,7 @@ DTSTART:20251216T160000
 DTEND:20251216T173500
 SUMMARY:PZiP (ć)
 LOCATION:205 65
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T175000
@@ -3866,13 +3873,6 @@ DTEND:20260116T131500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 56/60\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260116T160000
-DTEND:20260116T173500
-SUMMARY:PZiP (ć)
-LOCATION:204 65
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T194000

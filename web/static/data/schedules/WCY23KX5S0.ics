@@ -3875,6 +3875,13 @@ LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 55/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260113T095000
+DTEND:20260113T112500
+SUMMARY:PZiP (ć)
+LOCATION:205 65
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260114T114000
 DTEND:20260114T131500
 SUMMARY:WF (ć)
@@ -3915,13 +3922,6 @@ DTEND:20260115T150500
 SUMMARY:Wek (L)
 LOCATION:078 S
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/16\nProwadzący: dr inż. Michał Misztal
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260115T175000
-DTEND:20260115T192500
-SUMMARY:PZiP (ć)
-LOCATION:203 65
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T080000

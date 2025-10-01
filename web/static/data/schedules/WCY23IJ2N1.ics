@@ -490,7 +490,7 @@ BEGIN:VEVENT
 DTSTART:20251115T175000
 DTEND:20251115T192500
 SUMMARY:Nsk (ć)
-LOCATION:226 S
+LOCATION:316 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
@@ -567,7 +567,7 @@ BEGIN:VEVENT
 DTSTART:20251122T160000
 DTEND:20251122T173500
 SUMMARY:Nsk (ć)
-LOCATION:224 S
+LOCATION:316 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
@@ -763,7 +763,7 @@ BEGIN:VEVENT
 DTSTART:20251207T114000
 DTEND:20251207T131500
 SUMMARY:Nsk (ć)
-LOCATION:226 S
+LOCATION:309 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
@@ -816,6 +816,13 @@ LOCATION:226 S
 DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251213T160000
+DTEND:20251213T173500
+SUMMARY:BPiE (L)
+LOCATION:121 65
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251213T175000
 DTEND:20251213T192500
 SUMMARY:PZiP (ć)
@@ -826,7 +833,7 @@ BEGIN:VEVENT
 DTSTART:20251214T080000
 DTEND:20251214T093500
 SUMMARY:Nsk (ć)
-LOCATION:226 S
+LOCATION:309 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
@@ -903,7 +910,7 @@ BEGIN:VEVENT
 DTSTART:20251221T080000
 DTEND:20251221T093500
 SUMMARY:Nsk (ć)
-LOCATION:226 S
+LOCATION:307 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
@@ -1010,13 +1017,6 @@ DTEND:20260117T173500
 SUMMARY:Med (L)
 LOCATION:309 S 223 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr inż. Romuald Hoffmann
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260117T175000
-DTEND:20260117T192500
-SUMMARY:BPiE (L)
-LOCATION:121 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T080000

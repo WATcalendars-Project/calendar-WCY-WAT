@@ -2237,13 +2237,6 @@ LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 36/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251016T080000
-DTEND:20251016T093500
-SUMMARY:Msz (L)
-LOCATION:223 S
-DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący: mgr inż. Przemysław Czuba
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251016T095000
 DTEND:20251016T112500
 SUMMARY:Muma (L)
@@ -2479,7 +2472,7 @@ DTSTART:20251030T080000
 DTEND:20251030T093500
 SUMMARY:Msz (L)
 LOCATION:224 S
-DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący: mgr inż. Przemysław Czuba
+DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T095000
@@ -2636,6 +2629,13 @@ LOCATION:316 S
 DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251107T160000
+DTEND:20251107T173500
+SUMMARY:Wpp (Inne)
+LOCATION:313 S
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251108T080000
 DTEND:20251108T093500
 SUMMARY:XWF (ć)
@@ -2682,7 +2682,7 @@ DTSTART:20251113T080000
 DTEND:20251113T093500
 SUMMARY:Msz (L)
 LOCATION:223 S
-DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: mgr inż. Przemysław Czuba
+DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T095000
@@ -2851,6 +2851,13 @@ DTEND:20251120T112500
 SUMMARY:Mspb (w)
 LOCATION:308 S
 DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251120T114000
+DTEND:20251120T131500
+SUMMARY:Msz (L)
+LOCATION:233 S
+DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T133000

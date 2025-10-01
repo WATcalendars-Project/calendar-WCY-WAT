@@ -438,6 +438,13 @@ LOCATION:314 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251027T133000
+DTEND:20251027T150500
+SUMMARY:WdI (L)
+LOCATION:252 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/11\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251027T160000
 DTEND:20251027T173500
 SUMMARY:REZ (Inne)
@@ -506,13 +513,6 @@ DTEND:20251030T173500
 SUMMARY:WDM (w)
 LOCATION:314 S
 DESCRIPTION:Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251031T080000
-DTEND:20251031T093500
-SUMMARY:WdI (L)
-LOCATION:252 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/11\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T095000

@@ -106,7 +106,7 @@ DTSTART:20251003T114000
 DTEND:20251003T131500
 SUMMARY:In. WCY (Inne)
 LOCATION:S. Kinowa K
-DESCRIPTION:Inauguracja WCY\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Inauguracja WCY\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący:  Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T114000
@@ -163,6 +163,13 @@ DTEND:20251003T131500
 SUMMARY:In. WCY (Inne)
 LOCATION:S. Kinowa K
 DESCRIPTION:Inauguracja WCY\nRodzaj zajęć:  - \nNr zajęć: 23/1\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251003T133000
+DTEND:20251003T150500
+SUMMARY:In. WCY (Inne)
+LOCATION:S. Kinowa K
+DESCRIPTION:Inauguracja WCY\nRodzaj zajęć:  - \nNr zajęć: 24/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T080000
@@ -655,13 +662,6 @@ LOCATION:120/ 54
 DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251106T095000
-DTEND:20251106T112500
-SUMMARY:WDM (w)
-LOCATION:314 S
-DESCRIPTION:Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251106T114000
 DTEND:20251106T131500
 SUMMARY:Mat I (w)
@@ -674,6 +674,13 @@ DTEND:20251106T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251107T080000
+DTEND:20251107T093500
+SUMMARY:WDM (w)
+LOCATION:316 S
+DESCRIPTION:Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T095000

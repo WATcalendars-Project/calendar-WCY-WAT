@@ -662,13 +662,6 @@ LOCATION:133 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251106T095000
-DTEND:20251106T112500
-SUMMARY:WDM (w)
-LOCATION:314 S
-DESCRIPTION:Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251106T114000
 DTEND:20251106T131500
 SUMMARY:Mat I (w)
@@ -681,6 +674,13 @@ DTEND:20251106T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251107T080000
+DTEND:20251107T093500
+SUMMARY:WDM (w)
+LOCATION:316 S
+DESCRIPTION:Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T095000

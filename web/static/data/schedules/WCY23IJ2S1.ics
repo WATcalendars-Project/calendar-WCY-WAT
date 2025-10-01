@@ -81,20 +81,6 @@ LOCATION:317 S
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr inż. Krzysztof Liderman
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251008T080000
-DTEND:20251008T093500
-SUMMARY:Gk (w)
-LOCATION:308 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Marek Salamon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251008T095000
-DTEND:20251008T112500
-SUMMARY:Gk (w)
-LOCATION:308 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Marek Salamon
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251008T133000
 DTEND:20251008T150500
 SUMMARY:PZiP (w)
@@ -158,6 +144,13 @@ LOCATION:307 S
 DESCRIPTION:Systemy analityczno-raportowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251015T080000
+DTEND:20251015T093500
+SUMMARY:Gk (w)
+LOCATION:308 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251015T095000
 DTEND:20251015T112500
 SUMMARY:Gk (L)
@@ -205,6 +198,13 @@ DTEND:20251016T112500
 SUMMARY:PBI (w)
 LOCATION:317 S
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr inż. Krzysztof Liderman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251020T114000
+DTEND:20251020T131500
+SUMMARY:Gk (w)
+LOCATION:317 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T133000

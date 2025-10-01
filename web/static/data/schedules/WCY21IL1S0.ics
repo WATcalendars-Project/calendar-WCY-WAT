@@ -2475,6 +2475,13 @@ LOCATION:316 S
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251023T114000
+DTEND:20251023T131500
+SUMMARY:wzbnim (w)
+LOCATION:316 S
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251023T133000
 DTEND:20251023T150500
 SUMMARY:WF (ć)
@@ -2493,7 +2500,7 @@ DTSTART:20251024T095000
 DTEND:20251024T112500
 SUMMARY:wzbnim (w)
 LOCATION:313 S
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T114000
@@ -2615,13 +2622,6 @@ LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 38/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251031T095000
-DTEND:20251031T112500
-SUMMARY:wzbnim (w)
-LOCATION:313 S
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251031T114000
 DTEND:20251031T131500
 SUMMARY:ZBD (w)
@@ -2634,6 +2634,13 @@ DTEND:20251031T150500
 SUMMARY:wzbnim (ć)
 LOCATION:201 65
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251031T160000
+DTEND:20251031T173500
+SUMMARY:wzbnim (w)
+LOCATION:301/ S
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T095000
@@ -2762,32 +2769,11 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 45/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251106T160000
-DTEND:20251106T173500
-SUMMARY:Sme. (w)
-LOCATION:314 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251106T175000
-DTEND:20251106T192500
-SUMMARY:Sme. (w)
-LOCATION:314 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251107T080000
 DTEND:20251107T093500
 SUMMARY:Ja (ć)
 LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 40/60\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251107T095000
-DTEND:20251107T112500
-SUMMARY:wzbnim (w)
-LOCATION:313 S
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T114000
@@ -2802,6 +2788,13 @@ DTEND:20251107T150500
 SUMMARY:wzbnim (ć)
 LOCATION:201 65
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251107T160000
+DTEND:20251107T173500
+SUMMARY:Wpp (Inne)
+LOCATION:313 S
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251108T095000
@@ -2958,6 +2951,13 @@ LOCATION:308 S
 DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251117T175000
+DTEND:20251117T192500
+SUMMARY:Sme. (w)
+LOCATION:309 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251118T080000
 DTEND:20251118T093500
 SUMMARY:IRz (L)
@@ -2976,14 +2976,14 @@ DTSTART:20251118T114000
 DTEND:20251118T131500
 SUMMARY:Sme. (w)
 LOCATION:317 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T133000
 DTEND:20251118T150500
 SUMMARY:Sme. (w)
 LOCATION:317 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T160000
@@ -3117,6 +3117,13 @@ DTEND:20251124T173500
 SUMMARY:PZ (L)
 LOCATION:226 S
 DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/22\nProwadzący: mgr inż. Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251124T175000
+DTEND:20251124T192500
+SUMMARY:Sme. (w)
+LOCATION:309 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T080000

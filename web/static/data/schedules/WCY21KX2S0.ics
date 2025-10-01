@@ -774,6 +774,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 17/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251023T114000
+DTEND:20251023T131500
+SUMMARY:wzbnim (w)
+LOCATION:316 S
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251023T133000
 DTEND:20251023T150500
 SUMMARY:WF (ć)
@@ -792,7 +799,7 @@ DTSTART:20251024T095000
 DTEND:20251024T112500
 SUMMARY:wzbnim (w)
 LOCATION:313 S
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T095000
@@ -886,11 +893,11 @@ LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 38/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251031T095000
-DTEND:20251031T112500
+DTSTART:20251031T160000
+DTEND:20251031T173500
 SUMMARY:wzbnim (w)
-LOCATION:313 S
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
+LOCATION:301/ S
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T114000
@@ -982,13 +989,6 @@ DTEND:20251107T093500
 SUMMARY:Ja (ć)
 LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 40/60\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251107T095000
-DTEND:20251107T112500
-SUMMARY:wzbnim (w)
-LOCATION:313 S
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251108T095000

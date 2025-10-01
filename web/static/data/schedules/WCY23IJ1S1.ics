@@ -67,20 +67,6 @@ LOCATION:317 S
 DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr inż. Krzysztof Liderman
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251008T080000
-DTEND:20251008T093500
-SUMMARY:Gk (w)
-LOCATION:308 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Marek Salamon
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251008T095000
-DTEND:20251008T112500
-SUMMARY:Gk (w)
-LOCATION:308 S
-DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Marek Salamon
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251008T133000
 DTEND:20251008T150500
 SUMMARY:PZiP (w)
@@ -130,6 +116,13 @@ LOCATION:309 S
 DESCRIPTION:Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251015T080000
+DTEND:20251015T093500
+SUMMARY:Gk (w)
+LOCATION:308 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251015T175000
 DTEND:20251015T192500
 SUMMARY:Pjf (w)
@@ -170,6 +163,13 @@ DTEND:20251016T150500
 SUMMARY:PZiP (ć)
 LOCATION:203 65
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251020T114000
+DTEND:20251020T131500
+SUMMARY:Gk (w)
+LOCATION:317 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T133000

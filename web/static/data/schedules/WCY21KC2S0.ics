@@ -2181,6 +2181,27 @@ LOCATION:120 65
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251003T095000
+DTEND:20251003T112500
+SUMMARY:IRz (Inne)
+LOCATION:106 65
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251003T114000
+DTEND:20251003T131500
+SUMMARY:Sr (w)
+LOCATION:317 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251003T133000
+DTEND:20251003T150500
+SUMMARY:Sr (w)
+LOCATION:317 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251004T095000
 DTEND:20251004T112500
 SUMMARY:XWF (ć)
@@ -2193,20 +2214,6 @@ DTEND:20251006T131500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 33/71\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251006T133000
-DTEND:20251006T150500
-SUMMARY:PCB (P)
-LOCATION:011 65
-DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 1/22\nProwadzący:  Sławomir Machowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251006T160000
-DTEND:20251006T173500
-SUMMARY:PCB (P)
-LOCATION:011 65
-DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 2/22\nProwadzący:  Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T080000
@@ -2279,20 +2286,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 35/71\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251009T160000
-DTEND:20251009T173500
-SUMMARY:PsbI (w)
-LOCATION:313 S
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Marcin Pachnik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251009T175000
-DTEND:20251009T192500
-SUMMARY:PsbI (w)
-LOCATION:313 S
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Marcin Pachnik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251010T080000
 DTEND:20251010T093500
 SUMMARY:Ja (ć)
@@ -2304,7 +2297,7 @@ DTSTART:20251010T095000
 DTEND:20251010T112500
 SUMMARY:Sr (w)
 LOCATION:316 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T160000
@@ -2377,6 +2370,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 37/71\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251015T160000
+DTEND:20251015T173500
+SUMMARY:Sr (w)
+LOCATION:313 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251015T194000
 DTEND:20251015T211500
 SUMMARY:- (S.Sz.W.)
@@ -2398,13 +2398,6 @@ LOCATION:316 S
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251016T114000
-DTEND:20251016T131500
-SUMMARY:Sr (w)
-LOCATION:316 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251016T133000
 DTEND:20251016T150500
 SUMMARY:WF (ć)
@@ -2416,14 +2409,14 @@ DTSTART:20251016T160000
 DTEND:20251016T173500
 SUMMARY:PsbI (w)
 LOCATION:313 S
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T175000
 DTEND:20251016T192500
 SUMMARY:PsbI (w)
 LOCATION:313 S
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T080000
@@ -2444,14 +2437,28 @@ DTSTART:20251017T114000
 DTEND:20251017T131500
 SUMMARY:PCB (P)
 LOCATION:09 65
-DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 3/22\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 1/22\nProwadzący:  Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T133000
 DTEND:20251017T150500
 SUMMARY:PCB (P)
 LOCATION:09 65
-DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 4/22\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 2/22\nProwadzący:  Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251017T160000
+DTEND:20251017T173500
+SUMMARY:Sr (w)
+LOCATION:317 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251017T175000
+DTEND:20251017T192500
+SUMMARY:Sr (w)
+LOCATION:317 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251018T095000
@@ -2561,9 +2568,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T114000
 DTEND:20251023T131500
-SUMMARY:Sr (w)
+SUMMARY:wzbnim (w)
 LOCATION:316 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T133000
@@ -2577,14 +2584,14 @@ DTSTART:20251023T160000
 DTEND:20251023T173500
 SUMMARY:PsbI (w)
 LOCATION:313 S
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T175000
 DTEND:20251023T192500
 SUMMARY:PsbI (w)
 LOCATION:313 S
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T080000
@@ -2598,21 +2605,35 @@ DTSTART:20251024T095000
 DTEND:20251024T112500
 SUMMARY:wzbnim (w)
 LOCATION:313 S
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T114000
 DTEND:20251024T131500
 SUMMARY:PCB (P)
 LOCATION:09 65
-DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 5/22\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 3/22\nProwadzący:  Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T133000
 DTEND:20251024T150500
 SUMMARY:PCB (P)
 LOCATION:09 65
-DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 6/22\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 4/22\nProwadzący:  Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251024T160000
+DTEND:20251024T173500
+SUMMARY:Sr (w)
+LOCATION:317 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251024T175000
+DTEND:20251024T192500
+SUMMARY:Sr (w)
+LOCATION:317 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T095000
@@ -2717,7 +2738,14 @@ DTSTART:20251030T160000
 DTEND:20251030T173500
 SUMMARY:PsbI (w)
 LOCATION:313 S
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251030T175000
+DTEND:20251030T192500
+SUMMARY:PsbI (w)
+LOCATION:313 S
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T080000
@@ -2727,25 +2755,25 @@ LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 38/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251031T095000
-DTEND:20251031T112500
-SUMMARY:wzbnim (w)
-LOCATION:313 S
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251031T114000
 DTEND:20251031T131500
 SUMMARY:PCB (P)
 LOCATION:09 65
-DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 7/22\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 5/22\nProwadzący:  Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T133000
 DTEND:20251031T150500
 SUMMARY:PCB (P)
 LOCATION:09 65
-DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 8/22\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 6/22\nProwadzący:  Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251031T160000
+DTEND:20251031T173500
+SUMMARY:wzbnim (w)
+LOCATION:301/ S
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T080000
@@ -2874,13 +2902,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 11/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251106T114000
-DTEND:20251106T131500
-SUMMARY:Sr (w)
-LOCATION:316 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251106T133000
 DTEND:20251106T150500
 SUMMARY:WF (ć)
@@ -2893,13 +2914,6 @@ DTEND:20251107T093500
 SUMMARY:Ja (ć)
 LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 40/60\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251107T095000
-DTEND:20251107T112500
-SUMMARY:wzbnim (w)
-LOCATION:313 S
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T114000
@@ -2920,14 +2934,14 @@ DTSTART:20251107T160000
 DTEND:20251107T173500
 SUMMARY:PCB (P)
 LOCATION:09 65
-DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 9/22\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 7/22\nProwadzący:  Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T175000
 DTEND:20251107T192500
 SUMMARY:PCB (P)
 LOCATION:09 65
-DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 10/22\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 8/22\nProwadzący:  Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251108T095000
@@ -2986,13 +3000,6 @@ LOCATION:316 S
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251113T114000
-DTEND:20251113T131500
-SUMMARY:Sr (w)
-LOCATION:316 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251113T133000
 DTEND:20251113T150500
 SUMMARY:WF (ć)
@@ -3019,6 +3026,20 @@ DTEND:20251114T150500
 SUMMARY:Temo (L)
 LOCATION:106 65
 DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251114T160000
+DTEND:20251114T173500
+SUMMARY:Sr (w)
+LOCATION:317 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251114T175000
+DTEND:20251114T192500
+SUMMARY:Sr (w)
+LOCATION:317 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T095000
@@ -3081,14 +3102,14 @@ DTSTART:20251119T095000
 DTEND:20251119T112500
 SUMMARY:PCB (P)
 LOCATION:011 65
-DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 11/22\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 9/22\nProwadzący:  Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T114000
 DTEND:20251119T131500
 SUMMARY:PCB (P)
 LOCATION:011 65
-DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 12/22\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 10/22\nProwadzący:  Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T133000
@@ -3117,13 +3138,6 @@ DTEND:20251119T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 11/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T114000
-DTEND:20251120T131500
-SUMMARY:Sr (w)
-LOCATION:313 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T133000
@@ -3273,13 +3287,6 @@ LOCATION:316 S
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251127T114000
-DTEND:20251127T131500
-SUMMARY:Sr (w)
-LOCATION:316 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251127T133000
 DTEND:20251127T150500
 SUMMARY:WF (ć)
@@ -3340,14 +3347,14 @@ DTSTART:20251201T160000
 DTEND:20251201T173500
 SUMMARY:PCB (P)
 LOCATION:011 65
-DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 13/22\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 11/22\nProwadzący:  Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T175000
 DTEND:20251201T192500
 SUMMARY:PCB (P)
 LOCATION:011 65
-DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 14/22\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 12/22\nProwadzący:  Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T095000
@@ -3404,13 +3411,6 @@ DTEND:20251203T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251204T114000
-DTEND:20251204T131500
-SUMMARY:Sr (w)
-LOCATION:317 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T133000
@@ -3476,6 +3476,13 @@ LOCATION:204 65
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251208T175000
+DTEND:20251208T192500
+SUMMARY:PsbI (w)
+LOCATION:313 S
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251209T080000
 DTEND:20251209T093500
 SUMMARY:TCT (L)
@@ -3509,13 +3516,6 @@ DTEND:20251210T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 16/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251211T114000
-DTEND:20251211T131500
-SUMMARY:Sr (w)
-LOCATION:316 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T133000
@@ -3557,14 +3557,14 @@ DTSTART:20251212T160000
 DTEND:20251212T173500
 SUMMARY:PCB (P)
 LOCATION:09 65
-DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 15/22\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 13/22\nProwadzący:  Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T175000
 DTEND:20251212T192500
 SUMMARY:PCB (P)
 LOCATION:09 65
-DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 16/22\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 14/22\nProwadzący:  Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T095000
@@ -3637,13 +3637,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 17/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251218T114000
-DTEND:20251218T131500
-SUMMARY:Sr (w)
-LOCATION:316 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251218T133000
 DTEND:20251218T150500
 SUMMARY:WF (ć)
@@ -3683,14 +3676,14 @@ DTSTART:20251219T160000
 DTEND:20251219T173500
 SUMMARY:PCB (P)
 LOCATION:09 65
-DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 17/22\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 15/22\nProwadzący:  Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T175000
 DTEND:20251219T192500
 SUMMARY:PCB (P)
 LOCATION:09 65
-DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 18/22\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 16/22\nProwadzący:  Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T095000
@@ -3984,14 +3977,14 @@ DTSTART:20260119T160000
 DTEND:20260119T173500
 SUMMARY:PCB (P)
 LOCATION:09 65
-DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 19/22\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 17/22\nProwadzący:  Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T175000
 DTEND:20260119T192500
 SUMMARY:PCB (P)
 LOCATION:09 65
-DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 20/22\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 18/22\nProwadzący:  Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T160000
@@ -4055,6 +4048,20 @@ DTEND:20260123T093500
 SUMMARY:Ja (ć)
 LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 58/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260123T114000
+DTEND:20260123T131500
+SUMMARY:PCB (P)
+LOCATION:237 S
+DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 19/22\nProwadzący:  Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260123T133000
+DTEND:20260123T150500
+SUMMARY:PCB (P)
+LOCATION:237 S
+DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 20/22\nProwadzący:  Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T095000

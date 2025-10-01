@@ -2195,6 +2195,20 @@ LOCATION:120 65
 DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251003T114000
+DTEND:20251003T131500
+SUMMARY:Sr (w)
+LOCATION:317 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251003T133000
+DTEND:20251003T150500
+SUMMARY:Sr (w)
+LOCATION:317 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251004T095000
 DTEND:20251004T112500
 SUMMARY:XWF (ć)
@@ -2293,20 +2307,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 35/71\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251009T160000
-DTEND:20251009T173500
-SUMMARY:PsbI (w)
-LOCATION:313 S
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Marcin Pachnik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251009T175000
-DTEND:20251009T192500
-SUMMARY:PsbI (w)
-LOCATION:313 S
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Marcin Pachnik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251010T080000
 DTEND:20251010T093500
 SUMMARY:Ja (ć)
@@ -2318,7 +2318,7 @@ DTSTART:20251010T095000
 DTEND:20251010T112500
 SUMMARY:Sr (w)
 LOCATION:316 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T160000
@@ -2384,6 +2384,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 37/71\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251015T160000
+DTEND:20251015T173500
+SUMMARY:Sr (w)
+LOCATION:313 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251015T194000
 DTEND:20251015T211500
 SUMMARY:- (S.Sz.W.)
@@ -2405,13 +2412,6 @@ LOCATION:316 S
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251016T114000
-DTEND:20251016T131500
-SUMMARY:Sr (w)
-LOCATION:316 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251016T133000
 DTEND:20251016T150500
 SUMMARY:WF (ć)
@@ -2423,14 +2423,14 @@ DTSTART:20251016T160000
 DTEND:20251016T173500
 SUMMARY:PsbI (w)
 LOCATION:313 S
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T175000
 DTEND:20251016T192500
 SUMMARY:PsbI (w)
 LOCATION:313 S
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T080000
@@ -2459,6 +2459,20 @@ DTEND:20251017T150500
 SUMMARY:Dtu (P)
 LOCATION:205 65
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNr zajęć: 2/8\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251017T160000
+DTEND:20251017T173500
+SUMMARY:Sr (w)
+LOCATION:317 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251017T175000
+DTEND:20251017T192500
+SUMMARY:Sr (w)
+LOCATION:317 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251018T095000
@@ -2561,9 +2575,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T114000
 DTEND:20251023T131500
-SUMMARY:Sr (w)
+SUMMARY:wzbnim (w)
 LOCATION:316 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T133000
@@ -2577,14 +2591,14 @@ DTSTART:20251023T160000
 DTEND:20251023T173500
 SUMMARY:PsbI (w)
 LOCATION:313 S
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T175000
 DTEND:20251023T192500
 SUMMARY:PsbI (w)
 LOCATION:313 S
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T080000
@@ -2598,7 +2612,7 @@ DTSTART:20251024T095000
 DTEND:20251024T112500
 SUMMARY:wzbnim (w)
 LOCATION:313 S
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T114000
@@ -2613,6 +2627,20 @@ DTEND:20251024T150500
 SUMMARY:BsIP (L)
 LOCATION:125 65
 DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251024T160000
+DTEND:20251024T173500
+SUMMARY:Sr (w)
+LOCATION:317 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251024T175000
+DTEND:20251024T192500
+SUMMARY:Sr (w)
+LOCATION:317 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T095000
@@ -2745,7 +2773,14 @@ DTSTART:20251030T160000
 DTEND:20251030T173500
 SUMMARY:PsbI (w)
 LOCATION:313 S
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251030T175000
+DTEND:20251030T192500
+SUMMARY:PsbI (w)
+LOCATION:313 S
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T080000
@@ -2755,11 +2790,11 @@ LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 38/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251031T095000
-DTEND:20251031T112500
+DTSTART:20251031T160000
+DTEND:20251031T173500
 SUMMARY:wzbnim (w)
-LOCATION:313 S
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
+LOCATION:301/ S
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T080000
@@ -2867,13 +2902,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 11/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251106T114000
-DTEND:20251106T131500
-SUMMARY:Sr (w)
-LOCATION:316 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251106T133000
 DTEND:20251106T150500
 SUMMARY:WF (ć)
@@ -2900,13 +2928,6 @@ DTEND:20251107T093500
 SUMMARY:Ja (ć)
 LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 40/60\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251107T095000
-DTEND:20251107T112500
-SUMMARY:wzbnim (w)
-LOCATION:313 S
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T114000
@@ -2979,13 +3000,6 @@ LOCATION:316 S
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251113T114000
-DTEND:20251113T131500
-SUMMARY:Sr (w)
-LOCATION:316 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251113T133000
 DTEND:20251113T150500
 SUMMARY:WF (ć)
@@ -3026,6 +3040,20 @@ DTEND:20251114T150500
 SUMMARY:PCB (P)
 LOCATION:09 65
 DESCRIPTION:Projekt z zakresu cyberobrony\nRodzaj zajęć: Projekt\nNr zajęć: 8/22\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251114T160000
+DTEND:20251114T173500
+SUMMARY:Sr (w)
+LOCATION:317 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251114T175000
+DTEND:20251114T192500
+SUMMARY:Sr (w)
+LOCATION:317 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T095000
@@ -3124,13 +3152,6 @@ DTEND:20251119T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 11/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T114000
-DTEND:20251120T131500
-SUMMARY:Sr (w)
-LOCATION:313 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T133000
@@ -3301,13 +3322,6 @@ LOCATION:316 S
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr inż. Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251127T114000
-DTEND:20251127T131500
-SUMMARY:Sr (w)
-LOCATION:316 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251127T133000
 DTEND:20251127T150500
 SUMMARY:WF (ć)
@@ -3420,13 +3434,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251204T114000
-DTEND:20251204T131500
-SUMMARY:Sr (w)
-LOCATION:317 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251204T133000
 DTEND:20251204T150500
 SUMMARY:WF (ć)
@@ -3483,6 +3490,13 @@ LOCATION:204 65
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251208T175000
+DTEND:20251208T192500
+SUMMARY:PsbI (w)
+LOCATION:313 S
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251209T114000
 DTEND:20251209T131500
 SUMMARY:Stg (w)
@@ -3523,13 +3537,6 @@ DTEND:20251211T112500
 SUMMARY:TCT (L)
 LOCATION:011 65
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: dr inż. Witold Żorski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251211T114000
-DTEND:20251211T131500
-SUMMARY:Sr (w)
-LOCATION:316 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T133000
@@ -3642,13 +3649,6 @@ DTEND:20251217T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 17/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251218T114000
-DTEND:20251218T131500
-SUMMARY:Sr (w)
-LOCATION:316 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T133000

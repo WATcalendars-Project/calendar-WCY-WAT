@@ -105,14 +105,14 @@ BEGIN:VEVENT
 DTSTART:20251008T095000
 DTEND:20251008T112500
 SUMMARY:JEt (L)
-LOCATION:237 S
+LOCATION:125 65
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T114000
 DTEND:20251008T131500
 SUMMARY:JEt (L)
-LOCATION:237 S
+LOCATION:125 65
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
@@ -508,6 +508,13 @@ LOCATION:237 S
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/20\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251103T095000
+DTEND:20251103T112500
+SUMMARY:Nsk (w)
+LOCATION:307 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251103T114000
 DTEND:20251103T131500
 SUMMARY:JEt (w)
@@ -540,14 +547,14 @@ DTSTART:20251104T080000
 DTEND:20251104T093500
 SUMMARY:Nsk (w)
 LOCATION:307 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T095000
 DTEND:20251104T112500
 SUMMARY:Nsk (w)
 LOCATION:307 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T080000
@@ -667,13 +674,6 @@ DTEND:20251113T112500
 SUMMARY:Swb (w)
 LOCATION:308 S
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr inż. Krzysztof Murawski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251113T160000
-DTEND:20251113T173500
-SUMMARY:Nsk (w)
-LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T080000
