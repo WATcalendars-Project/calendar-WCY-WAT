@@ -76,14 +76,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250308T133000
 DTEND:20250308T150500
-SUMMARY:Zui (w)
+SUMMARY:ZUI (w)
 LOCATION:309 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250308T160000
 DTEND:20250308T173500
-SUMMARY:Zui (w)
+SUMMARY:ZUI (w)
 LOCATION:309 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
@@ -118,14 +118,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250309T133000
 DTEND:20250309T150500
-SUMMARY:Zui (w)
+SUMMARY:ZUI (w)
 LOCATION:317 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250309T160000
 DTEND:20250309T173500
-SUMMARY:Zui (w)
+SUMMARY:ZUI (w)
 LOCATION:317 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
@@ -629,14 +629,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250427T114000
 DTEND:20250427T131500
-SUMMARY:Zui (P)
+SUMMARY:ZUI (P)
 LOCATION:226 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 1/6\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250427T133000
 DTEND:20250427T150500
-SUMMARY:Zui (P)
+SUMMARY:ZUI (P)
 LOCATION:226 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 2/6\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
@@ -972,14 +972,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250525T114000
 DTEND:20250525T131500
-SUMMARY:Zui (P)
+SUMMARY:ZUI (P)
 LOCATION:226 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 3/6\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250525T133000
 DTEND:20250525T150500
-SUMMARY:Zui (P)
+SUMMARY:ZUI (P)
 LOCATION:226 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 4/6\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
@@ -1203,14 +1203,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T175000
 DTEND:20250614T192500
-SUMMARY:Zui (P)
+SUMMARY:ZUI (P)
 LOCATION:224 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 5/6\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T194000
 DTEND:20250614T211500
-SUMMARY:Zui (P)
+SUMMARY:ZUI (P)
 LOCATION:224 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 6/6\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
@@ -1334,6 +1334,20 @@ LOCATION:252 S
 DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251005T114000
+DTEND:20251005T131500
+SUMMARY:mo (P)
+LOCATION:224 S
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 3/10\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251005T133000
+DTEND:20251005T150500
+SUMMARY:mo (P)
+LOCATION:224 S
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 4/10\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251011T080000
 DTEND:20251011T093500
 SUMMARY:Soc (w)
@@ -1366,14 +1380,14 @@ DTSTART:20251012T080000
 DTEND:20251012T093500
 SUMMARY:mo (P)
 LOCATION:252 S
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 3/10\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 5/10\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251012T095000
 DTEND:20251012T112500
 SUMMARY:mo (P)
 LOCATION:252 S
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 4/10\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 6/10\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251012T114000
@@ -1437,20 +1451,6 @@ DTEND:20251019T112500
 SUMMARY:Twinf (L)
 LOCATION:252 S
 DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: mgr inż. Marcin Perka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251019T114000
-DTEND:20251019T131500
-SUMMARY:mo (P)
-LOCATION:252 S
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 5/10\nProwadzący: dr inż. Wojciech Kulas
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251019T133000
-DTEND:20251019T150500
-SUMMARY:mo (P)
-LOCATION:252 S
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 6/10\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T095000

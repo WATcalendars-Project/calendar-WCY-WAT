@@ -195,14 +195,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T095000
 DTEND:20251104T112500
-SUMMARY:Zui (w)
+SUMMARY:ZUI (w)
 LOCATION:224 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T114000
 DTEND:20251104T131500
-SUMMARY:Zui (w)
+SUMMARY:ZUI (w)
 LOCATION:224 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
@@ -328,14 +328,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T095000
 DTEND:20251118T112500
-SUMMARY:Zui (w)
+SUMMARY:ZUI (w)
 LOCATION:224 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T114000
 DTEND:20251118T131500
-SUMMARY:Zui (w)
+SUMMARY:ZUI (w)
 LOCATION:224 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
@@ -412,14 +412,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T095000
 DTEND:20251125T112500
-SUMMARY:Zui (w)
+SUMMARY:ZUI (w)
 LOCATION:224 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T114000
 DTEND:20251125T131500
-SUMMARY:Zui (w)
+SUMMARY:ZUI (w)
 LOCATION:224 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
@@ -552,14 +552,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T114000
 DTEND:20251209T131500
-SUMMARY:Zui (L)
+SUMMARY:ZUI (L)
 LOCATION:224 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T133000
 DTEND:20251209T150500
-SUMMARY:Zui (L)
+SUMMARY:ZUI (L)
 LOCATION:224 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
@@ -622,14 +622,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T114000
 DTEND:20251216T131500
-SUMMARY:Zui (L)
+SUMMARY:ZUI (L)
 LOCATION:224 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T133000
 DTEND:20251216T150500
-SUMMARY:Zui (L)
+SUMMARY:ZUI (L)
 LOCATION:224 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
@@ -699,14 +699,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T080000
 DTEND:20260113T093500
-SUMMARY:Zui (L)
+SUMMARY:ZUI (L)
 LOCATION:224 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T095000
 DTEND:20260113T112500
-SUMMARY:Zui (L)
+SUMMARY:ZUI (L)
 LOCATION:224 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
@@ -769,14 +769,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T080000
 DTEND:20260120T093500
-SUMMARY:Zui (L)
+SUMMARY:ZUI (L)
 LOCATION:224 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T095000
 DTEND:20260120T112500
-SUMMARY:Zui (L)
+SUMMARY:ZUI (L)
 LOCATION:224 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
@@ -811,7 +811,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T080000
 DTEND:20260127T093500
-SUMMARY:Zui (L)
+SUMMARY:ZUI (L)
 LOCATION:224 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT

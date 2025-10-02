@@ -106,7 +106,7 @@ DTSTART:20251003T114000
 DTEND:20251003T131500
 SUMMARY:In. WCY (Inne)
 LOCATION:S. Kinowa K
-DESCRIPTION:Inauguracja WCY\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący:  Andrzej Najgebauer
+DESCRIPTION:Inauguracja WCY\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T114000
@@ -256,6 +256,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251010T080000
+DTEND:20251010T093500
+SUMMARY:Wzp (w)
+LOCATION:316 S
+DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251010T095000
 DTEND:20251010T112500
 SUMMARY:WdI (w)
@@ -282,6 +289,20 @@ DTEND:20251013T131500
 SUMMARY:MD1 (w)
 LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251013T160000
+DTEND:20251013T173500
+SUMMARY:Wzp (w)
+LOCATION:316 S
+DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251013T175000
+DTEND:20251013T192500
+SUMMARY:Wzp (w)
+LOCATION:316 S
+DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T095000
@@ -382,20 +403,6 @@ LOCATION:314 S
 DESCRIPTION:Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251021T160000
-DTEND:20251021T173500
-SUMMARY:Wzp (w)
-LOCATION:313 S
-DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251021T175000
-DTEND:20251021T192500
-SUMMARY:Wzp (w)
-LOCATION:313 S
-DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251022T114000
 DTEND:20251022T131500
 SUMMARY:Mat I (ć)
@@ -471,13 +478,6 @@ DTEND:20251024T150500
 SUMMARY:WdI (L)
 LOCATION:252 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251024T160000
-DTEND:20251024T173500
-SUMMARY:Wzp (w)
-LOCATION:316 S
-DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T095000

@@ -120,7 +120,7 @@ DTSTART:20250310T095000
 DTEND:20250310T112500
 SUMMARY:Amt (ć)
 LOCATION:205 65
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/12\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/12\nProwadzący:  Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T080000
@@ -239,7 +239,7 @@ DTSTART:20250317T080000
 DTEND:20250317T093500
 SUMMARY:Amt (ć)
 LOCATION:201 65
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/12\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/12\nProwadzący:  Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T095000
@@ -435,7 +435,7 @@ DTSTART:20250325T133000
 DTEND:20250325T150500
 SUMMARY:Amt (ć)
 LOCATION:218 65
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/12\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/12\nProwadzący:  Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T080000
@@ -526,14 +526,14 @@ DTSTART:20250328T114000
 DTEND:20250328T131500
 SUMMARY:ppk (L)
 LOCATION:106 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T133000
 DTEND:20250328T150500
 SUMMARY:ppk (L)
 LOCATION:106 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T080000
@@ -554,7 +554,7 @@ DTSTART:20250331T133000
 DTEND:20250331T150500
 SUMMARY:Amt (ć)
 LOCATION:317 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/12\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/12\nProwadzący:  Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T160000
@@ -589,7 +589,7 @@ DTSTART:20250401T114000
 DTEND:20250401T131500
 SUMMARY:Amt (ć)
 LOCATION:218 65
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/12\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/12\nProwadzący:  Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T133000
@@ -771,7 +771,7 @@ DTSTART:20250408T133000
 DTEND:20250408T150500
 SUMMARY:Amt (ć)
 LOCATION:313 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/12\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/12\nProwadzący:  Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T175000
@@ -848,14 +848,14 @@ DTSTART:20250411T114000
 DTEND:20250411T131500
 SUMMARY:ppk (L)
 LOCATION:121 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T133000
 DTEND:20250411T150500
 SUMMARY:ppk (L)
 LOCATION:121 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T095000
@@ -981,14 +981,14 @@ DTSTART:20250423T080000
 DTEND:20250423T093500
 SUMMARY:ppk (L)
 LOCATION:125 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T095000
 DTEND:20250423T112500
 SUMMARY:ppk (L)
 LOCATION:125 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T114000
@@ -1100,7 +1100,7 @@ DTSTART:20250429T114000
 DTEND:20250429T131500
 SUMMARY:Amt (ć)
 LOCATION:313 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/12\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/12\nProwadzący:  Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T133000
@@ -1163,14 +1163,14 @@ DTSTART:20250506T080000
 DTEND:20250506T093500
 SUMMARY:ppk (L)
 LOCATION:125 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T095000
 DTEND:20250506T112500
 SUMMARY:ppk (L)
 LOCATION:125 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T114000
@@ -1191,7 +1191,7 @@ DTSTART:20250507T080000
 DTEND:20250507T093500
 SUMMARY:Amt (ć)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/12\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/12\nProwadzący:  Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T095000
@@ -1289,7 +1289,7 @@ DTSTART:20250513T095000
 DTEND:20250513T112500
 SUMMARY:Amt (ć)
 LOCATION:317 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/12\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/12\nProwadzący:  Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T133000
@@ -1415,7 +1415,7 @@ DTSTART:20250521T095000
 DTEND:20250521T112500
 SUMMARY:Amt (ć)
 LOCATION:313 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/12\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/12\nProwadzący:  Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T114000
@@ -1513,7 +1513,7 @@ DTSTART:20250528T114000
 DTEND:20250528T131500
 SUMMARY:Amt (ć)
 LOCATION:309 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/12\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/12\nProwadzący:  Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T133000
@@ -1646,7 +1646,7 @@ DTSTART:20250611T095000
 DTEND:20250611T112500
 SUMMARY:Amt (ć)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/12\nProwadzący: mgr inż. Stanisław Zoń
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/12\nProwadzący:  Stanisław Zoń
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T114000
@@ -1842,7 +1842,7 @@ DTSTART:20250912T133000
 DTEND:20250912T150500
 SUMMARY:ppk (Inne)
 LOCATION:011 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250915T095000

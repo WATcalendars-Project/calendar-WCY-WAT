@@ -69,14 +69,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250308T133000
 DTEND:20250308T150500
-SUMMARY:Zui (w)
+SUMMARY:ZUI (w)
 LOCATION:309 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250308T160000
 DTEND:20250308T173500
-SUMMARY:Zui (w)
+SUMMARY:ZUI (w)
 LOCATION:309 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
@@ -104,14 +104,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250309T133000
 DTEND:20250309T150500
-SUMMARY:Zui (w)
+SUMMARY:ZUI (w)
 LOCATION:317 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250309T160000
 DTEND:20250309T173500
-SUMMARY:Zui (w)
+SUMMARY:ZUI (w)
 LOCATION:317 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
@@ -510,14 +510,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250413T114000
 DTEND:20250413T131500
-SUMMARY:Zui (P)
+SUMMARY:ZUI (P)
 LOCATION:224 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 1/6\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250413T133000
 DTEND:20250413T150500
-SUMMARY:Zui (P)
+SUMMARY:ZUI (P)
 LOCATION:224 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 2/6\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
@@ -601,14 +601,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250427T160000
 DTEND:20250427T173500
-SUMMARY:Zui (P)
+SUMMARY:ZUI (P)
 LOCATION:226 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 3/6\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250427T175000
 DTEND:20250427T192500
-SUMMARY:Zui (P)
+SUMMARY:ZUI (P)
 LOCATION:226 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 4/6\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
@@ -1168,14 +1168,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T095000
 DTEND:20250614T112500
-SUMMARY:Zui (P)
+SUMMARY:ZUI (P)
 LOCATION:224 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 5/6\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T114000
 DTEND:20250614T131500
-SUMMARY:Zui (P)
+SUMMARY:ZUI (P)
 LOCATION:224 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 6/6\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
@@ -1415,7 +1415,7 @@ DTSTART:20251025T080000
 DTEND:20251025T093500
 SUMMARY:Miob (w)
 LOCATION:224 S
-DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący:  Andrzej Najgebauer
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T095000
@@ -1429,7 +1429,7 @@ DTSTART:20251025T114000
 DTEND:20251025T131500
 SUMMARY:Miob (w)
 LOCATION:224 S
-DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący:  Andrzej Najgebauer
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T133000
@@ -1485,7 +1485,7 @@ DTSTART:20251115T080000
 DTEND:20251115T093500
 SUMMARY:Miob (w)
 LOCATION:223 S
-DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący:  Andrzej Najgebauer
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T095000
@@ -1499,7 +1499,7 @@ DTSTART:20251115T114000
 DTEND:20251115T131500
 SUMMARY:Miob (w)
 LOCATION:224 S
-DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący:  Andrzej Najgebauer
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T133000

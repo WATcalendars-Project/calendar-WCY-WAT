@@ -295,7 +295,7 @@ DTSTART:20250317T160000
 DTEND:20250317T173500
 SUMMARY:MeSK (w)
 LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T080000
@@ -463,7 +463,7 @@ DTSTART:20250325T095000
 DTEND:20250325T112500
 SUMMARY:MeSK (L)
 LOCATION:228 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Stanisław Skrzypecki
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T114000
@@ -491,7 +491,7 @@ DTSTART:20250326T095000
 DTEND:20250326T112500
 SUMMARY:MeSK (w)
 LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T114000
@@ -1023,7 +1023,7 @@ DTSTART:20250415T095000
 DTEND:20250415T112500
 SUMMARY:MeSK (L)
 LOCATION:233 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Stanisław Skrzypecki
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T114000
@@ -1093,7 +1093,7 @@ DTSTART:20250423T095000
 DTEND:20250423T112500
 SUMMARY:MeSK (w)
 LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 6/5\nProwadzący:  Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 6/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T114000
@@ -1303,21 +1303,21 @@ DTSTART:20250506T095000
 DTEND:20250506T112500
 SUMMARY:MeSK (L)
 LOCATION:252 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Stanisław Skrzypecki
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T114000
 DTEND:20250506T131500
 SUMMARY:Sss (L)
 LOCATION:09 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T133000
 DTEND:20250506T150500
 SUMMARY:Sss (L)
 LOCATION:09 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T080000
@@ -1457,7 +1457,7 @@ DTSTART:20250514T095000
 DTEND:20250514T112500
 SUMMARY:MeSK (w)
 LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 7/5\nProwadzący:  Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 7/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T114000
@@ -1765,21 +1765,21 @@ DTSTART:20250527T114000
 DTEND:20250527T131500
 SUMMARY:Sss (L)
 LOCATION:09 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T133000
 DTEND:20250527T150500
 SUMMARY:Sss (L)
 LOCATION:09 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T095000
 DTEND:20250528T112500
 SUMMARY:MeSK (w)
 LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 8/5\nProwadzący:  Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 8/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T114000
@@ -1884,7 +1884,7 @@ DTSTART:20250603T133000
 DTEND:20250603T150500
 SUMMARY:MeSK (L)
 LOCATION:239 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/10\nProwadzący:  Stanisław Skrzypecki
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/10\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T080000
@@ -1947,14 +1947,14 @@ DTSTART:20250606T133000
 DTEND:20250606T150500
 SUMMARY:Sss (L)
 LOCATION:121 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T160000
 DTEND:20250606T173500
 SUMMARY:Sss (L)
 LOCATION:121 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T175000
@@ -2066,14 +2066,14 @@ DTSTART:20250612T114000
 DTEND:20250612T131500
 SUMMARY:Sss (L)
 LOCATION:09 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T133000
 DTEND:20250612T150500
 SUMMARY:Sss (L)
 LOCATION:09 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Tomasz Żentara
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T175000
@@ -2255,14 +2255,14 @@ DTSTART:20250630T095000
 DTEND:20250630T112500
 SUMMARY:MeSK (E)
 LOCATION:317 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T114000
 DTEND:20250630T131500
 SUMMARY:MeSK (E)
 LOCATION:317 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250702T095000
@@ -2332,7 +2332,7 @@ DTSTART:20251002T080000
 DTEND:20251002T093500
 SUMMARY:MeSK (Inne)
 LOCATION:313 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T095000
@@ -2368,20 +2368,6 @@ DTEND:20251003T112500
 SUMMARY:Wpp (Inne)
 LOCATION:121 65
 DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 5/3\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251003T114000
-DTEND:20251003T131500
-SUMMARY:Sr (w)
-LOCATION:317 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251003T133000
-DTEND:20251003T150500
-SUMMARY:Sr (w)
-LOCATION:317 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T095000
@@ -2507,7 +2493,7 @@ DTSTART:20251010T095000
 DTEND:20251010T112500
 SUMMARY:Sr (w)
 LOCATION:316 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T095000
@@ -2580,13 +2566,6 @@ LOCATION:09 65
 DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 4/22\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251015T160000
-DTEND:20251015T173500
-SUMMARY:Sr (w)
-LOCATION:313 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251015T194000
 DTEND:20251015T211500
 SUMMARY:- (S.Sz.W.)
@@ -2598,14 +2577,21 @@ DTSTART:20251016T080000
 DTEND:20251016T093500
 SUMMARY:TCT (w)
 LOCATION:316 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T095000
 DTEND:20251016T112500
 SUMMARY:TCT (w)
 LOCATION:316 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251016T114000
+DTEND:20251016T131500
+SUMMARY:Sr (w)
+LOCATION:316 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T133000
@@ -2648,20 +2634,6 @@ DTEND:20251017T131500
 SUMMARY:ZBD (w)
 LOCATION:316 S
 DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący:  Marcin Dąbkiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251017T160000
-DTEND:20251017T173500
-SUMMARY:Sr (w)
-LOCATION:317 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251017T175000
-DTEND:20251017T192500
-SUMMARY:Sr (w)
-LOCATION:317 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251018T095000
@@ -2731,21 +2703,21 @@ DTSTART:20251023T080000
 DTEND:20251023T093500
 SUMMARY:TCT (w)
 LOCATION:316 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T095000
 DTEND:20251023T112500
 SUMMARY:TCT (w)
 LOCATION:316 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T114000
 DTEND:20251023T131500
-SUMMARY:wzbnim (w)
+SUMMARY:Sr (w)
 LOCATION:316 S
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T133000
@@ -2780,7 +2752,7 @@ DTSTART:20251024T095000
 DTEND:20251024T112500
 SUMMARY:wzbnim (w)
 LOCATION:313 S
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T114000
@@ -2788,20 +2760,6 @@ DTEND:20251024T131500
 SUMMARY:ZBD (w)
 LOCATION:316 S
 DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący:  Marcin Dąbkiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251024T160000
-DTEND:20251024T173500
-SUMMARY:Sr (w)
-LOCATION:317 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251024T175000
-DTEND:20251024T192500
-SUMMARY:Sr (w)
-LOCATION:317 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T095000
@@ -2899,14 +2857,14 @@ DTSTART:20251030T080000
 DTEND:20251030T093500
 SUMMARY:TCT (w)
 LOCATION:316 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T095000
 DTEND:20251030T112500
 SUMMARY:TCT (w)
 LOCATION:316 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T133000
@@ -2948,7 +2906,7 @@ DTSTART:20251031T160000
 DTEND:20251031T173500
 SUMMARY:wzbnim (w)
 LOCATION:301/ S
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T095000
@@ -3056,6 +3014,13 @@ LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 40/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251107T095000
+DTEND:20251107T112500
+SUMMARY:Sr (w)
+LOCATION:313 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251107T114000
 DTEND:20251107T131500
 SUMMARY:Scrz (L)
@@ -3109,14 +3074,21 @@ DTSTART:20251113T080000
 DTEND:20251113T093500
 SUMMARY:TCT (w)
 LOCATION:316 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T095000
 DTEND:20251113T112500
 SUMMARY:TCT (w)
 LOCATION:316 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251113T114000
+DTEND:20251113T131500
+SUMMARY:Sr (w)
+LOCATION:316 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T133000
@@ -3159,20 +3131,6 @@ DTEND:20251114T131500
 SUMMARY:Scrz (w)
 LOCATION:203 65
 DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNr zajęć: 5/4\nProwadzący: dr inż. Tomasz Pałys
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251114T160000
-DTEND:20251114T173500
-SUMMARY:Sr (w)
-LOCATION:317 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr inż. Łukasz Strzelecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251114T175000
-DTEND:20251114T192500
-SUMMARY:Sr (w)
-LOCATION:317 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T095000
@@ -3292,6 +3250,13 @@ DTEND:20251119T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251120T114000
+DTEND:20251120T131500
+SUMMARY:Sr (w)
+LOCATION:313 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T133000
@@ -3459,14 +3424,21 @@ DTSTART:20251127T080000
 DTEND:20251127T093500
 SUMMARY:TCT (w)
 LOCATION:316 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T095000
 DTEND:20251127T112500
 SUMMARY:TCT (w)
 LOCATION:316 S
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251127T114000
+DTEND:20251127T131500
+SUMMARY:Sr (w)
+LOCATION:316 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T133000
@@ -3602,6 +3574,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 17/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251204T114000
+DTEND:20251204T131500
+SUMMARY:Sr (w)
+LOCATION:317 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251204T133000
 DTEND:20251204T150500
 SUMMARY:WF (ć)
@@ -3705,6 +3684,13 @@ DTEND:20251210T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 18/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251211T114000
+DTEND:20251211T131500
+SUMMARY:Sr (w)
+LOCATION:316 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T133000
@@ -3826,6 +3812,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 21/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251218T114000
+DTEND:20251218T131500
+SUMMARY:Sr (w)
+LOCATION:316 S
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr inż. Łukasz Strzelecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251218T133000
 DTEND:20251218T150500
 SUMMARY:WF (ć)
@@ -3844,14 +3837,14 @@ DTSTART:20251219T095000
 DTEND:20251219T112500
 SUMMARY:TCT (L)
 LOCATION:011 65
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T114000
 DTEND:20251219T131500
 SUMMARY:TCT (L)
 LOCATION:011 65
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T095000
@@ -4061,21 +4054,21 @@ DTSTART:20260116T095000
 DTEND:20260116T112500
 SUMMARY:TCT (L)
 LOCATION:011 65
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T114000
 DTEND:20260116T131500
 SUMMARY:TCT (L)
 LOCATION:011 65
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T133000
 DTEND:20260116T150500
 SUMMARY:TCT (L)
 LOCATION:011 65
-DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: dr inż. Witold Żorski
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T160000
@@ -4216,6 +4209,13 @@ DTEND:20260123T131500
 SUMMARY:Picz (L)
 LOCATION:106 65
 DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/14\nProwadzący:  Jakub Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260123T160000
+DTEND:20260123T173500
+SUMMARY:wzbnim (w)
+LOCATION:313 S
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T095000
