@@ -4022,13 +4022,6 @@ LOCATION:55/ 62
 DESCRIPTION:Technika mikrofalowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251020T160000
-DTEND:20251020T173500
-SUMMARY:App (Inne)
-LOCATION:5/ 23a
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251021T080000
 DTEND:20251021T093500
 SUMMARY:Prmi (L)
@@ -5118,7 +5111,7 @@ DTSTART:20251209T114000
 DTEND:20251209T131500
 SUMMARY:App (Inne)
 LOCATION:5/ 23a
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 2/4\nProwadzący: -
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T160000
@@ -6084,7 +6077,7 @@ DTSTART:20260113T114000
 DTEND:20260113T131500
 SUMMARY:App (Inne)
 LOCATION:5/ 23a
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 3/4\nProwadzący: -
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T114000
@@ -6238,7 +6231,7 @@ DTSTART:20260120T114000
 DTEND:20260120T131500
 SUMMARY:App (Inne)
 LOCATION:15/ 23a
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 4/4\nProwadzący: -
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T080000
@@ -6344,6 +6337,13 @@ DTEND:20260127T131500
 SUMMARY:App (w)
 LOCATION:2.01/ 54A
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260127T133000
+DTEND:20260127T150500
+SUMMARY:App (Inne)
+LOCATION:6/ 23a
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T080000

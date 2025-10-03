@@ -1292,13 +1292,6 @@ LOCATION:308 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251004T175000
-DTEND:20251004T192500
-SUMMARY:Sm (w)
-LOCATION:203 65
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr Piotr Mularczyk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251005T080000
 DTEND:20251005T093500
 SUMMARY:SO (w)
@@ -1357,9 +1350,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T160000
 DTEND:20251011T173500
-SUMMARY:Sm (L)
-LOCATION:218 65
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący: dr Piotr Mularczyk
+SUMMARY:Sm (w)
+LOCATION:203 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T175000
@@ -1367,6 +1360,13 @@ DTEND:20251011T192500
 SUMMARY:Sm (w)
 LOCATION:203 65
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251011T194000
+DTEND:20251011T211500
+SUMMARY:Sm (L)
+LOCATION:218 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251012T114000
@@ -2408,7 +2408,7 @@ BEGIN:VEVENT
 DTSTART:20260125T080000
 DTEND:20260125T093500
 SUMMARY:Bd (L)
-LOCATION:316 S
+LOCATION:223 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT

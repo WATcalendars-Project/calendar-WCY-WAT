@@ -137,6 +137,13 @@ LOCATION:085 S
 DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/20\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251014T133000
+DTEND:20251014T150500
+SUMMARY:Ab (ć)
+LOCATION:085 S
+DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: dr inż. Elżbieta Burek
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251016T080000
 DTEND:20251016T093500
 SUMMARY:PBI (w)
@@ -207,11 +214,11 @@ LOCATION:205 65
 DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251021T175000
-DTEND:20251021T192500
+DTSTART:20251021T160000
+DTEND:20251021T173500
 SUMMARY:Ab (ć)
-LOCATION:078 S
-DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: dr inż. Elżbieta Burek
+LOCATION:085 S
+DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T114000
@@ -445,11 +452,11 @@ LOCATION:204 65
 DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251104T175000
-DTEND:20251104T192500
+DTSTART:20251104T160000
+DTEND:20251104T173500
 SUMMARY:Ab (ć)
 LOCATION:078 S
-DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: dr inż. Elżbieta Burek
+DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T080000
@@ -746,11 +753,11 @@ LOCATION:078 S
 DESCRIPTION:Krzywe eliptyczne\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251125T175000
-DTEND:20251125T192500
+DTSTART:20251125T160000
+DTEND:20251125T173500
 SUMMARY:Ab (ć)
 LOCATION:078 S
-DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: dr inż. Elżbieta Burek
+DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T114000
@@ -1024,13 +1031,6 @@ DTEND:20251216T131500
 SUMMARY:Ab (w)
 LOCATION:078 S
 DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Wykład\nNr zajęć: 18/20\nProwadzący: dr inż. Michał Misztal
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251216T175000
-DTEND:20251216T192500
-SUMMARY:Ab (ć)
-LOCATION:078 S
-DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T080000

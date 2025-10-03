@@ -788,13 +788,6 @@ LOCATION:2/ 23a
 DESCRIPTION:Etyka zawodowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251105T114000
-DTEND:20251105T131500
-SUMMARY:WDM (ć)
-LOCATION:2/ 68
-DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251105T133000
 DTEND:20251105T150500
 SUMMARY:M1 (w)
@@ -814,6 +807,13 @@ DTEND:20251106T211500
 SUMMARY:Ja (ć)
 LOCATION:237 K 235 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251107T095000
+DTEND:20251107T112500
+SUMMARY:WDM (ć)
+LOCATION:2/ 68
+DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T114000
@@ -1152,13 +1152,6 @@ LOCATION:109/ 54
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/19\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251126T095000
-DTEND:20251126T112500
-SUMMARY:WDM (ć)
-LOCATION:2/ 68
-DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251126T114000
 DTEND:20251126T131500
 SUMMARY:M1 (ć)
@@ -1171,6 +1164,13 @@ DTEND:20251126T150500
 SUMMARY:M1 (w)
 LOCATION:aula/ 135
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 15/15\nProwadzący: dr Jerzy Ploch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251126T160000
+DTEND:20251126T173500
+SUMMARY:WDM (ć)
+LOCATION:2/ 68
+DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T160000

@@ -74,6 +74,13 @@ LOCATION:309 S
 DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251011T133000
+DTEND:20251011T150500
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251012T080000
 DTEND:20251012T093500
 SUMMARY:Jo (ć)
@@ -98,7 +105,7 @@ BEGIN:VEVENT
 DTSTART:20251012T133000
 DTEND:20251012T150500
 SUMMARY:BSI (ć)
-LOCATION:313 S
+LOCATION:239 S
 DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
@@ -202,15 +209,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T133000
 DTEND:20251025T150500
-SUMMARY:Ps (ć)
-LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: dr Piotr Mularczyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251025T160000
-DTEND:20251025T173500
 SUMMARY:BSI (ć)
-LOCATION:309 S
+LOCATION:252 S
 DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
