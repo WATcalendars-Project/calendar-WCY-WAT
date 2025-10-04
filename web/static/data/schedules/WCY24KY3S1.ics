@@ -2412,6 +2412,20 @@ LOCATION:39 36
 DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251023T133000
+DTEND:20251023T150500
+SUMMARY:Tik (ć)
+LOCATION:236 S
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251023T160000
+DTEND:20251023T173500
+SUMMARY:Tik (w)
+LOCATION:316 S
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251024T080000
 DTEND:20251024T093500
 SUMMARY:Als (w)
@@ -2424,6 +2438,13 @@ DTEND:20251024T112500
 SUMMARY:Aok (L)
 LOCATION:09 65
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/16\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251024T160000
+DTEND:20251024T173500
+SUMMARY:Tik (w)
+LOCATION:316 S
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T080000
@@ -2496,20 +2517,6 @@ LOCATION:19 36
 DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251029T095000
-DTEND:20251029T112500
-SUMMARY:Tik (w)
-LOCATION:313 S
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący: dr inż. Leszek Grad
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251029T114000
-DTEND:20251029T131500
-SUMMARY:Tik (w)
-LOCATION:317 S
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący: dr inż. Leszek Grad
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251029T133000
 DTEND:20251029T150500
 SUMMARY:SO (w)
@@ -2522,13 +2529,6 @@ DTEND:20251030T131500
 SUMMARY:SO (L)
 LOCATION:125 65
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/13\nProwadzący:  Paweł Głębocki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251030T133000
-DTEND:20251030T150500
-SUMMARY:Tik (ć)
-LOCATION:120 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T080000

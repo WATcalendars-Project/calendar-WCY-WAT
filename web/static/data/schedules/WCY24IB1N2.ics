@@ -1292,13 +1292,6 @@ LOCATION:307 S
 DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251004T080000
-DTEND:20251004T093500
-SUMMARY:Twinf (w)
-LOCATION:308 S
-DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący:  Rafał Kasprzyk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251004T095000
 DTEND:20251004T112500
 SUMMARY:Soc (w)
@@ -1359,7 +1352,7 @@ DTSTART:20251011T095000
 DTEND:20251011T112500
 SUMMARY:Twinf (w)
 LOCATION:308 S
-DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący:  Rafał Kasprzyk
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T114000
@@ -1415,7 +1408,7 @@ DTSTART:20251018T114000
 DTEND:20251018T131500
 SUMMARY:Twinf (w)
 LOCATION:307 S
-DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący:  Rafał Kasprzyk
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251018T133000
@@ -1532,6 +1525,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T160000
 DTEND:20251115T173500
+SUMMARY:Twinf (w)
+LOCATION:307 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący:  Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251115T175000
+DTEND:20251115T192500
 SUMMARY:Twinf (w)
 LOCATION:307 S
 DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący:  Rafał Kasprzyk

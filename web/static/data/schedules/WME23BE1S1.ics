@@ -3609,13 +3609,6 @@ LOCATION:86 S
 DESCRIPTION:Programowanie mikrokontrolerów  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251001T133000
-DTEND:20251001T150500
-SUMMARY:Prmi (w)
-LOCATION:86 S
-DESCRIPTION:Programowanie mikrokontrolerów  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251002T080000
 DTEND:20251002T093500
 SUMMARY:Popt (w)
@@ -3627,14 +3620,14 @@ DTSTART:20251002T095000
 DTEND:20251002T112500
 SUMMARY:Prmi (w)
 LOCATION:86 S
-DESCRIPTION:Programowanie mikrokontrolerów  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -
+DESCRIPTION:Programowanie mikrokontrolerów  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T114000
 DTEND:20251002T131500
 SUMMARY:Prmi (w)
 LOCATION:86 S
-DESCRIPTION:Programowanie mikrokontrolerów  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -
+DESCRIPTION:Programowanie mikrokontrolerów  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T080000
@@ -3690,7 +3683,7 @@ DTSTART:20251006T080000
 DTEND:20251006T093500
 SUMMARY:Prmi (w)
 LOCATION:86 S
-DESCRIPTION:Programowanie mikrokontrolerów  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
+DESCRIPTION:Programowanie mikrokontrolerów  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T095000
@@ -3732,7 +3725,7 @@ DTSTART:20251007T095000
 DTEND:20251007T112500
 SUMMARY:Prmi (w)
 LOCATION:86 S
-DESCRIPTION:Programowanie mikrokontrolerów  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
+DESCRIPTION:Programowanie mikrokontrolerów  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T114000
@@ -3774,7 +3767,7 @@ DTSTART:20251008T133000
 DTEND:20251008T150500
 SUMMARY:Prmi (w)
 LOCATION:86 S
-DESCRIPTION:Programowanie mikrokontrolerów  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
+DESCRIPTION:Programowanie mikrokontrolerów  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T080000
@@ -3786,16 +3779,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T095000
 DTEND:20251009T112500
-SUMMARY:Prmi (L)
+SUMMARY:Prmi (w)
 LOCATION:86 S
-DESCRIPTION:Programowanie mikrokontrolerów  - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: -
+DESCRIPTION:Programowanie mikrokontrolerów  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T114000
 DTEND:20251009T131500
 SUMMARY:Prmi (L)
 LOCATION:86 S
-DESCRIPTION:Programowanie mikrokontrolerów  - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: -
+DESCRIPTION:Programowanie mikrokontrolerów  - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T080000
@@ -3858,7 +3851,7 @@ DTSTART:20251013T095000
 DTEND:20251013T112500
 SUMMARY:Prmi (L)
 LOCATION:86 S
-DESCRIPTION:Programowanie mikrokontrolerów  - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: -
+DESCRIPTION:Programowanie mikrokontrolerów  - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T114000
@@ -3900,7 +3893,7 @@ DTSTART:20251014T133000
 DTEND:20251014T150500
 SUMMARY:Prmi (L)
 LOCATION:86 S
-DESCRIPTION:Programowanie mikrokontrolerów  - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: -
+DESCRIPTION:Programowanie mikrokontrolerów  - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T080000
@@ -4026,7 +4019,7 @@ DTSTART:20251021T080000
 DTEND:20251021T093500
 SUMMARY:Prmi (L)
 LOCATION:86 S
-DESCRIPTION:Programowanie mikrokontrolerów  - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: -
+DESCRIPTION:Programowanie mikrokontrolerów  - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T095000
@@ -4089,7 +4082,7 @@ DTSTART:20251023T133000
 DTEND:20251023T150500
 SUMMARY:Prmi (L)
 LOCATION:86 S
-DESCRIPTION:Programowanie mikrokontrolerów  - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -
+DESCRIPTION:Programowanie mikrokontrolerów  - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T080000
@@ -4286,6 +4279,13 @@ DTEND:20251031T211500
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 246/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251103T080000
+DTEND:20251103T093500
+SUMMARY:Prmi (L)
+LOCATION:86 S
+DESCRIPTION:Programowanie mikrokontrolerów  - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T095000

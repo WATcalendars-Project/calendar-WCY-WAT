@@ -263,6 +263,20 @@ LOCATION:125 65
 DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251013T080000
+DTEND:20251013T093500
+SUMMARY:Rsk (L)
+LOCATION:120 65
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251013T095000
+DTEND:20251013T112500
+SUMMARY:Rsk (L)
+LOCATION:120 65
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251013T114000
 DTEND:20251013T131500
 SUMMARY:Lan (w)
@@ -291,32 +305,25 @@ LOCATION:125 65
 DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251015T133000
-DTEND:20251015T150500
-SUMMARY:Rsk (L)
-LOCATION:125 65
-DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251015T160000
 DTEND:20251015T173500
-SUMMARY:Rsk (L)
-LOCATION:125 65
-DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Łukasz Skibniewski
+SUMMARY:Bst (L)
+LOCATION:106 65
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T133000
 DTEND:20251016T150500
 SUMMARY:Bst (L)
 LOCATION:106 65
-DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T160000
 DTEND:20251016T173500
 SUMMARY:Bst (L)
 LOCATION:106 65
-DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T095000
@@ -373,13 +380,6 @@ DTEND:20251022T131500
 SUMMARY:Rsk (w)
 LOCATION:203 65
 DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Tomasz Malinowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251022T133000
-DTEND:20251022T150500
-SUMMARY:Bst (L)
-LOCATION:106 65
-DESCRIPTION:Bezpieczeństwo. systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T080000

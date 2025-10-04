@@ -330,14 +330,14 @@ DTSTART:20251009T133000
 DTEND:20251009T150500
 SUMMARY:SzS (ć)
 LOCATION:ŚNIEŻNIK
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/18\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T160000
 DTEND:20251009T173500
 SUMMARY:SzS (ć)
 LOCATION:ŚNIEŻNIK
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/18\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T175000
@@ -379,14 +379,14 @@ DTSTART:20251011T133000
 DTEND:20251011T150500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/18\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T160000
 DTEND:20251011T173500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/18\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T095000
@@ -1247,14 +1247,14 @@ DTSTART:20251120T133000
 DTEND:20251120T150500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/18\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T160000
 DTEND:20251120T173500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/18\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T175000
@@ -1562,14 +1562,14 @@ DTSTART:20251204T133000
 DTEND:20251204T150500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/18\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T160000
 DTEND:20251204T173500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/18\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T194000
@@ -2381,70 +2381,56 @@ DTSTART:20260312T080000
 DTEND:20260312T093500
 SUMMARY:SzS (ć)
 LOCATION:ŚNIEŻNIK
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/18\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T095000
 DTEND:20260312T112500
 SUMMARY:SzS (ć)
 LOCATION:ŚNIEŻNIK
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/18\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T080000
 DTEND:20260319T093500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/18\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T095000
 DTEND:20260319T112500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/18\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T160000
 DTEND:20260423T173500
 SUMMARY:SzS (ć)
 LOCATION:ŚNIEŻNIK
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/18\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T175000
 DTEND:20260423T192500
 SUMMARY:SzS (ć)
 LOCATION:ŚNIEŻNIK
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/18\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T160000
 DTEND:20260507T173500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/18\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T175000
 DTEND:20260507T192500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/18\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260609T080000
-DTEND:20260609T093500
-SUMMARY:SzS (ć)
-LOCATION:Rz.Dęb. Dębl
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/18\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260609T095000
-DTEND:20260609T112500
-SUMMARY:SzS (ć)
-LOCATION:Rz.Dęb. Dębl
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/18\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T114000

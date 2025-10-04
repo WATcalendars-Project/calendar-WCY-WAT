@@ -2307,11 +2307,25 @@ LOCATION:078 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251023T160000
+DTEND:20251023T173500
+SUMMARY:Tik (w)
+LOCATION:316 S
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251024T080000
 DTEND:20251024T093500
 SUMMARY:Als (w)
 LOCATION:313 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251024T160000
+DTEND:20251024T173500
+SUMMARY:Tik (w)
+LOCATION:316 S
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T080000
@@ -2382,20 +2396,6 @@ DTEND:20251029T093500
 SUMMARY:F2 (w)
 LOCATION:19 36
 DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251029T095000
-DTEND:20251029T112500
-SUMMARY:Tik (w)
-LOCATION:313 S
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący: dr inż. Leszek Grad
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251029T114000
-DTEND:20251029T131500
-SUMMARY:Tik (w)
-LOCATION:317 S
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T133000

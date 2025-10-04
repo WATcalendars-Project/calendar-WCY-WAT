@@ -225,7 +225,7 @@ DTSTART:20250324T160000
 DTEND:20250324T173500
 SUMMARY:ZaMe (w)
 LOCATION:103 K
-DESCRIPTION:Zabezpieczenie medyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Zabezpieczenie medyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T080000
@@ -414,14 +414,14 @@ DTSTART:20250401T160000
 DTEND:20250401T173500
 SUMMARY:ZaMe (ć)
 LOCATION:AW 4
-DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
+DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T175000
 DTEND:20250401T192500
 SUMMARY:ZaMe (ć)
 LOCATION:AW 4
-DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -
+DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T080000
@@ -589,14 +589,14 @@ DTSTART:20250407T133000
 DTEND:20250407T150500
 SUMMARY:ZaMe (ć)
 LOCATION:AW 4
-DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: -
+DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T160000
 DTEND:20250407T173500
 SUMMARY:ZaMe (ć)
 LOCATION:AW 4
-DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: -
+DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T175000
@@ -2440,6 +2440,13 @@ LOCATION:103 K
 DESCRIPTION:Szkolenie strzeleckie - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251210T114000
+DTEND:20251210T131500
+SUMMARY:ZaMe (w)
+LOCATION:103 K
+DESCRIPTION:Zabezpieczenie medyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251210T133000
 DTEND:20251210T150500
 SUMMARY:WF (w)
@@ -2524,6 +2531,27 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 18/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251231T080000
+DTEND:20251231T093500
+SUMMARY:ZaMe (ć)
+LOCATION:AW 4
+DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251231T095000
+DTEND:20251231T112500
+SUMMARY:ZaMe (ć)
+LOCATION:AW 4
+DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251231T114000
+DTEND:20251231T131500
+SUMMARY:ZaMe (ć)
+LOCATION:AW 4
+DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251231T133000
 DTEND:20251231T150500
 SUMMARY:WF (ć)
@@ -2566,32 +2594,60 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 20/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260112T133000
+DTEND:20260112T150500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/18\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260114T133000
 DTEND:20260114T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/18\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/18\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260119T133000
+DTEND:20260119T150500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T133000
 DTEND:20260121T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/18\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/18\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260122T080000
+DTEND:20260122T093500
+SUMMARY:ZaMe (ć)
+LOCATION:AW 4
+DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260122T095000
+DTEND:20260122T112500
+SUMMARY:ZaMe (ć)
+LOCATION:AW 4
+DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T133000
 DTEND:20260126T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/18\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T133000
 DTEND:20260128T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/18\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260202T095000
@@ -2626,14 +2682,14 @@ DTSTART:20260204T133000
 DTEND:20260204T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/18\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260209T133000
 DTEND:20260209T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/18\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260210T080000
@@ -2661,46 +2717,53 @@ DTSTART:20260211T133000
 DTEND:20260211T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/18\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/18\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260216T080000
+DTEND:20260216T093500
+SUMMARY:ZaMe (ć)
+LOCATION:AW 4
+DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260216T095000
+DTEND:20260216T112500
+SUMMARY:ZaMe (ć)
+LOCATION:AW 4
+DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260216T114000
+DTEND:20260216T131500
+SUMMARY:ZaMe (ć)
+LOCATION:AW 4
+DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T133000
 DTEND:20260216T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20/18\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260218T133000
 DTEND:20260218T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/18\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260223T133000
 DTEND:20260223T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22/18\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 24/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260225T133000
 DTEND:20260225T150500
-SUMMARY:WF (ć)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23/18\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260302T133000
-DTEND:20260302T150500
-SUMMARY:WF (ć)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 24/18\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260304T133000
-DTEND:20260304T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/18\nProwadzący: -
@@ -2790,53 +2853,102 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 27/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260404T080000
+DTEND:20260404T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 43/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260404T095000
+DTEND:20260404T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 44/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260404T114000
+DTEND:20260404T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 45/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260404T133000
+DTEND:20260404T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 46/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260404T160000
+DTEND:20260404T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 47/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260404T175000
+DTEND:20260404T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 48/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260404T194000
+DTEND:20260404T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 49/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260406T080000
 DTEND:20260406T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 43/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 50/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260406T095000
 DTEND:20260406T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 44/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 51/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260406T114000
 DTEND:20260406T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 45/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 52/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260406T133000
 DTEND:20260406T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 46/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 53/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260406T160000
 DTEND:20260406T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 47/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 54/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260406T175000
 DTEND:20260406T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 48/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 55/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260406T194000
 DTEND:20260406T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 49/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 56/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T133000
@@ -2860,18 +2972,11 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 28/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260413T133000
-DTEND:20260413T150500
-SUMMARY:WF (ć)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 26/18\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260415T133000
 DTEND:20260415T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 27/18\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 26/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T080000
@@ -3019,6 +3124,55 @@ DTEND:20260423T211500
 SUMMARY:Egz.Of (E)
 LOCATION:-
 DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 28/28\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260501T080000
+DTEND:20260501T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 57/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260501T095000
+DTEND:20260501T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 58/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260501T114000
+DTEND:20260501T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 59/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260501T133000
+DTEND:20260501T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 60/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260501T160000
+DTEND:20260501T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 61/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260501T175000
+DTEND:20260501T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 62/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260501T194000
+DTEND:20260501T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 63/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T080000
@@ -4734,5 +4888,12 @@ DTEND:20260627T211500
 SUMMARY:PROM (Inne)
 LOCATION:-
 DESCRIPTION:Promocja oficerska\nRodzaj zajęć:  - \nNr zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260714T133000
+DTEND:20260714T150500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 27/18\nProwadzący: -
 END:VEVENT
 END:VCALENDAR
