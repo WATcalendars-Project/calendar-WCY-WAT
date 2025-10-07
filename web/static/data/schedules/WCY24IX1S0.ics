@@ -2561,9 +2561,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T133000
 DTEND:20251010T150500
-SUMMARY:Als (w)
+SUMMARY:Aok (w)
 LOCATION:313 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T080000
@@ -2584,7 +2584,7 @@ DTSTART:20251013T095000
 DTEND:20251013T112500
 SUMMARY:Aok (w)
 LOCATION:313 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T114000
@@ -2689,7 +2689,7 @@ DTSTART:20251017T080000
 DTEND:20251017T093500
 SUMMARY:Als (w)
 LOCATION:313 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T095000
@@ -2722,9 +2722,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T095000
 DTEND:20251020T112500
-SUMMARY:Aok (w)
+SUMMARY:Als (w)
 LOCATION:316 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T160000
@@ -3112,13 +3112,6 @@ LOCATION:PĆT1
 DESCRIPTION:TAKTYKA - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251104T160000
-DTEND:20251104T173500
-SUMMARY:PO (ć)
-LOCATION:228 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: dr inż. Paweł Moszczyński
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251104T175000
 DTEND:20251104T192500
 SUMMARY:Tik (L)
@@ -3256,7 +3249,7 @@ DTSTART:20251112T114000
 DTEND:20251112T131500
 SUMMARY:PO (ć)
 LOCATION:226 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: dr inż. Paweł Moszczyński
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T133000
@@ -3299,6 +3292,13 @@ DTEND:20251113T150500
 SUMMARY:F2 (w)
 LOCATION:aula/ 135
 DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251113T160000
+DTEND:20251113T173500
+SUMMARY:PO (ć)
+LOCATION:233 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T080000

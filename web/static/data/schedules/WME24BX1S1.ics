@@ -361,6 +361,13 @@ LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251013T160000
+DTEND:20251013T173500
+SUMMARY:Pr.m (w)
+LOCATION:55/ 62
+DESCRIPTION:Prawo medyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251013T175000
 DTEND:20251013T192500
 SUMMARY:JoM (w)
@@ -478,20 +485,6 @@ DTEND:20251020T093500
 SUMMARY:Sck (w)
 LOCATION:52/ 62
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr Sławomir Machowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251020T095000
-DTEND:20251020T112500
-SUMMARY:Pr.m (w)
-LOCATION:52/ 62
-DESCRIPTION:Prawo medyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251020T114000
-DTEND:20251020T131500
-SUMMARY:Pr.m (w)
-LOCATION:52/ 62
-DESCRIPTION:Prawo medyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T133000
@@ -652,14 +645,14 @@ DTSTART:20251027T095000
 DTEND:20251027T112500
 SUMMARY:Pr.m (w)
 LOCATION:52/ 62
-DESCRIPTION:Prawo medyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -
+DESCRIPTION:Prawo medyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T114000
 DTEND:20251027T131500
 SUMMARY:Pr.m (w)
 LOCATION:52/ 62
-DESCRIPTION:Prawo medyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -
+DESCRIPTION:Prawo medyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T133000
@@ -667,6 +660,13 @@ DTEND:20251027T150500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251027T160000
+DTEND:20251027T173500
+SUMMARY:Pr.m (w)
+LOCATION:51/ 62
+DESCRIPTION:Prawo medyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T175000
