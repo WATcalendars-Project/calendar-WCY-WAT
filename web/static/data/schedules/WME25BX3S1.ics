@@ -1420,9 +1420,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T133000
 DTEND:20251208T150500
-SUMMARY:Mat2 (ć)
+SUMMARY:M1 (ć)
 LOCATION:109/ 54
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/17\nProwadzący: mgr Robert Kozarzewski
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/19\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T080000
@@ -1443,14 +1443,14 @@ DTSTART:20251209T114000
 DTEND:20251209T131500
 SUMMARY:M1 (ć)
 LOCATION:109/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/19\nProwadzący: mgr Robert Kozarzewski
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/19\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T095000
 DTEND:20251210T112500
 SUMMARY:M1 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/19\nProwadzący: mgr Robert Kozarzewski
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/19\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T114000
@@ -1464,14 +1464,14 @@ DTSTART:20251211T080000
 DTEND:20251211T093500
 SUMMARY:Mat2 (ć)
 LOCATION:109/ 54
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/17\nProwadzący: mgr Robert Kozarzewski
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/17\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T095000
 DTEND:20251211T112500
 SUMMARY:Mat2 (ć)
 LOCATION:109/ 54
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/17\nProwadzący: mgr Robert Kozarzewski
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/17\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T114000
@@ -1534,7 +1534,7 @@ DTSTART:20251215T133000
 DTEND:20251215T150500
 SUMMARY:Mat2 (ć)
 LOCATION:109/ 54
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/17\nProwadzący: mgr Robert Kozarzewski
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/17\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T080000
@@ -1553,9 +1553,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T114000
 DTEND:20251216T131500
-SUMMARY:M1 (ć)
+SUMMARY:Mat2 (ć)
 LOCATION:109/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/19\nProwadzący: mgr Robert Kozarzewski
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/17\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T133000

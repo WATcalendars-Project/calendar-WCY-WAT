@@ -43,7 +43,7 @@ DTSTART:20251002T133000
 DTEND:20251002T150500
 SUMMARY:SzS (w)
 LOCATION:103 K
-DESCRIPTION:Szkolenie strzeleckie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T160000
@@ -1551,6 +1551,13 @@ LOCATION:314 S
 DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251202T160000
+DTEND:20251202T173500
+SUMMARY:PGI (ć)
+LOCATION:116/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251203T080000
 DTEND:20251203T093500
 SUMMARY:MD1 (ć)
@@ -1583,7 +1590,7 @@ DTSTART:20251203T160000
 DTEND:20251203T173500
 SUMMARY:PGI (ć)
 LOCATION:120/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/12\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T080000
@@ -1660,14 +1667,14 @@ DTSTART:20251205T160000
 DTEND:20251205T173500
 SUMMARY:PGI (ć)
 LOCATION:29/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/12\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T175000
 DTEND:20251205T192500
 SUMMARY:PGI (ć)
 LOCATION:29/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/12\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T080000
@@ -1779,7 +1786,7 @@ DTSTART:20251212T095000
 DTEND:20251212T112500
 SUMMARY:PGI (ć)
 LOCATION:116/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/12\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T114000
@@ -1815,13 +1822,6 @@ DTEND:20251215T131500
 SUMMARY:Mat I (ć)
 LOCATION:205 65
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/19\nProwadzący:  Stanisław Zoń
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251215T160000
-DTEND:20251215T173500
-SUMMARY:PGI (ć)
-LOCATION:116/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T175000
@@ -1927,6 +1927,13 @@ DTEND:20251219T093500
 SUMMARY:MD1 (ć)
 LOCATION:317 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: mgr inż. Łukasz Dzierzkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251219T095000
+DTEND:20251219T112500
+SUMMARY:PGI (ć)
+LOCATION:109/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T114000
@@ -2045,7 +2052,7 @@ DTSTART:20260112T160000
 DTEND:20260112T173500
 SUMMARY:PGI (ć)
 LOCATION:29/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/12\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T080000
@@ -2067,13 +2074,6 @@ DTEND:20260113T131500
 SUMMARY:Mat I (ć)
 LOCATION:205 65
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/19\nProwadzący:  Stanisław Zoń
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260113T133000
-DTEND:20260113T150500
-SUMMARY:PGI (ć)
-LOCATION:120/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T095000
@@ -2997,7 +2997,7 @@ DTSTART:20260521T095000
 DTEND:20260521T112500
 SUMMARY:SzS (w)
 LOCATION:AW 1
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Wykład\nNr zajęć: 2/1\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T114000

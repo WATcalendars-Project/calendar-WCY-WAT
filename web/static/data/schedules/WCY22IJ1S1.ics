@@ -85,7 +85,7 @@ DTSTART:20250310T160000
 DTEND:20250310T173500
 SUMMARY:SzOR (Inne)
 LOCATION:317 S
-DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T080000
@@ -1192,6 +1192,13 @@ DTEND:20251008T150500
 SUMMARY:Orr (w)
 LOCATION:309 S
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251009T114000
+DTEND:20251009T131500
+SUMMARY:SzOR (Inne)
+LOCATION:252 S
+DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T133000

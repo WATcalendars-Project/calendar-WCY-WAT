@@ -2636,20 +2636,6 @@ LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 37/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251029T080000
-DTEND:20251029T093500
-SUMMARY:BsIP (L)
-LOCATION:125 65
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251029T095000
-DTEND:20251029T112500
-SUMMARY:BsIP (L)
-LOCATION:125 65
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251029T133000
 DTEND:20251029T150500
 SUMMARY:WF (ć)
@@ -2878,14 +2864,14 @@ DTSTART:20251107T114000
 DTEND:20251107T131500
 SUMMARY:BsIP (L)
 LOCATION:121 65
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T133000
 DTEND:20251107T150500
 SUMMARY:BsIP (L)
 LOCATION:121 65
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T160000
@@ -3130,14 +3116,14 @@ DTSTART:20251121T133000
 DTEND:20251121T150500
 SUMMARY:BsIP (L)
 LOCATION:125 65
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T160000
 DTEND:20251121T173500
 SUMMARY:BsIP (L)
 LOCATION:125 65
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T095000
@@ -3196,6 +3182,20 @@ LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 44/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251126T080000
+DTEND:20251126T093500
+SUMMARY:BsIP (L)
+LOCATION:219 65
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251126T095000
+DTEND:20251126T112500
+SUMMARY:BsIP (L)
+LOCATION:219 65
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251126T114000
 DTEND:20251126T131500
 SUMMARY:- (S.Sz.W.)
@@ -3206,14 +3206,14 @@ BEGIN:VEVENT
 DTSTART:20251126T133000
 DTEND:20251126T150500
 SUMMARY:SzS (ć)
-LOCATION:ŚNIEŻNIK
+LOCATION:ST.nr 1(PW)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T160000
 DTEND:20251126T173500
 SUMMARY:SzS (ć)
-LOCATION:ŚNIEŻNIK
+LOCATION:ST.nr 1(PW)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -3696,14 +3696,14 @@ BEGIN:VEVENT
 DTSTART:20260107T133000
 DTEND:20260107T150500
 SUMMARY:SzS (ć)
-LOCATION:ŚNIEŻNIK
+LOCATION:ST.nr 1(PW)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T160000
 DTEND:20260107T173500
 SUMMARY:SzS (ć)
-LOCATION:ŚNIEŻNIK
+LOCATION:ST.nr 1(PW)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -4195,5 +4195,103 @@ DTEND:20260131T112500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28/28\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T080000
+DTEND:20260414T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T095000
+DTEND:20260414T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 16/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T114000
+DTEND:20260414T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 17/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T133000
+DTEND:20260414T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 18/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T160000
+DTEND:20260414T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 19/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T175000
+DTEND:20260414T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 20/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T194000
+DTEND:20260414T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 21/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T080000
+DTEND:20260416T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 22/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T095000
+DTEND:20260416T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 23/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T114000
+DTEND:20260416T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 24/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T133000
+DTEND:20260416T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 25/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T160000
+DTEND:20260416T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 26/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T175000
+DTEND:20260416T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 27/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T194000
+DTEND:20260416T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 28/1\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

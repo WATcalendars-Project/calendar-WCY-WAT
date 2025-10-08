@@ -326,6 +326,13 @@ LOCATION:314 S
 DESCRIPTION:Podstawy grafiki inżynierskiej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251016T160000
+DTEND:20251016T173500
+SUMMARY:SzOR (Inne)
+LOCATION:317 S
+DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251017T133000
 DTEND:20251017T150500
 SUMMARY:WdI (w)
@@ -564,13 +571,6 @@ LOCATION:252 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/11\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251104T114000
-DTEND:20251104T131500
-SUMMARY:PGI (ć)
-LOCATION:116/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/9\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251105T095000
 DTEND:20251105T112500
 SUMMARY:Mat I (ć)
@@ -617,7 +617,7 @@ DTSTART:20251106T114000
 DTEND:20251106T131500
 SUMMARY:PGI (ć)
 LOCATION:120/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/9\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T095000
@@ -638,14 +638,14 @@ DTSTART:20251107T160000
 DTEND:20251107T173500
 SUMMARY:PGI (ć)
 LOCATION:29/ 54 30/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/9\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T175000
 DTEND:20251107T192500
 SUMMARY:PGI (ć)
 LOCATION:29/ 54 30/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/9\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T080000
@@ -977,18 +977,18 @@ LOCATION:314 S
 DESCRIPTION:Rezerwacja\nRodzaj zajęć:  - \nNr zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251202T080000
+DTEND:20251202T093500
+SUMMARY:PGI (ć)
+LOCATION:116/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251202T095000
 DTEND:20251202T112500
 SUMMARY:MD1 (ć)
 LOCATION:205 65
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący:  Anna Cichocka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251202T114000
-DTEND:20251202T131500
-SUMMARY:PGI (ć)
-LOCATION:116/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T160000
@@ -1100,7 +1100,7 @@ DTSTART:20251209T095000
 DTEND:20251209T112500
 SUMMARY:PGI (ć)
 LOCATION:116/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/9\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T114000
@@ -1157,6 +1157,13 @@ DTEND:20251211T131500
 SUMMARY:Mat I (ć)
 LOCATION:308 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/17\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251211T133000
+DTEND:20251211T150500
+SUMMARY:PGI (ć)
+LOCATION:108/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T080000
@@ -1341,6 +1348,13 @@ LOCATION:308 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/17\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260109T095000
+DTEND:20260109T112500
+SUMMARY:PGI (ć)
+LOCATION:109/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260109T114000
 DTEND:20260109T131500
 SUMMARY:Ez (w)
@@ -1437,13 +1451,6 @@ DTEND:20260115T131500
 SUMMARY:Mat I (ć)
 LOCATION:308 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/17\nProwadzący: dr Joanna Piasecka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260115T133000
-DTEND:20260115T150500
-SUMMARY:PGI (ć)
-LOCATION:116/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T114000

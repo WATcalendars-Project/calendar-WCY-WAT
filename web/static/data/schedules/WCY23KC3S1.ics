@@ -655,18 +655,18 @@ LOCATION:316 S
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251114T114000
-DTEND:20251114T131500
-SUMMARY:JEt (w)
-LOCATION:309 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Piotr Cybulski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251117T114000
 DTEND:20251117T131500
 SUMMARY:Est (P)
 LOCATION:121 65
 DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 3/5\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251117T160000
+DTEND:20251117T173500
+SUMMARY:JEt (w)
+LOCATION:309 S
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T080000

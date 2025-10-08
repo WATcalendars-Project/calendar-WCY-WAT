@@ -2272,13 +2272,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 35/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251010T114000
-DTEND:20251010T131500
-SUMMARY:Ztk (w)
-LOCATION:085 S
-DESCRIPTION:Zastosowania teorii krat w kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251011T080000
 DTEND:20251011T093500
 SUMMARY:XWF (ć)
@@ -2409,7 +2402,7 @@ DTSTART:20251017T114000
 DTEND:20251017T131500
 SUMMARY:Ztk (w)
 LOCATION:085 S
-DESCRIPTION:Zastosowania teorii krat w kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Zastosowania teorii krat w kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251018T080000
@@ -2458,7 +2451,7 @@ DTSTART:20251021T095000
 DTEND:20251021T112500
 SUMMARY:Ztk (w)
 LOCATION:085 S
-DESCRIPTION:Zastosowania teorii krat w kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Zastosowania teorii krat w kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T114000
@@ -2536,6 +2529,13 @@ DTEND:20251024T131500
 SUMMARY:Ztk (L)
 LOCATION:078 S
 DESCRIPTION:Zastosowania teorii krat w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251024T133000
+DTEND:20251024T150500
+SUMMARY:Ztk (w)
+LOCATION:085 S
+DESCRIPTION:Zastosowania teorii krat w kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T160000
