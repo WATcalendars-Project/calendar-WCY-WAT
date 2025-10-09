@@ -2296,7 +2296,7 @@ BEGIN:VEVENT
 DTSTART:20251010T160000
 DTEND:20251010T173500
 SUMMARY:MeSK (Inne)
-LOCATION:313 S
+LOCATION:226 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr inż. Michał Dyk
 END:VEVENT
 BEGIN:VEVENT
@@ -2319,6 +2319,13 @@ DTEND:20251013T131500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 35/70\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251013T160000
+DTEND:20251013T173500
+SUMMARY:SzOR (Inne)
+LOCATION:on-line
+DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T080000

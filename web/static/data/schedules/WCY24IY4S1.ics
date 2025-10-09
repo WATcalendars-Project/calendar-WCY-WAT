@@ -2629,20 +2629,6 @@ LOCATION:307 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 6/13\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251113T114000
-DTEND:20251113T131500
-SUMMARY:BD(pp) (ć)
-LOCATION:203 65
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: dr hab. inż. Maciej Kiedrowicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251113T133000
-DTEND:20251113T150500
-SUMMARY:BD(pp) (ć)
-LOCATION:203 65
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: dr hab. inż. Maciej Kiedrowicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251114T080000
 DTEND:20251114T093500
 SUMMARY:BD(pp) (L)
@@ -2844,6 +2830,20 @@ DTEND:20251126T131500
 SUMMARY:Als (L)
 LOCATION:224 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251126T133000
+DTEND:20251126T150500
+SUMMARY:BD(pp) (ć)
+LOCATION:227 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251126T160000
+DTEND:20251126T173500
+SUMMARY:BD(pp) (ć)
+LOCATION:227 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T080000

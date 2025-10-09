@@ -2443,7 +2443,7 @@ BEGIN:VEVENT
 DTSTART:20251010T160000
 DTEND:20251010T173500
 SUMMARY:MeSK (Inne)
-LOCATION:313 S
+LOCATION:226 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr inż. Michał Dyk
 END:VEVENT
 BEGIN:VEVENT
@@ -2888,6 +2888,13 @@ LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 38/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251031T095000
+DTEND:20251031T112500
+SUMMARY:Sme. (w)
+LOCATION:313 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251031T114000
 DTEND:20251031T131500
 SUMMARY:ZBD (w)
@@ -2941,14 +2948,14 @@ DTSTART:20251104T114000
 DTEND:20251104T131500
 SUMMARY:Sme. (w)
 LOCATION:317 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T133000
 DTEND:20251104T150500
-SUMMARY:Sme. (w)
+SUMMARY:Sws (Inne)
 LOCATION:317 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Spotkanie organizacyjne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T160000

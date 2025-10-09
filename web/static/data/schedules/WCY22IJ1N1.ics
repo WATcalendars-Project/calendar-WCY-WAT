@@ -1376,6 +1376,13 @@ LOCATION:95 S
 DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251024T175000
+DTEND:20251024T192500
+SUMMARY:Wpp (Inne)
+LOCATION:313 S 19 36
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251025T095000
 DTEND:20251025T112500
 SUMMARY:IRz (L)
@@ -1437,13 +1444,6 @@ DTEND:20251026T211500
 SUMMARY:Srrw (L)
 LOCATION:95 S
 DESCRIPTION:Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251107T160000
-DTEND:20251107T173500
-SUMMARY:Wpp (Inne)
-LOCATION:313 S
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T095000

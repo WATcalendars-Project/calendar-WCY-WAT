@@ -2321,6 +2321,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 35/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251013T160000
+DTEND:20251013T173500
+SUMMARY:SzOR (Inne)
+LOCATION:on-line
+DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Łukasz Dzierzkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251014T080000
 DTEND:20251014T093500
 SUMMARY:Kas (w)

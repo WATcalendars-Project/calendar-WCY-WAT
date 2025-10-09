@@ -2132,6 +2132,13 @@ LOCATION:309 S
 DESCRIPTION:Zarządzanie wiedzą\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251013T160000
+DTEND:20251013T173500
+SUMMARY:SzOR (Inne)
+LOCATION:on-line
+DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Łukasz Dzierzkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251014T095000
 DTEND:20251014T112500
 SUMMARY:Dtu (w)

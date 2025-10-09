@@ -2699,6 +2699,20 @@ LOCATION:106 65
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251022T160000
+DTEND:20251022T173500
+SUMMARY:PsbI (P)
+LOCATION:106 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNr zajęć: 1/7\nProwadzący:  Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251022T175000
+DTEND:20251022T192500
+SUMMARY:PsbI (P)
+LOCATION:106 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNr zajęć: 2/7\nProwadzący:  Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251022T194000
 DTEND:20251022T211500
 SUMMARY:- (S.Sz.W.)
@@ -2902,6 +2916,13 @@ LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 38/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251031T095000
+DTEND:20251031T112500
+SUMMARY:Sme. (w)
+LOCATION:313 S
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251031T114000
 DTEND:20251031T131500
 SUMMARY:ZBD (w)
@@ -2962,14 +2983,14 @@ DTSTART:20251104T114000
 DTEND:20251104T131500
 SUMMARY:Sme. (w)
 LOCATION:317 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T133000
 DTEND:20251104T150500
-SUMMARY:Sme. (w)
+SUMMARY:Sws (Inne)
 LOCATION:317 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Spotkanie organizacyjne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T160000
@@ -3784,6 +3805,20 @@ LOCATION:120 65
 DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 16/22\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251216T080000
+DTEND:20251216T093500
+SUMMARY:PsbI (P)
+LOCATION:218 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNr zajęć: 3/7\nProwadzący:  Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251216T095000
+DTEND:20251216T112500
+SUMMARY:PsbI (P)
+LOCATION:218 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNr zajęć: 4/7\nProwadzący:  Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251216T160000
 DTEND:20251216T173500
 SUMMARY:Ja (ć)
@@ -3964,6 +3999,13 @@ DTEND:20260110T112500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/28\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260112T080000
+DTEND:20260112T093500
+SUMMARY:PsbI (P)
+LOCATION:106 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNr zajęć: 5/7\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T095000
@@ -4300,6 +4342,20 @@ DTEND:20260126T173500
 SUMMARY:Swp (L)
 LOCATION:106 65
 DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260127T080000
+DTEND:20260127T093500
+SUMMARY:PsbI (P)
+LOCATION:120 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNr zajęć: 6/7\nProwadzący:  Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260127T095000
+DTEND:20260127T112500
+SUMMARY:PsbI (P)
+LOCATION:120 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNr zajęć: 7/7\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T133000

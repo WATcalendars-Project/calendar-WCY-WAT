@@ -2601,6 +2601,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 37/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251024T175000
+DTEND:20251024T192500
+SUMMARY:Wpp (Inne)
+LOCATION:313 S 19 36
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251025T080000
 DTEND:20251025T093500
 SUMMARY:XWF (ć)
@@ -2886,13 +2893,6 @@ DTEND:20251107T131500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 41/60\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251107T160000
-DTEND:20251107T173500
-SUMMARY:Wpp (Inne)
-LOCATION:313 S
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251108T080000

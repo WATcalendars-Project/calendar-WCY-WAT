@@ -1215,6 +1215,13 @@ LOCATION:308 S
 DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251024T175000
+DTEND:20251024T192500
+SUMMARY:Wpp (Inne)
+LOCATION:313 S 19 36
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. Piotr Kosiuczenko
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251027T080000
 DTEND:20251027T093500
 SUMMARY:Swbo (w)
@@ -1416,13 +1423,6 @@ DTEND:20251107T093500
 SUMMARY:IRz (w)
 LOCATION:309 S
 DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251107T160000
-DTEND:20251107T173500
-SUMMARY:Wpp (Inne)
-LOCATION:313 S
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T095000

@@ -3049,13 +3049,6 @@ LOCATION:51/ 62
 DESCRIPTION:Fizjologia człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251030T095000
-DTEND:20251030T112500
-SUMMARY:Mt 1 (ć)
-LOCATION:8/ 62
-DESCRIPTION:Mechanika techniczna 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251030T114000
 DTEND:20251030T131500
 SUMMARY:Bchm (ć)
@@ -3557,7 +3550,7 @@ DTSTART:20251117T095000
 DTEND:20251117T112500
 SUMMARY:Mt 1 (ć)
 LOCATION:8/ 62
-DESCRIPTION:Mechanika techniczna 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący: -
+DESCRIPTION:Mechanika techniczna 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T114000
@@ -3725,7 +3718,7 @@ DTSTART:20251124T095000
 DTEND:20251124T112500
 SUMMARY:Mt 1 (ć)
 LOCATION:8/ 62
-DESCRIPTION:Mechanika techniczna 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: -
+DESCRIPTION:Mechanika techniczna 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T114000
@@ -3893,7 +3886,7 @@ DTSTART:20251201T114000
 DTEND:20251201T131500
 SUMMARY:Mt 1 (ć)
 LOCATION:8/ 62
-DESCRIPTION:Mechanika techniczna 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: -
+DESCRIPTION:Mechanika techniczna 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T133000
@@ -4054,7 +4047,7 @@ DTSTART:20251208T095000
 DTEND:20251208T112500
 SUMMARY:Mt 1 (ć)
 LOCATION:51/ 62
-DESCRIPTION:Mechanika techniczna 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący: -
+DESCRIPTION:Mechanika techniczna 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T114000
@@ -4097,6 +4090,13 @@ DTEND:20251209T131500
 SUMMARY:WdTB (L)
 LOCATION:6 71
 DESCRIPTION:Wprowadzenie do technik biomedycznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/24\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251209T133000
+DTEND:20251209T150500
+SUMMARY:Mt 1 (ć)
+LOCATION:52/ 62
+DESCRIPTION:Mechanika techniczna 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T160000

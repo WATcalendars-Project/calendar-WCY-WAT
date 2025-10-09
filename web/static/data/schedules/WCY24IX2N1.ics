@@ -1362,6 +1362,20 @@ LOCATION:203 65
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251012T080000
+DTEND:20251012T093500
+SUMMARY:Po (w)
+LOCATION:313 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251012T095000
+DTEND:20251012T112500
+SUMMARY:Po (w)
+LOCATION:313 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251012T114000
 DTEND:20251012T131500
 SUMMARY:Bd (w)
@@ -1374,20 +1388,6 @@ DTEND:20251012T150500
 SUMMARY:Bd (w)
 LOCATION:308 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: mgr inż. Józef Woźniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251012T160000
-DTEND:20251012T173500
-SUMMARY:Po (w)
-LOCATION:308 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Adrian Woźniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251012T175000
-DTEND:20251012T192500
-SUMMARY:Po (w)
-LOCATION:308 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251018T080000
