@@ -2139,13 +2139,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 33/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251009T160000
-DTEND:20251009T173500
-SUMMARY:Tuim (w)
-LOCATION:307 S
-DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251011T080000
 DTEND:20251011T093500
 SUMMARY:XWF (ć)
@@ -2262,7 +2255,7 @@ DTSTART:20251016T160000
 DTEND:20251016T173500
 SUMMARY:Tuim (w)
 LOCATION:307 S
-DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T114000
@@ -2374,7 +2367,7 @@ DTSTART:20251023T160000
 DTEND:20251023T173500
 SUMMARY:Tuim (w)
 LOCATION:307 S
-DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T175000
@@ -2465,7 +2458,7 @@ DTSTART:20251029T160000
 DTEND:20251029T173500
 SUMMARY:Tuim (w)
 LOCATION:307 S
-DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T175000
@@ -2501,6 +2494,13 @@ DTEND:20251030T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 39/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251030T160000
+DTEND:20251030T173500
+SUMMARY:Tuim (w)
+LOCATION:308 S
+DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T095000
@@ -2582,16 +2582,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T080000
 DTEND:20251106T093500
-SUMMARY:Mspb (w)
-LOCATION:316 S
-DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Robert Waszkowski
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T095000
 DTEND:20251106T112500
-SUMMARY:Mspb (w)
-LOCATION:316 S
-DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Robert Waszkowski
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T114000
@@ -2710,7 +2710,7 @@ DTSTART:20251113T160000
 DTEND:20251113T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T175000
@@ -2797,6 +2797,20 @@ LOCATION:224 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251118T095000
+DTEND:20251118T112500
+SUMMARY:Mspb (w)
+LOCATION:228 S
+DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251118T114000
+DTEND:20251118T131500
+SUMMARY:Mspb (w)
+LOCATION:228 S
+DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251118T133000
 DTEND:20251118T150500
 SUMMARY:Med (L)
@@ -2871,7 +2885,7 @@ DTSTART:20251120T160000
 DTEND:20251120T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 4/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T175000
@@ -3032,7 +3046,7 @@ DTSTART:20251127T160000
 DTEND:20251127T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 5/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T175000
@@ -3333,7 +3347,7 @@ DTSTART:20251211T160000
 DTEND:20251211T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 4/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 6/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T175000
@@ -3494,7 +3508,7 @@ DTSTART:20251218T160000
 DTEND:20251218T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 5/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 7/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T175000
@@ -3606,7 +3620,7 @@ DTSTART:20260108T160000
 DTEND:20260108T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 6/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 8/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T175000

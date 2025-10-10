@@ -2328,13 +2328,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 32/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251009T133000
-DTEND:20251009T150500
-SUMMARY:TAI (w)
-LOCATION:224 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: mgr inż. Michał Sobolewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251009T175000
 DTEND:20251009T192500
 SUMMARY:Insz (w)
@@ -2396,6 +2389,13 @@ DTEND:20251014T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 34/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251014T133000
+DTEND:20251014T150500
+SUMMARY:TAI (w)
+LOCATION:223 S
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: mgr inż. Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T095000
@@ -2517,6 +2517,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 36/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251021T095000
+DTEND:20251021T112500
+SUMMARY:mo (w)
+LOCATION:252 S
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251022T095000
 DTEND:20251022T112500
 SUMMARY:Ps (w)
@@ -2542,7 +2549,7 @@ DTSTART:20251023T080000
 DTEND:20251023T093500
 SUMMARY:mo (w)
 LOCATION:308 S
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T095000
@@ -2724,7 +2731,7 @@ DTSTART:20251030T080000
 DTEND:20251030T093500
 SUMMARY:mo (w)
 LOCATION:309 S
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T095000
@@ -2848,9 +2855,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T080000
 DTEND:20251106T093500
-SUMMARY:mo (w)
-LOCATION:313 S
-DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Wojciech Kulas
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251106T095000
+DTEND:20251106T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T114000
@@ -3200,21 +3214,21 @@ DTSTART:20251127T160000
 DTEND:20251127T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T175000
 DTEND:20251127T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 4/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T194000
 DTEND:20251127T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 5/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251129T080000
@@ -3243,6 +3257,13 @@ DTEND:20251201T131500
 SUMMARY:Ps (ć)
 LOCATION:218 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr Justyna Kurkowiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251201T133000
+DTEND:20251201T150500
+SUMMARY:Ao (ć)
+LOCATION:309 S
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T080000
@@ -3425,6 +3446,13 @@ DTEND:20251212T131500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 49/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251212T133000
+DTEND:20251212T150500
+SUMMARY:Ao (ć)
+LOCATION:316 S
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T080000
@@ -3658,6 +3686,13 @@ LOCATION:227 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260112T114000
+DTEND:20260112T131500
+SUMMARY:Ao (ć)
+LOCATION:313 S
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260113T080000
 DTEND:20260113T093500
 SUMMARY:WF (ć)
@@ -3735,6 +3770,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 56/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260116T133000
+DTEND:20260116T150500
+SUMMARY:Ao (ć)
+LOCATION:309 S
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260117T080000
 DTEND:20260117T093500
 SUMMARY:XWF (ć)
@@ -3768,6 +3810,13 @@ DTEND:20260120T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 57/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260120T095000
+DTEND:20260120T112500
+SUMMARY:Ao (ć)
+LOCATION:252 S
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T080000
@@ -3831,6 +3880,13 @@ DTEND:20260123T131500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 58/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260123T133000
+DTEND:20260123T150500
+SUMMARY:Ao (ć)
+LOCATION:309 S
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T080000
@@ -3985,6 +4041,13 @@ DTEND:20260130T131500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 60/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260130T133000
+DTEND:20260130T150500
+SUMMARY:Ao (ć)
+LOCATION:309 S
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260131T080000

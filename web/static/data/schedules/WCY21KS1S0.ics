@@ -2195,20 +2195,6 @@ LOCATION:078 S
 DESCRIPTION:Krzywe hipereliptyczne w kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251007T114000
-DTEND:20251007T131500
-SUMMARY:QPQ (w)
-LOCATION:078 S
-DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNr zajęć: 1/15\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251007T133000
-DTEND:20251007T150500
-SUMMARY:QPQ (w)
-LOCATION:078 S
-DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNr zajęć: 2/15\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251007T160000
 DTEND:20251007T173500
 SUMMARY:Ja (ć)
@@ -2279,20 +2265,6 @@ LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 32/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251010T095000
-DTEND:20251010T112500
-SUMMARY:QPQ (w)
-LOCATION:085 S
-DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNr zajęć: 3/15\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251010T133000
-DTEND:20251010T150500
-SUMMARY:QPQ (w)
-LOCATION:085 S
-DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNr zajęć: 4/15\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251011T080000
 DTEND:20251011T093500
 SUMMARY:XWF (ć)
@@ -2353,7 +2325,7 @@ DTSTART:20251014T133000
 DTEND:20251014T150500
 SUMMARY:QPQ (w)
 LOCATION:078 S
-DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNr zajęć: 5/15\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNr zajęć: 1/15\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T160000
@@ -2367,7 +2339,7 @@ DTSTART:20251015T080000
 DTEND:20251015T093500
 SUMMARY:QPQ (w)
 LOCATION:085 S
-DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNr zajęć: 2/15\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T095000
@@ -2375,6 +2347,13 @@ DTEND:20251015T112500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 36/70\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251015T114000
+DTEND:20251015T131500
+SUMMARY:QPQ (w)
+LOCATION:085 S
+DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNr zajęć: 3/15\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T133000
@@ -2430,7 +2409,7 @@ DTSTART:20251017T133000
 DTEND:20251017T150500
 SUMMARY:QPQ (w)
 LOCATION:085 S
-DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNr zajęć: 7/15\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNr zajęć: 4/15\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251018T080000
@@ -2465,7 +2444,7 @@ DTSTART:20251020T160000
 DTEND:20251020T173500
 SUMMARY:QPQ (w)
 LOCATION:085 S
-DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNr zajęć: 8/15\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNr zajęć: 5/15\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T095000
@@ -2487,6 +2466,13 @@ DTEND:20251021T173500
 SUMMARY:Ja (ć)
 LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 35/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251022T080000
+DTEND:20251022T093500
+SUMMARY:QPQ (w)
+LOCATION:085 S
+DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T095000
@@ -2619,7 +2605,7 @@ DTSTART:20251029T080000
 DTEND:20251029T093500
 SUMMARY:QPQ (w)
 LOCATION:085 S
-DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNr zajęć: 9/15\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNr zajęć: 7/15\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T095000
@@ -2634,6 +2620,13 @@ DTEND:20251029T131500
 SUMMARY:Mnk (L)
 LOCATION:218 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/15\nProwadzący: dr hab. Marek Kojdecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251029T133000
+DTEND:20251029T150500
+SUMMARY:QPQ (w)
+LOCATION:085 S
+DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNr zajęć: 8/15\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T080000
@@ -2766,7 +2759,7 @@ DTSTART:20251105T080000
 DTEND:20251105T093500
 SUMMARY:QPQ (w)
 LOCATION:085 S
-DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNr zajęć: 10/15\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNr zajęć: 9/15\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T095000
@@ -2788,6 +2781,20 @@ DTEND:20251105T150500
 SUMMARY:Dtu (L)
 LOCATION:011 65
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: mgr inż. Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251106T080000
+DTEND:20251106T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 10/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251106T095000
+DTEND:20251106T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 11/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T114000
@@ -2843,7 +2850,7 @@ DTSTART:20251112T080000
 DTEND:20251112T093500
 SUMMARY:QPQ (w)
 LOCATION:085 S
-DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNr zajęć: 11/15\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNr zajęć: 10/15\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T095000
@@ -2906,7 +2913,7 @@ DTSTART:20251114T095000
 DTEND:20251114T112500
 SUMMARY:QPQ (w)
 LOCATION:078 S
-DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNr zajęć: 12/15\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNr zajęć: 11/15\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T114000
@@ -2997,7 +3004,7 @@ DTSTART:20251119T114000
 DTEND:20251119T131500
 SUMMARY:QPQ (w)
 LOCATION:078 S
-DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNr zajęć: 13/15\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNr zajęć: 12/15\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T080000
@@ -3119,6 +3126,13 @@ LOCATION:078 S
 DESCRIPTION:Ataki algebraiczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: dr inż. Elżbieta Burek
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251126T080000
+DTEND:20251126T093500
+SUMMARY:QPQ (w)
+LOCATION:078 S
+DESCRIPTION:Quantum and Post-Quantum Cryptology\nRodzaj zajęć: Wykład\nNr zajęć: 13/15\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251126T095000
 DTEND:20251126T112500
 SUMMARY:SzS (ć)
@@ -3165,21 +3179,21 @@ DTSTART:20251127T160000
 DTEND:20251127T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 10/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 12/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T175000
 DTEND:20251127T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 11/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 13/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T194000
 DTEND:20251127T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 12/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 14/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251129T080000
@@ -4103,97 +4117,97 @@ DTSTART:20260414T080000
 DTEND:20260414T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 13/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T095000
 DTEND:20260414T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 14/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 16/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T114000
 DTEND:20260414T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 17/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T133000
 DTEND:20260414T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 16/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 18/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T160000
 DTEND:20260414T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 17/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 19/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T175000
 DTEND:20260414T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 18/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 20/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T194000
 DTEND:20260414T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 19/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 21/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T080000
 DTEND:20260416T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 20/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 22/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T095000
 DTEND:20260416T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 21/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 23/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T114000
 DTEND:20260416T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 22/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 24/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T133000
 DTEND:20260416T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 23/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 25/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T160000
 DTEND:20260416T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 24/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 26/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T175000
 DTEND:20260416T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 25/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 27/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T194000
 DTEND:20260416T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 26/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 28/1\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

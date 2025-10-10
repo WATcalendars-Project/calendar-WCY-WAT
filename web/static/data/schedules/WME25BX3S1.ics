@@ -445,6 +445,13 @@ LOCATION:3/ 54
 DESCRIPTION:Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251016T114000
+DTEND:20251016T131500
+SUMMARY:M1 (w)
+LOCATION:3/ 54
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 4/15\nProwadzący: dr Jerzy Ploch
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251016T160000
 DTEND:20251016T173500
 SUMMARY:JoM (ć)
@@ -526,7 +533,7 @@ DTSTART:20251022T080000
 DTEND:20251022T093500
 SUMMARY:M1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 4/15\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 5/15\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T095000
@@ -541,6 +548,13 @@ DTEND:20251022T131500
 SUMMARY:PGI (ć)
 LOCATION:2.42/ 54A
 DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251023T114000
+DTEND:20251023T131500
+SUMMARY:M1 (w)
+LOCATION:3/ 54
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T160000
@@ -578,13 +592,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251027T095000
-DTEND:20251027T112500
-SUMMARY:M1 (w)
-LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 5/15\nProwadzący: dr Jerzy Ploch
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251027T114000
 DTEND:20251027T131500
 SUMMARY:PGI (w)
@@ -610,7 +617,7 @@ DTSTART:20251028T095000
 DTEND:20251028T112500
 SUMMARY:M1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 7/15\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T114000
@@ -638,7 +645,7 @@ DTSTART:20251029T133000
 DTEND:20251029T150500
 SUMMARY:M1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 7/15\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 8/15\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T160000
@@ -723,13 +730,6 @@ DTEND:20251103T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251103T095000
-DTEND:20251103T112500
-SUMMARY:M1 (w)
-LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 8/15\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T114000

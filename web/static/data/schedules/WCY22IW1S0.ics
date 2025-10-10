@@ -2636,6 +2636,20 @@ LOCATION:205 65
 DESCRIPTION:Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251014T160000
+DTEND:20251014T173500
+SUMMARY:Tro (w)
+LOCATION:204 65
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251014T175000
+DTEND:20251014T192500
+SUMMARY:Tro (w)
+LOCATION:204 65
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251015T095000
 DTEND:20251015T112500
 SUMMARY:Ps (w)
@@ -2675,14 +2689,14 @@ DTSTART:20251017T080000
 DTEND:20251017T093500
 SUMMARY:Tro (w)
 LOCATION:204 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T095000
 DTEND:20251017T112500
 SUMMARY:Tro (w)
 LOCATION:204 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T114000
@@ -2759,14 +2773,14 @@ DTSTART:20251024T080000
 DTEND:20251024T093500
 SUMMARY:Tro (w)
 LOCATION:201 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T095000
 DTEND:20251024T112500
 SUMMARY:Tro (w)
 LOCATION:201 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T114000
@@ -3037,16 +3051,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T080000
 DTEND:20251106T093500
-SUMMARY:Tro (w)
-LOCATION:204 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Witold Żorski
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T095000
 DTEND:20251106T112500
-SUMMARY:Tro (w)
-LOCATION:204 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Witold Żorski
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T114000
@@ -3508,21 +3522,21 @@ DTSTART:20251127T160000
 DTEND:20251127T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T175000
 DTEND:20251127T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 4/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T194000
 DTEND:20251127T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 5/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251129T080000

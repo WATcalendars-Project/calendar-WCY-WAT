@@ -424,11 +424,18 @@ LOCATION:3/ 54
 DESCRIPTION:Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251014T080000
+DTEND:20251014T093500
+SUMMARY:M1 (ć)
+LOCATION:109/ 54
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/19\nProwadzący: dr Jerzy Ploch
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251014T095000
 DTEND:20251014T112500
 SUMMARY:M1 (ć)
 LOCATION:109/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/19\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T114000
@@ -436,6 +443,13 @@ DTEND:20251014T131500
 SUMMARY:Owi (w)
 LOCATION:3/ 54
 DESCRIPTION:Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251016T114000
+DTEND:20251016T131500
+SUMMARY:M1 (w)
+LOCATION:3/ 54
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 4/15\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T160000
@@ -498,7 +512,7 @@ DTSTART:20251021T095000
 DTEND:20251021T112500
 SUMMARY:M1 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/19\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T114000
@@ -512,7 +526,7 @@ DTSTART:20251022T080000
 DTEND:20251022T093500
 SUMMARY:M1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 4/15\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 5/15\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T095000
@@ -520,6 +534,13 @@ DTEND:20251022T112500
 SUMMARY:PGI (ć)
 LOCATION:2.42/ 54A
 DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251023T114000
+DTEND:20251023T131500
+SUMMARY:M1 (w)
+LOCATION:3/ 54
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T160000
@@ -534,13 +555,6 @@ DTEND:20251023T211500
 SUMMARY:Ja (ć)
 LOCATION:237 K 235 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251024T095000
-DTEND:20251024T112500
-SUMMARY:M1 (ć)
-LOCATION:55/ 62
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/19\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T114000
@@ -562,13 +576,6 @@ DTEND:20251027T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251027T095000
-DTEND:20251027T112500
-SUMMARY:M1 (w)
-LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 5/15\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T114000
@@ -596,7 +603,7 @@ DTSTART:20251028T095000
 DTEND:20251028T112500
 SUMMARY:M1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 7/15\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T114000
@@ -638,7 +645,7 @@ DTSTART:20251029T133000
 DTEND:20251029T150500
 SUMMARY:M1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 7/15\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 8/15\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T160000
@@ -716,13 +723,6 @@ DTEND:20251103T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251103T095000
-DTEND:20251103T112500
-SUMMARY:M1 (w)
-LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 8/15\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T114000
@@ -1054,6 +1054,13 @@ LOCATION:8/ 62
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/19\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251120T114000
+DTEND:20251120T131500
+SUMMARY:M1 (ć)
+LOCATION:8/ 62
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/19\nProwadzący: dr Jerzy Ploch
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251120T160000
 DTEND:20251120T173500
 SUMMARY:JoM (ć)
@@ -1066,13 +1073,6 @@ DTEND:20251120T211500
 SUMMARY:Ja (ć)
 LOCATION:237 K 235 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251121T095000
-DTEND:20251121T112500
-SUMMARY:M1 (ć)
-LOCATION:8/ 62
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/19\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T114000
@@ -1138,6 +1138,13 @@ LOCATION:120/ 54
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/19\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251125T133000
+DTEND:20251125T150500
+SUMMARY:M1 (ć)
+LOCATION:108/ 54
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/19\nProwadzący: dr Jerzy Ploch
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251126T080000
 DTEND:20251126T093500
 SUMMARY:Owi (ć)
@@ -1156,7 +1163,7 @@ DTSTART:20251126T114000
 DTEND:20251126T131500
 SUMMARY:M1 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/19\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T133000
@@ -1177,7 +1184,7 @@ DTSTART:20251127T095000
 DTEND:20251127T112500
 SUMMARY:M1 (ć)
 LOCATION:120/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/19\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T114000
@@ -1268,7 +1275,7 @@ DTSTART:20251201T114000
 DTEND:20251201T131500
 SUMMARY:M1 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/19\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T133000
@@ -1317,7 +1324,7 @@ DTSTART:20251203T114000
 DTEND:20251203T131500
 SUMMARY:M1 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/19\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T133000
@@ -1338,7 +1345,7 @@ DTSTART:20251204T095000
 DTEND:20251204T112500
 SUMMARY:M1 (ć)
 LOCATION:120/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/19\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T160000
@@ -1429,7 +1436,7 @@ DTSTART:20251208T133000
 DTEND:20251208T150500
 SUMMARY:M1 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/19\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T080000
@@ -1450,7 +1457,7 @@ DTSTART:20251209T114000
 DTEND:20251209T131500
 SUMMARY:M1 (ć)
 LOCATION:120/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/19\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T095000
@@ -1521,13 +1528,6 @@ DTEND:20251212T112500
 SUMMARY:Wzp (w)
 LOCATION:3/ 54
 DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251212T114000
-DTEND:20251212T131500
-SUMMARY:M1 (ć)
-LOCATION:55/ 62
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/19\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T133000

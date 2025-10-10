@@ -333,6 +333,20 @@ LOCATION:125 65
 DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251020T080000
+DTEND:20251020T093500
+SUMMARY:Rsk (L)
+LOCATION:219 65
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251020T095000
+DTEND:20251020T112500
+SUMMARY:Rsk (L)
+LOCATION:219 65
+DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251020T114000
 DTEND:20251020T131500
 SUMMARY:Lan (w)
@@ -345,20 +359,6 @@ DTEND:20251020T150500
 SUMMARY:AsU (L)
 LOCATION:125 65
 DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr inż. Michał Melaniuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251021T080000
-DTEND:20251021T093500
-SUMMARY:Rsk (L)
-LOCATION:125 65
-DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251021T095000
-DTEND:20251021T112500
-SUMMARY:Rsk (L)
-LOCATION:125 65
-DESCRIPTION:Routing i przełączanie w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T114000

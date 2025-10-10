@@ -2895,11 +2895,25 @@ LOCATION:313 S
 DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251029T095000
+DTEND:20251029T112500
+SUMMARY:MRw (P)
+LOCATION:106 65
+DESCRIPTION:Metody i zadania rozpoznawania wzorców\nRodzaj zajęć: Projekt\nNr zajęć: 3/6\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251029T114000
 DTEND:20251029T131500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 40/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251029T133000
+DTEND:20251029T150500
+SUMMARY:MRw (w)
+LOCATION:106 65
+DESCRIPTION:Metody i zadania rozpoznawania wzorców\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T175000
@@ -2913,7 +2927,7 @@ DTSTART:20251030T080000
 DTEND:20251030T093500
 SUMMARY:MRw (w)
 LOCATION:106 65
-DESCRIPTION:Metody i zadania rozpoznawania wzorców\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+DESCRIPTION:Metody i zadania rozpoznawania wzorców\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T095000
@@ -3072,9 +3086,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T080000
 DTEND:20251106T093500
-SUMMARY:MRw (w)
-LOCATION:106 65
-DESCRIPTION:Metody i zadania rozpoznawania wzorców\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251106T095000
+DTEND:20251106T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T114000
@@ -3480,21 +3501,21 @@ DTSTART:20251127T160000
 DTEND:20251127T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T175000
 DTEND:20251127T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 4/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T194000
 DTEND:20251127T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 5/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251129T080000
@@ -4117,14 +4138,14 @@ DTSTART:20260115T114000
 DTEND:20260115T131500
 SUMMARY:MRw (P)
 LOCATION:106 65
-DESCRIPTION:Metody i zadania rozpoznawania wzorców\nRodzaj zajęć: Projekt\nNr zajęć: 3/6\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+DESCRIPTION:Metody i zadania rozpoznawania wzorców\nRodzaj zajęć: Projekt\nNr zajęć: 4/6\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T133000
 DTEND:20260115T150500
 SUMMARY:MRw (P)
 LOCATION:106 65
-DESCRIPTION:Metody i zadania rozpoznawania wzorców\nRodzaj zajęć: Projekt\nNr zajęć: 4/6\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+DESCRIPTION:Metody i zadania rozpoznawania wzorców\nRodzaj zajęć: Projekt\nNr zajęć: 5/6\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T080000
@@ -4152,7 +4173,7 @@ DTSTART:20260116T160000
 DTEND:20260116T173500
 SUMMARY:MRw (P)
 LOCATION:106 65
-DESCRIPTION:Metody i zadania rozpoznawania wzorców\nRodzaj zajęć: Projekt\nNr zajęć: 5/6\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+DESCRIPTION:Metody i zadania rozpoznawania wzorców\nRodzaj zajęć: Projekt\nNr zajęć: 6/6\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T080000
@@ -4223,13 +4244,6 @@ DTEND:20260122T112500
 SUMMARY:AśW (L)
 LOCATION:125 65
 DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 18/20\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260122T133000
-DTEND:20260122T150500
-SUMMARY:MRw (P)
-LOCATION:106 65
-DESCRIPTION:Metody i zadania rozpoznawania wzorców\nRodzaj zajęć: Projekt\nNr zajęć: 6/6\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T080000
