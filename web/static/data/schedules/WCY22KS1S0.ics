@@ -2185,7 +2185,7 @@ DTSTART:20251006T160000
 DTEND:20251006T173500
 SUMMARY:Nsk (Inne)
 LOCATION:307 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T080000
@@ -2307,6 +2307,20 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 36/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251013T160000
+DTEND:20251013T173500
+SUMMARY:Nsk (Inne)
+LOCATION:307 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251014T080000
+DTEND:20251014T093500
+SUMMARY:Wkakp (w)
+LOCATION:085 S
+DESCRIPTION:Wstęp do kryptoanalizy algorytmów klucza publicznego\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251014T095000
 DTEND:20251014T112500
 SUMMARY:Algor (w)
@@ -2342,6 +2356,13 @@ LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 34/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251015T133000
+DTEND:20251015T150500
+SUMMARY:Eatl (w)
+LOCATION:205 65
+DESCRIPTION:Elementy algebraicznej teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251015T175000
 DTEND:20251015T192500
 SUMMARY:Ja (ć)
@@ -2360,14 +2381,14 @@ DTSTART:20251016T080000
 DTEND:20251016T093500
 SUMMARY:Wkakp (w)
 LOCATION:085 S
-DESCRIPTION:Wstęp do kryptoanalizy algorytmów klucza publicznego\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Wstęp do kryptoanalizy algorytmów klucza publicznego\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T095000
 DTEND:20251016T112500
 SUMMARY:Eatl (w)
 LOCATION:205 65
-DESCRIPTION:Elementy algebraicznej teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Elementy algebraicznej teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T114000
@@ -2430,7 +2451,7 @@ DTSTART:20251020T114000
 DTEND:20251020T131500
 SUMMARY:Eatl (w)
 LOCATION:101 65
-DESCRIPTION:Elementy algebraicznej teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Elementy algebraicznej teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T133000
@@ -2486,14 +2507,14 @@ DTSTART:20251023T080000
 DTEND:20251023T093500
 SUMMARY:Wkakp (w)
 LOCATION:085 S
-DESCRIPTION:Wstęp do kryptoanalizy algorytmów klucza publicznego\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Wstęp do kryptoanalizy algorytmów klucza publicznego\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T095000
 DTEND:20251023T112500
 SUMMARY:Eatl (w)
 LOCATION:205 65
-DESCRIPTION:Elementy algebraicznej teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Elementy algebraicznej teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T114000
@@ -2577,7 +2598,7 @@ DTSTART:20251027T114000
 DTEND:20251027T131500
 SUMMARY:Eatl (w)
 LOCATION:101 65
-DESCRIPTION:Elementy algebraicznej teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Elementy algebraicznej teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T133000
@@ -2640,7 +2661,7 @@ DTSTART:20251030T095000
 DTEND:20251030T112500
 SUMMARY:Eatl (w)
 LOCATION:205 65
-DESCRIPTION:Elementy algebraicznej teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Elementy algebraicznej teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T114000
@@ -2778,16 +2799,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T080000
 DTEND:20251106T093500
-SUMMARY:Wkakp (w)
-LOCATION:085 S
-DESCRIPTION:Wstęp do kryptoanalizy algorytmów klucza publicznego\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr Mariusz Jurkiewicz
+SUMMARY:Ja (E)
+LOCATION:-
+DESCRIPTION:Język angielski - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T095000
 DTEND:20251106T112500
-SUMMARY:Eatl (w)
-LOCATION:205 65
-DESCRIPTION:Elementy algebraicznej teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr Arkadiusz Szymaniec
+SUMMARY:Ja (E)
+LOCATION:-
+DESCRIPTION:Język angielski - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T114000

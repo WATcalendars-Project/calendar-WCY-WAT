@@ -2464,7 +2464,7 @@ BEGIN:VEVENT
 DTSTART:20251024T080000
 DTEND:20251024T093500
 SUMMARY:GMiB (Inne)
-LOCATION:AW 3/043
+LOCATION:AW 1
 DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2748,13 +2748,6 @@ LOCATION:313 S
 DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251106T133000
-DTEND:20251106T150500
-SUMMARY:IO (L)
-LOCATION:224 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/14\nProwadzący: mgr inż. Grzegorz Kiryk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251106T160000
 DTEND:20251106T173500
 SUMMARY:Wek (L)
@@ -2970,6 +2963,13 @@ DTEND:20251119T131500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 47/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251119T133000
+DTEND:20251119T150500
+SUMMARY:IO (L)
+LOCATION:233 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/14\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T080000

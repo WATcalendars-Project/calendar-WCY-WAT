@@ -2521,7 +2521,7 @@ DTSTART:20251006T160000
 DTEND:20251006T173500
 SUMMARY:Nsk (Inne)
 LOCATION:307 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T080000
@@ -2634,6 +2634,13 @@ DTEND:20251013T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 34/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251013T160000
+DTEND:20251013T173500
+SUMMARY:Nsk (Inne)
+LOCATION:307 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T080000
@@ -3114,16 +3121,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T080000
 DTEND:20251106T093500
-SUMMARY:- (Inne)
+SUMMARY:Ja (E)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Język angielski - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T095000
 DTEND:20251106T112500
-SUMMARY:- (Inne)
+SUMMARY:Ja (E)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
+DESCRIPTION:Język angielski - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T114000

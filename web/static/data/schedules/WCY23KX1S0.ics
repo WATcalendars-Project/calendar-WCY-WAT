@@ -2604,7 +2604,7 @@ BEGIN:VEVENT
 DTSTART:20251024T095000
 DTEND:20251024T112500
 SUMMARY:DSiSM (ć)
-LOCATION:AW 3/043
+LOCATION:AW 1
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -2874,13 +2874,6 @@ LOCATION:313 S
 DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: mgr inż. Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251106T114000
-DTEND:20251106T131500
-SUMMARY:IO (L)
-LOCATION:228 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/14\nProwadzący: mgr inż. Grzegorz Kiryk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251107T080000
 DTEND:20251107T093500
 SUMMARY:WF (ć)
@@ -2956,20 +2949,6 @@ DTEND:20251113T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 42/60\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251113T114000
-DTEND:20251113T131500
-SUMMARY:IO (L)
-LOCATION:236 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/14\nProwadzący: mgr inż. Grzegorz Kiryk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251113T133000
-DTEND:20251113T150500
-SUMMARY:IO (L)
-LOCATION:236 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/14\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T080000
@@ -3096,6 +3075,13 @@ DTEND:20251119T150500
 SUMMARY:Wek (L)
 LOCATION:078 S
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/16\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251119T160000
+DTEND:20251119T173500
+SUMMARY:IO (L)
+LOCATION:236 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/14\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T175000
@@ -3256,14 +3242,14 @@ DTSTART:20251126T080000
 DTEND:20251126T093500
 SUMMARY:IO (L)
 LOCATION:227 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/14\nProwadzący: mgr inż. Grzegorz Kiryk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/14\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T095000
 DTEND:20251126T112500
 SUMMARY:IO (L)
 LOCATION:227 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/14\nProwadzący: mgr inż. Grzegorz Kiryk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/14\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T114000
@@ -3571,14 +3557,14 @@ DTSTART:20251211T095000
 DTEND:20251211T112500
 SUMMARY:IO (L)
 LOCATION:236 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/14\nProwadzący: mgr inż. Grzegorz Kiryk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/14\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T114000
 DTEND:20251211T131500
 SUMMARY:IO (L)
 LOCATION:236 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/14\nProwadzący: mgr inż. Grzegorz Kiryk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/14\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T133000
@@ -3711,14 +3697,14 @@ DTSTART:20251218T095000
 DTEND:20251218T112500
 SUMMARY:IO (L)
 LOCATION:233 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/14\nProwadzący: mgr inż. Grzegorz Kiryk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/14\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T114000
 DTEND:20251218T131500
 SUMMARY:IO (L)
 LOCATION:233 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/14\nProwadzący: mgr inż. Grzegorz Kiryk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/14\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T133000
@@ -3809,14 +3795,14 @@ DTSTART:20260108T095000
 DTEND:20260108T112500
 SUMMARY:IO (L)
 LOCATION:224 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/14\nProwadzący: mgr inż. Grzegorz Kiryk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/14\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T114000
 DTEND:20260108T131500
 SUMMARY:IO (L)
 LOCATION:224 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/14\nProwadzący: mgr inż. Grzegorz Kiryk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/14\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T160000
@@ -3956,14 +3942,14 @@ DTSTART:20260115T095000
 DTEND:20260115T112500
 SUMMARY:IO (L)
 LOCATION:224 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/14\nProwadzący: mgr inż. Grzegorz Kiryk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/14\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T114000
 DTEND:20260115T131500
 SUMMARY:IO (L)
 LOCATION:224 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/14\nProwadzący: mgr inż. Grzegorz Kiryk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/14\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T133000
@@ -4034,6 +4020,20 @@ DTEND:20260120T150500
 SUMMARY:IK (L)
 LOCATION:09 65
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Krzysztof Szajewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260120T160000
+DTEND:20260120T173500
+SUMMARY:IO (L)
+LOCATION:224 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/14\nProwadzący: mgr inż. Grzegorz Kiryk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260120T175000
+DTEND:20260120T192500
+SUMMARY:IO (L)
+LOCATION:224 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/14\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T080000
