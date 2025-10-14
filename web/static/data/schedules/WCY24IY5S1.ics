@@ -141,7 +141,7 @@ DTSTART:20250331T160000
 DTEND:20250331T173500
 SUMMARY:Mat I (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Arkadiusz Szymaniec
+DESCRIPTION:Matematyka I\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T114000
@@ -190,14 +190,14 @@ DTSTART:20250407T175000
 DTEND:20250407T192500
 SUMMARY:M II (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T175000
 DTEND:20250408T192500
 SUMMARY:WdI (Inne)
 LOCATION:313 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T114000
@@ -246,7 +246,7 @@ DTSTART:20250414T175000
 DTEND:20250414T192500
 SUMMARY:MD1 (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T133000
@@ -575,35 +575,35 @@ DTSTART:20251001T095000
 DTEND:20251001T112500
 SUMMARY:Swb (w)
 LOCATION:313 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący:  Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T114000
 DTEND:20251001T131500
 SUMMARY:Po (w)
 LOCATION:317 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T133000
 DTEND:20251001T150500
 SUMMARY:Po (w)
 LOCATION:317 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T133000
 DTEND:20251002T150500
 SUMMARY:BD(pp) (w)
 LOCATION:316 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący:  Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T160000
 DTEND:20251002T173500
 SUMMARY:BD(pp) (w)
 LOCATION:316 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący:  Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T095000
@@ -617,14 +617,14 @@ DTSTART:20251006T114000
 DTEND:20251006T131500
 SUMMARY:Aok (w)
 LOCATION:307 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący:  Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T133000
 DTEND:20251006T150500
 SUMMARY:Aok (w)
 LOCATION:316 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący:  Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T080000
@@ -652,21 +652,21 @@ DTSTART:20251008T080000
 DTEND:20251008T093500
 SUMMARY:Po (w)
 LOCATION:314 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T095000
 DTEND:20251008T112500
 SUMMARY:Swb (w)
 LOCATION:317 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący:  Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T114000
 DTEND:20251008T131500
 SUMMARY:Swb (w)
 LOCATION:317 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 3/9\nProwadzący:  Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 3/9\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T133000
@@ -680,28 +680,28 @@ DTSTART:20251009T133000
 DTEND:20251009T150500
 SUMMARY:BD(pp) (w)
 LOCATION:316 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący:  Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T160000
 DTEND:20251009T173500
 SUMMARY:BD(pp) (w)
 LOCATION:316 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący:  Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T114000
 DTEND:20251013T131500
 SUMMARY:Als (w)
 LOCATION:307 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T133000
 DTEND:20251013T150500
 SUMMARY:Als (w)
 LOCATION:316 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T080000
@@ -729,21 +729,21 @@ DTSTART:20251015T080000
 DTEND:20251015T093500
 SUMMARY:Sm (w)
 LOCATION:316 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Arkadiusz Orłowski
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T080000
 DTEND:20251016T093500
 SUMMARY:Po (w)
 LOCATION:307 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T095000
 DTEND:20251016T112500
 SUMMARY:Po (w)
 LOCATION:307 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T160000
@@ -757,14 +757,14 @@ DTSTART:20251017T080000
 DTEND:20251017T093500
 SUMMARY:BD(pp) (w)
 LOCATION:316 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/4\nProwadzący:  Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/4\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T095000
 DTEND:20251017T112500
 SUMMARY:BD(pp) (w)
 LOCATION:316 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący:  Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T175000
@@ -792,14 +792,14 @@ DTSTART:20251020T114000
 DTEND:20251020T131500
 SUMMARY:Aok (w)
 LOCATION:307 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący:  Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T133000
 DTEND:20251020T150500
 SUMMARY:Als (w)
 LOCATION:316 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/9\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/9\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T080000
@@ -827,21 +827,21 @@ DTSTART:20251022T080000
 DTEND:20251022T093500
 SUMMARY:Sm (w)
 LOCATION:316 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Arkadiusz Orłowski
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T133000
 DTEND:20251023T150500
 SUMMARY:Po (w)
 LOCATION:313 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T080000
 DTEND:20251024T093500
 SUMMARY:BD(pp) (w)
 LOCATION:307 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/4\nProwadzący:  Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/4\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T095000
@@ -855,7 +855,7 @@ DTSTART:20251027T114000
 DTEND:20251027T131500
 SUMMARY:Aok (w)
 LOCATION:307 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący:  Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T133000
@@ -897,21 +897,21 @@ DTSTART:20251029T080000
 DTEND:20251029T093500
 SUMMARY:Sm (w)
 LOCATION:316 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Arkadiusz Orłowski
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T095000
 DTEND:20251029T112500
 SUMMARY:Swb (w)
 LOCATION:316 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 4/9\nProwadzący:  Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 4/9\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T114000
 DTEND:20251029T131500
 SUMMARY:Swb (w)
 LOCATION:316 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 5/9\nProwadzący:  Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 5/9\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T095000
@@ -925,14 +925,14 @@ DTSTART:20251030T114000
 DTEND:20251030T131500
 SUMMARY:Po (w)
 LOCATION:316 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T133000
 DTEND:20251030T150500
 SUMMARY:Po (w)
 LOCATION:316 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T114000
@@ -953,7 +953,7 @@ DTSTART:20251103T114000
 DTEND:20251103T131500
 SUMMARY:Aok (w)
 LOCATION:307 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący:  Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T133000
@@ -988,35 +988,35 @@ DTSTART:20251105T080000
 DTEND:20251105T093500
 SUMMARY:Sm (w)
 LOCATION:316 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Arkadiusz Orłowski
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T080000
 DTEND:20251106T093500
 SUMMARY:Po (w)
 LOCATION:307 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T095000
 DTEND:20251106T112500
 SUMMARY:Aok (w)
 LOCATION:317 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący:  Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T080000
 DTEND:20251107T093500
 SUMMARY:Als (w)
 LOCATION:313 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/9\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/9\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T095000
 DTEND:20251107T112500
 SUMMARY:Als (w)
 LOCATION:307 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/9\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/9\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T080000
@@ -1030,14 +1030,14 @@ DTSTART:20251112T095000
 DTEND:20251112T112500
 SUMMARY:Swb (w)
 LOCATION:316 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący:  Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T114000
 DTEND:20251112T131500
 SUMMARY:Swb (w)
 LOCATION:316 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący:  Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T095000
@@ -1086,14 +1086,14 @@ DTSTART:20251119T080000
 DTEND:20251119T093500
 SUMMARY:Sm (w)
 LOCATION:316 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Arkadiusz Orłowski
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T080000
 DTEND:20251120T093500
 SUMMARY:Po (w)
 LOCATION:307 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T095000
@@ -1107,7 +1107,7 @@ DTSTART:20251121T080000
 DTEND:20251121T093500
 SUMMARY:Als (w)
 LOCATION:316 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T114000
@@ -1149,7 +1149,7 @@ DTSTART:20251126T080000
 DTEND:20251126T093500
 SUMMARY:Sm (w)
 LOCATION:316 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Arkadiusz Orłowski
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T095000
@@ -1163,35 +1163,35 @@ DTSTART:20251127T080000
 DTEND:20251127T093500
 SUMMARY:Aok (w)
 LOCATION:307 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący:  Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T095000
 DTEND:20251127T112500
 SUMMARY:Swb (w)
 LOCATION:317 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący:  Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T114000
 DTEND:20251127T131500
 SUMMARY:Swb (w)
 LOCATION:317 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący:  Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T114000
 DTEND:20251201T131500
 SUMMARY:Als (w)
 LOCATION:317 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T133000
 DTEND:20251201T150500
 SUMMARY:Als (w)
 LOCATION:317 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T160000
@@ -1233,7 +1233,7 @@ DTSTART:20251203T080000
 DTEND:20251203T093500
 SUMMARY:Sm (w)
 LOCATION:316 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Arkadiusz Orłowski
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T095000
@@ -1247,14 +1247,14 @@ DTSTART:20251204T080000
 DTEND:20251204T093500
 SUMMARY:Aok (w)
 LOCATION:307 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący:  Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T114000
 DTEND:20251208T131500
 SUMMARY:Als (w)
 LOCATION:317 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T133000
@@ -1296,7 +1296,7 @@ DTSTART:20251210T080000
 DTEND:20251210T093500
 SUMMARY:Sm (w)
 LOCATION:316 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Arkadiusz Orłowski
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T095000
@@ -1310,7 +1310,7 @@ DTSTART:20251211T080000
 DTEND:20251211T093500
 SUMMARY:Aok (w)
 LOCATION:307 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący:  Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T095000
@@ -1352,7 +1352,7 @@ DTSTART:20251218T080000
 DTEND:20251218T093500
 SUMMARY:Aok (w)
 LOCATION:307 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T095000

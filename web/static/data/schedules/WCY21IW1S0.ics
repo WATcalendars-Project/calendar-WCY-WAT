@@ -8,7 +8,7 @@ DTSTART:20250226T133000
 DTEND:20250226T150500
 SUMMARY:TeIP (w)
 LOCATION:307 S
-DESCRIPTION:Telefonia IP\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Tomasz Malinowski
+DESCRIPTION:Telefonia IP\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T095000
@@ -22,14 +22,14 @@ DTSTART:20250303T114000
 DTEND:20250303T131500
 SUMMARY:ESI (w)
 LOCATION:203 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T133000
 DTEND:20250303T150500
 SUMMARY:Zt (w)
 LOCATION:308 S
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Tomasz Malinowski
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T080000
@@ -50,21 +50,21 @@ DTSTART:20250305T133000
 DTEND:20250305T150500
 SUMMARY:TeIP (w)
 LOCATION:307 S
-DESCRIPTION:Telefonia IP\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Tomasz Malinowski
+DESCRIPTION:Telefonia IP\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T080000
 DTEND:20250306T093500
 SUMMARY:Pwst (w)
 LOCATION:313 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/12\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T095000
 DTEND:20250306T112500
 SUMMARY:Pwst (w)
 LOCATION:313 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/12\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T080000
@@ -92,7 +92,7 @@ DTSTART:20250307T133000
 DTEND:20250307T150500
 SUMMARY:AśW (Inne)
 LOCATION:121 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T160000
@@ -127,28 +127,28 @@ DTSTART:20250310T114000
 DTEND:20250310T131500
 SUMMARY:Sa. (w)
 LOCATION:309 S
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Adam Patkowski
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T133000
 DTEND:20250310T150500
 SUMMARY:Zt (w)
 LOCATION:308 S
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Tomasz Malinowski
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T160000
 DTEND:20250310T173500
 SUMMARY:ESI (w)
 LOCATION:203 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T175000
 DTEND:20250310T192500
 SUMMARY:Ps (Inne)
 LOCATION:219 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Lucjan Kowalski
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Lucjan Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T080000
@@ -162,7 +162,7 @@ DTSTART:20250311T114000
 DTEND:20250311T131500
 SUMMARY:dsk (L)
 LOCATION:121 65
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący:  Michał Melaniuk
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T080000
@@ -197,14 +197,14 @@ DTSTART:20250313T080000
 DTEND:20250313T093500
 SUMMARY:Pwst (w)
 LOCATION:309 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/12\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T133000
 DTEND:20250313T150500
 SUMMARY:Zt (w)
 LOCATION:307 S
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Tomasz Malinowski
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T080000
@@ -246,7 +246,7 @@ DTSTART:20250317T080000
 DTEND:20250317T093500
 SUMMARY:Pwst (w)
 LOCATION:307 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/12\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T095000
@@ -260,21 +260,21 @@ DTSTART:20250317T114000
 DTEND:20250317T131500
 SUMMARY:Sa. (w)
 LOCATION:307 S
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Adam Patkowski
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T133000
 DTEND:20250317T150500
 SUMMARY:Sa. (w)
 LOCATION:307 S
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Adam Patkowski
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T160000
 DTEND:20250317T173500
 SUMMARY:MeSK (w)
 LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T080000
@@ -309,7 +309,7 @@ DTSTART:20250320T080000
 DTEND:20250320T093500
 SUMMARY:Pwst (w)
 LOCATION:309 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/12\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T080000
@@ -337,7 +337,7 @@ DTSTART:20250321T133000
 DTEND:20250321T150500
 SUMMARY:dsk (L)
 LOCATION:125 65
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący:  Michał Melaniuk
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250322T095000
@@ -351,35 +351,35 @@ DTSTART:20250324T080000
 DTEND:20250324T093500
 SUMMARY:MeSK (w)
 LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T095000
 DTEND:20250324T112500
 SUMMARY:MeSK (w)
 LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T114000
 DTEND:20250324T131500
 SUMMARY:Sa. (w)
 LOCATION:307 S
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Adam Patkowski
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T133000
 DTEND:20250324T150500
 SUMMARY:Sa. (w)
 LOCATION:307 S
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Adam Patkowski
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T160000
 DTEND:20250324T173500
 SUMMARY:ESI (w)
 LOCATION:203 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T080000
@@ -393,14 +393,14 @@ DTSTART:20250325T114000
 DTEND:20250325T131500
 SUMMARY:Syt (w)
 LOCATION:101 65
-DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T133000
 DTEND:20250325T150500
 SUMMARY:Syt (w)
 LOCATION:101 65
-DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T160000
@@ -414,14 +414,14 @@ DTSTART:20250326T080000
 DTEND:20250326T093500
 SUMMARY:Zt (w)
 LOCATION:308 S
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Tomasz Malinowski
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T095000
 DTEND:20250326T112500
 SUMMARY:MeSK (w)
 LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T114000
@@ -435,56 +435,56 @@ DTSTART:20250326T133000
 DTEND:20250326T150500
 SUMMARY:TeIP (w)
 LOCATION:309 S
-DESCRIPTION:Telefonia IP\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Tomasz Malinowski
+DESCRIPTION:Telefonia IP\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T160000
 DTEND:20250326T173500
 SUMMARY:Pwst (L)
 LOCATION:120 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T175000
 DTEND:20250326T192500
 SUMMARY:Pwst (L)
 LOCATION:120 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/12\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T080000
 DTEND:20250327T093500
 SUMMARY:Pwst (w)
 LOCATION:309 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/12\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T095000
 DTEND:20250327T112500
 SUMMARY:MeSK (L)
 LOCATION:223 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Stanisław Skrzypecki
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T114000
 DTEND:20250327T131500
 SUMMARY:dsk (P)
 LOCATION:125 65
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNr zajęć: 1/8\nProwadzący:  Michał Melaniuk
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNr zajęć: 1/8\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T133000
 DTEND:20250327T150500
 SUMMARY:dsk (P)
 LOCATION:125 65
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNr zajęć: 2/8\nProwadzący:  Michał Melaniuk
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNr zajęć: 2/8\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T175000
 DTEND:20250327T192500
 SUMMARY:Pwst (P)
 LOCATION:011 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 1/6\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 1/6\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T080000
@@ -638,7 +638,7 @@ DTSTART:20250402T095000
 DTEND:20250402T112500
 SUMMARY:Pwst (w)
 LOCATION:309 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/12\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T114000
@@ -652,7 +652,7 @@ DTSTART:20250402T133000
 DTEND:20250402T150500
 SUMMARY:ESI (w)
 LOCATION:203 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T114000
@@ -673,7 +673,7 @@ DTSTART:20250403T175000
 DTEND:20250403T192500
 SUMMARY:Pwst (P)
 LOCATION:125 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 2/6\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 2/6\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T080000
@@ -729,7 +729,7 @@ DTSTART:20250407T080000
 DTEND:20250407T093500
 SUMMARY:MeSK (w)
 LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T095000
@@ -743,28 +743,28 @@ DTSTART:20250407T114000
 DTEND:20250407T131500
 SUMMARY:Sa. (w)
 LOCATION:309 S
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Adam Patkowski
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T133000
 DTEND:20250407T150500
 SUMMARY:Sa. (w)
 LOCATION:309 S
-DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Adam Patkowski
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T160000
 DTEND:20250407T173500
 SUMMARY:MeSK (L)
 LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Michał Dyk
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: dr inż. Michał Dyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T175000
 DTEND:20250407T192500
 SUMMARY:MeSK (L)
 LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Michał Dyk
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: dr inż. Michał Dyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T080000
@@ -778,49 +778,49 @@ DTSTART:20250408T095000
 DTEND:20250408T112500
 SUMMARY:Pwst (P)
 LOCATION:237 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 3/6\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 3/6\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T114000
 DTEND:20250408T131500
 SUMMARY:Syt (w)
 LOCATION:101 65
-DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T133000
 DTEND:20250408T150500
 SUMMARY:Syt (w)
 LOCATION:101 65
-DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T160000
 DTEND:20250408T173500
 SUMMARY:Pwst (L)
 LOCATION:120 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/12\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T175000
 DTEND:20250408T192500
 SUMMARY:Pwst (L)
 LOCATION:120 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T080000
 DTEND:20250409T093500
 SUMMARY:Zt (L)
 LOCATION:120 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T095000
 DTEND:20250409T112500
 SUMMARY:Zt (L)
 LOCATION:120 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T114000
@@ -841,28 +841,28 @@ DTSTART:20250410T080000
 DTEND:20250410T093500
 SUMMARY:Pwst (w)
 LOCATION:309 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 8/12\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 8/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T095000
 DTEND:20250410T112500
 SUMMARY:dsk (L)
 LOCATION:218 65
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący:  Michał Melaniuk
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T114000
 DTEND:20250410T131500
 SUMMARY:TeIP (L)
 LOCATION:120 65
-DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T133000
 DTEND:20250410T150500
 SUMMARY:TeIP (L)
 LOCATION:120 65
-DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T160000
@@ -904,7 +904,7 @@ DTSTART:20250411T160000
 DTEND:20250411T173500
 SUMMARY:Zt (w)
 LOCATION:308 S
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Tomasz Malinowski
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250412T095000
@@ -918,7 +918,7 @@ DTSTART:20250414T080000
 DTEND:20250414T093500
 SUMMARY:TeIP (w)
 LOCATION:307 S
-DESCRIPTION:Telefonia IP\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Tomasz Malinowski
+DESCRIPTION:Telefonia IP\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T095000
@@ -932,14 +932,14 @@ DTSTART:20250414T114000
 DTEND:20250414T131500
 SUMMARY:Sss (w)
 LOCATION:203 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T133000
 DTEND:20250414T150500
 SUMMARY:Sss (w)
 LOCATION:203 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T080000
@@ -974,7 +974,7 @@ DTSTART:20250416T095000
 DTEND:20250416T112500
 SUMMARY:Zt (w)
 LOCATION:308 S
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Tomasz Malinowski
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T114000
@@ -995,42 +995,42 @@ DTSTART:20250417T080000
 DTEND:20250417T093500
 SUMMARY:Pwst (w)
 LOCATION:309 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 9/12\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 9/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T095000
 DTEND:20250417T112500
 SUMMARY:MeSK (L)
 LOCATION:224 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Stanisław Skrzypecki
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T114000
 DTEND:20250417T131500
 SUMMARY:dsk (P)
 LOCATION:120 65
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNr zajęć: 3/8\nProwadzący:  Michał Melaniuk
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNr zajęć: 3/8\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T133000
 DTEND:20250417T150500
 SUMMARY:dsk (P)
 LOCATION:120 65
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNr zajęć: 4/8\nProwadzący:  Michał Melaniuk
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNr zajęć: 4/8\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T080000
 DTEND:20250423T093500
 SUMMARY:Zt (w)
 LOCATION:308 S
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Tomasz Malinowski
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T095000
 DTEND:20250423T112500
 SUMMARY:MeSK (w)
 LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 6/5\nProwadzący:  Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 6/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T114000
@@ -1058,35 +1058,35 @@ DTSTART:20250423T175000
 DTEND:20250423T192500
 SUMMARY:Pwst (P)
 LOCATION:09 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 4/6\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 4/6\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T080000
 DTEND:20250424T093500
 SUMMARY:Zt (L)
 LOCATION:120 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T095000
 DTEND:20250424T112500
 SUMMARY:Zt (L)
 LOCATION:120 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T114000
 DTEND:20250424T131500
 SUMMARY:TeIP (L)
 LOCATION:121 65
-DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T133000
 DTEND:20250424T150500
 SUMMARY:TeIP (L)
 LOCATION:121 65
-DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T160000
@@ -1107,7 +1107,7 @@ DTSTART:20250428T080000
 DTEND:20250428T093500
 SUMMARY:Pwst (w)
 LOCATION:309 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 10/12\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 10/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T095000
@@ -1121,14 +1121,14 @@ DTSTART:20250428T114000
 DTEND:20250428T131500
 SUMMARY:Sss (w)
 LOCATION:203 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T133000
 DTEND:20250428T150500
 SUMMARY:Sss (w)
 LOCATION:203 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T080000
@@ -1142,21 +1142,21 @@ DTSTART:20250429T114000
 DTEND:20250429T131500
 SUMMARY:MeSK (L)
 LOCATION:233 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Stanisław Skrzypecki
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T160000
 DTEND:20250429T173500
 SUMMARY:ESI (w)
 LOCATION:203 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T095000
 DTEND:20250430T112500
 SUMMARY:TeIP (w)
 LOCATION:307 S
-DESCRIPTION:Telefonia IP\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Tomasz Malinowski
+DESCRIPTION:Telefonia IP\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T114000
@@ -1170,7 +1170,7 @@ DTSTART:20250430T133000
 DTEND:20250430T150500
 SUMMARY:Syt (w)
 LOCATION:101 65
-DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Systemy telemetryczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T160000
@@ -1184,7 +1184,7 @@ DTSTART:20250505T080000
 DTEND:20250505T093500
 SUMMARY:Pwst (w)
 LOCATION:309 S
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 11/12\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 11/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T095000
@@ -1198,14 +1198,14 @@ DTSTART:20250505T114000
 DTEND:20250505T131500
 SUMMARY:Sss (w)
 LOCATION:203 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T133000
 DTEND:20250505T150500
 SUMMARY:Sss (w)
 LOCATION:203 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T080000
@@ -1219,35 +1219,35 @@ DTSTART:20250506T095000
 DTEND:20250506T112500
 SUMMARY:TeIP (L)
 LOCATION:121 65
-DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T114000
 DTEND:20250506T131500
 SUMMARY:TeIP (L)
 LOCATION:121 65
-DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T133000
 DTEND:20250506T150500
 SUMMARY:TeIP (L)
 LOCATION:121 65
-DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T160000
 DTEND:20250506T173500
 SUMMARY:Pwst (L)
 LOCATION:106 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T175000
 DTEND:20250506T192500
 SUMMARY:Pwst (L)
 LOCATION:106 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T095000
@@ -1303,21 +1303,21 @@ DTSTART:20250508T133000
 DTEND:20250508T150500
 SUMMARY:ESI (w)
 LOCATION:203 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T160000
 DTEND:20250508T173500
 SUMMARY:Pwst (L)
 LOCATION:120 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T175000
 DTEND:20250508T192500
 SUMMARY:Pwst (L)
 LOCATION:120 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T114000
@@ -1345,7 +1345,7 @@ DTSTART:20250512T095000
 DTEND:20250512T112500
 SUMMARY:dsk (L)
 LOCATION:011 65
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący:  Michał Melaniuk
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T114000
@@ -1366,14 +1366,14 @@ DTSTART:20250512T160000
 DTEND:20250512T173500
 SUMMARY:MeSK (L)
 LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Michał Dyk
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr inż. Michał Dyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T175000
 DTEND:20250512T192500
 SUMMARY:MeSK (L)
 LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Michał Dyk
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: dr inż. Michał Dyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T080000
@@ -1408,14 +1408,14 @@ DTSTART:20250513T175000
 DTEND:20250513T192500
 SUMMARY:Pwst (P)
 LOCATION:218 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 5/6\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 5/6\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T095000
 DTEND:20250514T112500
 SUMMARY:MeSK (w)
 LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 7/5\nProwadzący:  Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 7/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T114000
@@ -1429,14 +1429,14 @@ DTSTART:20250514T133000
 DTEND:20250514T150500
 SUMMARY:dsk (P)
 LOCATION:120 65
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNr zajęć: 5/8\nProwadzący:  Michał Melaniuk
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNr zajęć: 5/8\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T160000
 DTEND:20250514T173500
 SUMMARY:dsk (P)
 LOCATION:120 65
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNr zajęć: 6/8\nProwadzący:  Michał Melaniuk
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNr zajęć: 6/8\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T095000
@@ -1464,7 +1464,7 @@ DTSTART:20250515T160000
 DTEND:20250515T173500
 SUMMARY:Pwst (P)
 LOCATION:121 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 6/6\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 6/6\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T080000
@@ -1478,7 +1478,7 @@ DTSTART:20250516T095000
 DTEND:20250516T112500
 SUMMARY:Zt (P)
 LOCATION:201 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 1/5\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 1/5\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T114000
@@ -1527,7 +1527,7 @@ DTSTART:20250520T114000
 DTEND:20250520T131500
 SUMMARY:Sss (w)
 LOCATION:203 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T160000
@@ -1583,14 +1583,14 @@ DTSTART:20250522T114000
 DTEND:20250522T131500
 SUMMARY:Zt (L)
 LOCATION:120 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T133000
 DTEND:20250522T150500
 SUMMARY:Zt (L)
 LOCATION:120 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T080000
@@ -1618,14 +1618,14 @@ DTSTART:20250523T160000
 DTEND:20250523T173500
 SUMMARY:MeSK (L)
 LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Michał Dyk
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr inż. Michał Dyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T175000
 DTEND:20250523T192500
 SUMMARY:MeSK (L)
 LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Michał Dyk
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: dr inż. Michał Dyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T095000
@@ -1646,21 +1646,21 @@ DTSTART:20250527T095000
 DTEND:20250527T112500
 SUMMARY:TeIP (L)
 LOCATION:121 65
-DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T114000
 DTEND:20250527T131500
 SUMMARY:TeIP (L)
 LOCATION:121 65
-DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T133000
 DTEND:20250527T150500
 SUMMARY:TeIP (L)
 LOCATION:121 65
-DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T160000
@@ -1674,7 +1674,7 @@ DTSTART:20250528T095000
 DTEND:20250528T112500
 SUMMARY:MeSK (w)
 LOCATION:314 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 8/5\nProwadzący:  Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 8/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T114000
@@ -1702,14 +1702,14 @@ DTSTART:20250529T114000
 DTEND:20250529T131500
 SUMMARY:Zt (P)
 LOCATION:120 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 2/5\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 2/5\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T133000
 DTEND:20250529T150500
 SUMMARY:Zt (P)
 LOCATION:120 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 3/5\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 3/5\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T160000
@@ -1737,7 +1737,7 @@ DTSTART:20250530T133000
 DTEND:20250530T150500
 SUMMARY:dsk (L)
 LOCATION:219 65
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący:  Michał Melaniuk
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250531T095000
@@ -1765,28 +1765,28 @@ DTSTART:20250602T114000
 DTEND:20250602T131500
 SUMMARY:Zt (L)
 LOCATION:120 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T133000
 DTEND:20250602T150500
 SUMMARY:Zt (L)
 LOCATION:120 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T160000
 DTEND:20250602T173500
 SUMMARY:MeSK (L)
 LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Michał Dyk
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr inż. Michał Dyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T175000
 DTEND:20250602T192500
 SUMMARY:MeSK (L)
 LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/10\nProwadzący:  Michał Dyk
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/10\nProwadzący: dr inż. Michał Dyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T080000
@@ -1821,14 +1821,14 @@ DTSTART:20250603T160000
 DTEND:20250603T173500
 SUMMARY:Pwst (L)
 LOCATION:120 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T175000
 DTEND:20250603T192500
 SUMMARY:Pwst (L)
 LOCATION:120 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T095000
@@ -1842,14 +1842,14 @@ DTSTART:20250605T114000
 DTEND:20250605T131500
 SUMMARY:Zt (P)
 LOCATION:120 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 4/5\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 4/5\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T133000
 DTEND:20250605T150500
 SUMMARY:Zt (P)
 LOCATION:120 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 5/5\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 5/5\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T160000
@@ -1870,7 +1870,7 @@ DTSTART:20250606T095000
 DTEND:20250606T112500
 SUMMARY:dsk (L)
 LOCATION:011 65
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący:  Michał Melaniuk
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T114000
@@ -1884,14 +1884,14 @@ DTSTART:20250606T160000
 DTEND:20250606T173500
 SUMMARY:Pwst (L)
 LOCATION:125 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/12\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T175000
 DTEND:20250606T192500
 SUMMARY:Pwst (L)
 LOCATION:125 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250607T095000
@@ -1905,35 +1905,35 @@ DTSTART:20250609T080000
 DTEND:20250609T093500
 SUMMARY:ESI (w)
 LOCATION:239 S
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T114000
 DTEND:20250609T131500
 SUMMARY:Zt (L)
 LOCATION:120 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T133000
 DTEND:20250609T150500
 SUMMARY:Zt (L)
 LOCATION:120 65
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T160000
 DTEND:20250609T173500
 SUMMARY:MeSK (L)
 LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/10\nProwadzący:  Michał Dyk
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/10\nProwadzący: dr inż. Michał Dyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T175000
 DTEND:20250609T192500
 SUMMARY:MeSK (L)
 LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/10\nProwadzący:  Michał Dyk
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/10\nProwadzący: dr inż. Michał Dyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T080000
@@ -1968,7 +1968,7 @@ DTSTART:20250610T175000
 DTEND:20250610T192500
 SUMMARY:MeSK (L)
 LOCATION:224 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/10\nProwadzący:  Stanisław Skrzypecki
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/10\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T114000
@@ -1982,21 +1982,21 @@ DTSTART:20250611T133000
 DTEND:20250611T150500
 SUMMARY:dsk (P)
 LOCATION:101 65
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNr zajęć: 7/8\nProwadzący:  Michał Melaniuk
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNr zajęć: 7/8\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T160000
 DTEND:20250611T173500
 SUMMARY:dsk (P)
 LOCATION:101 65
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNr zajęć: 8/8\nProwadzący:  Michał Melaniuk
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć: Projekt\nNr zajęć: 8/8\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T080000
 DTEND:20250612T093500
 SUMMARY:Pwst (w)
 LOCATION:011 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 12/12\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 12/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T095000
@@ -2164,56 +2164,56 @@ DTSTART:20250623T080000
 DTEND:20250623T093500
 SUMMARY:Wpp (Inne)
 LOCATION:121 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 1/3\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 1/3\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T095000
 DTEND:20250623T112500
 SUMMARY:Wpp (Inne)
 LOCATION:121 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/3\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/3\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T114000
 DTEND:20250625T131500
 SUMMARY:Zt (E)
 LOCATION:316 S
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Tomasz Malinowski
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T133000
 DTEND:20250625T150500
 SUMMARY:Zt (E)
 LOCATION:316 S
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Tomasz Malinowski
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T080000
 DTEND:20250626T093500
 SUMMARY:Pwst (E)
 LOCATION:120 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T095000
 DTEND:20250626T112500
 SUMMARY:Pwst (E)
 LOCATION:120 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T095000
 DTEND:20250630T112500
 SUMMARY:MeSK (E)
 LOCATION:317 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T114000
 DTEND:20250630T131500
 SUMMARY:MeSK (E)
 LOCATION:317 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250702T095000
@@ -2227,21 +2227,21 @@ DTSTART:20250702T114000
 DTEND:20250702T131500
 SUMMARY:Wpp (Inne)
 LOCATION:121 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 3/3\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 3/3\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250709T114000
 DTEND:20250709T131500
 SUMMARY:Wpp (Inne)
 LOCATION:120 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 4/3\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 4/3\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T080000
 DTEND:20251001T093500
 SUMMARY:dsk (Inne)
 LOCATION:121 65
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Michał Melaniuk
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T095000
@@ -2276,14 +2276,14 @@ DTSTART:20251002T080000
 DTEND:20251002T093500
 SUMMARY:MeSK (Inne)
 LOCATION:313 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Andrzej Najgebauer
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T095000
 DTEND:20251002T112500
 SUMMARY:Zt (Inne)
 LOCATION:313 S
-DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Tomasz Malinowski
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T114000
@@ -2304,14 +2304,14 @@ DTSTART:20251003T080000
 DTEND:20251003T093500
 SUMMARY:Pwst (Inne)
 LOCATION:120 65
-DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T095000
 DTEND:20251003T112500
 SUMMARY:Wpp (Inne)
 LOCATION:121 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 5/3\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 5/3\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T095000
@@ -2332,28 +2332,28 @@ DTSTART:20251006T133000
 DTEND:20251006T150500
 SUMMARY:Swp (w)
 LOCATION:307 S
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T160000
 DTEND:20251006T173500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 1/22\nProwadzący:  Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 1/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T175000
 DTEND:20251006T192500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 2/22\nProwadzący:  Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 2/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T114000
 DTEND:20251007T131500
 SUMMARY:Scrz (w)
 LOCATION:317 S
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący:  Artur Arciuch
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T160000
@@ -2367,7 +2367,7 @@ DTSTART:20251007T175000
 DTEND:20251007T192500
 SUMMARY:Wpp (Inne)
 LOCATION:106 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 6/3\nProwadzący:  Adam Patkowski
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 6/3\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T080000
@@ -2437,14 +2437,14 @@ DTSTART:20251010T095000
 DTEND:20251010T112500
 SUMMARY:Sr (w)
 LOCATION:316 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący:  Łukasz Strzelecki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T160000
 DTEND:20251010T173500
 SUMMARY:MeSK (Inne)
 LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Michał Dyk
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr inż. Michał Dyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T095000
@@ -2465,28 +2465,28 @@ DTSTART:20251013T133000
 DTEND:20251013T150500
 SUMMARY:Swp (w)
 LOCATION:307 S
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T160000
 DTEND:20251013T173500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 3/22\nProwadzący:  Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 3/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T175000
 DTEND:20251013T192500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 4/22\nProwadzący:  Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 4/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T114000
 DTEND:20251014T131500
 SUMMARY:Scrz (w)
 LOCATION:316 S
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący:  Artur Arciuch
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T160000
@@ -2528,7 +2528,7 @@ DTSTART:20251016T114000
 DTEND:20251016T131500
 SUMMARY:Sr (w)
 LOCATION:316 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący:  Łukasz Strzelecki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T133000
@@ -2598,7 +2598,7 @@ DTSTART:20251020T095000
 DTEND:20251020T112500
 SUMMARY:dsk (Inne)
 LOCATION:120 65
-DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący:  Michał Melaniuk
+DESCRIPTION:Diagnostyka i wiarygodność SK\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T114000
@@ -2612,28 +2612,28 @@ DTSTART:20251020T133000
 DTEND:20251020T150500
 SUMMARY:Swp (w)
 LOCATION:307 S
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T160000
 DTEND:20251020T173500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 5/22\nProwadzący:  Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 5/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T175000
 DTEND:20251020T192500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 6/22\nProwadzący:  Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 6/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T095000
 DTEND:20251021T112500
 SUMMARY:Picz (w)
 LOCATION:203 65
-DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T160000
@@ -2661,14 +2661,14 @@ DTSTART:20251022T160000
 DTEND:20251022T173500
 SUMMARY:Sr (P)
 LOCATION:011 65
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Projekt\nNr zajęć: 1/5\nProwadzący:  Grzegorz Kropiewnicki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Projekt\nNr zajęć: 1/5\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T175000
 DTEND:20251022T192500
 SUMMARY:Sr (P)
 LOCATION:011 65
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Projekt\nNr zajęć: 2/5\nProwadzący:  Grzegorz Kropiewnicki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Projekt\nNr zajęć: 2/5\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T194000
@@ -2696,7 +2696,7 @@ DTSTART:20251023T114000
 DTEND:20251023T131500
 SUMMARY:Sr (w)
 LOCATION:316 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący:  Łukasz Strzelecki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T133000
@@ -2752,7 +2752,7 @@ DTSTART:20251027T095000
 DTEND:20251027T112500
 SUMMARY:Picz (w)
 LOCATION:203 65
-DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T114000
@@ -2766,7 +2766,7 @@ DTSTART:20251027T133000
 DTEND:20251027T150500
 SUMMARY:Swp (w)
 LOCATION:307 S
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T160000
@@ -2787,21 +2787,21 @@ DTSTART:20251028T095000
 DTEND:20251028T112500
 SUMMARY:Pmsk (P)
 LOCATION:106 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 7/22\nProwadzący:  Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 7/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T114000
 DTEND:20251028T131500
 SUMMARY:Pmsk (P)
 LOCATION:106 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 8/22\nProwadzący:  Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 8/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T133000
 DTEND:20251028T150500
 SUMMARY:Scrz (w)
 LOCATION:307 S
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący:  Artur Arciuch
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T160000
@@ -2829,7 +2829,7 @@ DTSTART:20251029T114000
 DTEND:20251029T131500
 SUMMARY:Swp (L)
 LOCATION:106 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T133000
@@ -2892,7 +2892,7 @@ DTSTART:20251031T095000
 DTEND:20251031T112500
 SUMMARY:Sme. (w)
 LOCATION:313 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Tadeusz Nowicki
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T114000
@@ -2913,14 +2913,14 @@ DTSTART:20251103T080000
 DTEND:20251103T093500
 SUMMARY:Swp (P)
 LOCATION:09 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 1/7\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 1/7\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T095000
 DTEND:20251103T112500
 SUMMARY:Swp (P)
 LOCATION:09 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 2/7\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 2/7\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T114000
@@ -2934,21 +2934,21 @@ DTSTART:20251103T133000
 DTEND:20251103T150500
 SUMMARY:Swp (w)
 LOCATION:307 S
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T095000
 DTEND:20251104T112500
 SUMMARY:Scrz (w)
 LOCATION:309 S
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący:  Artur Arciuch
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T114000
 DTEND:20251104T131500
 SUMMARY:Sme. (w)
 LOCATION:317 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Tadeusz Nowicki
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T133000
@@ -3011,7 +3011,7 @@ DTSTART:20251107T095000
 DTEND:20251107T112500
 SUMMARY:Sr (w)
 LOCATION:313 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący:  Łukasz Strzelecki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T160000
@@ -3039,7 +3039,7 @@ DTSTART:20251112T080000
 DTEND:20251112T093500
 SUMMARY:Swp (P)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 3/7\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 3/7\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T095000
@@ -3095,7 +3095,7 @@ DTSTART:20251113T114000
 DTEND:20251113T131500
 SUMMARY:Sr (w)
 LOCATION:316 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący:  Łukasz Strzelecki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T133000
@@ -3116,14 +3116,14 @@ DTSTART:20251114T095000
 DTEND:20251114T112500
 SUMMARY:Swp (w)
 LOCATION:313 S
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T114000
 DTEND:20251114T131500
 SUMMARY:Scrz (w)
 LOCATION:203 65
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNr zajęć: 5/4\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNr zajęć: 5/4\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T133000
@@ -3151,28 +3151,28 @@ DTSTART:20251117T175000
 DTEND:20251117T192500
 SUMMARY:Sme. (w)
 LOCATION:309 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Tadeusz Nowicki
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T095000
 DTEND:20251118T112500
 SUMMARY:Scrz (w)
 LOCATION:205 65
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T114000
 DTEND:20251118T131500
 SUMMARY:Sme. (w)
 LOCATION:317 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Tadeusz Nowicki
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T133000
 DTEND:20251118T150500
 SUMMARY:Sme. (w)
 LOCATION:317 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Tadeusz Nowicki
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T160000
@@ -3235,7 +3235,7 @@ DTSTART:20251120T114000
 DTEND:20251120T131500
 SUMMARY:Sr (w)
 LOCATION:313 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący:  Łukasz Strzelecki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T133000
@@ -3256,21 +3256,21 @@ DTSTART:20251121T095000
 DTEND:20251121T112500
 SUMMARY:Swp (w)
 LOCATION:313 S
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T114000
 DTEND:20251121T131500
 SUMMARY:Swp (L)
 LOCATION:121 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T133000
 DTEND:20251121T150500
 SUMMARY:Swp (L)
 LOCATION:121 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T095000
@@ -3305,42 +3305,42 @@ DTSTART:20251124T133000
 DTEND:20251124T150500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 9/22\nProwadzący:  Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 9/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T160000
 DTEND:20251124T173500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 10/22\nProwadzący:  Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 10/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T175000
 DTEND:20251124T192500
 SUMMARY:Sme. (w)
 LOCATION:309 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Tadeusz Nowicki
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T095000
 DTEND:20251125T112500
 SUMMARY:Scrz (w)
 LOCATION:205 65
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNr zajęć: 7/4\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNr zajęć: 7/4\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T114000
 DTEND:20251125T131500
 SUMMARY:Sme. (w)
 LOCATION:317 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Tadeusz Nowicki
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T133000
 DTEND:20251125T150500
 SUMMARY:Sme. (w)
 LOCATION:317 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Tadeusz Nowicki
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T160000
@@ -3361,21 +3361,21 @@ DTSTART:20251126T114000
 DTEND:20251126T131500
 SUMMARY:Scrz (L)
 LOCATION:09 65
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T133000
 DTEND:20251126T150500
 SUMMARY:Scrz (L)
 LOCATION:09 65
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T160000
 DTEND:20251126T173500
 SUMMARY:Sme. (ć)
 LOCATION:307 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący:  Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T194000
@@ -3403,7 +3403,7 @@ DTSTART:20251127T114000
 DTEND:20251127T131500
 SUMMARY:Sr (w)
 LOCATION:316 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący:  Łukasz Strzelecki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T133000
@@ -3445,7 +3445,7 @@ DTSTART:20251201T095000
 DTEND:20251201T112500
 SUMMARY:Picz (w)
 LOCATION:203 65
-DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T114000
@@ -3459,21 +3459,21 @@ DTSTART:20251201T133000
 DTEND:20251201T150500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 11/22\nProwadzący:  Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 11/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T160000
 DTEND:20251201T173500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 12/22\nProwadzący:  Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 12/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T080000
 DTEND:20251202T093500
 SUMMARY:Sme. (ć)
 LOCATION:309 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący:  Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T095000
@@ -3487,14 +3487,14 @@ DTSTART:20251202T114000
 DTEND:20251202T131500
 SUMMARY:Scrz (L)
 LOCATION:09 65
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T133000
 DTEND:20251202T150500
 SUMMARY:Scrz (L)
 LOCATION:09 65
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T160000
@@ -3550,21 +3550,21 @@ DTSTART:20251204T080000
 DTEND:20251204T093500
 SUMMARY:Swp (P)
 LOCATION:09 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 4/7\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 4/7\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T095000
 DTEND:20251204T112500
 SUMMARY:Swp (P)
 LOCATION:09 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 5/7\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 5/7\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T114000
 DTEND:20251204T131500
 SUMMARY:Sr (w)
 LOCATION:317 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący:  Łukasz Strzelecki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T133000
@@ -3585,7 +3585,7 @@ DTSTART:20251205T095000
 DTEND:20251205T112500
 SUMMARY:Swp (w)
 LOCATION:313 S
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T095000
@@ -3599,7 +3599,7 @@ DTSTART:20251208T095000
 DTEND:20251208T112500
 SUMMARY:Picz (w)
 LOCATION:203 65
-DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T114000
@@ -3613,14 +3613,14 @@ DTSTART:20251208T133000
 DTEND:20251208T150500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 13/22\nProwadzący:  Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 13/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T160000
 DTEND:20251208T173500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 14/22\nProwadzący:  Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 14/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T175000
@@ -3634,21 +3634,21 @@ DTSTART:20251209T095000
 DTEND:20251209T112500
 SUMMARY:Sme. (ć)
 LOCATION:313 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący:  Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T114000
 DTEND:20251209T131500
 SUMMARY:Scrz (L)
 LOCATION:120 65
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/4\nProwadzący:  Artur Arciuch
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T133000
 DTEND:20251209T150500
 SUMMARY:Scrz (L)
 LOCATION:120 65
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/4\nProwadzący:  Artur Arciuch
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T160000
@@ -3683,7 +3683,7 @@ DTSTART:20251211T114000
 DTEND:20251211T131500
 SUMMARY:Sr (w)
 LOCATION:316 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący:  Łukasz Strzelecki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T133000
@@ -3711,7 +3711,7 @@ DTSTART:20251215T095000
 DTEND:20251215T112500
 SUMMARY:Picz (w)
 LOCATION:203 65
-DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T114000
@@ -3725,14 +3725,14 @@ DTSTART:20251215T133000
 DTEND:20251215T150500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 15/22\nProwadzący:  Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 15/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T160000
 DTEND:20251215T173500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 16/22\nProwadzący:  Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 16/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T080000
@@ -3753,14 +3753,14 @@ DTSTART:20251216T114000
 DTEND:20251216T131500
 SUMMARY:Scrz (L)
 LOCATION:120 65
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/4\nProwadzący:  Artur Arciuch
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T133000
 DTEND:20251216T150500
 SUMMARY:Scrz (L)
 LOCATION:120 65
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/4\nProwadzący:  Artur Arciuch
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/4\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T160000
@@ -3816,7 +3816,7 @@ DTSTART:20251218T114000
 DTEND:20251218T131500
 SUMMARY:Sr (w)
 LOCATION:316 S
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Łukasz Strzelecki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T133000
@@ -3865,7 +3865,7 @@ DTSTART:20260107T133000
 DTEND:20260107T150500
 SUMMARY:Sme. (ć)
 LOCATION:309 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący:  Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T160000
@@ -3900,7 +3900,7 @@ DTSTART:20260108T175000
 DTEND:20260108T192500
 SUMMARY:Sr (P)
 LOCATION:011 65
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Projekt\nNr zajęć: 3/5\nProwadzący:  Grzegorz Kropiewnicki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Projekt\nNr zajęć: 3/5\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T080000
@@ -3942,14 +3942,14 @@ DTSTART:20260112T080000
 DTEND:20260112T093500
 SUMMARY:Sme. (ć)
 LOCATION:308 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący:  Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T095000
 DTEND:20260112T112500
 SUMMARY:Picz (w)
 LOCATION:203 65
-DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T114000
@@ -3963,14 +3963,14 @@ DTSTART:20260112T160000
 DTEND:20260112T173500
 SUMMARY:Swp (L)
 LOCATION:09 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T175000
 DTEND:20260112T192500
 SUMMARY:Swp (L)
 LOCATION:09 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T080000
@@ -4047,14 +4047,14 @@ DTSTART:20260115T080000
 DTEND:20260115T093500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 17/22\nProwadzący:  Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 17/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T095000
 DTEND:20260115T112500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 18/22\nProwadzący:  Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 18/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T133000
@@ -4068,14 +4068,14 @@ DTSTART:20260115T160000
 DTEND:20260115T173500
 SUMMARY:Sr (P)
 LOCATION:011 65
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Projekt\nNr zajęć: 4/5\nProwadzący:  Grzegorz Kropiewnicki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Projekt\nNr zajęć: 4/5\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T175000
 DTEND:20260115T192500
 SUMMARY:Sr (P)
 LOCATION:011 65
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Projekt\nNr zajęć: 5/5\nProwadzący:  Grzegorz Kropiewnicki
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Projekt\nNr zajęć: 5/5\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T080000
@@ -4117,14 +4117,14 @@ DTSTART:20260119T080000
 DTEND:20260119T093500
 SUMMARY:Sme. (ć)
 LOCATION:308 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący:  Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T095000
 DTEND:20260119T112500
 SUMMARY:Picz (w)
 LOCATION:203 65
-DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T114000
@@ -4138,14 +4138,14 @@ DTSTART:20260120T080000
 DTEND:20260120T093500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 19/22\nProwadzący:  Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 19/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T095000
 DTEND:20260120T112500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 20/22\nProwadzący:  Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 20/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T114000
@@ -4208,14 +4208,14 @@ DTSTART:20260122T080000
 DTEND:20260122T093500
 SUMMARY:Swp (P)
 LOCATION:106 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 6/7\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 6/7\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T095000
 DTEND:20260122T112500
 SUMMARY:Swp (P)
 LOCATION:106 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 7/7\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 7/7\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T133000
@@ -4257,14 +4257,14 @@ DTSTART:20260126T080000
 DTEND:20260126T093500
 SUMMARY:Sme. (ć)
 LOCATION:308 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący:  Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T095000
 DTEND:20260126T112500
 SUMMARY:Picz (w)
 LOCATION:203 65
-DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Tomasz Pałys
+DESCRIPTION:Projektowanie interfejsu człowiek-komputer\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T114000
@@ -4292,28 +4292,28 @@ DTSTART:20260127T080000
 DTEND:20260127T093500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 21/22\nProwadzący:  Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 21/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T095000
 DTEND:20260127T112500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 22/22\nProwadzący:  Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 22/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T114000
 DTEND:20260127T131500
 SUMMARY:Swp (L)
 LOCATION:106 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T133000
 DTEND:20260127T150500
 SUMMARY:Swp (L)
 LOCATION:106 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T160000

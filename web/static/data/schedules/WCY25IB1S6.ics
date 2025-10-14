@@ -64,14 +64,14 @@ DTSTART:20250318T095000
 DTEND:20250318T112500
 SUMMARY:DSiSM (w)
 LOCATION:38 75
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: -
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T114000
 DTEND:20250318T131500
 SUMMARY:OPBMR (w)
 LOCATION:1 55A
-DESCRIPTION:Obrona przed bronią masowego rażenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: -
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T133000
@@ -99,7 +99,7 @@ DTSTART:20250319T114000
 DTEND:20250319T131500
 SUMMARY:TW (w)
 LOCATION:114 57
-DESCRIPTION:Topografia wojskowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: -
+DESCRIPTION:Topografia wojskowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T133000
@@ -120,14 +120,14 @@ DTSTART:20250320T080000
 DTEND:20250320T093500
 SUMMARY:SBD (w)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T095000
 DTEND:20250320T112500
 SUMMARY:SO (w)
 LOCATION:204 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T114000
@@ -148,14 +148,14 @@ DTSTART:20250320T160000
 DTEND:20250320T173500
 SUMMARY:DSiSM (w)
 LOCATION:103 K
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: -
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T175000
 DTEND:20250320T192500
 SUMMARY:DSiSM (w)
 LOCATION:103 K
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T080000
@@ -218,7 +218,7 @@ DTSTART:20250324T133000
 DTEND:20250324T150500
 SUMMARY:Sck (w)
 LOCATION:204 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T160000
@@ -246,7 +246,7 @@ DTSTART:20250325T114000
 DTEND:20250325T131500
 SUMMARY:OPBMR (w)
 LOCATION:1 55A
-DESCRIPTION:Obrona przed bronią masowego rażenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: -
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T133000
@@ -260,14 +260,14 @@ DTSTART:20250326T080000
 DTEND:20250326T093500
 SUMMARY:SO (w)
 LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T095000
 DTEND:20250326T112500
 SUMMARY:SŁiŚD (w)
 LOCATION:2 45
-DESCRIPTION:System łączności i środki dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: -
+DESCRIPTION:System łączności i środki dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T114000
@@ -288,14 +288,14 @@ DTSTART:20250326T160000
 DTEND:20250326T173500
 SUMMARY:TW (w)
 LOCATION:114 57
-DESCRIPTION:Topografia wojskowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
+DESCRIPTION:Topografia wojskowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T114000
 DTEND:20250327T131500
 SUMMARY:Sck (w)
 LOCATION:101 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T133000
@@ -316,7 +316,7 @@ DTSTART:20250328T095000
 DTEND:20250328T112500
 SUMMARY:SO (w)
 LOCATION:204 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T114000
@@ -351,35 +351,35 @@ DTSTART:20250331T095000
 DTEND:20250331T112500
 SUMMARY:DSiSM (ć)
 LOCATION:118 45
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: -
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T114000
 DTEND:20250331T131500
 SUMMARY:Sck (w)
 LOCATION:101 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T133000
 DTEND:20250331T150500
 SUMMARY:TW (ć)
 LOCATION:114 57
-DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: -
+DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T160000
 DTEND:20250331T173500
 SUMMARY:TW (ć)
 LOCATION:114 57
-DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: -
+DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T175000
 DTEND:20250331T192500
 SUMMARY:SŁiŚD (w)
 LOCATION:118 45
-DESCRIPTION:System łączności i środki dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
+DESCRIPTION:System łączności i środki dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T080000
@@ -435,7 +435,7 @@ DTSTART:20250402T095000
 DTEND:20250402T112500
 SUMMARY:OPBMR (w)
 LOCATION:1 55A
-DESCRIPTION:Obrona przed bronią masowego rażenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T114000
@@ -484,7 +484,7 @@ DTSTART:20250403T114000
 DTEND:20250403T131500
 SUMMARY:OPBMR (ć)
 LOCATION:PĆT2
-DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: -
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T133000
@@ -498,21 +498,21 @@ DTSTART:20250403T160000
 DTEND:20250403T173500
 SUMMARY:SO (w)
 LOCATION:101 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T175000
 DTEND:20250403T192500
 SUMMARY:SBD (w)
 LOCATION:307 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T080000
 DTEND:20250404T093500
 SUMMARY:Sck (w)
 LOCATION:101 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T095000
@@ -526,14 +526,14 @@ DTSTART:20250404T133000
 DTEND:20250404T150500
 SUMMARY:TW (ć)
 LOCATION:118 57
-DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: -
+DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T160000
 DTEND:20250404T173500
 SUMMARY:TW (ć)
 LOCATION:118 57
-DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: -
+DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250405T080000
@@ -610,7 +610,7 @@ DTSTART:20250408T080000
 DTEND:20250408T093500
 SUMMARY:StS (w)
 LOCATION:201 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący:  Maciej Marczyk
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T095000
@@ -659,7 +659,7 @@ DTSTART:20250409T095000
 DTEND:20250409T112500
 SUMMARY:OPBMR (ć)
 LOCATION:PĆT2
-DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: -
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T114000
@@ -708,7 +708,7 @@ DTSTART:20250410T133000
 DTEND:20250410T150500
 SUMMARY:BwCP (w)
 LOCATION:317 S
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący:  Maciej Marczyk
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T160000
@@ -722,7 +722,7 @@ DTSTART:20250411T080000
 DTEND:20250411T093500
 SUMMARY:DSiSM (ć)
 LOCATION:-
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: -
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T095000
@@ -813,7 +813,7 @@ DTSTART:20250414T160000
 DTEND:20250414T173500
 SUMMARY:SO (w)
 LOCATION:101 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T175000
@@ -834,21 +834,21 @@ DTSTART:20250415T095000
 DTEND:20250415T112500
 SUMMARY:SŁiŚD (ć)
 LOCATION:6 47 5 47 23
-DESCRIPTION:System łączności i środki dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -
+DESCRIPTION:System łączności i środki dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T114000
 DTEND:20250415T131500
 SUMMARY:SŁiŚD (ć)
 LOCATION:6 47 5 47 23
-DESCRIPTION:System łączności i środki dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
+DESCRIPTION:System łączności i środki dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T133000
 DTEND:20250415T150500
 SUMMARY:SŁiŚD (ć)
 LOCATION:6 47 5 47 23
-DESCRIPTION:System łączności i środki dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
+DESCRIPTION:System łączności i środki dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T160000
@@ -939,7 +939,7 @@ DTSTART:20250417T175000
 DTEND:20250417T192500
 SUMMARY:SBD (w)
 LOCATION:307 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250418T080000
@@ -960,14 +960,14 @@ DTSTART:20250418T114000
 DTEND:20250418T131500
 SUMMARY:DSiSM (ć)
 LOCATION:PĆT3
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: -
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250418T133000
 DTEND:20250418T150500
 SUMMARY:OPBMR (ć)
 LOCATION:PĆT1
-DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: -
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250418T160000
@@ -1065,7 +1065,7 @@ DTSTART:20250423T080000
 DTEND:20250423T093500
 SUMMARY:SO (w)
 LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T095000
@@ -1142,7 +1142,7 @@ DTSTART:20250425T080000
 DTEND:20250425T093500
 SUMMARY:Sck (w)
 LOCATION:101 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250425T095000
@@ -1163,14 +1163,14 @@ DTSTART:20250425T133000
 DTEND:20250425T150500
 SUMMARY:SBD (w)
 LOCATION:307 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250425T160000
 DTEND:20250425T173500
 SUMMARY:SBD (w)
 LOCATION:307 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250426T095000
@@ -1198,7 +1198,7 @@ DTSTART:20250428T080000
 DTEND:20250428T093500
 SUMMARY:DSiSM (ć)
 LOCATION:PĆT3
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: -
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T095000
@@ -1247,14 +1247,14 @@ DTSTART:20250429T080000
 DTEND:20250429T093500
 SUMMARY:OPBMR (ć)
 LOCATION:PĆT2
-DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: -
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T095000
 DTEND:20250429T112500
 SUMMARY:OPBMR (ć)
 LOCATION:PĆT2
-DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: -
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T114000
@@ -1289,7 +1289,7 @@ DTSTART:20250430T095000
 DTEND:20250430T112500
 SUMMARY:DSiSM (ć)
 LOCATION:ST.nr 1(DS)
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: -
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T114000
@@ -1387,7 +1387,7 @@ DTSTART:20250507T080000
 DTEND:20250507T093500
 SUMMARY:DSiSM (ć)
 LOCATION:ST.nr 1(DS)
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: -
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T095000
@@ -1401,7 +1401,7 @@ DTSTART:20250507T114000
 DTEND:20250507T131500
 SUMMARY:Sck (w)
 LOCATION:101 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T133000
@@ -1422,7 +1422,7 @@ DTSTART:20250507T175000
 DTEND:20250507T192500
 SUMMARY:BwCP (ć)
 LOCATION:308 S
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący:  Leszek Kalman
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T080000
@@ -1450,14 +1450,14 @@ DTSTART:20250508T133000
 DTEND:20250508T150500
 SUMMARY:TW (ć)
 LOCATION:114 57
-DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: -
+DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T160000
 DTEND:20250508T173500
 SUMMARY:TW (ć)
 LOCATION:114 57
-DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: -
+DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T080000
@@ -1548,14 +1548,14 @@ DTSTART:20250513T095000
 DTEND:20250513T112500
 SUMMARY:BwCP (ć)
 LOCATION:308 S
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący:  Leszek Kalman
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T114000
 DTEND:20250513T131500
 SUMMARY:StS (w)
 LOCATION:307 S
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący:  Maciej Marczyk
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T133000
@@ -1590,7 +1590,7 @@ DTSTART:20250514T114000
 DTEND:20250514T131500
 SUMMARY:Sck (w)
 LOCATION:205 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T133000
@@ -1723,14 +1723,14 @@ DTSTART:20250517T114000
 DTEND:20250517T131500
 SUMMARY:TW (ć)
 LOCATION:114 57
-DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: -
+DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250517T133000
 DTEND:20250517T150500
 SUMMARY:TW (ć)
 LOCATION:114 57
-DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: -
+DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T080000
@@ -1751,42 +1751,42 @@ DTSTART:20250519T114000
 DTEND:20250519T131500
 SUMMARY:StS (L)
 LOCATION:106 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący:  Leszek Kalman
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T133000
 DTEND:20250519T150500
 SUMMARY:StS (L)
 LOCATION:106 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący:  Leszek Kalman
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T160000
 DTEND:20250519T173500
 SUMMARY:StS (L)
 LOCATION:106 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący:  Leszek Kalman
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T080000
 DTEND:20250520T093500
 SUMMARY:StS (w)
 LOCATION:101 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący:  Maciej Marczyk
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T160000
 DTEND:20250520T173500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T175000
 DTEND:20250520T192500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T080000
@@ -1821,35 +1821,35 @@ DTSTART:20250521T160000
 DTEND:20250521T173500
 SUMMARY:SBD (L)
 LOCATION:227 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T175000
 DTEND:20250521T192500
 SUMMARY:SBD (L)
 LOCATION:227 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T080000
 DTEND:20250522T093500
 SUMMARY:Sck (w)
 LOCATION:101 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T133000
 DTEND:20250522T150500
 SUMMARY:SO (w)
 LOCATION:101 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T160000
 DTEND:20250522T173500
 SUMMARY:SBD (L)
 LOCATION:226 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T175000
@@ -1905,14 +1905,14 @@ DTSTART:20250527T080000
 DTEND:20250527T093500
 SUMMARY:StS (L)
 LOCATION:106 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący:  Leszek Kalman
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T095000
 DTEND:20250527T112500
 SUMMARY:StS (L)
 LOCATION:106 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący:  Leszek Kalman
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T114000
@@ -1989,14 +1989,14 @@ DTSTART:20250529T080000
 DTEND:20250529T093500
 SUMMARY:SBD (L)
 LOCATION:226 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T095000
 DTEND:20250529T112500
 SUMMARY:SBD (L)
 LOCATION:226 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T114000
@@ -2038,14 +2038,14 @@ DTSTART:20250530T114000
 DTEND:20250530T131500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T133000
 DTEND:20250530T150500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/8\nProwadzący:  Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/8\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T160000
@@ -2475,6 +2475,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251212T095000
+DTEND:20251212T112500
+SUMMARY:DSiSM (w)
+LOCATION:aula/ 135
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251215T095000
 DTEND:20251215T112500
 SUMMARY:- (S.Sz.W.)
@@ -2594,6 +2601,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 20/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260109T080000
+DTEND:20260109T093500
+SUMMARY:SŁiŚD (w)
+LOCATION:315 S
+DESCRIPTION:System łączności i środki dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260109T095000
+DTEND:20260109T112500
+SUMMARY:DSiSM (w)
+LOCATION:0.24/ 135
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260112T133000
 DTEND:20260112T150500
 SUMMARY:WF (ć)
@@ -2601,11 +2622,25 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260114T114000
+DTEND:20260114T131500
+SUMMARY:DSiSM (ć)
+LOCATION:255 S
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260114T133000
 DTEND:20260114T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/18\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260115T080000
+DTEND:20260115T093500
+SUMMARY:SŁiŚD (w)
+LOCATION:315 S
+DESCRIPTION:System łączności i środki dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T133000
@@ -2685,6 +2720,27 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260205T114000
+DTEND:20260205T131500
+SUMMARY:TW (w)
+LOCATION:118 57
+DESCRIPTION:Topografia wojskowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260209T095000
+DTEND:20260209T112500
+SUMMARY:OPBMR (w)
+LOCATION:2 55A
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260209T114000
+DTEND:20260209T131500
+SUMMARY:TW (w)
+LOCATION:114 57
+DESCRIPTION:Topografia wojskowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260209T133000
 DTEND:20260209T150500
 SUMMARY:WF (ć)
@@ -2711,6 +2767,41 @@ DTEND:20260210T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 23/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260210T133000
+DTEND:20260210T150500
+SUMMARY:TW (ć)
+LOCATION:114 57
+DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/16\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260210T160000
+DTEND:20260210T173500
+SUMMARY:TW (ć)
+LOCATION:114 57
+DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/16\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260211T080000
+DTEND:20260211T093500
+SUMMARY:SŁiŚD (ć)
+LOCATION:24 47 23 47
+DESCRIPTION:System łączności i środki dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260211T095000
+DTEND:20260211T112500
+SUMMARY:SŁiŚD (ć)
+LOCATION:24 47 23 47
+DESCRIPTION:System łączności i środki dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260211T114000
+DTEND:20260211T131500
+SUMMARY:SŁiŚD (ć)
+LOCATION:24 47 23 47
+DESCRIPTION:System łączności i środki dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260211T133000
@@ -2767,6 +2858,27 @@ DTEND:20260225T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/18\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T114000
+DTEND:20260304T131500
+SUMMARY:OPBMR (w)
+LOCATION:2 55A
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260305T114000
+DTEND:20260305T131500
+SUMMARY:TW (ć)
+LOCATION:14 57
+DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/16\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260305T133000
+DTEND:20260305T150500
+SUMMARY:TW (ć)
+LOCATION:14 57
+DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T080000
@@ -2839,6 +2951,13 @@ LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260317T114000
+DTEND:20260317T131500
+SUMMARY:OPBMR (w)
+LOCATION:2 55A
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260318T080000
 DTEND:20260318T093500
 SUMMARY:SzS (ć)
@@ -2860,6 +2979,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 25/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260318T133000
+DTEND:20260318T150500
+SUMMARY:TW (ć)
+LOCATION:14 57
+DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/16\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T160000
+DTEND:20260318T173500
+SUMMARY:TW (ć)
+LOCATION:14 57
+DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/16\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260325T080000
 DTEND:20260325T093500
 SUMMARY:SzS (ć)
@@ -2879,6 +3012,20 @@ DTEND:20260325T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 26/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T133000
+DTEND:20260325T150500
+SUMMARY:TW (ć)
+LOCATION:114 57
+DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/16\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T160000
+DTEND:20260325T173500
+SUMMARY:TW (ć)
+LOCATION:114 57
+DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260403T080000
@@ -3000,6 +3147,34 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 56/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260407T080000
+DTEND:20260407T093500
+SUMMARY:OPBMR (ć)
+LOCATION:PĆT3
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260407T095000
+DTEND:20260407T112500
+SUMMARY:OPBMR (ć)
+LOCATION:PĆT3
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260407T114000
+DTEND:20260407T131500
+SUMMARY:OPBMR (ć)
+LOCATION:PĆT3
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260407T133000
+DTEND:20260407T150500
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 28/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260408T133000
 DTEND:20260408T150500
 SUMMARY:SzS (ć)
@@ -3018,7 +3193,28 @@ DTSTART:20260408T175000
 DTEND:20260408T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 28/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 29/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T080000
+DTEND:20260415T093500
+SUMMARY:OPBMR (ć)
+LOCATION:PĆT4
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T095000
+DTEND:20260415T112500
+SUMMARY:OPBMR (ć)
+LOCATION:PĆT4
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T114000
+DTEND:20260415T131500
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 30/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T133000
