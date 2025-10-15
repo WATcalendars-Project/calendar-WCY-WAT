@@ -480,20 +480,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 35/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251019T160000
-DTEND:20251019T173500
-SUMMARY:XWDM (w)
-LOCATION:5/ 20
-DESCRIPTION:XWprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251019T175000
-DTEND:20251019T192500
-SUMMARY:XWDM (w)
-LOCATION:5/ 20
-DESCRIPTION:XWprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251020T080000
 DTEND:20251020T093500
 SUMMARY:Sck (w)
@@ -652,14 +638,14 @@ DTSTART:20251026T160000
 DTEND:20251026T173500
 SUMMARY:XWDM (w)
 LOCATION:5/ 20
-DESCRIPTION:XWprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
+DESCRIPTION:XWprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251026T175000
 DTEND:20251026T192500
-SUMMARY:XWDM (ć)
+SUMMARY:XWDM (w)
 LOCATION:5/ 20
-DESCRIPTION:XWprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
+DESCRIPTION:XWprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T080000
@@ -1259,9 +1245,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251116T160000
 DTEND:20251116T173500
+SUMMARY:XWDM (w)
+LOCATION:5/ 20
+DESCRIPTION:XWprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251116T175000
+DTEND:20251116T192500
 SUMMARY:XWDM (ć)
 LOCATION:5/ 20
-DESCRIPTION:XWprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -
+DESCRIPTION:XWprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T080000
@@ -1633,6 +1626,13 @@ DTEND:20251128T211500
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 99/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251130T160000
+DTEND:20251130T173500
+SUMMARY:XWDM (ć)
+LOCATION:5/ 20
+DESCRIPTION:XWprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T133000

@@ -74,20 +74,6 @@ LOCATION:228 S
 DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251022T080000
-DTEND:20251022T093500
-SUMMARY:Mia (w)
-LOCATION:224 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Robert Waszkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251022T095000
-DTEND:20251022T112500
-SUMMARY:Mia (w)
-LOCATION:224 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Robert Waszkowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251023T080000
 DTEND:20251023T093500
 SUMMARY:Wmo (w)
@@ -193,20 +179,6 @@ LOCATION:228 S
 DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251105T080000
-DTEND:20251105T093500
-SUMMARY:Mia (w)
-LOCATION:224 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Robert Waszkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251105T095000
-DTEND:20251105T112500
-SUMMARY:Mia (w)
-LOCATION:224 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Robert Waszkowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251105T114000
 DTEND:20251105T131500
 SUMMARY:Mzw (w)
@@ -240,20 +212,6 @@ DTEND:20251106T131500
 SUMMARY:BSI (w)
 LOCATION:224 S
 DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Piotr Górny
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251112T080000
-DTEND:20251112T093500
-SUMMARY:Mia (P)
-LOCATION:224 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 3/8\nProwadzący: dr inż. Robert Waszkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251112T095000
-DTEND:20251112T112500
-SUMMARY:Mia (P)
-LOCATION:224 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 4/8\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T114000
@@ -330,14 +288,14 @@ DTSTART:20251119T080000
 DTEND:20251119T093500
 SUMMARY:Mia (w)
 LOCATION:224 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T095000
 DTEND:20251119T112500
 SUMMARY:Mia (w)
 LOCATION:224 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T114000
@@ -414,14 +372,14 @@ DTSTART:20251126T080000
 DTEND:20251126T093500
 SUMMARY:Mia (P)
 LOCATION:224 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 5/8\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 3/8\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T095000
 DTEND:20251126T112500
 SUMMARY:Mia (P)
 LOCATION:224 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 6/8\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 4/8\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T114000
@@ -450,6 +408,20 @@ DTEND:20251127T131500
 SUMMARY:BSI (L)
 LOCATION:224 S
 DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: dr inż. Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251201T160000
+DTEND:20251201T173500
+SUMMARY:Mia (P)
+LOCATION:226 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 5/8\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251201T175000
+DTEND:20251201T192500
+SUMMARY:Mia (P)
+LOCATION:226 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 6/8\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T080000
@@ -484,7 +456,7 @@ DTSTART:20251203T080000
 DTEND:20251203T093500
 SUMMARY:Mia (w)
 LOCATION:224 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T095000
@@ -557,6 +529,13 @@ LOCATION:224 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251210T080000
+DTEND:20251210T093500
+SUMMARY:Mia (w)
+LOCATION:224 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251210T095000
 DTEND:20251210T112500
 SUMMARY:Mzw (L)
@@ -599,6 +578,13 @@ LOCATION:227 S
 DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251211T133000
+DTEND:20251211T150500
+SUMMARY:Mia (w)
+LOCATION:226 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251216T080000
 DTEND:20251216T093500
 SUMMARY:No (L)
@@ -627,6 +613,13 @@ LOCATION:224 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący: dr inż. Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251217T080000
+DTEND:20251217T093500
+SUMMARY:Mia (w)
+LOCATION:224 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251217T095000
 DTEND:20251217T112500
 SUMMARY:Mzw (L)
@@ -653,6 +646,13 @@ DTEND:20251218T112500
 SUMMARY:BSI (w)
 LOCATION:224 S
 DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr inż. Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251218T114000
+DTEND:20251218T131500
+SUMMARY:Mia (w)
+LOCATION:226 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T080000

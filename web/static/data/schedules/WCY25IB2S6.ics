@@ -148,7 +148,7 @@ DTSTART:20251212T095000
 DTEND:20251212T112500
 SUMMARY:DSiSM (w)
 LOCATION:aula/ 135
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: -
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T095000
@@ -184,6 +184,13 @@ DTEND:20251217T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/17\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251219T114000
+DTEND:20251219T131500
+SUMMARY:PD (w)
+LOCATION:AW 3/043
+DESCRIPTION:Podstawy dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251229T080000
@@ -281,7 +288,14 @@ DTSTART:20260109T095000
 DTEND:20260109T112500
 SUMMARY:DSiSM (w)
 LOCATION:0.24/ 135
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260109T114000
+DTEND:20260109T131500
+SUMMARY:PD (w)
+LOCATION:AW 1
+DESCRIPTION:Podstawy dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T133000
@@ -295,7 +309,7 @@ DTSTART:20260114T114000
 DTEND:20260114T131500
 SUMMARY:DSiSM (ć)
 LOCATION:255 S
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T133000
@@ -310,6 +324,13 @@ DTEND:20260115T093500
 SUMMARY:SŁiŚD (w)
 LOCATION:315 S
 DESCRIPTION:System łączności i środki dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260116T080000
+DTEND:20260116T093500
+SUMMARY:PD (w)
+LOCATION:103 K
+DESCRIPTION:Podstawy dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T133000
@@ -340,6 +361,34 @@ LOCATION:AW 4
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260122T133000
+DTEND:20260122T150500
+SUMMARY:DSiSM (w)
+LOCATION:AW 3/043
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260123T080000
+DTEND:20260123T093500
+SUMMARY:PD (ć)
+LOCATION:AW 7
+DESCRIPTION:Podstawy dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260123T095000
+DTEND:20260123T112500
+SUMMARY:PD (ć)
+LOCATION:AW 7
+DESCRIPTION:Podstawy dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260126T114000
+DTEND:20260126T131500
+SUMMARY:DSiSM (w)
+LOCATION:103 K
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260126T133000
 DTEND:20260126T150500
 SUMMARY:WF (ć)
@@ -354,11 +403,18 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/17\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260202T095000
-DTEND:20260202T112500
+DTSTART:20260202T080000
+DTEND:20260202T093500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 8/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260202T095000
+DTEND:20260202T112500
+SUMMARY:DSiSM (ć)
+LOCATION:PĆT1
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260202T114000
@@ -480,6 +536,20 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/17\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260212T114000
+DTEND:20260212T131500
+SUMMARY:PD (ć)
+LOCATION:AW 3/038
+DESCRIPTION:Podstawy dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260212T133000
+DTEND:20260212T150500
+SUMMARY:PD (ć)
+LOCATION:AW 3/038
+DESCRIPTION:Podstawy dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260216T080000
 DTEND:20260216T093500
 SUMMARY:ZaMe (ć)
@@ -515,6 +585,41 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/17\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260219T080000
+DTEND:20260219T093500
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 11/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T095000
+DTEND:20260219T112500
+SUMMARY:DSiSM (ć)
+LOCATION:PĆT1
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T114000
+DTEND:20260219T131500
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 12/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T080000
+DTEND:20260220T093500
+SUMMARY:PD (ć)
+LOCATION:BIBL /22
+DESCRIPTION:Podstawy dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T095000
+DTEND:20260220T112500
+SUMMARY:PD (ć)
+LOCATION:BIBL /22
+DESCRIPTION:Podstawy dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260223T133000
 DTEND:20260223T150500
 SUMMARY:WF (ć)
@@ -529,11 +634,32 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/17\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260304T080000
+DTEND:20260304T093500
+SUMMARY:DSiSM (ć)
+LOCATION:PĆT1
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T095000
+DTEND:20260304T112500
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 13/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260304T114000
 DTEND:20260304T131500
 SUMMARY:OPBMR (w)
 LOCATION:2 55A
 DESCRIPTION:Obrona przed bronią masowego rażenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260305T095000
+DTEND:20260305T112500
+SUMMARY:PD (Inne)
+LOCATION:BIBL /22
+DESCRIPTION:Podstawy dowodzenia - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T114000
@@ -566,9 +692,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T114000
 DTEND:20260311T131500
+SUMMARY:DSiSM (ć)
+LOCATION:ST.nr 1(DS)
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260311T133000
+DTEND:20260311T150500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 11/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 14/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T080000
@@ -645,7 +778,7 @@ DTSTART:20260318T114000
 DTEND:20260318T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 12/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T133000
@@ -662,25 +795,32 @@ LOCATION:14 57
 DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260325T080000
-DTEND:20260325T093500
+DTSTART:20260324T080000
+DTEND:20260324T093500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(PW)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/21\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260325T095000
-DTEND:20260325T112500
+DTSTART:20260324T095000
+DTEND:20260324T112500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(PW)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/21\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260325T114000
-DTEND:20260325T131500
+DTSTART:20260324T114000
+DTEND:20260324T131500
+SUMMARY:DSiSM (ć)
+LOCATION:ST.nr 1(DS)
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T133000
+DTEND:20260324T150500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 13/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 16/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T133000
@@ -715,7 +855,7 @@ DTSTART:20260403T114000
 DTEND:20260403T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 14/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 17/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260404T080000
@@ -841,7 +981,21 @@ DTSTART:20260407T133000
 DTEND:20260407T150500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 18/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T095000
+DTEND:20260408T112500
+SUMMARY:DSiSM (Inne)
+LOCATION:BIBL /22
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (repetytorium) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T114000
+DTEND:20260408T131500
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 19/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T133000
@@ -862,7 +1016,7 @@ DTSTART:20260408T175000
 DTEND:20260408T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 16/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 20/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T080000
@@ -883,7 +1037,7 @@ DTSTART:20260415T114000
 DTEND:20260415T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 17/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 21/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T133000

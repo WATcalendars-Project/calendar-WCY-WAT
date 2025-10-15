@@ -1891,7 +1891,7 @@ DTSTART:20250922T080000
 DTEND:20250922T093500
 SUMMARY:Amt (Inne)
 LOCATION:317 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Wojciech Zajączkowski
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Wojciech Zajączkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250922T095000
@@ -2396,6 +2396,13 @@ DTEND:20251029T093500
 SUMMARY:F2 (w)
 LOCATION:19 36
 DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251029T095000
+DTEND:20251029T112500
+SUMMARY:Amt (Inne)
+LOCATION:218 65
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Wojciech Zajączkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T133000

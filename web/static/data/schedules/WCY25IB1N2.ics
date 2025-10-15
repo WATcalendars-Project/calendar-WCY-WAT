@@ -130,13 +130,6 @@ LOCATION:313 S
 DESCRIPTION:Spotkanie informacyjne z kierownikiem Dziekanatu\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251018T095000
-DTEND:20251018T112500
-SUMMARY:Mia (w)
-LOCATION:307 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Robert Waszkowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251018T114000
 DTEND:20251018T131500
 SUMMARY:BSI (w)
@@ -225,7 +218,7 @@ DTSTART:20251026T095000
 DTEND:20251026T112500
 SUMMARY:Mia (w)
 LOCATION:309 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251026T114000
@@ -438,27 +431,6 @@ LOCATION:134 K
 DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251116T095000
-DTEND:20251116T112500
-SUMMARY:Mia (w)
-LOCATION:307 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Robert Waszkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251116T114000
-DTEND:20251116T131500
-SUMMARY:Mia (L)
-LOCATION:226 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: dr inż. Robert Waszkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251116T133000
-DTEND:20251116T150500
-SUMMARY:Mia (L)
-LOCATION:226 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: dr inż. Robert Waszkowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251116T160000
 DTEND:20251116T173500
 SUMMARY:Tal (w)
@@ -491,7 +463,7 @@ DTSTART:20251123T095000
 DTEND:20251123T112500
 SUMMARY:Mia (w)
 LOCATION:309 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251123T114000
@@ -662,6 +634,13 @@ LOCATION:224 S
 DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251207T160000
+DTEND:20251207T173500
+SUMMARY:Mia (w)
+LOCATION:309 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251213T080000
 DTEND:20251213T093500
 SUMMARY:Msk. (L)
@@ -729,14 +708,14 @@ DTSTART:20251220T095000
 DTEND:20251220T112500
 SUMMARY:Mia (L)
 LOCATION:226 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T114000
 DTEND:20251220T131500
 SUMMARY:Mia (L)
 LOCATION:226 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T133000
@@ -779,6 +758,27 @@ DTEND:20251221T131500
 SUMMARY:Tim (L)
 LOCATION:223 S
 DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: mgr inż. Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251221T133000
+DTEND:20251221T150500
+SUMMARY:Mia (L)
+LOCATION:224 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251221T160000
+DTEND:20251221T173500
+SUMMARY:Mia (L)
+LOCATION:224 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260110T080000
+DTEND:20260110T093500
+SUMMARY:Mia (w)
+LOCATION:309 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260110T095000
