@@ -4183,20 +4183,6 @@ LOCATION:106 65
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/24\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251029T114000
-DTEND:20251029T131500
-SUMMARY:PuEl (L)
-LOCATION:115 61
-DESCRIPTION:Prototypowanie układów elektronicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251029T133000
-DTEND:20251029T150500
-SUMMARY:PuEl (L)
-LOCATION:115 61
-DESCRIPTION:Prototypowanie układów elektronicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/12\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251029T160000
 DTEND:20251029T173500
 SUMMARY:Swb (L)
@@ -4348,14 +4334,14 @@ DTSTART:20251105T080000
 DTEND:20251105T093500
 SUMMARY:PuEl (L)
 LOCATION:115 61
-DESCRIPTION:Prototypowanie układów elektronicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/12\nProwadzący: -
+DESCRIPTION:Prototypowanie układów elektronicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T095000
 DTEND:20251105T112500
 SUMMARY:PuEl (L)
 LOCATION:115 61
-DESCRIPTION:Prototypowanie układów elektronicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący: -
+DESCRIPTION:Prototypowanie układów elektronicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T114000
@@ -4726,14 +4712,14 @@ DTSTART:20251120T114000
 DTEND:20251120T131500
 SUMMARY:PuEl (L)
 LOCATION:115 61
-DESCRIPTION:Prototypowanie układów elektronicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący: -
+DESCRIPTION:Prototypowanie układów elektronicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T133000
 DTEND:20251120T150500
 SUMMARY:PuEl (L)
 LOCATION:115 61
-DESCRIPTION:Prototypowanie układów elektronicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący: -
+DESCRIPTION:Prototypowanie układów elektronicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T080000
@@ -4986,6 +4972,20 @@ DTEND:20251201T150500
 SUMMARY:Popt (w)
 LOCATION:118 45
 DESCRIPTION:Podstawy optoelektroniki - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251201T160000
+DTEND:20251201T173500
+SUMMARY:PuEl (L)
+LOCATION:115 61
+DESCRIPTION:Prototypowanie układów elektronicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251201T175000
+DTEND:20251201T192500
+SUMMARY:PuEl (L)
+LOCATION:115 61
+DESCRIPTION:Prototypowanie układów elektronicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T114000

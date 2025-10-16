@@ -2990,7 +2990,7 @@ DTSTART:20251022T114000
 DTEND:20251022T131500
 SUMMARY:Sd. (Inne)
 LOCATION:6/ 23a
-DESCRIPTION:Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/9\nProwadzący: -
+DESCRIPTION:Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T114000
@@ -3214,14 +3214,14 @@ DTSTART:20251105T114000
 DTEND:20251105T131500
 SUMMARY:Sd. (Inne)
 LOCATION:6/ 23a
-DESCRIPTION:Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 2/9\nProwadzący: -
+DESCRIPTION:Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 2/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T133000
 DTEND:20251105T150500
 SUMMARY:Sd. (Inne)
 LOCATION:6/ 23a
-DESCRIPTION:Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 3/9\nProwadzący: -
+DESCRIPTION:Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 3/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T114000
@@ -3403,14 +3403,14 @@ DTSTART:20251112T080000
 DTEND:20251112T093500
 SUMMARY:Sd. (Inne)
 LOCATION:54/ 62
-DESCRIPTION:Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 4/9\nProwadzący: -
+DESCRIPTION:Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 4/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T095000
 DTEND:20251112T112500
 SUMMARY:Sd. (Inne)
 LOCATION:54/ 62
-DESCRIPTION:Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 5/9\nProwadzący: -
+DESCRIPTION:Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 5/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T114000
@@ -3515,14 +3515,14 @@ DTSTART:20251119T080000
 DTEND:20251119T093500
 SUMMARY:Sd. (Inne)
 LOCATION:54/ 62
-DESCRIPTION:Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 6/9\nProwadzący: -
+DESCRIPTION:Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 6/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T095000
 DTEND:20251119T112500
 SUMMARY:Sd. (Inne)
 LOCATION:54/ 62
-DESCRIPTION:Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 7/9\nProwadzący: -
+DESCRIPTION:Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 7/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T114000
@@ -3606,14 +3606,14 @@ DTSTART:20251126T080000
 DTEND:20251126T093500
 SUMMARY:Sd. (Inne)
 LOCATION:54/ 62
-DESCRIPTION:Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 8/9\nProwadzący: -
+DESCRIPTION:Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 8/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T095000
 DTEND:20251126T112500
 SUMMARY:Sd. (Inne)
 LOCATION:54/ 62
-DESCRIPTION:Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 9/9\nProwadzący: -
+DESCRIPTION:Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 9/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T114000
@@ -3719,6 +3719,13 @@ DTEND:20251203T112500
 SUMMARY:SNUB (L)
 LOCATION:53/ 62
 DESCRIPTION:Symulacja numeryczna układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251203T114000
+DTEND:20251203T131500
+SUMMARY:Sd. (Inne)
+LOCATION:55/ 62
+DESCRIPTION:Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T080000
@@ -3907,7 +3914,7 @@ DTSTART:20251217T080000
 DTEND:20251217T093500
 SUMMARY:Sd. (Inne)
 LOCATION:54/ 62
-DESCRIPTION:Seminarium dyplomowe - (Zp.Sem.) -\nRodzaj zajęć:  - \nNr zajęć: 10/9\nProwadzący: -
+DESCRIPTION:Seminarium dyplomowe - (Zp.Sem.) -\nRodzaj zajęć:  - \nNr zajęć: 11/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T133000

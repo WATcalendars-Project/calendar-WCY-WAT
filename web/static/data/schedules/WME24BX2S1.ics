@@ -5219,13 +5219,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 294/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260107T080000
-DTEND:20260107T093500
-SUMMARY:WdTB (Inne)
-LOCATION:13 71
-DESCRIPTION:Wprowadzenie do technik biomedycznych - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 5/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260107T095000
 DTEND:20260107T112500
 SUMMARY:F2 (w)
@@ -5321,7 +5314,7 @@ DTSTART:20260112T080000
 DTEND:20260112T093500
 SUMMARY:WdTB (Inne)
 LOCATION:27 70
-DESCRIPTION:Wprowadzenie do technik biomedycznych - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 6/6\nProwadzący: -
+DESCRIPTION:Wprowadzenie do technik biomedycznych - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 5/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T095000
@@ -5427,6 +5420,13 @@ DTEND:20260114T192500
 SUMMARY:WdTB (L)
 LOCATION:6 71
 DESCRIPTION:Wprowadzenie do technik biomedycznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/24\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260115T095000
+DTEND:20260115T112500
+SUMMARY:WdTB (Inne)
+LOCATION:13 71
+DESCRIPTION:Wprowadzenie do technik biomedycznych - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 6/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T114000

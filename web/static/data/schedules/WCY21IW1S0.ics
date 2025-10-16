@@ -2573,20 +2573,6 @@ LOCATION:316 S
 DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący:  Marcin Dąbkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251017T160000
-DTEND:20251017T173500
-SUMMARY:PsbI (P)
-LOCATION:09 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNr zajęć: 1/7\nProwadzący:  Łukasz Giro
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251017T175000
-DTEND:20251017T192500
-SUMMARY:PsbI (P)
-LOCATION:09 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNr zajęć: 2/7\nProwadzący:  Łukasz Giro
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251018T095000
 DTEND:20251018T112500
 SUMMARY:XWF (ć)
@@ -2970,6 +2956,20 @@ DTEND:20251105T112500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 44/70\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251105T160000
+DTEND:20251105T173500
+SUMMARY:PsbI (P)
+LOCATION:205 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNr zajęć: 1/7\nProwadzący:  Łukasz Giro
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251105T175000
+DTEND:20251105T192500
+SUMMARY:PsbI (P)
+LOCATION:205 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNr zajęć: 2/7\nProwadzący:  Łukasz Giro
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T194000

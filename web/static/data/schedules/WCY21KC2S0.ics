@@ -2384,13 +2384,6 @@ LOCATION:316 S
 DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr inż. Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251016T133000
-DTEND:20251016T150500
-SUMMARY:WF (ć)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 37/70\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251016T160000
 DTEND:20251016T173500
 SUMMARY:PsbI (w)
@@ -2458,7 +2451,7 @@ DTSTART:20251020T114000
 DTEND:20251020T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 38/70\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 37/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T080000
@@ -2514,7 +2507,7 @@ DTSTART:20251022T133000
 DTEND:20251022T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 39/70\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 38/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T194000
@@ -2549,7 +2542,7 @@ DTSTART:20251023T133000
 DTEND:20251023T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 40/70\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 39/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T160000
@@ -2612,7 +2605,7 @@ DTSTART:20251027T114000
 DTEND:20251027T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 41/70\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 40/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T080000
@@ -2647,7 +2640,7 @@ DTSTART:20251029T133000
 DTEND:20251029T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 42/70\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 41/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T194000
@@ -2675,7 +2668,7 @@ DTSTART:20251030T133000
 DTEND:20251030T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 43/70\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 42/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T160000
@@ -2697,6 +2690,13 @@ DTEND:20251031T093500
 SUMMARY:Ja (ć)
 LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 38/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251031T095000
+DTEND:20251031T112500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 43/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T114000
