@@ -746,13 +746,6 @@ LOCATION:307 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251016T160000
-DTEND:20251016T173500
-SUMMARY:F2 (L)
-LOCATION:142 S 139 S
-DESCRIPTION:Fizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251017T080000
 DTEND:20251017T093500
 SUMMARY:BD(pp) (w)
@@ -779,13 +772,6 @@ DTEND:20251017T211500
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251020T095000
-DTEND:20251020T112500
-SUMMARY:F2 (ć)
-LOCATION:201 65
-DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T114000
@@ -842,13 +828,6 @@ DTEND:20251024T093500
 SUMMARY:BD(pp) (w)
 LOCATION:307 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/4\nProwadzący: mgr inż. Józef Woźniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251027T095000
-DTEND:20251027T112500
-SUMMARY:F2 (ć)
-LOCATION:201 65
-DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T114000
@@ -933,20 +912,6 @@ DTEND:20251030T150500
 SUMMARY:Po (w)
 LOCATION:316 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251031T114000
-DTEND:20251031T131500
-SUMMARY:F2 (L)
-LOCATION:142 S 139 S
-DESCRIPTION:Fizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251103T095000
-DTEND:20251103T112500
-SUMMARY:F2 (ć)
-LOCATION:201 65
-DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T114000
@@ -1047,13 +1012,6 @@ LOCATION:307 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 6/13\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251117T095000
-DTEND:20251117T112500
-SUMMARY:F2 (ć)
-LOCATION:201 65
-DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251118T080000
 DTEND:20251118T093500
 SUMMARY:F2 (w)
@@ -1108,13 +1066,6 @@ DTEND:20251121T093500
 SUMMARY:Als (w)
 LOCATION:316 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący: dr hab. inż. Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251121T114000
-DTEND:20251121T131500
-SUMMARY:F2 (L)
-LOCATION:142 S 139 S
-DESCRIPTION:Fizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T080000
@@ -1208,13 +1159,6 @@ LOCATION:313 S
 DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251202T114000
-DTEND:20251202T131500
-SUMMARY:F2 (ć)
-LOCATION:201 65
-DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251202T133000
 DTEND:20251202T150500
 SUMMARY:Ja (ć)
@@ -1257,25 +1201,11 @@ LOCATION:317 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251208T133000
-DTEND:20251208T150500
-SUMMARY:F2 (L)
-LOCATION:139 S 142 S
-DESCRIPTION:Fizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251209T080000
 DTEND:20251209T093500
 SUMMARY:F2 (w)
 LOCATION:313 S
 DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 11/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251209T114000
-DTEND:20251209T131500
-SUMMARY:F2 (ć)
-LOCATION:201 65
-DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T133000
@@ -1311,13 +1241,6 @@ DTEND:20251211T093500
 SUMMARY:Aok (w)
 LOCATION:307 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr inż. Artur Arciuch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251215T095000
-DTEND:20251215T112500
-SUMMARY:F2 (ć)
-LOCATION:201 65
-DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T114000
@@ -1362,13 +1285,6 @@ LOCATION:313 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 12/13\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260112T114000
-DTEND:20260112T131500
-SUMMARY:F2 (ć)
-LOCATION:201 65
-DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260112T160000
 DTEND:20260112T173500
 SUMMARY:REZ (Inne)
@@ -1402,20 +1318,6 @@ DTEND:20260114T112500
 SUMMARY:SO (w)
 LOCATION:313 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 13/13\nProwadzący:  Zbigniew Zielinski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260116T114000
-DTEND:20260116T131500
-SUMMARY:F2 (L)
-LOCATION:139 S 142 S
-DESCRIPTION:Fizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260119T095000
-DTEND:20260119T112500
-SUMMARY:F2 (ć)
-LOCATION:201 65
-DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T080000
@@ -1472,13 +1374,6 @@ DTEND:20260127T093500
 SUMMARY:F2 (w)
 LOCATION:313 S
 DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 15/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260127T114000
-DTEND:20260127T131500
-SUMMARY:F2 (ć)
-LOCATION:201 65
-DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T133000

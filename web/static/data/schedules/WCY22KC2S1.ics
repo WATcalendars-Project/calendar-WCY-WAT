@@ -1432,6 +1432,13 @@ LOCATION:121 65
 DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/15\nProwadzący:  Szymon Chmielewski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251020T114000
+DTEND:20251020T131500
+SUMMARY:SzOR (Inne)
+LOCATION:085 S
+DESCRIPTION:Spotkanie organizacyjne z opiekunem roku\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: mgr inż. Alicja Kida
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251022T080000
 DTEND:20251022T093500
 SUMMARY:pzST (P)

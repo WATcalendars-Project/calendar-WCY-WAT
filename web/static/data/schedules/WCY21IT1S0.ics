@@ -2622,13 +2622,6 @@ LOCATION:313 S
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251017T114000
-DTEND:20251017T131500
-SUMMARY:ZBD (w)
-LOCATION:316 S
-DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący:  Marcin Dąbkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251018T095000
 DTEND:20251018T112500
 SUMMARY:XWF (ć)
@@ -2752,7 +2745,7 @@ DTSTART:20251024T114000
 DTEND:20251024T131500
 SUMMARY:ZBD (w)
 LOCATION:316 S
-DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący:  Marcin Dąbkiewicz
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący:  Marcin Dąbkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T095000
@@ -2920,7 +2913,7 @@ DTSTART:20251031T114000
 DTEND:20251031T131500
 SUMMARY:ZBD (w)
 LOCATION:316 S
-DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący:  Marcin Dąbkiewicz
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący:  Marcin Dąbkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T133000
@@ -3348,6 +3341,13 @@ DTEND:20251121T150500
 SUMMARY:Scrz (L)
 LOCATION:09 65
 DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący: dr inż. Tomasz Pałys
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251121T160000
+DTEND:20251121T173500
+SUMMARY:ZBD (w)
+LOCATION:316 S
+DESCRIPTION:Zarządzanie bazami danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący:  Marcin Dąbkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T095000

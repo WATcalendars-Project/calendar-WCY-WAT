@@ -67,6 +67,13 @@ LOCATION:309 S
 DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251021T095000
+DTEND:20251021T112500
+SUMMARY:BSI (w)
+LOCATION:223 S
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Piotr Górny
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251021T114000
 DTEND:20251021T131500
 SUMMARY:Mzw (w)
@@ -79,13 +86,6 @@ DTEND:20251023T093500
 SUMMARY:Wmo (w)
 LOCATION:252 S
 DESCRIPTION:Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251023T095000
-DTEND:20251023T112500
-SUMMARY:BSI (w)
-LOCATION:224 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T080000

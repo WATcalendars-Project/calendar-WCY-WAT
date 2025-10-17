@@ -3350,6 +3350,20 @@ LOCATION:205 65
 DESCRIPTION:Telerobotyka\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251120T114000
+DTEND:20251120T131500
+SUMMARY:Tro (L)
+LOCATION:218 65
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251120T133000
+DTEND:20251120T150500
+SUMMARY:Tro (L)
+LOCATION:218 65
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251120T160000
 DTEND:20251120T173500
 SUMMARY:Psmo (L)
@@ -3508,14 +3522,14 @@ DTSTART:20251127T114000
 DTEND:20251127T131500
 SUMMARY:Tro (L)
 LOCATION:011 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T133000
 DTEND:20251127T150500
 SUMMARY:Tro (L)
 LOCATION:011 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T160000
@@ -3795,14 +3809,14 @@ DTSTART:20251212T133000
 DTEND:20251212T150500
 SUMMARY:Tro (L)
 LOCATION:106 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T160000
 DTEND:20251212T173500
 SUMMARY:Tro (L)
 LOCATION:106 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T080000
@@ -3921,14 +3935,14 @@ DTSTART:20251218T114000
 DTEND:20251218T131500
 SUMMARY:Tro (L)
 LOCATION:011 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T133000
 DTEND:20251218T150500
 SUMMARY:Tro (L)
 LOCATION:011 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Witold Żorski
+DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T095000
@@ -3943,20 +3957,6 @@ DTEND:20251219T131500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 53/60\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251219T133000
-DTEND:20251219T150500
-SUMMARY:Tro (L)
-LOCATION:106 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Witold Żorski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251219T160000
-DTEND:20251219T173500
-SUMMARY:Tro (L)
-LOCATION:106 65
-DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T080000
