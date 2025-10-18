@@ -365,7 +365,7 @@ DTSTART:20250321T080000
 DTEND:20250321T093500
 SUMMARY:Pw (P)
 LOCATION:227 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNr zajęć: 1/5\nProwadzący: mgr inż. Krzysztof Mierzejewski
+DESCRIPTION:Programowanie wspolbieżne - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 1/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T095000
@@ -547,14 +547,14 @@ DTSTART:20250328T160000
 DTEND:20250328T173500
 SUMMARY:Pw (L)
 LOCATION:224 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Krzysztof Mierzejewski
+DESCRIPTION:Programowanie wspolbieżne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T175000
 DTEND:20250328T192500
 SUMMARY:Pw (L)
 LOCATION:224 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Krzysztof Mierzejewski
+DESCRIPTION:Programowanie wspolbieżne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T095000
@@ -785,21 +785,21 @@ DTSTART:20250411T080000
 DTEND:20250411T093500
 SUMMARY:Pw (P)
 LOCATION:233 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNr zajęć: 2/5\nProwadzący: mgr inż. Krzysztof Mierzejewski
+DESCRIPTION:Programowanie wspolbieżne - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T095000
 DTEND:20250411T112500
 SUMMARY:Pw (L)
 LOCATION:227 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Krzysztof Mierzejewski
+DESCRIPTION:Programowanie wspolbieżne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T114000
 DTEND:20250411T131500
 SUMMARY:Pw (L)
 LOCATION:227 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Krzysztof Mierzejewski
+DESCRIPTION:Programowanie wspolbieżne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T133000
@@ -967,7 +967,7 @@ DTSTART:20250424T133000
 DTEND:20250424T150500
 SUMMARY:Pw (P)
 LOCATION:223 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNr zajęć: 3/5\nProwadzący: mgr inż. Krzysztof Mierzejewski
+DESCRIPTION:Programowanie wspolbieżne - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T160000
@@ -1135,14 +1135,14 @@ DTSTART:20250509T114000
 DTEND:20250509T131500
 SUMMARY:Pw (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Krzysztof Mierzejewski
+DESCRIPTION:Programowanie wspolbieżne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T133000
 DTEND:20250509T150500
 SUMMARY:Pw (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Krzysztof Mierzejewski
+DESCRIPTION:Programowanie wspolbieżne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T160000
@@ -1317,7 +1317,7 @@ DTSTART:20250522T133000
 DTEND:20250522T150500
 SUMMARY:Pw (P)
 LOCATION:227 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNr zajęć: 4/5\nProwadzący: mgr inż. Krzysztof Mierzejewski
+DESCRIPTION:Programowanie wspolbieżne - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T160000
@@ -1373,14 +1373,14 @@ DTSTART:20250529T080000
 DTEND:20250529T093500
 SUMMARY:Pw (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Krzysztof Mierzejewski
+DESCRIPTION:Programowanie wspolbieżne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T095000
 DTEND:20250529T112500
 SUMMARY:Pw (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Krzysztof Mierzejewski
+DESCRIPTION:Programowanie wspolbieżne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T160000
@@ -1450,7 +1450,7 @@ DTSTART:20250605T133000
 DTEND:20250605T150500
 SUMMARY:Pw (P)
 LOCATION:227 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNr zajęć: 5/5\nProwadzący: mgr inż. Krzysztof Mierzejewski
+DESCRIPTION:Programowanie wspolbieżne - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T160000
@@ -1527,14 +1527,14 @@ DTSTART:20250612T095000
 DTEND:20250612T112500
 SUMMARY:Pw (L)
 LOCATION:224 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Krzysztof Mierzejewski
+DESCRIPTION:Programowanie wspolbieżne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T114000
 DTEND:20250612T131500
 SUMMARY:Pw (L)
 LOCATION:224 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Krzysztof Mierzejewski
+DESCRIPTION:Programowanie wspolbieżne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T160000
@@ -1611,14 +1611,14 @@ DTSTART:20250620T095000
 DTEND:20250620T112500
 SUMMARY:Pw (Inne)
 LOCATION:224 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Krzysztof Mierzejewski
+DESCRIPTION:Programowanie wspolbieżne - (INNE) -\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250620T114000
 DTEND:20250620T131500
 SUMMARY:Pw (Inne)
 LOCATION:224 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Krzysztof Mierzejewski
+DESCRIPTION:Programowanie wspolbieżne - (INNE) -\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T095000
@@ -1807,14 +1807,14 @@ DTSTART:20250925T080000
 DTEND:20250925T093500
 SUMMARY:Pw (Inne)
 LOCATION:224 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć:  - \nNr zajęć: 5/2\nProwadzący: mgr inż. Krzysztof Mierzejewski
+DESCRIPTION:Programowanie wspolbieżne - (zal popr) -\nRodzaj zajęć:  - \nNr zajęć: 5/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250925T095000
 DTEND:20250925T112500
 SUMMARY:Pw (Inne)
 LOCATION:224 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć:  - \nNr zajęć: 6/2\nProwadzący: mgr inż. Krzysztof Mierzejewski
+DESCRIPTION:Programowanie wspolbieżne - (zal popr) -\nRodzaj zajęć:  - \nNr zajęć: 6/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T114000

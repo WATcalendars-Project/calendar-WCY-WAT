@@ -214,6 +214,13 @@ LOCATION:AW 3/038
 DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251219T080000
+DTEND:20251219T093500
+SUMMARY:PKSt (w)
+LOCATION:aula/ 135
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251219T095000
 DTEND:20251219T112500
 SUMMARY:REG (w)
@@ -310,6 +317,13 @@ DTEND:20251231T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/17\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260107T080000
+DTEND:20260107T093500
+SUMMARY:PKSt (w)
+LOCATION:3.16/ 135
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T114000
@@ -550,6 +564,20 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/17\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260126T160000
+DTEND:20260126T173500
+SUMMARY:Pwd (w)
+LOCATION:aula/ 135
+DESCRIPTION:Przywództwo w dowodzeniu - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260128T114000
+DTEND:20260128T131500
+SUMMARY:PKSt (ć)
+LOCATION:1.9/ 16
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260128T133000
 DTEND:20260128T150500
 SUMMARY:WF (ć)
@@ -620,6 +648,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/17\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260204T160000
+DTEND:20260204T173500
+SUMMARY:Pwd (w)
+LOCATION:aula/ 135
+DESCRIPTION:Przywództwo w dowodzeniu - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260205T095000
 DTEND:20260205T112500
 SUMMARY:RiAIP (w)
@@ -639,6 +674,13 @@ DTEND:20260206T131500
 SUMMARY:TA (w)
 LOCATION:103 K
 DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T133000
+DTEND:20260206T150500
+SUMMARY:PKSt (w)
+LOCATION:aula/ 135
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260209T080000
@@ -732,6 +774,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/17\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260211T160000
+DTEND:20260211T173500
+SUMMARY:Pwd (w)
+LOCATION:aula/ 135
+DESCRIPTION:Przywództwo w dowodzeniu - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260212T114000
 DTEND:20260212T131500
 SUMMARY:PD (ć)
@@ -779,6 +828,13 @@ DTEND:20260218T112500
 SUMMARY:REG (ć)
 LOCATION:PL.MUSZ1
 DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T114000
+DTEND:20260218T131500
+SUMMARY:Pwd (ć)
+LOCATION:0.19/ 135
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260218T133000
@@ -844,6 +900,13 @@ LOCATION:103 K
 DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260223T080000
+DTEND:20260223T093500
+SUMMARY:PKSt (w)
+LOCATION:aula/ 135
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260223T095000
 DTEND:20260223T112500
 SUMMARY:RiAIP (w)
@@ -865,11 +928,25 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/17\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260224T133000
+DTEND:20260224T150500
+SUMMARY:PKSt (w)
+LOCATION:aula/ 135
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260225T095000
 DTEND:20260225T112500
 SUMMARY:TA (w)
 LOCATION:AW 4
 DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260225T114000
+DTEND:20260225T131500
+SUMMARY:PKSt (w)
+LOCATION:aula/ 135
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260225T133000
@@ -900,6 +977,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 14/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260227T080000
+DTEND:20260227T093500
+SUMMARY:Pwd (ć)
+LOCATION:0.19/ 135
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260302T114000
+DTEND:20260302T131500
+SUMMARY:PKSt (ć)
+LOCATION:0.19/ 135
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T080000
 DTEND:20260303T093500
 SUMMARY:REG (Inne)
@@ -912,6 +1003,13 @@ DTEND:20260303T112500
 SUMMARY:RiAIP (ć)
 LOCATION:AW 3/038
 DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260303T114000
+DTEND:20260303T131500
+SUMMARY:Pwd (ć)
+LOCATION:0.28/ 135
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T080000
@@ -975,6 +1073,13 @@ DTEND:20260310T131500
 SUMMARY:.BHP. (w)
 LOCATION:0.19/ 135
 DESCRIPTION:.Bezpieczeństwo i higiena pracy. - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260310T133000
+DTEND:20260310T150500
+SUMMARY:Pwd (ć)
+LOCATION:0.19/ 135
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T080000
@@ -1332,6 +1437,13 @@ DTEND:20260408T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 22/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T095000
+DTEND:20260409T112500
+SUMMARY:Pwd (Inne)
+LOCATION:0.19/ 135
+DESCRIPTION:Przywództwo w dowodzeniu - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T080000

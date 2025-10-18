@@ -589,7 +589,7 @@ DTSTART:20250328T114000
 DTEND:20250328T131500
 SUMMARY:Pwd (ć)
 LOCATION:205 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/10\nProwadzący: -
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T133000
@@ -1912,7 +1912,7 @@ DTSTART:20250603T133000
 DTEND:20250603T150500
 SUMMARY:Pwd (ć)
 LOCATION:205 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący: -
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T160000
@@ -2671,13 +2671,6 @@ LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 36/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251022T160000
-DTEND:20251022T173500
-SUMMARY:F2 (L)
-LOCATION:142 S 139 S
-DESCRIPTION:Fizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251023T080000
 DTEND:20251023T093500
 SUMMARY:WF (ć)
@@ -2725,13 +2718,6 @@ DTEND:20251027T150500
 SUMMARY:Als (w)
 LOCATION:317 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251029T095000
-DTEND:20251029T112500
-SUMMARY:F2 (ć)
-LOCATION:201 65
-DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T133000
@@ -2818,13 +2804,6 @@ LOCATION:313 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251105T095000
-DTEND:20251105T112500
-SUMMARY:F2 (ć)
-LOCATION:201 65
-DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251105T133000
 DTEND:20251105T150500
 SUMMARY:Ja (ć)
@@ -2909,20 +2888,6 @@ LOCATION:316 S
 DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251112T095000
-DTEND:20251112T112500
-SUMMARY:F2 (ć)
-LOCATION:201 65
-DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251112T114000
-DTEND:20251112T131500
-SUMMARY:Pwd (ć)
-LOCATION:204 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251112T133000
 DTEND:20251112T150500
 SUMMARY:Ja (ć)
@@ -2956,13 +2921,6 @@ DTEND:20251113T150500
 SUMMARY:F2 (w)
 LOCATION:aula/ 135
 DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251113T160000
-DTEND:20251113T173500
-SUMMARY:F2 (L)
-LOCATION:142 S 139 S
-DESCRIPTION:Fizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T080000
@@ -3007,13 +2965,6 @@ LOCATION:316 S
 DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251119T114000
-DTEND:20251119T131500
-SUMMARY:F2 (ć)
-LOCATION:204 65
-DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251119T133000
 DTEND:20251119T150500
 SUMMARY:Ja (ć)
@@ -3026,13 +2977,6 @@ DTEND:20251120T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 38/48\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T095000
-DTEND:20251120T112500
-SUMMARY:Pwd (ć)
-LOCATION:204 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T114000
@@ -3189,27 +3133,6 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251201T114000
-DTEND:20251201T131500
-SUMMARY:Pwd (ć)
-LOCATION:3.3 75
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251203T080000
-DTEND:20251203T093500
-SUMMARY:F2 (L)
-LOCATION:139 S 142 S
-DESCRIPTION:Fizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251203T114000
-DTEND:20251203T131500
-SUMMARY:F2 (ć)
-LOCATION:204 65
-DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251203T133000
 DTEND:20251203T150500
 SUMMARY:Ja (ć)
@@ -3308,13 +3231,6 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251215T133000
-DTEND:20251215T150500
-SUMMARY:Pwd (ć)
-LOCATION:204 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251217T114000
 DTEND:20251217T131500
 SUMMARY:Pr.A (w)
@@ -3392,32 +3308,11 @@ LOCATION:aula/ 135
 DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 12/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260108T160000
-DTEND:20260108T173500
-SUMMARY:F2 (L)
-LOCATION:139 S 142 S
-DESCRIPTION:Fizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260109T114000
-DTEND:20260109T131500
-SUMMARY:Pwd (ć)
-LOCATION:204 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260110T080000
 DTEND:20260110T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260112T133000
-DTEND:20260112T150500
-SUMMARY:F2 (ć)
-LOCATION:201 65
-DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T133000
@@ -3432,13 +3327,6 @@ DTEND:20260115T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 45/48\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260115T095000
-DTEND:20260115T112500
-SUMMARY:F2 (ć)
-LOCATION:201 65
-DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T114000
@@ -3462,20 +3350,6 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260119T133000
-DTEND:20260119T150500
-SUMMARY:F2 (ć)
-LOCATION:201 65
-DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260120T080000
-DTEND:20260120T093500
-SUMMARY:F2 (L)
-LOCATION:142 S 139 S
-DESCRIPTION:Fizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260121T080000
 DTEND:20260121T093500
 SUMMARY:WF (ć)
@@ -3497,13 +3371,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 47/48\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260122T095000
-DTEND:20260122T112500
-SUMMARY:Pwd (ć)
-LOCATION:204 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260122T114000
 DTEND:20260122T131500
 SUMMARY:Ja (ć)
@@ -3518,13 +3385,6 @@ LOCATION:aula/ 135
 DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 14/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260123T095000
-DTEND:20260123T112500
-SUMMARY:Pwd (ć)
-LOCATION:204 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260124T080000
 DTEND:20260124T093500
 SUMMARY:XWF (ć)
@@ -3537,20 +3397,6 @@ DTEND:20260126T093500
 SUMMARY:Sm (w)
 LOCATION:317 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr Justyna Kurkowiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260126T133000
-DTEND:20260126T150500
-SUMMARY:F2 (ć)
-LOCATION:201 65
-DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260128T114000
-DTEND:20260128T131500
-SUMMARY:F2 (ć)
-LOCATION:201 65
-DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T133000
@@ -3579,13 +3425,6 @@ DTEND:20260129T150500
 SUMMARY:F2 (w)
 LOCATION:aula/ 135
 DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 15/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260130T095000
-DTEND:20260130T112500
-SUMMARY:Pwd (ć)
-LOCATION:204 65
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260131T080000

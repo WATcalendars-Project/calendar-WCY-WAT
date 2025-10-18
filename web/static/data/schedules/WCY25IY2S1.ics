@@ -368,6 +368,13 @@ LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251022T133000
+DTEND:20251022T150500
+SUMMARY:Mat I (ć)
+LOCATION:223 S
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/17\nProwadzący: dr Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251022T160000
 DTEND:20251022T173500
 SUMMARY:JoM (ć)
@@ -394,13 +401,6 @@ DTEND:20251023T112500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251023T114000
-DTEND:20251023T131500
-SUMMARY:Mat I (ć)
-LOCATION:308 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/17\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T133000

@@ -508,13 +508,6 @@ LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Wykład\nNr zajęć: 4/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251021T095000
-DTEND:20251021T112500
-SUMMARY:F2 (ć)
-LOCATION:120/ 54
-DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251021T114000
 DTEND:20251021T131500
 SUMMARY:WdTB (w)
@@ -701,7 +694,7 @@ DTSTART:20251028T080000
 DTEND:20251028T093500
 SUMMARY:F2 (ć)
 LOCATION:120/ 54
-DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: -
+DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T095000
@@ -918,7 +911,7 @@ DTSTART:20251104T095000
 DTEND:20251104T112500
 SUMMARY:F2 (ć)
 LOCATION:120/ 54
-DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: -
+DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T114000
@@ -1296,7 +1289,7 @@ DTSTART:20251118T095000
 DTEND:20251118T112500
 SUMMARY:F2 (ć)
 LOCATION:120/ 54
-DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący: -
+DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T114000
@@ -1485,7 +1478,7 @@ DTSTART:20251125T095000
 DTEND:20251125T112500
 SUMMARY:F2 (ć)
 LOCATION:120/ 54
-DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: -
+DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T114000
@@ -1884,7 +1877,7 @@ DTSTART:20251210T114000
 DTEND:20251210T131500
 SUMMARY:F2 (ć)
 LOCATION:109/ 54
-DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący: -
+DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T133000
@@ -2067,6 +2060,13 @@ DTEND:20251217T131500
 SUMMARY:WdTB (Inne)
 LOCATION:13 71
 DESCRIPTION:Wprowadzenie do technik biomedycznych - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 3/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251217T133000
+DTEND:20251217T150500
+SUMMARY:F2 (ć)
+LOCATION:5/ 23a
+DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T160000
