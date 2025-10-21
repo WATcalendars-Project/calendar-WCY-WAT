@@ -22,14 +22,14 @@ DTSTART:20250303T114000
 DTEND:20250303T131500
 SUMMARY:WdP (w)
 LOCATION:301/ S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T080000
 DTEND:20250304T093500
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 1/11\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 1/11\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T095000
@@ -99,7 +99,7 @@ DTSTART:20250310T114000
 DTEND:20250310T131500
 SUMMARY:WdP (w)
 LOCATION:317 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T133000
@@ -113,7 +113,7 @@ DTSTART:20250311T080000
 DTEND:20250311T093500
 SUMMARY:Mat3 (w)
 LOCATION:51/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 2/11\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 2/11\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T095000
@@ -134,7 +134,7 @@ DTSTART:20250311T133000
 DTEND:20250311T150500
 SUMMARY:Mat3 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/10\nProwadzący:  Robert Kozarzewski
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/10\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T080000
@@ -183,7 +183,7 @@ DTSTART:20250317T080000
 DTEND:20250317T093500
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 3/11\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 3/11\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T095000
@@ -197,7 +197,7 @@ DTSTART:20250317T114000
 DTEND:20250317T131500
 SUMMARY:WdP (w)
 LOCATION:301/ S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T133000
@@ -218,7 +218,7 @@ DTSTART:20250318T080000
 DTEND:20250318T093500
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 4/11\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 4/11\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T095000
@@ -232,7 +232,7 @@ DTSTART:20250318T114000
 DTEND:20250318T131500
 SUMMARY:Mat3 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący:  Robert Kozarzewski
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T133000
@@ -302,7 +302,7 @@ DTSTART:20250324T095000
 DTEND:20250324T112500
 SUMMARY:WdP (w)
 LOCATION:301/ S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T114000
@@ -323,7 +323,7 @@ DTSTART:20250325T080000
 DTEND:20250325T093500
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 5/11\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 5/11\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T095000
@@ -337,7 +337,7 @@ DTSTART:20250325T114000
 DTEND:20250325T131500
 SUMMARY:Mat3 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący:  Robert Kozarzewski
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T133000
@@ -365,7 +365,7 @@ DTSTART:20250326T114000
 DTEND:20250326T131500
 SUMMARY:Mat3 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący:  Robert Kozarzewski
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T133000
@@ -407,14 +407,14 @@ DTSTART:20250327T175000
 DTEND:20250327T192500
 SUMMARY:WdP (L)
 LOCATION:228 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Kamil Małysz
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T194000
 DTEND:20250327T211500
 SUMMARY:WdP (L)
 LOCATION:228 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Kamil Małysz
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T080000
@@ -442,14 +442,14 @@ DTSTART:20250331T095000
 DTEND:20250331T112500
 SUMMARY:WdP (w)
 LOCATION:301/ S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T080000
 DTEND:20250401T093500
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 6/11\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 6/11\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T095000
@@ -463,7 +463,7 @@ DTSTART:20250401T114000
 DTEND:20250401T131500
 SUMMARY:Mat3 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący:  Robert Kozarzewski
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T133000
@@ -491,7 +491,7 @@ DTSTART:20250402T114000
 DTEND:20250402T131500
 SUMMARY:Mat3 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący:  Robert Kozarzewski
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T175000
@@ -512,14 +512,14 @@ DTSTART:20250403T175000
 DTEND:20250403T192500
 SUMMARY:WdP (L)
 LOCATION:228 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Kamil Małysz
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T194000
 DTEND:20250403T211500
 SUMMARY:WdP (L)
 LOCATION:228 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Kamil Małysz
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T080000
@@ -554,14 +554,14 @@ DTSTART:20250407T095000
 DTEND:20250407T112500
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 7/11\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 7/11\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T114000
 DTEND:20250407T131500
 SUMMARY:WdP (w)
 LOCATION:301/ S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T133000
@@ -582,7 +582,7 @@ DTSTART:20250408T080000
 DTEND:20250408T093500
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 8/11\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 8/11\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T095000
@@ -603,7 +603,7 @@ DTSTART:20250408T133000
 DTEND:20250408T150500
 SUMMARY:Mat3 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący:  Robert Kozarzewski
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T080000
@@ -624,7 +624,7 @@ DTSTART:20250409T114000
 DTEND:20250409T131500
 SUMMARY:Mat3 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący:  Robert Kozarzewski
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T133000
@@ -708,7 +708,7 @@ DTSTART:20250414T095000
 DTEND:20250414T112500
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 9/11\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 9/11\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T114000
@@ -729,7 +729,7 @@ DTSTART:20250415T080000
 DTEND:20250415T093500
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 10/11\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 10/11\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T095000
@@ -750,7 +750,7 @@ DTSTART:20250415T133000
 DTEND:20250415T150500
 SUMMARY:Mat3 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący:  Robert Kozarzewski
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T080000
@@ -771,7 +771,7 @@ DTSTART:20250416T114000
 DTEND:20250416T131500
 SUMMARY:Mat3 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący:  Robert Kozarzewski
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T175000
@@ -792,7 +792,7 @@ DTSTART:20250417T133000
 DTEND:20250417T150500
 SUMMARY:Mat3 (L)
 LOCATION:219 65
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący:  Robert Kozarzewski
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T160000
@@ -1058,7 +1058,7 @@ DTSTART:20250423T114000
 DTEND:20250423T131500
 SUMMARY:Mat3 (L)
 LOCATION:219 65
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący:  Robert Kozarzewski
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T133000
@@ -1163,7 +1163,7 @@ DTSTART:20250428T095000
 DTEND:20250428T112500
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 11/11\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 11/11\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T114000
@@ -1184,7 +1184,7 @@ DTSTART:20250429T080000
 DTEND:20250429T093500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 1/12\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 1/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T095000
@@ -1205,7 +1205,7 @@ DTSTART:20250429T133000
 DTEND:20250429T150500
 SUMMARY:Mat4 (L)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Robert Kozarzewski
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T080000
@@ -1380,7 +1380,7 @@ DTSTART:20250505T095000
 DTEND:20250505T112500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 2/12\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 2/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T114000
@@ -1394,7 +1394,7 @@ DTSTART:20250506T080000
 DTEND:20250506T093500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 3/12\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 3/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T095000
@@ -1457,14 +1457,14 @@ DTSTART:20250508T175000
 DTEND:20250508T192500
 SUMMARY:WdP (L)
 LOCATION:228 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Kamil Małysz
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T194000
 DTEND:20250508T211500
 SUMMARY:WdP (L)
 LOCATION:228 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Kamil Małysz
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T080000
@@ -1485,7 +1485,7 @@ DTSTART:20250512T095000
 DTEND:20250512T112500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 4/12\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 4/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T114000
@@ -1499,14 +1499,14 @@ DTSTART:20250513T080000
 DTEND:20250513T093500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 5/12\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 5/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T095000
 DTEND:20250513T112500
 SUMMARY:Mat4 (L)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Robert Kozarzewski
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T114000
@@ -1611,7 +1611,7 @@ DTSTART:20250519T095000
 DTEND:20250519T112500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 6/12\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 6/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T114000
@@ -1639,14 +1639,14 @@ DTSTART:20250520T080000
 DTEND:20250520T093500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 7/12\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 7/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T095000
 DTEND:20250520T112500
 SUMMARY:Mat4 (L)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Robert Kozarzewski
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T114000
@@ -1744,7 +1744,7 @@ DTSTART:20250526T095000
 DTEND:20250526T112500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 8/12\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 8/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T114000
@@ -1772,7 +1772,7 @@ DTSTART:20250527T080000
 DTEND:20250527T093500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 9/12\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 9/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T095000
@@ -1786,7 +1786,7 @@ DTSTART:20250527T114000
 DTEND:20250527T131500
 SUMMARY:Mat4 (L)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Robert Kozarzewski
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T133000
@@ -1821,14 +1821,14 @@ DTSTART:20250529T080000
 DTEND:20250529T093500
 SUMMARY:WdP (L)
 LOCATION:228 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Kamil Małysz
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T095000
 DTEND:20250529T112500
 SUMMARY:WdP (L)
 LOCATION:228 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Kamil Małysz
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T160000
@@ -1898,14 +1898,14 @@ DTSTART:20250603T080000
 DTEND:20250603T093500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 10/12\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 10/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T114000
 DTEND:20250603T131500
 SUMMARY:Mat4 (L)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Robert Kozarzewski
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T133000
@@ -1940,7 +1940,7 @@ DTSTART:20250604T114000
 DTEND:20250604T131500
 SUMMARY:Mat4 (L)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Robert Kozarzewski
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T175000
@@ -1996,14 +1996,14 @@ DTSTART:20250610T080000
 DTEND:20250610T093500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 11/12\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 11/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T095000
 DTEND:20250610T112500
 SUMMARY:Mat4 (L)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Robert Kozarzewski
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T114000
@@ -2031,7 +2031,7 @@ DTSTART:20250611T114000
 DTEND:20250611T131500
 SUMMARY:WdP (w)
 LOCATION:301/ S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T133000
@@ -2101,14 +2101,14 @@ DTSTART:20250617T080000
 DTEND:20250617T093500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 12/12\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 12/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T095000
 DTEND:20250617T112500
 SUMMARY:Mat4 (L)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Robert Kozarzewski
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T114000
@@ -2171,14 +2171,14 @@ DTSTART:20250624T095000
 DTEND:20250624T112500
 SUMMARY:Mat3 (Inne)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Robert Kozarzewski
+DESCRIPTION:Matematyka 3\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T114000
 DTEND:20250624T131500
 SUMMARY:Mat4 (Inne)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 4\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Robert Kozarzewski
+DESCRIPTION:Matematyka 4\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T133000
@@ -2192,7 +2192,7 @@ DTSTART:20250625T095000
 DTEND:20250625T112500
 SUMMARY:Mat3 (E)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T133000
@@ -2213,14 +2213,14 @@ DTSTART:20250630T114000
 DTEND:20250630T131500
 SUMMARY:Mat4 (Inne)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T133000
 DTEND:20250630T150500
 SUMMARY:WdP (Inne)
 LOCATION:301/ S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250701T080000
@@ -2276,7 +2276,7 @@ DTSTART:20250917T095000
 DTEND:20250917T112500
 SUMMARY:Mat3 (Inne)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250919T095000
@@ -2479,7 +2479,7 @@ DTSTART:20251006T080000
 DTEND:20251006T093500
 SUMMARY:Sck (w)
 LOCATION:52/ 62
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T095000
@@ -2570,7 +2570,7 @@ DTSTART:20251009T114000
 DTEND:20251009T131500
 SUMMARY:Als (w)
 LOCATION:301/ S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T133000
@@ -2633,7 +2633,7 @@ DTSTART:20251013T080000
 DTEND:20251013T093500
 SUMMARY:Sck (w)
 LOCATION:52/ 62
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T095000
@@ -2724,7 +2724,7 @@ DTSTART:20251016T114000
 DTEND:20251016T131500
 SUMMARY:Als (w)
 LOCATION:301/ S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T080000
@@ -2780,7 +2780,7 @@ DTSTART:20251020T080000
 DTEND:20251020T093500
 SUMMARY:Sck (w)
 LOCATION:52/ 62
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T133000
@@ -2885,7 +2885,7 @@ DTSTART:20251023T114000
 DTEND:20251023T131500
 SUMMARY:Als (w)
 LOCATION:301/ S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T080000
@@ -2941,7 +2941,7 @@ DTSTART:20251027T080000
 DTEND:20251027T093500
 SUMMARY:Sck (w)
 LOCATION:52/ 62
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T095000
@@ -3004,7 +3004,7 @@ DTSTART:20251028T133000
 DTEND:20251028T150500
 SUMMARY:Als (w)
 LOCATION:301/ S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T160000
@@ -3165,7 +3165,7 @@ DTSTART:20251103T080000
 DTEND:20251103T093500
 SUMMARY:Sck (w)
 LOCATION:52/ 62
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T095000
@@ -3221,7 +3221,7 @@ DTSTART:20251104T133000
 DTEND:20251104T150500
 SUMMARY:Als (w)
 LOCATION:301/ S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T080000
@@ -3471,79 +3471,79 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T095000
 DTEND:20251113T112500
-SUMMARY:- (Inne)
+SUMMARY:DS. (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 142/1\nProwadzący: -
+DESCRIPTION:Dzień specjalności\nRodzaj zajęć:  - \nNr zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T114000
 DTEND:20251113T131500
-SUMMARY:- (Inne)
+SUMMARY:DS. (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 143/1\nProwadzący: -
+DESCRIPTION:Dzień specjalności\nRodzaj zajęć:  - \nNr zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T133000
 DTEND:20251113T150500
-SUMMARY:- (Inne)
+SUMMARY:DS. (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 144/1\nProwadzący: -
+DESCRIPTION:Dzień specjalności\nRodzaj zajęć:  - \nNr zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T080000
 DTEND:20251114T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 145/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 142/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T095000
 DTEND:20251114T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 146/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 143/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T114000
 DTEND:20251114T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 147/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 144/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T133000
 DTEND:20251114T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 148/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 145/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T160000
 DTEND:20251114T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 149/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 146/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T175000
 DTEND:20251114T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 150/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 147/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T194000
 DTEND:20251114T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 151/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 148/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T080000
 DTEND:20251117T093500
 SUMMARY:Sck (w)
 LOCATION:52/ 62
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T095000
@@ -3662,56 +3662,56 @@ DTSTART:20251121T080000
 DTEND:20251121T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 152/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 149/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T095000
 DTEND:20251121T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 153/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 150/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T114000
 DTEND:20251121T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 154/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 151/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T133000
 DTEND:20251121T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 155/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 152/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T160000
 DTEND:20251121T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 156/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 153/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T175000
 DTEND:20251121T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 157/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 154/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T194000
 DTEND:20251121T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 158/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 155/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T080000
 DTEND:20251124T093500
 SUMMARY:Sck (w)
 LOCATION:52/ 62
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T095000
@@ -3830,49 +3830,49 @@ DTSTART:20251128T080000
 DTEND:20251128T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 159/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 156/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251128T095000
 DTEND:20251128T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 160/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 157/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251128T114000
 DTEND:20251128T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 161/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 158/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251128T133000
 DTEND:20251128T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 162/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 159/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251128T160000
 DTEND:20251128T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 163/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 160/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251128T175000
 DTEND:20251128T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 164/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 161/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251128T194000
 DTEND:20251128T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 165/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 162/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T080000
@@ -4019,21 +4019,21 @@ DTSTART:20251205T160000
 DTEND:20251205T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 166/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 163/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T175000
 DTEND:20251205T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 167/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 164/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T194000
 DTEND:20251205T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 168/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 165/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T080000
@@ -4075,7 +4075,7 @@ DTSTART:20251209T080000
 DTEND:20251209T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 169/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 166/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T095000
@@ -4173,63 +4173,63 @@ DTSTART:20251211T133000
 DTEND:20251211T150500
 SUMMARY:Als (L)
 LOCATION:224 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący:  Grzegorz Kiryk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T160000
 DTEND:20251211T173500
 SUMMARY:Als (L)
 LOCATION:224 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący:  Grzegorz Kiryk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T080000
 DTEND:20251212T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 170/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 167/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T095000
 DTEND:20251212T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 171/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 168/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T114000
 DTEND:20251212T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 172/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 169/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T133000
 DTEND:20251212T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 173/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 170/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T160000
 DTEND:20251212T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 174/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 171/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T175000
 DTEND:20251212T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 175/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 172/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T194000
 DTEND:20251212T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 176/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 173/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T080000
@@ -4271,28 +4271,21 @@ DTSTART:20251216T080000
 DTEND:20251216T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 177/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 174/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T095000
 DTEND:20251216T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 178/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 175/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T114000
 DTEND:20251216T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 179/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251216T133000
-DTEND:20251216T150500
-SUMMARY:PEt (L)
-LOCATION:058 S
-DESCRIPTION:Podstawy elektrotechniki - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 176/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T160000
@@ -4314,13 +4307,6 @@ DTEND:20251216T211500
 SUMMARY:Sck (L)
 LOCATION:120 65
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Sebastian Łeska
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251217T080000
-DTEND:20251217T093500
-SUMMARY:PEt (L)
-LOCATION:058 S
-DESCRIPTION:Podstawy elektrotechniki - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T095000
@@ -4376,21 +4362,21 @@ DTSTART:20251218T133000
 DTEND:20251218T150500
 SUMMARY:Als (L)
 LOCATION:224 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący:  Grzegorz Kiryk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T160000
 DTEND:20251218T173500
 SUMMARY:Als (L)
 LOCATION:224 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący:  Grzegorz Kiryk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T080000
 DTEND:20251219T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 180/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 177/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T095000
@@ -4425,798 +4411,798 @@ DTSTART:20251219T175000
 DTEND:20251219T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 181/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 178/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T194000
 DTEND:20251219T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 182/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 179/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251222T080000
 DTEND:20251222T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 183/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 180/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251222T095000
 DTEND:20251222T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 184/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 181/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251222T114000
 DTEND:20251222T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 185/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 182/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251222T133000
 DTEND:20251222T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 186/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 183/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251222T160000
 DTEND:20251222T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 187/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 184/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251222T175000
 DTEND:20251222T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 188/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 185/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251222T194000
 DTEND:20251222T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 189/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 186/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251223T080000
 DTEND:20251223T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 190/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 187/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251223T095000
 DTEND:20251223T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 191/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 188/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251223T114000
 DTEND:20251223T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 192/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 189/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251223T133000
 DTEND:20251223T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 193/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 190/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251223T160000
 DTEND:20251223T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 194/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 191/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251223T175000
 DTEND:20251223T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 195/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 192/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251223T194000
 DTEND:20251223T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 196/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 193/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T080000
 DTEND:20251224T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 197/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 194/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T095000
 DTEND:20251224T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 198/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 195/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T114000
 DTEND:20251224T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 199/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 196/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T133000
 DTEND:20251224T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 200/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 197/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T160000
 DTEND:20251224T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 201/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 198/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T175000
 DTEND:20251224T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 202/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 199/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T194000
 DTEND:20251224T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 203/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 200/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251225T080000
 DTEND:20251225T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 204/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 201/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251225T095000
 DTEND:20251225T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 205/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 202/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251225T114000
 DTEND:20251225T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 206/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 203/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251225T133000
 DTEND:20251225T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 207/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 204/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251225T160000
 DTEND:20251225T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 208/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 205/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251225T175000
 DTEND:20251225T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 209/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 206/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251225T194000
 DTEND:20251225T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 210/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 207/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251226T080000
 DTEND:20251226T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 211/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 208/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251226T095000
 DTEND:20251226T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 212/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 209/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251226T114000
 DTEND:20251226T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 213/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 210/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251226T133000
 DTEND:20251226T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 214/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 211/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251226T160000
 DTEND:20251226T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 215/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 212/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251226T175000
 DTEND:20251226T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 216/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 213/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251226T194000
 DTEND:20251226T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 217/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 214/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251227T080000
 DTEND:20251227T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 218/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 215/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251227T095000
 DTEND:20251227T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 219/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 216/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251227T114000
 DTEND:20251227T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 220/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 217/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251227T133000
 DTEND:20251227T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 221/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 218/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251227T160000
 DTEND:20251227T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 222/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 219/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251227T175000
 DTEND:20251227T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 223/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 220/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251227T194000
 DTEND:20251227T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 224/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 221/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251228T080000
 DTEND:20251228T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 225/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 222/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251228T095000
 DTEND:20251228T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 226/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 223/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251228T114000
 DTEND:20251228T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 227/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 224/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251228T133000
 DTEND:20251228T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 228/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 225/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251228T160000
 DTEND:20251228T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 229/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 226/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251228T175000
 DTEND:20251228T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 230/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 227/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251228T194000
 DTEND:20251228T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 231/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 228/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251229T080000
 DTEND:20251229T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 232/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 229/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251229T095000
 DTEND:20251229T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 233/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 230/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251229T114000
 DTEND:20251229T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 234/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 231/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251229T133000
 DTEND:20251229T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 235/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 232/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251229T160000
 DTEND:20251229T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 236/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 233/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251229T175000
 DTEND:20251229T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 237/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 234/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251229T194000
 DTEND:20251229T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 238/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 235/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251230T080000
 DTEND:20251230T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 239/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 236/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251230T095000
 DTEND:20251230T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 240/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 237/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251230T114000
 DTEND:20251230T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 241/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 238/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251230T133000
 DTEND:20251230T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 242/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 239/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251230T160000
 DTEND:20251230T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 243/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 240/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251230T175000
 DTEND:20251230T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 244/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 241/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251230T194000
 DTEND:20251230T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 245/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 242/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251231T080000
 DTEND:20251231T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 246/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 243/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251231T095000
 DTEND:20251231T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 247/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 244/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251231T114000
 DTEND:20251231T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 248/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 245/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251231T133000
 DTEND:20251231T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 249/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 246/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251231T160000
 DTEND:20251231T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 250/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 247/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251231T175000
 DTEND:20251231T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 251/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 248/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251231T194000
 DTEND:20251231T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 252/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 249/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260101T080000
 DTEND:20260101T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 253/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 250/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260101T095000
 DTEND:20260101T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 254/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 251/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260101T114000
 DTEND:20260101T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 255/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 252/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260101T133000
 DTEND:20260101T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 256/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 253/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260101T160000
 DTEND:20260101T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 257/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 254/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260101T175000
 DTEND:20260101T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 258/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 255/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260101T194000
 DTEND:20260101T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 259/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 256/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260102T080000
 DTEND:20260102T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 260/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 257/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260102T095000
 DTEND:20260102T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 261/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 258/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260102T114000
 DTEND:20260102T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 262/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 259/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260102T133000
 DTEND:20260102T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 263/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 260/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260102T160000
 DTEND:20260102T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 264/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 261/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260102T175000
 DTEND:20260102T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 265/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 262/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260102T194000
 DTEND:20260102T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 266/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 263/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260103T080000
 DTEND:20260103T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 267/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 264/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260103T095000
 DTEND:20260103T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 268/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 265/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260103T114000
 DTEND:20260103T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 269/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 266/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260103T133000
 DTEND:20260103T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 270/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 267/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260103T160000
 DTEND:20260103T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 271/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 268/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260103T175000
 DTEND:20260103T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 272/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 269/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260103T194000
 DTEND:20260103T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 273/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 270/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260104T080000
 DTEND:20260104T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 274/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 271/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260104T095000
 DTEND:20260104T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 275/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 272/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260104T114000
 DTEND:20260104T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 276/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 273/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260104T133000
 DTEND:20260104T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 277/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 274/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260104T160000
 DTEND:20260104T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 278/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 275/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260104T175000
 DTEND:20260104T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 279/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 276/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260104T194000
 DTEND:20260104T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 280/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 277/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260105T080000
 DTEND:20260105T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 281/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 278/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260105T095000
 DTEND:20260105T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 282/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 279/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260105T114000
 DTEND:20260105T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 283/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 280/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260105T133000
 DTEND:20260105T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 284/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 281/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260105T160000
 DTEND:20260105T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 285/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 282/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260105T175000
 DTEND:20260105T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 286/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 283/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260105T194000
 DTEND:20260105T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 287/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 284/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260106T080000
 DTEND:20260106T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 288/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 285/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260106T095000
 DTEND:20260106T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 289/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 286/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260106T114000
 DTEND:20260106T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 290/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 287/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260106T133000
 DTEND:20260106T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 291/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 288/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260106T160000
 DTEND:20260106T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 292/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 289/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260106T175000
 DTEND:20260106T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 293/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 290/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260106T194000
 DTEND:20260106T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 294/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 291/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T095000
@@ -5251,63 +5237,63 @@ DTSTART:20260108T133000
 DTEND:20260108T150500
 SUMMARY:Als (L)
 LOCATION:228 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący:  Grzegorz Kiryk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T160000
 DTEND:20260108T173500
 SUMMARY:Als (L)
 LOCATION:228 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący:  Grzegorz Kiryk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T080000
 DTEND:20260109T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 295/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 292/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T095000
 DTEND:20260109T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 296/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 293/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T114000
 DTEND:20260109T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 297/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 294/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T133000
 DTEND:20260109T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 298/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 295/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T160000
 DTEND:20260109T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 299/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 296/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T175000
 DTEND:20260109T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 300/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 297/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T194000
 DTEND:20260109T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 301/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 298/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T080000
@@ -5349,21 +5335,21 @@ DTSTART:20260113T080000
 DTEND:20260113T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 302/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 299/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T095000
 DTEND:20260113T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 303/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 300/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T114000
 DTEND:20260113T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 304/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 301/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T133000
@@ -5440,63 +5426,63 @@ DTSTART:20260115T133000
 DTEND:20260115T150500
 SUMMARY:Als (L)
 LOCATION:224 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Grzegorz Kiryk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T160000
 DTEND:20260115T173500
 SUMMARY:Als (L)
 LOCATION:224 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący:  Grzegorz Kiryk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T080000
 DTEND:20260116T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 305/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 302/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T095000
 DTEND:20260116T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 306/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 303/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T114000
 DTEND:20260116T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 307/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 304/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T133000
 DTEND:20260116T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 308/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 305/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T160000
 DTEND:20260116T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 309/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 306/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T175000
 DTEND:20260116T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 310/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 307/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T194000
 DTEND:20260116T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 311/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 308/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T080000
@@ -5545,14 +5531,14 @@ DTSTART:20260120T080000
 DTEND:20260120T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 312/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 309/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T095000
 DTEND:20260120T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 313/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 310/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T175000
@@ -5587,14 +5573,14 @@ DTSTART:20260121T114000
 DTEND:20260121T131500
 SUMMARY:PEt (L)
 LOCATION:058 S
-DESCRIPTION:Podstawy elektrotechniki - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: -
+DESCRIPTION:Podstawy elektrotechniki - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T133000
 DTEND:20260121T150500
 SUMMARY:PEt (L)
 LOCATION:058 S
-DESCRIPTION:Podstawy elektrotechniki - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: -
+DESCRIPTION:Podstawy elektrotechniki - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T160000
@@ -5615,7 +5601,7 @@ DTSTART:20260122T133000
 DTEND:20260122T150500
 SUMMARY:Als (L)
 LOCATION:223 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Grzegorz Kiryk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T160000
@@ -5629,49 +5615,49 @@ DTSTART:20260123T080000
 DTEND:20260123T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 314/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 311/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T095000
 DTEND:20260123T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 315/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 312/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T114000
 DTEND:20260123T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 316/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 313/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T133000
 DTEND:20260123T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 317/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 314/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T160000
 DTEND:20260123T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 318/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 315/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T175000
 DTEND:20260123T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 319/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 316/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T194000
 DTEND:20260123T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 320/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 317/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T095000
@@ -5716,6 +5702,20 @@ LOCATION:032 S
 DESCRIPTION:Metrologia i systemy pomiarowe - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260127T114000
+DTEND:20260127T131500
+SUMMARY:PEt (L)
+LOCATION:058 S
+DESCRIPTION:Podstawy elektrotechniki - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260127T133000
+DTEND:20260127T150500
+SUMMARY:PEt (L)
+LOCATION:058 S
+DESCRIPTION:Podstawy elektrotechniki - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260128T080000
 DTEND:20260128T093500
 SUMMARY:Mt 1 (ć)
@@ -5741,7 +5741,7 @@ DTSTART:20260129T080000
 DTEND:20260129T093500
 SUMMARY:Als (w)
 LOCATION:301/ S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T095000
@@ -5762,49 +5762,49 @@ DTSTART:20260130T080000
 DTEND:20260130T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 321/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 318/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T095000
 DTEND:20260130T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 322/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 319/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T114000
 DTEND:20260130T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 323/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 320/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T133000
 DTEND:20260130T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 324/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 321/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T160000
 DTEND:20260130T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 325/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 322/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T175000
 DTEND:20260130T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 326/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 323/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T194000
 DTEND:20260130T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 327/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 324/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260202T095000
@@ -5895,56 +5895,56 @@ DTSTART:20260206T080000
 DTEND:20260206T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 328/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 325/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T095000
 DTEND:20260206T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 329/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 326/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T114000
 DTEND:20260206T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 330/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 327/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T133000
 DTEND:20260206T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 331/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 328/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T160000
 DTEND:20260206T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 332/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 329/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T175000
 DTEND:20260206T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 333/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 330/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T194000
 DTEND:20260206T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 334/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 331/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260209T095000
 DTEND:20260209T112500
 SUMMARY:Sck (Inne)
 LOCATION:52/ 62
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260210T114000
@@ -5979,49 +5979,49 @@ DTSTART:20260213T080000
 DTEND:20260213T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 335/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 332/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260213T095000
 DTEND:20260213T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 336/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 333/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260213T114000
 DTEND:20260213T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 337/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 334/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260213T133000
 DTEND:20260213T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 338/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 335/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260213T160000
 DTEND:20260213T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 339/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 336/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260213T175000
 DTEND:20260213T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 340/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 337/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260213T194000
 DTEND:20260213T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 341/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 338/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260217T080000
@@ -6042,7 +6042,7 @@ DTSTART:20260218T114000
 DTEND:20260218T131500
 SUMMARY:Als (Inne)
 LOCATION:301/ S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T114000
@@ -6056,97 +6056,97 @@ DTSTART:20260220T080000
 DTEND:20260220T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 342/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 339/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T095000
 DTEND:20260220T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 343/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 340/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T114000
 DTEND:20260220T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 344/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 341/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T133000
 DTEND:20260220T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 345/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 342/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T160000
 DTEND:20260220T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 346/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 343/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T175000
 DTEND:20260220T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 347/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 344/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T194000
 DTEND:20260220T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 348/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 345/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260227T080000
 DTEND:20260227T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 349/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 346/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260227T095000
 DTEND:20260227T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 350/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 347/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260227T114000
 DTEND:20260227T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 351/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 348/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260227T133000
 DTEND:20260227T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 352/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 349/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260227T160000
 DTEND:20260227T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 353/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 350/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260227T175000
 DTEND:20260227T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 354/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 351/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260227T194000
 DTEND:20260227T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 355/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 352/1\nProwadzący: -
 END:VEVENT
 END:VCALENDAR
