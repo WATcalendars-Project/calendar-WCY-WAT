@@ -85,7 +85,7 @@ DTSTART:20250319T080000
 DTEND:20250319T093500
 SUMMARY:Pwo (w)
 LOCATION:S3 72
-DESCRIPTION:Połączone wsparcie ogniowe - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: -
+DESCRIPTION:Połączone wsparcie ogniowe - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T095000
@@ -120,14 +120,14 @@ DTSTART:20250320T080000
 DTEND:20250320T093500
 SUMMARY:SBD (w)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T095000
 DTEND:20250320T112500
 SUMMARY:SO (w)
 LOCATION:204 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T114000
@@ -218,7 +218,7 @@ DTSTART:20250324T133000
 DTEND:20250324T150500
 SUMMARY:Sck (w)
 LOCATION:204 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T160000
@@ -260,7 +260,7 @@ DTSTART:20250326T080000
 DTEND:20250326T093500
 SUMMARY:SO (w)
 LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T095000
@@ -295,7 +295,7 @@ DTSTART:20250327T114000
 DTEND:20250327T131500
 SUMMARY:Sck (w)
 LOCATION:101 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T133000
@@ -316,7 +316,7 @@ DTSTART:20250328T095000
 DTEND:20250328T112500
 SUMMARY:SO (w)
 LOCATION:204 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T114000
@@ -358,7 +358,7 @@ DTSTART:20250331T114000
 DTEND:20250331T131500
 SUMMARY:Sck (w)
 LOCATION:101 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T133000
@@ -498,28 +498,28 @@ DTSTART:20250403T160000
 DTEND:20250403T173500
 SUMMARY:SO (w)
 LOCATION:101 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T175000
 DTEND:20250403T192500
 SUMMARY:SBD (w)
 LOCATION:307 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T080000
 DTEND:20250404T093500
 SUMMARY:Sck (w)
 LOCATION:101 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T095000
 DTEND:20250404T112500
 SUMMARY:PESW (w)
 LOCATION:46 63
-DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T133000
@@ -610,7 +610,7 @@ DTSTART:20250408T080000
 DTEND:20250408T093500
 SUMMARY:StS (w)
 LOCATION:201 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: dr hab. inż. Maciej Marczyk
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący:  Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T095000
@@ -624,7 +624,7 @@ DTSTART:20250408T114000
 DTEND:20250408T131500
 SUMMARY:Pwo (w)
 LOCATION:S3 72
-DESCRIPTION:Połączone wsparcie ogniowe - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: -
+DESCRIPTION:Połączone wsparcie ogniowe - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T133000
@@ -701,14 +701,14 @@ DTSTART:20250410T114000
 DTEND:20250410T131500
 SUMMARY:Dn (w)
 LOCATION:aula/ 135
-DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: -
+DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T133000
 DTEND:20250410T150500
 SUMMARY:BwCP (w)
 LOCATION:317 S
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: dr hab. inż. Maciej Marczyk
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący:  Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T160000
@@ -813,7 +813,7 @@ DTSTART:20250414T160000
 DTEND:20250414T173500
 SUMMARY:SO (w)
 LOCATION:101 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T175000
@@ -827,7 +827,7 @@ DTSTART:20250415T080000
 DTEND:20250415T093500
 SUMMARY:Dn (w)
 LOCATION:0.19/ 135
-DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
+DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T095000
@@ -932,14 +932,14 @@ DTSTART:20250417T160000
 DTEND:20250417T173500
 SUMMARY:ZLDT-1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: -
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T175000
 DTEND:20250417T192500
 SUMMARY:SBD (w)
 LOCATION:307 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250418T080000
@@ -1065,7 +1065,7 @@ DTSTART:20250423T080000
 DTEND:20250423T093500
 SUMMARY:SO (w)
 LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T095000
@@ -1114,7 +1114,7 @@ DTSTART:20250424T095000
 DTEND:20250424T112500
 SUMMARY:Pwo (w)
 LOCATION:S2 72
-DESCRIPTION:Połączone wsparcie ogniowe - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -
+DESCRIPTION:Połączone wsparcie ogniowe - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T114000
@@ -1142,7 +1142,7 @@ DTSTART:20250425T080000
 DTEND:20250425T093500
 SUMMARY:Sck (w)
 LOCATION:101 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250425T095000
@@ -1163,14 +1163,14 @@ DTSTART:20250425T133000
 DTEND:20250425T150500
 SUMMARY:SBD (w)
 LOCATION:307 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250425T160000
 DTEND:20250425T173500
 SUMMARY:SBD (w)
 LOCATION:307 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250426T095000
@@ -1275,7 +1275,7 @@ DTSTART:20250429T175000
 DTEND:20250429T192500
 SUMMARY:ZLDT-1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: -
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T080000
@@ -1345,7 +1345,7 @@ DTSTART:20250505T175000
 DTEND:20250505T192500
 SUMMARY:Pwo (ć)
 LOCATION:20 69
-DESCRIPTION:Połączone wsparcie ogniowe - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Połączone wsparcie ogniowe - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T080000
@@ -1401,7 +1401,7 @@ DTSTART:20250507T114000
 DTEND:20250507T131500
 SUMMARY:Sck (w)
 LOCATION:101 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T133000
@@ -1422,14 +1422,14 @@ DTSTART:20250507T175000
 DTEND:20250507T192500
 SUMMARY:BwCP (ć)
 LOCATION:308 S
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T080000
 DTEND:20250508T093500
 SUMMARY:ZLDT-1 (w)
 LOCATION:1.10/ 16
-DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: -
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T095000
@@ -1471,7 +1471,7 @@ DTSTART:20250509T095000
 DTEND:20250509T112500
 SUMMARY:MPH (w)
 LOCATION:aula/ 135
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: -
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T114000
@@ -1513,7 +1513,7 @@ DTSTART:20250512T114000
 DTEND:20250512T131500
 SUMMARY:MPH (w)
 LOCATION:aula/ 135
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: -
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T133000
@@ -1548,14 +1548,14 @@ DTSTART:20250513T095000
 DTEND:20250513T112500
 SUMMARY:BwCP (ć)
 LOCATION:308 S
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T114000
 DTEND:20250513T131500
 SUMMARY:StS (w)
 LOCATION:307 S
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: dr hab. inż. Maciej Marczyk
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący:  Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T133000
@@ -1590,7 +1590,7 @@ DTSTART:20250514T114000
 DTEND:20250514T131500
 SUMMARY:Sck (w)
 LOCATION:205 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T133000
@@ -1646,7 +1646,7 @@ DTSTART:20250515T160000
 DTEND:20250515T173500
 SUMMARY:ZLDT-1 (w)
 LOCATION:1.10/ 16
-DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: -
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T175000
@@ -1751,42 +1751,42 @@ DTSTART:20250519T114000
 DTEND:20250519T131500
 SUMMARY:StS (L)
 LOCATION:106 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T133000
 DTEND:20250519T150500
 SUMMARY:StS (L)
 LOCATION:106 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T160000
 DTEND:20250519T173500
 SUMMARY:StS (L)
 LOCATION:106 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T080000
 DTEND:20250520T093500
 SUMMARY:StS (w)
 LOCATION:101 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr hab. inż. Maciej Marczyk
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący:  Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T160000
 DTEND:20250520T173500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T175000
 DTEND:20250520T192500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T080000
@@ -1821,35 +1821,35 @@ DTSTART:20250521T160000
 DTEND:20250521T173500
 SUMMARY:SBD (L)
 LOCATION:227 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T175000
 DTEND:20250521T192500
 SUMMARY:SBD (L)
 LOCATION:227 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T080000
 DTEND:20250522T093500
 SUMMARY:Sck (w)
 LOCATION:101 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T133000
 DTEND:20250522T150500
 SUMMARY:SO (w)
 LOCATION:101 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T160000
 DTEND:20250522T173500
 SUMMARY:SBD (L)
 LOCATION:226 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T175000
@@ -1905,14 +1905,14 @@ DTSTART:20250527T080000
 DTEND:20250527T093500
 SUMMARY:StS (L)
 LOCATION:106 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T095000
 DTEND:20250527T112500
 SUMMARY:StS (L)
 LOCATION:106 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T114000
@@ -1989,14 +1989,14 @@ DTSTART:20250529T080000
 DTEND:20250529T093500
 SUMMARY:SBD (L)
 LOCATION:226 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T095000
 DTEND:20250529T112500
 SUMMARY:SBD (L)
 LOCATION:226 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T114000
@@ -2038,14 +2038,14 @@ DTSTART:20250530T114000
 DTEND:20250530T131500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T133000
 DTEND:20250530T150500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/8\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T160000
@@ -2150,7 +2150,7 @@ DTSTART:20250603T080000
 DTEND:20250603T093500
 SUMMARY:ZLDT-1 (w)
 LOCATION:1.10/ 16
-DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T095000
@@ -2192,98 +2192,98 @@ DTSTART:20250604T080000
 DTEND:20250604T093500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 1/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 1/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T095000
 DTEND:20250604T112500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 2/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 2/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T114000
 DTEND:20250604T131500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 3/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 3/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T133000
 DTEND:20250604T150500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 4/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 4/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T160000
 DTEND:20250604T173500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 5/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 5/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T175000
 DTEND:20250604T192500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 6/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 6/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T194000
 DTEND:20250604T211500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 7/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 7/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T080000
 DTEND:20250605T093500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 8/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 8/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T095000
 DTEND:20250605T112500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 9/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 9/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T114000
 DTEND:20250605T131500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 10/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 10/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T133000
 DTEND:20250605T150500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 11/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 11/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T160000
 DTEND:20250605T173500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 12/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 12/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T175000
 DTEND:20250605T192500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 13/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 13/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T194000
 DTEND:20250605T211500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 14/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 14/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T080000
@@ -2524,6 +2524,13 @@ LOCATION:255 S
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251217T080000
+DTEND:20251217T093500
+SUMMARY:PESW (w)
+LOCATION:20 69
+DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251217T114000
 DTEND:20251217T131500
 SUMMARY:OIN (w)
@@ -2573,6 +2580,20 @@ LOCATION:AW 3/043
 DESCRIPTION:Podstawy dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251222T080000
+DTEND:20251222T093500
+SUMMARY:ZLDT-1 (w)
+LOCATION:0.19/ 135
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251222T114000
+DTEND:20251222T131500
+SUMMARY:PESW (w)
+LOCATION:20 69
+DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251223T080000
 DTEND:20251223T093500
 SUMMARY:TA (w)
@@ -2592,6 +2613,13 @@ DTEND:20251223T131500
 SUMMARY:ZINŻ (w)
 LOCATION:103 K
 DESCRIPTION:Zabezpieczenie inżynieryjne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251223T133000
+DTEND:20251223T150500
+SUMMARY:Pwo (w)
+LOCATION:19 36
+DESCRIPTION:Połączone wsparcie ogniowe - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251229T080000
@@ -2811,11 +2839,32 @@ LOCATION:103 K
 DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260116T133000
+DTEND:20260116T150500
+SUMMARY:Dn (w)
+LOCATION:aula/ 135
+DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260116T160000
+DTEND:20260116T173500
+SUMMARY:ZLDT-1 (w)
+LOCATION:aula/ 135
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260119T095000
 DTEND:20260119T112500
 SUMMARY:REG (ć)
 LOCATION:AW 7
 DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260119T114000
+DTEND:20260119T131500
+SUMMARY:Pwo (w)
+LOCATION:S2 72
+DESCRIPTION:Połączone wsparcie ogniowe - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T133000
@@ -2829,7 +2878,7 @@ DTSTART:20260120T133000
 DTEND:20260120T150500
 SUMMARY:MPH (w)
 LOCATION:aula/ 135
-DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T114000
@@ -2928,6 +2977,13 @@ DTEND:20260126T173500
 SUMMARY:Pwd (w)
 LOCATION:aula/ 135
 DESCRIPTION:Przywództwo w dowodzeniu - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260127T133000
+DTEND:20260127T150500
+SUMMARY:ZLDT-1 (w)
+LOCATION:aula/ 135
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T114000
@@ -3040,6 +3096,13 @@ DTEND:20260206T150500
 SUMMARY:PKSt (w)
 LOCATION:aula/ 135
 DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/11\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T160000
+DTEND:20260206T173500
+SUMMARY:Pwo (w)
+LOCATION:19 36
+DESCRIPTION:Połączone wsparcie ogniowe - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260209T080000
@@ -3182,6 +3245,20 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260216T160000
+DTEND:20260216T173500
+SUMMARY:Dn (w)
+LOCATION:aula/ 135
+DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T080000
+DTEND:20260218T093500
+SUMMARY:ZLDT-1 (w)
+LOCATION:0.28/ 135
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260218T095000
 DTEND:20260218T112500
 SUMMARY:REG (ć)
@@ -3201,6 +3278,13 @@ DTEND:20260218T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23/18\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T160000
+DTEND:20260218T173500
+SUMMARY:MPH (w)
+LOCATION:aula/ 135
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T080000
@@ -3343,11 +3427,25 @@ LOCATION:0.19/ 135
 DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260302T080000
+DTEND:20260302T093500
+SUMMARY:Pwo (w)
+LOCATION:46 63
+DESCRIPTION:Połączone wsparcie ogniowe - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260302T114000
 DTEND:20260302T131500
 SUMMARY:PKSt (ć)
 LOCATION:0.19/ 135
 DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260302T133000
+DTEND:20260302T150500
+SUMMARY:Dn (Inne)
+LOCATION:3.16/ 135
+DESCRIPTION:Działania niekinetyczne - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T080000
@@ -3432,6 +3530,13 @@ DTEND:20260306T093500
 SUMMARY:OPW (ć)
 LOCATION:AW 3/043
 DESCRIPTION:Obrona powietrzna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T095000
+DTEND:20260306T112500
+SUMMARY:ZLDT-1 (w)
+LOCATION:aula/ 135
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T114000
@@ -3840,6 +3945,13 @@ LOCATION:0.19/ 135
 DESCRIPTION:Przywództwo w dowodzeniu - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260410T133000
+DTEND:20260410T150500
+SUMMARY:Dn (w)
+LOCATION:aula/ 135
+DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260414T095000
 DTEND:20260414T112500
 SUMMARY:DWiPD (w)
@@ -3931,6 +4043,13 @@ LOCATION:-
 DESCRIPTION:Wf_E\nRodzaj zajęć:  - \nNr zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260421T114000
+DTEND:20260421T131500
+SUMMARY:Pwo (ć)
+LOCATION:33 67
+DESCRIPTION:Połączone wsparcie ogniowe - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260421T133000
 DTEND:20260421T150500
 SUMMARY:DWiPD (ć)
@@ -3938,102 +4057,305 @@ LOCATION:255 S
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260421T160000
+DTEND:20260421T173500
+SUMMARY:Dn (Inne)
+LOCATION:0.28/ 135
+DESCRIPTION:Działania niekinetyczne - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260422T080000
 DTEND:20260422T093500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 15/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 15/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T095000
 DTEND:20260422T112500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 16/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 16/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T114000
 DTEND:20260422T131500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 17/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 17/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T133000
 DTEND:20260422T150500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 18/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 18/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T160000
 DTEND:20260422T173500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 19/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 19/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T175000
 DTEND:20260422T192500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 20/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 20/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T194000
 DTEND:20260422T211500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 21/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 21/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T080000
 DTEND:20260423T093500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 22/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 22/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T095000
 DTEND:20260423T112500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 23/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 23/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T114000
 DTEND:20260423T131500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 24/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 24/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T133000
 DTEND:20260423T150500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 25/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 25/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T160000
 DTEND:20260423T173500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 26/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 26/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T175000
 DTEND:20260423T192500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 27/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 27/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T194000
 DTEND:20260423T211500
 SUMMARY:Egz.Of (E)
 LOCATION:-
-DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 28/28\nProwadzący: -
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 28/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T080000
+DTEND:20260427T093500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 29/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T095000
+DTEND:20260427T112500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 30/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T114000
+DTEND:20260427T131500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 31/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T133000
+DTEND:20260427T150500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 32/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T160000
+DTEND:20260427T173500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 33/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T175000
+DTEND:20260427T192500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 34/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T194000
+DTEND:20260427T211500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 35/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260428T080000
+DTEND:20260428T093500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 36/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260428T095000
+DTEND:20260428T112500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 37/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260428T114000
+DTEND:20260428T131500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 38/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260428T133000
+DTEND:20260428T150500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 39/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260428T160000
+DTEND:20260428T173500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 40/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260428T175000
+DTEND:20260428T192500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 41/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260428T194000
+DTEND:20260428T211500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 42/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T080000
+DTEND:20260429T093500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 43/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T095000
+DTEND:20260429T112500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 44/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T114000
+DTEND:20260429T131500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 45/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T133000
+DTEND:20260429T150500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 46/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T160000
+DTEND:20260429T173500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 47/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T175000
+DTEND:20260429T192500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 48/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T194000
+DTEND:20260429T211500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 49/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T080000
+DTEND:20260430T093500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 50/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T095000
+DTEND:20260430T112500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 51/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T114000
+DTEND:20260430T131500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 52/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T133000
+DTEND:20260430T150500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 53/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T160000
+DTEND:20260430T173500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 54/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T175000
+DTEND:20260430T192500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 55/56\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T194000
+DTEND:20260430T211500
+SUMMARY:Egz.Of (E)
+LOCATION:-
+DESCRIPTION:Egzamin Oficerski\nRodzaj zajęć:  - \nNr zajęć: 56/56\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260501T080000
@@ -5212,589 +5534,589 @@ LOCATION:-
 DESCRIPTION:Praktyka w JW\nRodzaj zajęć:  - \nNr zajęć: 161/161\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260615T080000
-DTEND:20260615T093500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 1/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260615T095000
-DTEND:20260615T112500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 2/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260615T114000
-DTEND:20260615T131500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 3/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260615T133000
-DTEND:20260615T150500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 4/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260615T160000
-DTEND:20260615T173500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 5/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260615T175000
-DTEND:20260615T192500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 6/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260615T194000
-DTEND:20260615T211500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 7/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260616T080000
-DTEND:20260616T093500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 8/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260616T095000
-DTEND:20260616T112500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 9/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260616T114000
-DTEND:20260616T131500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 10/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260616T133000
-DTEND:20260616T150500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 11/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260616T160000
-DTEND:20260616T173500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 12/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260616T175000
-DTEND:20260616T192500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 13/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260616T194000
-DTEND:20260616T211500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 14/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260617T080000
-DTEND:20260617T093500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 15/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260617T095000
-DTEND:20260617T112500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 16/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260617T114000
-DTEND:20260617T131500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 17/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260617T133000
-DTEND:20260617T150500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 18/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260617T160000
-DTEND:20260617T173500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 19/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260617T175000
-DTEND:20260617T192500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 20/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260617T194000
-DTEND:20260617T211500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 21/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260618T080000
-DTEND:20260618T093500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 22/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260618T095000
-DTEND:20260618T112500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 23/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260618T114000
-DTEND:20260618T131500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 24/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260618T133000
-DTEND:20260618T150500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 25/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260618T160000
-DTEND:20260618T173500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 26/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260618T175000
-DTEND:20260618T192500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 27/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260618T194000
-DTEND:20260618T211500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 28/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260619T080000
-DTEND:20260619T093500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 29/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260619T095000
-DTEND:20260619T112500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 30/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260619T114000
-DTEND:20260619T131500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 31/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260619T133000
-DTEND:20260619T150500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 32/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260619T160000
-DTEND:20260619T173500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 33/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260619T175000
-DTEND:20260619T192500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 34/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260619T194000
-DTEND:20260619T211500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 35/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260620T080000
-DTEND:20260620T093500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 36/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260620T095000
-DTEND:20260620T112500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 37/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260620T114000
-DTEND:20260620T131500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 38/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260620T133000
-DTEND:20260620T150500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 39/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260620T160000
-DTEND:20260620T173500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 40/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260620T175000
-DTEND:20260620T192500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 41/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260620T194000
-DTEND:20260620T211500
-SUMMARY:P.doProm. (Inne)
-LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 42/77\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260622T080000
 DTEND:20260622T093500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 43/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 1/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260622T095000
 DTEND:20260622T112500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 44/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 2/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260622T114000
 DTEND:20260622T131500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 45/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 3/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260622T133000
 DTEND:20260622T150500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 46/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 4/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260622T160000
 DTEND:20260622T173500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 47/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 5/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260622T175000
 DTEND:20260622T192500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 48/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 6/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260622T194000
 DTEND:20260622T211500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 49/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 7/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260623T080000
 DTEND:20260623T093500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 50/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 8/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260623T095000
 DTEND:20260623T112500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 51/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 9/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260623T114000
 DTEND:20260623T131500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 52/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 10/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260623T133000
 DTEND:20260623T150500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 53/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 11/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260623T160000
 DTEND:20260623T173500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 54/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 12/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260623T175000
 DTEND:20260623T192500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 55/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 13/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260623T194000
 DTEND:20260623T211500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 56/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 14/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260624T080000
 DTEND:20260624T093500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 57/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 15/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260624T095000
 DTEND:20260624T112500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 58/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 16/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260624T114000
 DTEND:20260624T131500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 59/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 17/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260624T133000
 DTEND:20260624T150500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 60/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 18/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260624T160000
 DTEND:20260624T173500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 61/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 19/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260624T175000
 DTEND:20260624T192500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 62/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 20/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260624T194000
 DTEND:20260624T211500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 63/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 21/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260625T080000
 DTEND:20260625T093500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 64/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 22/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260625T095000
 DTEND:20260625T112500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 65/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 23/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260625T114000
 DTEND:20260625T131500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 66/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 24/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260625T133000
 DTEND:20260625T150500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 67/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 25/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260625T160000
 DTEND:20260625T173500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 68/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 26/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260625T175000
 DTEND:20260625T192500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 69/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 27/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260625T194000
 DTEND:20260625T211500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 70/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 28/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260626T080000
 DTEND:20260626T093500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 71/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 29/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260626T095000
 DTEND:20260626T112500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 72/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 30/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260626T114000
 DTEND:20260626T131500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 73/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 31/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260626T133000
 DTEND:20260626T150500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 74/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 32/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260626T160000
 DTEND:20260626T173500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 75/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 33/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260626T175000
 DTEND:20260626T192500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 76/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 34/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260626T194000
 DTEND:20260626T211500
 SUMMARY:P.doProm. (Inne)
 LOCATION:-
-DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 77/77\nProwadzący: -
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 35/77\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260627T080000
 DTEND:20260627T093500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 36/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260627T095000
+DTEND:20260627T112500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 37/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260627T114000
+DTEND:20260627T131500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 38/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260627T133000
+DTEND:20260627T150500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 39/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260627T160000
+DTEND:20260627T173500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 40/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260627T175000
+DTEND:20260627T192500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 41/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260627T194000
+DTEND:20260627T211500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 42/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260629T080000
+DTEND:20260629T093500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 43/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260629T095000
+DTEND:20260629T112500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 44/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260629T114000
+DTEND:20260629T131500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 45/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260629T133000
+DTEND:20260629T150500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 46/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260629T160000
+DTEND:20260629T173500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 47/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260629T175000
+DTEND:20260629T192500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 48/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260629T194000
+DTEND:20260629T211500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 49/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260630T080000
+DTEND:20260630T093500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 50/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260630T095000
+DTEND:20260630T112500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 51/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260630T114000
+DTEND:20260630T131500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 52/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260630T133000
+DTEND:20260630T150500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 53/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260630T160000
+DTEND:20260630T173500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 54/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260630T175000
+DTEND:20260630T192500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 55/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260630T194000
+DTEND:20260630T211500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 56/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260701T080000
+DTEND:20260701T093500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 57/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260701T095000
+DTEND:20260701T112500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 58/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260701T114000
+DTEND:20260701T131500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 59/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260701T133000
+DTEND:20260701T150500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 60/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260701T160000
+DTEND:20260701T173500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 61/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260701T175000
+DTEND:20260701T192500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 62/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260701T194000
+DTEND:20260701T211500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 63/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260702T080000
+DTEND:20260702T093500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 64/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260702T095000
+DTEND:20260702T112500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 65/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260702T114000
+DTEND:20260702T131500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 66/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260702T133000
+DTEND:20260702T150500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 67/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260702T160000
+DTEND:20260702T173500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 68/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260702T175000
+DTEND:20260702T192500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 69/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260702T194000
+DTEND:20260702T211500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 70/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260703T080000
+DTEND:20260703T093500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 71/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260703T095000
+DTEND:20260703T112500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 72/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260703T114000
+DTEND:20260703T131500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 73/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260703T133000
+DTEND:20260703T150500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 74/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260703T160000
+DTEND:20260703T173500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 75/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260703T175000
+DTEND:20260703T192500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 76/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260703T194000
+DTEND:20260703T211500
+SUMMARY:P.doProm. (Inne)
+LOCATION:-
+DESCRIPTION:Przygotowanie do promocji\nRodzaj zajęć:  - \nNr zajęć: 77/77\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260704T080000
+DTEND:20260704T093500
 SUMMARY:PROM (Inne)
 LOCATION:-
 DESCRIPTION:Promocja oficerska\nRodzaj zajęć:  - \nNr zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260627T095000
-DTEND:20260627T112500
+DTSTART:20260704T095000
+DTEND:20260704T112500
 SUMMARY:PROM (Inne)
 LOCATION:-
 DESCRIPTION:Promocja oficerska\nRodzaj zajęć:  - \nNr zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260627T114000
-DTEND:20260627T131500
+DTSTART:20260704T114000
+DTEND:20260704T131500
 SUMMARY:PROM (Inne)
 LOCATION:-
 DESCRIPTION:Promocja oficerska\nRodzaj zajęć:  - \nNr zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260627T133000
-DTEND:20260627T150500
+DTSTART:20260704T133000
+DTEND:20260704T150500
 SUMMARY:PROM (Inne)
 LOCATION:-
 DESCRIPTION:Promocja oficerska\nRodzaj zajęć:  - \nNr zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260627T160000
-DTEND:20260627T173500
+DTSTART:20260704T160000
+DTEND:20260704T173500
 SUMMARY:PROM (Inne)
 LOCATION:-
 DESCRIPTION:Promocja oficerska\nRodzaj zajęć:  - \nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260627T175000
-DTEND:20260627T192500
+DTSTART:20260704T175000
+DTEND:20260704T192500
 SUMMARY:PROM (Inne)
 LOCATION:-
 DESCRIPTION:Promocja oficerska\nRodzaj zajęć:  - \nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260627T194000
-DTEND:20260627T211500
+DTSTART:20260704T194000
+DTEND:20260704T211500
 SUMMARY:PROM (Inne)
 LOCATION:-
 DESCRIPTION:Promocja oficerska\nRodzaj zajęć:  - \nNr zajęć: 7/7\nProwadzący: -
