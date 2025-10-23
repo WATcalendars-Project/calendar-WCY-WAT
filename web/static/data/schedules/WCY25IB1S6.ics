@@ -120,21 +120,21 @@ DTSTART:20250320T080000
 DTEND:20250320T093500
 SUMMARY:SBD (w)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T095000
 DTEND:20250320T112500
 SUMMARY:SO (w)
 LOCATION:204 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T114000
 DTEND:20250320T131500
 SUMMARY:wzbnim (w)
 LOCATION:0.19/ 135
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: -
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T133000
@@ -218,7 +218,7 @@ DTSTART:20250324T133000
 DTEND:20250324T150500
 SUMMARY:Sck (w)
 LOCATION:204 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T160000
@@ -260,7 +260,7 @@ DTSTART:20250326T080000
 DTEND:20250326T093500
 SUMMARY:SO (w)
 LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T095000
@@ -295,42 +295,42 @@ DTSTART:20250327T114000
 DTEND:20250327T131500
 SUMMARY:Sck (w)
 LOCATION:101 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T133000
 DTEND:20250327T150500
 SUMMARY:wzbnim (w)
 LOCATION:AW 1
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: -
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T160000
 DTEND:20250327T173500
 SUMMARY:wzbnim (w)
 LOCATION:AW 1
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: -
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T095000
 DTEND:20250328T112500
 SUMMARY:SO (w)
 LOCATION:204 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T114000
 DTEND:20250328T131500
 SUMMARY:wzbnim (w)
 LOCATION:AW 1
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: -
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T133000
 DTEND:20250328T150500
 SUMMARY:wzbnim (w)
 LOCATION:AW 1
-DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T160000
@@ -358,7 +358,7 @@ DTSTART:20250331T114000
 DTEND:20250331T131500
 SUMMARY:Sck (w)
 LOCATION:101 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T133000
@@ -498,28 +498,28 @@ DTSTART:20250403T160000
 DTEND:20250403T173500
 SUMMARY:SO (w)
 LOCATION:101 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T175000
 DTEND:20250403T192500
 SUMMARY:SBD (w)
 LOCATION:307 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T080000
 DTEND:20250404T093500
 SUMMARY:Sck (w)
 LOCATION:101 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T095000
 DTEND:20250404T112500
 SUMMARY:PESW (w)
 LOCATION:46 63
-DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: -
+DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T133000
@@ -610,7 +610,7 @@ DTSTART:20250408T080000
 DTEND:20250408T093500
 SUMMARY:StS (w)
 LOCATION:201 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący:  Maciej Marczyk
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T095000
@@ -687,7 +687,7 @@ DTSTART:20250410T080000
 DTEND:20250410T093500
 SUMMARY:Pr.A (w)
 LOCATION:aula/ 135
-DESCRIPTION:Profilaktyka antykorupcyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Profilaktyka antykorupcyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T095000
@@ -708,7 +708,7 @@ DTSTART:20250410T133000
 DTEND:20250410T150500
 SUMMARY:BwCP (w)
 LOCATION:317 S
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący:  Maciej Marczyk
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T160000
@@ -736,7 +736,7 @@ DTSTART:20250411T114000
 DTEND:20250411T131500
 SUMMARY:Oś (w)
 LOCATION:A  59
-DESCRIPTION:Ochrona środowiska - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: -
+DESCRIPTION:Ochrona środowiska - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T133000
@@ -750,7 +750,7 @@ DTSTART:20250411T175000
 DTEND:20250411T192500
 SUMMARY:Oś (w)
 LOCATION:112 58
-DESCRIPTION:Ochrona środowiska - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
+DESCRIPTION:Ochrona środowiska - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250412T080000
@@ -813,7 +813,7 @@ DTSTART:20250414T160000
 DTEND:20250414T173500
 SUMMARY:SO (w)
 LOCATION:101 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T175000
@@ -939,7 +939,7 @@ DTSTART:20250417T175000
 DTEND:20250417T192500
 SUMMARY:SBD (w)
 LOCATION:307 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250418T080000
@@ -1065,7 +1065,7 @@ DTSTART:20250423T080000
 DTEND:20250423T093500
 SUMMARY:SO (w)
 LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T095000
@@ -1142,7 +1142,7 @@ DTSTART:20250425T080000
 DTEND:20250425T093500
 SUMMARY:Sck (w)
 LOCATION:101 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250425T095000
@@ -1163,14 +1163,14 @@ DTSTART:20250425T133000
 DTEND:20250425T150500
 SUMMARY:SBD (w)
 LOCATION:307 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250425T160000
 DTEND:20250425T173500
 SUMMARY:SBD (w)
 LOCATION:307 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250426T095000
@@ -1401,7 +1401,7 @@ DTSTART:20250507T114000
 DTEND:20250507T131500
 SUMMARY:Sck (w)
 LOCATION:101 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T133000
@@ -1422,7 +1422,7 @@ DTSTART:20250507T175000
 DTEND:20250507T192500
 SUMMARY:BwCP (ć)
 LOCATION:308 S
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący:  Leszek Kalman
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T080000
@@ -1527,7 +1527,7 @@ DTSTART:20250512T160000
 DTEND:20250512T173500
 SUMMARY:Pr.A (ć)
 LOCATION:1.9/ 16
-DESCRIPTION:Profilaktyka antykorupcyjna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Profilaktyka antykorupcyjna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T175000
@@ -1548,14 +1548,14 @@ DTSTART:20250513T095000
 DTEND:20250513T112500
 SUMMARY:BwCP (ć)
 LOCATION:308 S
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący:  Leszek Kalman
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T114000
 DTEND:20250513T131500
 SUMMARY:StS (w)
 LOCATION:307 S
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący:  Maciej Marczyk
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T133000
@@ -1590,7 +1590,7 @@ DTSTART:20250514T114000
 DTEND:20250514T131500
 SUMMARY:Sck (w)
 LOCATION:205 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T133000
@@ -1751,42 +1751,42 @@ DTSTART:20250519T114000
 DTEND:20250519T131500
 SUMMARY:StS (L)
 LOCATION:106 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący:  Leszek Kalman
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T133000
 DTEND:20250519T150500
 SUMMARY:StS (L)
 LOCATION:106 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący:  Leszek Kalman
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T160000
 DTEND:20250519T173500
 SUMMARY:StS (L)
 LOCATION:106 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący:  Leszek Kalman
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T080000
 DTEND:20250520T093500
 SUMMARY:StS (w)
 LOCATION:101 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący:  Maciej Marczyk
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T160000
 DTEND:20250520T173500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T175000
 DTEND:20250520T192500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T080000
@@ -1821,35 +1821,35 @@ DTSTART:20250521T160000
 DTEND:20250521T173500
 SUMMARY:SBD (L)
 LOCATION:227 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T175000
 DTEND:20250521T192500
 SUMMARY:SBD (L)
 LOCATION:227 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T080000
 DTEND:20250522T093500
 SUMMARY:Sck (w)
 LOCATION:101 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: mgr inż. Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T133000
 DTEND:20250522T150500
 SUMMARY:SO (w)
 LOCATION:101 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T160000
 DTEND:20250522T173500
 SUMMARY:SBD (L)
 LOCATION:226 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T175000
@@ -1905,14 +1905,14 @@ DTSTART:20250527T080000
 DTEND:20250527T093500
 SUMMARY:StS (L)
 LOCATION:106 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący:  Leszek Kalman
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T095000
 DTEND:20250527T112500
 SUMMARY:StS (L)
 LOCATION:106 65
-DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący:  Leszek Kalman
+DESCRIPTION:Sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T114000
@@ -1989,14 +1989,14 @@ DTSTART:20250529T080000
 DTEND:20250529T093500
 SUMMARY:SBD (L)
 LOCATION:226 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T095000
 DTEND:20250529T112500
 SUMMARY:SBD (L)
 LOCATION:226 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T114000
@@ -2038,14 +2038,14 @@ DTSTART:20250530T114000
 DTEND:20250530T131500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T133000
 DTEND:20250530T150500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/8\nProwadzący:  Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/8\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T160000
@@ -2528,7 +2528,7 @@ DTSTART:20251217T080000
 DTEND:20251217T093500
 SUMMARY:PESW (w)
 LOCATION:20 69
-DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: -
+DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T114000
@@ -2591,7 +2591,7 @@ DTSTART:20251222T114000
 DTEND:20251222T131500
 SUMMARY:PESW (w)
 LOCATION:20 69
-DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -
+DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251223T080000
@@ -2613,13 +2613,6 @@ DTEND:20251223T131500
 SUMMARY:ZINŻ (w)
 LOCATION:103 K
 DESCRIPTION:Zabezpieczenie inżynieryjne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251223T133000
-DTEND:20251223T150500
-SUMMARY:Pwo (w)
-LOCATION:19 36
-DESCRIPTION:Połączone wsparcie ogniowe - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251229T080000
@@ -2713,6 +2706,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260107T160000
+DTEND:20260107T173500
+SUMMARY:Pwo (w)
+LOCATION:19 36
+DESCRIPTION:Połączone wsparcie ogniowe - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260108T095000
 DTEND:20260108T112500
 SUMMARY:- (S.Sz.W.)
@@ -2774,6 +2774,13 @@ DTEND:20260112T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/18\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260113T114000
+DTEND:20260113T131500
+SUMMARY:Oś (w)
+LOCATION:A  59
+DESCRIPTION:Ochrona środowiska - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T133000
@@ -2841,13 +2848,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T133000
 DTEND:20260116T150500
-SUMMARY:Dn (w)
-LOCATION:aula/ 135
-DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260116T160000
-DTEND:20260116T173500
 SUMMARY:ZLDT-1 (w)
 LOCATION:aula/ 135
 DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: -
@@ -2986,6 +2986,13 @@ LOCATION:aula/ 135
 DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260127T160000
+DTEND:20260127T173500
+SUMMARY:Dn (w)
+LOCATION:aula/ 135
+DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260128T114000
 DTEND:20260128T131500
 SUMMARY:PKSt (ć)
@@ -2998,6 +3005,20 @@ DTEND:20260128T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/18\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260128T160000
+DTEND:20260128T173500
+SUMMARY:BwCP (w)
+LOCATION:314 S
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: dr hab. inż. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260130T080000
+DTEND:20260130T093500
+SUMMARY:PESW (w)
+LOCATION:20 69
+DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T095000
@@ -3082,6 +3103,13 @@ DTEND:20260205T131500
 SUMMARY:TW (w)
 LOCATION:118 57
 DESCRIPTION:Topografia wojskowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260205T133000
+DTEND:20260205T150500
+SUMMARY:PESW (w)
+LOCATION:20 69
+DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T114000
@@ -3252,6 +3280,13 @@ LOCATION:aula/ 135
 DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260217T095000
+DTEND:20260217T112500
+SUMMARY:BwCP (ć)
+LOCATION:309 S
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260218T080000
 DTEND:20260218T093500
 SUMMARY:ZLDT-1 (w)
@@ -3399,6 +3434,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260225T160000
+DTEND:20260225T173500
+SUMMARY:Oś (w)
+LOCATION:A  59
+DESCRIPTION:Ochrona środowiska - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260226T080000
 DTEND:20260226T093500
 SUMMARY:- (S.Sz.W.)
@@ -3497,6 +3539,13 @@ LOCATION:2 55A
 DESCRIPTION:Obrona przed bronią masowego rażenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260304T133000
+DTEND:20260304T150500
+SUMMARY:BwCP (ć)
+LOCATION:309 S
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260305T080000
 DTEND:20260305T093500
 SUMMARY:DWiPD (ć)
@@ -3537,6 +3586,13 @@ DTEND:20260306T112500
 SUMMARY:ZLDT-1 (w)
 LOCATION:aula/ 135
 DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T114000
+DTEND:20260306T131500
+SUMMARY:wzbnim (w)
+LOCATION:1.10/ 16
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T114000
@@ -3644,6 +3700,13 @@ LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260313T114000
+DTEND:20260313T131500
+SUMMARY:BwCP (ć)
+LOCATION:308 S
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260317T114000
 DTEND:20260317T131500
 SUMMARY:OPBMR (w)
@@ -3691,6 +3754,20 @@ DTEND:20260319T093500
 SUMMARY:DWiPD (ć)
 LOCATION:255 S
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T080000
+DTEND:20260320T093500
+SUMMARY:wzbnim (w)
+LOCATION:aula/ 135
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T095000
+DTEND:20260320T112500
+SUMMARY:wzbnim (w)
+LOCATION:aula/ 135
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T080000
@@ -3952,6 +4029,13 @@ LOCATION:aula/ 135
 DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260414T080000
+DTEND:20260414T093500
+SUMMARY:Pr.A (w)
+LOCATION:aula/ 135
+DESCRIPTION:Profilaktyka antykorupcyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260414T095000
 DTEND:20260414T112500
 SUMMARY:DWiPD (w)
@@ -3992,6 +4076,20 @@ DTEND:20260415T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 26/18\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T080000
+DTEND:20260417T093500
+SUMMARY:wzbnim (w)
+LOCATION:aula/ 135
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T095000
+DTEND:20260417T112500
+SUMMARY:wzbnim (w)
+LOCATION:aula/ 135
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T080000
@@ -4041,6 +4139,13 @@ DTEND:20260420T211500
 SUMMARY:Wf_E (E)
 LOCATION:-
 DESCRIPTION:Wf_E\nRodzaj zajęć:  - \nNr zajęć: 10/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T095000
+DTEND:20260421T112500
+SUMMARY:Pr.A (ć)
+LOCATION:0.19/ 135
+DESCRIPTION:Profilaktyka antykorupcyjna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T114000
