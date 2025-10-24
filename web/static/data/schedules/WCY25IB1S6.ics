@@ -715,7 +715,7 @@ DTSTART:20250410T160000
 DTEND:20250410T173500
 SUMMARY:HP (w)
 LOCATION:aula/ 135
-DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T080000
@@ -1415,7 +1415,7 @@ DTSTART:20250507T160000
 DTEND:20250507T173500
 SUMMARY:HP (ć)
 LOCATION:0.19/ 135
-DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T175000
@@ -1485,7 +1485,7 @@ DTSTART:20250509T133000
 DTEND:20250509T150500
 SUMMARY:HP (ć)
 LOCATION:1.10/ 16
-DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T160000
@@ -1569,7 +1569,7 @@ DTSTART:20250513T160000
 DTEND:20250513T173500
 SUMMARY:HP (ć)
 LOCATION:1.10/ 16
-DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: -
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T080000
@@ -2178,7 +2178,7 @@ DTSTART:20250603T160000
 DTEND:20250603T173500
 SUMMARY:HP (ć)
 LOCATION:3.16/ 135
-DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: -
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T175000
@@ -3595,6 +3595,13 @@ LOCATION:1.10/ 16
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260306T160000
+DTEND:20260306T173500
+SUMMARY:HP (w)
+LOCATION:aula/ 135
+DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260309T114000
 DTEND:20260309T131500
 SUMMARY:TA (w)
@@ -3705,6 +3712,13 @@ DTEND:20260313T131500
 SUMMARY:BwCP (ć)
 LOCATION:308 S
 DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T133000
+DTEND:20260313T150500
+SUMMARY:HP (ć)
+LOCATION:255 S
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T114000

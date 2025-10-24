@@ -1555,7 +1555,7 @@ DTSTART:20250616T095000
 DTEND:20250616T112500
 SUMMARY:MM (Inne)
 LOCATION:317 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 1/3\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T160000
@@ -1702,7 +1702,7 @@ DTSTART:20250915T160000
 DTEND:20250915T173500
 SUMMARY:MM (Inne)
 LOCATION:307 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 2/3\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250916T080000
@@ -1779,7 +1779,7 @@ DTSTART:20250919T095000
 DTEND:20250919T112500
 SUMMARY:MM (Inne)
 LOCATION:317 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 3/3\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250919T114000
@@ -1856,6 +1856,13 @@ DTSTART:20251120T160000
 DTEND:20251120T173500
 SUMMARY:MM (Inne)
 LOCATION:317 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 4/3\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251121T194000
+DTEND:20251121T211500
+SUMMARY:MM (Inne)
+LOCATION:314 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 5/3\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 END:VCALENDAR

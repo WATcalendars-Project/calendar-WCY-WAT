@@ -2559,20 +2559,6 @@ LOCATION:085 S
 DESCRIPTION:Zastosowania teorii krat w kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251024T160000
-DTEND:20251024T173500
-SUMMARY:SZP (L)
-LOCATION:078 S
-DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Marta Saniuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251024T175000
-DTEND:20251024T192500
-SUMMARY:SZP (L)
-LOCATION:078 S
-DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Marta Saniuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251025T080000
 DTEND:20251025T093500
 SUMMARY:XWF (ć)
@@ -2634,6 +2620,20 @@ DTEND:20251028T150500
 SUMMARY:Ab (ć)
 LOCATION:085 S
 DESCRIPTION:Algorytmy blokowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: dr inż. Elżbieta Burek
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251028T160000
+DTEND:20251028T173500
+SUMMARY:SZP (L)
+LOCATION:087 S
+DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251028T175000
+DTEND:20251028T192500
+SUMMARY:SZP (L)
+LOCATION:087 S
+DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T095000

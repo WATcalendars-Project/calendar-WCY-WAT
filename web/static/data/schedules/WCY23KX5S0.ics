@@ -2818,13 +2818,6 @@ LOCATION:316 S
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251104T194000
-DTEND:20251104T211500
-SUMMARY:BD(pp) (Inne)
-LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 5/3\nProwadzący: mgr inż. Józef Woźniak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251105T095000
 DTEND:20251105T112500
 SUMMARY:IO (w)
@@ -2844,6 +2837,13 @@ DTEND:20251105T173500
 SUMMARY:Wek (L)
 LOCATION:078 S
 DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/16\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251105T175000
+DTEND:20251105T192500
+SUMMARY:BD(pp) (Inne)
+LOCATION:313 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 5/3\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T080000

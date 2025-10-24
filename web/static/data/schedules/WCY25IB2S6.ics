@@ -1264,6 +1264,13 @@ LOCATION:1.10/ 16
 DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260306T160000
+DTEND:20260306T173500
+SUMMARY:HP (w)
+LOCATION:aula/ 135
+DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260309T114000
 DTEND:20260309T131500
 SUMMARY:TA (w)
@@ -1374,6 +1381,13 @@ DTEND:20260313T131500
 SUMMARY:BwCP (ć)
 LOCATION:308 S
 DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T133000
+DTEND:20260313T150500
+SUMMARY:HP (ć)
+LOCATION:255 S
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T114000
