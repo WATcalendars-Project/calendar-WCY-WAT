@@ -4267,6 +4267,20 @@ LOCATION:308 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260113T160000
+DTEND:20260113T173500
+SUMMARY:Aok (L)
+LOCATION:106 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/16\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260113T175000
+DTEND:20260113T192500
+SUMMARY:Aok (L)
+LOCATION:106 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/16\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260113T194000
 DTEND:20260113T211500
 SUMMARY:- (S.Sz.W.)
@@ -4356,20 +4370,6 @@ DTEND:20260117T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260119T080000
-DTEND:20260119T093500
-SUMMARY:Aok (L)
-LOCATION:011 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/16\nProwadzący: dr inż. Artur Arciuch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260119T095000
-DTEND:20260119T112500
-SUMMARY:Aok (L)
-LOCATION:011 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/16\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T160000

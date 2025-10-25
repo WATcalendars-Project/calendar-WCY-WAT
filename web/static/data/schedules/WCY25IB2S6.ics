@@ -211,7 +211,7 @@ DTSTART:20251217T133000
 DTEND:20251217T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/17\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T080000
@@ -351,7 +351,7 @@ DTSTART:20251231T133000
 DTEND:20251231T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/17\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T080000
@@ -372,7 +372,7 @@ DTSTART:20260107T133000
 DTEND:20260107T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/17\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T160000
@@ -442,7 +442,7 @@ DTSTART:20260112T133000
 DTEND:20260112T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/17\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T114000
@@ -484,7 +484,7 @@ DTSTART:20260114T133000
 DTEND:20260114T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/17\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T080000
@@ -540,7 +540,7 @@ DTSTART:20260119T133000
 DTEND:20260119T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/17\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T133000
@@ -561,7 +561,7 @@ DTSTART:20260121T133000
 DTEND:20260121T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/17\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T160000
@@ -627,6 +627,13 @@ LOCATION:103 K
 DESCRIPTION:Zabezpieczenie inżynieryjne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260123T160000
+DTEND:20260123T173500
+SUMMARY:TA (w)
+LOCATION:103 K
+DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260126T114000
 DTEND:20260126T131500
 SUMMARY:DSiSM (w)
@@ -638,7 +645,7 @@ DTSTART:20260126T133000
 DTEND:20260126T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/17\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T160000
@@ -673,7 +680,7 @@ DTSTART:20260128T133000
 DTEND:20260128T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/17\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T160000
@@ -750,7 +757,7 @@ DTSTART:20260204T133000
 DTEND:20260204T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/17\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260204T160000
@@ -779,13 +786,6 @@ DTEND:20260205T150500
 SUMMARY:PESW (w)
 LOCATION:20 69
 DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260206T114000
-DTEND:20260206T131500
-SUMMARY:TA (w)
-LOCATION:103 K
-DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T133000
@@ -827,7 +827,7 @@ DTSTART:20260209T133000
 DTEND:20260209T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/17\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260210T080000
@@ -890,7 +890,7 @@ DTSTART:20260211T133000
 DTEND:20260211T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/17\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260211T160000
@@ -939,7 +939,7 @@ DTSTART:20260216T133000
 DTEND:20260216T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/17\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T160000
@@ -981,7 +981,7 @@ DTSTART:20260218T133000
 DTEND:20260218T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/17\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260218T160000
@@ -1072,7 +1072,7 @@ DTSTART:20260223T133000
 DTEND:20260223T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/17\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260224T133000
@@ -1100,7 +1100,7 @@ DTSTART:20260225T133000
 DTEND:20260225T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/17\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260225T160000
@@ -1268,7 +1268,7 @@ DTSTART:20260306T160000
 DTEND:20260306T173500
 SUMMARY:HP (w)
 LOCATION:aula/ 135
-DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T114000
@@ -1387,7 +1387,7 @@ DTSTART:20260313T133000
 DTEND:20260313T150500
 SUMMARY:HP (ć)
 LOCATION:255 S
-DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T114000
@@ -1437,6 +1437,13 @@ DTEND:20260319T093500
 SUMMARY:DWiPD (ć)
 LOCATION:255 S
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T095000
+DTEND:20260319T112500
+SUMMARY:HP (ć)
+LOCATION:1.10/ 16
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T080000
@@ -1507,6 +1514,13 @@ DTEND:20260326T112500
 SUMMARY:OPW (ć)
 LOCATION:BIBL /22
 DESCRIPTION:Obrona powietrzna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T114000
+DTEND:20260326T131500
+SUMMARY:HP (ć)
+LOCATION:0.19/ 135
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T080000
@@ -1712,6 +1726,13 @@ LOCATION:aula/ 135
 DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260410T160000
+DTEND:20260410T173500
+SUMMARY:HP (w)
+LOCATION:aula/ 135
+DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260414T080000
 DTEND:20260414T093500
 SUMMARY:Pr.A (w)
@@ -1731,6 +1752,13 @@ DTEND:20260414T131500
 SUMMARY:DWiPD (w)
 LOCATION:aula/ 135
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T133000
+DTEND:20260414T150500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T080000
@@ -1758,7 +1786,21 @@ DTSTART:20260415T133000
 DTEND:20260415T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/17\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/18\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T160000
+DTEND:20260415T173500
+SUMMARY:HP (ć)
+LOCATION:0.28/ 135
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T133000
+DTEND:20260416T150500
+SUMMARY:HP (ć)
+LOCATION:255 S
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T080000

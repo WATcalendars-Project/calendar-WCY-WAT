@@ -571,13 +571,6 @@ LOCATION:51/ 62
 DESCRIPTION:Fizjologia człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251023T114000
-DTEND:20251023T131500
-SUMMARY:Als (w)
-LOCATION:301/ S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251024T080000
 DTEND:20251024T093500
 SUMMARY:- (Inne)
@@ -715,7 +708,7 @@ DTSTART:20251028T133000
 DTEND:20251028T150500
 SUMMARY:Als (w)
 LOCATION:301/ S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T095000
@@ -918,7 +911,7 @@ DTSTART:20251104T133000
 DTEND:20251104T150500
 SUMMARY:Als (w)
 LOCATION:301/ S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T080000
@@ -1283,6 +1276,13 @@ DTEND:20251117T192500
 SUMMARY:JoM (w)
 LOCATION:230 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Wykład\nNr zajęć: 8/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251118T080000
+DTEND:20251118T093500
+SUMMARY:Als (w)
+LOCATION:51/ 62
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T095000

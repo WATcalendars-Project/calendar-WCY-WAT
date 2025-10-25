@@ -2377,13 +2377,6 @@ LOCATION:205 65
 DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 5/15\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251016T133000
-DTEND:20251016T150500
-SUMMARY:WF (ć)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 37/70\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251017T080000
 DTEND:20251017T093500
 SUMMARY:Ja (ć)
@@ -2437,7 +2430,7 @@ DTSTART:20251020T114000
 DTEND:20251020T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 38/70\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 37/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T160000
@@ -2479,7 +2472,7 @@ DTSTART:20251022T095000
 DTEND:20251022T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 39/70\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 38/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T114000
@@ -2507,7 +2500,7 @@ DTSTART:20251023T133000
 DTEND:20251023T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 40/70\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 39/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T080000
@@ -2563,7 +2556,7 @@ DTSTART:20251027T114000
 DTEND:20251027T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 41/70\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 40/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T080000
@@ -2612,7 +2605,7 @@ DTSTART:20251029T095000
 DTEND:20251029T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 42/70\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 41/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T114000
@@ -2654,7 +2647,7 @@ DTSTART:20251030T133000
 DTEND:20251030T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 43/70\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 42/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T160000
@@ -2676,6 +2669,13 @@ DTEND:20251031T112500
 SUMMARY:KAB (L)
 LOCATION:078 S
 DESCRIPTION:Kryptoanaliza algorytmów blokowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/3\nProwadzący: dr inż. Michał Misztal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251031T114000
+DTEND:20251031T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 43/70\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T160000

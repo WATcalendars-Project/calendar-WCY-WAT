@@ -3350,20 +3350,6 @@ LOCATION:218 65
 DESCRIPTION:Telerobotyka\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251120T160000
-DTEND:20251120T173500
-SUMMARY:Psmo (L)
-LOCATION:106 65
-DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/15\nProwadzący:  Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T175000
-DTEND:20251120T192500
-SUMMARY:Psmo (L)
-LOCATION:106 65
-DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/15\nProwadzący:  Łukasz Czerniszewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251121T095000
 DTEND:20251121T112500
 SUMMARY:Ps (w)
@@ -3676,14 +3662,14 @@ DTSTART:20251205T160000
 DTEND:20251205T173500
 SUMMARY:Psmo (L)
 LOCATION:106 65
-DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/15\nProwadzący:  Łukasz Czerniszewski
+DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/15\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T175000
 DTEND:20251205T192500
 SUMMARY:Psmo (L)
 LOCATION:106 65
-DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/15\nProwadzący:  Łukasz Czerniszewski
+DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/15\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T080000
@@ -3837,14 +3823,14 @@ DTSTART:20251215T133000
 DTEND:20251215T150500
 SUMMARY:Psmo (L)
 LOCATION:106 65
-DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/15\nProwadzący:  Łukasz Czerniszewski
+DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/15\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T160000
 DTEND:20251215T173500
 SUMMARY:Psmo (L)
 LOCATION:106 65
-DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/15\nProwadzący:  Łukasz Czerniszewski
+DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/15\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T080000
@@ -4019,14 +4005,14 @@ DTSTART:20260112T114000
 DTEND:20260112T131500
 SUMMARY:Psmo (L)
 LOCATION:106 65
-DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/15\nProwadzący:  Łukasz Czerniszewski
+DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/15\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T133000
 DTEND:20260112T150500
 SUMMARY:Psmo (L)
 LOCATION:106 65
-DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/15\nProwadzący:  Łukasz Czerniszewski
+DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/15\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T080000
@@ -4117,14 +4103,14 @@ DTSTART:20260119T114000
 DTEND:20260119T131500
 SUMMARY:Psmo (L)
 LOCATION:106 65
-DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/15\nProwadzący:  Łukasz Czerniszewski
+DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/15\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T133000
 DTEND:20260119T150500
 SUMMARY:Psmo (L)
 LOCATION:106 65
-DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/15\nProwadzący:  Łukasz Czerniszewski
+DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/15\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T080000
@@ -4132,6 +4118,20 @@ DTEND:20260120T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 58/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260120T160000
+DTEND:20260120T173500
+SUMMARY:Psmo (L)
+LOCATION:106 65
+DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/15\nProwadzący:  Łukasz Czerniszewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260120T175000
+DTEND:20260120T192500
+SUMMARY:Psmo (L)
+LOCATION:106 65
+DESCRIPTION:Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/15\nProwadzący:  Łukasz Czerniszewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T080000

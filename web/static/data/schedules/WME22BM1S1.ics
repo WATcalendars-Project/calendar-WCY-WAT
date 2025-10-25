@@ -3196,6 +3196,27 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 231/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251104T080000
+DTEND:20251104T093500
+SUMMARY:MiSSR (P)
+LOCATION:53/ 62
+DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 1/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251104T095000
+DTEND:20251104T112500
+SUMMARY:MiSSR (P)
+LOCATION:53/ 62
+DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 2/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251104T114000
+DTEND:20251104T131500
+SUMMARY:MiSSR (P)
+LOCATION:53/ 62
+DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 3/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251105T080000
 DTEND:20251105T093500
 SUMMARY:MiSSR (L)
@@ -3228,28 +3249,28 @@ DTSTART:20251106T114000
 DTEND:20251106T131500
 SUMMARY:MiSSR (P)
 LOCATION:57/ 62
-DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 1/15\nProwadzący: -
+DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 4/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T133000
 DTEND:20251106T150500
 SUMMARY:MiSSR (P)
 LOCATION:57/ 62
-DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 2/15\nProwadzący: -
+DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 5/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T160000
 DTEND:20251106T173500
 SUMMARY:MiSSR (P)
 LOCATION:57/ 62
-DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 3/15\nProwadzący: -
+DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 6/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T175000
 DTEND:20251106T192500
 SUMMARY:MiSSR (P)
 LOCATION:57/ 62
-DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 4/15\nProwadzący: -
+DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 7/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T080000
@@ -3417,28 +3438,28 @@ DTSTART:20251113T114000
 DTEND:20251113T131500
 SUMMARY:MiSSR (P)
 LOCATION:57/ 62
-DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 5/15\nProwadzący: -
+DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 8/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T133000
 DTEND:20251113T150500
 SUMMARY:MiSSR (P)
 LOCATION:57/ 62
-DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 6/15\nProwadzący: -
+DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 9/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T160000
 DTEND:20251113T173500
 SUMMARY:MiSSR (P)
 LOCATION:57/ 62
-DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 7/15\nProwadzący: -
+DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 10/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T175000
 DTEND:20251113T192500
 SUMMARY:MiSSR (P)
 LOCATION:57/ 62
-DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 8/15\nProwadzący: -
+DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 11/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T080000
@@ -3523,34 +3544,6 @@ DTEND:20251119T112500
 SUMMARY:Sd. (Inne)
 LOCATION:54/ 62
 DESCRIPTION:Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 7/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T114000
-DTEND:20251120T131500
-SUMMARY:MiSSR (P)
-LOCATION:57/ 62
-DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 9/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T133000
-DTEND:20251120T150500
-SUMMARY:MiSSR (P)
-LOCATION:57/ 62
-DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 10/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T160000
-DTEND:20251120T173500
-SUMMARY:MiSSR (P)
-LOCATION:57/ 62
-DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 11/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T175000
-DTEND:20251120T192500
-SUMMARY:MiSSR (P)
-LOCATION:57/ 62
-DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 12/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T080000
@@ -3781,18 +3774,25 @@ DTSTART:20251211T114000
 DTEND:20251211T131500
 SUMMARY:MiSSR (P)
 LOCATION:57/ 62
-DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 13/15\nProwadzący: -
+DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 12/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T133000
 DTEND:20251211T150500
 SUMMARY:MiSSR (P)
 LOCATION:57/ 62
-DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 14/15\nProwadzący: -
+DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 13/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T160000
 DTEND:20251211T173500
+SUMMARY:MiSSR (P)
+LOCATION:57/ 62
+DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 14/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251211T175000
+DTEND:20251211T192500
 SUMMARY:MiSSR (P)
 LOCATION:57/ 62
 DESCRIPTION:Modelowanie i symulacja sprzętu rehabilitacyjnego 1 - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 15/15\nProwadzący: -

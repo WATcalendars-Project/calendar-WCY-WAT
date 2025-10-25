@@ -3476,6 +3476,13 @@ LOCATION:09 65
 DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 12/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251201T175000
+DTEND:20251201T192500
+SUMMARY:Pmsk (P)
+LOCATION:09 65
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 13/22\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251202T080000
 DTEND:20251202T093500
 SUMMARY:Sme. (ć)
@@ -3620,14 +3627,14 @@ DTSTART:20251208T133000
 DTEND:20251208T150500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 13/22\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 14/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T160000
 DTEND:20251208T173500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 14/22\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 15/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T175000
@@ -3732,14 +3739,21 @@ DTSTART:20251215T133000
 DTEND:20251215T150500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 15/22\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 16/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T160000
 DTEND:20251215T173500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 16/22\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 17/22\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251215T175000
+DTEND:20251215T192500
+SUMMARY:Pmsk (P)
+LOCATION:09 65
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 18/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T080000
@@ -4068,14 +4082,14 @@ DTSTART:20260115T080000
 DTEND:20260115T093500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 17/22\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 19/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T095000
 DTEND:20260115T112500
 SUMMARY:Pmsk (P)
 LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 18/22\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 20/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T133000
@@ -4153,20 +4167,6 @@ DTEND:20260119T131500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 67/70\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260120T080000
-DTEND:20260120T093500
-SUMMARY:Pmsk (P)
-LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 19/22\nProwadzący: dr inż. Artur Arciuch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260120T095000
-DTEND:20260120T112500
-SUMMARY:Pmsk (P)
-LOCATION:09 65
-DESCRIPTION:Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 20/22\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T114000

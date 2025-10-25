@@ -578,18 +578,18 @@ LOCATION:308 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251123T080000
-DTEND:20251123T093500
-SUMMARY:Hd (L)
-LOCATION:224 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: dr inż. Stefan Rozmus
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251123T095000
 DTEND:20251123T112500
 SUMMARY:Med (L)
 LOCATION:223 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251123T114000
+DTEND:20251123T131500
+SUMMARY:Hd (L)
+LOCATION:224 S
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: dr inż. Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251123T133000
