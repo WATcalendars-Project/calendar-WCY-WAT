@@ -263,20 +263,6 @@ LOCATION:203 65
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251026T175000
-DTEND:20251026T192500
-SUMMARY:NET (w)
-LOCATION:309 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Mariusz Chmielewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251026T194000
-DTEND:20251026T211500
-SUMMARY:NET (w)
-LOCATION:309 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Mariusz Chmielewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251101T080000
 DTEND:20251101T093500
 SUMMARY:- (Inne)
@@ -603,14 +589,14 @@ DTSTART:20251123T160000
 DTEND:20251123T173500
 SUMMARY:NET (w)
 LOCATION:309 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Mariusz Chmielewski
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251123T175000
 DTEND:20251123T192500
 SUMMARY:NET (w)
 LOCATION:309 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Mariusz Chmielewski
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251129T080000
@@ -982,6 +968,20 @@ DTEND:20260111T112500
 SUMMARY:Gk (L)
 LOCATION:223 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260111T160000
+DTEND:20260111T173500
+SUMMARY:NET (w)
+LOCATION:309 S
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Mariusz Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260111T175000
+DTEND:20260111T192500
+SUMMARY:NET (w)
+LOCATION:309 S
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T080000

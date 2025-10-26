@@ -1467,20 +1467,6 @@ LOCATION:226 S
 DESCRIPTION:Analiza sieci społecznościowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251026T114000
-DTEND:20251026T131500
-SUMMARY:Miob (L)
-LOCATION:227 S
-DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: mgr inż. Przemysław Czuba
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251026T133000
-DTEND:20251026T150500
-SUMMARY:Miob (L)
-LOCATION:227 S
-DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: mgr inż. Przemysław Czuba
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251115T080000
 DTEND:20251115T093500
 SUMMARY:Miob (w)
@@ -1513,27 +1499,41 @@ DTSTART:20251115T160000
 DTEND:20251115T173500
 SUMMARY:Miob (L)
 LOCATION:228 S
-DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: mgr inż. Przemysław Czuba
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T175000
 DTEND:20251115T192500
 SUMMARY:Miob (L)
 LOCATION:228 S
-DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: mgr inż. Przemysław Czuba
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251116T080000
 DTEND:20251116T093500
 SUMMARY:Miob (L)
 LOCATION:224 S
-DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: mgr inż. Przemysław Czuba
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251116T095000
 DTEND:20251116T112500
 SUMMARY:Miob (L)
 LOCATION:224 S
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251116T114000
+DTEND:20251116T131500
+SUMMARY:Miob (L)
+LOCATION:226 S
+DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251116T133000
+DTEND:20251116T150500
+SUMMARY:Miob (L)
+LOCATION:226 S
 DESCRIPTION:Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: mgr inż. Przemysław Czuba
 END:VEVENT
 END:VCALENDAR
