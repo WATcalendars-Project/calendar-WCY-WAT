@@ -2538,6 +2538,13 @@ LOCATION:316 S
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251105T160000
+DTEND:20251105T173500
+SUMMARY:Md2 (Inne)
+LOCATION:309 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr Łukasz Matysiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251105T175000
 DTEND:20251105T192500
 SUMMARY:Rp (Inne)
@@ -2752,7 +2759,7 @@ DTSTART:20251120T194000
 DTEND:20251120T211500
 SUMMARY:Md2 (Inne)
 LOCATION:313 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T114000

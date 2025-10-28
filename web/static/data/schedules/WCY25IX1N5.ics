@@ -326,20 +326,6 @@ LOCATION:223 S
 DESCRIPTION:Usługi przetwarzania w chmurze\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Marcin Dąbkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251030T095000
-DTEND:20251030T112500
-SUMMARY:WED (L)
-LOCATION:223 S
-DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251030T114000
-DTEND:20251030T131500
-SUMMARY:WED (L)
-LOCATION:223 S
-DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251030T133000
 DTEND:20251030T150500
 SUMMARY:WED (w)
@@ -393,14 +379,14 @@ DTSTART:20251113T095000
 DTEND:20251113T112500
 SUMMARY:WED (L)
 LOCATION:223 S
-DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T114000
 DTEND:20251113T131500
 SUMMARY:WED (L)
 LOCATION:223 S
-DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T133000
@@ -428,14 +414,14 @@ DTSTART:20251120T095000
 DTEND:20251120T112500
 SUMMARY:WED (L)
 LOCATION:223 S
-DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T114000
 DTEND:20251120T131500
 SUMMARY:WED (L)
 LOCATION:223 S
-DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T133000
@@ -491,14 +477,14 @@ DTSTART:20251204T114000
 DTEND:20251204T131500
 SUMMARY:WED (L)
 LOCATION:223 S
-DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T133000
 DTEND:20251204T150500
 SUMMARY:WED (L)
 LOCATION:223 S
-DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T080000
@@ -576,6 +562,20 @@ DTEND:20260115T112500
 SUMMARY:PZCB (w)
 LOCATION:309 S
 DESCRIPTION:Podstawowe zagadnienia cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Maciej Marczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260115T114000
+DTEND:20260115T131500
+SUMMARY:WED (L)
+LOCATION:233 S
+DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260115T133000
+DTEND:20260115T150500
+SUMMARY:WED (L)
+LOCATION:233 S
+DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T080000

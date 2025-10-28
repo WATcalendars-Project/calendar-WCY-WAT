@@ -1856,7 +1856,7 @@ DTSTART:20250915T114000
 DTEND:20250915T131500
 SUMMARY:WdP (Inne)
 LOCATION:233 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Sławomir Wysocki
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Sławomir Wysocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250915T133000
@@ -1905,7 +1905,7 @@ DTSTART:20250919T095000
 DTEND:20250919T112500
 SUMMARY:WdP (Inne)
 LOCATION:316 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250919T133000
@@ -2550,6 +2550,13 @@ DTEND:20251105T131500
 SUMMARY:Swb (L)
 LOCATION:125 65
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251105T133000
+DTEND:20251105T150500
+SUMMARY:WdP (Inne)
+LOCATION:239 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: mgr inż. Sławomir Wysocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T080000

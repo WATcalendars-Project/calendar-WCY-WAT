@@ -634,6 +634,20 @@ LOCATION:313 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251112T160000
+DTEND:20251112T173500
+SUMMARY:SoU (L)
+LOCATION:237 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/20\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251112T175000
+DTEND:20251112T192500
+SUMMARY:SoU (L)
+LOCATION:237 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/20\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251113T080000
 DTEND:20251113T093500
 SUMMARY:Est (w)
@@ -737,20 +751,6 @@ DTEND:20251118T150500
 SUMMARY:JEt (L)
 LOCATION:237 S
 DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr inż. Piotr Cybulski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251119T114000
-DTEND:20251119T131500
-SUMMARY:SoU (L)
-LOCATION:237 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/20\nProwadzący:  Sebastian Łeska
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251119T133000
-DTEND:20251119T150500
-SUMMARY:SoU (L)
-LOCATION:237 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/20\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T095000

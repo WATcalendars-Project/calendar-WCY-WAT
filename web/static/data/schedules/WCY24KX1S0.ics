@@ -3763,13 +3763,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 48/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251209T133000
-DTEND:20251209T150500
-SUMMARY:OIN (ć)
-LOCATION:AW 1
-DESCRIPTION:Ochrona informacji niejawnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251209T194000
 DTEND:20251209T211500
 SUMMARY:- (S.Sz.W.)
@@ -4342,6 +4335,13 @@ DTEND:20260121T150500
 SUMMARY:Ja (ć)
 LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 58/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260121T160000
+DTEND:20260121T173500
+SUMMARY:OIN (ć)
+LOCATION:AW 3/038
+DESCRIPTION:Ochrona informacji niejawnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T080000

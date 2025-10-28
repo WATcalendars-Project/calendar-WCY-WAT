@@ -3644,20 +3644,6 @@ LOCATION:54/ 62
 DESCRIPTION:Podstawy elektromagnetyzmu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251120T160000
-DTEND:20251120T173500
-SUMMARY:Sck (L)
-LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Sebastian Łeska
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T175000
-DTEND:20251120T192500
-SUMMARY:Sck (L)
-LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Sebastian Łeska
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251121T080000
 DTEND:20251121T093500
 SUMMARY:- (Inne)
@@ -4299,14 +4285,14 @@ DTSTART:20251216T175000
 DTEND:20251216T192500
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Sebastian Łeska
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T194000
 DTEND:20251216T211500
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Sebastian Łeska
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T095000
@@ -5370,14 +5356,14 @@ DTSTART:20260113T175000
 DTEND:20260113T192500
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Sebastian Łeska
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T194000
 DTEND:20260113T211500
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Sebastian Łeska
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T080000
@@ -5545,14 +5531,14 @@ DTSTART:20260120T175000
 DTEND:20260120T192500
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Sebastian Łeska
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T194000
 DTEND:20260120T211500
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Sebastian Łeska
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T080000
@@ -5714,6 +5700,20 @@ DTEND:20260127T150500
 SUMMARY:PEt (L)
 LOCATION:058 S
 DESCRIPTION:Podstawy elektrotechniki - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260127T160000
+DTEND:20260127T173500
+SUMMARY:Sck (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260127T175000
+DTEND:20260127T192500
+SUMMARY:Sck (L)
+LOCATION:121 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T080000

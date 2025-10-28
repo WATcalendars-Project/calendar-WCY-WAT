@@ -333,13 +333,6 @@ LOCATION:309 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251030T160000
-DTEND:20251030T173500
-SUMMARY:Nsk (ć)
-LOCATION:307 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: mgr inż. Joanna Woźniak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251103T114000
 DTEND:20251103T131500
 SUMMARY:Nsk (w)
@@ -463,7 +456,7 @@ DTSTART:20251107T133000
 DTEND:20251107T150500
 SUMMARY:Nsk (ć)
 LOCATION:307 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: mgr inż. Joanna Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: mgr inż. Joanna Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T160000
@@ -659,7 +652,7 @@ DTSTART:20251120T080000
 DTEND:20251120T093500
 SUMMARY:Nsk (ć)
 LOCATION:317 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: mgr inż. Joanna Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: mgr inż. Joanna Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T095000
@@ -673,7 +666,7 @@ DTSTART:20251120T114000
 DTEND:20251120T131500
 SUMMARY:Nsk (ć)
 LOCATION:309 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: mgr inż. Joanna Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: mgr inż. Joanna Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T080000
@@ -792,7 +785,7 @@ DTSTART:20251127T080000
 DTEND:20251127T093500
 SUMMARY:Nsk (ć)
 LOCATION:317 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: mgr inż. Joanna Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: mgr inż. Joanna Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T095000
@@ -827,7 +820,7 @@ DTSTART:20251202T133000
 DTEND:20251202T150500
 SUMMARY:Nsk (ć)
 LOCATION:309 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: mgr inż. Joanna Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: mgr inż. Joanna Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T160000
@@ -891,6 +884,13 @@ DTEND:20251204T150500
 SUMMARY:PZiP (ć)
 LOCATION:205 65
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251205T095000
+DTEND:20251205T112500
+SUMMARY:Nsk (ć)
+LOCATION:314 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: mgr inż. Joanna Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T095000

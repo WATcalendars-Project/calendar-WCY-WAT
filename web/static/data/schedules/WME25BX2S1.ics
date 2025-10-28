@@ -1019,6 +1019,13 @@ LOCATION:3/ 54
 DESCRIPTION:Podstawy grafiki inżynierskiej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251117T133000
+DTEND:20251117T150500
+SUMMARY:PGI (ć)
+LOCATION:108/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251118T080000
 DTEND:20251118T093500
 SUMMARY:Ez (w)
@@ -1108,13 +1115,6 @@ DTEND:20251120T211500
 SUMMARY:Ja (ć)
 LOCATION:237 K 235 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/15\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251121T095000
-DTEND:20251121T112500
-SUMMARY:PGI (ć)
-LOCATION:120/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T114000

@@ -1842,7 +1842,7 @@ DTSTART:20250915T114000
 DTEND:20250915T131500
 SUMMARY:WdP (Inne)
 LOCATION:233 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Sławomir Wysocki
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Sławomir Wysocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250915T133000
@@ -1891,7 +1891,7 @@ DTSTART:20250919T095000
 DTEND:20250919T112500
 SUMMARY:WdP (Inne)
 LOCATION:316 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250919T133000
@@ -2412,20 +2412,6 @@ LOCATION:139 S
 DESCRIPTION:Fizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251031T133000
-DTEND:20251031T150500
-SUMMARY:Als (L)
-LOCATION:228 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/11\nProwadzący: mgr inż. Arkadiusz Kowalski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251031T160000
-DTEND:20251031T173500
-SUMMARY:Als (L)
-LOCATION:228 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/11\nProwadzący: mgr inż. Arkadiusz Kowalski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251103T114000
 DTEND:20251103T131500
 SUMMARY:Aok (w)
@@ -2508,6 +2494,20 @@ DTEND:20251105T131500
 SUMMARY:BD(pp) (L)
 LOCATION:227 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251105T133000
+DTEND:20251105T150500
+SUMMARY:WdP (Inne)
+LOCATION:239 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: mgr inż. Sławomir Wysocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251105T160000
+DTEND:20251105T173500
+SUMMARY:Md2 (Inne)
+LOCATION:309 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr Łukasz Matysiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T080000
@@ -2605,14 +2605,7 @@ DTSTART:20251113T160000
 DTEND:20251113T173500
 SUMMARY:Als (L)
 LOCATION:227 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/11\nProwadzący: mgr inż. Arkadiusz Kowalski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251113T175000
-DTEND:20251113T192500
-SUMMARY:Als (L)
-LOCATION:227 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący: mgr inż. Arkadiusz Kowalski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/11\nProwadzący: mgr inż. Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T114000
@@ -2641,20 +2634,6 @@ DTEND:20251114T192500
 SUMMARY:Aok (L)
 LOCATION:121 65
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/16\nProwadzący: mgr inż. Artur Miktus
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251117T133000
-DTEND:20251117T150500
-SUMMARY:SO (L)
-LOCATION:237 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/13\nProwadzący:  Sebastian Łeska
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251117T160000
-DTEND:20251117T173500
-SUMMARY:SO (L)
-LOCATION:237 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/13\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T175000
@@ -2706,6 +2685,27 @@ LOCATION:316 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251119T095000
+DTEND:20251119T112500
+SUMMARY:Als (L)
+LOCATION:237 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/11\nProwadzący: mgr inż. Arkadiusz Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251119T114000
+DTEND:20251119T131500
+SUMMARY:Als (L)
+LOCATION:237 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/11\nProwadzący: mgr inż. Arkadiusz Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251119T133000
+DTEND:20251119T150500
+SUMMARY:Als (L)
+LOCATION:237 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący: mgr inż. Arkadiusz Kowalski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251120T080000
 DTEND:20251120T093500
 SUMMARY:Po (w)
@@ -2724,7 +2724,7 @@ DTSTART:20251120T194000
 DTEND:20251120T211500
 SUMMARY:Md2 (Inne)
 LOCATION:313 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T080000
@@ -2739,13 +2739,6 @@ DTEND:20251121T131500
 SUMMARY:F2 (L)
 LOCATION:139 S
 DESCRIPTION:Fizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251121T133000
-DTEND:20251121T150500
-SUMMARY:SO (L)
-LOCATION:237 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/13\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T160000
@@ -2766,14 +2759,14 @@ DTSTART:20251124T114000
 DTEND:20251124T131500
 SUMMARY:SO (L)
 LOCATION:237 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/13\nProwadzący:  Sebastian Łeska
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/13\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T133000
 DTEND:20251124T150500
 SUMMARY:SO (L)
 LOCATION:237 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/13\nProwadzący:  Sebastian Łeska
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/13\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T080000
@@ -2972,6 +2965,13 @@ LOCATION:224 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/16\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251208T080000
+DTEND:20251208T093500
+SUMMARY:SO (L)
+LOCATION:237 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/13\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251208T114000
 DTEND:20251208T131500
 SUMMARY:Als (w)
@@ -3081,14 +3081,14 @@ DTSTART:20251212T080000
 DTEND:20251212T093500
 SUMMARY:SO (L)
 LOCATION:237 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/13\nProwadzący:  Sebastian Łeska
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/13\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T095000
 DTEND:20251212T112500
 SUMMARY:SO (L)
 LOCATION:237 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący:  Sebastian Łeska
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/13\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T114000
@@ -3109,14 +3109,14 @@ DTSTART:20251215T080000
 DTEND:20251215T093500
 SUMMARY:SO (L)
 LOCATION:237 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący:  Sebastian Łeska
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/13\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T095000
 DTEND:20251215T112500
 SUMMARY:SO (L)
 LOCATION:237 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/13\nProwadzący:  Sebastian Łeska
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T114000
@@ -3312,14 +3312,14 @@ DTSTART:20260115T080000
 DTEND:20260115T093500
 SUMMARY:SO (L)
 LOCATION:237 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/13\nProwadzący:  Sebastian Łeska
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T095000
 DTEND:20260115T112500
 SUMMARY:SO (L)
 LOCATION:237 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/13\nProwadzący:  Sebastian Łeska
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/13\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T114000
@@ -3355,6 +3355,20 @@ DTEND:20260116T173500
 SUMMARY:Als (L)
 LOCATION:227 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/11\nProwadzący: mgr inż. Arkadiusz Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260119T114000
+DTEND:20260119T131500
+SUMMARY:SO (L)
+LOCATION:237 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/13\nProwadzący:  Sebastian Łeska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260119T133000
+DTEND:20260119T150500
+SUMMARY:SO (L)
+LOCATION:237 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/13\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T080000

@@ -3588,13 +3588,6 @@ LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 51/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251212T080000
-DTEND:20251212T093500
-SUMMARY:DSiSM (w)
-LOCATION:AW 3/038
-DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251212T095000
 DTEND:20251212T112500
 SUMMARY:GMiB (Inne)
@@ -3817,6 +3810,13 @@ DTEND:20260108T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 54/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260108T095000
+DTEND:20260108T112500
+SUMMARY:DSiSM (w)
+LOCATION:BIBL /22
+DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T080000
