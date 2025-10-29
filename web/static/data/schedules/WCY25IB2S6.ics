@@ -193,6 +193,13 @@ LOCATION:255 S
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251216T114000
+DTEND:20251216T131500
+SUMMARY:WIT (w)
+LOCATION:203 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251217T080000
 DTEND:20251217T093500
 SUMMARY:PESW (w)
@@ -247,6 +254,20 @@ DTEND:20251219T131500
 SUMMARY:PD (w)
 LOCATION:AW 3/043
 DESCRIPTION:Podstawy dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251219T133000
+DTEND:20251219T150500
+SUMMARY:WIT (w)
+LOCATION:203 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251219T160000
+DTEND:20251219T173500
+SUMMARY:WIT (w)
+LOCATION:203 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251222T080000
@@ -429,6 +450,20 @@ DTEND:20260109T131500
 SUMMARY:PD (w)
 LOCATION:AW 1
 DESCRIPTION:Podstawy dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260112T080000
+DTEND:20260112T093500
+SUMMARY:WIT (w)
+LOCATION:203 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260112T095000
+DTEND:20260112T112500
+SUMMARY:WIT (w)
+LOCATION:201 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T114000
@@ -687,7 +722,7 @@ DTSTART:20260128T160000
 DTEND:20260128T173500
 SUMMARY:BwCP (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: dr hab. inż. Maciej Marczyk
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący:  Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T080000
@@ -953,7 +988,7 @@ DTSTART:20260217T095000
 DTEND:20260217T112500
 SUMMARY:BwCP (ć)
 LOCATION:309 S
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260218T080000
@@ -1212,7 +1247,7 @@ DTSTART:20260304T133000
 DTEND:20260304T150500
 SUMMARY:BwCP (ć)
 LOCATION:309 S
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T080000
@@ -1380,7 +1415,7 @@ DTSTART:20260313T114000
 DTEND:20260313T131500
 SUMMARY:BwCP (ć)
 LOCATION:308 S
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T133000
