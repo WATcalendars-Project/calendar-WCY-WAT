@@ -886,13 +886,6 @@ LOCATION:314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 8/17\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251124T095000
-DTEND:20251124T112500
-SUMMARY:MD1 (ć)
-LOCATION:101 65
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący:  Anna Cichocka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251124T175000
 DTEND:20251124T192500
 SUMMARY:PGI (ć)
@@ -925,7 +918,7 @@ DTSTART:20251125T114000
 DTEND:20251125T131500
 SUMMARY:MD1 (ć)
 LOCATION:201 65
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący:  Anna Cichocka
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący:  Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T080000
@@ -1108,6 +1101,13 @@ DTEND:20251208T093500
 SUMMARY:M II (w)
 LOCATION:314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 11/17\nProwadzący:  Joanna Piasecka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251209T080000
+DTEND:20251209T093500
+SUMMARY:MD1 (ć)
+LOCATION:204 65
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący:  Anna Cichocka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T095000

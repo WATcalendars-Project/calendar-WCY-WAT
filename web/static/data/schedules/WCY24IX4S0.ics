@@ -2769,6 +2769,13 @@ LOCATION:aula/ 135
 DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251107T175000
+DTEND:20251107T192500
+SUMMARY:Md2 (Inne)
+LOCATION:314 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący:  Robert Dryło
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251108T080000
 DTEND:20251108T093500
 SUMMARY:XWF (ć)
@@ -2857,7 +2864,7 @@ DTSTART:20251120T194000
 DTEND:20251120T211500
 SUMMARY:Md2 (Inne)
 LOCATION:313 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący:  Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T080000

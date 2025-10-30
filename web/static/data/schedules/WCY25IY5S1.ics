@@ -879,6 +879,13 @@ LOCATION:314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 8/17\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251124T095000
+DTEND:20251124T112500
+SUMMARY:WDM (ć)
+LOCATION:101 65
+DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251125T080000
 DTEND:20251125T093500
 SUMMARY:PGI (w)
@@ -940,13 +947,6 @@ DTEND:20251127T150500
 SUMMARY:Mat I (ć)
 LOCATION:308 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/19\nProwadzący:  Wojciech Matuszewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251127T160000
-DTEND:20251127T173500
-SUMMARY:WDM (ć)
-LOCATION:308 S
-DESCRIPTION:Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T080000

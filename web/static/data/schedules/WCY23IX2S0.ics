@@ -2902,18 +2902,11 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 29/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251103T080000
-DTEND:20251103T093500
-SUMMARY:Sck (w)
-LOCATION:317 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 9/14\nProwadzący:  Janusz Furtak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251103T095000
 DTEND:20251103T112500
 SUMMARY:Sck (w)
 LOCATION:317 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 10/14\nProwadzący:  Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 9/14\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T114000
@@ -2928,6 +2921,13 @@ DTEND:20251103T150500
 SUMMARY:Nsk (w)
 LOCATION:317 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251103T175000
+DTEND:20251103T192500
+SUMMARY:Sck (w)
+LOCATION:317 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 10/14\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T080000
