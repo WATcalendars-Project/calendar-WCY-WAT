@@ -2776,6 +2776,20 @@ LOCATION:313 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251117T160000
+DTEND:20251117T173500
+SUMMARY:Po (L)
+LOCATION:228 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/16\nProwadzący:  Łukasz Matuszelański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251117T175000
+DTEND:20251117T192500
+SUMMARY:Po (L)
+LOCATION:228 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/16\nProwadzący:  Łukasz Matuszelański
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251118T095000
 DTEND:20251118T112500
 SUMMARY:F2 (w)
@@ -2850,14 +2864,14 @@ DTSTART:20251120T133000
 DTEND:20251120T150500
 SUMMARY:Po (L)
 LOCATION:227 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/16\nProwadzący:  Łukasz Matuszelański
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/16\nProwadzący:  Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T160000
 DTEND:20251120T173500
 SUMMARY:Po (L)
 LOCATION:227 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/16\nProwadzący:  Łukasz Matuszelański
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/16\nProwadzący:  Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T194000
@@ -3025,14 +3039,14 @@ DTSTART:20251201T114000
 DTEND:20251201T131500
 SUMMARY:Po (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/16\nProwadzący:  Łukasz Matuszelański
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/16\nProwadzący:  Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T133000
 DTEND:20251201T150500
 SUMMARY:Po (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/16\nProwadzący:  Łukasz Matuszelański
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/16\nProwadzący:  Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T160000
@@ -3229,20 +3243,6 @@ DTEND:20251212T093500
 SUMMARY:Als (w)
 LOCATION:313 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący:  Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251212T114000
-DTEND:20251212T131500
-SUMMARY:Po (L)
-LOCATION:227 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/16\nProwadzący:  Łukasz Matuszelański
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251212T133000
-DTEND:20251212T150500
-SUMMARY:Po (L)
-LOCATION:227 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/16\nProwadzący:  Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T160000

@@ -1362,18 +1362,11 @@ LOCATION:236 S
 DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący:  Patryk Serafin
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251104T080000
-DTEND:20251104T093500
-SUMMARY:Orr (w)
-LOCATION:316 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 9/6\nProwadzący:  Patryk Serafin
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251104T095000
-DTEND:20251104T112500
-SUMMARY:Orr (w)
+DTSTART:20251104T133000
+DTEND:20251104T150500
+SUMMARY:Sws (Inne)
 LOCATION:317 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 10/6\nProwadzący:  Patryk Serafin
+DESCRIPTION:Spotkanie organizacyjne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T080000
@@ -1633,6 +1626,20 @@ DTEND:20251126T131500
 SUMMARY:Swbo (L)
 LOCATION:226 S
 DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251127T160000
+DTEND:20251127T173500
+SUMMARY:Orr (w)
+LOCATION:317 S
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 9/6\nProwadzący:  Patryk Serafin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251127T175000
+DTEND:20251127T192500
+SUMMARY:Orr (w)
+LOCATION:317 S
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 10/6\nProwadzący:  Patryk Serafin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T080000

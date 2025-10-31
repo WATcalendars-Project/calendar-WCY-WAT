@@ -1313,20 +1313,6 @@ LOCATION:233 S
 DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251104T080000
-DTEND:20251104T093500
-SUMMARY:Orr (w)
-LOCATION:316 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 9/6\nProwadzący:  Patryk Serafin
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251104T095000
-DTEND:20251104T112500
-SUMMARY:Orr (w)
-LOCATION:317 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 10/6\nProwadzący:  Patryk Serafin
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251104T114000
 DTEND:20251104T131500
 SUMMARY:Bsi (L)
@@ -1626,6 +1612,20 @@ DTEND:20251127T112500
 SUMMARY:IRz (L)
 LOCATION:236 S
 DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251127T160000
+DTEND:20251127T173500
+SUMMARY:Orr (w)
+LOCATION:317 S
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 9/6\nProwadzący:  Patryk Serafin
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251127T175000
+DTEND:20251127T192500
+SUMMARY:Orr (w)
+LOCATION:317 S
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 10/6\nProwadzący:  Patryk Serafin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T080000
