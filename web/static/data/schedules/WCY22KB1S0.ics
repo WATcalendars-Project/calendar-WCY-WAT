@@ -8,14 +8,14 @@ DTSTART:20250303T095000
 DTEND:20250303T112500
 SUMMARY:Hd (w)
 LOCATION:313 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T080000
 DTEND:20250304T093500
 SUMMARY:MPR (w)
 LOCATION:308 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T095000
@@ -29,14 +29,14 @@ DTSTART:20250304T114000
 DTEND:20250304T131500
 SUMMARY:Nsk (w)
 LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T133000
 DTEND:20250304T150500
 SUMMARY:Nsk (w)
 LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T080000
@@ -50,7 +50,7 @@ DTSTART:20250305T095000
 DTEND:20250305T112500
 SUMMARY:BwCP (w)
 LOCATION:19 36
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: dr hab. inż. Maciej Marczyk
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący:  Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T133000
@@ -64,7 +64,7 @@ DTSTART:20250305T160000
 DTEND:20250305T173500
 SUMMARY:Pjf (w)
 LOCATION:307 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T114000
@@ -148,14 +148,14 @@ DTSTART:20250311T114000
 DTEND:20250311T131500
 SUMMARY:Nsk (w)
 LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T133000
 DTEND:20250311T150500
 SUMMARY:Nsk (w)
 LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T095000
@@ -176,7 +176,7 @@ DTSTART:20250313T133000
 DTEND:20250313T150500
 SUMMARY:Mn (w)
 LOCATION:309 S
-DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Piotr Marciniak
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T160000
@@ -190,7 +190,7 @@ DTSTART:20250314T080000
 DTEND:20250314T093500
 SUMMARY:Awd (w)
 LOCATION:313 S
-DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T095000
@@ -246,7 +246,7 @@ DTSTART:20250317T114000
 DTEND:20250317T131500
 SUMMARY:Hd (w)
 LOCATION:309 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T095000
@@ -260,14 +260,14 @@ DTSTART:20250318T114000
 DTEND:20250318T131500
 SUMMARY:Nsk (w)
 LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T133000
 DTEND:20250318T150500
 SUMMARY:Nsk (w)
 LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T133000
@@ -281,7 +281,7 @@ DTSTART:20250319T160000
 DTEND:20250319T173500
 SUMMARY:Pjf (w)
 LOCATION:307 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T114000
@@ -295,7 +295,7 @@ DTSTART:20250320T133000
 DTEND:20250320T150500
 SUMMARY:Mn (w)
 LOCATION:309 S
-DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Piotr Marciniak
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T160000
@@ -316,7 +316,7 @@ DTSTART:20250321T114000
 DTEND:20250321T131500
 SUMMARY:Tal (w)
 LOCATION:309 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T194000
@@ -337,14 +337,14 @@ DTSTART:20250324T095000
 DTEND:20250324T112500
 SUMMARY:Hd (w)
 LOCATION:308 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T114000
 DTEND:20250324T131500
 SUMMARY:Tal (w)
 LOCATION:309 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T080000
@@ -365,35 +365,35 @@ DTSTART:20250325T114000
 DTEND:20250325T131500
 SUMMARY:Nsk (w)
 LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T133000
 DTEND:20250325T150500
 SUMMARY:MPR (w)
 LOCATION:308 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T080000
 DTEND:20250326T093500
 SUMMARY:Awd (w)
 LOCATION:317 S
-DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T095000
 DTEND:20250326T112500
 SUMMARY:Hd (L)
 LOCATION:226 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr inż. Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T114000
 DTEND:20250326T131500
 SUMMARY:Hd (L)
 LOCATION:226 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T133000
@@ -407,14 +407,14 @@ DTSTART:20250327T080000
 DTEND:20250327T093500
 SUMMARY:Nsk (ć)
 LOCATION:314 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T095000
 DTEND:20250327T112500
 SUMMARY:Pjf (w)
 LOCATION:316 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T114000
@@ -428,7 +428,7 @@ DTSTART:20250327T133000
 DTEND:20250327T150500
 SUMMARY:Mn (w)
 LOCATION:309 S
-DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Piotr Marciniak
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T160000
@@ -463,7 +463,7 @@ DTSTART:20250328T114000
 DTEND:20250328T131500
 SUMMARY:Tal (w)
 LOCATION:309 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T133000
@@ -477,7 +477,7 @@ DTSTART:20250328T160000
 DTEND:20250328T173500
 SUMMARY:Nsk (ć)
 LOCATION:307 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T194000
@@ -498,21 +498,21 @@ DTSTART:20250331T080000
 DTEND:20250331T093500
 SUMMARY:Nsk (ć)
 LOCATION:307 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T095000
 DTEND:20250331T112500
 SUMMARY:Tal (w)
 LOCATION:308 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T114000
 DTEND:20250331T131500
 SUMMARY:Hd (w)
 LOCATION:314 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T080000
@@ -533,42 +533,42 @@ DTSTART:20250401T114000
 DTEND:20250401T131500
 SUMMARY:MPR (w)
 LOCATION:252 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T133000
 DTEND:20250401T150500
 SUMMARY:Ajf (w)
 LOCATION:316 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T160000
 DTEND:20250401T173500
 SUMMARY:Ajf (L)
 LOCATION:316 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T175000
 DTEND:20250401T192500
 SUMMARY:Nsk (ć)
 LOCATION:307 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T095000
 DTEND:20250402T112500
 SUMMARY:Pjf (w)
 LOCATION:308 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T114000
 DTEND:20250402T131500
 SUMMARY:Nsk (ć)
 LOCATION:308 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T133000
@@ -582,7 +582,7 @@ DTSTART:20250403T095000
 DTEND:20250403T112500
 SUMMARY:Hd (L)
 LOCATION:226 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr inż. Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T114000
@@ -596,14 +596,14 @@ DTSTART:20250403T133000
 DTEND:20250403T150500
 SUMMARY:Mn (w)
 LOCATION:309 S
-DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Piotr Marciniak
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T160000
 DTEND:20250403T173500
 SUMMARY:Nsk (ć)
 LOCATION:309 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T080000
@@ -624,7 +624,7 @@ DTSTART:20250404T114000
 DTEND:20250404T131500
 SUMMARY:Nsk (ć)
 LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T133000
@@ -673,14 +673,14 @@ DTSTART:20250407T160000
 DTEND:20250407T173500
 SUMMARY:Tal (w)
 LOCATION:317 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T175000
 DTEND:20250407T192500
 SUMMARY:Tal (w)
 LOCATION:317 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T095000
@@ -694,28 +694,28 @@ DTSTART:20250408T114000
 DTEND:20250408T131500
 SUMMARY:Mn (w)
 LOCATION:313 S
-DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Piotr Marciniak
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T133000
 DTEND:20250408T150500
 SUMMARY:Ajf (w)
 LOCATION:308 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T160000
 DTEND:20250408T173500
 SUMMARY:Ajf (L)
 LOCATION:308 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T095000
 DTEND:20250409T112500
 SUMMARY:Pjf (w)
 LOCATION:313 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T133000
@@ -729,21 +729,21 @@ DTSTART:20250409T160000
 DTEND:20250409T173500
 SUMMARY:Awd (w)
 LOCATION:316 S
-DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T080000
 DTEND:20250410T093500
 SUMMARY:MPR (w)
 LOCATION:308 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T095000
 DTEND:20250410T112500
 SUMMARY:Hd (w)
 LOCATION:309 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T114000
@@ -757,7 +757,7 @@ DTSTART:20250410T133000
 DTEND:20250410T150500
 SUMMARY:Nsk (ć)
 LOCATION:314 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T160000
@@ -827,21 +827,21 @@ DTSTART:20250414T080000
 DTEND:20250414T093500
 SUMMARY:MPR (L)
 LOCATION:223 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T095000
 DTEND:20250414T112500
 SUMMARY:MPR (L)
 LOCATION:223 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T114000
 DTEND:20250414T131500
 SUMMARY:Hd (L)
 LOCATION:223 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T080000
@@ -862,35 +862,35 @@ DTSTART:20250415T114000
 DTEND:20250415T131500
 SUMMARY:MPR (w)
 LOCATION:308 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T133000
 DTEND:20250415T150500
 SUMMARY:Ajf (w)
 LOCATION:307 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T160000
 DTEND:20250415T173500
 SUMMARY:Ajf (L)
 LOCATION:307 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T095000
 DTEND:20250416T112500
 SUMMARY:Awd (L)
 LOCATION:223 S
-DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T114000
 DTEND:20250416T131500
 SUMMARY:Awd (L)
 LOCATION:223 S
-DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T133000
@@ -911,14 +911,14 @@ DTSTART:20250417T080000
 DTEND:20250417T093500
 SUMMARY:Ajf (L)
 LOCATION:317 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T095000
 DTEND:20250417T112500
 SUMMARY:Hd (w)
 LOCATION:309 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T114000
@@ -932,28 +932,28 @@ DTSTART:20250417T133000
 DTEND:20250417T150500
 SUMMARY:Ajf (L)
 LOCATION:307 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T080000
 DTEND:20250423T093500
 SUMMARY:Awd (L)
 LOCATION:224 S
-DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T095000
 DTEND:20250423T112500
 SUMMARY:Awd (L)
 LOCATION:224 S
-DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T114000
 DTEND:20250423T131500
 SUMMARY:Hd (w)
 LOCATION:309 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T133000
@@ -967,7 +967,7 @@ DTSTART:20250423T160000
 DTEND:20250423T173500
 SUMMARY:BwCP (w)
 LOCATION:19 36
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: dr hab. inż. Maciej Marczyk
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący:  Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T175000
@@ -981,7 +981,7 @@ DTSTART:20250424T080000
 DTEND:20250424T093500
 SUMMARY:MPR (w)
 LOCATION:252 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T095000
@@ -1002,14 +1002,14 @@ DTSTART:20250424T133000
 DTEND:20250424T150500
 SUMMARY:Ajf (w)
 LOCATION:307 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T160000
 DTEND:20250424T173500
 SUMMARY:Ajf (L)
 LOCATION:307 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250426T080000
@@ -1030,7 +1030,7 @@ DTSTART:20250429T080000
 DTEND:20250429T093500
 SUMMARY:Tal (P)
 LOCATION:239 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 1/6\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 1/6\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T095000
@@ -1044,21 +1044,21 @@ DTSTART:20250429T114000
 DTEND:20250429T131500
 SUMMARY:MPR (w)
 LOCATION:307 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T133000
 DTEND:20250429T150500
 SUMMARY:Ajf (w)
 LOCATION:307 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T160000
 DTEND:20250429T173500
 SUMMARY:Ajf (L)
 LOCATION:307 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T080000
@@ -1072,7 +1072,7 @@ DTSTART:20250430T095000
 DTEND:20250430T112500
 SUMMARY:Pjf (w)
 LOCATION:308 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T133000
@@ -1086,7 +1086,7 @@ DTSTART:20250430T160000
 DTEND:20250430T173500
 SUMMARY:BwCP (w)
 LOCATION:19 36
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr hab. inż. Maciej Marczyk
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący:  Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T095000
@@ -1100,21 +1100,21 @@ DTSTART:20250505T114000
 DTEND:20250505T131500
 SUMMARY:Tal (P)
 LOCATION:223 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 2/6\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 2/6\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T133000
 DTEND:20250505T150500
 SUMMARY:Hd (L)
 LOCATION:226 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T160000
 DTEND:20250505T173500
 SUMMARY:Hd (L)
 LOCATION:226 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T080000
@@ -1142,14 +1142,14 @@ DTSTART:20250506T133000
 DTEND:20250506T150500
 SUMMARY:Ajf (w)
 LOCATION:307 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T160000
 DTEND:20250506T173500
 SUMMARY:Mn (L)
 LOCATION:223 S
-DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: dr inż. Piotr Marciniak
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T080000
@@ -1170,7 +1170,7 @@ DTSTART:20250507T114000
 DTEND:20250507T131500
 SUMMARY:BwCP (ć)
 LOCATION:201 65
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T133000
@@ -1191,7 +1191,7 @@ DTSTART:20250508T080000
 DTEND:20250508T093500
 SUMMARY:Tal (L)
 LOCATION:226 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T095000
@@ -1212,14 +1212,14 @@ DTSTART:20250508T133000
 DTEND:20250508T150500
 SUMMARY:Ajf (w)
 LOCATION:309 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T160000
 DTEND:20250508T173500
 SUMMARY:Ajf (L)
 LOCATION:309 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T095000
@@ -1254,7 +1254,7 @@ DTSTART:20250512T080000
 DTEND:20250512T093500
 SUMMARY:Tal (P)
 LOCATION:224 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 3/6\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 3/6\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T095000
@@ -1289,21 +1289,21 @@ DTSTART:20250513T114000
 DTEND:20250513T131500
 SUMMARY:Mn (L)
 LOCATION:236 S
-DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: dr inż. Piotr Marciniak
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T133000
 DTEND:20250513T150500
 SUMMARY:Mn (L)
 LOCATION:236 S
-DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: dr inż. Piotr Marciniak
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T114000
 DTEND:20250514T131500
 SUMMARY:BwCP (ć)
 LOCATION:201 65
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T133000
@@ -1317,14 +1317,14 @@ DTSTART:20250515T080000
 DTEND:20250515T093500
 SUMMARY:MPR (L)
 LOCATION:227 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T095000
 DTEND:20250515T112500
 SUMMARY:MPR (L)
 LOCATION:227 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T114000
@@ -1373,7 +1373,7 @@ DTSTART:20250519T080000
 DTEND:20250519T093500
 SUMMARY:Tal (P)
 LOCATION:224 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 4/6\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 4/6\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T095000
@@ -1408,35 +1408,35 @@ DTSTART:20250520T114000
 DTEND:20250520T131500
 SUMMARY:MPR (L)
 LOCATION:252 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T133000
 DTEND:20250520T150500
 SUMMARY:MPR (L)
 LOCATION:252 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T080000
 DTEND:20250521T093500
 SUMMARY:Awd (L)
 LOCATION:223 S
-DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T095000
 DTEND:20250521T112500
 SUMMARY:Awd (L)
 LOCATION:223 S
-DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T114000
 DTEND:20250521T131500
 SUMMARY:Hd (L)
 LOCATION:226 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T133000
@@ -1457,7 +1457,7 @@ DTSTART:20250522T095000
 DTEND:20250522T112500
 SUMMARY:Pjf (w)
 LOCATION:307 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T114000
@@ -1471,14 +1471,14 @@ DTSTART:20250522T133000
 DTEND:20250522T150500
 SUMMARY:Mn (L)
 LOCATION:224 S
-DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: dr inż. Piotr Marciniak
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T160000
 DTEND:20250522T173500
 SUMMARY:Mn (L)
 LOCATION:224 S
-DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: dr inż. Piotr Marciniak
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T080000
@@ -1492,14 +1492,14 @@ DTSTART:20250523T095000
 DTEND:20250523T112500
 SUMMARY:MPR (L)
 LOCATION:252 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T114000
 DTEND:20250523T131500
 SUMMARY:MPR (L)
 LOCATION:252 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T133000
@@ -1569,14 +1569,14 @@ DTSTART:20250527T114000
 DTEND:20250527T131500
 SUMMARY:Mn (L)
 LOCATION:223 S
-DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr inż. Piotr Marciniak
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T133000
 DTEND:20250527T150500
 SUMMARY:Mn (L)
 LOCATION:223 S
-DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: dr inż. Piotr Marciniak
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T095000
@@ -1590,7 +1590,7 @@ DTSTART:20250528T114000
 DTEND:20250528T131500
 SUMMARY:Tal (P)
 LOCATION:223 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 5/6\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 5/6\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T133000
@@ -1688,7 +1688,7 @@ DTSTART:20250602T114000
 DTEND:20250602T131500
 SUMMARY:Hd (L)
 LOCATION:228 S
-DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Stefan Rozmus
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Stefan Rozmus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T080000
@@ -1716,28 +1716,28 @@ DTSTART:20250605T095000
 DTEND:20250605T112500
 SUMMARY:Mn (L)
 LOCATION:227 S
-DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr inż. Piotr Marciniak
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T114000
 DTEND:20250605T131500
 SUMMARY:Mn (L)
 LOCATION:227 S
-DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: dr inż. Piotr Marciniak
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T133000
 DTEND:20250605T150500
 SUMMARY:Awd (L)
 LOCATION:228 S
-DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T160000
 DTEND:20250605T173500
 SUMMARY:Awd (L)
 LOCATION:228 S
-DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T080000
@@ -1800,14 +1800,14 @@ DTSTART:20250609T160000
 DTEND:20250609T173500
 SUMMARY:Tal (w)
 LOCATION:237 S 239 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T080000
 DTEND:20250610T093500
 SUMMARY:Tal (P)
 LOCATION:224 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 6/6\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 6/6\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T095000
@@ -1821,14 +1821,14 @@ DTSTART:20250611T095000
 DTEND:20250611T112500
 SUMMARY:Awd (w)
 LOCATION:252 S
-DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T114000
 DTEND:20250611T131500
 SUMMARY:Awd (w)
 LOCATION:252 S
-DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T133000
@@ -1891,7 +1891,7 @@ DTSTART:20250613T160000
 DTEND:20250613T173500
 SUMMARY:Tal (Inne)
 LOCATION:313 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T194000
@@ -1933,28 +1933,28 @@ DTSTART:20250617T114000
 DTEND:20250617T131500
 SUMMARY:Mn (L)
 LOCATION:224 S
-DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr inż. Piotr Marciniak
+DESCRIPTION:Metody numeryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Piotr Marciniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T133000
 DTEND:20250617T150500
 SUMMARY:Tal (L)
 LOCATION:224 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T080000
 DTEND:20250618T093500
 SUMMARY:Awd (w)
 LOCATION:307 S
-DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T095000
 DTEND:20250618T112500
 SUMMARY:Awd (w)
 LOCATION:307 S
-DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T133000
@@ -1968,14 +1968,14 @@ DTSTART:20250626T095000
 DTEND:20250626T112500
 SUMMARY:Ajf (E)
 LOCATION:313 S
-DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Automaty i języki formalne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250627T095000
 DTEND:20250627T112500
 SUMMARY:Tal (E)
 LOCATION:313 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250930T080000
@@ -1996,7 +1996,7 @@ DTSTART:20251001T080000
 DTEND:20251001T093500
 SUMMARY:Tal (Inne)
 LOCATION:307 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T114000
@@ -2010,7 +2010,7 @@ DTSTART:20251001T133000
 DTEND:20251001T150500
 SUMMARY:Muma (w)
 LOCATION:308 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T080000
@@ -2024,14 +2024,14 @@ DTSTART:20251002T095000
 DTEND:20251002T112500
 SUMMARY:SQL (w)
 LOCATION:223 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T114000
 DTEND:20251002T131500
 SUMMARY:SQL (w)
 LOCATION:223 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T133000
@@ -2045,7 +2045,7 @@ DTSTART:20251002T160000
 DTEND:20251002T173500
 SUMMARY:Wpp (Inne)
 LOCATION:314 S
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T175000
@@ -2080,14 +2080,14 @@ DTSTART:20251006T095000
 DTEND:20251006T112500
 SUMMARY:Ps (w)
 LOCATION:316 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T114000
 DTEND:20251006T131500
 SUMMARY:Med (w)
 LOCATION:309 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T133000
@@ -2101,21 +2101,21 @@ DTSTART:20251006T160000
 DTEND:20251006T173500
 SUMMARY:Nsk (Inne)
 LOCATION:307 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T175000
 DTEND:20251007T192500
 SUMMARY:Mpwsi (w)
 LOCATION:308 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/15\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/15\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T194000
 DTEND:20251007T211500
 SUMMARY:Mpwsi (w)
 LOCATION:308 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/15\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/15\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T194000
@@ -2129,7 +2129,7 @@ DTSTART:20251009T114000
 DTEND:20251009T131500
 SUMMARY:SQL (w)
 LOCATION:223 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T133000
@@ -2157,14 +2157,14 @@ DTSTART:20251013T095000
 DTEND:20251013T112500
 SUMMARY:Ps (w)
 LOCATION:316 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T114000
 DTEND:20251013T131500
 SUMMARY:Med (w)
 LOCATION:223 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T133000
@@ -2178,28 +2178,28 @@ DTSTART:20251013T160000
 DTEND:20251013T173500
 SUMMARY:Nsk (Inne)
 LOCATION:307 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T175000
 DTEND:20251014T192500
 SUMMARY:Mpwsi (w)
 LOCATION:308 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/15\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/15\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T194000
 DTEND:20251014T211500
 SUMMARY:Mpwsi (w)
 LOCATION:308 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/15\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/15\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T095000
 DTEND:20251015T112500
 SUMMARY:Ps (w)
 LOCATION:316 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T114000
@@ -2213,7 +2213,7 @@ DTSTART:20251015T133000
 DTEND:20251015T150500
 SUMMARY:Muma (w)
 LOCATION:309 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T175000
@@ -2234,14 +2234,14 @@ DTSTART:20251016T095000
 DTEND:20251016T112500
 SUMMARY:Muma (L)
 LOCATION:227 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T114000
 DTEND:20251016T131500
 SUMMARY:Muma (L)
 LOCATION:227 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T133000
@@ -2255,21 +2255,21 @@ DTSTART:20251016T160000
 DTEND:20251016T173500
 SUMMARY:Tuim (w)
 LOCATION:307 S
-DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T114000
 DTEND:20251017T131500
 SUMMARY:BbD (ć)
 LOCATION:224 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T133000
 DTEND:20251017T150500
 SUMMARY:BbD (ć)
 LOCATION:224 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251018T080000
@@ -2290,7 +2290,7 @@ DTSTART:20251020T114000
 DTEND:20251020T131500
 SUMMARY:Med (w)
 LOCATION:224 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T133000
@@ -2304,21 +2304,21 @@ DTSTART:20251021T175000
 DTEND:20251021T192500
 SUMMARY:Mpwsi (w)
 LOCATION:308 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/15\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/15\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T194000
 DTEND:20251021T211500
 SUMMARY:Mpwsi (w)
 LOCATION:308 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T095000
 DTEND:20251022T112500
 SUMMARY:Ps (w)
 LOCATION:316 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T114000
@@ -2332,21 +2332,21 @@ DTSTART:20251023T080000
 DTEND:20251023T093500
 SUMMARY:SQL (L)
 LOCATION:226 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T095000
 DTEND:20251023T112500
 SUMMARY:SQL (L)
 LOCATION:226 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/12\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/12\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T114000
 DTEND:20251023T131500
 SUMMARY:Ps (ć)
 LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T133000
@@ -2360,14 +2360,14 @@ DTSTART:20251023T160000
 DTEND:20251023T173500
 SUMMARY:Tuim (w)
 LOCATION:307 S
-DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T175000
 DTEND:20251024T192500
 SUMMARY:Wpp (Inne)
 LOCATION:313 S 19 36
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T080000
@@ -2388,7 +2388,7 @@ DTSTART:20251027T114000
 DTEND:20251027T131500
 SUMMARY:Med (w)
 LOCATION:224 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T133000
@@ -2402,35 +2402,35 @@ DTSTART:20251028T133000
 DTEND:20251028T150500
 SUMMARY:Med (L)
 LOCATION:223 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T175000
 DTEND:20251028T192500
 SUMMARY:Mpwsi (w)
 LOCATION:308 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/15\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/15\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T194000
 DTEND:20251028T211500
 SUMMARY:Mpwsi (w)
 LOCATION:308 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 8/15\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 8/15\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T080000
 DTEND:20251029T093500
 SUMMARY:BbD (ć)
 LOCATION:226 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T095000
 DTEND:20251029T112500
 SUMMARY:BbD (ć)
 LOCATION:226 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T114000
@@ -2444,14 +2444,14 @@ DTSTART:20251029T133000
 DTEND:20251029T150500
 SUMMARY:Muma (w)
 LOCATION:307 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T160000
 DTEND:20251029T173500
 SUMMARY:Tuim (w)
 LOCATION:307 S
-DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T175000
@@ -2465,14 +2465,14 @@ DTSTART:20251030T095000
 DTEND:20251030T112500
 SUMMARY:Muma (L)
 LOCATION:228 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T114000
 DTEND:20251030T131500
 SUMMARY:Muma (L)
 LOCATION:228 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T133000
@@ -2486,14 +2486,14 @@ DTSTART:20251030T160000
 DTEND:20251030T173500
 SUMMARY:Tuim (w)
 LOCATION:308 S
-DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T095000
 DTEND:20251031T112500
 SUMMARY:Ps (w)
 LOCATION:316 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T080000
@@ -2507,14 +2507,14 @@ DTSTART:20251103T095000
 DTEND:20251103T112500
 SUMMARY:BbD (L)
 LOCATION:226 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/11\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/11\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T114000
 DTEND:20251103T131500
 SUMMARY:BbD (L)
 LOCATION:226 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/11\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/11\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T133000
@@ -2528,7 +2528,7 @@ DTSTART:20251104T114000
 DTEND:20251104T131500
 SUMMARY:Med (L)
 LOCATION:226 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T133000
@@ -2542,14 +2542,14 @@ DTSTART:20251104T175000
 DTEND:20251104T192500
 SUMMARY:Mpwsi (w)
 LOCATION:308 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 9/15\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 9/15\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T194000
 DTEND:20251104T211500
 SUMMARY:Mpwsi (w)
 LOCATION:308 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 10/15\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 10/15\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T114000
@@ -2563,7 +2563,7 @@ DTSTART:20251105T133000
 DTEND:20251105T150500
 SUMMARY:Msz (w)
 LOCATION:307 S
-DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T194000
@@ -2591,7 +2591,7 @@ DTSTART:20251106T114000
 DTEND:20251106T131500
 SUMMARY:Ps (ć)
 LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T133000
@@ -2605,28 +2605,28 @@ DTSTART:20251106T160000
 DTEND:20251106T173500
 SUMMARY:Tuim (w)
 LOCATION:307 S
-DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T080000
 DTEND:20251107T093500
 SUMMARY:Tuim (L)
 LOCATION:224 S
-DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T095000
 DTEND:20251107T112500
 SUMMARY:Ps (w)
 LOCATION:316 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T114000
 DTEND:20251107T131500
 SUMMARY:Miar (w)
 LOCATION:316 S
-DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251108T080000
@@ -2640,14 +2640,14 @@ DTSTART:20251112T080000
 DTEND:20251112T093500
 SUMMARY:Tuim (L)
 LOCATION:227 S
-DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T095000
 DTEND:20251112T112500
 SUMMARY:Tuim (L)
 LOCATION:227 S
-DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T114000
@@ -2661,7 +2661,7 @@ DTSTART:20251112T133000
 DTEND:20251112T150500
 SUMMARY:Muma (w)
 LOCATION:309 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T194000
@@ -2675,21 +2675,21 @@ DTSTART:20251113T080000
 DTEND:20251113T093500
 SUMMARY:Msz (L)
 LOCATION:223 S
-DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący: mgr inż. Przemysław Czuba
+DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący:  Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T095000
 DTEND:20251113T112500
 SUMMARY:Muma (L)
 LOCATION:237 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T114000
 DTEND:20251113T131500
 SUMMARY:Muma (L)
 LOCATION:237 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T133000
@@ -2724,21 +2724,21 @@ DTSTART:20251114T080000
 DTEND:20251114T093500
 SUMMARY:SQL (L)
 LOCATION:223 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/12\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/12\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T095000
 DTEND:20251114T112500
 SUMMARY:SQL (L)
 LOCATION:223 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T114000
 DTEND:20251114T131500
 SUMMARY:Miar (w)
 LOCATION:316 S
-DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T080000
@@ -2759,14 +2759,14 @@ DTSTART:20251117T095000
 DTEND:20251117T112500
 SUMMARY:BbD (L)
 LOCATION:226 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/11\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/11\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T114000
 DTEND:20251117T131500
 SUMMARY:BbD (L)
 LOCATION:226 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T133000
@@ -2780,49 +2780,49 @@ DTSTART:20251117T160000
 DTEND:20251117T173500
 SUMMARY:BbD (w)
 LOCATION:313 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T080000
 DTEND:20251118T093500
 SUMMARY:Med (w)
 LOCATION:224 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T095000
 DTEND:20251118T112500
 SUMMARY:Msz (L)
 LOCATION:237 S
-DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący: mgr inż. Przemysław Czuba
+DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący:  Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T133000
 DTEND:20251118T150500
 SUMMARY:Med (L)
 LOCATION:224 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T175000
 DTEND:20251118T192500
 SUMMARY:Mpwsi (w)
 LOCATION:308 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 11/15\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 11/15\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T194000
 DTEND:20251118T211500
 SUMMARY:Mpwsi (w)
 LOCATION:308 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 12/15\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 12/15\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T095000
 DTEND:20251119T112500
 SUMMARY:Tuim (P)
 LOCATION:226 S
-DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Projekt\nNr zajęć: 1/5\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Projekt\nNr zajęć: 1/5\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T114000
@@ -2836,14 +2836,14 @@ DTSTART:20251119T133000
 DTEND:20251119T150500
 SUMMARY:Msz (w)
 LOCATION:313 S
-DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T114000
 DTEND:20251120T131500
 SUMMARY:Msz (L)
 LOCATION:233 S
-DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: mgr inż. Przemysław Czuba
+DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący:  Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T133000
@@ -2871,21 +2871,21 @@ DTSTART:20251121T095000
 DTEND:20251121T112500
 SUMMARY:Ps (w)
 LOCATION:316 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T114000
 DTEND:20251121T131500
 SUMMARY:Miar (w)
 LOCATION:309 S
-DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T133000
 DTEND:20251121T150500
 SUMMARY:Ps (ć)
 LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T080000
@@ -2906,14 +2906,14 @@ DTSTART:20251124T095000
 DTEND:20251124T112500
 SUMMARY:Tuim (L)
 LOCATION:-
-DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T114000
 DTEND:20251124T131500
 SUMMARY:Tuim (L)
 LOCATION:-
-DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T133000
@@ -2927,49 +2927,49 @@ DTSTART:20251124T160000
 DTEND:20251124T173500
 SUMMARY:BbD (w)
 LOCATION:313 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T080000
 DTEND:20251125T093500
 SUMMARY:Med (w)
 LOCATION:307 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T095000
 DTEND:20251125T112500
 SUMMARY:Msz (w)
 LOCATION:317 S
-DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T175000
 DTEND:20251125T192500
 SUMMARY:Mpwsi (w)
 LOCATION:308 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 13/15\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 13/15\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T194000
 DTEND:20251125T211500
 SUMMARY:Mpwsi (w)
 LOCATION:308 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 14/15\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 14/15\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T080000
 DTEND:20251126T093500
 SUMMARY:Msz (L)
 LOCATION:228 S
-DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący: mgr inż. Przemysław Czuba
+DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący:  Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T095000
 DTEND:20251126T112500
 SUMMARY:Msz (L)
 LOCATION:228 S
-DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący: mgr inż. Przemysław Czuba
+DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący:  Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T114000
@@ -2983,7 +2983,7 @@ DTSTART:20251126T160000
 DTEND:20251126T173500
 SUMMARY:Muma (w)
 LOCATION:313 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T194000
@@ -2997,14 +2997,14 @@ DTSTART:20251127T080000
 DTEND:20251127T093500
 SUMMARY:Mspb (w)
 LOCATION:308 S
-DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T095000
 DTEND:20251127T112500
 SUMMARY:Mspb (w)
 LOCATION:308 S
-DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T133000
@@ -3053,14 +3053,14 @@ DTSTART:20251201T095000
 DTEND:20251201T112500
 SUMMARY:BbD (L)
 LOCATION:227 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/11\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/11\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T114000
 DTEND:20251201T131500
 SUMMARY:BbD (L)
 LOCATION:227 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/11\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/11\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T133000
@@ -3074,49 +3074,49 @@ DTSTART:20251201T160000
 DTEND:20251201T173500
 SUMMARY:BbD (w)
 LOCATION:313 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T095000
 DTEND:20251202T112500
 SUMMARY:Med (L)
 LOCATION:226 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T133000
 DTEND:20251202T150500
 SUMMARY:Mspb (w)
 LOCATION:236 S
-DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T160000
 DTEND:20251202T173500
 SUMMARY:Mspb (w)
 LOCATION:236 S
-DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T175000
 DTEND:20251202T192500
 SUMMARY:Mpwsi (w)
 LOCATION:308 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 15/15\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 15/15\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T194000
 DTEND:20251202T211500
 SUMMARY:Mpwsi (L)
 LOCATION:226 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T080000
 DTEND:20251203T093500
 SUMMARY:Ps (ć)
 LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T095000
@@ -3137,7 +3137,7 @@ DTSTART:20251203T133000
 DTEND:20251203T150500
 SUMMARY:Msz (w)
 LOCATION:313 S
-DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T080000
@@ -3193,28 +3193,28 @@ DTSTART:20251205T080000
 DTEND:20251205T093500
 SUMMARY:SQL (L)
 LOCATION:223 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T095000
 DTEND:20251205T112500
 SUMMARY:SQL (L)
 LOCATION:223 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T114000
 DTEND:20251205T131500
 SUMMARY:Tuim (P)
 LOCATION:224 S
-DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Projekt\nNr zajęć: 2/5\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Projekt\nNr zajęć: 2/5\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T133000
 DTEND:20251205T150500
 SUMMARY:Tuim (P)
 LOCATION:224 S
-DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Projekt\nNr zajęć: 3/5\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Projekt\nNr zajęć: 3/5\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T080000
@@ -3235,7 +3235,7 @@ DTSTART:20251208T114000
 DTEND:20251208T131500
 SUMMARY:Mspb (w)
 LOCATION:313 S
-DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T133000
@@ -3249,42 +3249,42 @@ DTSTART:20251208T160000
 DTEND:20251208T173500
 SUMMARY:BbD (w)
 LOCATION:313 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T080000
 DTEND:20251209T093500
 SUMMARY:Msz (L)
 LOCATION:226 S
-DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący: mgr inż. Przemysław Czuba
+DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący:  Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T095000
 DTEND:20251209T112500
 SUMMARY:Msz (L)
 LOCATION:226 S
-DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący: mgr inż. Przemysław Czuba
+DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący:  Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T114000
 DTEND:20251209T131500
 SUMMARY:Msz (w)
 LOCATION:317 S
-DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T133000
 DTEND:20251209T150500
 SUMMARY:Mspb (w)
 LOCATION:236 S
-DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T160000
 DTEND:20251209T173500
 SUMMARY:Mspb (w)
 LOCATION:236 S
-DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T080000
@@ -3319,21 +3319,21 @@ DTSTART:20251210T175000
 DTEND:20251210T192500
 SUMMARY:Mpwsi (L)
 LOCATION:223 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T194000
 DTEND:20251210T211500
 SUMMARY:Mpwsi (L)
 LOCATION:223 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T114000
 DTEND:20251211T131500
 SUMMARY:Med (L)
 LOCATION:224 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T133000
@@ -3368,28 +3368,28 @@ DTSTART:20251212T080000
 DTEND:20251212T093500
 SUMMARY:Muma (L)
 LOCATION:224 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T095000
 DTEND:20251212T112500
 SUMMARY:Muma (L)
 LOCATION:224 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T114000
 DTEND:20251212T131500
 SUMMARY:Mspb (L)
 LOCATION:223 S
-DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T133000
 DTEND:20251212T150500
 SUMMARY:Mspb (L)
 LOCATION:223 S
-DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T080000
@@ -3410,14 +3410,14 @@ DTSTART:20251215T095000
 DTEND:20251215T112500
 SUMMARY:BbD (L)
 LOCATION:223 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/11\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/11\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T114000
 DTEND:20251215T131500
 SUMMARY:BbD (L)
 LOCATION:223 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/11\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/11\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T133000
@@ -3431,28 +3431,28 @@ DTSTART:20251215T160000
 DTEND:20251215T173500
 SUMMARY:BbD (w)
 LOCATION:313 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T114000
 DTEND:20251216T131500
 SUMMARY:Med (L)
 LOCATION:236 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T133000
 DTEND:20251216T150500
 SUMMARY:Miar (w)
 LOCATION:227 S
-DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T160000
 DTEND:20251216T173500
 SUMMARY:Miar (w)
 LOCATION:227 S
-DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Metody ilościowe analizy ryzyka\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T080000
@@ -3480,35 +3480,35 @@ DTSTART:20251217T133000
 DTEND:20251217T150500
 SUMMARY:Msz (w)
 LOCATION:313 S
-DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T175000
 DTEND:20251217T192500
 SUMMARY:Mpwsi (L)
 LOCATION:223 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T194000
 DTEND:20251217T211500
 SUMMARY:Mpwsi (L)
 LOCATION:223 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T095000
 DTEND:20251218T112500
 SUMMARY:Ps (ć)
 LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T114000
 DTEND:20251218T131500
 SUMMARY:Mspb (L)
 LOCATION:223 S
-DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T133000
@@ -3536,28 +3536,28 @@ DTSTART:20251219T080000
 DTEND:20251219T093500
 SUMMARY:SQL (L)
 LOCATION:223 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T095000
 DTEND:20251219T112500
 SUMMARY:SQL (L)
 LOCATION:223 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T114000
 DTEND:20251219T131500
 SUMMARY:Tuim (P)
 LOCATION:226 S
-DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Projekt\nNr zajęć: 4/5\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Projekt\nNr zajęć: 4/5\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T133000
 DTEND:20251219T150500
 SUMMARY:Tuim (P)
 LOCATION:226 S
-DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Projekt\nNr zajęć: 5/5\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie usługowe i mobilne\nRodzaj zajęć: Projekt\nNr zajęć: 5/5\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T080000
@@ -3571,7 +3571,7 @@ DTSTART:20260107T095000
 DTEND:20260107T112500
 SUMMARY:Med (L)
 LOCATION:228 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T114000
@@ -3585,21 +3585,21 @@ DTSTART:20260107T133000
 DTEND:20260107T150500
 SUMMARY:Msz (w)
 LOCATION:313 S
-DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T175000
 DTEND:20260107T192500
 SUMMARY:Mpwsi (L)
 LOCATION:223 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T194000
 DTEND:20260107T211500
 SUMMARY:Mpwsi (L)
 LOCATION:223 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T080000
@@ -3655,28 +3655,28 @@ DTSTART:20260109T080000
 DTEND:20260109T093500
 SUMMARY:SQL (L)
 LOCATION:223 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T095000
 DTEND:20260109T112500
 SUMMARY:SQL (L)
 LOCATION:223 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T114000
 DTEND:20260109T131500
 SUMMARY:Ps (ć)
 LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T160000
 DTEND:20260109T173500
 SUMMARY:Mspb (L)
 LOCATION:224 S
-DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260110T080000
@@ -3697,14 +3697,14 @@ DTSTART:20260112T095000
 DTEND:20260112T112500
 SUMMARY:BbD (L)
 LOCATION:223 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/11\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/11\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T114000
 DTEND:20260112T131500
 SUMMARY:BbD (L)
 LOCATION:223 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/11\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/11\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T133000
@@ -3718,21 +3718,21 @@ DTSTART:20260112T160000
 DTEND:20260112T173500
 SUMMARY:BbD (w)
 LOCATION:316 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T175000
 DTEND:20260113T192500
 SUMMARY:Mpwsi (P)
 LOCATION:227 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 1/6\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 1/6\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T194000
 DTEND:20260113T211500
 SUMMARY:Mpwsi (P)
 LOCATION:227 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 2/6\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 2/6\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T080000
@@ -3746,7 +3746,7 @@ DTSTART:20260114T095000
 DTEND:20260114T112500
 SUMMARY:Med (L)
 LOCATION:223 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T114000
@@ -3760,14 +3760,14 @@ DTSTART:20260114T175000
 DTEND:20260114T192500
 SUMMARY:Mpwsi (L)
 LOCATION:223 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T194000
 DTEND:20260114T211500
 SUMMARY:Mpwsi (L)
 LOCATION:223 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T133000
@@ -3781,7 +3781,7 @@ DTSTART:20260116T160000
 DTEND:20260116T173500
 SUMMARY:Mspb (L)
 LOCATION:224 S
-DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T080000
@@ -3809,21 +3809,21 @@ DTSTART:20260119T160000
 DTEND:20260119T173500
 SUMMARY:BbD (w)
 LOCATION:316 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T175000
 DTEND:20260120T192500
 SUMMARY:Mpwsi (P)
 LOCATION:227 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 3/6\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 3/6\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T194000
 DTEND:20260120T211500
 SUMMARY:Mpwsi (P)
 LOCATION:227 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 4/6\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 4/6\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T114000
@@ -3837,7 +3837,7 @@ DTSTART:20260121T133000
 DTEND:20260121T150500
 SUMMARY:Msz (w)
 LOCATION:309 S
-DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T080000
@@ -3872,28 +3872,28 @@ DTSTART:20260122T160000
 DTEND:20260122T173500
 SUMMARY:Mspb (L)
 LOCATION:223 S
-DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T080000
 DTEND:20260123T093500
 SUMMARY:SQL (L)
 LOCATION:223 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/12\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/12\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T095000
 DTEND:20260123T112500
 SUMMARY:SQL (L)
 LOCATION:223 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T114000
 DTEND:20260123T131500
 SUMMARY:Ps (ć)
 LOCATION:313 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T080000
@@ -3914,14 +3914,14 @@ DTSTART:20260126T095000
 DTEND:20260126T112500
 SUMMARY:Ps (w)
 LOCATION:317 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T114000
 DTEND:20260126T131500
 SUMMARY:Med (L)
 LOCATION:236 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T133000
@@ -3935,28 +3935,28 @@ DTSTART:20260127T175000
 DTEND:20260127T192500
 SUMMARY:Mpwsi (P)
 LOCATION:227 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 5/6\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 5/6\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T194000
 DTEND:20260127T211500
 SUMMARY:Mpwsi (P)
 LOCATION:227 S
-DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 6/6\nProwadzący: dr Tomasz Protasowicki
+DESCRIPTION:Metody projektowania i wdrażania systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 6/6\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T080000
 DTEND:20260128T093500
 SUMMARY:Muma (w)
 LOCATION:316 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T095000
 DTEND:20260128T112500
 SUMMARY:Muma (w)
 LOCATION:316 S
-DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr Jarosław Olejniczak
+DESCRIPTION:Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T114000
@@ -3984,21 +3984,21 @@ DTSTART:20260130T080000
 DTEND:20260130T093500
 SUMMARY:Mspb (L)
 LOCATION:223 S
-DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T095000
 DTEND:20260130T112500
 SUMMARY:Mspb (L)
 LOCATION:223 S
-DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Modelowanie i symulacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T114000
 DTEND:20260130T131500
 SUMMARY:BbD (L)
 LOCATION:224 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/11\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/11\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260131T080000
