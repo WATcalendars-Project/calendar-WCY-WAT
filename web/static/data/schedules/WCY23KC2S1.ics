@@ -1159,20 +1159,6 @@ LOCATION:316 S
 DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący:  Joanna Woźniak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260107T114000
-DTEND:20260107T131500
-SUMMARY:Est (L)
-LOCATION:120 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Michał Jarosz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260107T133000
-DTEND:20260107T150500
-SUMMARY:Est (L)
-LOCATION:120 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Michał Jarosz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260108T095000
 DTEND:20260108T112500
 SUMMARY:Nsk (ć)
@@ -1290,6 +1276,20 @@ DTEND:20260120T150500
 SUMMARY:SoU (L)
 LOCATION:237 S
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 18/20\nProwadzący:  Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260122T080000
+DTEND:20260122T093500
+SUMMARY:Est (L)
+LOCATION:120 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260122T095000
+DTEND:20260122T112500
+SUMMARY:Est (L)
+LOCATION:120 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T114000

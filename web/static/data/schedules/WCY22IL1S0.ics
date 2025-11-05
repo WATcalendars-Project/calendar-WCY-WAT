@@ -3035,6 +3035,13 @@ LOCATION:313 S
 DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251120T095000
+DTEND:20251120T112500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 44/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251120T175000
 DTEND:20251120T192500
 SUMMARY:Insz (L)
@@ -3060,7 +3067,7 @@ DTSTART:20251121T114000
 DTEND:20251121T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 44/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 45/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T133000
@@ -3109,7 +3116,7 @@ DTSTART:20251125T080000
 DTEND:20251125T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 45/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 46/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T095000
@@ -3242,7 +3249,7 @@ DTSTART:20251202T080000
 DTEND:20251202T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 46/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 47/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T095000
@@ -3305,7 +3312,7 @@ DTSTART:20251205T114000
 DTEND:20251205T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 47/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 48/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T133000
@@ -3347,7 +3354,7 @@ DTSTART:20251209T080000
 DTEND:20251209T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 48/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 49/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T095000
@@ -3445,7 +3452,7 @@ DTSTART:20251212T114000
 DTEND:20251212T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 49/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 50/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T133000
@@ -3480,7 +3487,7 @@ DTSTART:20251216T080000
 DTEND:20251216T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 50/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 51/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T095000
@@ -3571,7 +3578,7 @@ DTSTART:20251219T114000
 DTEND:20251219T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 51/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 52/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T133000
@@ -3593,13 +3600,6 @@ DTEND:20260107T093500
 SUMMARY:Mnwd (L)
 LOCATION:95 S
 DESCRIPTION:Metody i narzędzia wspomagania dowodzenia\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący:  Dawid Maślanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260107T095000
-DTEND:20260107T112500
-SUMMARY:WF (ć)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 52/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T114000

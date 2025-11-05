@@ -3238,13 +3238,6 @@ LOCATION:28 69
 DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251212T080000
-DTEND:20251212T093500
-SUMMARY:Als (w)
-LOCATION:313 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący:  Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251212T160000
 DTEND:20251212T173500
 SUMMARY:Aok (L)
@@ -3347,7 +3340,7 @@ DTSTART:20251219T080000
 DTEND:20251219T093500
 SUMMARY:Als (w)
 LOCATION:313 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T095000
@@ -3502,6 +3495,13 @@ DTEND:20260116T173500
 SUMMARY:Sm (L)
 LOCATION:078 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący:  Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260119T080000
+DTEND:20260119T093500
+SUMMARY:Als (w)
+LOCATION:317 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T160000

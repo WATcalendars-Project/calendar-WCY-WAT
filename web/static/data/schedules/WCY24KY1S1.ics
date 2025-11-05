@@ -3343,13 +3343,6 @@ LOCATION:313 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251212T080000
-DTEND:20251212T093500
-SUMMARY:Als (w)
-LOCATION:313 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący:  Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251215T080000
 DTEND:20251215T093500
 SUMMARY:Aok (w)
@@ -3424,7 +3417,7 @@ DTSTART:20251219T080000
 DTEND:20251219T093500
 SUMMARY:Als (w)
 LOCATION:313 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T080000
@@ -3537,6 +3530,13 @@ DTEND:20260115T112500
 SUMMARY:SO (w)
 LOCATION:313 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 13/13\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260119T080000
+DTEND:20260119T093500
+SUMMARY:Als (w)
+LOCATION:317 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T095000

@@ -3147,13 +3147,6 @@ LOCATION:085 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący:  Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251212T080000
-DTEND:20251212T093500
-SUMMARY:Als (w)
-LOCATION:313 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący:  Kazimierz Worwa
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251215T080000
 DTEND:20251215T093500
 SUMMARY:Aok (w)
@@ -3256,7 +3249,7 @@ DTSTART:20251219T080000
 DTEND:20251219T093500
 SUMMARY:Als (w)
 LOCATION:313 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T080000
@@ -3404,6 +3397,13 @@ DTEND:20260116T093500
 SUMMARY:Tik (L)
 LOCATION:120 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący:  Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260119T080000
+DTEND:20260119T093500
+SUMMARY:Als (w)
+LOCATION:317 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T133000

@@ -3525,13 +3525,6 @@ LOCATION:13 71
 DESCRIPTION:Biophotonics in medical sciences - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251106T133000
-DTEND:20251106T150500
-SUMMARY:BMS (Inne)
-LOCATION:13 71
-DESCRIPTION:Biophotonics in medical sciences - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 4/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251107T080000
 DTEND:20251107T093500
 SUMMARY:- (Inne)
@@ -3732,7 +3725,7 @@ DTSTART:20251120T114000
 DTEND:20251120T131500
 SUMMARY:BMS (Inne)
 LOCATION:13 71
-DESCRIPTION:Biophotonics in medical sciences - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 5/7\nProwadzący: -
+DESCRIPTION:Biophotonics in medical sciences - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T133000
@@ -3824,6 +3817,13 @@ DTEND:20251125T150500
 SUMMARY:Sd. (Inne)
 LOCATION:13 71
 DESCRIPTION:Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 9/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251125T160000
+DTEND:20251125T173500
+SUMMARY:BMS (Inne)
+LOCATION:13 71
+DESCRIPTION:Biophotonics in medical sciences - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T114000
