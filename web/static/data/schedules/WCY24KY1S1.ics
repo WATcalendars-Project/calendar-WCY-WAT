@@ -2650,20 +2650,6 @@ LOCATION:316 S
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251105T133000
-DTEND:20251105T150500
-SUMMARY:Po (L)
-LOCATION:236 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/16\nProwadzący:  Łukasz Matuszelański
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251105T160000
-DTEND:20251105T173500
-SUMMARY:Po (L)
-LOCATION:236 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/16\nProwadzący:  Łukasz Matuszelański
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251105T175000
 DTEND:20251105T192500
 SUMMARY:Rp (Inne)
@@ -2809,6 +2795,20 @@ DTEND:20251113T150500
 SUMMARY:Sm (L)
 LOCATION:085 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący:  Marta Saniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251113T160000
+DTEND:20251113T173500
+SUMMARY:Po (L)
+LOCATION:236 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/16\nProwadzący:  Łukasz Matuszelański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251113T175000
+DTEND:20251113T192500
+SUMMARY:Po (L)
+LOCATION:236 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/16\nProwadzący:  Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T095000

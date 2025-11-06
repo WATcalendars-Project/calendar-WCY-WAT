@@ -4267,13 +4267,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 246/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251103T080000
-DTEND:20251103T093500
-SUMMARY:Prmi (L)
-LOCATION:86 S
-DESCRIPTION:Programowanie mikrokontrolerów  - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251103T095000
 DTEND:20251103T112500
 SUMMARY:Par (w)
@@ -4706,6 +4699,13 @@ DTEND:20251119T131500
 SUMMARY:Popt (w)
 LOCATION:118 45
 DESCRIPTION:Podstawy optoelektroniki - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251120T095000
+DTEND:20251120T112500
+SUMMARY:Prmi (L)
+LOCATION:86 S
+DESCRIPTION:Programowanie mikrokontrolerów  - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T114000

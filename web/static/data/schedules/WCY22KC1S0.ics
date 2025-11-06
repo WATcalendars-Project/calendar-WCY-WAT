@@ -3161,13 +3161,6 @@ LOCATION:204 65
 DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251107T133000
-DTEND:20251107T150500
-SUMMARY:Ps (ć)
-LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący:  Justyna Kurkowiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251108T080000
 DTEND:20251108T093500
 SUMMARY:XWF (ć)
@@ -3348,6 +3341,13 @@ DTEND:20251119T131500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 46/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251119T133000
+DTEND:20251119T150500
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T080000

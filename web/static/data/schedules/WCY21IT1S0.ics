@@ -4113,6 +4113,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 22/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260115T080000
+DTEND:20260115T093500
+SUMMARY:Sr (P)
+LOCATION:121 65
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Projekt\nNr zajęć: 4/5\nProwadzący:  Grzegorz Kropiewnicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260115T095000
+DTEND:20260115T112500
+SUMMARY:Sr (P)
+LOCATION:121 65
+DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Projekt\nNr zajęć: 5/5\nProwadzący:  Grzegorz Kropiewnicki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260115T133000
 DTEND:20260115T150500
 SUMMARY:WF (ć)
@@ -4279,20 +4293,6 @@ DTEND:20260122T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 68/70\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260122T160000
-DTEND:20260122T173500
-SUMMARY:Sr (P)
-LOCATION:011 65
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Projekt\nNr zajęć: 4/5\nProwadzący:  Grzegorz Kropiewnicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260122T175000
-DTEND:20260122T192500
-SUMMARY:Sr (P)
-LOCATION:011 65
-DESCRIPTION:Systemy rozproszone\nRodzaj zajęć: Projekt\nNr zajęć: 5/5\nProwadzący:  Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T080000

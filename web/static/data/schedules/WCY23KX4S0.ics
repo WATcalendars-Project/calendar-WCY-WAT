@@ -2818,20 +2818,6 @@ LOCATION:313 S
 DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251106T114000
-DTEND:20251106T131500
-SUMMARY:IO (L)
-LOCATION:223 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/14\nProwadzący:  Paweł Pieczonka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251106T133000
-DTEND:20251106T150500
-SUMMARY:IO (L)
-LOCATION:223 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/14\nProwadzący:  Paweł Pieczonka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251107T080000
 DTEND:20251107T093500
 SUMMARY:Sck (L)
@@ -2851,13 +2837,6 @@ DTEND:20251107T131500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 44/60\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251107T160000
-DTEND:20251107T173500
-SUMMARY:Wek (L)
-LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/16\nProwadzący:  Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T175000
@@ -3088,14 +3067,14 @@ DTSTART:20251120T114000
 DTEND:20251120T131500
 SUMMARY:IO (L)
 LOCATION:226 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/14\nProwadzący:  Paweł Pieczonka
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/14\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T133000
 DTEND:20251120T150500
 SUMMARY:IO (L)
 LOCATION:226 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/14\nProwadzący:  Paweł Pieczonka
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/14\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T194000
@@ -3103,6 +3082,20 @@ DTEND:20251120T211500
 SUMMARY:BD(pp) (Inne)
 LOCATION:314 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 6/3\nProwadzący:  Maciej Kiedrowicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251121T080000
+DTEND:20251121T093500
+SUMMARY:IO (L)
+LOCATION:223 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/14\nProwadzący:  Paweł Pieczonka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251121T095000
+DTEND:20251121T112500
+SUMMARY:IO (L)
+LOCATION:223 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/14\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T114000
@@ -3116,7 +3109,7 @@ DTSTART:20251121T133000
 DTEND:20251121T150500
 SUMMARY:Wek (L)
 LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/16\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/16\nProwadzący:  Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T160000
@@ -3201,6 +3194,13 @@ DTEND:20251126T093500
 SUMMARY:Pk (L)
 LOCATION:085 S
 DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący:  Łukasz Dzierzkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251126T095000
+DTEND:20251126T112500
+SUMMARY:Wek (L)
+LOCATION:078 S
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/16\nProwadzący:  Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T114000

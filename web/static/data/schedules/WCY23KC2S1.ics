@@ -1033,6 +1033,13 @@ LOCATION:125 65
 DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251210T114000
+DTEND:20251210T131500
+SUMMARY:PZiP (ć)
+LOCATION:205 65
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251210T133000
 DTEND:20251210T150500
 SUMMARY:PZiP (w)
@@ -1143,13 +1150,6 @@ DTEND:20251218T192500
 SUMMARY:PSy (L)
 LOCATION:233 S
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Stanisław Skrzypecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251219T114000
-DTEND:20251219T131500
-SUMMARY:PZiP (ć)
-LOCATION:313 S
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T133000
