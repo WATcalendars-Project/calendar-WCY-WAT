@@ -3539,13 +3539,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 35/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251126T080000
-DTEND:20251126T093500
-SUMMARY:Tik (ć)
-LOCATION:203 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący:  Leszek Grad
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251126T095000
 DTEND:20251126T112500
 SUMMARY:Sm (w)
@@ -3677,6 +3670,13 @@ DTEND:20251202T131500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 46/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251202T133000
+DTEND:20251202T150500
+SUMMARY:Tik (ć)
+LOCATION:101 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T194000
