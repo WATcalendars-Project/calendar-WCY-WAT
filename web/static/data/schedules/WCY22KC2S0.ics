@@ -3385,13 +3385,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 46/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251117T160000
-DTEND:20251117T173500
-SUMMARY:BbD (w)
-LOCATION:313 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Bolesław Szafrański
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251118T080000
 DTEND:20251118T093500
 SUMMARY:Bsbp (w)
@@ -3411,6 +3404,13 @@ DTEND:20251118T131500
 SUMMARY:AśW (L)
 LOCATION:125 65
 DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/20\nProwadzący:  Dagmara Mazur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251118T160000
+DTEND:20251118T173500
+SUMMARY:BbD (w)
+LOCATION:314 S
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T095000

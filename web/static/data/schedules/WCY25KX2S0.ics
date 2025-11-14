@@ -1306,20 +1306,6 @@ LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251121T160000
-DTEND:20251121T173500
-SUMMARY:WdI (L)
-LOCATION:223 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący:  Marcin Perka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251121T175000
-DTEND:20251121T192500
-SUMMARY:WdI (L)
-LOCATION:223 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/11\nProwadzący:  Marcin Perka
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251124T080000
 DTEND:20251124T093500
 SUMMARY:Mat I (ć)
@@ -1591,6 +1577,20 @@ DTEND:20251205T150500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251205T160000
+DTEND:20251205T173500
+SUMMARY:WdI (L)
+LOCATION:226 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący:  Marcin Perka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251205T175000
+DTEND:20251205T192500
+SUMMARY:WdI (L)
+LOCATION:226 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/11\nProwadzący:  Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T080000

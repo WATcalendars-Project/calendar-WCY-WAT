@@ -3637,13 +3637,6 @@ LOCATION:aula/ 135
 DESCRIPTION:Profilaktyka antykorupcyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251127T080000
-DTEND:20251127T093500
-SUMMARY:WF (ć)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 46/60\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251127T095000
 DTEND:20251127T112500
 SUMMARY:F2 (ć)
@@ -3725,7 +3718,7 @@ DTSTART:20251202T080000
 DTEND:20251202T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 47/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 46/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T095000
@@ -3802,7 +3795,7 @@ DTSTART:20251204T080000
 DTEND:20251204T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 48/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 47/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T095000
@@ -3907,7 +3900,7 @@ DTSTART:20251209T080000
 DTEND:20251209T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 49/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 48/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T095000
@@ -3949,7 +3942,7 @@ DTSTART:20251211T080000
 DTEND:20251211T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 50/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 49/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T095000
@@ -3978,6 +3971,13 @@ DTEND:20251211T173500
 SUMMARY:PO (ć)
 LOCATION:227 S
 DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący:  Paweł Moszczyński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251212T095000
+DTEND:20251212T112500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 50/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T114000
