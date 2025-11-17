@@ -3658,13 +3658,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 50/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251201T160000
-DTEND:20251201T173500
-SUMMARY:BbD (w)
-LOCATION:313 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Bolesław Szafrański
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251202T095000
 DTEND:20251202T112500
 SUMMARY:AsU (w)
@@ -3816,7 +3809,7 @@ DTSTART:20251208T160000
 DTEND:20251208T173500
 SUMMARY:BbD (w)
 LOCATION:313 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T095000
@@ -3940,6 +3933,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T160000
 DTEND:20251215T173500
+SUMMARY:BbD (w)
+LOCATION:313 S
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251215T175000
+DTEND:20251215T192500
 SUMMARY:BbD (w)
 LOCATION:313 S
 DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Bolesław Szafrański
