@@ -8,21 +8,21 @@ DTSTART:20250303T080000
 DTEND:20250303T093500
 SUMMARY:SoU (w)
 LOCATION:309 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T095000
 DTEND:20250303T112500
 SUMMARY:SoU (w)
 LOCATION:309 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T080000
 DTEND:20250304T093500
 SUMMARY:Est (w)
 LOCATION:317 S
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T095000
@@ -36,14 +36,14 @@ DTSTART:20250304T114000
 DTEND:20250304T131500
 SUMMARY:Nsk (w)
 LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T133000
 DTEND:20250304T150500
 SUMMARY:Nsk (w)
 LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T080000
@@ -57,14 +57,14 @@ DTSTART:20250305T095000
 DTEND:20250305T112500
 SUMMARY:BwCP (w)
 LOCATION:19 36
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: dr hab. inż. Maciej Marczyk
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący:  Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T114000
 DTEND:20250305T131500
 SUMMARY:Swb (w)
 LOCATION:309 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T133000
@@ -155,35 +155,35 @@ DTSTART:20250310T080000
 DTEND:20250310T093500
 SUMMARY:SoU (w)
 LOCATION:309 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T095000
 DTEND:20250310T112500
 SUMMARY:SoU (w)
 LOCATION:309 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T133000
 DTEND:20250310T150500
 SUMMARY:Oni (w)
 LOCATION:307 S
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T160000
 DTEND:20250310T173500
 SUMMARY:JEt (w)
 LOCATION:316 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T080000
 DTEND:20250311T093500
 SUMMARY:Est (w)
 LOCATION:317 S
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T095000
@@ -197,21 +197,21 @@ DTSTART:20250311T114000
 DTEND:20250311T131500
 SUMMARY:Nsk (w)
 LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T133000
 DTEND:20250311T150500
 SUMMARY:Nsk (w)
 LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T080000
 DTEND:20250313T093500
 SUMMARY:SKII (w)
 LOCATION:307 S
-DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T095000
@@ -323,14 +323,14 @@ DTSTART:20250317T160000
 DTEND:20250317T173500
 SUMMARY:JEt (w)
 LOCATION:316 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T080000
 DTEND:20250318T093500
 SUMMARY:Est (w)
 LOCATION:317 S
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T095000
@@ -344,21 +344,21 @@ DTSTART:20250318T114000
 DTEND:20250318T131500
 SUMMARY:Nsk (w)
 LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T133000
 DTEND:20250318T150500
 SUMMARY:Nsk (w)
 LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T095000
 DTEND:20250319T112500
 SUMMARY:Swb (w)
 LOCATION:309 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T133000
@@ -428,35 +428,35 @@ DTSTART:20250324T080000
 DTEND:20250324T093500
 SUMMARY:SoU (w)
 LOCATION:309 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T095000
 DTEND:20250324T112500
 SUMMARY:SoU (w)
 LOCATION:309 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T114000
 DTEND:20250324T131500
 SUMMARY:SKII (w)
 LOCATION:316 S
-DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T160000
 DTEND:20250324T173500
 SUMMARY:JEt (w)
 LOCATION:316 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T080000
 DTEND:20250325T093500
 SUMMARY:Est (w)
 LOCATION:203 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T095000
@@ -470,7 +470,7 @@ DTSTART:20250325T114000
 DTEND:20250325T131500
 SUMMARY:Nsk (w)
 LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T133000
@@ -491,21 +491,21 @@ DTSTART:20250326T080000
 DTEND:20250326T093500
 SUMMARY:Oni (w)
 LOCATION:309 S
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T095000
 DTEND:20250326T112500
 SUMMARY:Oni (w)
 LOCATION:309 S
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T114000
 DTEND:20250326T131500
 SUMMARY:SKII (w)
 LOCATION:307 S
-DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T133000
@@ -596,42 +596,42 @@ DTSTART:20250331T080000
 DTEND:20250331T093500
 SUMMARY:SoU (w)
 LOCATION:309 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T095000
 DTEND:20250331T112500
 SUMMARY:SoU (w)
 LOCATION:309 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T114000
 DTEND:20250331T131500
 SUMMARY:Oni (w)
 LOCATION:309 S
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T133000
 DTEND:20250331T150500
 SUMMARY:Oni (w)
 LOCATION:309 S
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T160000
 DTEND:20250331T173500
 SUMMARY:JEt (w)
 LOCATION:316 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T080000
 DTEND:20250401T093500
 SUMMARY:Est (w)
 LOCATION:307 S
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T095000
@@ -645,14 +645,14 @@ DTSTART:20250401T114000
 DTEND:20250401T131500
 SUMMARY:htm (w)
 LOCATION:308 S
-DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T133000
 DTEND:20250401T150500
 SUMMARY:htm (w)
 LOCATION:308 S
-DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T080000
@@ -666,14 +666,14 @@ DTSTART:20250402T095000
 DTEND:20250402T112500
 SUMMARY:SKII (w)
 LOCATION:307 S
-DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T114000
 DTEND:20250402T131500
 SUMMARY:Swb (w)
 LOCATION:309 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T133000
@@ -694,14 +694,14 @@ DTSTART:20250403T080000
 DTEND:20250403T093500
 SUMMARY:SKII (L)
 LOCATION:121 65
-DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T095000
 DTEND:20250403T112500
 SUMMARY:SKII (L)
 LOCATION:121 65
-DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T114000
@@ -715,7 +715,7 @@ DTSTART:20250403T133000
 DTEND:20250403T150500
 SUMMARY:Est (P)
 LOCATION:011 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 1/5\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 1/5\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T160000
@@ -750,7 +750,7 @@ DTSTART:20250404T133000
 DTEND:20250404T150500
 SUMMARY:Oni (L)
 LOCATION:106 65
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T160000
@@ -799,14 +799,14 @@ DTSTART:20250407T160000
 DTEND:20250407T173500
 SUMMARY:JEt (w)
 LOCATION:316 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T080000
 DTEND:20250408T093500
 SUMMARY:Est (w)
 LOCATION:203 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T095000
@@ -834,28 +834,28 @@ DTSTART:20250408T175000
 DTEND:20250408T192500
 SUMMARY:Nsk (ć)
 LOCATION:307 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T080000
 DTEND:20250409T093500
 SUMMARY:SKII (w)
 LOCATION:307 S
-DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Tomasz Malinowski
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T095000
 DTEND:20250409T112500
 SUMMARY:Swb (w)
 LOCATION:309 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T114000
 DTEND:20250409T131500
 SUMMARY:Swb (w)
 LOCATION:309 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T133000
@@ -869,14 +869,14 @@ DTSTART:20250409T160000
 DTEND:20250409T173500
 SUMMARY:Swb (L)
 LOCATION:09 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T175000
 DTEND:20250409T192500
 SUMMARY:Swb (L)
 LOCATION:09 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/12\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/12\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T080000
@@ -904,14 +904,14 @@ DTSTART:20250410T133000
 DTEND:20250410T150500
 SUMMARY:Est (L)
 LOCATION:106 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T160000
 DTEND:20250410T173500
 SUMMARY:Est (L)
 LOCATION:106 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T175000
@@ -967,28 +967,28 @@ DTSTART:20250414T080000
 DTEND:20250414T093500
 SUMMARY:SoU (w)
 LOCATION:309 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T095000
 DTEND:20250414T112500
 SUMMARY:SoU (w)
 LOCATION:309 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T114000
 DTEND:20250414T131500
 SUMMARY:Oni (w)
 LOCATION:309 S
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T133000
 DTEND:20250414T150500
 SUMMARY:Oni (w)
 LOCATION:309 S
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T160000
@@ -1009,7 +1009,7 @@ DTSTART:20250415T080000
 DTEND:20250415T093500
 SUMMARY:Est (w)
 LOCATION:203 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T095000
@@ -1023,35 +1023,35 @@ DTSTART:20250415T114000
 DTEND:20250415T131500
 SUMMARY:htm (w)
 LOCATION:203 65
-DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T133000
 DTEND:20250415T150500
 SUMMARY:htm (w)
 LOCATION:203 65
-DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T160000
 DTEND:20250415T173500
 SUMMARY:Swb (L)
 LOCATION:09 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/12\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/12\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T175000
 DTEND:20250415T192500
 SUMMARY:Swb (L)
 LOCATION:09 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T095000
 DTEND:20250416T112500
 SUMMARY:Nsk (ć)
 LOCATION:255 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T114000
@@ -1079,14 +1079,14 @@ DTSTART:20250417T080000
 DTEND:20250417T093500
 SUMMARY:SKII (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T095000
 DTEND:20250417T112500
 SUMMARY:SKII (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T114000
@@ -1100,14 +1100,14 @@ DTSTART:20250417T133000
 DTEND:20250417T150500
 SUMMARY:Est (P)
 LOCATION:011 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 2/5\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 2/5\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T114000
 DTEND:20250423T131500
 SUMMARY:BwCP (ć)
 LOCATION:203 65
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T133000
@@ -1121,21 +1121,21 @@ DTSTART:20250423T160000
 DTEND:20250423T173500
 SUMMARY:BwCP (w)
 LOCATION:19 36
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: dr hab. inż. Maciej Marczyk
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący:  Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T175000
 DTEND:20250423T192500
 SUMMARY:Nsk (ć)
 LOCATION:309 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T080000
 DTEND:20250424T093500
 SUMMARY:Oni (P)
 LOCATION:106 65
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 1/8\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 1/8\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T095000
@@ -1219,28 +1219,28 @@ DTSTART:20250429T114000
 DTEND:20250429T131500
 SUMMARY:htm (w)
 LOCATION:308 S
-DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T133000
 DTEND:20250429T150500
 SUMMARY:htm (w)
 LOCATION:308 S
-DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T160000
 DTEND:20250429T173500
 SUMMARY:Swb (L)
 LOCATION:011 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T175000
 DTEND:20250429T192500
 SUMMARY:Swb (L)
 LOCATION:011 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T095000
@@ -1254,7 +1254,7 @@ DTSTART:20250430T114000
 DTEND:20250430T131500
 SUMMARY:Est (P)
 LOCATION:121 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 3/5\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 3/5\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T133000
@@ -1268,21 +1268,21 @@ DTSTART:20250430T160000
 DTEND:20250430T173500
 SUMMARY:BwCP (w)
 LOCATION:19 36
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr hab. inż. Maciej Marczyk
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący:  Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T080000
 DTEND:20250505T093500
 SUMMARY:Est (L)
 LOCATION:106 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T095000
 DTEND:20250505T112500
 SUMMARY:Est (L)
 LOCATION:106 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T175000
@@ -1317,14 +1317,14 @@ DTSTART:20250506T160000
 DTEND:20250506T173500
 SUMMARY:Est (L)
 LOCATION:121 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T175000
 DTEND:20250506T192500
 SUMMARY:Est (L)
 LOCATION:121 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T080000
@@ -1429,14 +1429,14 @@ DTSTART:20250509T160000
 DTEND:20250509T173500
 SUMMARY:Oni (L)
 LOCATION:125 65
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T175000
 DTEND:20250509T192500
 SUMMARY:Oni (L)
 LOCATION:125 65
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T194000
@@ -1485,7 +1485,7 @@ DTSTART:20250512T160000
 DTEND:20250512T173500
 SUMMARY:Nsk (ć)
 LOCATION:314 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T095000
@@ -1499,35 +1499,35 @@ DTSTART:20250513T133000
 DTEND:20250513T150500
 SUMMARY:htm (w)
 LOCATION:308 S
-DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T160000
 DTEND:20250513T173500
 SUMMARY:htm (L)
 LOCATION:011 65
-DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T175000
 DTEND:20250513T192500
 SUMMARY:htm (L)
 LOCATION:011 65
-DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T095000
 DTEND:20250514T112500
 SUMMARY:BwCP (ć)
 LOCATION:203 65
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T114000
 DTEND:20250514T131500
 SUMMARY:Swb (w)
 LOCATION:309 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T133000
@@ -1541,28 +1541,28 @@ DTSTART:20250514T160000
 DTEND:20250514T173500
 SUMMARY:Swb (L)
 LOCATION:09 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T175000
 DTEND:20250514T192500
 SUMMARY:Swb (L)
 LOCATION:09 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T080000
 DTEND:20250515T093500
 SUMMARY:htm (L)
 LOCATION:106 65
-DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T095000
 DTEND:20250515T112500
 SUMMARY:htm (L)
 LOCATION:106 65
-DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T114000
@@ -1576,14 +1576,14 @@ DTSTART:20250515T160000
 DTEND:20250515T173500
 SUMMARY:Oni (P)
 LOCATION:108 65
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 2/8\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 2/8\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T175000
 DTEND:20250515T192500
 SUMMARY:Oni (P)
 LOCATION:108 65
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 3/8\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 3/8\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T080000
@@ -1646,14 +1646,14 @@ DTSTART:20250519T080000
 DTEND:20250519T093500
 SUMMARY:Est (L)
 LOCATION:106 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T095000
 DTEND:20250519T112500
 SUMMARY:Est (L)
 LOCATION:106 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T114000
@@ -1667,7 +1667,7 @@ DTSTART:20250520T080000
 DTEND:20250520T093500
 SUMMARY:SKII (L)
 LOCATION:121 65
-DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T095000
@@ -1681,14 +1681,14 @@ DTSTART:20250520T114000
 DTEND:20250520T131500
 SUMMARY:SKII (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T133000
 DTEND:20250520T150500
 SUMMARY:SKII (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T160000
@@ -1716,14 +1716,14 @@ DTSTART:20250521T095000
 DTEND:20250521T112500
 SUMMARY:Swb (w)
 LOCATION:309 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T114000
 DTEND:20250521T131500
 SUMMARY:Swb (w)
 LOCATION:309 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T133000
@@ -1737,14 +1737,14 @@ DTSTART:20250521T160000
 DTEND:20250521T173500
 SUMMARY:Oni (L)
 LOCATION:125 65
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T175000
 DTEND:20250521T192500
 SUMMARY:Oni (L)
 LOCATION:125 65
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T080000
@@ -1758,7 +1758,7 @@ DTSTART:20250522T095000
 DTEND:20250522T112500
 SUMMARY:Est (P)
 LOCATION:120 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 4/5\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 4/5\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T114000
@@ -1870,28 +1870,28 @@ DTSTART:20250527T114000
 DTEND:20250527T131500
 SUMMARY:htm (L)
 LOCATION:011 65
-DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T133000
 DTEND:20250527T150500
 SUMMARY:htm (L)
 LOCATION:011 65
-DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T160000
 DTEND:20250527T173500
 SUMMARY:Swb (L)
 LOCATION:09 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T175000
 DTEND:20250527T192500
 SUMMARY:Swb (L)
 LOCATION:09 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T080000
@@ -1905,14 +1905,14 @@ DTSTART:20250528T095000
 DTEND:20250528T112500
 SUMMARY:Oni (P)
 LOCATION:106 65
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 4/8\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 4/8\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T114000
 DTEND:20250528T131500
 SUMMARY:Oni (P)
 LOCATION:106 65
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 5/8\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 5/8\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T133000
@@ -1926,7 +1926,7 @@ DTSTART:20250528T160000
 DTEND:20250528T173500
 SUMMARY:Nsk (ć)
 LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T095000
@@ -2031,14 +2031,14 @@ DTSTART:20250602T133000
 DTEND:20250602T150500
 SUMMARY:Oni (L)
 LOCATION:125 65
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T160000
 DTEND:20250602T173500
 SUMMARY:Oni (L)
 LOCATION:125 65
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T175000
@@ -2157,14 +2157,14 @@ DTSTART:20250609T114000
 DTEND:20250609T131500
 SUMMARY:htm (L)
 LOCATION:011 65
-DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T133000
 DTEND:20250609T150500
 SUMMARY:htm (L)
 LOCATION:011 65
-DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T160000
@@ -2185,14 +2185,14 @@ DTSTART:20250611T095000
 DTEND:20250611T112500
 SUMMARY:Swb (w)
 LOCATION:309 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T114000
 DTEND:20250611T131500
 SUMMARY:Swb (w)
 LOCATION:309 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T133000
@@ -2213,14 +2213,14 @@ DTSTART:20250612T080000
 DTEND:20250612T093500
 SUMMARY:Est (L)
 LOCATION:106 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T095000
 DTEND:20250612T112500
 SUMMARY:Est (L)
 LOCATION:106 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T114000
@@ -2234,7 +2234,7 @@ DTSTART:20250612T133000
 DTEND:20250612T150500
 SUMMARY:Est (P)
 LOCATION:011 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 5/5\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 5/5\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T175000
@@ -2262,21 +2262,21 @@ DTSTART:20250613T114000
 DTEND:20250613T131500
 SUMMARY:Oni (P)
 LOCATION:106 65
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 6/8\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 6/8\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T133000
 DTEND:20250613T150500
 SUMMARY:Oni (P)
 LOCATION:106 65
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 7/8\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 7/8\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T160000
 DTEND:20250613T173500
 SUMMARY:Oni (P)
 LOCATION:106 65
-DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 8/8\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Oprogramowanie niepożądane i inspekcja kodu\nRodzaj zajęć: Projekt\nNr zajęć: 8/8\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T175000
@@ -2304,14 +2304,14 @@ DTSTART:20250616T080000
 DTEND:20250616T093500
 SUMMARY:Nsk (ć)
 LOCATION:309 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T095000
 DTEND:20250616T112500
 SUMMARY:Nsk (ć)
 LOCATION:309 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T114000
@@ -2325,21 +2325,21 @@ DTSTART:20250616T133000
 DTEND:20250616T150500
 SUMMARY:SKII (L)
 LOCATION:252 S
-DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T160000
 DTEND:20250616T173500
 SUMMARY:SKII (L)
 LOCATION:252 S
-DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T175000
 DTEND:20250616T192500
 SUMMARY:SKII (L)
 LOCATION:252 S
-DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Sieci komputerowe II\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T095000
@@ -2367,7 +2367,7 @@ DTSTART:20250617T160000
 DTEND:20250617T173500
 SUMMARY:Nsk (ć)
 LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T175000
@@ -2381,14 +2381,14 @@ DTSTART:20250618T080000
 DTEND:20250618T093500
 SUMMARY:Swb (L)
 LOCATION:09 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/12\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/12\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T095000
 DTEND:20250618T112500
 SUMMARY:Swb (L)
 LOCATION:09 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T133000
@@ -2409,56 +2409,56 @@ DTSTART:20250623T080000
 DTEND:20250623T093500
 SUMMARY:Est (Inne)
 LOCATION:106 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/4\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/4\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T095000
 DTEND:20250623T112500
 SUMMARY:Est (Inne)
 LOCATION:106 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 2/4\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 2/4\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T095000
 DTEND:20250625T112500
 SUMMARY:Swb (E)
 LOCATION:314 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T114000
 DTEND:20250625T131500
 SUMMARY:Swb (E)
 LOCATION:314 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250701T080000
 DTEND:20250701T093500
 SUMMARY:Est (E)
 LOCATION:120 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250701T095000
 DTEND:20250701T112500
 SUMMARY:Est (E)
 LOCATION:120 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250703T133000
 DTEND:20250703T150500
 SUMMARY:SoU (E)
 LOCATION:120 65 121 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250918T175000
 DTEND:20250918T192500
 SUMMARY:Wpp (Inne)
 LOCATION:106 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250923T175000
@@ -2472,14 +2472,14 @@ DTSTART:20251001T080000
 DTEND:20251001T093500
 SUMMARY:AsU (w)
 LOCATION:317 S
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T095000
 DTEND:20251001T112500
 SUMMARY:htm (Inne)
 LOCATION:011 65
-DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T114000
@@ -2493,21 +2493,21 @@ DTSTART:20251001T133000
 DTEND:20251001T150500
 SUMMARY:Est (Inne)
 LOCATION:120 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 3/4\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 3/4\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T160000
 DTEND:20251001T173500
 SUMMARY:Est (Inne)
 LOCATION:120 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 4/4\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 4/4\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T175000
 DTEND:20251001T192500
 SUMMARY:Est (Inne)
 LOCATION:120 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 5/4\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 5/4\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T080000
@@ -2521,7 +2521,7 @@ DTSTART:20251002T095000
 DTEND:20251002T112500
 SUMMARY:Swb (Inne)
 LOCATION:307 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 1/4\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 1/4\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T133000
@@ -2535,14 +2535,14 @@ DTSTART:20251002T160000
 DTEND:20251002T173500
 SUMMARY:Swb (Inne)
 LOCATION:09 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 2/4\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 2/4\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T175000
 DTEND:20251002T192500
 SUMMARY:Swb (Inne)
 LOCATION:09 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 3/4\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 3/4\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T095000
@@ -2556,7 +2556,7 @@ DTSTART:20251003T160000
 DTEND:20251003T173500
 SUMMARY:SoU (Inne)
 LOCATION:120 65 121 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T080000
@@ -2577,14 +2577,14 @@ DTSTART:20251006T095000
 DTEND:20251006T112500
 SUMMARY:Ps (w)
 LOCATION:316 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T114000
 DTEND:20251006T131500
 SUMMARY:AśW (w)
 LOCATION:316 S
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T133000
@@ -2598,7 +2598,7 @@ DTSTART:20251006T160000
 DTEND:20251006T173500
 SUMMARY:Nsk (Inne)
 LOCATION:307 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T080000
@@ -2612,21 +2612,21 @@ DTSTART:20251007T095000
 DTEND:20251007T112500
 SUMMARY:MAST (w)
 LOCATION:316 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/12\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/12\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T114000
 DTEND:20251007T131500
 SUMMARY:MAST (w)
 LOCATION:316 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/12\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/12\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T175000
 DTEND:20251007T192500
 SUMMARY:Wpp (Inne)
 LOCATION:106 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T194000
@@ -2661,14 +2661,14 @@ DTSTART:20251010T114000
 DTEND:20251010T131500
 SUMMARY:ESI (w)
 LOCATION:204 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T133000
 DTEND:20251010T150500
 SUMMARY:AsU (w)
 LOCATION:316 S
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T080000
@@ -2689,14 +2689,14 @@ DTSTART:20251013T095000
 DTEND:20251013T112500
 SUMMARY:Ps (w)
 LOCATION:316 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T114000
 DTEND:20251013T131500
 SUMMARY:AśW (w)
 LOCATION:316 S
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T133000
@@ -2710,7 +2710,7 @@ DTSTART:20251013T160000
 DTEND:20251013T173500
 SUMMARY:Nsk (Inne)
 LOCATION:307 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T080000
@@ -2724,35 +2724,35 @@ DTSTART:20251014T095000
 DTEND:20251014T112500
 SUMMARY:Ppz (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T114000
 DTEND:20251014T131500
 SUMMARY:AsU (w)
 LOCATION:313 S
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T133000
 DTEND:20251014T150500
 SUMMARY:BbD (ć)
 LOCATION:224 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T160000
 DTEND:20251014T173500
 SUMMARY:BbD (ć)
 LOCATION:224 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T095000
 DTEND:20251015T112500
 SUMMARY:Ps (w)
 LOCATION:316 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T114000
@@ -2801,7 +2801,7 @@ DTSTART:20251017T114000
 DTEND:20251017T131500
 SUMMARY:ESI (w)
 LOCATION:204 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251018T080000
@@ -2822,7 +2822,7 @@ DTSTART:20251020T114000
 DTEND:20251020T131500
 SUMMARY:AśW (w)
 LOCATION:316 S
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T133000
@@ -2843,14 +2843,14 @@ DTSTART:20251021T095000
 DTEND:20251021T112500
 SUMMARY:Ppz (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T114000
 DTEND:20251021T131500
 SUMMARY:AśW (w)
 LOCATION:316 S
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T133000
@@ -2871,7 +2871,7 @@ DTSTART:20251022T095000
 DTEND:20251022T112500
 SUMMARY:Ps (w)
 LOCATION:316 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T114000
@@ -2913,28 +2913,28 @@ DTSTART:20251023T160000
 DTEND:20251023T173500
 SUMMARY:Swb (Inne)
 LOCATION:09 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 4/4\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 4/4\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T175000
 DTEND:20251023T192500
 SUMMARY:Swb (Inne)
 LOCATION:09 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 5/4\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 5/4\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T095000
 DTEND:20251024T112500
 SUMMARY:AsU (w)
 LOCATION:316 S
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T114000
 DTEND:20251024T131500
 SUMMARY:ESI (w)
 LOCATION:204 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T080000
@@ -2955,14 +2955,14 @@ DTSTART:20251027T095000
 DTEND:20251027T112500
 SUMMARY:MAST (w)
 LOCATION:316 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/12\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/12\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T114000
 DTEND:20251027T131500
 SUMMARY:MAST (w)
 LOCATION:316 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/12\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/12\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T133000
@@ -2990,35 +2990,35 @@ DTSTART:20251028T095000
 DTEND:20251028T112500
 SUMMARY:AśW (L)
 LOCATION:125 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/20\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/20\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T114000
 DTEND:20251028T131500
 SUMMARY:AśW (L)
 LOCATION:125 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/20\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/20\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T133000
 DTEND:20251028T150500
 SUMMARY:BbD (ć)
 LOCATION:224 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T160000
 DTEND:20251028T173500
 SUMMARY:BbD (ć)
 LOCATION:224 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T080000
 DTEND:20251029T093500
 SUMMARY:AśW (w)
 LOCATION:313 S
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T114000
@@ -3032,14 +3032,14 @@ DTSTART:20251029T133000
 DTEND:20251029T150500
 SUMMARY:MAST (L)
 LOCATION:125 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T160000
 DTEND:20251029T173500
 SUMMARY:MAST (L)
 LOCATION:125 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T175000
@@ -3053,14 +3053,14 @@ DTSTART:20251030T080000
 DTEND:20251030T093500
 SUMMARY:Bsbp (L)
 LOCATION:125 65
-DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T095000
 DTEND:20251030T112500
 SUMMARY:Bsbp (L)
 LOCATION:125 65
-DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T114000
@@ -3081,14 +3081,14 @@ DTSTART:20251031T095000
 DTEND:20251031T112500
 SUMMARY:Ps (w)
 LOCATION:316 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T114000
 DTEND:20251031T131500
 SUMMARY:ESI (w)
 LOCATION:204 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T080000
@@ -3102,14 +3102,14 @@ DTSTART:20251103T095000
 DTEND:20251103T112500
 SUMMARY:AsU (w)
 LOCATION:313 S
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T114000
 DTEND:20251103T131500
 SUMMARY:Ps (ć)
 LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T133000
@@ -3130,14 +3130,14 @@ DTSTART:20251104T095000
 DTEND:20251104T112500
 SUMMARY:AśW (L)
 LOCATION:125 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/20\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/20\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T114000
 DTEND:20251104T131500
 SUMMARY:AśW (L)
 LOCATION:125 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/20\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/20\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T133000
@@ -3158,14 +3158,14 @@ DTSTART:20251105T080000
 DTEND:20251105T093500
 SUMMARY:AśW (w)
 LOCATION:313 S
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T095000
 DTEND:20251105T112500
 SUMMARY:Ppz (w)
 LOCATION:313 S
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T114000
@@ -3179,14 +3179,14 @@ DTSTART:20251105T133000
 DTEND:20251105T150500
 SUMMARY:BbD (L)
 LOCATION:224 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/11\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/11\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T160000
 DTEND:20251105T173500
 SUMMARY:BbD (L)
 LOCATION:224 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/11\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/11\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T194000
@@ -3228,14 +3228,14 @@ DTSTART:20251107T095000
 DTEND:20251107T112500
 SUMMARY:Ps (w)
 LOCATION:316 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T114000
 DTEND:20251107T131500
 SUMMARY:ESI (w)
 LOCATION:204 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251108T080000
@@ -3249,14 +3249,14 @@ DTSTART:20251112T080000
 DTEND:20251112T093500
 SUMMARY:AsU (w)
 LOCATION:307 S
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T095000
 DTEND:20251112T112500
 SUMMARY:Ppz (w)
 LOCATION:313 S
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T114000
@@ -3270,7 +3270,7 @@ DTSTART:20251112T133000
 DTEND:20251112T150500
 SUMMARY:Ps (ć)
 LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T194000
@@ -3284,14 +3284,14 @@ DTSTART:20251113T080000
 DTEND:20251113T093500
 SUMMARY:AśW (L)
 LOCATION:125 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/20\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/20\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T095000
 DTEND:20251113T112500
 SUMMARY:AśW (L)
 LOCATION:125 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/20\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/20\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T133000
@@ -3368,14 +3368,14 @@ DTSTART:20251117T095000
 DTEND:20251117T112500
 SUMMARY:MAST (w)
 LOCATION:316 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/12\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/12\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T114000
 DTEND:20251117T131500
 SUMMARY:MAST (w)
 LOCATION:316 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/12\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/12\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T133000
@@ -3389,28 +3389,28 @@ DTSTART:20251118T095000
 DTEND:20251118T112500
 SUMMARY:AśW (L)
 LOCATION:125 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/20\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/20\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T114000
 DTEND:20251118T131500
 SUMMARY:AśW (L)
 LOCATION:125 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/20\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/20\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T160000
 DTEND:20251118T173500
 SUMMARY:BbD (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T095000
 DTEND:20251119T112500
 SUMMARY:AśW (w)
 LOCATION:316 S
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T114000
@@ -3424,14 +3424,14 @@ DTSTART:20251119T133000
 DTEND:20251119T150500
 SUMMARY:BbD (L)
 LOCATION:223 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/11\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/11\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T160000
 DTEND:20251119T173500
 SUMMARY:BbD (L)
 LOCATION:223 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T080000
@@ -3445,14 +3445,14 @@ DTSTART:20251120T095000
 DTEND:20251120T112500
 SUMMARY:MAST (P)
 LOCATION:09 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 1/8\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 1/8\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T114000
 DTEND:20251120T131500
 SUMMARY:MAST (P)
 LOCATION:09 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 2/8\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 2/8\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T133000
@@ -3466,21 +3466,21 @@ DTSTART:20251121T080000
 DTEND:20251121T093500
 SUMMARY:AsU (w)
 LOCATION:307 S
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T095000
 DTEND:20251121T112500
 SUMMARY:Ps (w)
 LOCATION:316 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T114000
 DTEND:20251121T131500
 SUMMARY:ESI (w)
 LOCATION:204 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T080000
@@ -3515,7 +3515,7 @@ DTSTART:20251124T160000
 DTEND:20251124T173500
 SUMMARY:BbD (w)
 LOCATION:313 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T080000
@@ -3529,35 +3529,35 @@ DTSTART:20251125T095000
 DTEND:20251125T112500
 SUMMARY:Sbs (L)
 LOCATION:120 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T114000
 DTEND:20251125T131500
 SUMMARY:Sbs (L)
 LOCATION:120 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T133000
 DTEND:20251125T150500
 SUMMARY:Sbs (L)
 LOCATION:120 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T160000
 DTEND:20251125T173500
 SUMMARY:Sbs (L)
 LOCATION:120 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T095000
 DTEND:20251126T112500
 SUMMARY:Ppz (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T114000
@@ -3571,7 +3571,7 @@ DTSTART:20251126T133000
 DTEND:20251126T150500
 SUMMARY:AśW (w)
 LOCATION:317 S
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T194000
@@ -3585,21 +3585,21 @@ DTSTART:20251127T080000
 DTEND:20251127T093500
 SUMMARY:AśW (L)
 LOCATION:125 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/20\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/20\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T095000
 DTEND:20251127T112500
 SUMMARY:AśW (L)
 LOCATION:125 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/20\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/20\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T114000
 DTEND:20251127T131500
 SUMMARY:Ps (ć)
 LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T133000
@@ -3613,14 +3613,14 @@ DTSTART:20251127T160000
 DTEND:20251127T173500
 SUMMARY:MAST (L)
 LOCATION:09 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T175000
 DTEND:20251127T192500
 SUMMARY:MAST (L)
 LOCATION:09 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251129T080000
@@ -3641,14 +3641,14 @@ DTSTART:20251201T095000
 DTEND:20251201T112500
 SUMMARY:MAST (w)
 LOCATION:313 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/12\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/12\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T114000
 DTEND:20251201T131500
 SUMMARY:MAST (w)
 LOCATION:313 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 8/12\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 8/12\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T133000
@@ -3662,21 +3662,21 @@ DTSTART:20251202T095000
 DTEND:20251202T112500
 SUMMARY:AsU (w)
 LOCATION:317 S
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr Sławomir Machowski
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T114000
 DTEND:20251202T131500
 SUMMARY:BbD (L)
 LOCATION:224 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/11\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/11\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T133000
 DTEND:20251202T150500
 SUMMARY:BbD (L)
 LOCATION:224 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/11\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/11\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T080000
@@ -3704,28 +3704,28 @@ DTSTART:20251203T133000
 DTEND:20251203T150500
 SUMMARY:AśW (w)
 LOCATION:317 S
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T080000
 DTEND:20251204T093500
 SUMMARY:AśW (L)
 LOCATION:125 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/20\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/20\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T095000
 DTEND:20251204T112500
 SUMMARY:AśW (L)
 LOCATION:125 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/20\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/20\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T114000
 DTEND:20251204T131500
 SUMMARY:Ps (ć)
 LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T133000
@@ -3739,14 +3739,14 @@ DTSTART:20251205T080000
 DTEND:20251205T093500
 SUMMARY:Bsbp (L)
 LOCATION:125 65
-DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T095000
 DTEND:20251205T112500
 SUMMARY:Bsbp (L)
 LOCATION:125 65
-DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T114000
@@ -3809,14 +3809,14 @@ DTSTART:20251208T160000
 DTEND:20251208T173500
 SUMMARY:BbD (w)
 LOCATION:313 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T095000
 DTEND:20251209T112500
 SUMMARY:AśW (w)
 LOCATION:316 S
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T080000
@@ -3851,21 +3851,21 @@ DTSTART:20251211T080000
 DTEND:20251211T093500
 SUMMARY:AśW (L)
 LOCATION:125 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/20\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/20\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T095000
 DTEND:20251211T112500
 SUMMARY:AśW (L)
 LOCATION:125 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/20\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/20\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T114000
 DTEND:20251211T131500
 SUMMARY:Ps (ć)
 LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T133000
@@ -3879,14 +3879,14 @@ DTSTART:20251211T160000
 DTEND:20251211T173500
 SUMMARY:MAST (P)
 LOCATION:106 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 3/8\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 3/8\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T175000
 DTEND:20251211T192500
 SUMMARY:MAST (P)
 LOCATION:106 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 4/8\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 4/8\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T080000
@@ -3914,14 +3914,14 @@ DTSTART:20251215T095000
 DTEND:20251215T112500
 SUMMARY:MAST (w)
 LOCATION:313 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 9/12\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 9/12\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T114000
 DTEND:20251215T131500
 SUMMARY:MAST (w)
 LOCATION:313 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 10/12\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 10/12\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T133000
@@ -3935,42 +3935,42 @@ DTSTART:20251215T160000
 DTEND:20251215T173500
 SUMMARY:BbD (w)
 LOCATION:313 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T175000
 DTEND:20251215T192500
 SUMMARY:BbD (w)
 LOCATION:313 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T080000
 DTEND:20251216T093500
 SUMMARY:BbD (L)
 LOCATION:226 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/11\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/11\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T095000
 DTEND:20251216T112500
 SUMMARY:BbD (L)
 LOCATION:226 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/11\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/11\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T133000
 DTEND:20251216T150500
 SUMMARY:MAST (L)
 LOCATION:236 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T160000
 DTEND:20251216T173500
 SUMMARY:MAST (L)
 LOCATION:236 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T080000
@@ -3984,7 +3984,7 @@ DTSTART:20251217T095000
 DTEND:20251217T112500
 SUMMARY:Ps (ć)
 LOCATION:218 65
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T114000
@@ -3998,28 +3998,28 @@ DTSTART:20251217T133000
 DTEND:20251217T150500
 SUMMARY:Sbs (L)
 LOCATION:121 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T160000
 DTEND:20251217T173500
 SUMMARY:Sbs (L)
 LOCATION:121 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T080000
 DTEND:20251218T093500
 SUMMARY:AśW (L)
 LOCATION:125 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/20\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/20\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T095000
 DTEND:20251218T112500
 SUMMARY:AśW (L)
 LOCATION:125 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/20\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/20\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T114000
@@ -4040,14 +4040,14 @@ DTSTART:20251219T080000
 DTEND:20251219T093500
 SUMMARY:Bsbp (L)
 LOCATION:125 65
-DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T095000
 DTEND:20251219T112500
 SUMMARY:Bsbp (L)
 LOCATION:125 65
-DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T114000
@@ -4096,14 +4096,14 @@ DTSTART:20260107T133000
 DTEND:20260107T150500
 SUMMARY:MAST (L)
 LOCATION:125 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T160000
 DTEND:20260107T173500
 SUMMARY:MAST (L)
 LOCATION:125 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T080000
@@ -4138,14 +4138,14 @@ DTSTART:20260109T080000
 DTEND:20260109T093500
 SUMMARY:AśW (L)
 LOCATION:125 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 17/20\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 17/20\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T095000
 DTEND:20260109T112500
 SUMMARY:AśW (L)
 LOCATION:125 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 18/20\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 18/20\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T114000
@@ -4194,7 +4194,7 @@ DTSTART:20260112T160000
 DTEND:20260112T173500
 SUMMARY:BbD (w)
 LOCATION:316 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T080000
@@ -4208,14 +4208,14 @@ DTSTART:20260113T095000
 DTEND:20260113T112500
 SUMMARY:MAST (w)
 LOCATION:317 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 11/12\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 11/12\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T114000
 DTEND:20260113T131500
 SUMMARY:MAST (w)
 LOCATION:317 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 12/12\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 12/12\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T080000
@@ -4229,7 +4229,7 @@ DTSTART:20260114T095000
 DTEND:20260114T112500
 SUMMARY:MAST (P)
 LOCATION:106 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 5/8\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 5/8\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T114000
@@ -4257,42 +4257,42 @@ DTSTART:20260116T080000
 DTEND:20260116T093500
 SUMMARY:AśW (L)
 LOCATION:125 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 19/20\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 19/20\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T095000
 DTEND:20260116T112500
 SUMMARY:AśW (L)
 LOCATION:125 65
-DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 20/20\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 20/20\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T114000
 DTEND:20260116T131500
 SUMMARY:BbD (L)
 LOCATION:224 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/11\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/11\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T133000
 DTEND:20260116T150500
 SUMMARY:BbD (L)
 LOCATION:224 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/11\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/11\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T160000
 DTEND:20260116T173500
 SUMMARY:Sbs (L)
 LOCATION:120 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T175000
 DTEND:20260116T192500
 SUMMARY:Sbs (L)
 LOCATION:120 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T080000
@@ -4320,21 +4320,21 @@ DTSTART:20260119T160000
 DTEND:20260119T173500
 SUMMARY:BbD (w)
 LOCATION:316 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T080000
 DTEND:20260120T093500
 SUMMARY:Sbs (L)
 LOCATION:120 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T095000
 DTEND:20260120T112500
 SUMMARY:Sbs (L)
 LOCATION:120 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T114000
@@ -4348,14 +4348,14 @@ DTSTART:20260121T080000
 DTEND:20260121T093500
 SUMMARY:Bsbp (L)
 LOCATION:125 65
-DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T095000
 DTEND:20260121T112500
 SUMMARY:Bsbp (L)
 LOCATION:125 65
-DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Bezpieczeństwo sieci bezprzewodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T114000
@@ -4369,14 +4369,14 @@ DTSTART:20260121T133000
 DTEND:20260121T150500
 SUMMARY:MAST (L)
 LOCATION:011 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T160000
 DTEND:20260121T173500
 SUMMARY:MAST (L)
 LOCATION:011 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T080000
@@ -4411,7 +4411,7 @@ DTSTART:20260123T080000
 DTEND:20260123T093500
 SUMMARY:Ps (ć)
 LOCATION:314 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T114000
@@ -4446,14 +4446,14 @@ DTSTART:20260126T095000
 DTEND:20260126T112500
 SUMMARY:Ps (w)
 LOCATION:317 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T114000
 DTEND:20260126T131500
 SUMMARY:ESI (w)
 LOCATION:106 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T133000
@@ -4467,21 +4467,21 @@ DTSTART:20260127T095000
 DTEND:20260127T112500
 SUMMARY:MAST (P)
 LOCATION:125 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 6/8\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 6/8\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T114000
 DTEND:20260127T131500
 SUMMARY:MAST (P)
 LOCATION:125 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 7/8\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 7/8\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T133000
 DTEND:20260127T150500
 SUMMARY:MAST (P)
 LOCATION:125 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 8/8\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 8/8\nProwadzący:  Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T080000
@@ -4537,7 +4537,7 @@ DTSTART:20260130T080000
 DTEND:20260130T093500
 SUMMARY:BbD (L)
 LOCATION:224 S
-DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/11\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/11\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260131T080000
@@ -4605,16 +4605,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T095000
 DTEND:20260312T112500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 39/1\nProwadzący: -
+SUMMARY:OPBMR (w)
+LOCATION:aF S
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T114000
 DTEND:20260312T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 40/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 39/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T133000
@@ -4628,511 +4628,518 @@ DTSTART:20260312T160000
 DTEND:20260312T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 41/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 40/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T175000
 DTEND:20260312T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 42/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 41/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T194000
 DTEND:20260312T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 43/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 42/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T080000
+DTEND:20260318T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T095000
+DTEND:20260318T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T114000
+DTEND:20260318T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T133000
+DTEND:20260318T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 4/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T160000
+DTEND:20260318T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 5/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T175000
+DTEND:20260318T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 6/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T194000
+DTEND:20260318T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 7/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T080000
 DTEND:20260319T093500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 44/1\nProwadzący: -
+SUMMARY:OPBMR (ć)
+LOCATION:Pol.Drawsko
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T095000
 DTEND:20260319T112500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 45/1\nProwadzący: -
+SUMMARY:OPBMR (ć)
+LOCATION:Pol.Drawsko
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T114000
 DTEND:20260319T131500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 46/1\nProwadzący: -
+SUMMARY:OPBMR (ć)
+LOCATION:Pol.Drawsko
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T133000
 DTEND:20260319T150500
-SUMMARY:WF (ć)
+SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 63/60\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 8/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T160000
 DTEND:20260319T173500
-SUMMARY:- (S.Sz.W.)
+SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 47/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 9/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T175000
 DTEND:20260319T192500
-SUMMARY:- (S.Sz.W.)
+SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 48/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 10/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T194000
 DTEND:20260319T211500
-SUMMARY:- (S.Sz.W.)
+SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 49/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 11/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T080000
 DTEND:20260326T093500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 50/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 43/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T095000
 DTEND:20260326T112500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 51/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 44/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T114000
 DTEND:20260326T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 52/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 45/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T133000
 DTEND:20260326T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 64/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 63/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T160000
 DTEND:20260326T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 53/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 46/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T175000
 DTEND:20260326T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 54/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 47/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T194000
 DTEND:20260326T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 55/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 48/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T080000
 DTEND:20260402T093500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 56/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 49/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T095000
 DTEND:20260402T112500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 57/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 50/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T114000
 DTEND:20260402T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 58/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 51/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T133000
 DTEND:20260402T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 65/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 64/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T160000
 DTEND:20260402T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 59/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 52/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T175000
 DTEND:20260402T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 60/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 53/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T194000
 DTEND:20260402T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 61/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 54/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T080000
 DTEND:20260409T093500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 62/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 55/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T095000
 DTEND:20260409T112500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 63/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 56/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T114000
 DTEND:20260409T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 64/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 57/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T133000
 DTEND:20260409T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 66/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 65/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T160000
 DTEND:20260409T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 65/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 58/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T175000
 DTEND:20260409T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 66/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 59/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T194000
 DTEND:20260409T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 67/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 60/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T080000
 DTEND:20260416T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 12/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T095000
 DTEND:20260416T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 13/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T114000
 DTEND:20260416T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 68/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 61/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T133000
 DTEND:20260416T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 67/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 66/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T160000
 DTEND:20260416T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 69/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 62/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T175000
 DTEND:20260416T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 70/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 63/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T194000
 DTEND:20260416T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 71/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 64/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T080000
 DTEND:20260423T093500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 72/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 65/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T095000
 DTEND:20260423T112500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 73/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 66/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T114000
 DTEND:20260423T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 74/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 67/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T133000
 DTEND:20260423T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 68/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 67/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T160000
 DTEND:20260423T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 75/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 68/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T175000
 DTEND:20260423T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 76/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 69/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T194000
 DTEND:20260423T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 77/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T080000
-DTEND:20260430T093500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 78/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T095000
-DTEND:20260430T112500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 79/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T114000
-DTEND:20260430T131500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 80/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 70/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T133000
 DTEND:20260430T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 69/60\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T160000
-DTEND:20260430T173500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 81/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T175000
-DTEND:20260430T192500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 82/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T194000
-DTEND:20260430T211500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 83/1\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 68/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T080000
 DTEND:20260507T093500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 84/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 71/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T095000
 DTEND:20260507T112500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 85/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 72/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T114000
 DTEND:20260507T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 86/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 73/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T133000
 DTEND:20260507T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 70/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 69/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T160000
 DTEND:20260507T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 87/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 74/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T175000
 DTEND:20260507T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 88/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 75/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T194000
 DTEND:20260507T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 89/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 76/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T080000
 DTEND:20260514T093500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 90/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 77/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T095000
 DTEND:20260514T112500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 91/1\nProwadzący: -
+SUMMARY:OPBMR (ć)
+LOCATION:PĆT2
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T114000
 DTEND:20260514T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 92/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 78/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T133000
 DTEND:20260514T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 71/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 70/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T160000
 DTEND:20260514T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 93/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 79/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T175000
 DTEND:20260514T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 94/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 80/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T194000
 DTEND:20260514T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 95/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 81/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T080000
 DTEND:20260521T093500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 96/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 82/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T095000
 DTEND:20260521T112500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 97/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 83/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T114000
 DTEND:20260521T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 98/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 84/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T133000
 DTEND:20260521T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 72/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 71/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T160000
 DTEND:20260521T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 99/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 85/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T175000
 DTEND:20260521T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 100/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 86/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T194000
 DTEND:20260521T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 101/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 87/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T080000
@@ -5153,91 +5160,91 @@ DTSTART:20260528T114000
 DTEND:20260528T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 102/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 88/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T133000
 DTEND:20260528T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 73/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 72/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T160000
 DTEND:20260528T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 103/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 89/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T175000
 DTEND:20260528T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 104/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 90/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T194000
 DTEND:20260528T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 105/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 91/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T080000
 DTEND:20260611T093500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 106/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 92/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T095000
 DTEND:20260611T112500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 107/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 93/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T114000
 DTEND:20260611T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 108/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 94/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T133000
 DTEND:20260611T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 74/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 73/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T160000
 DTEND:20260611T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 109/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 95/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T175000
 DTEND:20260611T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 110/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 96/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T194000
 DTEND:20260611T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 111/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 97/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T080000
 DTEND:20260618T093500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 112/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 98/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T095000
@@ -5258,27 +5265,27 @@ DTSTART:20260618T133000
 DTEND:20260618T150500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 113/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 99/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T160000
 DTEND:20260618T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 114/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 100/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T175000
 DTEND:20260618T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 115/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 101/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T194000
 DTEND:20260618T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 116/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 102/1\nProwadzący: -
 END:VEVENT
 END:VCALENDAR
