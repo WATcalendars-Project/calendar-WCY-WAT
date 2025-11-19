@@ -3203,6 +3203,13 @@ LOCATION:307 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251218T095000
+DTEND:20251218T112500
+SUMMARY:SO (w)
+LOCATION:313 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 12/13\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251218T114000
 DTEND:20251218T131500
 SUMMARY:BD(pp) (L)
@@ -3229,13 +3236,6 @@ DTEND:20251219T112500
 SUMMARY:Als (L)
 LOCATION:226 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/11\nProwadzący:  Arkadiusz Kowalski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260107T095000
-DTEND:20260107T112500
-SUMMARY:SO (w)
-LOCATION:313 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 12/13\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T114000

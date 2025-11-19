@@ -403,13 +403,6 @@ LOCATION:203 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251115T175000
-DTEND:20251115T192500
-SUMMARY:MumII (L)
-LOCATION:224 S
-DESCRIPTION:Metody uczenia maszynowego II\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący:  Jarosław Olejniczak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251116T080000
 DTEND:20251116T093500
 SUMMARY:Jo (ć)
@@ -639,6 +632,13 @@ DTEND:20251207T173500
 SUMMARY:Mia (w)
 LOCATION:309 S
 DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący:  Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251213T080000
+DTEND:20251213T093500
+SUMMARY:MumII (L)
+LOCATION:223 S
+DESCRIPTION:Metody uczenia maszynowego II\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący:  Jarosław Olejniczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T095000

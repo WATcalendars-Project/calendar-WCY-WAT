@@ -3434,13 +3434,6 @@ LOCATION:233 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/11\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260108T095000
-DTEND:20260108T112500
-SUMMARY:SO (w)
-LOCATION:313 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 12/13\nProwadzący:  Zbigniew Zielinski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260108T114000
 DTEND:20260108T131500
 SUMMARY:Tik (L)
@@ -3529,7 +3522,7 @@ DTSTART:20260115T095000
 DTEND:20260115T112500
 SUMMARY:SO (w)
 LOCATION:313 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 13/13\nProwadzący:  Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 12/13\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T080000
@@ -3537,6 +3530,13 @@ DTEND:20260119T093500
 SUMMARY:Als (w)
 LOCATION:317 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący:  Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260119T114000
+DTEND:20260119T131500
+SUMMARY:SO (w)
+LOCATION:317 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 13/13\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T095000

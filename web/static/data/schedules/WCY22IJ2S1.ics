@@ -1558,20 +1558,6 @@ LOCATION:307 S
 DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251121T114000
-DTEND:20251121T131500
-SUMMARY:IRz (L)
-LOCATION:227 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący:  Tomasz Gumowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251121T133000
-DTEND:20251121T150500
-SUMMARY:IRz (L)
-LOCATION:227 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Tomasz Gumowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251124T080000
 DTEND:20251124T093500
 SUMMARY:Swbo (w)
@@ -1583,14 +1569,14 @@ DTSTART:20251124T095000
 DTEND:20251124T112500
 SUMMARY:IRz (L)
 LOCATION:227 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący:  Tomasz Gumowski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T114000
 DTEND:20251124T131500
 SUMMARY:IRz (L)
 LOCATION:227 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Tomasz Gumowski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T080000
@@ -1605,6 +1591,20 @@ DTEND:20251125T112500
 SUMMARY:Swbo (L)
 LOCATION:236 S
 DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący:  Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251125T114000
+DTEND:20251125T131500
+SUMMARY:IRz (L)
+LOCATION:236 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący:  Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251125T133000
+DTEND:20251125T150500
+SUMMARY:IRz (L)
+LOCATION:236 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T080000

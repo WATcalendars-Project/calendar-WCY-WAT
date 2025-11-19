@@ -2972,20 +2972,6 @@ LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 42/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251119T095000
-DTEND:20251119T112500
-SUMMARY:PZ (L)
-LOCATION:223 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/22\nProwadzący:  Tomasz Gumowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251119T114000
-DTEND:20251119T131500
-SUMMARY:PZ (L)
-LOCATION:223 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/22\nProwadzący:  Tomasz Gumowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251119T133000
 DTEND:20251119T150500
 SUMMARY:WF (ć)
@@ -3102,14 +3088,14 @@ DTSTART:20251124T133000
 DTEND:20251124T150500
 SUMMARY:PZ (L)
 LOCATION:226 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/22\nProwadzący:  Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/22\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T160000
 DTEND:20251124T173500
 SUMMARY:PZ (L)
 LOCATION:226 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/22\nProwadzący:  Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/22\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T175000
@@ -3439,6 +3425,20 @@ DTEND:20251208T150500
 SUMMARY:Sme. (ć)
 LOCATION:317 S
 DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący:  Michał Kapałka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251208T160000
+DTEND:20251208T173500
+SUMMARY:PZ (L)
+LOCATION:239 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/22\nProwadzący:  Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251208T175000
+DTEND:20251208T192500
+SUMMARY:PZ (L)
+LOCATION:239 S
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/22\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T095000

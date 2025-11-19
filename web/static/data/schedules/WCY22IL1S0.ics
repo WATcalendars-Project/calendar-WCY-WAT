@@ -2734,27 +2734,6 @@ LOCATION:227 S
 DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251030T160000
-DTEND:20251030T173500
-SUMMARY:Insz (w)
-LOCATION:316 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Tomasz Protasowicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251030T175000
-DTEND:20251030T192500
-SUMMARY:Insz (w)
-LOCATION:316 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Tomasz Protasowicki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251030T194000
-DTEND:20251030T211500
-SUMMARY:Insz (w)
-LOCATION:316 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Tomasz Protasowicki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251031T095000
 DTEND:20251031T112500
 SUMMARY:Ps (w)
@@ -3044,16 +3023,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T175000
 DTEND:20251120T192500
-SUMMARY:Insz (L)
-LOCATION:223 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Tomasz Protasowicki
+SUMMARY:Insz (w)
+LOCATION:307 S
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T194000
 DTEND:20251120T211500
-SUMMARY:Insz (L)
-LOCATION:223 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Tomasz Protasowicki
+SUMMARY:Insz (w)
+LOCATION:307 S
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T095000
@@ -3291,14 +3270,14 @@ DTSTART:20251204T175000
 DTEND:20251204T192500
 SUMMARY:Insz (L)
 LOCATION:223 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Tomasz Protasowicki
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T194000
 DTEND:20251204T211500
 SUMMARY:Insz (L)
 LOCATION:223 S
-DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Tomasz Protasowicki
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T095000
@@ -3369,6 +3348,20 @@ DTEND:20251209T131500
 SUMMARY:Med (L)
 LOCATION:226 S
 DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251209T175000
+DTEND:20251209T192500
+SUMMARY:Insz (L)
+LOCATION:223 S
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Tomasz Protasowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251209T194000
+DTEND:20251209T211500
+SUMMARY:Insz (L)
+LOCATION:223 S
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T080000
@@ -3481,6 +3474,13 @@ DTEND:20251215T112500
 SUMMARY:mo (L)
 LOCATION:227 S
 DESCRIPTION:Metodyki obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251215T175000
+DTEND:20251215T192500
+SUMMARY:Insz (w)
+LOCATION:224 S
+DESCRIPTION:Informatyczne systemy zarządzania\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Tomasz Protasowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T080000

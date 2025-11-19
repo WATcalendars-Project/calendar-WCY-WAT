@@ -67,20 +67,6 @@ LOCATION:203 65
 DESCRIPTION:Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251121T095000
-DTEND:20251121T112500
-SUMMARY:Rou (w)
-LOCATION:203 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251121T114000
-DTEND:20251121T131500
-SUMMARY:Rou (w)
-LOCATION:203 65
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251124T095000
 DTEND:20251124T112500
 SUMMARY:Rou (L)
@@ -123,6 +109,13 @@ LOCATION:106 65
 DESCRIPTION:Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251125T133000
+DTEND:20251125T150500
+SUMMARY:Rou (w)
+LOCATION:103 K
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251126T080000
 DTEND:20251126T093500
 SUMMARY:zsw (L)
@@ -142,6 +135,13 @@ DTEND:20251126T131500
 SUMMARY:Lan (w)
 LOCATION:203 65
 DESCRIPTION:Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251126T133000
+DTEND:20251126T150500
+SUMMARY:Rou (w)
+LOCATION:103 K
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T095000

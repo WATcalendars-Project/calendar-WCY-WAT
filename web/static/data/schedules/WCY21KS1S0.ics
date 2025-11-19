@@ -3266,13 +3266,6 @@ LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 45/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251202T175000
-DTEND:20251202T192500
-SUMMARY:Dtu (L)
-LOCATION:125 65
-DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący:  Michał Melaniuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251203T080000
 DTEND:20251203T093500
 SUMMARY:QPQ (w)
@@ -3350,6 +3343,13 @@ LOCATION:085 S
 DESCRIPTION:Krzywe hipereliptyczne w kryptologii\nRodzaj zajęć: Projekt\nNr zajęć: 2/8\nProwadzący:  Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251205T133000
+DTEND:20251205T150500
+SUMMARY:Dtu (L)
+LOCATION:218 65
+DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący:  Michał Melaniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251206T080000
 DTEND:20251206T093500
 SUMMARY:XWF (ć)
@@ -3418,13 +3418,6 @@ DTEND:20251209T173500
 SUMMARY:Ja (ć)
 LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 47/60\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251209T175000
-DTEND:20251209T192500
-SUMMARY:Dtu (L)
-LOCATION:121 65
-DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący:  Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T080000
@@ -3621,6 +3614,13 @@ DTEND:20251219T131500
 SUMMARY:Khk (P)
 LOCATION:085 S
 DESCRIPTION:Krzywe hipereliptyczne w kryptologii\nRodzaj zajęć: Projekt\nNr zajęć: 4/8\nProwadzący:  Tomasz Kijko
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251219T133000
+DTEND:20251219T150500
+SUMMARY:Dtu (L)
+LOCATION:106 65
+DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący:  Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T160000

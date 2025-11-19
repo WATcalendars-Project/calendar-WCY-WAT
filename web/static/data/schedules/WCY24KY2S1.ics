@@ -3273,13 +3273,6 @@ LOCATION:228 S
 DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/16\nProwadzący:  Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260108T095000
-DTEND:20260108T112500
-SUMMARY:SO (w)
-LOCATION:313 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 12/13\nProwadzący:  Zbigniew Zielinski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260108T114000
 DTEND:20260108T131500
 SUMMARY:Aok (L)
@@ -3375,7 +3368,7 @@ DTSTART:20260115T095000
 DTEND:20260115T112500
 SUMMARY:SO (w)
 LOCATION:313 S
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 13/13\nProwadzący:  Zbigniew Zielinski
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 12/13\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T114000
@@ -3404,6 +3397,13 @@ DTEND:20260119T093500
 SUMMARY:Als (w)
 LOCATION:317 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący:  Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260119T114000
+DTEND:20260119T131500
+SUMMARY:SO (w)
+LOCATION:317 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 13/13\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T133000
@@ -3483,20 +3483,6 @@ LOCATION:203 65
 DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260122T114000
-DTEND:20260122T131500
-SUMMARY:Po (L)
-LOCATION:236 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/16\nProwadzący:  Łukasz Matuszelański
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260122T133000
-DTEND:20260122T150500
-SUMMARY:Po (L)
-LOCATION:236 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/16\nProwadzący:  Łukasz Matuszelański
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260123T080000
 DTEND:20260123T093500
 SUMMARY:SO (L)
@@ -3516,6 +3502,20 @@ DTEND:20260126T150500
 SUMMARY:Als (L)
 LOCATION:228 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/11\nProwadzący:  Michał Sobolewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260127T095000
+DTEND:20260127T112500
+SUMMARY:Po (L)
+LOCATION:233 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/16\nProwadzący:  Łukasz Matuszelański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260127T114000
+DTEND:20260127T131500
+SUMMARY:Po (L)
+LOCATION:233 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/16\nProwadzący:  Łukasz Matuszelański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T133000

@@ -1488,20 +1488,6 @@ LOCATION:203 65
 DESCRIPTION:Systemy webowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251120T095000
-DTEND:20251120T112500
-SUMMARY:IRz (L)
-LOCATION:227 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący:  Tomasz Gumowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T114000
-DTEND:20251120T131500
-SUMMARY:IRz (L)
-LOCATION:227 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Tomasz Gumowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251120T133000
 DTEND:20251120T150500
 SUMMARY:Bsi (w)
@@ -1558,24 +1544,38 @@ LOCATION:236 S
 DESCRIPTION:Systemy webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251125T080000
+DTEND:20251125T093500
+SUMMARY:IRz (L)
+LOCATION:233 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący:  Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251125T095000
+DTEND:20251125T112500
+SUMMARY:IRz (L)
+LOCATION:233 S
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Tomasz Gumowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251125T114000
 DTEND:20251125T131500
 SUMMARY:Bsi (L)
-LOCATION:239 S 236 S
+LOCATION:239 S
 DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T133000
 DTEND:20251125T150500
 SUMMARY:Bsi (L)
-LOCATION:239 S 236 S
+LOCATION:239 S
 DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T160000
 DTEND:20251125T173500
 SUMMARY:Bsi (L)
-LOCATION:239 S 236 S
+LOCATION:239 S
 DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT

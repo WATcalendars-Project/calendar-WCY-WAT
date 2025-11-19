@@ -221,20 +221,6 @@ LOCATION:316 S
 DESCRIPTION:Cyberodporność\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Robert Kośla
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251115T160000
-DTEND:20251115T173500
-SUMMARY:COD (Inne)
-LOCATION:239 S
-DESCRIPTION:Cyberodporność\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Robert Kośla
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251115T175000
-DTEND:20251115T192500
-SUMMARY:COD (Inne)
-LOCATION:239 S
-DESCRIPTION:Cyberodporność\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Robert Kośla
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251116T080000
 DTEND:20251116T093500
 SUMMARY:Zkc (w)
@@ -382,6 +368,20 @@ LOCATION:316 S
 DESCRIPTION:Cyberkonflikty w relacjach międzynarodowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący:  Mirosław Maj
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251213T114000
+DTEND:20251213T131500
+SUMMARY:Zrc (L)
+LOCATION:239 S
+DESCRIPTION:Zarządzanie ryzykiem w cyberbezpieczeństwie\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/3\nProwadzący:  Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251213T133000
+DTEND:20251213T150500
+SUMMARY:Zrc (L)
+LOCATION:239 S
+DESCRIPTION:Zarządzanie ryzykiem w cyberbezpieczeństwie\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/3\nProwadzący:  Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251213T160000
 DTEND:20251213T173500
 SUMMARY:CP (ć)
@@ -435,7 +435,7 @@ DTSTART:20260110T175000
 DTEND:20260110T192500
 SUMMARY:Zrc (L)
 LOCATION:239 S
-DESCRIPTION:Zarządzanie ryzykiem w cyberbezpieczeństwie\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/3\nProwadzący:  Jerzy Stanik
+DESCRIPTION:Zarządzanie ryzykiem w cyberbezpieczeństwie\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/3\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260111T080000
@@ -466,20 +466,6 @@ LOCATION:237 S
 DESCRIPTION:Cyberprzestępczość\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący:  Agnieszka Gryszczyńska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260117T080000
-DTEND:20260117T093500
-SUMMARY:Zrc (L)
-LOCATION:239 S
-DESCRIPTION:Zarządzanie ryzykiem w cyberbezpieczeństwie\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/3\nProwadzący:  Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260117T095000
-DTEND:20260117T112500
-SUMMARY:Zrc (L)
-LOCATION:239 S
-DESCRIPTION:Zarządzanie ryzykiem w cyberbezpieczeństwie\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/3\nProwadzący:  Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260117T114000
 DTEND:20260117T131500
 SUMMARY:Dme (L)
@@ -492,6 +478,20 @@ DTEND:20260117T150500
 SUMMARY:Dme (L)
 LOCATION:237 S
 DESCRIPTION:Decyzje menedżerskie\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/3\nProwadzący:  Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260117T160000
+DTEND:20260117T173500
+SUMMARY:COD (Inne)
+LOCATION:224 S
+DESCRIPTION:Cyberodporność\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Robert Kośla
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260117T175000
+DTEND:20260117T192500
+SUMMARY:COD (Inne)
+LOCATION:224 S
+DESCRIPTION:Cyberodporność\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Robert Kośla
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T080000

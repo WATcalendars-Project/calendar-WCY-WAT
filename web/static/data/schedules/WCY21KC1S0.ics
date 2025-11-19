@@ -3135,16 +3135,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T160000
 DTEND:20251120T173500
-SUMMARY:PsbI (L)
+SUMMARY:PsbI (P)
 LOCATION:09 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNr zajęć: 1/7\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T175000
 DTEND:20251120T192500
-SUMMARY:PsbI (L)
+SUMMARY:PsbI (P)
 LOCATION:09 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNr zajęć: 2/7\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T080000
@@ -3375,7 +3375,7 @@ DTSTART:20251201T175000
 DTEND:20251201T192500
 SUMMARY:PsbI (P)
 LOCATION:106 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNr zajęć: 1/7\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNr zajęć: 3/7\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T095000
@@ -3431,14 +3431,14 @@ DTSTART:20251204T160000
 DTEND:20251204T173500
 SUMMARY:PsbI (L)
 LOCATION:09 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T175000
 DTEND:20251204T192500
 SUMMARY:PsbI (L)
 LOCATION:09 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T080000
@@ -3543,7 +3543,7 @@ DTSTART:20251211T175000
 DTEND:20251211T192500
 SUMMARY:PsbI (P)
 LOCATION:121 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNr zajęć: 2/7\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNr zajęć: 4/7\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T080000
@@ -3592,7 +3592,7 @@ DTSTART:20251215T175000
 DTEND:20251215T192500
 SUMMARY:PsbI (P)
 LOCATION:011 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNr zajęć: 3/7\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNr zajęć: 5/7\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T095000
@@ -3746,7 +3746,7 @@ DTSTART:20260108T175000
 DTEND:20260108T192500
 SUMMARY:PsbI (P)
 LOCATION:106 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNr zajęć: 4/7\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNr zajęć: 6/7\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T080000
@@ -4031,16 +4031,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T160000
 DTEND:20260122T173500
-SUMMARY:PsbI (P)
+SUMMARY:PsbI (L)
 LOCATION:106 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNr zajęć: 5/7\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T175000
 DTEND:20260122T192500
-SUMMARY:PsbI (P)
+SUMMARY:PsbI (L)
 LOCATION:106 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Projekt\nNr zajęć: 6/7\nProwadzący:  Marcin Pachnik
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T080000
