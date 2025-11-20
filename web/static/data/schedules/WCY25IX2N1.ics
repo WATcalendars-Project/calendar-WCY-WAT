@@ -522,6 +522,13 @@ LOCATION:227 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący:  Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251123T194000
+DTEND:20251123T211500
+SUMMARY:PGI (ć)
+LOCATION:309 S
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251129T080000
 DTEND:20251129T093500
 SUMMARY:- (Inne)
@@ -639,13 +646,6 @@ DTEND:20251206T150500
 SUMMARY:M1 (ć)
 LOCATION:204 65
 DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/12\nProwadzący:  Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251206T160000
-DTEND:20251206T173500
-SUMMARY:PGI (ć)
-LOCATION:309 S
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251207T080000

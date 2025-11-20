@@ -2860,6 +2860,13 @@ LOCATION:078 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący:  Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251126T133000
+DTEND:20251126T150500
+SUMMARY:Sm (L)
+LOCATION:228 S
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący:  Arkadiusz Orłowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251127T080000
 DTEND:20251127T093500
 SUMMARY:Aok (w)
@@ -3179,7 +3186,7 @@ DTSTART:20251217T080000
 DTEND:20251217T093500
 SUMMARY:Sm (L)
 LOCATION:085 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący:  Arkadiusz Orłowski
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący:  Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T095000
@@ -3305,7 +3312,7 @@ DTSTART:20260114T080000
 DTEND:20260114T093500
 SUMMARY:Sm (L)
 LOCATION:078 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący:  Arkadiusz Orłowski
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący:  Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T095000
@@ -3413,13 +3420,6 @@ LOCATION:139 S 142 S
 DESCRIPTION:Fizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260123T114000
-DTEND:20260123T131500
-SUMMARY:Sm (L)
-LOCATION:085 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący:  Arkadiusz Orłowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260127T080000
 DTEND:20260127T093500
 SUMMARY:F2 (w)
@@ -3448,10 +3448,10 @@ LOCATION:-
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 30/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260128T114000
-DTEND:20260128T131500
+DTSTART:20260128T133000
+DTEND:20260128T150500
 SUMMARY:Sm (L)
-LOCATION:085 S
+LOCATION:078 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący:  Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT

@@ -1348,13 +1348,6 @@ LOCATION:032 S
 DESCRIPTION:Metrologia i systemy pomiarowe - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251120T080000
-DTEND:20251120T093500
-SUMMARY:Als (w)
-LOCATION:51/ 62
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251120T114000
 DTEND:20251120T131500
 SUMMARY:Mt 1 (ć)
@@ -1745,6 +1738,13 @@ DTEND:20251204T150500
 SUMMARY:WdTB (L)
 LOCATION:6 71
 DESCRIPTION:Wprowadzenie do technik biomedycznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/24\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251204T160000
+DTEND:20251204T173500
+SUMMARY:Als (w)
+LOCATION:301/ S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T080000
@@ -3565,6 +3565,13 @@ DTEND:20260201T173500
 SUMMARY:XWDM (w)
 LOCATION:5/ 20
 DESCRIPTION:XWprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260202T080000
+DTEND:20260202T093500
+SUMMARY:F2 (E)
+LOCATION:aF S
+DESCRIPTION:Fizyka 2 - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260202T095000

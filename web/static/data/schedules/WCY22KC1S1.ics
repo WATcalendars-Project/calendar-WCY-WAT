@@ -106,7 +106,7 @@ DTSTART:20250314T133000
 DTEND:20250314T150500
 SUMMARY:Wpp (Inne)
 LOCATION:106 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 1/5\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 1/6\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T095000
@@ -1219,14 +1219,14 @@ DTSTART:20250623T080000
 DTEND:20250623T093500
 SUMMARY:Wpp (Inne)
 LOCATION:121 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/5\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/6\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T095000
 DTEND:20250623T112500
 SUMMARY:Wpp (Inne)
 LOCATION:121 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 3/5\nProwadzący:  Dagmara Mazur
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 3/6\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T080000
@@ -1268,14 +1268,14 @@ DTSTART:20250702T114000
 DTEND:20250702T131500
 SUMMARY:Wpp (Inne)
 LOCATION:121 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 4/5\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 4/6\nProwadzący:  Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250709T114000
 DTEND:20250709T131500
 SUMMARY:Wpp (Inne)
 LOCATION:120 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 5/5\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 5/6\nProwadzący:  Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250917T095000
@@ -1296,7 +1296,7 @@ DTSTART:20250918T175000
 DTEND:20250918T192500
 SUMMARY:Wpp (Inne)
 LOCATION:106 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 6/5\nProwadzący:  Adam Patkowski
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 6/6\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250923T175000
@@ -1324,7 +1324,7 @@ DTSTART:20251003T095000
 DTEND:20251003T112500
 SUMMARY:Wpp (Inne)
 LOCATION:121 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 7/5\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 7/6\nProwadzący:  Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T080000
@@ -1366,7 +1366,7 @@ DTSTART:20251007T175000
 DTEND:20251007T192500
 SUMMARY:Wpp (Inne)
 LOCATION:106 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 8/5\nProwadzący:  Adam Patkowski
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 8/6\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T080000
@@ -1457,7 +1457,7 @@ DTSTART:20251022T133000
 DTEND:20251022T150500
 SUMMARY:Wpp (Inne)
 LOCATION:106 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 9/5\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 9/6\nProwadzący:  Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T080000
@@ -1548,7 +1548,7 @@ DTSTART:20251106T114000
 DTEND:20251106T131500
 SUMMARY:Wpp (Inne)
 LOCATION:011 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 10/5\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 10/6\nProwadzący:  Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T133000
@@ -1598,6 +1598,13 @@ DTEND:20251118T112500
 SUMMARY:Ztel (L)
 LOCATION:120 65
 DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/15\nProwadzący:  Krystian Wojdygowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251120T133000
+DTEND:20251120T150500
+SUMMARY:Wpp (Inne)
+LOCATION:106 65
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 11/6\nProwadzący:  Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T133000

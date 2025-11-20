@@ -1033,13 +1033,6 @@ LOCATION:205 65
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący:  Krzysztof Pszczoła
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260110T160000
-DTEND:20260110T173500
-SUMMARY:PGI (ć)
-LOCATION:29/ 54
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260111T080000
 DTEND:20260111T093500
 SUMMARY:Mat2 (ć)
@@ -1080,6 +1073,13 @@ DTEND:20260117T112500
 SUMMARY:Jo (ć)
 LOCATION:237 K
 DESCRIPTION:Język obcy - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260117T114000
+DTEND:20260117T131500
+SUMMARY:PGI (ć)
+LOCATION:29/ 54
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T080000

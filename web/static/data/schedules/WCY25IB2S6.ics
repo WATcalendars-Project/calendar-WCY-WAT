@@ -4,38 +4,10 @@ PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY25IB2S6
 BEGIN:VEVENT
-DTSTART:20251216T114000
-DTEND:20251216T131500
-SUMMARY:WIT (w)
-LOCATION:203 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Witold Żorski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251219T133000
-DTEND:20251219T150500
-SUMMARY:WIT (w)
-LOCATION:203 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Witold Żorski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251219T160000
 DTEND:20251219T173500
 SUMMARY:WIT (w)
 LOCATION:203 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Witold Żorski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260112T080000
-DTEND:20260112T093500
-SUMMARY:WIT (w)
-LOCATION:203 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Witold Żorski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260112T095000
-DTEND:20260112T112500
-SUMMARY:WIT (w)
-LOCATION:201 65
-DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący:  Witold Żorski
 END:VEVENT
 END:VCALENDAR

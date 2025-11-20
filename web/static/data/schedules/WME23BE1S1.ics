@@ -4540,13 +4540,6 @@ LOCATION:119 45
 DESCRIPTION:Podstawy optoelektroniki - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251112T133000
-DTEND:20251112T150500
-SUMMARY:Mwein (w)
-LOCATION:120 45
-DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251112T160000
 DTEND:20251112T173500
 SUMMARY:Swb (L)
@@ -4615,13 +4608,6 @@ DTEND:20251115T150500
 SUMMARY:XFiz2 (w)
 LOCATION:19 36
 DESCRIPTION:XFizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/9\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251117T080000
-DTEND:20251117T093500
-SUMMARY:Mwein (w)
-LOCATION:315b S
-DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T095000
@@ -4767,14 +4753,14 @@ BEGIN:VEVENT
 DTSTART:20251123T080000
 DTEND:20251123T093500
 SUMMARY:XFiz2 (ć)
-LOCATION:aF S 19 36
+LOCATION:aF S
 DESCRIPTION:XFizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251123T095000
 DTEND:20251123T112500
 SUMMARY:XFiz2 (ć)
-LOCATION:aF S 19 36
+LOCATION:aF S
 DESCRIPTION:XFizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -5156,13 +5142,6 @@ LOCATION:315b S
 DESCRIPTION:Cyfrowe przetwarzanie sygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251208T114000
-DTEND:20251208T131500
-SUMMARY:Mwein (w)
-LOCATION:315b S
-DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251209T080000
 DTEND:20251209T093500
 SUMMARY:Tmf (L)
@@ -5294,6 +5273,13 @@ DTEND:20251213T150500
 SUMMARY:XFiz2 (w)
 LOCATION:19 36
 DESCRIPTION:XFizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251215T095000
+DTEND:20251215T112500
+SUMMARY:Mwein (w)
+LOCATION:82 S
+DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T114000
@@ -6304,6 +6290,13 @@ LOCATION:15/ 23a
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260120T133000
+DTEND:20260120T150500
+SUMMARY:Mwein (w)
+LOCATION:82 S
+DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260122T080000
 DTEND:20260122T093500
 SUMMARY:Popt (L)
@@ -6393,6 +6386,13 @@ DTEND:20260126T131500
 SUMMARY:Cps (w)
 LOCATION:315b S
 DESCRIPTION:Cyfrowe przetwarzanie sygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260126T133000
+DTEND:20260126T150500
+SUMMARY:Mwein (w)
+LOCATION:82 S
+DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T095000

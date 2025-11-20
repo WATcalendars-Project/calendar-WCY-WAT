@@ -113,7 +113,7 @@ DTSTART:20250314T133000
 DTEND:20250314T150500
 SUMMARY:Wpp (Inne)
 LOCATION:106 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 1/5\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 1/6\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T080000
@@ -1275,14 +1275,14 @@ DTSTART:20250702T114000
 DTEND:20250702T131500
 SUMMARY:Wpp (Inne)
 LOCATION:121 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/5\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/6\nProwadzący:  Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250709T114000
 DTEND:20250709T131500
 SUMMARY:Wpp (Inne)
 LOCATION:120 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 3/5\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 3/6\nProwadzący:  Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250915T080000
@@ -1310,7 +1310,7 @@ DTSTART:20250918T175000
 DTEND:20250918T192500
 SUMMARY:Wpp (Inne)
 LOCATION:106 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 4/5\nProwadzący:  Adam Patkowski
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 4/6\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250923T175000
@@ -1338,7 +1338,7 @@ DTSTART:20251003T095000
 DTEND:20251003T112500
 SUMMARY:Wpp (Inne)
 LOCATION:121 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 5/5\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 5/6\nProwadzący:  Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T080000
@@ -1366,7 +1366,7 @@ DTSTART:20251007T175000
 DTEND:20251007T192500
 SUMMARY:Wpp (Inne)
 LOCATION:106 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 6/5\nProwadzący:  Adam Patkowski
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 6/6\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T080000
@@ -1457,7 +1457,7 @@ DTSTART:20251022T133000
 DTEND:20251022T150500
 SUMMARY:Wpp (Inne)
 LOCATION:106 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 7/5\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 7/6\nProwadzący:  Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T114000
@@ -1527,7 +1527,7 @@ DTSTART:20251106T114000
 DTEND:20251106T131500
 SUMMARY:Wpp (Inne)
 LOCATION:011 65
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 8/5\nProwadzący:  Andrzej Stasiak
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 8/6\nProwadzący:  Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T114000
@@ -1591,6 +1591,13 @@ DTEND:20251117T173500
 SUMMARY:pzST (P)
 LOCATION:106 65
 DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 20/22\nProwadzący:  Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251120T133000
+DTEND:20251120T150500
+SUMMARY:Wpp (Inne)
+LOCATION:106 65
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 9/6\nProwadzący:  Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T133000

@@ -662,11 +662,18 @@ LOCATION:205 65
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący:  Krzysztof Pszczoła
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251206T175000
-DTEND:20251206T192500
+DTSTART:20251207T080000
+DTEND:20251207T093500
 SUMMARY:PGI (ć)
 LOCATION:309 S
 DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251207T095000
+DTEND:20251207T112500
+SUMMARY:PGI (ć)
+LOCATION:307 S
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251207T114000
@@ -736,7 +743,7 @@ DTSTART:20251213T175000
 DTEND:20251213T192500
 SUMMARY:PGI (ć)
 LOCATION:309 S
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: -
+DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251214T114000
@@ -800,13 +807,6 @@ DTEND:20251220T173500
 SUMMARY:Mat2 (ć)
 LOCATION:204 65
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/11\nProwadzący:  Piotr Kozarzewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251220T175000
-DTEND:20251220T192500
-SUMMARY:PGI (ć)
-LOCATION:309 S
-DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251221T114000

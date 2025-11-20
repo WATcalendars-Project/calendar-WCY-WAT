@@ -46,20 +46,6 @@ LOCATION:139 S
 DESCRIPTION:XFizyka 2 - (Laboratorium poprawkowe) -\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251123T080000
-DTEND:20251123T093500
-SUMMARY:XFiz2 (ć)
-LOCATION:aF S 19 36
-DESCRIPTION:XFizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251123T095000
-DTEND:20251123T112500
-SUMMARY:XFiz2 (ć)
-LOCATION:aF S 19 36
-DESCRIPTION:XFizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251206T080000
 DTEND:20251206T093500
 SUMMARY:XFiz2 (L)
@@ -88,18 +74,11 @@ LOCATION:19 36
 DESCRIPTION:XFizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251207T080000
-DTEND:20251207T093500
-SUMMARY:XFiz2 (ć)
-LOCATION:aF S 19 36
-DESCRIPTION:XFizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251207T095000
 DTEND:20251207T112500
 SUMMARY:XFiz2 (ć)
 LOCATION:aF S 19 36
-DESCRIPTION:XFizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: -
+DESCRIPTION:XFizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T114000
@@ -134,20 +113,20 @@ DTSTART:20251221T080000
 DTEND:20251221T093500
 SUMMARY:XFiz2 (ć)
 LOCATION:aF S 19 36
-DESCRIPTION:XFizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: -
+DESCRIPTION:XFizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251221T095000
 DTEND:20251221T112500
 SUMMARY:XFiz2 (ć)
 LOCATION:aF S 19 36
-DESCRIPTION:XFizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: -
+DESCRIPTION:XFizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260111T095000
 DTEND:20260111T112500
 SUMMARY:XFiz2 (ć)
 LOCATION:aF S 19 36
-DESCRIPTION:XFizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: -
+DESCRIPTION:XFizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

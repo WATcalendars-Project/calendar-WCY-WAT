@@ -4136,9 +4136,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T095000
 DTEND:20260306T112500
-SUMMARY:WF (ć)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 61/60\nProwadzący: -
+SUMMARY:PESW (w)
+LOCATION:S2 72
+DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T114000
@@ -4187,7 +4187,7 @@ DTSTART:20260313T095000
 DTEND:20260313T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 62/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 61/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T114000
@@ -4236,7 +4236,7 @@ DTSTART:20260320T095000
 DTEND:20260320T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 63/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 62/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T114000
@@ -4248,51 +4248,51 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T133000
 DTEND:20260320T150500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 48/1\nProwadzący: -
+SUMMARY:PESW (w)
+LOCATION:S2 72
+DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T160000
 DTEND:20260320T173500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 49/1\nProwadzący: -
+SUMMARY:PESW (w)
+LOCATION:S2 72
+DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T175000
 DTEND:20260320T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 50/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 48/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T194000
 DTEND:20260320T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 51/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 49/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260327T080000
 DTEND:20260327T093500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 52/1\nProwadzący: -
+SUMMARY:PESW (ć)
+LOCATION:20 69
+DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260327T095000
 DTEND:20260327T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 64/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 63/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260327T114000
 DTEND:20260327T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 53/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 50/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260327T133000
@@ -4306,35 +4306,35 @@ DTSTART:20260327T160000
 DTEND:20260327T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 54/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 51/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260327T175000
 DTEND:20260327T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 55/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 52/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260327T194000
 DTEND:20260327T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 56/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 53/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T080000
 DTEND:20260410T093500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 57/1\nProwadzący: -
+SUMMARY:OPBMR (ć)
+LOCATION:2 55A
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T095000
 DTEND:20260410T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 65/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 64/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T114000
@@ -4348,49 +4348,49 @@ DTSTART:20260410T133000
 DTEND:20260410T150500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 58/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 54/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T160000
 DTEND:20260410T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 59/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 55/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T175000
 DTEND:20260410T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 60/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 56/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T194000
 DTEND:20260410T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 61/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 57/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T080000
 DTEND:20260417T093500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 62/1\nProwadzący: -
+SUMMARY:PESW (ć)
+LOCATION:20 69
+DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T095000
 DTEND:20260417T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 66/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 65/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T114000
 DTEND:20260417T131500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 63/1\nProwadzący: -
+SUMMARY:OPBMR (ć)
+LOCATION:2 55A
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T133000
@@ -4404,42 +4404,133 @@ DTSTART:20260417T160000
 DTEND:20260417T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 64/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 58/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T175000
 DTEND:20260417T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 65/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 59/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T194000
 DTEND:20260417T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 66/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 60/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T095000
+DTEND:20260422T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 5/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T114000
+DTEND:20260422T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 6/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T133000
+DTEND:20260422T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 7/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T160000
+DTEND:20260422T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 8/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T175000
+DTEND:20260422T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 9/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T194000
+DTEND:20260422T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 10/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T080000
+DTEND:20260423T093500
+SUMMARY:OPBMR (ć)
+LOCATION:Pol.Drawsko
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T095000
+DTEND:20260423T112500
+SUMMARY:OPBMR (ć)
+LOCATION:Pol.Drawsko
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T114000
+DTEND:20260423T131500
+SUMMARY:OPBMR (ć)
+LOCATION:Pol.Drawsko
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T133000
+DTEND:20260423T150500
+SUMMARY:OPBMR (ć)
+LOCATION:Pol.Drawsko
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T160000
+DTEND:20260423T173500
+SUMMARY:OPBMR (ć)
+LOCATION:Pol.Drawsko
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T175000
+DTEND:20260423T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 11/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T194000
+DTEND:20260423T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 12/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T080000
 DTEND:20260508T093500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 67/1\nProwadzący: -
+SUMMARY:PESW (ć)
+LOCATION:28 69
+DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T095000
 DTEND:20260508T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 67/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 66/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T114000
 DTEND:20260508T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 68/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 61/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T133000
@@ -4460,77 +4551,77 @@ DTSTART:20260508T175000
 DTEND:20260508T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 69/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 62/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T194000
 DTEND:20260508T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 70/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 63/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T080000
 DTEND:20260515T093500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 71/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 64/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T095000
 DTEND:20260515T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 68/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 67/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T114000
 DTEND:20260515T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 72/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 65/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T133000
 DTEND:20260515T150500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 73/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 66/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T160000
 DTEND:20260515T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 74/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 67/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T175000
 DTEND:20260515T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 75/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 68/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T194000
 DTEND:20260515T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 76/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 69/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T080000
 DTEND:20260522T093500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 77/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 70/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T095000
 DTEND:20260522T112500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 78/1\nProwadzący: -
+SUMMARY:OPBMR (ć)
+LOCATION:PĆT4
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T114000
@@ -4558,14 +4649,14 @@ DTSTART:20260522T175000
 DTEND:20260522T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 79/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 71/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T194000
 DTEND:20260522T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 80/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 72/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T080000
@@ -4591,16 +4682,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T080000
 DTEND:20260529T093500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 81/1\nProwadzący: -
+SUMMARY:PESW (ć)
+LOCATION:20 69
+DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T095000
 DTEND:20260529T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 69/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 68/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T114000
@@ -4614,28 +4705,28 @@ DTSTART:20260529T133000
 DTEND:20260529T150500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 82/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 73/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T160000
 DTEND:20260529T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 83/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 74/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T175000
 DTEND:20260529T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 84/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 75/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T194000
 DTEND:20260529T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 85/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 76/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T160000
@@ -4647,51 +4738,51 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T080000
 DTEND:20260612T093500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 86/1\nProwadzący: -
+SUMMARY:OPBMR (ć)
+LOCATION:2 55A
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T095000
 DTEND:20260612T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 70/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 69/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T114000
 DTEND:20260612T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 87/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 77/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T133000
 DTEND:20260612T150500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 88/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 78/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T160000
 DTEND:20260612T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 89/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 79/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T175000
 DTEND:20260612T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 90/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 80/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T194000
 DTEND:20260612T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 91/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 81/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T133000
@@ -4719,14 +4810,14 @@ DTSTART:20260619T114000
 DTEND:20260619T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 92/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 82/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T133000
 DTEND:20260619T150500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 93/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 83/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T160000
@@ -4740,13 +4831,13 @@ DTSTART:20260619T175000
 DTEND:20260619T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 94/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 84/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T194000
 DTEND:20260619T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 95/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 85/1\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

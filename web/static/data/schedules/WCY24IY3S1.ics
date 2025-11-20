@@ -2832,13 +2832,6 @@ LOCATION:316 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 8/13\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251126T160000
-DTEND:20251126T173500
-SUMMARY:Sm (L)
-LOCATION:085 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący:  Arkadiusz Orłowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251127T080000
 DTEND:20251127T093500
 SUMMARY:Aok (w)
@@ -3186,7 +3179,7 @@ DTSTART:20251217T133000
 DTEND:20251217T150500
 SUMMARY:Sm (L)
 LOCATION:085 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący:  Arkadiusz Orłowski
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący:  Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T080000
@@ -3270,6 +3263,13 @@ DTSTART:20260109T080000
 DTEND:20260109T093500
 SUMMARY:Sm (L)
 LOCATION:085 S
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący:  Arkadiusz Orłowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260109T095000
+DTEND:20260109T112500
+SUMMARY:Sm (L)
+LOCATION:078 S
 DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący:  Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
