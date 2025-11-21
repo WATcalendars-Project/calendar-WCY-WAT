@@ -354,20 +354,6 @@ LOCATION:228 S
 DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący:  Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251126T080000
-DTEND:20251126T093500
-SUMMARY:Mia (P)
-LOCATION:224 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 3/8\nProwadzący:  Robert Waszkowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251126T095000
-DTEND:20251126T112500
-SUMMARY:Mia (P)
-LOCATION:224 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 4/8\nProwadzący:  Robert Waszkowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251126T114000
 DTEND:20251126T131500
 SUMMARY:Mzw (L)
@@ -407,14 +393,14 @@ DTSTART:20251201T160000
 DTEND:20251201T173500
 SUMMARY:Mia (P)
 LOCATION:226 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 5/8\nProwadzący:  Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 3/8\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T175000
 DTEND:20251201T192500
 SUMMARY:Mia (P)
 LOCATION:226 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 6/8\nProwadzący:  Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 4/8\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T080000
@@ -515,13 +501,6 @@ LOCATION:224 S
 DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący:  Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251209T133000
-DTEND:20251209T150500
-SUMMARY:ZUI (L)
-LOCATION:224 S
-DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący:  Wiesław Barcikowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251210T080000
 DTEND:20251210T093500
 SUMMARY:Mia (w)
@@ -596,14 +575,14 @@ DTSTART:20251216T114000
 DTEND:20251216T131500
 SUMMARY:ZUI (L)
 LOCATION:224 S
-DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący:  Wiesław Barcikowski
+DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący:  Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T133000
 DTEND:20251216T150500
 SUMMARY:ZUI (L)
 LOCATION:224 S
-DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący:  Wiesław Barcikowski
+DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący:  Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T080000
@@ -652,14 +631,14 @@ DTSTART:20260107T080000
 DTEND:20260107T093500
 SUMMARY:Mia (P)
 LOCATION:224 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 7/8\nProwadzący:  Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 5/8\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T095000
 DTEND:20260107T112500
 SUMMARY:Mia (P)
 LOCATION:224 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 8/8\nProwadzący:  Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 6/8\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T114000
@@ -694,14 +673,14 @@ DTSTART:20260113T080000
 DTEND:20260113T093500
 SUMMARY:ZUI (L)
 LOCATION:224 S
-DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący:  Wiesław Barcikowski
+DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący:  Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T095000
 DTEND:20260113T112500
 SUMMARY:ZUI (L)
 LOCATION:224 S
-DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący:  Wiesław Barcikowski
+DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący:  Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T114000
@@ -771,14 +750,14 @@ DTSTART:20260120T080000
 DTEND:20260120T093500
 SUMMARY:ZUI (L)
 LOCATION:224 S
-DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Wiesław Barcikowski
+DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący:  Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T095000
 DTEND:20260120T112500
 SUMMARY:ZUI (L)
 LOCATION:224 S
-DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący:  Wiesław Barcikowski
+DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T114000
@@ -809,11 +788,25 @@ LOCATION:227 S
 DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260121T114000
+DTEND:20260121T131500
+SUMMARY:Mia (P)
+LOCATION:227 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 7/8\nProwadzący:  Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260121T133000
+DTEND:20260121T150500
+SUMMARY:Mia (P)
+LOCATION:227 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 8/8\nProwadzący:  Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260127T080000
 DTEND:20260127T093500
 SUMMARY:ZUI (L)
 LOCATION:224 S
-DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Wiesław Barcikowski
+DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący:  Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T095000
@@ -828,6 +821,13 @@ DTEND:20260127T131500
 SUMMARY:Mzw (L)
 LOCATION:228 S
 DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Wojciech Kulas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260127T133000
+DTEND:20260127T150500
+SUMMARY:ZUI (L)
+LOCATION:224 S
+DESCRIPTION:Zarządzanie usługami informatycznymi\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Wiesław Barcikowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T080000

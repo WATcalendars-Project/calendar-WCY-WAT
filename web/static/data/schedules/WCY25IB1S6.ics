@@ -2650,13 +2650,6 @@ LOCATION:0.19/ 135
 DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251222T095000
-DTEND:20251222T112500
-SUMMARY:NiBSI (w)
-LOCATION:308 S
-DESCRIPTION:Niezawodność i bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący:  Tadeusz Nowicki
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251222T114000
 DTEND:20251222T131500
 SUMMARY:PESW (w)
@@ -2984,6 +2977,13 @@ DTEND:20260116T150500
 SUMMARY:ZLDT-1 (w)
 LOCATION:aula/ 135
 DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260119T080000
+DTEND:20260119T093500
+SUMMARY:NiBSI (w)
+LOCATION:228 S
+DESCRIPTION:Niezawodność i bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący:  Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T095000

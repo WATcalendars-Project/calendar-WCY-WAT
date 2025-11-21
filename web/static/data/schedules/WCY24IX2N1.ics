@@ -1324,7 +1324,7 @@ DTSTART:20251011T080000
 DTEND:20251011T093500
 SUMMARY:Als (w)
 LOCATION:308 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T095000
@@ -1394,7 +1394,7 @@ DTSTART:20251018T080000
 DTEND:20251018T093500
 SUMMARY:Als (w)
 LOCATION:308 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251018T095000
@@ -1485,7 +1485,7 @@ DTSTART:20251025T080000
 DTEND:20251025T093500
 SUMMARY:Als (w)
 LOCATION:308 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T095000
@@ -1674,7 +1674,7 @@ DTSTART:20251115T080000
 DTEND:20251115T093500
 SUMMARY:Als (w)
 LOCATION:308 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T095000
@@ -1765,7 +1765,7 @@ DTSTART:20251122T080000
 DTEND:20251122T093500
 SUMMARY:Als (w)
 LOCATION:308 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T095000
@@ -1961,7 +1961,7 @@ DTSTART:20251206T080000
 DTEND:20251206T093500
 SUMMARY:Als (w)
 LOCATION:314 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T095000
@@ -2354,6 +2354,13 @@ DTEND:20260117T211500
 SUMMARY:Als (L)
 LOCATION:228 S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Piotr Adamczyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260118T080000
+DTEND:20260118T093500
+SUMMARY:Als (w)
+LOCATION:307 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T133000

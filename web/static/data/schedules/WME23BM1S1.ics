@@ -4792,13 +4792,6 @@ LOCATION:2.10/ 54A
 DESCRIPTION:Teoria maszyn i mechanizmów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251120T133000
-DTEND:20251120T150500
-SUMMARY:Wdmuc (w)
-LOCATION:51/ 62
-DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251121T080000
 DTEND:20251121T093500
 SUMMARY:- (Inne)
@@ -5005,7 +4998,14 @@ BEGIN:VEVENT
 DTSTART:20251127T133000
 DTEND:20251127T150500
 SUMMARY:Wdmuc (w)
-LOCATION:51/ 62
+LOCATION:52/ 62
+DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251127T160000
+DTEND:20251127T173500
+SUMMARY:Wdmuc (w)
+LOCATION:52/ 62
 DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
