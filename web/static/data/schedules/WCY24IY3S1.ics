@@ -50,7 +50,7 @@ DTSTART:20250305T095000
 DTEND:20250305T112500
 SUMMARY:Tpi (w)
 LOCATION:307 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T080000
@@ -92,14 +92,14 @@ DTSTART:20250307T080000
 DTEND:20250307T093500
 SUMMARY:Tgs (w)
 LOCATION:316 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T095000
 DTEND:20250307T112500
 SUMMARY:Tgs (w)
 LOCATION:316 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T114000
@@ -148,7 +148,7 @@ DTSTART:20250311T114000
 DTEND:20250311T131500
 SUMMARY:Tpi (w)
 LOCATION:317 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T133000
@@ -162,14 +162,14 @@ DTSTART:20250312T095000
 DTEND:20250312T112500
 SUMMARY:Tgs (ć)
 LOCATION:307 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T114000
 DTEND:20250312T131500
 SUMMARY:Tgs (ć)
 LOCATION:307 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T133000
@@ -260,7 +260,7 @@ DTSTART:20250318T095000
 DTEND:20250318T112500
 SUMMARY:Tpi (w)
 LOCATION:317 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T114000
@@ -281,14 +281,14 @@ DTSTART:20250319T095000
 DTEND:20250319T112500
 SUMMARY:Tgs (ć)
 LOCATION:239 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T114000
 DTEND:20250319T131500
 SUMMARY:Tgs (ć)
 LOCATION:239 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T133000
@@ -344,14 +344,14 @@ DTSTART:20250321T080000
 DTEND:20250321T093500
 SUMMARY:Tgs (w)
 LOCATION:316 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T095000
 DTEND:20250321T112500
 SUMMARY:Tgs (w)
 LOCATION:316 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T114000
@@ -421,7 +421,7 @@ DTSTART:20250325T095000
 DTEND:20250325T112500
 SUMMARY:Tpi (w)
 LOCATION:317 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T114000
@@ -435,14 +435,14 @@ DTSTART:20250326T095000
 DTEND:20250326T112500
 SUMMARY:Tgs (ć)
 LOCATION:237 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T114000
 DTEND:20250326T131500
 SUMMARY:Tgs (ć)
 LOCATION:237 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T133000
@@ -491,14 +491,14 @@ DTSTART:20250328T080000
 DTEND:20250328T093500
 SUMMARY:Tgs (w)
 LOCATION:316 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T095000
 DTEND:20250328T112500
 SUMMARY:Tgs (w)
 LOCATION:316 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T114000
@@ -526,21 +526,21 @@ DTSTART:20250331T160000
 DTEND:20250331T173500
 SUMMARY:Mat I (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka I\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T080000
 DTEND:20250401T093500
 SUMMARY:Tgs (ć)
 LOCATION:308 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T095000
 DTEND:20250401T112500
 SUMMARY:Tpi (w)
 LOCATION:317 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T114000
@@ -680,7 +680,7 @@ DTSTART:20250407T175000
 DTEND:20250407T192500
 SUMMARY:M II (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T080000
@@ -694,7 +694,7 @@ DTSTART:20250408T095000
 DTEND:20250408T112500
 SUMMARY:Tpi (w)
 LOCATION:317 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T114000
@@ -771,7 +771,7 @@ DTSTART:20250411T095000
 DTEND:20250411T112500
 SUMMARY:Tgs (w)
 LOCATION:316 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T114000
@@ -1016,7 +1016,7 @@ DTSTART:20250429T160000
 DTEND:20250429T173500
 SUMMARY:Tgs (Inne)
 LOCATION:239 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T080000
@@ -1051,7 +1051,7 @@ DTSTART:20250505T080000
 DTEND:20250505T093500
 SUMMARY:Tgs (w)
 LOCATION:314 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T095000
@@ -1681,7 +1681,7 @@ DTSTART:20250616T114000
 DTEND:20250616T131500
 SUMMARY:Tpi (w)
 LOCATION:317 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T080000
@@ -1849,7 +1849,7 @@ DTSTART:20250915T133000
 DTEND:20250915T150500
 SUMMARY:Tgs (Inne)
 LOCATION:239 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250916T095000
@@ -1898,7 +1898,7 @@ DTSTART:20250919T133000
 DTEND:20250919T150500
 SUMMARY:Tpi (Inne)
 LOCATION:317 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250923T095000
@@ -1940,14 +1940,14 @@ DTSTART:20251001T114000
 DTEND:20251001T131500
 SUMMARY:Po (w)
 LOCATION:317 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T133000
 DTEND:20251001T150500
 SUMMARY:Po (w)
 LOCATION:317 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T133000
@@ -2010,7 +2010,7 @@ DTSTART:20251008T080000
 DTEND:20251008T093500
 SUMMARY:Po (w)
 LOCATION:314 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T095000
@@ -2080,14 +2080,14 @@ DTSTART:20251013T114000
 DTEND:20251013T131500
 SUMMARY:Als (w)
 LOCATION:307 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T133000
 DTEND:20251013T150500
 SUMMARY:Als (w)
 LOCATION:316 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T080000
@@ -2157,14 +2157,14 @@ DTSTART:20251016T080000
 DTEND:20251016T093500
 SUMMARY:Po (w)
 LOCATION:307 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T095000
 DTEND:20251016T112500
 SUMMARY:Po (w)
 LOCATION:307 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T160000
@@ -2178,14 +2178,14 @@ DTSTART:20251017T080000
 DTEND:20251017T093500
 SUMMARY:BD(pp) (w)
 LOCATION:316 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/4\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T095000
 DTEND:20251017T112500
 SUMMARY:BD(pp) (w)
 LOCATION:316 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T175000
@@ -2213,7 +2213,7 @@ DTSTART:20251020T133000
 DTEND:20251020T150500
 SUMMARY:Als (w)
 LOCATION:316 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/9\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/9\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T160000
@@ -2276,7 +2276,7 @@ DTSTART:20251023T133000
 DTEND:20251023T150500
 SUMMARY:Po (w)
 LOCATION:313 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T160000
@@ -2297,7 +2297,7 @@ DTSTART:20251024T080000
 DTEND:20251024T093500
 SUMMARY:BD(pp) (w)
 LOCATION:307 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/4\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T080000
@@ -2395,14 +2395,14 @@ DTSTART:20251030T114000
 DTEND:20251030T131500
 SUMMARY:Po (w)
 LOCATION:316 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T133000
 DTEND:20251030T150500
 SUMMARY:Po (w)
 LOCATION:316 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T114000
@@ -2514,7 +2514,7 @@ DTSTART:20251106T080000
 DTEND:20251106T093500
 SUMMARY:Po (w)
 LOCATION:307 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T095000
@@ -2556,14 +2556,14 @@ DTSTART:20251107T080000
 DTEND:20251107T093500
 SUMMARY:Als (w)
 LOCATION:313 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/9\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/9\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T095000
 DTEND:20251107T112500
 SUMMARY:Als (w)
 LOCATION:307 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/9\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/9\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T080000
@@ -2703,7 +2703,7 @@ DTSTART:20251120T080000
 DTEND:20251120T093500
 SUMMARY:Po (w)
 LOCATION:307 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T095000
@@ -2717,7 +2717,7 @@ DTSTART:20251120T160000
 DTEND:20251120T173500
 SUMMARY:Tgs (Inne)
 LOCATION:226 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T194000
@@ -2731,7 +2731,7 @@ DTSTART:20251121T080000
 DTEND:20251121T093500
 SUMMARY:Als (w)
 LOCATION:316 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T114000
@@ -2857,14 +2857,14 @@ DTSTART:20251201T114000
 DTEND:20251201T131500
 SUMMARY:Als (w)
 LOCATION:317 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T133000
 DTEND:20251201T150500
 SUMMARY:Als (w)
 LOCATION:317 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T160000
@@ -2983,7 +2983,7 @@ DTSTART:20251208T114000
 DTEND:20251208T131500
 SUMMARY:Als (w)
 LOCATION:317 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T133000

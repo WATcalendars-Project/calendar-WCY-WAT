@@ -29,14 +29,14 @@ DTSTART:20250610T114000
 DTEND:20250610T131500
 SUMMARY:AsU (w)
 LOCATION:203 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący:  Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T133000
 DTEND:20250610T150500
 SUMMARY:AsU (w)
 LOCATION:203 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący:  Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T080000
@@ -134,7 +134,7 @@ DTSTART:20250617T114000
 DTEND:20250617T131500
 SUMMARY:AsU (L)
 LOCATION:011 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T095000
@@ -323,14 +323,14 @@ DTSTART:20250703T095000
 DTEND:20250703T112500
 SUMMARY:AsU (L)
 LOCATION:011 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250703T114000
 DTEND:20250703T131500
 SUMMARY:AsU (L)
 LOCATION:011 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250704T080000
@@ -344,14 +344,14 @@ DTSTART:20250704T095000
 DTEND:20250704T112500
 SUMMARY:AsU (L)
 LOCATION:011 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250704T114000
 DTEND:20250704T131500
 SUMMARY:AsU (L)
 LOCATION:011 65
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250707T080000

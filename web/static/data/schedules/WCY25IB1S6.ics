@@ -1779,14 +1779,14 @@ DTSTART:20250520T160000
 DTEND:20250520T173500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T175000
 DTEND:20250520T192500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T080000
@@ -1821,14 +1821,14 @@ DTSTART:20250521T160000
 DTEND:20250521T173500
 SUMMARY:SBD (L)
 LOCATION:227 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T175000
 DTEND:20250521T192500
 SUMMARY:SBD (L)
 LOCATION:227 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T080000
@@ -1989,14 +1989,14 @@ DTSTART:20250529T080000
 DTEND:20250529T093500
 SUMMARY:SBD (L)
 LOCATION:226 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T095000
 DTEND:20250529T112500
 SUMMARY:SBD (L)
 LOCATION:226 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T114000
@@ -2038,14 +2038,14 @@ DTSTART:20250530T114000
 DTEND:20250530T131500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T133000
 DTEND:20250530T150500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T160000
@@ -3375,14 +3375,14 @@ DTSTART:20260206T114000
 DTEND:20260206T131500
 SUMMARY:NiBSI (w)
 LOCATION:307 S
-DESCRIPTION:Niezawodność i bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/4\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Niezawodność i bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/4\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T133000
 DTEND:20260206T150500
 SUMMARY:NiBSI (w)
 LOCATION:307 S
-DESCRIPTION:Niezawodność i bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Niezawodność i bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T160000
@@ -3844,7 +3844,7 @@ DTSTART:20260227T133000
 DTEND:20260227T150500
 SUMMARY:NiBSI (w)
 LOCATION:307 S
-DESCRIPTION:Niezawodność i bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/4\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Niezawodność i bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/4\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T080000
@@ -4530,14 +4530,14 @@ DTSTART:20260402T114000
 DTEND:20260402T131500
 SUMMARY:NiBSI (L)
 LOCATION:227 S
-DESCRIPTION:Niezawodność i bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/2\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Niezawodność i bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/2\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T133000
 DTEND:20260402T150500
 SUMMARY:NiBSI (L)
 LOCATION:227 S
-DESCRIPTION:Niezawodność i bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/2\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Niezawodność i bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/2\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260403T080000

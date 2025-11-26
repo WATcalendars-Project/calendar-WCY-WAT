@@ -197,7 +197,7 @@ DTSTART:20251003T114000
 DTEND:20251003T131500
 SUMMARY:In. WCY (Inne)
 LOCATION:S. Kinowa K
-DESCRIPTION:Inauguracja WCY\nRodzaj zajęć:  - \nNr zajęć: 21/1\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Inauguracja WCY\nRodzaj zajęć:  - \nNr zajęć: 21/1\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T114000
@@ -211,7 +211,7 @@ DTSTART:20251003T114000
 DTEND:20251003T131500
 SUMMARY:In. WCY (Inne)
 LOCATION:S. Kinowa K
-DESCRIPTION:Inauguracja WCY\nRodzaj zajęć:  - \nNr zajęć: 23/1\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Inauguracja WCY\nRodzaj zajęć:  - \nNr zajęć: 23/1\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T133000
@@ -2699,20 +2699,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 36/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260409T095000
-DTEND:20260409T112500
-SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PW)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/18\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260409T114000
-DTEND:20260409T131500
-SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PW)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/18\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260409T133000
 DTEND:20260409T150500
 SUMMARY:- (S.Sz.W.)
@@ -2892,14 +2878,14 @@ DTSTART:20260425T095000
 DTEND:20260425T112500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(PW)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/18\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T114000
 DTEND:20260425T131500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(PW)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/18\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T095000
@@ -2949,6 +2935,27 @@ DTEND:20260430T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 50/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260504T114000
+DTEND:20260504T131500
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 51/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260504T133000
+DTEND:20260504T150500
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PW)
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/18\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260504T160000
+DTEND:20260504T173500
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PW)
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T095000
@@ -3004,14 +3011,14 @@ DTSTART:20260507T175000
 DTEND:20260507T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 51/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 52/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T194000
 DTEND:20260507T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 52/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 53/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T133000
@@ -3067,7 +3074,7 @@ DTSTART:20260514T133000
 DTEND:20260514T150500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 53/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 54/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T160000
@@ -3081,14 +3088,14 @@ DTSTART:20260514T175000
 DTEND:20260514T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 54/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 55/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T194000
 DTEND:20260514T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 55/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 56/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T133000
@@ -3151,28 +3158,28 @@ DTSTART:20260521T133000
 DTEND:20260521T150500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 56/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 57/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T160000
 DTEND:20260521T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 57/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 58/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T175000
 DTEND:20260521T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 58/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 59/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T194000
 DTEND:20260521T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 59/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 60/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T133000
@@ -3214,7 +3221,7 @@ DTSTART:20260528T133000
 DTEND:20260528T150500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 60/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 61/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T160000
@@ -3228,14 +3235,14 @@ DTSTART:20260528T175000
 DTEND:20260528T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 61/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 62/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T194000
 DTEND:20260528T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 62/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 63/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T133000
@@ -3298,14 +3305,14 @@ DTSTART:20260611T175000
 DTEND:20260611T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 63/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 64/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T194000
 DTEND:20260611T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 64/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 65/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T133000
@@ -3361,14 +3368,14 @@ DTSTART:20260618T175000
 DTEND:20260618T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 65/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 66/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T194000
 DTEND:20260618T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 66/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 67/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T133000

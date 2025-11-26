@@ -29,7 +29,7 @@ DTSTART:20250304T114000
 DTEND:20250304T131500
 SUMMARY:Orr (w)
 LOCATION:252 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T133000
@@ -50,7 +50,7 @@ DTSTART:20250305T080000
 DTEND:20250305T093500
 SUMMARY:Orr (ć)
 LOCATION:316 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T114000
@@ -64,14 +64,14 @@ DTSTART:20250305T133000
 DTEND:20250305T150500
 SUMMARY:Bsi (w)
 LOCATION:308 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T160000
 DTEND:20250305T173500
 SUMMARY:Bsi (w)
 LOCATION:308 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T080000
@@ -267,7 +267,7 @@ DTSTART:20250317T080000
 DTEND:20250317T093500
 SUMMARY:Orr (ć)
 LOCATION:252 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T095000
@@ -309,7 +309,7 @@ DTSTART:20250318T114000
 DTEND:20250318T131500
 SUMMARY:Orr (w)
 LOCATION:252 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T133000
@@ -351,7 +351,7 @@ DTSTART:20250319T133000
 DTEND:20250319T150500
 SUMMARY:Bsi (w)
 LOCATION:307 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T160000
@@ -456,7 +456,7 @@ DTSTART:20250325T114000
 DTEND:20250325T131500
 SUMMARY:Orr (w)
 LOCATION:252 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 7/6\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 7/6\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T133000
@@ -477,7 +477,7 @@ DTSTART:20250326T080000
 DTEND:20250326T093500
 SUMMARY:Orr (ć)
 LOCATION:226 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T095000
@@ -533,7 +533,7 @@ DTSTART:20250327T114000
 DTEND:20250327T131500
 SUMMARY:Bsi (w)
 LOCATION:317 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T080000
@@ -799,14 +799,14 @@ DTSTART:20250407T114000
 DTEND:20250407T131500
 SUMMARY:Bsi (w)
 LOCATION:252 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T133000
 DTEND:20250407T150500
 SUMMARY:Bsi (w)
 LOCATION:252 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T095000
@@ -876,7 +876,7 @@ DTSTART:20250410T080000
 DTEND:20250410T093500
 SUMMARY:Orr (L)
 LOCATION:226 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T095000
@@ -960,14 +960,14 @@ DTSTART:20250415T095000
 DTEND:20250415T112500
 SUMMARY:Orr (L)
 LOCATION:236 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T114000
 DTEND:20250415T131500
 SUMMARY:Orr (w)
 LOCATION:239 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 10/6\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 10/6\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T133000
@@ -1009,21 +1009,21 @@ DTSTART:20250417T133000
 DTEND:20250417T150500
 SUMMARY:Bsi (ć)
 LOCATION:309 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T160000
 DTEND:20250417T173500
 SUMMARY:Bsi (ć)
 LOCATION:309 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T080000
 DTEND:20250423T093500
 SUMMARY:Orr (L)
 LOCATION:226 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T095000
@@ -1107,7 +1107,7 @@ DTSTART:20250428T133000
 DTEND:20250428T150500
 SUMMARY:Orr (ć)
 LOCATION:237 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T160000
@@ -1149,7 +1149,7 @@ DTSTART:20250429T160000
 DTEND:20250429T173500
 SUMMARY:MeSK (L)
 LOCATION:226 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Stanisław Skrzypecki
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T175000
@@ -1170,7 +1170,7 @@ DTSTART:20250430T095000
 DTEND:20250430T112500
 SUMMARY:Orr (L)
 LOCATION:236 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T114000
@@ -1268,7 +1268,7 @@ DTSTART:20250507T095000
 DTEND:20250507T112500
 SUMMARY:MeSK (L)
 LOCATION:237 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Stanisław Skrzypecki
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T114000
@@ -1331,7 +1331,7 @@ DTSTART:20250509T080000
 DTEND:20250509T093500
 SUMMARY:Orr (L)
 LOCATION:224 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T114000
@@ -1422,7 +1422,7 @@ DTSTART:20250515T080000
 DTEND:20250515T093500
 SUMMARY:Orr (L)
 LOCATION:223 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T095000
@@ -1548,7 +1548,7 @@ DTSTART:20250523T095000
 DTEND:20250523T112500
 SUMMARY:MeSK (L)
 LOCATION:233 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Stanisław Skrzypecki
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T114000
@@ -1632,14 +1632,14 @@ DTSTART:20250528T133000
 DTEND:20250528T150500
 SUMMARY:Bsi (ć)
 LOCATION:316 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T160000
 DTEND:20250528T173500
 SUMMARY:Bsi (ć)
 LOCATION:316 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T114000
@@ -1674,7 +1674,7 @@ DTSTART:20250530T095000
 DTEND:20250530T112500
 SUMMARY:Orr (L)
 LOCATION:228 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T114000
@@ -1751,7 +1751,7 @@ DTSTART:20250606T095000
 DTEND:20250606T112500
 SUMMARY:Orr (L)
 LOCATION:233 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T114000
@@ -1905,7 +1905,7 @@ DTSTART:20250613T095000
 DTEND:20250613T112500
 SUMMARY:MeSK (L)
 LOCATION:223 S
-DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/10\nProwadzący: mgr inż. Stanisław Skrzypecki
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/10\nProwadzący:  Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T114000
@@ -2150,14 +2150,14 @@ DTSTART:20251007T114000
 DTEND:20251007T131500
 SUMMARY:ZPr (w)
 LOCATION:223 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T133000
 DTEND:20251007T150500
 SUMMARY:ZPr (w)
 LOCATION:223 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T160000
@@ -2318,7 +2318,7 @@ DTSTART:20251015T160000
 DTEND:20251015T173500
 SUMMARY:Temo (w)
 LOCATION:307 S
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T080000
@@ -2402,7 +2402,7 @@ DTSTART:20251021T133000
 DTEND:20251021T150500
 SUMMARY:Temo (w)
 LOCATION:307 S
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T160000
@@ -2444,7 +2444,7 @@ DTSTART:20251022T160000
 DTEND:20251022T173500
 SUMMARY:Temo (w)
 LOCATION:307 S
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T080000
@@ -2493,7 +2493,7 @@ DTSTART:20251024T133000
 DTEND:20251024T150500
 SUMMARY:ZPr (w)
 LOCATION:308 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T175000
@@ -2535,14 +2535,14 @@ DTSTART:20251028T114000
 DTEND:20251028T131500
 SUMMARY:ZPr (w)
 LOCATION:317 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T133000
 DTEND:20251028T150500
 SUMMARY:ZPr (w)
 LOCATION:317 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T160000
@@ -2584,7 +2584,7 @@ DTSTART:20251030T114000
 DTEND:20251030T131500
 SUMMARY:ZPr (ć)
 LOCATION:233 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T133000
@@ -2724,7 +2724,7 @@ DTSTART:20251105T160000
 DTEND:20251105T173500
 SUMMARY:Temo (w)
 LOCATION:307 S
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T080000
@@ -2745,7 +2745,7 @@ DTSTART:20251106T114000
 DTEND:20251106T131500
 SUMMARY:ZPr (ć)
 LOCATION:236 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T133000
@@ -2815,7 +2815,7 @@ DTSTART:20251112T160000
 DTEND:20251112T173500
 SUMMARY:Temo (w)
 LOCATION:307 S
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T080000
@@ -2836,7 +2836,7 @@ DTSTART:20251113T114000
 DTEND:20251113T131500
 SUMMARY:ZPr (ć)
 LOCATION:233 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T133000
@@ -2850,14 +2850,14 @@ DTSTART:20251113T160000
 DTEND:20251113T173500
 SUMMARY:ZPr (L)
 LOCATION:224 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T175000
 DTEND:20251113T192500
 SUMMARY:ZPr (L)
 LOCATION:224 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T080000
@@ -2983,7 +2983,7 @@ DTSTART:20251119T160000
 DTEND:20251119T173500
 SUMMARY:Temo (w)
 LOCATION:307 S
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T080000
@@ -3186,7 +3186,7 @@ DTSTART:20251127T114000
 DTEND:20251127T131500
 SUMMARY:Temo (L)
 LOCATION:226 S
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T133000
@@ -3354,14 +3354,14 @@ DTSTART:20251204T160000
 DTEND:20251204T173500
 SUMMARY:ZPr (ć)
 LOCATION:308 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T175000
 DTEND:20251204T192500
 SUMMARY:ZPr (ć)
 LOCATION:308 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T080000
@@ -3382,14 +3382,14 @@ DTSTART:20251205T114000
 DTEND:20251205T131500
 SUMMARY:ZPr (w)
 LOCATION:313 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T133000
 DTEND:20251205T150500
 SUMMARY:ZPr (w)
 LOCATION:313 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T095000
@@ -3494,14 +3494,14 @@ DTSTART:20251211T160000
 DTEND:20251211T173500
 SUMMARY:ZPr (L)
 LOCATION:226 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T175000
 DTEND:20251211T192500
 SUMMARY:ZPr (L)
 LOCATION:226 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T080000
@@ -3515,14 +3515,14 @@ DTSTART:20251212T114000
 DTEND:20251212T131500
 SUMMARY:Temo (L)
 LOCATION:224 S
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T133000
 DTEND:20251212T150500
 SUMMARY:Temo (L)
 LOCATION:224 S
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T095000
@@ -3655,14 +3655,14 @@ DTSTART:20251218T160000
 DTEND:20251218T173500
 SUMMARY:ZPr (ć)
 LOCATION:308 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T175000
 DTEND:20251218T192500
 SUMMARY:ZPr (ć)
 LOCATION:308 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T080000
@@ -3676,14 +3676,14 @@ DTSTART:20251219T114000
 DTEND:20251219T131500
 SUMMARY:Temo (L)
 LOCATION:224 S
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T133000
 DTEND:20251219T150500
 SUMMARY:Temo (L)
 LOCATION:224 S
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T095000
@@ -3760,14 +3760,14 @@ DTSTART:20260109T114000
 DTEND:20260109T131500
 SUMMARY:Temo (L)
 LOCATION:223 S
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T133000
 DTEND:20260109T150500
 SUMMARY:Temo (L)
 LOCATION:223 S
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T160000
@@ -3914,14 +3914,14 @@ DTSTART:20260115T160000
 DTEND:20260115T173500
 SUMMARY:ZPr (L)
 LOCATION:226 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T175000
 DTEND:20260115T192500
 SUMMARY:ZPr (L)
 LOCATION:226 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T080000
@@ -4061,7 +4061,7 @@ DTSTART:20260122T114000
 DTEND:20260122T131500
 SUMMARY:ZPr (L)
 LOCATION:233 S
-DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T133000
@@ -4103,14 +4103,14 @@ DTSTART:20260123T114000
 DTEND:20260123T131500
 SUMMARY:Temo (L)
 LOCATION:224 S
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T133000
 DTEND:20260123T150500
 SUMMARY:Temo (L)
 LOCATION:224 S
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T160000
@@ -4260,29 +4260,29 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28/28\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260316T095000
-DTEND:20260316T112500
+DTSTART:20260304T080000
+DTEND:20260304T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 71/75\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260325T095000
-DTEND:20260325T112500
+DTSTART:20260304T095000
+DTEND:20260304T112500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 72/75\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260325T114000
-DTEND:20260325T131500
+DTSTART:20260304T114000
+DTEND:20260304T131500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 73/75\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260325T133000
-DTEND:20260325T150500
+DTSTART:20260316T095000
+DTEND:20260316T112500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 74/75\nProwadzący: -

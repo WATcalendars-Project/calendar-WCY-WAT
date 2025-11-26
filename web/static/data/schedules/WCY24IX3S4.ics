@@ -43,7 +43,7 @@ DTSTART:20250303T114000
 DTEND:20250303T131500
 SUMMARY:Ing (Inne)
 LOCATION:314 S
-DESCRIPTION:Inauguracja\nRodzaj zajęć:  - \nNr zajęć: 6/1\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Inauguracja\nRodzaj zajęć:  - \nNr zajęć: 6/1\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T133000
@@ -106,14 +106,14 @@ DTSTART:20250310T114000
 DTEND:20250310T131500
 SUMMARY:Tal (w)
 LOCATION:313 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T133000
 DTEND:20250310T150500
 SUMMARY:Tal (w)
 LOCATION:313 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T080000
@@ -204,7 +204,7 @@ DTSTART:20250318T133000
 DTEND:20250318T150500
 SUMMARY:Tal (w)
 LOCATION:317 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T080000
@@ -330,14 +330,14 @@ DTSTART:20250331T114000
 DTEND:20250331T131500
 SUMMARY:Tal (w)
 LOCATION:313 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T133000
 DTEND:20250331T150500
 SUMMARY:Tal (w)
 LOCATION:313 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T080000
@@ -442,7 +442,7 @@ DTSTART:20250414T114000
 DTEND:20250414T131500
 SUMMARY:Tal (w)
 LOCATION:313 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T080000
@@ -540,7 +540,7 @@ DTSTART:20250430T133000
 DTEND:20250430T150500
 SUMMARY:Tal (P)
 LOCATION:228 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 1/6\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 1/6\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T095000
@@ -568,7 +568,7 @@ DTSTART:20250507T114000
 DTEND:20250507T131500
 SUMMARY:Tal (L)
 LOCATION:237 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T133000
@@ -666,7 +666,7 @@ DTSTART:20250513T160000
 DTEND:20250513T173500
 SUMMARY:Tal (P)
 LOCATION:236 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 2/6\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 2/6\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T095000
@@ -694,7 +694,7 @@ DTSTART:20250519T095000
 DTEND:20250519T112500
 SUMMARY:Tal (P)
 LOCATION:224 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 3/6\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 3/6\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T114000
@@ -722,7 +722,7 @@ DTSTART:20250521T114000
 DTEND:20250521T131500
 SUMMARY:Tal (L)
 LOCATION:227 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T080000
@@ -869,7 +869,7 @@ DTSTART:20250529T114000
 DTEND:20250529T131500
 SUMMARY:Tal (P)
 LOCATION:224 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 4/6\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 4/6\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T133000
@@ -1044,7 +1044,7 @@ DTSTART:20250612T114000
 DTEND:20250612T131500
 SUMMARY:Tal (P)
 LOCATION:236 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 5/6\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 5/6\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T133000
@@ -1079,7 +1079,7 @@ DTSTART:20250616T080000
 DTEND:20250616T093500
 SUMMARY:Tal (w)
 LOCATION:237 S 239 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T095000
@@ -1100,7 +1100,7 @@ DTSTART:20250616T133000
 DTEND:20250616T150500
 SUMMARY:Tal (P)
 LOCATION:228 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 6/6\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 6/6\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T080000
@@ -1170,7 +1170,7 @@ DTSTART:20250915T114000
 DTEND:20250915T131500
 SUMMARY:Tal (Inne)
 LOCATION:239 S
-DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250917T080000

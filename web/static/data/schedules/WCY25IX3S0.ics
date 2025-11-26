@@ -211,7 +211,7 @@ DTSTART:20251003T114000
 DTEND:20251003T131500
 SUMMARY:In. WCY (Inne)
 LOCATION:S. Kinowa K
-DESCRIPTION:Inauguracja WCY\nRodzaj zajęć:  - \nNr zajęć: 21/1\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Inauguracja WCY\nRodzaj zajęć:  - \nNr zajęć: 21/1\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T114000
@@ -225,7 +225,7 @@ DTSTART:20251003T114000
 DTEND:20251003T131500
 SUMMARY:In. WCY (Inne)
 LOCATION:S. Kinowa K
-DESCRIPTION:Inauguracja WCY\nRodzaj zajęć:  - \nNr zajęć: 23/1\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Inauguracja WCY\nRodzaj zajęć:  - \nNr zajęć: 23/1\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T133000
@@ -2811,20 +2811,6 @@ LOCATION:PĆT3
 DESCRIPTION:Zabezpieczenie inżynieryjne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260409T133000
-DTEND:20260409T150500
-SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PW)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/18\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260409T160000
-DTEND:20260409T173500
-SUMMARY:SzS (ć)
-LOCATION:ST.nr 1(PW)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/18\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260409T175000
 DTEND:20260409T192500
 SUMMARY:- (S.Sz.W.)
@@ -2990,14 +2976,14 @@ DTSTART:20260425T133000
 DTEND:20260425T150500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(PW)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/18\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T160000
 DTEND:20260425T173500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(PW)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/18\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T095000
@@ -3081,14 +3067,14 @@ DTSTART:20260507T133000
 DTEND:20260507T150500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(PW)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/18\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T160000
 DTEND:20260507T173500
 SUMMARY:SzS (ć)
 LOCATION:ST.nr 1(PW)
-DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/18\nProwadzący: -
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T175000
@@ -3180,6 +3166,20 @@ DTEND:20260515T150500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 47/57\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260516T080000
+DTEND:20260516T093500
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PW)
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/18\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260516T095000
+DTEND:20260516T112500
+SUMMARY:SzS (ć)
+LOCATION:ST.nr 1(PW)
+DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T095000

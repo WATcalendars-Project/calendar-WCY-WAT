@@ -113,7 +113,7 @@ DTSTART:20250306T133000
 DTEND:20250306T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T095000
@@ -176,7 +176,7 @@ DTSTART:20250311T080000
 DTEND:20250311T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T095000
@@ -246,7 +246,7 @@ DTSTART:20250313T133000
 DTEND:20250313T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T080000
@@ -316,7 +316,7 @@ DTSTART:20250318T080000
 DTEND:20250318T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T095000
@@ -400,7 +400,7 @@ DTSTART:20250320T133000
 DTEND:20250320T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T095000
@@ -470,7 +470,7 @@ DTSTART:20250325T080000
 DTEND:20250325T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T095000
@@ -547,7 +547,7 @@ DTSTART:20250327T133000
 DTEND:20250327T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T160000
@@ -631,7 +631,7 @@ DTSTART:20250401T080000
 DTEND:20250401T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T095000
@@ -736,21 +736,21 @@ DTSTART:20250403T133000
 DTEND:20250403T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T160000
 DTEND:20250403T173500
 SUMMARY:SoU (L)
 LOCATION:09 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/14\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/14\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T175000
 DTEND:20250403T192500
 SUMMARY:SoU (L)
 LOCATION:09 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/14\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/14\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T080000
@@ -841,7 +841,7 @@ DTSTART:20250408T080000
 DTEND:20250408T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T095000
@@ -932,7 +932,7 @@ DTSTART:20250410T133000
 DTEND:20250410T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T160000
@@ -1030,7 +1030,7 @@ DTSTART:20250415T080000
 DTEND:20250415T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T114000
@@ -1100,7 +1100,7 @@ DTSTART:20250417T133000
 DTEND:20250417T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T080000
@@ -1170,21 +1170,21 @@ DTSTART:20250424T133000
 DTEND:20250424T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T160000
 DTEND:20250424T173500
 SUMMARY:SoU (L)
 LOCATION:09 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/14\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/14\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T175000
 DTEND:20250424T192500
 SUMMARY:SoU (L)
 LOCATION:09 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/14\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/14\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250426T080000
@@ -1240,7 +1240,7 @@ DTSTART:20250429T080000
 DTEND:20250429T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T095000
@@ -1457,21 +1457,21 @@ DTSTART:20250508T133000
 DTEND:20250508T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T160000
 DTEND:20250508T173500
 SUMMARY:SoU (L)
 LOCATION:09 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/14\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/14\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T175000
 DTEND:20250508T192500
 SUMMARY:SoU (L)
 LOCATION:09 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/14\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/14\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T133000
@@ -1534,7 +1534,7 @@ DTSTART:20250513T080000
 DTEND:20250513T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T095000
@@ -1618,7 +1618,7 @@ DTSTART:20250515T133000
 DTEND:20250515T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T160000
@@ -1639,21 +1639,21 @@ DTSTART:20250516T080000
 DTEND:20250516T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T095000
 DTEND:20250516T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T114000
 DTEND:20250516T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250517T080000
@@ -1709,21 +1709,21 @@ DTSTART:20250520T080000
 DTEND:20250520T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T095000
 DTEND:20250520T112500
 SUMMARY:SoU (L)
 LOCATION:09 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/14\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/14\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T114000
 DTEND:20250520T131500
 SUMMARY:SoU (L)
 LOCATION:09 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/14\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/14\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T133000
@@ -1800,7 +1800,7 @@ DTSTART:20250522T133000
 DTEND:20250522T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T160000
@@ -1947,7 +1947,7 @@ DTSTART:20250529T133000
 DTEND:20250529T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 24/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 24/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T080000
@@ -2017,7 +2017,7 @@ DTSTART:20250602T114000
 DTEND:20250602T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T133000
@@ -2045,7 +2045,7 @@ DTSTART:20250603T080000
 DTEND:20250603T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 26/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 26/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T095000
@@ -2122,7 +2122,7 @@ DTSTART:20250605T133000
 DTEND:20250605T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 27/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 27/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T080000
@@ -2185,7 +2185,7 @@ DTSTART:20250610T080000
 DTEND:20250610T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T095000
@@ -2262,7 +2262,7 @@ DTSTART:20250612T133000
 DTEND:20250612T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 29/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 29/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T095000
@@ -2276,21 +2276,21 @@ DTSTART:20250613T114000
 DTEND:20250613T131500
 SUMMARY:SoU (L)
 LOCATION:09 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/14\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/14\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T133000
 DTEND:20250613T150500
 SUMMARY:SoU (L)
 LOCATION:09 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/14\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/14\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T160000
 DTEND:20250613T173500
 SUMMARY:SoU (L)
 LOCATION:09 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/14\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/14\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T080000
@@ -2339,7 +2339,7 @@ DTSTART:20250617T080000
 DTEND:20250617T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 30/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 30/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T095000
@@ -2374,21 +2374,21 @@ DTSTART:20250618T114000
 DTEND:20250618T131500
 SUMMARY:SoU (L)
 LOCATION:09 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/14\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/14\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T133000
 DTEND:20250618T150500
 SUMMARY:SoU (L)
 LOCATION:09 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/14\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/14\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T160000
 DTEND:20250618T173500
 SUMMARY:SoU (L)
 LOCATION:09 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/14\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/14\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T114000
@@ -2458,7 +2458,7 @@ DTSTART:20251001T133000
 DTEND:20251001T150500
 SUMMARY:SoU (Inne)
 LOCATION:106 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T080000
@@ -2486,7 +2486,7 @@ DTSTART:20251003T114000
 DTEND:20251003T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 31/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 31/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T133000
@@ -2528,7 +2528,7 @@ DTSTART:20251007T080000
 DTEND:20251007T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 32/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 32/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T095000
@@ -2577,7 +2577,7 @@ DTSTART:20251010T114000
 DTEND:20251010T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 33/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 33/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T133000
@@ -2619,14 +2619,14 @@ DTSTART:20251014T080000
 DTEND:20251014T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 34/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 34/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T095000
 DTEND:20251014T112500
 SUMMARY:Ppz (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T114000
@@ -2703,7 +2703,7 @@ DTSTART:20251017T114000
 DTEND:20251017T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 35/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 35/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T133000
@@ -2745,14 +2745,14 @@ DTSTART:20251021T080000
 DTEND:20251021T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 36/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 36/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T095000
 DTEND:20251021T112500
 SUMMARY:Ppz (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T114000
@@ -2822,7 +2822,7 @@ DTSTART:20251024T114000
 DTEND:20251024T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 37/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 37/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T080000
@@ -2857,7 +2857,7 @@ DTSTART:20251028T080000
 DTEND:20251028T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 38/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 38/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T095000
@@ -2969,7 +2969,7 @@ DTSTART:20251031T114000
 DTEND:20251031T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 39/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 39/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T080000
@@ -3004,7 +3004,7 @@ DTSTART:20251104T080000
 DTEND:20251104T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 40/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 40/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T095000
@@ -3039,7 +3039,7 @@ DTSTART:20251105T095000
 DTEND:20251105T112500
 SUMMARY:Ppz (w)
 LOCATION:313 S
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T114000
@@ -3123,7 +3123,7 @@ DTSTART:20251107T114000
 DTEND:20251107T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 41/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 41/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T133000
@@ -3151,7 +3151,7 @@ DTSTART:20251112T095000
 DTEND:20251112T112500
 SUMMARY:Ppz (w)
 LOCATION:313 S
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T114000
@@ -3214,7 +3214,7 @@ DTSTART:20251114T114000
 DTEND:20251114T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 42/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 42/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T133000
@@ -3256,7 +3256,7 @@ DTSTART:20251118T080000
 DTEND:20251118T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 43/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 43/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T160000
@@ -3312,14 +3312,14 @@ DTSTART:20251120T114000
 DTEND:20251120T131500
 SUMMARY:Sbs (L)
 LOCATION:121 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T133000
 DTEND:20251120T150500
 SUMMARY:Sbs (L)
 LOCATION:121 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T080000
@@ -3340,7 +3340,7 @@ DTSTART:20251121T114000
 DTEND:20251121T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 44/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 44/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T080000
@@ -3403,7 +3403,7 @@ DTSTART:20251125T080000
 DTEND:20251125T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 45/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 45/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T095000
@@ -3431,7 +3431,7 @@ DTSTART:20251126T095000
 DTEND:20251126T112500
 SUMMARY:Ppz (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Łukasz Strzelecki
+DESCRIPTION:Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Łukasz Strzelecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T114000
@@ -3459,28 +3459,28 @@ DTSTART:20251127T080000
 DTEND:20251127T093500
 SUMMARY:Sbs (L)
 LOCATION:120 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T095000
 DTEND:20251127T112500
 SUMMARY:Sbs (L)
 LOCATION:120 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T114000
 DTEND:20251127T131500
 SUMMARY:Sbs (L)
 LOCATION:120 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T133000
 DTEND:20251127T150500
 SUMMARY:Sbs (L)
 LOCATION:120 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T160000
@@ -3557,7 +3557,7 @@ DTSTART:20251202T080000
 DTEND:20251202T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 46/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 46/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T095000
@@ -3585,7 +3585,7 @@ DTSTART:20251203T095000
 DTEND:20251203T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 47/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 47/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T114000
@@ -3648,7 +3648,7 @@ DTSTART:20251205T114000
 DTEND:20251205T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 48/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 48/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T133000
@@ -3711,7 +3711,7 @@ DTSTART:20251209T080000
 DTEND:20251209T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 49/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 49/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T095000
@@ -3795,7 +3795,7 @@ DTSTART:20251212T114000
 DTEND:20251212T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 50/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 50/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T133000
@@ -3851,7 +3851,7 @@ DTSTART:20251216T080000
 DTEND:20251216T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 51/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 51/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T114000
@@ -3879,7 +3879,7 @@ DTSTART:20251217T095000
 DTEND:20251217T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 52/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 52/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T114000
@@ -3907,14 +3907,14 @@ DTSTART:20251218T080000
 DTEND:20251218T093500
 SUMMARY:Sbs (L)
 LOCATION:120 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T095000
 DTEND:20251218T112500
 SUMMARY:Sbs (L)
 LOCATION:120 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T114000
@@ -3949,7 +3949,7 @@ DTSTART:20251219T114000
 DTEND:20251219T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 53/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 53/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T133000
@@ -3970,7 +3970,7 @@ DTSTART:20260107T095000
 DTEND:20260107T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 54/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 54/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T114000
@@ -4040,7 +4040,7 @@ DTSTART:20260109T114000
 DTEND:20260109T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 55/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 55/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T133000
@@ -4082,7 +4082,7 @@ DTSTART:20260113T080000
 DTEND:20260113T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 56/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 56/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T095000
@@ -4124,14 +4124,14 @@ DTSTART:20260115T080000
 DTEND:20260115T093500
 SUMMARY:Sbs (L)
 LOCATION:120 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T095000
 DTEND:20260115T112500
 SUMMARY:Sbs (L)
 LOCATION:120 65
-DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Systemy bezpieczeństwa sieciowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T114000
@@ -4166,7 +4166,7 @@ DTSTART:20260116T114000
 DTEND:20260116T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 57/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 57/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T160000
@@ -4201,7 +4201,7 @@ DTSTART:20260120T080000
 DTEND:20260120T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 58/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 58/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T095000
@@ -4264,7 +4264,7 @@ DTSTART:20260123T114000
 DTEND:20260123T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 59/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 59/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T080000
@@ -4390,7 +4390,7 @@ DTSTART:20260130T114000
 DTEND:20260130T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 60/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 60/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260131T080000
@@ -4425,7 +4425,7 @@ DTSTART:20260303T114000
 DTEND:20260303T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 61/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 61/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T133000
@@ -4463,6 +4463,13 @@ LOCATION:128 K 239 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 62/87\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260306T114000
+DTEND:20260306T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 62/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260309T080000
 DTEND:20260309T093500
 SUMMARY:Ja (ć)
@@ -4488,7 +4495,7 @@ DTSTART:20260310T114000
 DTEND:20260310T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 62/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 63/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T133000
@@ -4524,6 +4531,13 @@ DTEND:20260311T192500
 SUMMARY:Ja (ć)
 LOCATION:239 K 120 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 64/87\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T114000
+DTEND:20260313T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 64/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T080000
@@ -4624,6 +4638,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 14/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260320T114000
+DTEND:20260320T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 65/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260324T080000
 DTEND:20260324T093500
 SUMMARY:- (S.Sz.W.)
@@ -4642,7 +4663,7 @@ DTSTART:20260324T114000
 DTEND:20260324T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 63/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 66/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T133000
@@ -4680,6 +4701,13 @@ LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 65/87\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260327T114000
+DTEND:20260327T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 67/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260330T080000
 DTEND:20260330T093500
 SUMMARY:Ja (ć)
@@ -4705,7 +4733,7 @@ DTSTART:20260331T114000
 DTEND:20260331T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 64/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 68/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T133000
@@ -4743,11 +4771,25 @@ LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 67/87\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260403T114000
+DTEND:20260403T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 69/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260408T114000
 DTEND:20260408T131500
 SUMMARY:Ja (ć)
 LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 68/87\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T114000
+DTEND:20260410T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 70/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260413T080000
@@ -4775,7 +4817,7 @@ DTSTART:20260414T114000
 DTEND:20260414T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 65/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 71/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T133000
@@ -4827,6 +4869,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 16/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260417T114000
+DTEND:20260417T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 72/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260420T080000
 DTEND:20260420T093500
 SUMMARY:Ja (ć)
@@ -4852,7 +4901,7 @@ DTSTART:20260421T114000
 DTEND:20260421T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 66/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 73/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T133000
@@ -4890,6 +4939,13 @@ LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 72/87\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260424T114000
+DTEND:20260424T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 74/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260427T080000
 DTEND:20260427T093500
 SUMMARY:Ja (ć)
@@ -4915,7 +4971,7 @@ DTSTART:20260428T114000
 DTEND:20260428T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 67/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 75/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T133000
@@ -4953,6 +5009,13 @@ LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 74/87\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260501T114000
+DTEND:20260501T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 76/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260504T080000
 DTEND:20260504T093500
 SUMMARY:Ja (ć)
@@ -4978,7 +5041,7 @@ DTSTART:20260505T114000
 DTEND:20260505T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 68/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 77/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T133000
@@ -5016,6 +5079,13 @@ LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 76/87\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260508T114000
+DTEND:20260508T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 78/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260511T080000
 DTEND:20260511T093500
 SUMMARY:Ja (ć)
@@ -5041,7 +5111,7 @@ DTSTART:20260512T114000
 DTEND:20260512T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 69/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 79/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T133000
@@ -5079,6 +5149,13 @@ LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 78/87\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260515T114000
+DTEND:20260515T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 80/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260518T080000
 DTEND:20260518T093500
 SUMMARY:Ja (ć)
@@ -5104,7 +5181,7 @@ DTSTART:20260519T114000
 DTEND:20260519T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 70/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 81/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T133000
@@ -5142,6 +5219,13 @@ LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 80/87\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260522T114000
+DTEND:20260522T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 82/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260525T080000
 DTEND:20260525T093500
 SUMMARY:Ja (ć)
@@ -5167,7 +5251,7 @@ DTSTART:20260526T114000
 DTEND:20260526T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 71/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 83/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T133000
@@ -5205,6 +5289,13 @@ LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 82/87\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260529T114000
+DTEND:20260529T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 84/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260601T080000
 DTEND:20260601T093500
 SUMMARY:Ja (ć)
@@ -5230,7 +5321,7 @@ DTSTART:20260602T114000
 DTEND:20260602T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 72/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 85/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T133000
@@ -5261,6 +5352,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 92/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260605T114000
+DTEND:20260605T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 86/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260608T080000
 DTEND:20260608T093500
 SUMMARY:Ja (ć)
@@ -5286,7 +5384,7 @@ DTSTART:20260609T114000
 DTEND:20260609T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 73/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 87/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T133000
@@ -5324,6 +5422,13 @@ LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 85/87\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260612T114000
+DTEND:20260612T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 88/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260615T080000
 DTEND:20260615T093500
 SUMMARY:Ja (ć)
@@ -5349,7 +5454,7 @@ DTSTART:20260616T114000
 DTEND:20260616T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 74/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 89/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T133000
@@ -5385,5 +5490,12 @@ DTEND:20260617T131500
 SUMMARY:Ja (ć)
 LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 87/87\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T114000
+DTEND:20260619T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 90/90\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

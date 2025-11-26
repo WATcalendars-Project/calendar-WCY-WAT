@@ -148,7 +148,7 @@ DTSTART:20251003T114000
 DTEND:20251003T131500
 SUMMARY:In. WCY (Inne)
 LOCATION:S. Kinowa K
-DESCRIPTION:Inauguracja WCY\nRodzaj zajęć:  - \nNr zajęć: 21/1\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Inauguracja WCY\nRodzaj zajęć:  - \nNr zajęć: 21/1\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T114000
@@ -162,7 +162,7 @@ DTSTART:20251003T114000
 DTEND:20251003T131500
 SUMMARY:In. WCY (Inne)
 LOCATION:S. Kinowa K
-DESCRIPTION:Inauguracja WCY\nRodzaj zajęć:  - \nNr zajęć: 23/1\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Inauguracja WCY\nRodzaj zajęć:  - \nNr zajęć: 23/1\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T133000
@@ -183,7 +183,7 @@ DTSTART:20251007T095000
 DTEND:20251007T112500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 1/15\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 1/15\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T160000
@@ -246,7 +246,7 @@ DTSTART:20251009T114000
 DTEND:20251009T131500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 2/15\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 2/15\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T133000
@@ -281,7 +281,7 @@ DTSTART:20251014T095000
 DTEND:20251014T112500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 3/15\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 3/15\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T114000
@@ -323,7 +323,7 @@ DTSTART:20251016T114000
 DTEND:20251016T131500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 4/15\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 4/15\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T133000
@@ -365,21 +365,21 @@ DTSTART:20251020T133000
 DTEND:20251020T150500
 SUMMARY:WdI (L)
 LOCATION:252 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/11\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/11\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T160000
 DTEND:20251020T173500
 SUMMARY:WdI (L)
 LOCATION:252 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/11\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/11\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T095000
 DTEND:20251021T112500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 5/15\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 5/15\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T133000
@@ -435,7 +435,7 @@ DTSTART:20251023T114000
 DTEND:20251023T131500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T133000
@@ -456,14 +456,14 @@ DTSTART:20251024T114000
 DTEND:20251024T131500
 SUMMARY:WdI (L)
 LOCATION:252 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/11\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/11\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T133000
 DTEND:20251024T150500
 SUMMARY:WdI (L)
 LOCATION:252 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T095000
@@ -491,7 +491,7 @@ DTSTART:20251028T095000
 DTEND:20251028T112500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 7/15\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 7/15\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T133000
@@ -554,7 +554,7 @@ DTSTART:20251030T114000
 DTEND:20251030T131500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 8/15\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 8/15\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T133000
@@ -603,7 +603,7 @@ DTSTART:20251104T095000
 DTEND:20251104T112500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 9/15\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 9/15\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T133000
@@ -652,14 +652,14 @@ DTSTART:20251106T095000
 DTEND:20251106T112500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 1/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 1/17\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T114000
 DTEND:20251106T131500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 10/15\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 10/15\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T133000
@@ -687,7 +687,7 @@ DTSTART:20251107T095000
 DTEND:20251107T112500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 2/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 2/17\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T133000
@@ -750,7 +750,7 @@ DTSTART:20251113T114000
 DTEND:20251113T131500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 3/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 3/17\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T133000
@@ -771,21 +771,21 @@ DTSTART:20251114T095000
 DTEND:20251114T112500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 4/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 4/17\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T114000
 DTEND:20251114T131500
 SUMMARY:WdI (L)
 LOCATION:252 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/11\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/11\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T133000
 DTEND:20251114T150500
 SUMMARY:WdI (L)
 LOCATION:252 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/11\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/11\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T160000
@@ -827,21 +827,21 @@ DTSTART:20251118T095000
 DTEND:20251118T112500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 11/15\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 11/15\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T114000
 DTEND:20251118T131500
 SUMMARY:WdI (L)
 LOCATION:252 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/11\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/11\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T133000
 DTEND:20251118T150500
 SUMMARY:WdI (L)
 LOCATION:252 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/11\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/11\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T080000
@@ -897,7 +897,7 @@ DTSTART:20251120T114000
 DTEND:20251120T131500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 5/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 5/17\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T133000
@@ -911,7 +911,7 @@ DTSTART:20251121T095000
 DTEND:20251121T112500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 6/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 6/17\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T133000
@@ -946,7 +946,7 @@ DTSTART:20251125T095000
 DTEND:20251125T112500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 12/15\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 12/15\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T114000
@@ -1002,7 +1002,7 @@ DTSTART:20251127T114000
 DTEND:20251127T131500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 7/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 7/17\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T133000
@@ -1044,21 +1044,21 @@ DTSTART:20251202T095000
 DTEND:20251202T112500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 13/15\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 13/15\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T114000
 DTEND:20251202T131500
 SUMMARY:WdI (L)
 LOCATION:252 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/11\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/11\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T133000
 DTEND:20251202T150500
 SUMMARY:WdI (L)
 LOCATION:252 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/11\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/11\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T194000
@@ -1128,7 +1128,7 @@ DTSTART:20251205T133000
 DTEND:20251205T150500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 8/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 8/17\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T114000
@@ -1142,7 +1142,7 @@ DTSTART:20251209T095000
 DTEND:20251209T112500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 14/15\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 14/15\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T114000
@@ -1198,7 +1198,7 @@ DTSTART:20251211T114000
 DTEND:20251211T131500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 9/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 9/17\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T133000
@@ -1219,7 +1219,7 @@ DTSTART:20251212T095000
 DTEND:20251212T112500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 10/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 10/17\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T114000
@@ -1233,14 +1233,14 @@ DTSTART:20251216T095000
 DTEND:20251216T112500
 SUMMARY:Mat I (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 15/15\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 15/15\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T114000
 DTEND:20251216T131500
 SUMMARY:WdI (L)
 LOCATION:252 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/11\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/11\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T080000
@@ -1296,7 +1296,7 @@ DTSTART:20251218T114000
 DTEND:20251218T131500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 11/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 11/17\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T133000
@@ -1310,7 +1310,7 @@ DTSTART:20251219T095000
 DTEND:20251219T112500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 12/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 12/17\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T080000
@@ -1352,7 +1352,7 @@ DTSTART:20260108T114000
 DTEND:20260108T131500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 13/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 13/17\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T133000
@@ -1373,7 +1373,7 @@ DTSTART:20260109T095000
 DTEND:20260109T112500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 14/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 14/17\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T160000
@@ -1394,7 +1394,7 @@ DTSTART:20260113T095000
 DTEND:20260113T112500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 15/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 15/17\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T080000
@@ -1443,7 +1443,7 @@ DTSTART:20260115T114000
 DTEND:20260115T131500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 16/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 16/17\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T133000
@@ -1478,7 +1478,7 @@ DTSTART:20260120T095000
 DTEND:20260120T112500
 SUMMARY:M II (w)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 17/17\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 17/17\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T080000

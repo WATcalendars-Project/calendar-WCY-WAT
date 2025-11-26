@@ -417,13 +417,6 @@ LOCATION:223 S
 DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251120T114000
-DTEND:20251120T131500
-SUMMARY:WED (L)
-LOCATION:223 S
-DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251120T133000
 DTEND:20251120T150500
 SUMMARY:PZCB (ć)
@@ -471,20 +464,6 @@ DTEND:20251204T112500
 SUMMARY:UPCH (L)
 LOCATION:223 S
 DESCRIPTION:Usługi przetwarzania w chmurze\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Marcin Dąbkiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251204T114000
-DTEND:20251204T131500
-SUMMARY:WED (L)
-LOCATION:223 S
-DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Tomasz Gutowski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251204T133000
-DTEND:20251204T150500
-SUMMARY:WED (L)
-LOCATION:223 S
-DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T080000
@@ -555,6 +534,27 @@ DTEND:20260108T112500
 SUMMARY:PZCB (ć)
 LOCATION:120 65
 DESCRIPTION:Podstawowe zagadnienia cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący:  Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260108T114000
+DTEND:20260108T131500
+SUMMARY:WED (L)
+LOCATION:252 S
+DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260108T133000
+DTEND:20260108T150500
+SUMMARY:WED (L)
+LOCATION:239 S
+DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260108T160000
+DTEND:20260108T173500
+SUMMARY:WED (L)
+LOCATION:239 S
+DESCRIPTION:Wprowadzenie do metod eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T095000

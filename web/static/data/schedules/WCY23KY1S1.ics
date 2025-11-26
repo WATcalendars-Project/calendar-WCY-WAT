@@ -50,7 +50,7 @@ DTSTART:20250304T175000
 DTEND:20250304T192500
 SUMMARY:Bd (Inne)
 LOCATION:316 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T080000
@@ -232,14 +232,14 @@ DTSTART:20250317T114000
 DTEND:20250317T131500
 SUMMARY:IK (L)
 LOCATION:120 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/15\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/15\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T133000
 DTEND:20250317T150500
 SUMMARY:IK (L)
 LOCATION:120 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/15\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/15\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T160000
@@ -337,7 +337,7 @@ DTSTART:20250320T160000
 DTEND:20250320T173500
 SUMMARY:IK (L)
 LOCATION:102 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/15\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/15\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T080000
@@ -568,14 +568,14 @@ DTSTART:20250403T114000
 DTEND:20250403T131500
 SUMMARY:Pnak (L)
 LOCATION:236 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T133000
 DTEND:20250403T150500
 SUMMARY:Pnak (L)
 LOCATION:236 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T160000
@@ -631,14 +631,14 @@ DTSTART:20250407T114000
 DTEND:20250407T131500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/15\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/15\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T133000
 DTEND:20250407T150500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/15\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/15\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T080000
@@ -834,7 +834,7 @@ DTSTART:20250417T160000
 DTEND:20250417T173500
 SUMMARY:IK (L)
 LOCATION:102 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/15\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/15\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T095000
@@ -883,42 +883,42 @@ DTSTART:20250424T133000
 DTEND:20250424T150500
 SUMMARY:PO (ć)
 LOCATION:314 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T160000
 DTEND:20250424T173500
 SUMMARY:IK (L)
 LOCATION:102 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/15\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/15\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T080000
 DTEND:20250428T093500
 SUMMARY:Pnak (L)
 LOCATION:236 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T095000
 DTEND:20250428T112500
 SUMMARY:Pnak (L)
 LOCATION:236 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T114000
 DTEND:20250428T131500
 SUMMARY:IK (L)
 LOCATION:120 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/15\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/15\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T133000
 DTEND:20250428T150500
 SUMMARY:IK (L)
 LOCATION:120 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/15\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/15\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T095000
@@ -960,7 +960,7 @@ DTSTART:20250505T095000
 DTEND:20250505T112500
 SUMMARY:PO (ć)
 LOCATION:309 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T114000
@@ -1023,14 +1023,14 @@ DTSTART:20250508T080000
 DTEND:20250508T093500
 SUMMARY:Pnak (L)
 LOCATION:236 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T095000
 DTEND:20250508T112500
 SUMMARY:Pnak (L)
 LOCATION:236 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T114000
@@ -1051,7 +1051,7 @@ DTSTART:20250508T160000
 DTEND:20250508T173500
 SUMMARY:IK (L)
 LOCATION:102 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/15\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/15\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T095000
@@ -1065,14 +1065,14 @@ DTSTART:20250512T080000
 DTEND:20250512T093500
 SUMMARY:IK (L)
 LOCATION:106 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/15\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/15\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T095000
 DTEND:20250512T112500
 SUMMARY:IK (L)
 LOCATION:106 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/15\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/15\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T114000
@@ -1184,21 +1184,21 @@ DTSTART:20250515T160000
 DTEND:20250515T173500
 SUMMARY:IK (L)
 LOCATION:102 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/15\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/15\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T080000
 DTEND:20250519T093500
 SUMMARY:Pnak (L)
 LOCATION:236 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T095000
 DTEND:20250519T112500
 SUMMARY:Pnak (L)
 LOCATION:236 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T114000
@@ -1261,14 +1261,14 @@ DTSTART:20250526T080000
 DTEND:20250526T093500
 SUMMARY:IK (L)
 LOCATION:120 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/15\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/15\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T095000
 DTEND:20250526T112500
 SUMMARY:IK (L)
 LOCATION:120 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/15\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/15\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T114000
@@ -1282,7 +1282,7 @@ DTSTART:20250526T133000
 DTEND:20250526T150500
 SUMMARY:PO (ć)
 LOCATION:314 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T095000
@@ -1317,7 +1317,7 @@ DTSTART:20250529T095000
 DTEND:20250529T112500
 SUMMARY:PO (ć)
 LOCATION:309 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T114000
@@ -1366,7 +1366,7 @@ DTSTART:20250602T114000
 DTEND:20250602T131500
 SUMMARY:PO (ć)
 LOCATION:314 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T133000
@@ -1415,7 +1415,7 @@ DTSTART:20250606T095000
 DTEND:20250606T112500
 SUMMARY:PO (ć)
 LOCATION:309 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T114000
@@ -1436,7 +1436,7 @@ DTSTART:20250609T095000
 DTEND:20250609T112500
 SUMMARY:PO (ć)
 LOCATION:307 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T114000
@@ -1534,7 +1534,7 @@ DTSTART:20250616T114000
 DTEND:20250616T131500
 SUMMARY:PO (ć)
 LOCATION:308 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T114000
@@ -1604,7 +1604,7 @@ DTSTART:20250702T095000
 DTEND:20250702T112500
 SUMMARY:PO (Inne)
 LOCATION:313 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250703T080000
@@ -1667,7 +1667,7 @@ DTSTART:20250917T095000
 DTEND:20250917T112500
 SUMMARY:PO (Inne)
 LOCATION:313 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250917T114000
@@ -1695,7 +1695,7 @@ DTSTART:20250918T160000
 DTEND:20250918T173500
 SUMMARY:Pnak (Inne)
 LOCATION:125 65 106 65
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250919T080000

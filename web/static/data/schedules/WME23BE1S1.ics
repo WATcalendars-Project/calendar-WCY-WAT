@@ -78,7 +78,7 @@ DTSTART:20250305T114000
 DTEND:20250305T131500
 SUMMARY:Po (w)
 LOCATION:54/ 62
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T080000
@@ -232,7 +232,7 @@ DTSTART:20250312T114000
 DTEND:20250312T131500
 SUMMARY:Po (w)
 LOCATION:8/ 62
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T133000
@@ -414,7 +414,7 @@ DTSTART:20250319T114000
 DTEND:20250319T131500
 SUMMARY:Po (w)
 LOCATION:54/ 62
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T133000
@@ -610,7 +610,7 @@ DTSTART:20250326T114000
 DTEND:20250326T131500
 SUMMARY:Po (w)
 LOCATION:8/ 62
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T133000
@@ -799,7 +799,7 @@ DTSTART:20250402T114000
 DTEND:20250402T131500
 SUMMARY:Po (w)
 LOCATION:54/ 62
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T133000
@@ -3291,7 +3291,7 @@ DTSTART:20250702T133000
 DTEND:20250702T150500
 SUMMARY:Po (Inne)
 LOCATION:54/ 62
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250703T080000
@@ -5135,6 +5135,13 @@ LOCATION:315b S
 DESCRIPTION:Cyfrowe przetwarzanie sygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251208T114000
+DTEND:20251208T131500
+SUMMARY:Mwein (w)
+LOCATION:315b S
+DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251208T133000
 DTEND:20251208T150500
 SUMMARY:Tmf (w)
@@ -5278,8 +5285,8 @@ BEGIN:VEVENT
 DTSTART:20251215T095000
 DTEND:20251215T112500
 SUMMARY:Mwein (w)
-LOCATION:82 S
-DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
+LOCATION:315b S
+DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T114000
@@ -6290,13 +6297,6 @@ LOCATION:15/ 23a
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260120T133000
-DTEND:20260120T150500
-SUMMARY:Mwein (w)
-LOCATION:82 S
-DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260122T080000
 DTEND:20260122T093500
 SUMMARY:Popt (L)
@@ -6391,7 +6391,7 @@ BEGIN:VEVENT
 DTSTART:20260126T133000
 DTEND:20260126T150500
 SUMMARY:Mwein (w)
-LOCATION:82 S
+LOCATION:315b S
 DESCRIPTION:Miernictwo wielkości elektrycznych i nieelektrycznych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT

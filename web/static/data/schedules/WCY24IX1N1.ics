@@ -50,14 +50,14 @@ DTSTART:20250302T080000
 DTEND:20250302T093500
 SUMMARY:Tpi (w)
 LOCATION:307 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250302T095000
 DTEND:20250302T112500
 SUMMARY:Tpi (w)
 LOCATION:307 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250302T114000
@@ -106,14 +106,14 @@ DTSTART:20250308T114000
 DTEND:20250308T131500
 SUMMARY:Tgs (w)
 LOCATION:317 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250308T133000
 DTEND:20250308T150500
 SUMMARY:Tgs (w)
 LOCATION:317 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250308T160000
@@ -281,14 +281,14 @@ DTSTART:20250322T114000
 DTEND:20250322T131500
 SUMMARY:Tgs (w)
 LOCATION:317 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250322T133000
 DTEND:20250322T150500
 SUMMARY:Tgs (w)
 LOCATION:317 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250322T160000
@@ -309,14 +309,14 @@ DTSTART:20250323T080000
 DTEND:20250323T093500
 SUMMARY:Tpi (w)
 LOCATION:307 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250323T095000
 DTEND:20250323T112500
 SUMMARY:Tpi (w)
 LOCATION:307 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250323T114000
@@ -358,7 +358,7 @@ DTSTART:20250329T080000
 DTEND:20250329T093500
 SUMMARY:Tgs (w)
 LOCATION:317 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250329T095000
@@ -1149,7 +1149,7 @@ DTSTART:20250615T114000
 DTEND:20250615T131500
 SUMMARY:Tpi (w)
 LOCATION:307 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250615T133000
@@ -1282,14 +1282,14 @@ DTSTART:20251004T133000
 DTEND:20251004T150500
 SUMMARY:Bd (w)
 LOCATION:308 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T160000
 DTEND:20251004T173500
 SUMMARY:Bd (w)
 LOCATION:308 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251005T080000
@@ -1310,14 +1310,14 @@ DTSTART:20251005T114000
 DTEND:20251005T131500
 SUMMARY:Po (w)
 LOCATION:308 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251005T133000
 DTEND:20251005T150500
 SUMMARY:Po (w)
 LOCATION:308 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T080000
@@ -1373,28 +1373,28 @@ DTSTART:20251012T080000
 DTEND:20251012T093500
 SUMMARY:Po (w)
 LOCATION:313 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251012T095000
 DTEND:20251012T112500
 SUMMARY:Po (w)
 LOCATION:313 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251012T114000
 DTEND:20251012T131500
 SUMMARY:Bd (w)
 LOCATION:308 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251012T133000
 DTEND:20251012T150500
 SUMMARY:Bd (w)
 LOCATION:308 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251018T080000
@@ -1436,14 +1436,14 @@ DTSTART:20251018T175000
 DTEND:20251018T192500
 SUMMARY:Po (w)
 LOCATION:308 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251018T194000
 DTEND:20251018T211500
 SUMMARY:Po (w)
 LOCATION:308 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251019T080000
@@ -1548,14 +1548,14 @@ DTSTART:20251026T114000
 DTEND:20251026T131500
 SUMMARY:Bd (w)
 LOCATION:308 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251026T133000
 DTEND:20251026T150500
 SUMMARY:Bd (w)
 LOCATION:308 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251108T080000
@@ -1751,14 +1751,14 @@ DTSTART:20251116T175000
 DTEND:20251116T192500
 SUMMARY:Bd (L)
 LOCATION:226 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251116T194000
 DTEND:20251116T211500
 SUMMARY:Bd (L)
 LOCATION:226 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T095000
@@ -2129,7 +2129,7 @@ DTSTART:20251220T080000
 DTEND:20251220T093500
 SUMMARY:Po (w)
 LOCATION:308 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T095000
@@ -2227,14 +2227,14 @@ DTSTART:20260110T114000
 DTEND:20260110T131500
 SUMMARY:Bd (L)
 LOCATION:233 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260110T133000
 DTEND:20260110T150500
 SUMMARY:Bd (L)
 LOCATION:233 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260110T160000
@@ -2290,14 +2290,14 @@ DTSTART:20260111T160000
 DTEND:20260111T173500
 SUMMARY:Bd (L)
 LOCATION:228 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260111T175000
 DTEND:20260111T192500
 SUMMARY:Bd (L)
 LOCATION:228 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T080000
@@ -2360,7 +2360,7 @@ DTSTART:20260118T095000
 DTEND:20260118T112500
 SUMMARY:Bd (L)
 LOCATION:228 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T114000
@@ -2416,7 +2416,7 @@ DTSTART:20260125T080000
 DTEND:20260125T093500
 SUMMARY:Bd (L)
 LOCATION:223 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260125T095000

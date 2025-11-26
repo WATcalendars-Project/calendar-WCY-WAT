@@ -78,7 +78,7 @@ DTSTART:20250305T114000
 DTEND:20250305T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T133000
@@ -134,7 +134,7 @@ DTSTART:20250307T133000
 DTEND:20250307T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T160000
@@ -274,7 +274,7 @@ DTSTART:20250314T133000
 DTEND:20250314T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T194000
@@ -309,14 +309,14 @@ DTSTART:20250317T114000
 DTEND:20250317T131500
 SUMMARY:Bd (w)
 LOCATION:314 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/4\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T133000
 DTEND:20250317T150500
 SUMMARY:Bd (w)
 LOCATION:314 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T080000
@@ -344,7 +344,7 @@ DTSTART:20250319T080000
 DTEND:20250319T093500
 SUMMARY:Bd (w)
 LOCATION:314 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/4\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T095000
@@ -358,7 +358,7 @@ DTSTART:20250319T114000
 DTEND:20250319T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T133000
@@ -386,7 +386,7 @@ DTSTART:20250320T114000
 DTEND:20250320T131500
 SUMMARY:Po (w)
 LOCATION:314 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T133000
@@ -421,7 +421,7 @@ DTSTART:20250321T133000
 DTEND:20250321T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T194000
@@ -519,7 +519,7 @@ DTSTART:20250326T114000
 DTEND:20250326T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T133000
@@ -547,7 +547,7 @@ DTSTART:20250327T114000
 DTEND:20250327T131500
 SUMMARY:Po (w)
 LOCATION:314 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T080000
@@ -568,7 +568,7 @@ DTSTART:20250328T133000
 DTEND:20250328T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T194000
@@ -659,7 +659,7 @@ DTSTART:20250402T114000
 DTEND:20250402T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T133000
@@ -680,7 +680,7 @@ DTSTART:20250403T114000
 DTEND:20250403T131500
 SUMMARY:Po (w)
 LOCATION:314 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T133000
@@ -722,7 +722,7 @@ DTSTART:20250404T133000
 DTEND:20250404T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T194000
@@ -806,7 +806,7 @@ DTSTART:20250409T114000
 DTEND:20250409T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T133000
@@ -834,7 +834,7 @@ DTSTART:20250410T114000
 DTEND:20250410T131500
 SUMMARY:Po (w)
 LOCATION:314 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T133000
@@ -869,7 +869,7 @@ DTSTART:20250411T133000
 DTEND:20250411T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T160000
@@ -939,14 +939,14 @@ DTSTART:20250415T080000
 DTEND:20250415T093500
 SUMMARY:Bpe (L)
 LOCATION:223 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący:  Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T095000
 DTEND:20250415T112500
 SUMMARY:Bpe (L)
 LOCATION:223 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący:  Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T114000
@@ -988,7 +988,7 @@ DTSTART:20250416T114000
 DTEND:20250416T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T095000
@@ -1002,7 +1002,7 @@ DTSTART:20250417T114000
 DTEND:20250417T131500
 SUMMARY:Po (w)
 LOCATION:314 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T133000
@@ -1030,21 +1030,21 @@ DTSTART:20250423T114000
 DTEND:20250423T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T133000
 DTEND:20250423T150500
 SUMMARY:Bpe (L)
 LOCATION:223 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący:  Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T160000
 DTEND:20250423T173500
 SUMMARY:Bpe (L)
 LOCATION:223 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący:  Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T080000
@@ -1065,7 +1065,7 @@ DTSTART:20250424T114000
 DTEND:20250424T131500
 SUMMARY:Po (w)
 LOCATION:314 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T133000
@@ -1184,7 +1184,7 @@ DTSTART:20250430T114000
 DTEND:20250430T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T133000
@@ -1212,7 +1212,7 @@ DTSTART:20250430T175000
 DTEND:20250430T192500
 SUMMARY:Pnak (Inne)
 LOCATION:120 65
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T080000
@@ -1289,14 +1289,14 @@ DTSTART:20250507T095000
 DTEND:20250507T112500
 SUMMARY:Po (w)
 LOCATION:313 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T114000
 DTEND:20250507T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T133000
@@ -1373,7 +1373,7 @@ DTSTART:20250509T133000
 DTEND:20250509T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T160000
@@ -1478,7 +1478,7 @@ DTSTART:20250514T114000
 DTEND:20250514T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T133000
@@ -1506,7 +1506,7 @@ DTSTART:20250515T114000
 DTEND:20250515T131500
 SUMMARY:Po (w)
 LOCATION:313 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T133000
@@ -1527,7 +1527,7 @@ DTSTART:20250516T114000
 DTEND:20250516T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T194000
@@ -1611,7 +1611,7 @@ DTSTART:20250521T114000
 DTEND:20250521T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T095000
@@ -1625,7 +1625,7 @@ DTSTART:20250522T114000
 DTEND:20250522T131500
 SUMMARY:Po (w)
 LOCATION:313 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T133000
@@ -1653,7 +1653,7 @@ DTSTART:20250523T133000
 DTEND:20250523T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T160000
@@ -1737,7 +1737,7 @@ DTSTART:20250527T095000
 DTEND:20250527T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T114000
@@ -1765,7 +1765,7 @@ DTSTART:20250528T114000
 DTEND:20250528T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T080000
@@ -1786,7 +1786,7 @@ DTSTART:20250529T114000
 DTEND:20250529T131500
 SUMMARY:Po (w)
 LOCATION:314 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T133000
@@ -1821,7 +1821,7 @@ DTSTART:20250530T133000
 DTEND:20250530T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T194000
@@ -1954,7 +1954,7 @@ DTSTART:20250606T133000
 DTEND:20250606T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 24/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 24/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T160000
@@ -1989,21 +1989,21 @@ DTSTART:20250609T095000
 DTEND:20250609T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T114000
 DTEND:20250609T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 26/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 26/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T133000
 DTEND:20250609T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 27/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 27/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T133000
@@ -2031,7 +2031,7 @@ DTSTART:20250611T114000
 DTEND:20250611T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T095000
@@ -2073,7 +2073,7 @@ DTSTART:20250613T133000
 DTEND:20250613T150500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 29/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 29/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T194000
@@ -2136,7 +2136,7 @@ DTSTART:20250618T114000
 DTEND:20250618T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 30/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 30/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T175000
@@ -2199,7 +2199,7 @@ DTSTART:20250701T114000
 DTEND:20250701T131500
 SUMMARY:Pnak (Inne)
 LOCATION:106 65
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący:  Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250703T095000
@@ -2234,7 +2234,7 @@ DTSTART:20251001T114000
 DTEND:20251001T131500
 SUMMARY:BD(pp) (Inne)
 LOCATION:313 S 223 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 2/3\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 2/3\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T133000
@@ -2248,7 +2248,7 @@ DTSTART:20251001T133000
 DTEND:20251001T150500
 SUMMARY:BD(pp) (Inne)
 LOCATION:313 S 223 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 4/3\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 4/3\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T160000
@@ -2304,7 +2304,7 @@ DTSTART:20251003T095000
 DTEND:20251003T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 31/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 31/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T114000
@@ -2367,7 +2367,7 @@ DTSTART:20251006T114000
 DTEND:20251006T131500
 SUMMARY:PBI (w)
 LOCATION:313 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T080000
@@ -2416,7 +2416,7 @@ DTSTART:20251010T095000
 DTEND:20251010T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 32/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 32/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T114000
@@ -2479,14 +2479,14 @@ DTSTART:20251013T114000
 DTEND:20251013T131500
 SUMMARY:PBI (w)
 LOCATION:313 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T133000
 DTEND:20251013T150500
 SUMMARY:PBI (w)
 LOCATION:313 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T080000
@@ -2507,7 +2507,7 @@ DTSTART:20251014T114000
 DTEND:20251014T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 33/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 33/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T080000
@@ -2528,7 +2528,7 @@ DTSTART:20251015T114000
 DTEND:20251015T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 34/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 34/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T080000
@@ -2549,21 +2549,21 @@ DTSTART:20251016T114000
 DTEND:20251016T131500
 SUMMARY:PBI (L)
 LOCATION:223 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T133000
 DTEND:20251016T150500
 SUMMARY:PBI (L)
 LOCATION:223 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T095000
 DTEND:20251017T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 35/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 35/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T114000
@@ -2612,14 +2612,14 @@ DTSTART:20251020T114000
 DTEND:20251020T131500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T133000
 DTEND:20251020T150500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T080000
@@ -2640,7 +2640,7 @@ DTSTART:20251021T114000
 DTEND:20251021T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 36/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 36/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T095000
@@ -2654,7 +2654,7 @@ DTSTART:20251022T114000
 DTEND:20251022T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 37/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 37/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T080000
@@ -2682,7 +2682,7 @@ DTSTART:20251024T095000
 DTEND:20251024T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 38/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 38/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T114000
@@ -2724,14 +2724,14 @@ DTSTART:20251027T114000
 DTEND:20251027T131500
 SUMMARY:PBI (w)
 LOCATION:313 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T133000
 DTEND:20251027T150500
 SUMMARY:PBI (w)
 LOCATION:313 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T160000
@@ -2759,7 +2759,7 @@ DTSTART:20251028T114000
 DTEND:20251028T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 39/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 39/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T080000
@@ -2780,7 +2780,7 @@ DTSTART:20251029T114000
 DTEND:20251029T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 40/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 40/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T080000
@@ -2822,7 +2822,7 @@ DTSTART:20251031T095000
 DTEND:20251031T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 41/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 41/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T160000
@@ -2885,7 +2885,7 @@ DTSTART:20251104T114000
 DTEND:20251104T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 42/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 42/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T133000
@@ -2913,7 +2913,7 @@ DTSTART:20251105T114000
 DTEND:20251105T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 43/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 43/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T133000
@@ -3039,21 +3039,21 @@ DTSTART:20251112T114000
 DTEND:20251112T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 44/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 44/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T133000
 DTEND:20251112T150500
 SUMMARY:PBI (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T160000
 DTEND:20251112T173500
 SUMMARY:PBI (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T080000
@@ -3109,28 +3109,28 @@ DTSTART:20251114T095000
 DTEND:20251114T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 45/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 45/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T114000
 DTEND:20251114T131500
 SUMMARY:IO (L)
 LOCATION:224 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/14\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/14\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T133000
 DTEND:20251114T150500
 SUMMARY:IO (L)
 LOCATION:224 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/14\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/14\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T160000
 DTEND:20251114T173500
 SUMMARY:Nsk (ć)
 LOCATION:307 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T194000
@@ -3214,7 +3214,7 @@ DTSTART:20251119T114000
 DTEND:20251119T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 46/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 46/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T133000
@@ -3368,14 +3368,14 @@ DTSTART:20251125T133000
 DTEND:20251125T150500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T160000
 DTEND:20251125T173500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T080000
@@ -3396,7 +3396,7 @@ DTSTART:20251126T114000
 DTEND:20251126T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 47/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 47/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T175000
@@ -3417,7 +3417,7 @@ DTSTART:20251127T133000
 DTEND:20251127T150500
 SUMMARY:Nsk (ć)
 LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T160000
@@ -3466,14 +3466,14 @@ DTSTART:20251201T114000
 DTEND:20251201T131500
 SUMMARY:PBI (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T133000
 DTEND:20251201T150500
 SUMMARY:PBI (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T160000
@@ -3508,14 +3508,14 @@ DTSTART:20251202T114000
 DTEND:20251202T131500
 SUMMARY:PBI (L)
 LOCATION:227 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T133000
 DTEND:20251202T150500
 SUMMARY:PBI (L)
 LOCATION:227 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T080000
@@ -3536,7 +3536,7 @@ DTSTART:20251203T114000
 DTEND:20251203T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 48/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 48/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T194000
@@ -3578,28 +3578,28 @@ DTSTART:20251205T095000
 DTEND:20251205T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 49/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 49/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T114000
 DTEND:20251205T131500
 SUMMARY:IO (L)
 LOCATION:223 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/14\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/14\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T133000
 DTEND:20251205T150500
 SUMMARY:IO (L)
 LOCATION:223 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/14\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/14\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T160000
 DTEND:20251205T173500
 SUMMARY:Nsk (ć)
 LOCATION:309 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T194000
@@ -3620,14 +3620,14 @@ DTSTART:20251208T080000
 DTEND:20251208T093500
 SUMMARY:IK (L)
 LOCATION:011 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T095000
 DTEND:20251208T112500
 SUMMARY:IK (L)
 LOCATION:011 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T114000
@@ -3676,21 +3676,21 @@ DTSTART:20251211T095000
 DTEND:20251211T112500
 SUMMARY:IO (L)
 LOCATION:226 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/14\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/14\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T114000
 DTEND:20251211T131500
 SUMMARY:IO (L)
 LOCATION:226 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/14\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/14\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T133000
 DTEND:20251211T150500
 SUMMARY:Nsk (ć)
 LOCATION:309 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T175000
@@ -3711,7 +3711,7 @@ DTSTART:20251212T095000
 DTEND:20251212T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 50/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 50/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T114000
@@ -3802,7 +3802,7 @@ DTSTART:20251217T114000
 DTEND:20251217T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 51/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 51/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T133000
@@ -3858,28 +3858,28 @@ DTSTART:20251219T095000
 DTEND:20251219T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 52/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 52/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T114000
 DTEND:20251219T131500
 SUMMARY:IO (L)
 LOCATION:223 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/14\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/14\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T133000
 DTEND:20251219T150500
 SUMMARY:IO (L)
 LOCATION:223 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/14\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/14\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T160000
 DTEND:20251219T173500
 SUMMARY:Nsk (ć)
 LOCATION:309 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T194000
@@ -3914,7 +3914,7 @@ DTSTART:20260107T114000
 DTEND:20260107T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 53/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 53/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T194000
@@ -3956,21 +3956,21 @@ DTSTART:20260109T095000
 DTEND:20260109T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 54/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 54/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T114000
 DTEND:20260109T131500
 SUMMARY:IO (L)
 LOCATION:224 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/14\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/14\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T133000
 DTEND:20260109T150500
 SUMMARY:IO (L)
 LOCATION:224 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/14\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/14\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T194000
@@ -4005,7 +4005,7 @@ DTSTART:20260112T114000
 DTEND:20260112T131500
 SUMMARY:PBI (L)
 LOCATION:228 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T080000
@@ -4019,14 +4019,14 @@ DTSTART:20260113T133000
 DTEND:20260113T150500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T160000
 DTEND:20260113T173500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T095000
@@ -4040,7 +4040,7 @@ DTSTART:20260114T114000
 DTEND:20260114T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 55/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 55/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T160000
@@ -4082,7 +4082,7 @@ DTSTART:20260115T133000
 DTEND:20260115T150500
 SUMMARY:Nsk (ć)
 LOCATION:307 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T080000
@@ -4096,21 +4096,21 @@ DTSTART:20260116T095000
 DTEND:20260116T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 56/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 56/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T114000
 DTEND:20260116T131500
 SUMMARY:IO (L)
 LOCATION:223 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/14\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/14\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T133000
 DTEND:20260116T150500
 SUMMARY:IO (L)
 LOCATION:223 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/14\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/14\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T160000
@@ -4159,14 +4159,14 @@ DTSTART:20260121T114000
 DTEND:20260121T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 57/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 57/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T133000
 DTEND:20260121T150500
 SUMMARY:PBI (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T175000
@@ -4208,7 +4208,7 @@ DTSTART:20260122T133000
 DTEND:20260122T150500
 SUMMARY:Nsk (ć)
 LOCATION:308 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T080000
@@ -4222,7 +4222,7 @@ DTSTART:20260123T095000
 DTEND:20260123T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 58/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 58/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T114000
@@ -4250,14 +4250,14 @@ DTSTART:20260126T080000
 DTEND:20260126T093500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T095000
 DTEND:20260126T112500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T080000
@@ -4285,7 +4285,7 @@ DTSTART:20260128T114000
 DTEND:20260128T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 59/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 59/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T080000
@@ -4306,28 +4306,28 @@ DTSTART:20260129T133000
 DTEND:20260129T150500
 SUMMARY:Nsk (ć)
 LOCATION:314 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T095000
 DTEND:20260130T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 60/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 60/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T114000
 DTEND:20260130T131500
 SUMMARY:IO (L)
 LOCATION:223 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/14\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/14\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T133000
 DTEND:20260130T150500
 SUMMARY:IO (L)
 LOCATION:223 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/14\nProwadzący: dr inż. Adrian Woźniak
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/14\nProwadzący:  Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T194000
@@ -4351,6 +4351,13 @@ LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 61/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260304T114000
+DTEND:20260304T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 61/85\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260305T080000
 DTEND:20260305T093500
 SUMMARY:Ja (ć)
@@ -4362,7 +4369,7 @@ DTSTART:20260306T080000
 DTEND:20260306T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 61/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 62/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T095000
@@ -4425,7 +4432,7 @@ DTSTART:20260313T080000
 DTEND:20260313T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 62/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 63/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T095000
@@ -4477,6 +4484,13 @@ LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 65/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260318T114000
+DTEND:20260318T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 64/85\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260319T080000
 DTEND:20260319T093500
 SUMMARY:Ja (ć)
@@ -4488,7 +4502,7 @@ DTSTART:20260320T080000
 DTEND:20260320T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 63/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 65/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T095000
@@ -4642,7 +4656,7 @@ DTSTART:20260327T080000
 DTEND:20260327T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 64/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 66/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260327T095000
@@ -4694,6 +4708,13 @@ LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 68/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260401T114000
+DTEND:20260401T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 67/85\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260402T080000
 DTEND:20260402T093500
 SUMMARY:Ja (ć)
@@ -4705,7 +4726,14 @@ DTSTART:20260403T080000
 DTEND:20260403T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 65/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 68/85\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T114000
+DTEND:20260408T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 69/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T080000
@@ -4719,7 +4747,7 @@ DTSTART:20260410T080000
 DTEND:20260410T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 66/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 70/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T095000
@@ -4778,6 +4806,13 @@ LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 72/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260415T114000
+DTEND:20260415T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 71/85\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260417T080000
 DTEND:20260417T093500
 SUMMARY:DSiSM (ć)
@@ -4827,11 +4862,25 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 61/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260422T114000
+DTEND:20260422T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 72/85\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260428T080000
 DTEND:20260428T093500
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 73/85\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T114000
+DTEND:20260429T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 73/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T080000
@@ -4855,6 +4904,13 @@ LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 75/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260506T114000
+DTEND:20260506T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 74/85\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260507T080000
 DTEND:20260507T093500
 SUMMARY:Ja (ć)
@@ -4866,7 +4922,7 @@ DTSTART:20260508T080000
 DTEND:20260508T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 67/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 75/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T095000
@@ -4918,6 +4974,13 @@ LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 77/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260513T114000
+DTEND:20260513T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 76/85\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260514T080000
 DTEND:20260514T093500
 SUMMARY:Ja (ć)
@@ -4929,7 +4992,7 @@ DTSTART:20260515T080000
 DTEND:20260515T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 68/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 77/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T095000
@@ -4981,11 +5044,18 @@ LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 79/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260520T114000
+DTEND:20260520T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 78/85\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260522T080000
 DTEND:20260522T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 69/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 79/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T095000
@@ -5037,11 +5107,18 @@ LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 80/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260527T114000
+DTEND:20260527T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 80/85\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260529T080000
 DTEND:20260529T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 70/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 81/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T095000
@@ -5100,6 +5177,13 @@ LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 82/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260610T114000
+DTEND:20260610T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 82/85\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260610T133000
 DTEND:20260610T150500
 SUMMARY:Pwo (ć)
@@ -5118,7 +5202,7 @@ DTSTART:20260612T080000
 DTEND:20260612T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 71/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 83/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T095000
@@ -5170,6 +5254,13 @@ LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 84/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260617T114000
+DTEND:20260617T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 84/85\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260618T080000
 DTEND:20260618T093500
 SUMMARY:Ja (ć)
@@ -5181,7 +5272,7 @@ DTSTART:20260619T080000
 DTEND:20260619T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 72/60\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 85/85\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T095000

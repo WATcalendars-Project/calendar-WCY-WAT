@@ -85,7 +85,7 @@ DTSTART:20250304T175000
 DTEND:20250304T192500
 SUMMARY:Bd (Inne)
 LOCATION:316 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250308T080000
@@ -183,7 +183,7 @@ DTSTART:20250315T095000
 DTEND:20250315T112500
 SUMMARY:Bd (Inne)
 LOCATION:309 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250315T114000
@@ -379,14 +379,14 @@ DTSTART:20250329T114000
 DTEND:20250329T131500
 SUMMARY:MM (w)
 LOCATION:307 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250329T133000
 DTEND:20250329T150500
 SUMMARY:MM (w)
 LOCATION:307 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250329T160000
@@ -456,14 +456,14 @@ DTSTART:20250405T114000
 DTEND:20250405T131500
 SUMMARY:MM (w)
 LOCATION:307 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250405T133000
 DTEND:20250405T150500
 SUMMARY:MM (w)
 LOCATION:307 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250405T160000
@@ -512,7 +512,7 @@ DTSTART:20250412T080000
 DTEND:20250412T093500
 SUMMARY:MM (w)
 LOCATION:307 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250412T095000
@@ -540,14 +540,14 @@ DTSTART:20250412T160000
 DTEND:20250412T173500
 SUMMARY:Pw (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250412T175000
 DTEND:20250412T192500
 SUMMARY:Pw (P)
 LOCATION:233 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNr zajęć: 1/4\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNr zajęć: 1/4\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250413T080000
@@ -582,7 +582,7 @@ DTSTART:20250413T160000
 DTEND:20250413T173500
 SUMMARY:Ikc (L)
 LOCATION:106 65
-DESCRIPTION:Interfejsy komputerów cyfrowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów cyfrowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250413T175000
@@ -631,14 +631,14 @@ DTSTART:20250426T160000
 DTEND:20250426T173500
 SUMMARY:Ikc (L)
 LOCATION:106 65
-DESCRIPTION:Interfejsy komputerów cyfrowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów cyfrowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250426T175000
 DTEND:20250426T192500
 SUMMARY:Ikc (L)
 LOCATION:106 65
-DESCRIPTION:Interfejsy komputerów cyfrowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów cyfrowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250427T080000
@@ -764,14 +764,14 @@ DTSTART:20250510T160000
 DTEND:20250510T173500
 SUMMARY:Ikc (L)
 LOCATION:106 65
-DESCRIPTION:Interfejsy komputerów cyfrowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów cyfrowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250510T175000
 DTEND:20250510T192500
 SUMMARY:Ikc (L)
 LOCATION:106 65
-DESCRIPTION:Interfejsy komputerów cyfrowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów cyfrowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250510T194000
@@ -834,7 +834,7 @@ DTSTART:20250517T114000
 DTEND:20250517T131500
 SUMMARY:Pw (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250517T133000
@@ -869,7 +869,7 @@ DTSTART:20250518T080000
 DTEND:20250518T093500
 SUMMARY:Pw (P)
 LOCATION:233 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNr zajęć: 2/4\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNr zajęć: 2/4\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250518T095000
@@ -932,7 +932,7 @@ DTSTART:20250524T133000
 DTEND:20250524T150500
 SUMMARY:Pw (P)
 LOCATION:233 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNr zajęć: 3/4\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNr zajęć: 3/4\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T175000
@@ -1149,14 +1149,14 @@ DTSTART:20250608T160000
 DTEND:20250608T173500
 SUMMARY:Pw (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250608T175000
 DTEND:20250608T192500
 SUMMARY:Pw (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T080000
@@ -1184,21 +1184,21 @@ DTSTART:20250614T133000
 DTEND:20250614T150500
 SUMMARY:Ikc (L)
 LOCATION:120 65
-DESCRIPTION:Interfejsy komputerów cyfrowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów cyfrowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T160000
 DTEND:20250614T173500
 SUMMARY:Ikc (L)
 LOCATION:120 65
-DESCRIPTION:Interfejsy komputerów cyfrowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów cyfrowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T175000
 DTEND:20250614T192500
 SUMMARY:Pw (P)
 LOCATION:233 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNr zajęć: 4/4\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNr zajęć: 4/4\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T194000
@@ -1212,14 +1212,14 @@ DTSTART:20250615T080000
 DTEND:20250615T093500
 SUMMARY:Pw (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250615T095000
 DTEND:20250615T112500
 SUMMARY:Pw (L)
 LOCATION:233 S
-DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: mgr inż. Piotr Stąpor
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący:  Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250615T114000
