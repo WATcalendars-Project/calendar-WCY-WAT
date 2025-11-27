@@ -2930,13 +2930,6 @@ LOCATION:09 65
 DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący:  Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251201T133000
-DTEND:20251201T150500
-SUMMARY:Tik (ć)
-LOCATION:101 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący:  Leszek Grad
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251201T160000
 DTEND:20251201T173500
 SUMMARY:REZ (Inne)
@@ -2977,6 +2970,13 @@ DTEND:20251203T131500
 SUMMARY:SO (w)
 LOCATION:316 S
 DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 9/13\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251203T133000
+DTEND:20251203T150500
+SUMMARY:Tik (ć)
+LOCATION:101 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T080000

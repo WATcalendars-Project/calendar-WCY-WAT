@@ -753,13 +753,6 @@ LOCATION:316 S
 DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251126T160000
-DTEND:20251126T173500
-SUMMARY:NET (w)
-LOCATION:308 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Mariusz Chmielewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251126T175000
 DTEND:20251126T192500
 SUMMARY:Pjf (L)
@@ -939,7 +932,7 @@ DTSTART:20251210T160000
 DTEND:20251210T173500
 SUMMARY:NET (w)
 LOCATION:308 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Mariusz Chmielewski
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T175000
@@ -1009,7 +1002,7 @@ DTSTART:20251217T160000
 DTEND:20251217T173500
 SUMMARY:NET (w)
 LOCATION:308 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Mariusz Chmielewski
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T080000
@@ -1056,6 +1049,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T160000
 DTEND:20260107T173500
+SUMMARY:NET (w)
+LOCATION:308 S
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Mariusz Chmielewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260107T175000
+DTEND:20260107T192500
 SUMMARY:NET (w)
 LOCATION:308 S
 DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Mariusz Chmielewski

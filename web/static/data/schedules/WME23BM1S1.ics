@@ -5114,20 +5114,6 @@ LOCATION:5/ 34a
 DESCRIPTION:Analiza ruchu człowieka - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251203T114000
-DTEND:20251203T131500
-SUMMARY:Tmf (L)
-LOCATION:7 54E 26 54E
-DESCRIPTION:Technika mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251203T133000
-DTEND:20251203T150500
-SUMMARY:Tmf (L)
-LOCATION:7 54E 26 54E
-DESCRIPTION:Technika mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251203T160000
 DTEND:20251203T173500
 SUMMARY:Swb (L)
@@ -5300,14 +5286,14 @@ DTSTART:20251209T080000
 DTEND:20251209T093500
 SUMMARY:Tmf (L)
 LOCATION:7 54E 26 54E
-DESCRIPTION:Technika mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: -
+DESCRIPTION:Technika mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T095000
 DTEND:20251209T112500
 SUMMARY:Tmf (L)
 LOCATION:7 54E 26 54E
-DESCRIPTION:Technika mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -
+DESCRIPTION:Technika mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T114000
@@ -5511,6 +5497,20 @@ DTEND:20251217T150500
 SUMMARY:ArCz (L)
 LOCATION:5/ 34a
 DESCRIPTION:Analiza ruchu człowieka - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251217T160000
+DTEND:20251217T173500
+SUMMARY:Tmf (L)
+LOCATION:7 54E 26 54E
+DESCRIPTION:Technika mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251217T175000
+DTEND:20251217T192500
+SUMMARY:Tmf (L)
+LOCATION:7 54E 26 54E
+DESCRIPTION:Technika mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T080000

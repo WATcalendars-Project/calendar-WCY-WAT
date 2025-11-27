@@ -641,6 +641,13 @@ LOCATION:308 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251209T133000
+DTEND:20251209T150500
+SUMMARY:Weok (L)
+LOCATION:224 S
+DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251210T114000
 DTEND:20251210T131500
 SUMMARY:Weok (w)
@@ -676,20 +683,6 @@ LOCATION:219 65
 DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący:  Lucjan Kowalski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251211T095000
-DTEND:20251211T112500
-SUMMARY:Weok (L)
-LOCATION:223 S
-DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Joanna Wiśniewska
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251211T114000
-DTEND:20251211T131500
-SUMMARY:Weok (L)
-LOCATION:223 S
-DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Joanna Wiśniewska
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251215T080000
 DTEND:20251215T093500
 SUMMARY:Ekk (w)
@@ -723,6 +716,13 @@ DTEND:20251216T131500
 SUMMARY:ak (L)
 LOCATION:223 S
 DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący:  Joanna Wiśniewska
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251216T133000
+DTEND:20251216T150500
+SUMMARY:Weok (L)
+LOCATION:228 S
+DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T114000
