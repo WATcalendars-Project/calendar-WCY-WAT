@@ -1179,4 +1179,32 @@ SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 56/1\nProwadzący: -
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260207T080000
+DTEND:20260207T093500
+SUMMARY:Gk (E)
+LOCATION:313 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260214T095000
+DTEND:20260214T112500
+SUMMARY:Med (E)
+LOCATION:308 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260221T080000
+DTEND:20260221T093500
+SUMMARY:Gk (Inne)
+LOCATION:309 S
+DESCRIPTION:Grafika komputerowa\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Marek Salamon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260221T095000
+DTEND:20260221T112500
+SUMMARY:Med (Inne)
+LOCATION:309 S
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Romuald Hoffmann
+END:VEVENT
 END:VCALENDAR

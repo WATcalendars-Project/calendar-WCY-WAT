@@ -1074,4 +1074,18 @@ SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 48/1\nProwadzący: -
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260207T095000
+DTEND:20260207T112500
+SUMMARY:Msk. (E)
+LOCATION:309 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260221T080000
+DTEND:20260221T093500
+SUMMARY:Msk. (Inne)
+LOCATION:308 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
 END:VCALENDAR

@@ -1966,14 +1966,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T133000
 DTEND:20251002T150500
-SUMMARY:BD(pp) (w)
+SUMMARY:BD (w)
 LOCATION:316 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T160000
 DTEND:20251002T173500
-SUMMARY:BD(pp) (w)
+SUMMARY:BD (w)
 LOCATION:316 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
@@ -2078,14 +2078,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T133000
 DTEND:20251009T150500
-SUMMARY:BD(pp) (w)
+SUMMARY:BD (w)
 LOCATION:316 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T160000
 DTEND:20251009T173500
-SUMMARY:BD(pp) (w)
+SUMMARY:BD (w)
 LOCATION:316 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
@@ -2127,14 +2127,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T095000
 DTEND:20251014T112500
-SUMMARY:BD(pp) (ć)
+SUMMARY:BD (ć)
 LOCATION:224 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T114000
 DTEND:20251014T131500
-SUMMARY:BD(pp) (ć)
+SUMMARY:BD (ć)
 LOCATION:224 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
@@ -2204,14 +2204,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T080000
 DTEND:20251017T093500
-SUMMARY:BD(pp) (w)
+SUMMARY:BD (w)
 LOCATION:316 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/4\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T095000
 DTEND:20251017T112500
-SUMMARY:BD(pp) (w)
+SUMMARY:BD (w)
 LOCATION:316 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
@@ -2309,14 +2309,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T095000
 DTEND:20251023T112500
-SUMMARY:BD(pp) (ć)
+SUMMARY:BD (ć)
 LOCATION:228 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T114000
 DTEND:20251023T131500
-SUMMARY:BD(pp) (ć)
+SUMMARY:BD (ć)
 LOCATION:228 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
@@ -2337,7 +2337,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T080000
 DTEND:20251024T093500
-SUMMARY:BD(pp) (w)
+SUMMARY:BD (w)
 LOCATION:307 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/4\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
@@ -2428,14 +2428,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T133000
 DTEND:20251029T150500
-SUMMARY:BD(pp) (ć)
+SUMMARY:BD (ć)
 LOCATION:226 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T160000
 DTEND:20251029T173500
-SUMMARY:BD(pp) (ć)
+SUMMARY:BD (ć)
 LOCATION:226 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
@@ -2575,14 +2575,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T114000
 DTEND:20251106T131500
-SUMMARY:BD(pp) (L)
+SUMMARY:BD (L)
 LOCATION:226 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/13\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T133000
 DTEND:20251106T150500
-SUMMARY:BD(pp) (L)
+SUMMARY:BD (L)
 LOCATION:226 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/13\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
@@ -2799,14 +2799,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T114000
 DTEND:20251121T131500
-SUMMARY:BD(pp) (L)
+SUMMARY:BD (L)
 LOCATION:226 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/13\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T133000
 DTEND:20251121T150500
-SUMMARY:BD(pp) (L)
+SUMMARY:BD (L)
 LOCATION:226 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/13\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
@@ -3002,14 +3002,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T114000
 DTEND:20251204T131500
-SUMMARY:BD(pp) (L)
+SUMMARY:BD (L)
 LOCATION:233 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/13\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T133000
 DTEND:20251204T150500
-SUMMARY:BD(pp) (L)
+SUMMARY:BD (L)
 LOCATION:233 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/13\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
@@ -3219,14 +3219,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T114000
 DTEND:20251218T131500
-SUMMARY:BD(pp) (L)
+SUMMARY:BD (L)
 LOCATION:236 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/13\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T133000
 DTEND:20251218T150500
-SUMMARY:BD(pp) (L)
+SUMMARY:BD (L)
 LOCATION:236 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/13\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
@@ -3247,14 +3247,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T114000
 DTEND:20260109T131500
-SUMMARY:BD(pp) (L)
+SUMMARY:BD (L)
 LOCATION:226 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T133000
 DTEND:20260109T150500
-SUMMARY:BD(pp) (L)
+SUMMARY:BD (L)
 LOCATION:226 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
@@ -3408,7 +3408,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T133000
 DTEND:20260122T150500
-SUMMARY:BD(pp) (L)
+SUMMARY:BD (L)
 LOCATION:226 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/13\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
@@ -3492,14 +3492,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T114000
 DTEND:20260130T131500
-SUMMARY:BD(pp) (L)
+SUMMARY:BD (L)
 LOCATION:226 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/13\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T133000
 DTEND:20260130T150500
-SUMMARY:BD(pp) (L)
+SUMMARY:BD (L)
 LOCATION:226 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/13\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
@@ -3516,6 +3516,13 @@ DTEND:20260130T192500
 SUMMARY:Aok (L)
 LOCATION:125 65
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/16\nProwadzący: mgr inż. Artur Miktus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260202T095000
+DTEND:20260202T112500
+SUMMARY:BD (E)
+LOCATION:316 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260211T095000
@@ -3537,6 +3544,13 @@ DTEND:20260211T150500
 SUMMARY:F2 (E)
 LOCATION:313 S
 DESCRIPTION:Fizyka 2 - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T095000
+DTEND:20260219T112500
+SUMMARY:BD (Inne)
+LOCATION:316 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T095000

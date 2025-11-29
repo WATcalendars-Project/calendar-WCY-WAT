@@ -2544,4 +2544,88 @@ SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 70/1\nProwadzący: -
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260207T080000
+DTEND:20260207T093500
+SUMMARY:Als (E)
+LOCATION:308 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260207T095000
+DTEND:20260207T112500
+SUMMARY:BD (E)
+LOCATION:308 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260208T080000
+DTEND:20260208T093500
+SUMMARY:Aok (E)
+LOCATION:203 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260208T095000
+DTEND:20260208T112500
+SUMMARY:SO (E)
+LOCATION:203 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260214T095000
+DTEND:20260214T112500
+SUMMARY:Swb (E)
+LOCATION:203 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260214T114000
+DTEND:20260214T131500
+SUMMARY:FII (E)
+LOCATION:aF S
+DESCRIPTION:Fizyka II - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260221T080000
+DTEND:20260221T093500
+SUMMARY:FII (Inne)
+LOCATION:aF S
+DESCRIPTION:Fizyka II - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260221T095000
+DTEND:20260221T112500
+SUMMARY:Als (Inne)
+LOCATION:308 S
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260221T114000
+DTEND:20260221T131500
+SUMMARY:Swb (Inne)
+LOCATION:203 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260222T080000
+DTEND:20260222T093500
+SUMMARY:Aok (Inne)
+LOCATION:203 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Artur Arciuch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260222T095000
+DTEND:20260222T112500
+SUMMARY:SO (Inne)
+LOCATION:203 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260222T114000
+DTEND:20260222T131500
+SUMMARY:BD (Inne)
+LOCATION:308 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
 END:VCALENDAR
