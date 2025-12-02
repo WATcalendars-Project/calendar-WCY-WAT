@@ -417,20 +417,6 @@ LOCATION:223 S
 DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251202T114000
-DTEND:20251202T131500
-SUMMARY:Esi (L)
-LOCATION:228 S
-DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251202T133000
-DTEND:20251202T150500
-SUMMARY:Esi (w)
-LOCATION:233 S
-DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251203T080000
 DTEND:20251203T093500
 SUMMARY:Mia (w)
@@ -457,20 +443,6 @@ DTEND:20251204T112500
 SUMMARY:BSI (w)
 LOCATION:224 S
 DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Piotr Górny
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251204T114000
-DTEND:20251204T131500
-SUMMARY:Esi (ć)
-LOCATION:227 S
-DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: dr hab. inż. Ryszard Antkiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251204T133000
-DTEND:20251204T150500
-SUMMARY:Esi (w)
-LOCATION:228 S
-DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T080000
@@ -547,7 +519,7 @@ DTSTART:20251211T114000
 DTEND:20251211T131500
 SUMMARY:Esi (ć)
 LOCATION:227 S
-DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T133000
@@ -620,6 +592,20 @@ LOCATION:226 S
 DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251219T114000
+DTEND:20251219T131500
+SUMMARY:Esi (w)
+LOCATION:224 S
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251219T133000
+DTEND:20251219T150500
+SUMMARY:Esi (ć)
+LOCATION:224 S
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260107T080000
 DTEND:20260107T093500
 SUMMARY:Mia (P)
@@ -652,7 +638,7 @@ DTSTART:20260108T114000
 DTEND:20260108T131500
 SUMMARY:Esi (L)
 LOCATION:228 S
-DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T133000
@@ -736,7 +722,7 @@ DTSTART:20260115T114000
 DTEND:20260115T131500
 SUMMARY:Esi (L)
 LOCATION:228 S
-DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T133000
@@ -802,6 +788,20 @@ LOCATION:227 S
 DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 8/8\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260122T114000
+DTEND:20260122T131500
+SUMMARY:Esi (w)
+LOCATION:236 S
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260122T133000
+DTEND:20260122T150500
+SUMMARY:Esi (L)
+LOCATION:236 S
+DESCRIPTION:Efektywność systemów  informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący: dr hab. inż. Ryszard Antkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260127T080000
 DTEND:20260127T093500
 SUMMARY:ZUI (L)
@@ -842,5 +842,33 @@ DTEND:20260128T112500
 SUMMARY:Tim (L)
 LOCATION:227 S
 DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: mgr inż. Paweł Pieczonka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260203T080000
+DTEND:20260203T093500
+SUMMARY:No (E)
+LOCATION:309 S
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260204T080000
+DTEND:20260204T093500
+SUMMARY:Mia (E)
+LOCATION:308 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Robert Waszkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T080000
+DTEND:20260217T093500
+SUMMARY:No (Inne)
+LOCATION:309 S
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T080000
+DTEND:20260218T093500
+SUMMARY:Mia (Inne)
+LOCATION:308 S
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Robert Waszkowski
 END:VEVENT
 END:VCALENDAR

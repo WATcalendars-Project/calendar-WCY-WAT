@@ -676,20 +676,6 @@ LOCATION:106 65
 DESCRIPTION:Modelowanie systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 3/8\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251204T114000
-DTEND:20251204T131500
-SUMMARY:BsIP (L)
-LOCATION:120 65
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251204T133000
-DTEND:20251204T150500
-SUMMARY:BsIP (L)
-LOCATION:120 65
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Łukasz Skibniewski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251204T160000
 DTEND:20251204T173500
 SUMMARY:Sa. (L)
@@ -863,6 +849,20 @@ DTEND:20251219T112500
 SUMMARY:Zt (P)
 LOCATION:120 65
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 3/5\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260107T080000
+DTEND:20260107T093500
+SUMMARY:BsIP (L)
+LOCATION:239 S
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Łukasz Skibniewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260107T095000
+DTEND:20260107T112500
+SUMMARY:BsIP (L)
+LOCATION:239 S
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T114000
@@ -1164,5 +1164,61 @@ DTEND:20260130T112500
 SUMMARY:Zt (P)
 LOCATION:120 65
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 5/5\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260202T160000
+DTEND:20260202T173500
+SUMMARY:PsbI (E)
+LOCATION:101 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260203T080000
+DTEND:20260203T093500
+SUMMARY:Zbi (E)
+LOCATION:101 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260204T095000
+DTEND:20260204T112500
+SUMMARY:Aip (E)
+LOCATION:125 65
+DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T114000
+DTEND:20260206T131500
+SUMMARY:Zt (E)
+LOCATION:125 65
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260216T160000
+DTEND:20260216T173500
+SUMMARY:PsbI (Inne)
+LOCATION:101 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Marcin Pachnik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T080000
+DTEND:20260217T093500
+SUMMARY:Zbi (Inne)
+LOCATION:201 65
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T095000
+DTEND:20260218T112500
+SUMMARY:Aip (Inne)
+LOCATION:125 65
+DESCRIPTION:Analiza i projektowanie systemów teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T114000
+DTEND:20260218T131500
+SUMMARY:Zt (Inne)
+LOCATION:125 65
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 END:VCALENDAR

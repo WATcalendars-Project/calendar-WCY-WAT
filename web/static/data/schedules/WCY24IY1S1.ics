@@ -3518,8 +3518,15 @@ LOCATION:125 65
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/16\nProwadzący: mgr inż. Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260202T095000
-DTEND:20260202T112500
+DTSTART:20260202T080000
+DTEND:20260202T093500
+SUMMARY:SO (Inne)
+LOCATION:121 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Grzegorz Kropiewnicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260209T095000
+DTEND:20260209T112500
 SUMMARY:BD (E)
 LOCATION:316 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Maciej Kiedrowicz
@@ -3544,6 +3551,13 @@ DTEND:20260211T150500
 SUMMARY:F2 (E)
 LOCATION:313 S
 DESCRIPTION:Fizyka 2 - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T080000
+DTEND:20260217T093500
+SUMMARY:SO (Inne)
+LOCATION:121 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T095000

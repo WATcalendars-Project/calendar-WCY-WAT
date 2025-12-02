@@ -4351,6 +4351,13 @@ LOCATION:121 65
 DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 8/8\nProwadzący: mgr inż. Łukasz Laszko
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260128T160000
+DTEND:20260128T173500
+SUMMARY:AsU (Inne)
+LOCATION:237 S
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260128T175000
 DTEND:20260128T192500
 SUMMARY:WF (w)
@@ -4398,6 +4405,13 @@ DTEND:20260131T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28/28\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T080000
+DTEND:20260219T093500
+SUMMARY:AsU (Inne)
+LOCATION:237 S
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T080000

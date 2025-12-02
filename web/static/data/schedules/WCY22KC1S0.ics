@@ -3611,16 +3611,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T160000
 DTEND:20251202T173500
-SUMMARY:MAST (L)
+SUMMARY:MAST (P)
 LOCATION:125 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 3/8\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T175000
 DTEND:20251202T192500
-SUMMARY:MAST (L)
+SUMMARY:MAST (P)
 LOCATION:125 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 4/8\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T095000
@@ -3970,14 +3970,14 @@ DTSTART:20251218T160000
 DTEND:20251218T173500
 SUMMARY:MAST (L)
 LOCATION:106 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T175000
 DTEND:20251218T192500
 SUMMARY:MAST (L)
 LOCATION:106 65
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T080000
@@ -4066,16 +4066,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T160000
 DTEND:20260108T173500
-SUMMARY:MAST (P)
+SUMMARY:MAST (L)
 LOCATION:237 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 3/8\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T175000
 DTEND:20260108T192500
-SUMMARY:MAST (P)
+SUMMARY:MAST (L)
 LOCATION:237 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 4/8\nProwadzący: dr inż. Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T080000
@@ -4414,6 +4414,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 59/88\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260128T095000
+DTEND:20260128T112500
+SUMMARY:AsU (Inne)
+LOCATION:237 S
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260128T114000
 DTEND:20260128T131500
 SUMMARY:Ja (ć)
@@ -4475,6 +4482,13 @@ DTEND:20260131T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28/28\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T080000
+DTEND:20260219T093500
+SUMMARY:AsU (Inne)
+LOCATION:237 S
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T080000

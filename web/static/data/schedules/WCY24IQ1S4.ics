@@ -962,4 +962,60 @@ SUMMARY:Wekk (ć)
 LOCATION:078 S
 DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/8\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260202T114000
+DTEND:20260202T131500
+SUMMARY:Mpik (E)
+LOCATION:201 65
+DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. Marek Kojdecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260204T114000
+DTEND:20260204T131500
+SUMMARY:Fpik (E)
+LOCATION:308 S
+DESCRIPTION:Fizyczne podstawy informatyki kwantowej\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260209T080000
+DTEND:20260209T093500
+SUMMARY:Ekk (E)
+LOCATION:233 S
+DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Paweł Moszczyński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260211T160000
+DTEND:20260211T173500
+SUMMARY:Wekk (E)
+LOCATION:201 65
+DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Krzysztof Kanciak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260216T080000
+DTEND:20260216T093500
+SUMMARY:Ekk (Inne)
+LOCATION:233 S
+DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Paweł Moszczyński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260216T114000
+DTEND:20260216T131500
+SUMMARY:Mpik (Inne)
+LOCATION:201 65
+DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. Marek Kojdecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T114000
+DTEND:20260218T131500
+SUMMARY:Fpik (Inne)
+LOCATION:308 S
+DESCRIPTION:Fizyczne podstawy informatyki kwantowej\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T160000
+DTEND:20260218T173500
+SUMMARY:Wekk (Inne)
+LOCATION:201 65
+DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Krzysztof Kanciak
+END:VEVENT
 END:VCALENDAR

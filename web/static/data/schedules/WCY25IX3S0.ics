@@ -2440,6 +2440,13 @@ LOCATION:29/ 54
 DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/12\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260217T114000
+DTEND:20260217T131500
+SUMMARY:MD1 (Inne)
+LOCATION:307 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: mgr inż. Łukasz Dzierzkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T080000
 DTEND:20260303T093500
 SUMMARY:WF (ć)

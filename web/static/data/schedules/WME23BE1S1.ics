@@ -4617,13 +4617,6 @@ LOCATION:5/ 23a
 DESCRIPTION:Podstawy automatyki i robotyki - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251117T114000
-DTEND:20251117T131500
-SUMMARY:Par (ć)
-LOCATION:2/ 23a
-DESCRIPTION:Podstawy automatyki i robotyki - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251117T133000
 DTEND:20251117T150500
 SUMMARY:Tmf (w)
@@ -4972,6 +4965,13 @@ DTEND:20251202T131500
 SUMMARY:App (w)
 LOCATION:2.01/ 54A
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszare transportu indywidualnego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251202T133000
+DTEND:20251202T150500
+SUMMARY:Par (ć)
+LOCATION:51/ 62
+DESCRIPTION:Podstawy automatyki i robotyki - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T160000

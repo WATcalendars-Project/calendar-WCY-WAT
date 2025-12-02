@@ -3119,13 +3119,6 @@ LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 50/88\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251203T133000
-DTEND:20251203T150500
-SUMMARY:Msz (w)
-LOCATION:313 S
-DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251204T080000
 DTEND:20251204T093500
 SUMMARY:PODS.SUR. (ć)
@@ -3215,6 +3208,13 @@ DTEND:20251208T093500
 SUMMARY:Ja (ć)
 LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 51/88\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251208T095000
+DTEND:20251208T112500
+SUMMARY:Msz (w)
+LOCATION:239 S
+DESCRIPTION:Metody sztucznej inteligencji\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T114000

@@ -3245,13 +3245,6 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 54/75\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251201T133000
-DTEND:20251201T150500
-SUMMARY:Mspw (w)
-LOCATION:313 S
-DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251201T160000
 DTEND:20251201T173500
 SUMMARY:Sme. (ć)
@@ -3557,7 +3550,7 @@ DTSTART:20251215T133000
 DTEND:20251215T150500
 SUMMARY:Mspw (w)
 LOCATION:309 S
-DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Wykład\nNr zajęć: 7/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
+DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T160000
@@ -3670,6 +3663,13 @@ DTEND:20251219T093500
 SUMMARY:Ja (ć)
 LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 50/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251219T114000
+DTEND:20251219T131500
+SUMMARY:Mspw (w)
+LOCATION:313 S
+DESCRIPTION:Modelowanie i symulacja pola walki\nRodzaj zajęć: Wykład\nNr zajęć: 7/4\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T095000

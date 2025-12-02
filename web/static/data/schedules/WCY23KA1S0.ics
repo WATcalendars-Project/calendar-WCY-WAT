@@ -4,6 +4,13 @@ PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY23KA1S0
 BEGIN:VEVENT
+DTSTART:20260304T114000
+DTEND:20260304T131500
+SUMMARY:WF (w)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260306T080000
 DTEND:20260306T093500
 SUMMARY:OPBMR (w)
@@ -64,7 +71,7 @@ DTSTART:20260313T095000
 DTEND:20260313T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/9\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T114000
@@ -102,6 +109,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 8/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260318T114000
+DTEND:20260318T131500
+SUMMARY:WF (w)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260320T080000
 DTEND:20260320T093500
 SUMMARY:DSiSM (ć)
@@ -113,7 +127,7 @@ DTSTART:20260320T095000
 DTEND:20260320T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/9\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T114000
@@ -151,6 +165,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 11/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260325T114000
+DTEND:20260325T131500
+SUMMARY:WF (w)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260327T080000
 DTEND:20260327T093500
 SUMMARY:PESW (ć)
@@ -162,7 +183,7 @@ DTSTART:20260327T095000
 DTEND:20260327T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/9\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260327T114000
@@ -200,6 +221,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260401T114000
+DTEND:20260401T131500
+SUMMARY:WF (w)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T114000
+DTEND:20260408T131500
+SUMMARY:WF (w)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260410T080000
 DTEND:20260410T093500
 SUMMARY:OPBMR (ć)
@@ -211,7 +246,7 @@ DTSTART:20260410T095000
 DTEND:20260410T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/9\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T114000
@@ -249,6 +284,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 19/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260415T114000
+DTEND:20260415T131500
+SUMMARY:WF (w)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260417T080000
 DTEND:20260417T093500
 SUMMARY:PESW (ć)
@@ -260,7 +302,7 @@ DTSTART:20260417T095000
 DTEND:20260417T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/9\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T114000
@@ -389,6 +431,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 8/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260429T114000
+DTEND:20260429T131500
+SUMMARY:WF (w)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T114000
+DTEND:20260506T131500
+SUMMARY:WF (w)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260508T080000
 DTEND:20260508T093500
 SUMMARY:PESW (ć)
@@ -400,7 +456,7 @@ DTSTART:20260508T095000
 DTEND:20260508T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/9\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T114000
@@ -438,6 +494,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 25/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260513T114000
+DTEND:20260513T131500
+SUMMARY:WF (w)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260515T080000
 DTEND:20260515T093500
 SUMMARY:- (S.Sz.W.)
@@ -449,7 +512,7 @@ DTSTART:20260515T095000
 DTEND:20260515T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/9\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T114000
@@ -485,6 +548,13 @@ DTEND:20260515T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 30/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T114000
+DTEND:20260520T131500
+SUMMARY:WF (w)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T080000
@@ -536,6 +606,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 34/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260527T114000
+DTEND:20260527T131500
+SUMMARY:WF (w)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 11/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260529T080000
 DTEND:20260529T093500
 SUMMARY:PESW (ć)
@@ -547,7 +624,7 @@ DTSTART:20260529T095000
 DTEND:20260529T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/9\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T114000
@@ -585,6 +662,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 39/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260610T114000
+DTEND:20260610T131500
+SUMMARY:WF (w)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 12/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260612T080000
 DTEND:20260612T093500
 SUMMARY:OPBMR (ć)
@@ -596,7 +680,7 @@ DTSTART:20260612T095000
 DTEND:20260612T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/9\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T114000
@@ -632,6 +716,13 @@ DTEND:20260612T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 44/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260617T114000
+DTEND:20260617T131500
+SUMMARY:WF (w)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 13/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T080000

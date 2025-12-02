@@ -3784,13 +3784,6 @@ LOCATION:09 65
 DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/14\nProwadzący:  Piotr Targowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251205T160000
-DTEND:20251205T173500
-SUMMARY:ESI (L)
-LOCATION:121 65
-DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Sławomir Matusiak
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251206T080000
 DTEND:20251206T093500
 SUMMARY:XWF (ć)
@@ -3838,6 +3831,13 @@ DTEND:20251209T112500
 SUMMARY:AśW (w)
 LOCATION:316 S
 DESCRIPTION:Administrowanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251209T133000
+DTEND:20251209T150500
+SUMMARY:ESI (L)
+LOCATION:121 65
+DESCRIPTION:Ergonomia systemów interaktywnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Sławomir Matusiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T080000
@@ -4526,6 +4526,13 @@ LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 60/88\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260128T160000
+DTEND:20260128T173500
+SUMMARY:AsU (Inne)
+LOCATION:237 S
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Sławomir Machowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260128T194000
 DTEND:20260128T211500
 SUMMARY:WF (w)
@@ -4566,6 +4573,13 @@ DTEND:20260131T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28/28\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T080000
+DTEND:20260219T093500
+SUMMARY:AsU (Inne)
+LOCATION:237 S
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T080000

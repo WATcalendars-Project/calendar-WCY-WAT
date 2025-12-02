@@ -1047,13 +1047,6 @@ LOCATION:314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 10/17\nProwadzący: dr Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251205T114000
-DTEND:20251205T131500
-SUMMARY:Ez (w)
-LOCATION:314 S
-DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251205T133000
 DTEND:20251205T150500
 SUMMARY:M II (ć)
@@ -1170,7 +1163,7 @@ DTSTART:20251212T114000
 DTEND:20251212T131500
 SUMMARY:Ez (w)
 LOCATION:314 S
-DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -
+DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T133000
@@ -1178,6 +1171,13 @@ DTEND:20251212T150500
 SUMMARY:Wzp (w)
 LOCATION:314 S
 DESCRIPTION:Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251212T160000
+DTEND:20251212T173500
+SUMMARY:Ez (w)
+LOCATION:314 S
+DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T080000

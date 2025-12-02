@@ -1089,13 +1089,6 @@ LOCATION:133 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251204T095000
-DTEND:20251204T112500
-SUMMARY:Ez (w)
-LOCATION:314 S
-DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251204T114000
 DTEND:20251204T131500
 SUMMARY:Wzp (w)
@@ -1177,7 +1170,7 @@ DTSTART:20251211T095000
 DTEND:20251211T112500
 SUMMARY:Ez (w)
 LOCATION:314 S
-DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -
+DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T114000
@@ -1261,7 +1254,7 @@ DTSTART:20251218T095000
 DTEND:20251218T112500
 SUMMARY:Ez (w)
 LOCATION:314 S
-DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -
+DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T114000
@@ -1290,6 +1283,13 @@ DTEND:20251219T112500
 SUMMARY:M II (w)
 LOCATION:314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 12/17\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251219T160000
+DTEND:20251219T173500
+SUMMARY:Ez (w)
+LOCATION:314 S
+DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T080000

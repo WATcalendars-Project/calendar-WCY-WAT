@@ -2405,6 +2405,13 @@ LOCATION:223 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/11\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260217T114000
+DTEND:20260217T131500
+SUMMARY:MD1 (Inne)
+LOCATION:307 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: mgr inż. Łukasz Dzierzkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260302T114000
 DTEND:20260302T131500
 SUMMARY:ZaMe (w)
