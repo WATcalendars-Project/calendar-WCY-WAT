@@ -15,7 +15,7 @@ DTSTART:20251004T095000
 DTEND:20251004T112500
 SUMMARY:Med (w)
 LOCATION:308 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T114000
@@ -85,7 +85,7 @@ DTSTART:20251011T114000
 DTEND:20251011T131500
 SUMMARY:Med (w)
 LOCATION:204 65
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T133000
@@ -155,14 +155,14 @@ DTSTART:20251018T133000
 DTEND:20251018T150500
 SUMMARY:Pjf (w)
 LOCATION:308 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: mgr inż. Piotr Bączyk
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Piotr Bączyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251018T160000
 DTEND:20251018T173500
 SUMMARY:Pjf (w)
 LOCATION:308 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: mgr inż. Piotr Bączyk
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Piotr Bączyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251019T080000
@@ -246,21 +246,21 @@ DTSTART:20251026T114000
 DTEND:20251026T131500
 SUMMARY:Med (w)
 LOCATION:309 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251026T133000
 DTEND:20251026T150500
 SUMMARY:BPiE (w)
 LOCATION:203 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251026T160000
 DTEND:20251026T173500
 SUMMARY:BPiE (w)
 LOCATION:203 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251101T080000
@@ -505,21 +505,21 @@ DTSTART:20251116T080000
 DTEND:20251116T093500
 SUMMARY:BPiE (w)
 LOCATION:203 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251116T095000
 DTEND:20251116T112500
 SUMMARY:BPiE (w)
 LOCATION:203 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251116T114000
 DTEND:20251116T131500
 SUMMARY:Med (w)
 LOCATION:309 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T080000
@@ -540,14 +540,14 @@ DTSTART:20251122T114000
 DTEND:20251122T131500
 SUMMARY:Pjf (w)
 LOCATION:308 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: mgr inż. Piotr Bączyk
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Piotr Bączyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T133000
 DTEND:20251122T150500
 SUMMARY:Pjf (w)
 LOCATION:308 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: mgr inż. Piotr Bączyk
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Piotr Bączyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T160000
@@ -575,7 +575,7 @@ DTSTART:20251123T114000
 DTEND:20251123T131500
 SUMMARY:Med (L)
 LOCATION:223 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251123T133000
@@ -589,14 +589,14 @@ DTSTART:20251123T160000
 DTEND:20251123T173500
 SUMMARY:NET (w)
 LOCATION:309 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Mariusz Chmielewski
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251123T175000
 DTEND:20251123T192500
 SUMMARY:NET (w)
 LOCATION:309 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Mariusz Chmielewski
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251129T080000
@@ -722,28 +722,28 @@ DTSTART:20251206T133000
 DTEND:20251206T150500
 SUMMARY:Pjf (w)
 LOCATION:313 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: mgr inż. Piotr Bączyk
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Piotr Bączyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T160000
 DTEND:20251206T173500
 SUMMARY:Pjf (L)
 LOCATION:227 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr inż. Piotr Bączyk
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący:  Piotr Bączyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T175000
 DTEND:20251206T192500
 SUMMARY:Pjf (L)
 LOCATION:227 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr inż. Piotr Bączyk
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący:  Piotr Bączyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251207T080000
 DTEND:20251207T093500
 SUMMARY:Med (L)
 LOCATION:224 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251207T095000
@@ -834,7 +834,7 @@ DTSTART:20251214T114000
 DTEND:20251214T131500
 SUMMARY:Med (L)
 LOCATION:224 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251214T133000
@@ -862,14 +862,14 @@ DTSTART:20251220T080000
 DTEND:20251220T093500
 SUMMARY:BPiE (w)
 LOCATION:203 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T095000
 DTEND:20251220T112500
 SUMMARY:BPiE (w)
 LOCATION:203 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T114000
@@ -897,7 +897,7 @@ DTSTART:20251221T114000
 DTEND:20251221T131500
 SUMMARY:Med (L)
 LOCATION:224 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251221T133000
@@ -932,21 +932,21 @@ DTSTART:20260110T133000
 DTEND:20260110T150500
 SUMMARY:Pjf (L)
 LOCATION:227 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr inż. Piotr Bączyk
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący:  Piotr Bączyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260110T160000
 DTEND:20260110T173500
 SUMMARY:Pjf (L)
 LOCATION:227 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr inż. Piotr Bączyk
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący:  Piotr Bączyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260110T175000
 DTEND:20260110T192500
 SUMMARY:Med (L)
 LOCATION:252 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260111T080000
@@ -974,14 +974,14 @@ DTSTART:20260111T160000
 DTEND:20260111T173500
 SUMMARY:NET (w)
 LOCATION:309 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Mariusz Chmielewski
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260111T175000
 DTEND:20260111T192500
 SUMMARY:NET (w)
 LOCATION:309 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Mariusz Chmielewski
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T080000
@@ -1009,7 +1009,7 @@ DTSTART:20260117T133000
 DTEND:20260117T150500
 SUMMARY:Med (L)
 LOCATION:252 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T080000
@@ -1037,7 +1037,7 @@ DTSTART:20260118T160000
 DTEND:20260118T173500
 SUMMARY:NET (w)
 LOCATION:309 S
-DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Mariusz Chmielewski
+DESCRIPTION:Metody programowania .NET\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T080000
@@ -1065,7 +1065,7 @@ DTSTART:20260124T133000
 DTEND:20260124T150500
 SUMMARY:Pjf (L)
 LOCATION:227 S
-DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Piotr Bączyk
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący:  Piotr Bączyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T160000
@@ -1191,7 +1191,7 @@ DTSTART:20260214T095000
 DTEND:20260214T112500
 SUMMARY:Med (E)
 LOCATION:308 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260221T080000
@@ -1205,6 +1205,6 @@ DTSTART:20260221T095000
 DTEND:20260221T112500
 SUMMARY:Med (Inne)
 LOCATION:309 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 END:VCALENDAR

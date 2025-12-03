@@ -2342,13 +2342,6 @@ LOCATION:2.09/ 54A
 DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260107T133000
-DTEND:20260107T150500
-SUMMARY:PZiP (ć)
-LOCATION:5/ 23a
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260108T080000
 DTEND:20260108T093500
 SUMMARY:Wdi. (L)
@@ -2417,6 +2410,13 @@ DTEND:20260113T131500
 SUMMARY:Mat2 (ć)
 LOCATION:120/ 54
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/17\nProwadzący: dr Jerzy Ploch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260113T133000
+DTEND:20260113T150500
+SUMMARY:PZiP (ć)
+LOCATION:2/ 23a
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T080000

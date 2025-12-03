@@ -8,7 +8,7 @@ DTSTART:20250303T080000
 DTEND:20250303T093500
 SUMMARY:Bpe (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T095000
@@ -85,7 +85,7 @@ DTSTART:20250305T133000
 DTEND:20250305T150500
 SUMMARY:Wkr (w)
 LOCATION:316 S
-DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T095000
@@ -99,14 +99,14 @@ DTSTART:20250306T114000
 DTEND:20250306T131500
 SUMMARY:Bd (w)
 LOCATION:314 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący:  Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T133000
 DTEND:20250306T150500
 SUMMARY:Bd (w)
 LOCATION:314 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący:  Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T080000
@@ -190,7 +190,7 @@ DTSTART:20250310T160000
 DTEND:20250310T173500
 SUMMARY:Bpe (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T080000
@@ -211,7 +211,7 @@ DTSTART:20250311T114000
 DTEND:20250311T131500
 SUMMARY:MM (w)
 LOCATION:314 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T160000
@@ -239,14 +239,14 @@ DTSTART:20250313T114000
 DTEND:20250313T131500
 SUMMARY:Bd (w)
 LOCATION:314 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący:  Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T133000
 DTEND:20250313T150500
 SUMMARY:Bd (w)
 LOCATION:314 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący:  Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T080000
@@ -267,7 +267,7 @@ DTSTART:20250314T114000
 DTEND:20250314T131500
 SUMMARY:ppk (Inne)
 LOCATION:106 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T133000
@@ -337,7 +337,7 @@ DTSTART:20250318T114000
 DTEND:20250318T131500
 SUMMARY:MM (w)
 LOCATION:314 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T080000
@@ -365,7 +365,7 @@ DTSTART:20250319T133000
 DTEND:20250319T150500
 SUMMARY:Wkr (w)
 LOCATION:316 S
-DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T080000
@@ -498,21 +498,21 @@ DTSTART:20250325T114000
 DTEND:20250325T131500
 SUMMARY:MM (w)
 LOCATION:314 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T133000
 DTEND:20250325T150500
 SUMMARY:Bpe (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T095000
 DTEND:20250326T112500
 SUMMARY:MM (ć)
 LOCATION:308 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T114000
@@ -526,14 +526,14 @@ DTSTART:20250326T133000
 DTEND:20250326T150500
 SUMMARY:Wkr (w)
 LOCATION:316 S
-DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T080000
 DTEND:20250327T093500
 SUMMARY:SI (L)
 LOCATION:223 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący: mgr inż. Przemysław Czuba
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący:  Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T095000
@@ -631,21 +631,21 @@ DTSTART:20250401T114000
 DTEND:20250401T131500
 SUMMARY:MM (w)
 LOCATION:314 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T133000
 DTEND:20250401T150500
 SUMMARY:Bpe (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T080000
 DTEND:20250402T093500
 SUMMARY:SI (L)
 LOCATION:226 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący: mgr inż. Przemysław Czuba
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący:  Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T095000
@@ -666,7 +666,7 @@ DTSTART:20250402T133000
 DTEND:20250402T150500
 SUMMARY:Wkr (w)
 LOCATION:316 S
-DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T095000
@@ -764,7 +764,7 @@ DTSTART:20250407T133000
 DTEND:20250407T150500
 SUMMARY:MM (ć)
 LOCATION:316 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T160000
@@ -799,7 +799,7 @@ DTSTART:20250408T133000
 DTEND:20250408T150500
 SUMMARY:Bpe (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T114000
@@ -813,14 +813,14 @@ DTSTART:20250409T133000
 DTEND:20250409T150500
 SUMMARY:Wkr (w)
 LOCATION:316 S
-DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Piotr Bora
+DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Piotr Bora
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T080000
 DTEND:20250410T093500
 SUMMARY:SI (L)
 LOCATION:227 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: mgr inż. Przemysław Czuba
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący:  Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T095000
@@ -918,7 +918,7 @@ DTSTART:20250414T133000
 DTEND:20250414T150500
 SUMMARY:MM (ć)
 LOCATION:316 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T160000
@@ -953,7 +953,7 @@ DTSTART:20250415T114000
 DTEND:20250415T131500
 SUMMARY:MM (w)
 LOCATION:314 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T133000
@@ -1051,7 +1051,7 @@ DTSTART:20250424T080000
 DTEND:20250424T093500
 SUMMARY:SI (L)
 LOCATION:224 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący: mgr inż. Przemysław Czuba
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący:  Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T095000
@@ -1149,7 +1149,7 @@ DTSTART:20250429T114000
 DTEND:20250429T131500
 SUMMARY:MM (w)
 LOCATION:314 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T133000
@@ -1240,7 +1240,7 @@ DTSTART:20250505T133000
 DTEND:20250505T150500
 SUMMARY:MM (ć)
 LOCATION:313 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T160000
@@ -1275,7 +1275,7 @@ DTSTART:20250506T114000
 DTEND:20250506T131500
 SUMMARY:MM (w)
 LOCATION:317 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T080000
@@ -1317,7 +1317,7 @@ DTSTART:20250508T080000
 DTEND:20250508T093500
 SUMMARY:SI (L)
 LOCATION:227 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący: mgr inż. Przemysław Czuba
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący:  Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T095000
@@ -1450,7 +1450,7 @@ DTSTART:20250513T114000
 DTEND:20250513T131500
 SUMMARY:MM (ć)
 LOCATION:313 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T160000
@@ -1569,7 +1569,7 @@ DTSTART:20250519T133000
 DTEND:20250519T150500
 SUMMARY:MM (ć)
 LOCATION:313 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T160000
@@ -1590,7 +1590,7 @@ DTSTART:20250520T080000
 DTEND:20250520T093500
 SUMMARY:SI (L)
 LOCATION:223 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący: mgr inż. Przemysław Czuba
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący:  Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T095000
@@ -1709,7 +1709,7 @@ DTSTART:20250526T133000
 DTEND:20250526T150500
 SUMMARY:MM (ć)
 LOCATION:313 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T160000
@@ -1772,7 +1772,7 @@ DTSTART:20250529T080000
 DTEND:20250529T093500
 SUMMARY:SI (L)
 LOCATION:223 S
-DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący: mgr inż. Przemysław Czuba
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący:  Przemysław Czuba
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T095000
@@ -1926,7 +1926,7 @@ DTSTART:20250605T114000
 DTEND:20250605T131500
 SUMMARY:MM (ć)
 LOCATION:308 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T080000
@@ -2108,7 +2108,7 @@ DTSTART:20250616T114000
 DTEND:20250616T131500
 SUMMARY:MM (Inne)
 LOCATION:314 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 1/4\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 1/4\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T133000
@@ -2143,7 +2143,7 @@ DTSTART:20250618T175000
 DTEND:20250618T192500
 SUMMARY:Bpe (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T080000
@@ -2206,7 +2206,7 @@ DTSTART:20250703T095000
 DTEND:20250703T112500
 SUMMARY:Bd (E)
 LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T080000
@@ -2255,7 +2255,7 @@ DTSTART:20251001T160000
 DTEND:20251001T173500
 SUMMARY:MM (Inne)
 LOCATION:316 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 2/4\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 2/4\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T080000
@@ -2276,7 +2276,7 @@ DTSTART:20251002T114000
 DTEND:20251002T131500
 SUMMARY:Bd (Inne)
 LOCATION:314 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T133000
@@ -2290,7 +2290,7 @@ DTSTART:20251002T175000
 DTEND:20251002T192500
 SUMMARY:MM (Inne)
 LOCATION:314 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 3/4\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 3/4\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T080000
@@ -2353,14 +2353,14 @@ DTSTART:20251006T080000
 DTEND:20251006T093500
 SUMMARY:Sck (w)
 LOCATION:317 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/14\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/14\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T095000
 DTEND:20251006T112500
 SUMMARY:Sck (w)
 LOCATION:317 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/14\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/14\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T114000
@@ -2381,7 +2381,7 @@ DTSTART:20251007T095000
 DTEND:20251007T112500
 SUMMARY:IK (w)
 LOCATION:313 S
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T114000
@@ -2402,7 +2402,7 @@ DTSTART:20251009T133000
 DTEND:20251009T150500
 SUMMARY:IK (w)
 LOCATION:313 S
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T080000
@@ -2465,14 +2465,14 @@ DTSTART:20251013T080000
 DTEND:20251013T093500
 SUMMARY:Sck (w)
 LOCATION:317 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/14\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/14\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T095000
 DTEND:20251013T112500
 SUMMARY:Sck (w)
 LOCATION:317 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/14\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/14\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T114000
@@ -2500,7 +2500,7 @@ DTSTART:20251014T095000
 DTEND:20251014T112500
 SUMMARY:IK (w)
 LOCATION:313 S
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T114000
@@ -2521,7 +2521,7 @@ DTSTART:20251015T095000
 DTEND:20251015T112500
 SUMMARY:IO (w)
 LOCATION:317 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr inż. Grzegorz Bliźniuk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T114000
@@ -2542,7 +2542,7 @@ DTSTART:20251016T095000
 DTEND:20251016T112500
 SUMMARY:IK (w)
 LOCATION:313 S
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T114000
@@ -2598,14 +2598,14 @@ DTSTART:20251020T080000
 DTEND:20251020T093500
 SUMMARY:Sck (w)
 LOCATION:317 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/14\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/14\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T095000
 DTEND:20251020T112500
 SUMMARY:Sck (w)
 LOCATION:317 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/14\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/14\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T114000
@@ -2633,7 +2633,7 @@ DTSTART:20251021T095000
 DTEND:20251021T112500
 SUMMARY:IK (w)
 LOCATION:313 S
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T114000
@@ -2647,7 +2647,7 @@ DTSTART:20251022T095000
 DTEND:20251022T112500
 SUMMARY:IO (w)
 LOCATION:317 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Grzegorz Bliźniuk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T114000
@@ -2710,14 +2710,14 @@ DTSTART:20251027T080000
 DTEND:20251027T093500
 SUMMARY:Sck (w)
 LOCATION:317 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/14\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/14\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T095000
 DTEND:20251027T112500
 SUMMARY:Sck (w)
 LOCATION:317 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/14\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/14\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T114000
@@ -2773,7 +2773,7 @@ DTSTART:20251029T095000
 DTEND:20251029T112500
 SUMMARY:IO (w)
 LOCATION:317 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Grzegorz Bliźniuk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T114000
@@ -2794,7 +2794,7 @@ DTSTART:20251030T095000
 DTEND:20251030T112500
 SUMMARY:IK (w)
 LOCATION:313 S
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T114000
@@ -2850,7 +2850,7 @@ DTSTART:20251103T095000
 DTEND:20251103T112500
 SUMMARY:Sck (w)
 LOCATION:317 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 9/14\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 9/14\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T114000
@@ -2871,7 +2871,7 @@ DTSTART:20251103T175000
 DTEND:20251103T192500
 SUMMARY:Sck (w)
 LOCATION:317 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 10/14\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 10/14\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T080000
@@ -2906,7 +2906,7 @@ DTSTART:20251105T095000
 DTEND:20251105T112500
 SUMMARY:IO (w)
 LOCATION:317 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Grzegorz Bliźniuk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T114000
@@ -3032,7 +3032,7 @@ DTSTART:20251112T095000
 DTEND:20251112T112500
 SUMMARY:IO (w)
 LOCATION:317 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Grzegorz Bliźniuk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T114000
@@ -3172,7 +3172,7 @@ DTSTART:20251117T160000
 DTEND:20251117T173500
 SUMMARY:BPiE (Inne)
 LOCATION:09 65
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T080000
@@ -3186,7 +3186,7 @@ DTSTART:20251118T095000
 DTEND:20251118T112500
 SUMMARY:IK (w)
 LOCATION:313 S
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T114000
@@ -3207,7 +3207,7 @@ DTSTART:20251119T095000
 DTEND:20251119T112500
 SUMMARY:IO (w)
 LOCATION:317 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr inż. Grzegorz Bliźniuk
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T114000
@@ -3256,14 +3256,14 @@ DTSTART:20251120T160000
 DTEND:20251120T173500
 SUMMARY:MM (Inne)
 LOCATION:317 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 4/4\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 4/4\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T194000
 DTEND:20251120T211500
 SUMMARY:BD (Inne)
 LOCATION:314 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 6/3\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 6/3\nProwadzący:  Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T095000
@@ -3305,7 +3305,7 @@ DTSTART:20251121T194000
 DTEND:20251121T211500
 SUMMARY:MM (Inne)
 LOCATION:314 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 5/4\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 5/4\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T095000
@@ -3319,14 +3319,14 @@ DTSTART:20251124T080000
 DTEND:20251124T093500
 SUMMARY:Sck (w)
 LOCATION:317 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 11/14\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 11/14\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T095000
 DTEND:20251124T112500
 SUMMARY:Sck (w)
 LOCATION:317 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 12/14\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 12/14\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T114000
@@ -3452,14 +3452,14 @@ DTSTART:20251201T080000
 DTEND:20251201T093500
 SUMMARY:Sck (w)
 LOCATION:317 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 13/14\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 13/14\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T095000
 DTEND:20251201T112500
 SUMMARY:Sck (w)
 LOCATION:317 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 14/14\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 14/14\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T114000
@@ -3501,7 +3501,7 @@ DTSTART:20251202T095000
 DTEND:20251202T112500
 SUMMARY:IK (w)
 LOCATION:313 S
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T114000

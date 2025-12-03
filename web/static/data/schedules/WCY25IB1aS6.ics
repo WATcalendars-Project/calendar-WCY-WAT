@@ -239,14 +239,14 @@ DTSTART:20250327T080000
 DTEND:20250327T093500
 SUMMARY:Zbi (L)
 LOCATION:106 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T095000
 DTEND:20250327T112500
 SUMMARY:Zbi (L)
 LOCATION:106 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T080000
@@ -330,14 +330,14 @@ DTSTART:20250403T080000
 DTEND:20250403T093500
 SUMMARY:Zbi (L)
 LOCATION:106 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T095000
 DTEND:20250403T112500
 SUMMARY:Zbi (L)
 LOCATION:106 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T080000
@@ -400,7 +400,7 @@ DTSTART:20250409T080000
 DTEND:20250409T093500
 SUMMARY:Zbi (L)
 LOCATION:106 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T095000
@@ -435,6 +435,6 @@ DTSTART:20250411T095000
 DTEND:20250411T112500
 SUMMARY:Espr (E)
 LOCATION:203 65
-DESCRIPTION:Egzamin sprawdzający\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Egzamin sprawdzający\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 END:VCALENDAR

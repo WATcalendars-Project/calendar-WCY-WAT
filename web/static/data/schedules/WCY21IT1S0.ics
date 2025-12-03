@@ -1002,14 +1002,14 @@ DTSTART:20250414T114000
 DTEND:20250414T131500
 SUMMARY:Sss (w)
 LOCATION:203 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T133000
 DTEND:20250414T150500
 SUMMARY:Sss (w)
 LOCATION:203 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T080000
@@ -1177,14 +1177,14 @@ DTSTART:20250428T114000
 DTEND:20250428T131500
 SUMMARY:Sss (w)
 LOCATION:203 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T133000
 DTEND:20250428T150500
 SUMMARY:Sss (w)
 LOCATION:203 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T160000
@@ -1282,14 +1282,14 @@ DTSTART:20250505T114000
 DTEND:20250505T131500
 SUMMARY:Sss (w)
 LOCATION:203 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T133000
 DTEND:20250505T150500
 SUMMARY:Sss (w)
 LOCATION:203 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T080000
@@ -1597,7 +1597,7 @@ DTSTART:20250520T114000
 DTEND:20250520T131500
 SUMMARY:Sss (w)
 LOCATION:203 65
-DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Systemy sieci sensorycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T080000
@@ -2402,7 +2402,7 @@ DTSTART:20251007T114000
 DTEND:20251007T131500
 SUMMARY:Scrz (w)
 LOCATION:317 S
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T160000
@@ -2528,7 +2528,7 @@ DTSTART:20251014T114000
 DTEND:20251014T131500
 SUMMARY:Scrz (w)
 LOCATION:316 S
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T160000
@@ -2787,7 +2787,7 @@ DTSTART:20251028T080000
 DTEND:20251028T093500
 SUMMARY:Swp (P)
 LOCATION:120 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 1/7\nProwadzący: mgr Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 1/7\nProwadzący:  Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T095000
@@ -2808,7 +2808,7 @@ DTSTART:20251028T133000
 DTEND:20251028T150500
 SUMMARY:Scrz (w)
 LOCATION:307 S
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T160000
@@ -2976,7 +2976,7 @@ DTSTART:20251104T095000
 DTEND:20251104T112500
 SUMMARY:Scrz (w)
 LOCATION:309 S
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T114000
@@ -3200,7 +3200,7 @@ DTSTART:20251118T080000
 DTEND:20251118T093500
 SUMMARY:Swp (L)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący: mgr Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący:  Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T095000
@@ -3291,14 +3291,14 @@ DTSTART:20251120T160000
 DTEND:20251120T173500
 SUMMARY:Swp (P)
 LOCATION:125 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 2/7\nProwadzący: mgr Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 2/7\nProwadzący:  Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T175000
 DTEND:20251120T192500
 SUMMARY:Swp (P)
 LOCATION:125 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 3/7\nProwadzący: mgr Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 3/7\nProwadzący:  Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T080000
@@ -3417,7 +3417,7 @@ DTSTART:20251126T080000
 DTEND:20251126T093500
 SUMMARY:Sme. (ć)
 LOCATION:317 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T095000
@@ -3550,14 +3550,14 @@ DTSTART:20251202T114000
 DTEND:20251202T131500
 SUMMARY:Scrz (L)
 LOCATION:120 65
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/4\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/4\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T133000
 DTEND:20251202T150500
 SUMMARY:Scrz (L)
 LOCATION:120 65
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/4\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/4\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T160000
@@ -3571,7 +3571,7 @@ DTSTART:20251203T080000
 DTEND:20251203T093500
 SUMMARY:Sme. (ć)
 LOCATION:317 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T095000
@@ -3676,14 +3676,14 @@ DTSTART:20251209T080000
 DTEND:20251209T093500
 SUMMARY:Scrz (L)
 LOCATION:120 65
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/4\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/4\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T095000
 DTEND:20251209T112500
 SUMMARY:Scrz (L)
 LOCATION:120 65
-DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/4\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Systemy czasu rzeczywistego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/4\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T114000
@@ -3697,7 +3697,7 @@ DTSTART:20251209T133000
 DTEND:20251209T150500
 SUMMARY:Sme. (ć)
 LOCATION:316 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T160000
@@ -3732,14 +3732,14 @@ DTSTART:20251211T160000
 DTEND:20251211T173500
 SUMMARY:Swp (L)
 LOCATION:125 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący: mgr Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący:  Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T175000
 DTEND:20251211T192500
 SUMMARY:Swp (L)
 LOCATION:125 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: mgr Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący:  Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T080000
@@ -3747,6 +3747,20 @@ DTEND:20251212T093500
 SUMMARY:Ja (ć)
 LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 48/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251212T160000
+DTEND:20251212T173500
+SUMMARY:pzST (P)
+LOCATION:011 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 15/22\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251212T175000
+DTEND:20251212T192500
+SUMMARY:pzST (P)
+LOCATION:011 65
+DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 16/22\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T095000
@@ -3774,21 +3788,7 @@ DTSTART:20251215T133000
 DTEND:20251215T150500
 SUMMARY:Sme. (ć)
 LOCATION:313 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: mgr inż. Michał Kapałka
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251215T160000
-DTEND:20251215T173500
-SUMMARY:pzST (P)
-LOCATION:120 65
-DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 15/22\nProwadzący: dr inż. Andrzej Stasiak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251215T175000
-DTEND:20251215T192500
-SUMMARY:pzST (P)
-LOCATION:120 65
-DESCRIPTION:Projekt zespołowy ST\nRodzaj zajęć: Projekt\nNr zajęć: 16/22\nProwadzący: dr inż. Andrzej Stasiak
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T080000
@@ -3907,7 +3907,7 @@ DTSTART:20260107T080000
 DTEND:20260107T093500
 SUMMARY:Sme. (ć)
 LOCATION:316 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T095000
@@ -3970,14 +3970,14 @@ DTSTART:20260108T160000
 DTEND:20260108T173500
 SUMMARY:Swp (P)
 LOCATION:125 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 4/7\nProwadzący: mgr Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 4/7\nProwadzący:  Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T175000
 DTEND:20260108T192500
 SUMMARY:Swp (P)
 LOCATION:125 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 5/7\nProwadzący: mgr Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 5/7\nProwadzący:  Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T080000
@@ -4054,14 +4054,14 @@ DTSTART:20260113T114000
 DTEND:20260113T131500
 SUMMARY:Swp (L)
 LOCATION:106 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący: mgr Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący:  Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T133000
 DTEND:20260113T150500
 SUMMARY:Swp (L)
 LOCATION:106 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący: mgr Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący:  Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T160000
@@ -4222,21 +4222,21 @@ DTSTART:20260120T095000
 DTEND:20260120T112500
 SUMMARY:Sme. (ć)
 LOCATION:308 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T114000
 DTEND:20260120T131500
 SUMMARY:Swp (P)
 LOCATION:106 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 6/7\nProwadzący: mgr Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 6/7\nProwadzący:  Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T133000
 DTEND:20260120T150500
 SUMMARY:Swp (P)
 LOCATION:106 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 7/7\nProwadzący: mgr Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 7/7\nProwadzący:  Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T160000
@@ -4348,14 +4348,14 @@ DTSTART:20260126T133000
 DTEND:20260126T150500
 SUMMARY:Swp (L)
 LOCATION:106 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący: mgr Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący:  Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T160000
 DTEND:20260126T173500
 SUMMARY:Swp (L)
 LOCATION:106 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący: mgr Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący:  Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T080000
@@ -4376,7 +4376,7 @@ DTSTART:20260127T133000
 DTEND:20260127T150500
 SUMMARY:Sme. (ć)
 LOCATION:314 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T160000

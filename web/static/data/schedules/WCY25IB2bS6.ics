@@ -260,14 +260,14 @@ DTSTART:20251028T114000
 DTEND:20251028T131500
 SUMMARY:Zbi (L)
 LOCATION:011 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T133000
 DTEND:20251028T150500
 SUMMARY:Zbi (L)
 LOCATION:011 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T080000
@@ -372,14 +372,14 @@ DTSTART:20251104T114000
 DTEND:20251104T131500
 SUMMARY:Zbi (L)
 LOCATION:011 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T133000
 DTEND:20251104T150500
 SUMMARY:Zbi (L)
 LOCATION:011 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T080000
@@ -414,7 +414,7 @@ DTSTART:20251106T095000
 DTEND:20251106T112500
 SUMMARY:Zbi (L)
 LOCATION:011 65
-DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T114000
@@ -435,6 +435,6 @@ DTSTART:20251107T095000
 DTEND:20251107T112500
 SUMMARY:Espr (E)
 LOCATION:203 65
-DESCRIPTION:Egzamin sprawdzający\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Egzamin sprawdzający\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Leszek Grad
 END:VEVENT
 END:VCALENDAR

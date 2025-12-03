@@ -22,14 +22,14 @@ DTSTART:20251009T080000
 DTEND:20251009T093500
 SUMMARY:Temo (w)
 LOCATION:101 65
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T080000
 DTEND:20251010T093500
 SUMMARY:BsIP (w)
 LOCATION:308 S
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T095000
@@ -43,7 +43,7 @@ DTSTART:20251016T080000
 DTEND:20251016T093500
 SUMMARY:Temo (w)
 LOCATION:101 65
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T095000
@@ -57,7 +57,7 @@ DTSTART:20251017T080000
 DTEND:20251017T093500
 SUMMARY:BsIP (w)
 LOCATION:308 S
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T080000
@@ -92,7 +92,7 @@ DTSTART:20251023T080000
 DTEND:20251023T093500
 SUMMARY:Temo (w)
 LOCATION:101 65
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T095000
@@ -106,7 +106,7 @@ DTSTART:20251024T080000
 DTEND:20251024T093500
 SUMMARY:BsIP (w)
 LOCATION:308 S
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T095000
@@ -197,7 +197,7 @@ DTSTART:20251030T080000
 DTEND:20251030T093500
 SUMMARY:Temo (w)
 LOCATION:101 65
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T095000
@@ -211,7 +211,7 @@ DTSTART:20251031T080000
 DTEND:20251031T093500
 SUMMARY:BsIP (w)
 LOCATION:308 S
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T095000
@@ -274,7 +274,7 @@ DTSTART:20251106T080000
 DTEND:20251106T093500
 SUMMARY:Temo (w)
 LOCATION:101 65
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T095000
@@ -302,7 +302,7 @@ DTSTART:20251107T080000
 DTEND:20251107T093500
 SUMMARY:BsIP (w)
 LOCATION:308 S
-DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Janusz Furtak
+DESCRIPTION:Bezpieczeństwo sieci IPv6\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T095000
@@ -358,7 +358,7 @@ DTSTART:20251113T080000
 DTEND:20251113T093500
 SUMMARY:Temo (w)
 LOCATION:101 65
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T133000
@@ -456,7 +456,7 @@ DTSTART:20251120T080000
 DTEND:20251120T093500
 SUMMARY:Temo (w)
 LOCATION:101 65
-DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Technologie mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T095000

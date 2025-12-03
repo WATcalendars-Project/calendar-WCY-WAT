@@ -2349,13 +2349,6 @@ LOCATION:237 K 235 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260109T080000
-DTEND:20260109T093500
-SUMMARY:PZiP (ć)
-LOCATION:6/ 23a
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260112T080000
 DTEND:20260112T093500
 SUMMARY:WF (ć)
@@ -2409,7 +2402,7 @@ DTSTART:20260114T095000
 DTEND:20260114T112500
 SUMMARY:PZiP (ć)
 LOCATION:3/ 23a
-DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: -
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T114000
@@ -2494,6 +2487,13 @@ DTEND:20260120T131500
 SUMMARY:Mat2 (ć)
 LOCATION:8/ 62
 DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/17\nProwadzący: mgr Robert Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260120T133000
+DTEND:20260120T150500
+SUMMARY:PZiP (ć)
+LOCATION:6/ 23a
+DESCRIPTION:Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T080000
