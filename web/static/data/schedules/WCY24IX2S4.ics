@@ -8,14 +8,14 @@ DTSTART:20250303T114000
 DTEND:20250303T131500
 SUMMARY:Ing (Inne)
 LOCATION:314 S
-DESCRIPTION:Inauguracja\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Janusz Furtak
+DESCRIPTION:Inauguracja\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T114000
 DTEND:20250303T131500
 SUMMARY:Ing (Inne)
 LOCATION:314 S
-DESCRIPTION:Inauguracja\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Marek Kojdecki
+DESCRIPTION:Inauguracja\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T114000
@@ -78,7 +78,7 @@ DTSTART:20250306T133000
 DTEND:20250306T150500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/15\nProwadzący: -
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T080000
@@ -169,7 +169,7 @@ DTSTART:20250313T133000
 DTEND:20250313T150500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/15\nProwadzący: -
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T095000
@@ -225,7 +225,7 @@ DTSTART:20250320T133000
 DTEND:20250320T150500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/15\nProwadzący: -
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T080000
@@ -288,7 +288,7 @@ DTSTART:20250327T133000
 DTEND:20250327T150500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/15\nProwadzący: -
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T080000
@@ -372,7 +372,7 @@ DTSTART:20250403T133000
 DTEND:20250403T150500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/15\nProwadzący: -
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T114000
@@ -400,14 +400,14 @@ DTSTART:20250407T114000
 DTEND:20250407T131500
 SUMMARY:Swp (L)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T133000
 DTEND:20250407T150500
 SUMMARY:Swp (L)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T095000
@@ -442,7 +442,7 @@ DTSTART:20250409T114000
 DTEND:20250409T131500
 SUMMARY:Sme. (ć)
 LOCATION:224 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący:  Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T133000
@@ -470,14 +470,14 @@ DTSTART:20250410T133000
 DTEND:20250410T150500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/15\nProwadzący: -
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T175000
 DTEND:20250411T192500
 SUMMARY:Ja (ć)
 LOCATION:241 K 126 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/15\nProwadzący: -
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T114000
@@ -512,7 +512,7 @@ DTSTART:20250417T133000
 DTEND:20250417T150500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/15\nProwadzący: -
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T080000
@@ -533,7 +533,7 @@ DTSTART:20250423T114000
 DTEND:20250423T131500
 SUMMARY:Sme. (ć)
 LOCATION:224 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący:  Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T133000
@@ -554,21 +554,21 @@ DTSTART:20250424T095000
 DTEND:20250424T112500
 SUMMARY:Swp (L)
 LOCATION:106 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T114000
 DTEND:20250424T131500
 SUMMARY:Swp (L)
 LOCATION:106 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T133000
 DTEND:20250424T150500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/15\nProwadzący: -
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T095000
@@ -589,7 +589,7 @@ DTSTART:20250430T095000
 DTEND:20250430T112500
 SUMMARY:Sme. (ć)
 LOCATION:224 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący:  Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T114000
@@ -638,7 +638,7 @@ DTSTART:20250507T114000
 DTEND:20250507T131500
 SUMMARY:Sme. (ć)
 LOCATION:224 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący:  Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T133000
@@ -673,7 +673,7 @@ DTSTART:20250508T133000
 DTEND:20250508T150500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/15\nProwadzący: -
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T095000
@@ -722,7 +722,7 @@ DTSTART:20250514T080000
 DTEND:20250514T093500
 SUMMARY:Msk. (L)
 LOCATION:224 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący:  Tomasz Gutowski
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T095000
@@ -736,7 +736,7 @@ DTSTART:20250514T114000
 DTEND:20250514T131500
 SUMMARY:Sme. (ć)
 LOCATION:224 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący:  Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T095000
@@ -757,7 +757,7 @@ DTSTART:20250515T133000
 DTEND:20250515T150500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/15\nProwadzący: -
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T114000
@@ -799,7 +799,7 @@ DTSTART:20250521T114000
 DTEND:20250521T131500
 SUMMARY:Msk. (L)
 LOCATION:224 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący:  Tomasz Gutowski
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T080000
@@ -827,7 +827,7 @@ DTSTART:20250522T133000
 DTEND:20250522T150500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T080000
@@ -876,7 +876,7 @@ DTSTART:20250526T095000
 DTEND:20250526T112500
 SUMMARY:Msk. (L)
 LOCATION:228 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący:  Tomasz Gutowski
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T114000
@@ -890,35 +890,35 @@ DTSTART:20250526T133000
 DTEND:20250526T150500
 SUMMARY:Swp (L)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T160000
 DTEND:20250526T173500
 SUMMARY:Swp (L)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T080000
 DTEND:20250528T093500
 SUMMARY:Swp (P)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 1/5\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 1/5\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T095000
 DTEND:20250528T112500
 SUMMARY:Swp (P)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 2/5\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 2/5\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T114000
 DTEND:20250528T131500
 SUMMARY:Msk. (L)
 LOCATION:224 S
-DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący:  Tomasz Gutowski
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T133000
@@ -932,7 +932,7 @@ DTSTART:20250529T133000
 DTEND:20250529T150500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T095000
@@ -967,7 +967,7 @@ DTSTART:20250604T095000
 DTEND:20250604T112500
 SUMMARY:Sme. (ć)
 LOCATION:224 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący:  Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T114000
@@ -981,21 +981,21 @@ DTSTART:20250605T133000
 DTEND:20250605T150500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/15\nProwadzący: -
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T160000
 DTEND:20250605T173500
 SUMMARY:Swp (L)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T175000
 DTEND:20250605T192500
 SUMMARY:Swp (L)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T080000
@@ -1065,7 +1065,7 @@ DTSTART:20250611T095000
 DTEND:20250611T112500
 SUMMARY:Sme. (ć)
 LOCATION:224 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący:  Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T114000
@@ -1079,7 +1079,7 @@ DTSTART:20250612T133000
 DTEND:20250612T150500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/15\nProwadzący: -
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T080000
@@ -1093,14 +1093,14 @@ DTSTART:20250613T095000
 DTEND:20250613T112500
 SUMMARY:Swp (P)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 3/5\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 3/5\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T114000
 DTEND:20250613T131500
 SUMMARY:Swp (P)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 4/5\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 4/5\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T080000
@@ -1121,7 +1121,7 @@ DTSTART:20250616T114000
 DTEND:20250616T131500
 SUMMARY:Swp (P)
 LOCATION:011 65
-DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 5/5\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Projekt\nNr zajęć: 5/5\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T114000
@@ -1185,5 +1185,110 @@ DTEND:20251001T173500
 SUMMARY:SBD (Inne)
 LOCATION:314 S
 DESCRIPTION:Systemy baz danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Jarosław Koszela
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260305T095000
+DTEND:20260305T112500
+SUMMARY:Ja (ć)
+LOCATION:241 K 132 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260312T095000
+DTEND:20260312T112500
+SUMMARY:Ja (ć)
+LOCATION:241 K 132 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T095000
+DTEND:20260319T112500
+SUMMARY:Ja (ć)
+LOCATION:241 K 132 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T095000
+DTEND:20260326T112500
+SUMMARY:Ja (ć)
+LOCATION:241 K 132 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T095000
+DTEND:20260402T112500
+SUMMARY:Ja (ć)
+LOCATION:241 K 132 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T095000
+DTEND:20260409T112500
+SUMMARY:Ja (ć)
+LOCATION:241 K 132 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T095000
+DTEND:20260416T112500
+SUMMARY:Ja (ć)
+LOCATION:241 K 132 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T095000
+DTEND:20260423T112500
+SUMMARY:Ja (ć)
+LOCATION:241 K 132 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T095000
+DTEND:20260430T112500
+SUMMARY:Ja (ć)
+LOCATION:241 K 132 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 24/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260507T095000
+DTEND:20260507T112500
+SUMMARY:Ja (ć)
+LOCATION:241 K 132 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260514T095000
+DTEND:20260514T112500
+SUMMARY:Ja (ć)
+LOCATION:241 K 132 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 26/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T095000
+DTEND:20260521T112500
+SUMMARY:Ja (ć)
+LOCATION:241 K 132 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 27/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T095000
+DTEND:20260528T112500
+SUMMARY:Ja (ć)
+LOCATION:241 K 132 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260611T095000
+DTEND:20260611T112500
+SUMMARY:Ja (ć)
+LOCATION:241 K 132 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 29/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T095000
+DTEND:20260618T112500
+SUMMARY:Ja (ć)
+LOCATION:241 K 132 K
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 30/30\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

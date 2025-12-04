@@ -78,14 +78,14 @@ DTSTART:20250305T114000
 DTEND:20250305T131500
 SUMMARY:SoU (w)
 LOCATION:203 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T133000
 DTEND:20250305T150500
 SUMMARY:SoU (w)
 LOCATION:203 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T080000
@@ -169,7 +169,7 @@ DTSTART:20250310T160000
 DTEND:20250310T173500
 SUMMARY:JEt (w)
 LOCATION:316 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T080000
@@ -232,14 +232,14 @@ DTSTART:20250313T095000
 DTEND:20250313T112500
 SUMMARY:SoU (w)
 LOCATION:307 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T114000
 DTEND:20250313T131500
 SUMMARY:SoU (w)
 LOCATION:307 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T133000
@@ -309,7 +309,7 @@ DTSTART:20250317T160000
 DTEND:20250317T173500
 SUMMARY:JEt (w)
 LOCATION:316 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T080000
@@ -407,7 +407,7 @@ DTSTART:20250321T095000
 DTEND:20250321T112500
 SUMMARY:Sib (w)
 LOCATION:101 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T114000
@@ -463,7 +463,7 @@ DTSTART:20250324T160000
 DTEND:20250324T173500
 SUMMARY:JEt (w)
 LOCATION:316 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T080000
@@ -505,7 +505,7 @@ DTSTART:20250326T080000
 DTEND:20250326T093500
 SUMMARY:Sib (w)
 LOCATION:101 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T114000
@@ -533,14 +533,14 @@ DTSTART:20250327T095000
 DTEND:20250327T112500
 SUMMARY:SoU (w)
 LOCATION:307 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T114000
 DTEND:20250327T131500
 SUMMARY:SoU (w)
 LOCATION:307 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T133000
@@ -554,14 +554,14 @@ DTSTART:20250327T160000
 DTEND:20250327T173500
 SUMMARY:Sib (L)
 LOCATION:125 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T175000
 DTEND:20250327T192500
 SUMMARY:Sib (L)
 LOCATION:125 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T095000
@@ -575,14 +575,14 @@ DTSTART:20250328T114000
 DTEND:20250328T131500
 SUMMARY:Pap (w)
 LOCATION:203 65
-DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T133000
 DTEND:20250328T150500
 SUMMARY:Pap (w)
 LOCATION:203 65
-DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250329T080000
@@ -624,7 +624,7 @@ DTSTART:20250331T160000
 DTEND:20250331T173500
 SUMMARY:JEt (w)
 LOCATION:316 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T080000
@@ -701,14 +701,14 @@ DTSTART:20250402T160000
 DTEND:20250402T173500
 SUMMARY:JEt (L)
 LOCATION:125 65
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T175000
 DTEND:20250402T192500
 SUMMARY:JEt (L)
 LOCATION:125 65
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T080000
@@ -722,14 +722,14 @@ DTSTART:20250403T095000
 DTEND:20250403T112500
 SUMMARY:SoU (w)
 LOCATION:307 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T114000
 DTEND:20250403T131500
 SUMMARY:SoU (w)
 LOCATION:307 S
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T133000
@@ -785,7 +785,7 @@ DTSTART:20250404T160000
 DTEND:20250404T173500
 SUMMARY:Sib (w)
 LOCATION:101 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250405T080000
@@ -827,7 +827,7 @@ DTSTART:20250407T160000
 DTEND:20250407T173500
 SUMMARY:JEt (w)
 LOCATION:316 S
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T175000
@@ -890,7 +890,7 @@ DTSTART:20250409T114000
 DTEND:20250409T131500
 SUMMARY:Pap (w)
 LOCATION:203 65
-DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T133000
@@ -918,7 +918,7 @@ DTSTART:20250410T095000
 DTEND:20250410T112500
 SUMMARY:BwCP (ć)
 LOCATION:204 65
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący:  Leszek Kalman
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T114000
@@ -939,14 +939,14 @@ DTSTART:20250410T160000
 DTEND:20250410T173500
 SUMMARY:Pap (L)
 LOCATION:011 65
-DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T175000
 DTEND:20250410T192500
 SUMMARY:Pap (L)
 LOCATION:011 65
-DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T095000
@@ -974,7 +974,7 @@ DTSTART:20250411T160000
 DTEND:20250411T173500
 SUMMARY:Sib (w)
 LOCATION:101 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250412T080000
@@ -1016,14 +1016,14 @@ DTSTART:20250414T160000
 DTEND:20250414T173500
 SUMMARY:JEt (L)
 LOCATION:121 65
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T175000
 DTEND:20250414T192500
 SUMMARY:JEt (L)
 LOCATION:121 65
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T080000
@@ -1093,7 +1093,7 @@ DTSTART:20250417T114000
 DTEND:20250417T131500
 SUMMARY:BwCP (ć)
 LOCATION:204 65
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący:  Leszek Kalman
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T133000
@@ -1107,7 +1107,7 @@ DTSTART:20250423T080000
 DTEND:20250423T093500
 SUMMARY:Sib (w)
 LOCATION:101 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T095000
@@ -1121,28 +1121,28 @@ DTSTART:20250423T114000
 DTEND:20250423T131500
 SUMMARY:Pap (w)
 LOCATION:308 S
-DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T133000
 DTEND:20250423T150500
 SUMMARY:Pap (w)
 LOCATION:308 S
-DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T160000
 DTEND:20250423T173500
 SUMMARY:JEt (L)
 LOCATION:106 65
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T175000
 DTEND:20250423T192500
 SUMMARY:JEt (L)
 LOCATION:106 65
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T080000
@@ -1226,14 +1226,14 @@ DTSTART:20250428T160000
 DTEND:20250428T173500
 SUMMARY:JEt (L)
 LOCATION:106 65
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T175000
 DTEND:20250428T192500
 SUMMARY:JEt (L)
 LOCATION:106 65
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T080000
@@ -1303,14 +1303,14 @@ DTSTART:20250430T160000
 DTEND:20250430T173500
 SUMMARY:Sib (L)
 LOCATION:125 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T175000
 DTEND:20250430T192500
 SUMMARY:Sib (L)
 LOCATION:125 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T080000
@@ -1345,14 +1345,14 @@ DTSTART:20250505T160000
 DTEND:20250505T173500
 SUMMARY:kck (L)
 LOCATION:120 65
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T175000
 DTEND:20250505T192500
 SUMMARY:kck (L)
 LOCATION:120 65
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T095000
@@ -1422,14 +1422,14 @@ DTSTART:20250507T160000
 DTEND:20250507T173500
 SUMMARY:Pap (w)
 LOCATION:203 65
-DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T175000
 DTEND:20250507T192500
 SUMMARY:Pap (w)
 LOCATION:203 65
-DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T080000
@@ -1562,14 +1562,14 @@ DTSTART:20250513T160000
 DTEND:20250513T173500
 SUMMARY:JEt (L)
 LOCATION:120 65
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T175000
 DTEND:20250513T192500
 SUMMARY:JEt (L)
 LOCATION:120 65
-DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Piotr Cybulski
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T194000
@@ -1604,7 +1604,7 @@ DTSTART:20250515T095000
 DTEND:20250515T112500
 SUMMARY:Sib (w)
 LOCATION:201 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T114000
@@ -1625,14 +1625,14 @@ DTSTART:20250515T160000
 DTEND:20250515T173500
 SUMMARY:Sib (L)
 LOCATION:125 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T175000
 DTEND:20250515T192500
 SUMMARY:Sib (L)
 LOCATION:125 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T080000
@@ -1695,14 +1695,14 @@ DTSTART:20250519T160000
 DTEND:20250519T173500
 SUMMARY:kck (L)
 LOCATION:120 65
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T175000
 DTEND:20250519T192500
 SUMMARY:kck (L)
 LOCATION:120 65
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T080000
@@ -1807,14 +1807,14 @@ DTSTART:20250522T160000
 DTEND:20250522T173500
 SUMMARY:Pap (L)
 LOCATION:011 65
-DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T175000
 DTEND:20250522T192500
 SUMMARY:Pap (L)
 LOCATION:011 65
-DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T080000
@@ -1968,28 +1968,28 @@ DTSTART:20250530T114000
 DTEND:20250530T131500
 SUMMARY:Pap (L)
 LOCATION:011 65
-DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T133000
 DTEND:20250530T150500
 SUMMARY:Pap (L)
 LOCATION:011 65
-DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T160000
 DTEND:20250530T173500
 SUMMARY:Sib (L)
 LOCATION:120 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T175000
 DTEND:20250530T192500
 SUMMARY:Sib (L)
 LOCATION:120 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250531T080000
@@ -2031,14 +2031,14 @@ DTSTART:20250602T160000
 DTEND:20250602T173500
 SUMMARY:kck (L)
 LOCATION:011 65
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T175000
 DTEND:20250602T192500
 SUMMARY:kck (L)
 LOCATION:011 65
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T080000
@@ -2227,14 +2227,14 @@ DTSTART:20250611T095000
 DTEND:20250611T112500
 SUMMARY:Pap (L)
 LOCATION:011 65
-DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T114000
 DTEND:20250611T131500
 SUMMARY:Pap (L)
 LOCATION:011 65
-DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T133000
@@ -2255,7 +2255,7 @@ DTSTART:20250612T114000
 DTEND:20250612T131500
 SUMMARY:Sib (w)
 LOCATION:201 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T133000
@@ -2325,14 +2325,14 @@ DTSTART:20250616T160000
 DTEND:20250616T173500
 SUMMARY:kck (L)
 LOCATION:106 65
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T175000
 DTEND:20250616T192500
 SUMMARY:kck (L)
 LOCATION:106 65
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Jerzy Dorobisz
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr Jerzy Dorobisz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T080000
@@ -2430,7 +2430,7 @@ DTSTART:20250703T114000
 DTEND:20250703T131500
 SUMMARY:SoU (E)
 LOCATION:120 65 121 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T080000
@@ -2472,7 +2472,7 @@ DTSTART:20251002T095000
 DTEND:20251002T112500
 SUMMARY:Pap (Inne)
 LOCATION:011 65
-DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy aplikacji internetowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T095000
@@ -2493,7 +2493,7 @@ DTSTART:20251003T133000
 DTEND:20251003T150500
 SUMMARY:SoU (Inne)
 LOCATION:120 65 121 65
-DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Janusz Furtak
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T080000
@@ -2535,14 +2535,14 @@ DTSTART:20251007T095000
 DTEND:20251007T112500
 SUMMARY:MAST (w)
 LOCATION:316 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/12\nProwadzący:  Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/12\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T114000
 DTEND:20251007T131500
 SUMMARY:MAST (w)
 LOCATION:316 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/12\nProwadzący:  Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/12\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T175000
@@ -2570,7 +2570,7 @@ DTSTART:20251010T080000
 DTEND:20251010T093500
 SUMMARY:Sib (w)
 LOCATION:011 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T114000
@@ -2843,14 +2843,14 @@ DTSTART:20251027T095000
 DTEND:20251027T112500
 SUMMARY:MAST (w)
 LOCATION:316 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/12\nProwadzący:  Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/12\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T114000
 DTEND:20251027T131500
 SUMMARY:MAST (w)
 LOCATION:316 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/12\nProwadzący:  Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/12\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T080000
@@ -3242,14 +3242,14 @@ DTSTART:20251117T095000
 DTEND:20251117T112500
 SUMMARY:MAST (w)
 LOCATION:316 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/12\nProwadzący:  Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/12\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T114000
 DTEND:20251117T131500
 SUMMARY:MAST (w)
 LOCATION:316 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/12\nProwadzący:  Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/12\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T080000
@@ -3522,14 +3522,14 @@ DTSTART:20251201T095000
 DTEND:20251201T112500
 SUMMARY:MAST (w)
 LOCATION:313 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/12\nProwadzący:  Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/12\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T114000
 DTEND:20251201T131500
 SUMMARY:MAST (w)
 LOCATION:313 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 8/12\nProwadzący:  Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 8/12\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T133000
@@ -3823,14 +3823,14 @@ DTSTART:20251215T095000
 DTEND:20251215T112500
 SUMMARY:MAST (w)
 LOCATION:313 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 9/12\nProwadzący:  Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 9/12\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T114000
 DTEND:20251215T131500
 SUMMARY:MAST (w)
 LOCATION:313 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 10/12\nProwadzący:  Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 10/12\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T133000
@@ -4089,14 +4089,14 @@ DTSTART:20260113T095000
 DTEND:20260113T112500
 SUMMARY:MAST (w)
 LOCATION:317 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 11/12\nProwadzący:  Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 11/12\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T114000
 DTEND:20260113T131500
 SUMMARY:MAST (w)
 LOCATION:317 S
-DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 12/12\nProwadzący:  Piotr Cybulski
+DESCRIPTION:Modelowanie i analiza systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 12/12\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T080000

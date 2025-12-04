@@ -141,14 +141,14 @@ DTSTART:20250309T080000
 DTEND:20250309T093500
 SUMMARY:ppk (w)
 LOCATION:307 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250309T095000
 DTEND:20250309T112500
 SUMMARY:ppk (w)
 LOCATION:307 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250309T114000
@@ -309,7 +309,7 @@ DTSTART:20250322T194000
 DTEND:20250322T211500
 SUMMARY:Tgs (ć)
 LOCATION:308 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący:  Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250323T080000
@@ -393,21 +393,21 @@ DTSTART:20250330T080000
 DTEND:20250330T093500
 SUMMARY:ppk (w)
 LOCATION:307 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250330T095000
 DTEND:20250330T112500
 SUMMARY:ppk (w)
 LOCATION:307 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250330T114000
 DTEND:20250330T131500
 SUMMARY:Amt (ć)
 LOCATION:204 65
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący:  Robert Drozdowski
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: dr Robert Drozdowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250330T133000
@@ -421,7 +421,7 @@ DTSTART:20250330T194000
 DTEND:20250330T211500
 SUMMARY:WdP (L)
 LOCATION:226 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący:  Grzegorz Kiryk
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250405T095000
@@ -470,7 +470,7 @@ DTSTART:20250406T080000
 DTEND:20250406T093500
 SUMMARY:ppk (w)
 LOCATION:307 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250406T095000
@@ -491,7 +491,7 @@ DTSTART:20250406T160000
 DTEND:20250406T173500
 SUMMARY:WdP (L)
 LOCATION:226 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący:  Grzegorz Kiryk
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250412T095000
@@ -533,7 +533,7 @@ DTSTART:20250413T080000
 DTEND:20250413T093500
 SUMMARY:ppk (L)
 LOCATION:106 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250413T095000
@@ -554,7 +554,7 @@ DTSTART:20250413T133000
 DTEND:20250413T150500
 SUMMARY:Amt (ć)
 LOCATION:204 65
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący:  Robert Drozdowski
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: dr Robert Drozdowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250413T160000
@@ -568,14 +568,14 @@ DTSTART:20250413T175000
 DTEND:20250413T192500
 SUMMARY:Tgs (ć)
 LOCATION:317 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący:  Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250413T194000
 DTEND:20250413T211500
 SUMMARY:Tgs (ć)
 LOCATION:317 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący:  Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250426T080000
@@ -645,7 +645,7 @@ DTSTART:20250427T133000
 DTEND:20250427T150500
 SUMMARY:Tgs (ć)
 LOCATION:309 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący:  Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250427T160000
@@ -659,14 +659,14 @@ DTSTART:20250427T175000
 DTEND:20250427T192500
 SUMMARY:PTk (L)
 LOCATION:09 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Marcin Goluch
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250427T194000
 DTEND:20250427T211500
 SUMMARY:PTk (L)
 LOCATION:09 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Marcin Goluch
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250510T080000
@@ -736,7 +736,7 @@ DTSTART:20250511T133000
 DTEND:20250511T150500
 SUMMARY:WdP (L)
 LOCATION:226 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący:  Grzegorz Kiryk
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250511T160000
@@ -820,14 +820,14 @@ DTSTART:20250518T175000
 DTEND:20250518T192500
 SUMMARY:WdP (L)
 LOCATION:226 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący:  Grzegorz Kiryk
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250518T194000
 DTEND:20250518T211500
 SUMMARY:WdP (L)
 LOCATION:226 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący:  Grzegorz Kiryk
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T080000
@@ -869,28 +869,28 @@ DTSTART:20250524T175000
 DTEND:20250524T192500
 SUMMARY:PTk (L)
 LOCATION:106 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Marcin Goluch
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T194000
 DTEND:20250524T211500
 SUMMARY:PTk (L)
 LOCATION:106 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Marcin Goluch
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250525T080000
 DTEND:20250525T093500
 SUMMARY:ppk (L)
 LOCATION:106 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250525T095000
 DTEND:20250525T112500
 SUMMARY:ppk (L)
 LOCATION:106 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250525T114000
@@ -911,7 +911,7 @@ DTSTART:20250525T160000
 DTEND:20250525T173500
 SUMMARY:Tgs (ć)
 LOCATION:309 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący:  Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250531T080000
@@ -1065,28 +1065,28 @@ DTSTART:20250608T080000
 DTEND:20250608T093500
 SUMMARY:ppk (L)
 LOCATION:106 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250608T095000
 DTEND:20250608T112500
 SUMMARY:ppk (L)
 LOCATION:106 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250608T160000
 DTEND:20250608T173500
 SUMMARY:Amt (ć)
 LOCATION:204 65
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący:  Robert Drozdowski
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: dr Robert Drozdowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250608T175000
 DTEND:20250608T192500
 SUMMARY:Amt (ć)
 LOCATION:204 65
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący:  Robert Drozdowski
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: dr Robert Drozdowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T080000
@@ -1128,28 +1128,28 @@ DTSTART:20250614T175000
 DTEND:20250614T192500
 SUMMARY:PTk (L)
 LOCATION:106 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Marcin Goluch
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250614T194000
 DTEND:20250614T211500
 SUMMARY:PTk (L)
 LOCATION:106 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Marcin Goluch
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250615T080000
 DTEND:20250615T093500
 SUMMARY:Amt (ć)
 LOCATION:204 65
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/6\nProwadzący:  Robert Drozdowski
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/6\nProwadzący: dr Robert Drozdowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250615T095000
 DTEND:20250615T112500
 SUMMARY:Amt (ć)
 LOCATION:204 65
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/6\nProwadzący:  Robert Drozdowski
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/6\nProwadzący: dr Robert Drozdowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250615T114000
@@ -1163,28 +1163,28 @@ DTSTART:20250615T133000
 DTEND:20250615T150500
 SUMMARY:PTk (L)
 LOCATION:106 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Marcin Goluch
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250615T160000
 DTEND:20250615T173500
 SUMMARY:PTk (L)
 LOCATION:106 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Marcin Goluch
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250615T175000
 DTEND:20250615T192500
 SUMMARY:WdP (L)
 LOCATION:226 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący:  Grzegorz Kiryk
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250621T095000
 DTEND:20250621T112500
 SUMMARY:ppk (Inne)
 LOCATION:317 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250628T080000
@@ -1212,7 +1212,7 @@ DTSTART:20250705T095000
 DTEND:20250705T112500
 SUMMARY:Tgs (Inne)
 LOCATION:308 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250705T114000
@@ -1254,21 +1254,21 @@ DTSTART:20250921T095000
 DTEND:20250921T112500
 SUMMARY:ppk (Inne)
 LOCATION:106 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T080000
 DTEND:20251004T093500
 SUMMARY:Aok (w)
 LOCATION:203 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T095000
 DTEND:20251004T112500
 SUMMARY:Aok (w)
 LOCATION:203 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T114000
@@ -1443,14 +1443,14 @@ DTSTART:20251019T080000
 DTEND:20251019T093500
 SUMMARY:Aok (w)
 LOCATION:203 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251019T095000
 DTEND:20251019T112500
 SUMMARY:Aok (w)
 LOCATION:203 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251019T114000
@@ -1534,14 +1534,14 @@ DTSTART:20251026T080000
 DTEND:20251026T093500
 SUMMARY:Aok (w)
 LOCATION:203 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251026T095000
 DTEND:20251026T112500
 SUMMARY:Aok (w)
 LOCATION:203 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251026T114000
@@ -1562,14 +1562,14 @@ DTSTART:20251026T160000
 DTEND:20251026T173500
 SUMMARY:Po (L)
 LOCATION:228 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/11\nProwadzący:  Tomasz Derski
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/11\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251026T175000
 DTEND:20251026T192500
 SUMMARY:Po (L)
 LOCATION:228 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/11\nProwadzący:  Tomasz Derski
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/11\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251108T080000
@@ -1807,14 +1807,14 @@ DTSTART:20251123T080000
 DTEND:20251123T093500
 SUMMARY:Po (L)
 LOCATION:228 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/11\nProwadzący:  Tomasz Derski
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/11\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251123T095000
 DTEND:20251123T112500
 SUMMARY:Po (L)
 LOCATION:228 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący:  Tomasz Derski
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251123T114000
@@ -1842,14 +1842,14 @@ DTSTART:20251123T175000
 DTEND:20251123T192500
 SUMMARY:Als (L)
 LOCATION:228 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Piotr Adamczyk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251123T194000
 DTEND:20251123T211500
 SUMMARY:Als (L)
 LOCATION:228 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Piotr Adamczyk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251129T080000
@@ -2038,14 +2038,14 @@ DTSTART:20251207T175000
 DTEND:20251207T192500
 SUMMARY:Po (L)
 LOCATION:228 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/11\nProwadzący:  Tomasz Derski
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/11\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251207T194000
 DTEND:20251207T211500
 SUMMARY:Po (L)
 LOCATION:228 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/11\nProwadzący:  Tomasz Derski
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/11\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T080000
@@ -2115,21 +2115,21 @@ DTSTART:20251214T133000
 DTEND:20251214T150500
 SUMMARY:Po (L)
 LOCATION:228 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/11\nProwadzący:  Tomasz Derski
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/11\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251214T175000
 DTEND:20251214T192500
 SUMMARY:Als (L)
 LOCATION:228 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Piotr Adamczyk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251214T194000
 DTEND:20251214T211500
 SUMMARY:Als (L)
 LOCATION:228 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Piotr Adamczyk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T080000
@@ -2213,14 +2213,14 @@ DTSTART:20251221T175000
 DTEND:20251221T192500
 SUMMARY:Aok (w)
 LOCATION:203 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251221T194000
 DTEND:20251221T211500
 SUMMARY:Aok (w)
 LOCATION:203 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260110T080000
@@ -2269,14 +2269,14 @@ DTSTART:20260111T114000
 DTEND:20260111T131500
 SUMMARY:Po (L)
 LOCATION:228 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/11\nProwadzący:  Tomasz Derski
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/11\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260111T133000
 DTEND:20260111T150500
 SUMMARY:Po (L)
 LOCATION:228 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/11\nProwadzący:  Tomasz Derski
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/11\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260111T160000
@@ -2339,14 +2339,14 @@ DTSTART:20260117T175000
 DTEND:20260117T192500
 SUMMARY:Als (L)
 LOCATION:228 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Piotr Adamczyk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T194000
 DTEND:20260117T211500
 SUMMARY:Als (L)
 LOCATION:228 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Piotr Adamczyk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T080000
@@ -2374,14 +2374,14 @@ DTSTART:20260118T175000
 DTEND:20260118T192500
 SUMMARY:Po (L)
 LOCATION:228 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/11\nProwadzący:  Tomasz Derski
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/11\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T194000
 DTEND:20260118T211500
 SUMMARY:Po (L)
 LOCATION:228 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/11\nProwadzący:  Tomasz Derski
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/11\nProwadzący: mgr inż. Tomasz Derski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T080000
@@ -2430,14 +2430,14 @@ DTSTART:20260125T133000
 DTEND:20260125T150500
 SUMMARY:Als (L)
 LOCATION:228 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Piotr Adamczyk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260125T160000
 DTEND:20260125T173500
 SUMMARY:Als (L)
 LOCATION:228 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Piotr Adamczyk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Piotr Adamczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260131T080000
@@ -2556,7 +2556,7 @@ DTSTART:20260208T080000
 DTEND:20260208T093500
 SUMMARY:Aok (E)
 LOCATION:203 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260208T095000
@@ -2605,7 +2605,7 @@ DTSTART:20260222T080000
 DTEND:20260222T093500
 SUMMARY:Aok (Inne)
 LOCATION:203 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260222T095000
