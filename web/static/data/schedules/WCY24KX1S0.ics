@@ -4260,6 +4260,20 @@ LOCATION:239 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/16\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260116T114000
+DTEND:20260116T131500
+SUMMARY:ppk (L)
+LOCATION:121 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260116T133000
+DTEND:20260116T150500
+SUMMARY:ppk (L)
+LOCATION:121 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260116T160000
 DTEND:20260116T173500
 SUMMARY:ZINŻ (Inne)
@@ -4419,20 +4433,6 @@ DTEND:20260126T112500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 59/87\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260126T114000
-DTEND:20260126T131500
-SUMMARY:ppk (L)
-LOCATION:09 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Tomasz Żentara
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260126T133000
-DTEND:20260126T150500
-SUMMARY:ppk (L)
-LOCATION:09 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T114000

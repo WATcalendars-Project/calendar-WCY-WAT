@@ -1989,14 +1989,14 @@ DTSTART:20251001T095000
 DTEND:20251001T112500
 SUMMARY:Twinf (w)
 LOCATION:308 S
-DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Rafał Kasprzyk
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T114000
 DTEND:20251001T131500
 SUMMARY:Twinf (w)
 LOCATION:308 S
-DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Rafał Kasprzyk
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T160000
@@ -2290,21 +2290,21 @@ DTSTART:20251022T114000
 DTEND:20251022T131500
 SUMMARY:Twinf (w)
 LOCATION:316 S
-DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Rafał Kasprzyk
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T133000
 DTEND:20251022T150500
 SUMMARY:Twinf (w)
 LOCATION:316 S
-DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Rafał Kasprzyk
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T080000
 DTEND:20251023T093500
 SUMMARY:Twinf (L)
 LOCATION:236 S
-DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący:  Rafał Kasprzyk
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T133000
@@ -2808,14 +2808,14 @@ DTSTART:20251121T095000
 DTEND:20251121T112500
 SUMMARY:Twinf (w)
 LOCATION:237 S
-DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Rafał Kasprzyk
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T114000
 DTEND:20251121T131500
 SUMMARY:Twinf (w)
 LOCATION:237 S
-DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Rafał Kasprzyk
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T133000
@@ -2843,14 +2843,14 @@ DTSTART:20251124T080000
 DTEND:20251124T093500
 SUMMARY:Twinf (L)
 LOCATION:224 S
-DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący:  Rafał Kasprzyk
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T095000
 DTEND:20251124T112500
 SUMMARY:Twinf (L)
 LOCATION:224 S
-DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący:  Rafał Kasprzyk
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T114000
@@ -3105,20 +3105,6 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22/28\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251208T080000
-DTEND:20251208T093500
-SUMMARY:Twinf (L)
-LOCATION:226 S
-DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący:  Rafał Kasprzyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251208T095000
-DTEND:20251208T112500
-SUMMARY:Twinf (L)
-LOCATION:226 S
-DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący:  Rafał Kasprzyk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251208T114000
 DTEND:20251208T131500
 SUMMARY:WF (ć)
@@ -3159,6 +3145,20 @@ DTEND:20251209T173500
 SUMMARY:Ja (ć)
 LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 47/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251210T160000
+DTEND:20251210T173500
+SUMMARY:Twinf (L)
+LOCATION:227 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący:  Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251210T175000
+DTEND:20251210T192500
+SUMMARY:Twinf (L)
+LOCATION:228 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T095000
@@ -3406,6 +3406,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 6/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260107T160000
+DTEND:20260107T173500
+SUMMARY:Twinf (L)
+LOCATION:252 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący:  Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260107T175000
+DTEND:20260107T192500
+SUMMARY:Twinf (L)
+LOCATION:252 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260108T080000
 DTEND:20260108T093500
 SUMMARY:Zmwm (L)
@@ -3446,20 +3460,6 @@ DTEND:20260109T093500
 SUMMARY:Ja (ć)
 LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 51/60\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260109T095000
-DTEND:20260109T112500
-SUMMARY:Twinf (L)
-LOCATION:252 S
-DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący:  Rafał Kasprzyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260109T114000
-DTEND:20260109T131500
-SUMMARY:Twinf (L)
-LOCATION:252 S
-DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T133000
@@ -3805,6 +3805,20 @@ LOCATION:218 65
 DESCRIPTION:Steganografia\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260126T160000
+DTEND:20260126T173500
+SUMMARY:Twinf (L)
+LOCATION:223 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący:  Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260126T175000
+DTEND:20260126T192500
+SUMMARY:Twinf (L)
+LOCATION:223 S
+DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260127T080000
 DTEND:20260127T093500
 SUMMARY:Zawi (P)
@@ -3880,20 +3894,6 @@ DTEND:20260130T093500
 SUMMARY:Ja (ć)
 LOCATION:124 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 60/60\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260130T095000
-DTEND:20260130T112500
-SUMMARY:Twinf (w)
-LOCATION:314 S
-DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Rafał Kasprzyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260130T114000
-DTEND:20260130T131500
-SUMMARY:Twinf (w)
-LOCATION:314 S
-DESCRIPTION:Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T133000

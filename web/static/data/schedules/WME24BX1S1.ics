@@ -127,7 +127,7 @@ DTSTART:20251001T133000
 DTEND:20251001T150500
 SUMMARY:F2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/15\nProwadzący: -
+DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T095000
@@ -246,7 +246,7 @@ DTSTART:20251008T095000
 DTEND:20251008T112500
 SUMMARY:F2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/15\nProwadzący: -
+DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T114000
@@ -407,7 +407,7 @@ DTSTART:20251015T095000
 DTEND:20251015T112500
 SUMMARY:F2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/15\nProwadzący: -
+DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T114000
@@ -540,7 +540,7 @@ DTSTART:20251022T095000
 DTEND:20251022T112500
 SUMMARY:F2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/15\nProwadzący: -
+DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T114000
@@ -709,13 +709,6 @@ DTEND:20251028T150500
 SUMMARY:Als (w)
 LOCATION:301/ S
 DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Dariusz Pierzchała
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251029T095000
-DTEND:20251029T112500
-SUMMARY:F2 (w)
-LOCATION:aula/ 135
-DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T114000
@@ -925,7 +918,7 @@ DTSTART:20251105T095000
 DTEND:20251105T112500
 SUMMARY:F2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący: -
+DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T114000
@@ -1135,7 +1128,7 @@ DTSTART:20251112T095000
 DTEND:20251112T112500
 SUMMARY:F2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/15\nProwadzący: -
+DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T114000
@@ -1324,7 +1317,7 @@ DTSTART:20251119T095000
 DTEND:20251119T112500
 SUMMARY:F2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/15\nProwadzący: -
+DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T114000
@@ -1499,7 +1492,7 @@ DTSTART:20251126T095000
 DTEND:20251126T112500
 SUMMARY:F2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/15\nProwadzący: -
+DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T133000
@@ -1688,7 +1681,7 @@ DTSTART:20251203T095000
 DTEND:20251203T112500
 SUMMARY:F2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/15\nProwadzący: -
+DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T114000
@@ -1870,7 +1863,7 @@ DTSTART:20251210T095000
 DTEND:20251210T112500
 SUMMARY:F2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 11/15\nProwadzący: -
+DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T114000
@@ -2052,7 +2045,7 @@ DTSTART:20251217T095000
 DTEND:20251217T112500
 SUMMARY:F2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 12/15\nProwadzący: -
+DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 11/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T114000
@@ -2948,7 +2941,7 @@ DTSTART:20260107T095000
 DTEND:20260107T112500
 SUMMARY:F2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 13/15\nProwadzący: -
+DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 12/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T114000
@@ -3130,7 +3123,7 @@ DTSTART:20260114T080000
 DTEND:20260114T093500
 SUMMARY:F2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 14/15\nProwadzący: -
+DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 13/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T095000
@@ -3319,7 +3312,7 @@ DTSTART:20260121T095000
 DTEND:20260121T112500
 SUMMARY:F2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 15/15\nProwadzący: -
+DESCRIPTION:Fizyka 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 14/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T114000

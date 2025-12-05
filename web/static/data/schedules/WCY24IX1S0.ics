@@ -4239,20 +4239,6 @@ LOCATION:011 65
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/16\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260112T114000
-DTEND:20260112T131500
-SUMMARY:ppk (L)
-LOCATION:09 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Tomasz Żentara
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260112T133000
-DTEND:20260112T150500
-SUMMARY:ppk (L)
-LOCATION:09 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Tomasz Żentara
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260112T160000
 DTEND:20260112T173500
 SUMMARY:Als (L)
@@ -4377,6 +4363,20 @@ DTEND:20260117T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260119T080000
+DTEND:20260119T093500
+SUMMARY:ppk (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260119T095000
+DTEND:20260119T112500
+SUMMARY:ppk (L)
+LOCATION:09 65
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T160000

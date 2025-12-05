@@ -928,20 +928,6 @@ LOCATION:237 S
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/20\nProwadzący:  Jakub Walczak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251205T160000
-DTEND:20251205T173500
-SUMMARY:htm (L)
-LOCATION:011 65
-DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Jan Chudzikiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251205T175000
-DTEND:20251205T192500
-SUMMARY:htm (L)
-LOCATION:011 65
-DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Jan Chudzikiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251208T080000
 DTEND:20251208T093500
 SUMMARY:SoU (w)
@@ -1262,6 +1248,20 @@ DTEND:20260119T112500
 SUMMARY:ZKwI (L)
 LOCATION:078 S
 DESCRIPTION:Zastosowania kryptografii w Internecie\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260120T160000
+DTEND:20260120T173500
+SUMMARY:htm (L)
+LOCATION:011 65
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260120T175000
+DTEND:20260120T192500
+SUMMARY:htm (L)
+LOCATION:011 65
+DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T114000
