@@ -186,6 +186,20 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260121T080000
+DTEND:20260121T093500
+SUMMARY:Pwo (w)
+LOCATION:S3 72
+DESCRIPTION:Połączone wsparcie ogniowe - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260121T114000
+DTEND:20260121T131500
+SUMMARY:SŁiŚD (w)
+LOCATION:aE S
+DESCRIPTION:System łączności i środki dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260121T133000
 DTEND:20260121T150500
 SUMMARY:DSiSM (w)
@@ -198,6 +212,27 @@ DTEND:20260122T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260123T080000
+DTEND:20260123T093500
+SUMMARY:PKSt (w)
+LOCATION:0.19/ 135
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260123T095000
+DTEND:20260123T112500
+SUMMARY:PESW (w)
+LOCATION:46 63
+DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260126T080000
+DTEND:20260126T093500
+SUMMARY:SŁiŚD (w)
+LOCATION:aE S
+DESCRIPTION:System łączności i środki dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T095000
@@ -263,6 +298,20 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260130T080000
+DTEND:20260130T093500
+SUMMARY:MPH (w)
+LOCATION:aula/ 135
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260130T095000
+DTEND:20260130T112500
+SUMMARY:PKSt (w)
+LOCATION:0.28/ 135
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260202T080000
 DTEND:20260202T093500
 SUMMARY:- (S.Sz.W.)
@@ -282,6 +331,13 @@ DTEND:20260202T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 5/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260203T133000
+DTEND:20260203T150500
+SUMMARY:Pwo (w)
+LOCATION:S3 72
+DESCRIPTION:Połączone wsparcie ogniowe - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260204T080000
@@ -340,6 +396,13 @@ LOCATION:AW 3/038
 DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260205T160000
+DTEND:20260205T173500
+SUMMARY:OPBMR (w)
+LOCATION:2 55A
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260206T080000
 DTEND:20260206T093500
 SUMMARY:- (S.Sz.W.)
@@ -359,6 +422,13 @@ DTEND:20260206T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 10/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T160000
+DTEND:20260206T173500
+SUMMARY:MPH (w)
+LOCATION:aula/ 135
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260207T095000
@@ -417,6 +487,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 13/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260210T080000
+DTEND:20260210T093500
+SUMMARY:Pwd (w)
+LOCATION:aula/ 135
+DESCRIPTION:Przywództwo w dowodzeniu - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260210T114000
+DTEND:20260210T131500
+SUMMARY:OPBMR (w)
+LOCATION:2 55A
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260211T080000
 DTEND:20260211T093500
 SUMMARY:ZINŻ (w)
@@ -452,6 +536,13 @@ LOCATION:AW 1
 DESCRIPTION:Podstawy dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260212T095000
+DTEND:20260212T112500
+SUMMARY:PKSt (ć)
+LOCATION:0.19/ 135
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260213T080000
 DTEND:20260213T093500
 SUMMARY:SzS (ć)
@@ -480,11 +571,25 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 14/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260216T080000
+DTEND:20260216T093500
+SUMMARY:Pwo (w)
+LOCATION:S3 72
+DESCRIPTION:Połączone wsparcie ogniowe - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260216T095000
 DTEND:20260216T112500
 SUMMARY:OIN (w)
 LOCATION:AW 1
 DESCRIPTION:Ochrona informacji niejawnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260216T133000
+DTEND:20260216T150500
+SUMMARY:MPH (ć)
+LOCATION:aula/ 135
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260217T080000
@@ -515,6 +620,20 @@ LOCATION:AW 4
 DESCRIPTION:Zabezpieczenie medyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260217T160000
+DTEND:20260217T173500
+SUMMARY:Pwd (w)
+LOCATION:aula/ 135
+DESCRIPTION:Przywództwo w dowodzeniu - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T080000
+DTEND:20260218T093500
+SUMMARY:PESW (ć)
+LOCATION:33 67
+DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260218T095000
 DTEND:20260218T112500
 SUMMARY:GMiB (w)
@@ -543,6 +662,62 @@ LOCATION:114 57
 DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260219T095000
+DTEND:20260219T112500
+SUMMARY:PKSt (ć)
+LOCATION:0.28/ 135
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T095000
+DTEND:20260220T112500
+SUMMARY:PKSt (w)
+LOCATION:aula/ 135
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T114000
+DTEND:20260220T131500
+SUMMARY:PKSt (w)
+LOCATION:aula/ 135
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260223T080000
+DTEND:20260223T093500
+SUMMARY:SŁiŚD (ć)
+LOCATION:24 47 23 47
+DESCRIPTION:System łączności i środki dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260223T095000
+DTEND:20260223T112500
+SUMMARY:SŁiŚD (ć)
+LOCATION:24 47 23 47
+DESCRIPTION:System łączności i środki dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260223T114000
+DTEND:20260223T131500
+SUMMARY:SŁiŚD (ć)
+LOCATION:24 47 23 47
+DESCRIPTION:System łączności i środki dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260224T080000
+DTEND:20260224T093500
+SUMMARY:PESW (ć)
+LOCATION:33 67
+DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260224T095000
+DTEND:20260224T112500
+SUMMARY:OPBMR (w)
+LOCATION:2 55A
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260224T114000
 DTEND:20260224T131500
 SUMMARY:TA (w)
@@ -555,6 +730,20 @@ DTEND:20260224T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260224T160000
+DTEND:20260224T173500
+SUMMARY:Pwd (w)
+LOCATION:aula/ 135
+DESCRIPTION:Przywództwo w dowodzeniu - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260225T095000
+DTEND:20260225T112500
+SUMMARY:PKSt (ć)
+LOCATION:0.28/ 135
+DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260226T080000
@@ -606,6 +795,20 @@ LOCATION:BIBL /22
 DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260302T133000
+DTEND:20260302T150500
+SUMMARY:Pwd (ć)
+LOCATION:255 S
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260303T080000
+DTEND:20260303T093500
+SUMMARY:Pwo (ć)
+LOCATION:33 67
+DESCRIPTION:Połączone wsparcie ogniowe - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T095000
 DTEND:20260303T112500
 SUMMARY:OPW (w)
@@ -618,6 +821,13 @@ DTEND:20260303T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T080000
+DTEND:20260304T093500
+SUMMARY:MPH (ć)
+LOCATION:0.19/ 135
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T095000
@@ -704,6 +914,13 @@ LOCATION:AW 1
 DESCRIPTION:Obrona powietrzna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260309T114000
+DTEND:20260309T131500
+SUMMARY:MPH (ć)
+LOCATION:0.19/ 135
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260309T133000
 DTEND:20260309T150500
 SUMMARY:RiAIP (w)
@@ -753,6 +970,20 @@ LOCATION:AW 3/038
 DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260312T133000
+DTEND:20260312T150500
+SUMMARY:DWiPD (w)
+LOCATION:aula/ 135
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T080000
+DTEND:20260316T093500
+SUMMARY:Pwd (ć)
+LOCATION:255 S
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260316T095000
 DTEND:20260316T112500
 SUMMARY:- (S.Sz.W.)
@@ -779,6 +1010,34 @@ DTEND:20260316T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 18/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260317T080000
+DTEND:20260317T093500
+SUMMARY:OPBMR (ć)
+LOCATION:PĆT1
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260317T095000
+DTEND:20260317T112500
+SUMMARY:OPBMR (ć)
+LOCATION:PĆT1
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260317T114000
+DTEND:20260317T131500
+SUMMARY:OPBMR (ć)
+LOCATION:PĆT1
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260317T133000
+DTEND:20260317T150500
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 19/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T080000
@@ -813,7 +1072,7 @@ DTSTART:20260319T114000
 DTEND:20260319T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 19/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 20/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T133000
@@ -834,14 +1093,14 @@ DTSTART:20260319T175000
 DTEND:20260319T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 20/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 21/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260321T095000
 DTEND:20260321T112500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 21/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 22/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260321T114000
@@ -862,7 +1121,7 @@ DTSTART:20260321T160000
 DTEND:20260321T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 22/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 23/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260323T080000
@@ -932,7 +1191,7 @@ DTSTART:20260324T114000
 DTEND:20260324T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 23/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 24/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T133000
@@ -946,7 +1205,7 @@ DTSTART:20260324T160000
 DTEND:20260324T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 24/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 25/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T080000
@@ -961,6 +1220,48 @@ DTEND:20260325T112500
 SUMMARY:TW (ć)
 LOCATION:114 57
 DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T114000
+DTEND:20260325T131500
+SUMMARY:Pwd (ć)
+LOCATION:0.19/ 135
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T080000
+DTEND:20260326T093500
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 26/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T095000
+DTEND:20260326T112500
+SUMMARY:OPBMR (ć)
+LOCATION:PĆT2
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T114000
+DTEND:20260326T131500
+SUMMARY:OPBMR (ć)
+LOCATION:PĆT2
+DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T133000
+DTEND:20260326T150500
+SUMMARY:- (S.Sz.W.)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 27/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260330T080000
+DTEND:20260330T093500
+SUMMARY:DWiPD (w)
+LOCATION:aula/ 135
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T095000
@@ -1005,6 +1306,13 @@ LOCATION:AW 3/043
 DESCRIPTION:Podstawy dowodzenia - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260402T080000
+DTEND:20260402T093500
+SUMMARY:Pwd (ć)
+LOCATION:0.19/ 135
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260402T095000
 DTEND:20260402T112500
 SUMMARY:TA (Inne)
@@ -1012,11 +1320,18 @@ LOCATION:AW 3/038
 DESCRIPTION:TAKTYKA - (repetytorium) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260402T133000
+DTEND:20260402T150500
+SUMMARY:DWiPD (ć)
+LOCATION:0.19/ 135
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260403T095000
 DTEND:20260403T112500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 25/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 28/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260403T114000
@@ -1037,7 +1352,7 @@ DTSTART:20260403T160000
 DTEND:20260403T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 26/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 29/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260407T080000

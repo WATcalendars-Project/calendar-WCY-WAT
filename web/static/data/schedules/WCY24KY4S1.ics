@@ -3238,13 +3238,6 @@ LOCATION:203 65
 DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251219T175000
-DTEND:20251219T192500
-SUMMARY:Aok (L)
-LOCATION:011 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/16\nProwadzący: mgr Maciej Lis
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260107T080000
 DTEND:20260107T093500
 SUMMARY:F2 (w)
@@ -3375,7 +3368,7 @@ DTSTART:20260116T080000
 DTEND:20260116T093500
 SUMMARY:Aok (L)
 LOCATION:011 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/16\nProwadzący: mgr Maciej Lis
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/16\nProwadzący: mgr Maciej Lis
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T114000
@@ -3473,11 +3466,18 @@ DTSTART:20260123T160000
 DTEND:20260123T173500
 SUMMARY:Aok (L)
 LOCATION:09 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/16\nProwadzący: mgr Maciej Lis
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/16\nProwadzący: mgr Maciej Lis
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T175000
 DTEND:20260123T192500
+SUMMARY:Aok (L)
+LOCATION:09 65
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/16\nProwadzący: mgr Maciej Lis
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260123T194000
+DTEND:20260123T211500
 SUMMARY:Aok (L)
 LOCATION:09 65
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/16\nProwadzący: mgr Maciej Lis

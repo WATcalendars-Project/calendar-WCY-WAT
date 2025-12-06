@@ -4176,20 +4176,6 @@ LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260112T080000
-DTEND:20260112T093500
-SUMMARY:ppk (L)
-LOCATION:09 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Tomasz Żentara
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260112T095000
-DTEND:20260112T112500
-SUMMARY:ppk (L)
-LOCATION:09 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Tomasz Żentara
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260112T114000
 DTEND:20260112T131500
 SUMMARY:Als (L)
@@ -4299,14 +4285,14 @@ DTSTART:20260115T160000
 DTEND:20260115T173500
 SUMMARY:ppk (L)
 LOCATION:120 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T175000
 DTEND:20260115T192500
 SUMMARY:ppk (L)
 LOCATION:120 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Tomasz Żentara
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T080000
@@ -4377,6 +4363,20 @@ DTEND:20260120T112500
 SUMMARY:Tgs (ć)
 LOCATION:317 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: mgr inż. Piotr Jakubowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260120T114000
+DTEND:20260120T131500
+SUMMARY:ppk (L)
+LOCATION:224 S
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Tomasz Żentara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260120T133000
+DTEND:20260120T150500
+SUMMARY:ppk (L)
+LOCATION:224 S
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Tomasz Żentara
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T194000
@@ -4645,22 +4645,22 @@ LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260304T080000
-DTEND:20260304T093500
+DTSTART:20260304T095000
+DTEND:20260304T112500
 SUMMARY:PODS.SUR. (ć)
 LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260304T095000
-DTEND:20260304T112500
+DTSTART:20260304T114000
+DTEND:20260304T131500
 SUMMARY:PODS.SUR. (ć)
 LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260304T114000
-DTEND:20260304T131500
+DTSTART:20260304T133000
+DTEND:20260304T150500
 SUMMARY:PODS.SUR. (ć)
 LOCATION:POLIGON
 DESCRIPTION:Podstawy survivalu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/11\nProwadzący: -
