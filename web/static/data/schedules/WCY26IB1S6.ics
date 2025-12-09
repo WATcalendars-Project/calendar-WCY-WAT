@@ -158,6 +158,13 @@ LOCATION:0.19/ 135
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260119T080000
+DTEND:20260119T093500
+SUMMARY:Pr.A (w)
+LOCATION:3.16/ 135
+DESCRIPTION:Profilaktyka antykorupcyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260119T095000
 DTEND:20260119T112500
 SUMMARY:ZINŻ (w)
@@ -207,6 +214,20 @@ LOCATION:AW 1
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260121T160000
+DTEND:20260121T173500
+SUMMARY:Dn (w)
+LOCATION:aula/ 135
+DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260122T114000
+DTEND:20260122T131500
+SUMMARY:Oś (w)
+LOCATION:2 59
+DESCRIPTION:Ochrona środowiska - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260122T133000
 DTEND:20260122T150500
 SUMMARY:WF (ć)
@@ -240,6 +261,13 @@ DTEND:20260126T112500
 SUMMARY:ZINŻ (w)
 LOCATION:103 K
 DESCRIPTION:Zabezpieczenie inżynieryjne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260127T095000
+DTEND:20260127T112500
+SUMMARY:BwCP (w)
+LOCATION:307 S
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T133000
@@ -312,6 +340,20 @@ LOCATION:0.28/ 135
 DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260130T133000
+DTEND:20260130T150500
+SUMMARY:ZLDT-1 (w)
+LOCATION:aula/ 135
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260130T160000
+DTEND:20260130T173500
+SUMMARY:ZLDT-1 (w)
+LOCATION:aula/ 135
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260202T080000
 DTEND:20260202T093500
 SUMMARY:- (S.Sz.W.)
@@ -331,6 +373,27 @@ DTEND:20260202T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 5/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260202T133000
+DTEND:20260202T150500
+SUMMARY:Oś (w)
+LOCATION:114 57
+DESCRIPTION:Ochrona środowiska - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260202T160000
+DTEND:20260202T173500
+SUMMARY:wzbnim (w)
+LOCATION:aula/ 135
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260203T114000
+DTEND:20260203T131500
+SUMMARY:Pr.A (ć)
+LOCATION:0.19/ 135
+DESCRIPTION:Profilaktyka antykorupcyjna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T133000
@@ -501,6 +564,20 @@ LOCATION:2 55A
 DESCRIPTION:Obrona przed bronią masowego rażenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260210T133000
+DTEND:20260210T150500
+SUMMARY:ZLDT-1 (w)
+LOCATION:0.19/ 135
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260210T160000
+DTEND:20260210T173500
+SUMMARY:ZLDT-1 (w)
+LOCATION:0.19/ 135
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260211T080000
 DTEND:20260211T093500
 SUMMARY:ZINŻ (w)
@@ -543,6 +620,20 @@ LOCATION:0.19/ 135
 DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260212T114000
+DTEND:20260212T131500
+SUMMARY:wzbnim (w)
+LOCATION:0.19/ 135
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260212T133000
+DTEND:20260212T150500
+SUMMARY:wzbnim (w)
+LOCATION:0.19/ 135
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260213T080000
 DTEND:20260213T093500
 SUMMARY:SzS (ć)
@@ -583,6 +674,13 @@ DTEND:20260216T112500
 SUMMARY:OIN (w)
 LOCATION:AW 1
 DESCRIPTION:Ochrona informacji niejawnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260216T114000
+DTEND:20260216T131500
+SUMMARY:HP (w)
+LOCATION:0.28/ 135
+DESCRIPTION:Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T133000
@@ -662,11 +760,32 @@ LOCATION:114 57
 DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260219T080000
+DTEND:20260219T093500
+SUMMARY:BwCP (ć)
+LOCATION:308 S
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260219T095000
 DTEND:20260219T112500
 SUMMARY:PKSt (ć)
 LOCATION:0.28/ 135
 DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T114000
+DTEND:20260219T131500
+SUMMARY:HP (ć)
+LOCATION:0.28/ 135
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T133000
+DTEND:20260219T150500
+SUMMARY:Hsw (w)
+LOCATION:aula/ 135
+DESCRIPTION:Historia sztuki wojennej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T095000
@@ -681,6 +800,20 @@ DTEND:20260220T131500
 SUMMARY:PKSt (w)
 LOCATION:aula/ 135
 DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T133000
+DTEND:20260220T150500
+SUMMARY:Dn (w)
+LOCATION:3.16/ 135
+DESCRIPTION:Działania niekinetyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T160000
+DTEND:20260220T173500
+SUMMARY:Hsw (ć)
+LOCATION:0.28/ 135
+DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260223T080000
@@ -702,6 +835,13 @@ DTEND:20260223T131500
 SUMMARY:SŁiŚD (ć)
 LOCATION:24 47 23 47
 DESCRIPTION:System łączności i środki dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260223T133000
+DTEND:20260223T150500
+SUMMARY:DWiPD (w)
+LOCATION:aula/ 135
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260224T080000
@@ -739,11 +879,39 @@ LOCATION:aula/ 135
 DESCRIPTION:Przywództwo w dowodzeniu - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260225T080000
+DTEND:20260225T093500
+SUMMARY:BwCP (ć)
+LOCATION:308 S
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260225T095000
 DTEND:20260225T112500
 SUMMARY:PKSt (ć)
 LOCATION:0.28/ 135
 DESCRIPTION:Podstawy Komunikacji Strategicznej-teoria i praktyka - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260225T114000
+DTEND:20260225T131500
+SUMMARY:DWiPD (ć)
+LOCATION:0.19/ 135
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260225T133000
+DTEND:20260225T150500
+SUMMARY:Hsw (ć)
+LOCATION:0.28/ 135
+DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260225T160000
+DTEND:20260225T173500
+SUMMARY:HP (ć)
+LOCATION:0.19/ 135
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260226T080000
@@ -772,6 +940,27 @@ DTEND:20260226T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/9\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260227T080000
+DTEND:20260227T093500
+SUMMARY:wzbnim (w)
+LOCATION:0.28/ 135
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260227T095000
+DTEND:20260227T112500
+SUMMARY:wzbnim (w)
+LOCATION:0.28/ 135
+DESCRIPTION:Wybrane zagadnienia bezpieczeństwa narodowego i międzynarodowego - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260227T114000
+DTEND:20260227T131500
+SUMMARY:ZLDT-1 (w)
+LOCATION:0.28/ 135
+DESCRIPTION:Zabezpieczenie Logistyczne Działań Taktycznych - 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T080000
@@ -816,6 +1005,13 @@ LOCATION:AW 1
 DESCRIPTION:Obrona powietrzna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260303T114000
+DTEND:20260303T131500
+SUMMARY:DWiPD (w)
+LOCATION:aula/ 135
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T133000
 DTEND:20260303T150500
 SUMMARY:WF (ć)
@@ -842,6 +1038,13 @@ DTEND:20260304T131500
 SUMMARY:GMiB (w)
 LOCATION:AW 1
 DESCRIPTION:Gotowość mobilizacyjna i bojowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T133000
+DTEND:20260304T150500
+SUMMARY:DWiPD (ć)
+LOCATION:1.10/ 16
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T080000
@@ -949,6 +1152,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260311T095000
+DTEND:20260311T112500
+SUMMARY:Hsw (ć)
+LOCATION:0.19/ 135
+DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260311T114000
 DTEND:20260311T131500
 SUMMARY:ZaMe (ć)
@@ -970,11 +1180,25 @@ LOCATION:AW 3/038
 DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260312T114000
+DTEND:20260312T131500
+SUMMARY:HP (ć)
+LOCATION:0.19/ 135
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260312T133000
 DTEND:20260312T150500
 SUMMARY:DWiPD (w)
 LOCATION:aula/ 135
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: -
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T114000
+DTEND:20260313T131500
+SUMMARY:.BHP. (w)
+LOCATION:0.19/ 135
+DESCRIPTION:.Bezpieczeństwo i higiena pracy. - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T080000
@@ -1052,6 +1276,13 @@ DTEND:20260318T112500
 SUMMARY:TW (ć)
 LOCATION:114 57
 DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T114000
+DTEND:20260318T131500
+SUMMARY:Hsw (ć)
+LOCATION:0.19/ 135
+DESCRIPTION:Historia sztuki wojennej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T080000
@@ -1229,6 +1460,13 @@ LOCATION:0.19/ 135
 DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260325T133000
+DTEND:20260325T150500
+SUMMARY:HP (ć)
+LOCATION:0.19/ 135
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260326T080000
 DTEND:20260326T093500
 SUMMARY:- (S.Sz.W.)
@@ -1261,7 +1499,7 @@ DTSTART:20260330T080000
 DTEND:20260330T093500
 SUMMARY:DWiPD (w)
 LOCATION:aula/ 135
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T095000
@@ -1324,7 +1562,7 @@ DTSTART:20260402T133000
 DTEND:20260402T150500
 SUMMARY:DWiPD (ć)
 LOCATION:0.19/ 135
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260403T095000

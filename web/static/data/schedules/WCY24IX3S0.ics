@@ -4169,13 +4169,6 @@ LOCATION:201 65
 DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260107T114000
-DTEND:20260107T131500
-SUMMARY:ZINŻ (Inne)
-LOCATION:BIBL /22
-DESCRIPTION:Zabezpieczenie inżynieryjne - (repetytorium) -\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260107T133000
 DTEND:20260107T150500
 SUMMARY:Ja (ć)
@@ -4314,6 +4307,13 @@ DTEND:20260114T112500
 SUMMARY:F2 (ć)
 LOCATION:201 65
 DESCRIPTION:Fizyka 2 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260114T114000
+DTEND:20260114T131500
+SUMMARY:ZINŻ (Inne)
+LOCATION:AW 3/043
+DESCRIPTION:Zabezpieczenie inżynieryjne - (repetytorium) -\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T133000

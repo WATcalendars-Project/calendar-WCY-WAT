@@ -1299,25 +1299,25 @@ LOCATION:233 S
 DESCRIPTION:Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Stanisław Skrzypecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260126T080000
-DTEND:20260126T093500
-SUMMARY:Est (L)
-LOCATION:011 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: dr inż. Michał Jarosz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260126T095000
-DTEND:20260126T112500
-SUMMARY:Est (L)
-LOCATION:011 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr inż. Michał Jarosz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260127T160000
 DTEND:20260127T173500
 SUMMARY:Est (P)
 LOCATION:120 65
 DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 5/5\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260128T175000
+DTEND:20260128T192500
+SUMMARY:Est (L)
+LOCATION:011 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: dr inż. Michał Jarosz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260128T194000
+DTEND:20260128T211500
+SUMMARY:Est (L)
+LOCATION:011 65
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr inż. Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T114000

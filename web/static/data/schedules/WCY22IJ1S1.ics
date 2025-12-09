@@ -1833,44 +1833,44 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T095000
 DTEND:20251205T112500
-SUMMARY:- (Inne)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 30/1\nProwadzący: -
+SUMMARY:Orr (Inne)
+LOCATION:252A S
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Patryk Serafin
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T114000
 DTEND:20251205T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 31/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 30/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T133000
 DTEND:20251205T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 32/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 31/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T160000
 DTEND:20251205T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 33/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 32/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T175000
 DTEND:20251205T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 34/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 33/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T194000
 DTEND:20251205T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 35/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 34/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T160000
@@ -1878,12 +1878,5 @@ DTEND:20260112T173500
 SUMMARY:REZ (Inne)
 LOCATION:-
 DESCRIPTION:Rezerwacja\nRodzaj zajęć:  - \nNr zajęć: 3/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260203T080000
-DTEND:20260203T093500
-SUMMARY:Orr (Inne)
-LOCATION:308 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Patryk Serafin
 END:VEVENT
 END:VCALENDAR

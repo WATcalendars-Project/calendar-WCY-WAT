@@ -3847,6 +3847,13 @@ LOCATION:201 65
 DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący:  Jozef Turczyn
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251216T175000
+DTEND:20251216T192500
+SUMMARY:Nsk (ć)
+LOCATION:317 S
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: mgr inż. Joanna Woźniak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251217T114000
 DTEND:20251217T131500
 SUMMARY:WF (ć)
@@ -3921,7 +3928,7 @@ DTSTART:20251219T114000
 DTEND:20251219T131500
 SUMMARY:Nsk (ć)
 LOCATION:316 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: mgr inż. Joanna Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: mgr inż. Joanna Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T160000
@@ -4033,7 +4040,7 @@ DTSTART:20260109T114000
 DTEND:20260109T131500
 SUMMARY:Nsk (ć)
 LOCATION:313 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: mgr inż. Joanna Woźniak
+DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: mgr inż. Joanna Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T160000
@@ -4237,13 +4244,6 @@ DTEND:20260122T131500
 SUMMARY:IO (L)
 LOCATION:226 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/14\nProwadzący: dr inż. Adrian Woźniak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260122T133000
-DTEND:20260122T150500
-SUMMARY:Nsk (ć)
-LOCATION:317 S
-DESCRIPTION:Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: mgr inż. Joanna Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T080000
