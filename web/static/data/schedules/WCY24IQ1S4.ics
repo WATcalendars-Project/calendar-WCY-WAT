@@ -550,13 +550,6 @@ LOCATION:201 65
 DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251202T095000
-DTEND:20251202T112500
-SUMMARY:Eaa (ć)
-LOCATION:085 S
-DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251202T114000
 DTEND:20251202T131500
 SUMMARY:ak (L)
@@ -613,25 +606,11 @@ LOCATION:224 S
 DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251208T095000
-DTEND:20251208T112500
-SUMMARY:Wekk (w)
-LOCATION:078 S
-DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć: Wykład\nNr zajęć: 9/8\nProwadzący: dr Mariusz Jurkiewicz
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251208T114000
 DTEND:20251208T131500
 SUMMARY:Mpik (ć)
 LOCATION:201 65
 DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr hab. Marek Kojdecki
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251209T095000
-DTEND:20251209T112500
-SUMMARY:Eaa (ć)
-LOCATION:085 S
-DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T114000
@@ -683,6 +662,13 @@ LOCATION:219 65
 DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: dr Lucjan Kowalski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251211T095000
+DTEND:20251211T112500
+SUMMARY:Erp (ć)
+LOCATION:219 65
+DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251215T080000
 DTEND:20251215T093500
 SUMMARY:Ekk (w)
@@ -694,7 +680,7 @@ DTSTART:20251215T095000
 DTEND:20251215T112500
 SUMMARY:Wekk (w)
 LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć: Wykład\nNr zajęć: 10/8\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć: Wykład\nNr zajęć: 9/8\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T114000
@@ -708,7 +694,7 @@ DTSTART:20251216T095000
 DTEND:20251216T112500
 SUMMARY:Eaa (ć)
 LOCATION:085 S
-DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: dr Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T114000
@@ -725,6 +711,27 @@ LOCATION:228 S
 DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251216T160000
+DTEND:20251216T173500
+SUMMARY:Eaa (ć)
+LOCATION:307 S
+DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251216T175000
+DTEND:20251216T192500
+SUMMARY:Eaa (ć)
+LOCATION:307 S
+DESCRIPTION:Elementy algebry abstrakcyjnej\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251216T194000
+DTEND:20251216T211500
+SUMMARY:Wekk (w)
+LOCATION:078 S
+DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć: Wykład\nNr zajęć: 10/8\nProwadzący: dr Mariusz Jurkiewicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251217T114000
 DTEND:20251217T131500
 SUMMARY:Fpik (P)
@@ -737,13 +744,6 @@ DTEND:20251217T150500
 SUMMARY:Weok (w)
 LOCATION:308 S
 DESCRIPTION:Wybrane elementy obliczeń kwantowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: prof. dr hab. inż. Andrzej Walczak
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251218T080000
-DTEND:20251218T093500
-SUMMARY:Erp (ć)
-LOCATION:219 65
-DESCRIPTION:Elementy rachunku prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: dr Lucjan Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T080000
@@ -991,15 +991,15 @@ LOCATION:201 65
 DESCRIPTION:Wybrane elementy kryptologii klasycznej i kryptoanalizy kwantowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Krzysztof Kanciak
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260216T080000
-DTEND:20260216T093500
+DTSTART:20260217T080000
+DTEND:20260217T093500
 SUMMARY:Ekk (Inne)
 LOCATION:233 S
 DESCRIPTION:Wybrane elementy kryptografii kwantowej\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Paweł Moszczyński
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260216T114000
-DTEND:20260216T131500
+DTSTART:20260217T114000
+DTEND:20260217T131500
 SUMMARY:Mpik (Inne)
 LOCATION:201 65
 DESCRIPTION:Matematyczne podstawy informatyki kwantowej\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. Marek Kojdecki

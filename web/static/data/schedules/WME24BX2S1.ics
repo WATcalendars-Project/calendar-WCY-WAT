@@ -5807,13 +5807,6 @@ LOCATION:aF S
 DESCRIPTION:Fizyka 2 - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260202T095000
-DTEND:20260202T112500
-SUMMARY:WdTB (E)
-LOCATION:116/ 54
-DESCRIPTION:Wprowadzenie do technik biomedycznych - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260202T133000
 DTEND:20260202T150500
 SUMMARY:Pr.m (Inne)
@@ -5842,11 +5835,18 @@ LOCATION:120 65
 DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Sebastian Łeska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260204T095000
-DTEND:20260204T112500
+DTSTART:20260204T080000
+DTEND:20260204T093500
 SUMMARY:PEt (Inne)
 LOCATION:058 S
 DESCRIPTION:Podstawy elektrotechniki - (Zaliczenie poprawkowe  lab.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260204T095000
+DTEND:20260204T112500
+SUMMARY:WdTB (E)
+LOCATION:51/ 62
+DESCRIPTION:Wprowadzenie do technik biomedycznych - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260204T114000
@@ -5868,13 +5868,6 @@ DTEND:20260205T093500
 SUMMARY:Pele (Inne)
 LOCATION:30 54E
 DESCRIPTION:Podstawy elektromagnetyzmu - (Zaliczenie poprawkowe  lab.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260205T095000
-DTEND:20260205T112500
-SUMMARY:Fiz.C (E)
-LOCATION:51/ 62
-DESCRIPTION:Fizjologia człowieka - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260205T114000
@@ -5900,44 +5893,44 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T095000
 DTEND:20260206T112500
-SUMMARY:- (Inne)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 325/1\nProwadzący: -
+SUMMARY:Fiz.C (E)
+LOCATION:301/ S
+DESCRIPTION:Fizjologia człowieka - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T114000
 DTEND:20260206T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 326/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 325/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T133000
 DTEND:20260206T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 327/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 326/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T160000
 DTEND:20260206T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 328/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 327/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T175000
 DTEND:20260206T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 329/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 328/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T194000
 DTEND:20260206T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 330/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 329/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260209T095000
@@ -5979,49 +5972,49 @@ DTSTART:20260213T080000
 DTEND:20260213T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 331/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 330/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260213T095000
 DTEND:20260213T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 332/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 331/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260213T114000
 DTEND:20260213T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 333/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 332/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260213T133000
 DTEND:20260213T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 334/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 333/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260213T160000
 DTEND:20260213T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 335/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 334/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260213T175000
 DTEND:20260213T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 336/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 335/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260213T194000
 DTEND:20260213T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 337/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 336/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260217T080000
@@ -6063,97 +6056,97 @@ DTSTART:20260220T080000
 DTEND:20260220T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 338/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 337/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T095000
 DTEND:20260220T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 339/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 338/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T114000
 DTEND:20260220T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 340/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 339/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T133000
 DTEND:20260220T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 341/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 340/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T160000
 DTEND:20260220T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 342/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 341/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T175000
 DTEND:20260220T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 343/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 342/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T194000
 DTEND:20260220T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 344/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 343/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260227T080000
 DTEND:20260227T093500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 345/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 344/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260227T095000
 DTEND:20260227T112500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 346/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 345/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260227T114000
 DTEND:20260227T131500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 347/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 346/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260227T133000
 DTEND:20260227T150500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 348/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 347/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260227T160000
 DTEND:20260227T173500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 349/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 348/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260227T175000
 DTEND:20260227T192500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 350/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 349/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260227T194000
 DTEND:20260227T211500
 SUMMARY:- (Inne)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 351/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 350/1\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

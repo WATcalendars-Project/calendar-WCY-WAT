@@ -2556,7 +2556,14 @@ DTSTART:20260207T095000
 DTEND:20260207T112500
 SUMMARY:BD (E)
 LOCATION:308 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260207T114000
+DTEND:20260207T131500
+SUMMARY:BD (E)
+LOCATION:308 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260208T080000
@@ -2626,6 +2633,13 @@ DTSTART:20260222T114000
 DTEND:20260222T131500
 SUMMARY:BD (Inne)
 LOCATION:308 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260222T133000
+DTEND:20260222T150500
+SUMMARY:BD (Inne)
+LOCATION:308 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 END:VCALENDAR

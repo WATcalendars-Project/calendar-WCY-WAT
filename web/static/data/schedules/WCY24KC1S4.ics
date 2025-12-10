@@ -1194,18 +1194,18 @@ LOCATION:125 65
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260216T160000
-DTEND:20260216T173500
-SUMMARY:PsbI (Inne)
-LOCATION:101 65
-DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Marcin Pachnik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260217T080000
 DTEND:20260217T093500
 SUMMARY:Zbi (Inne)
 LOCATION:201 65
 DESCRIPTION:Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Mieczysław Kania
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T095000
+DTEND:20260217T112500
+SUMMARY:PsbI (Inne)
+LOCATION:201 65
+DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Marcin Pachnik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260218T095000
