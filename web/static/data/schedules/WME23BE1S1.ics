@@ -22,7 +22,7 @@ DTSTART:20250303T114000
 DTEND:20250303T131500
 SUMMARY:BiO (w)
 LOCATION:6/ 23a
-DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T133000
@@ -43,14 +43,14 @@ DTSTART:20250304T080000
 DTEND:20250304T093500
 SUMMARY:Rou (w)
 LOCATION:6/ 23a
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T095000
 DTEND:20250304T112500
 SUMMARY:Rou (w)
 LOCATION:6/ 23a
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T114000
@@ -78,7 +78,7 @@ DTSTART:20250305T114000
 DTEND:20250305T131500
 SUMMARY:Po (w)
 LOCATION:54/ 62
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T080000
@@ -176,7 +176,7 @@ DTSTART:20250310T114000
 DTEND:20250310T131500
 SUMMARY:BiO (w)
 LOCATION:6/ 23a
-DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T133000
@@ -197,14 +197,14 @@ DTSTART:20250311T080000
 DTEND:20250311T093500
 SUMMARY:Rou (w)
 LOCATION:6/ 23a
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T095000
 DTEND:20250311T112500
 SUMMARY:Rou (w)
 LOCATION:6/ 23a
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T114000
@@ -232,7 +232,7 @@ DTSTART:20250312T114000
 DTEND:20250312T131500
 SUMMARY:Po (w)
 LOCATION:8/ 62
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T133000
@@ -386,14 +386,14 @@ DTSTART:20250318T080000
 DTEND:20250318T093500
 SUMMARY:Rou (w)
 LOCATION:6/ 23a
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T095000
 DTEND:20250318T112500
 SUMMARY:Rou (w)
 LOCATION:6/ 23a
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T080000
@@ -414,7 +414,7 @@ DTSTART:20250319T114000
 DTEND:20250319T131500
 SUMMARY:Po (w)
 LOCATION:54/ 62
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T133000
@@ -554,7 +554,7 @@ DTSTART:20250324T114000
 DTEND:20250324T131500
 SUMMARY:BiO (w)
 LOCATION:6/ 23a
-DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T133000
@@ -582,7 +582,7 @@ DTSTART:20250325T095000
 DTEND:20250325T112500
 SUMMARY:Rou (w)
 LOCATION:6/ 23a
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T114000
@@ -610,7 +610,7 @@ DTSTART:20250326T114000
 DTEND:20250326T131500
 SUMMARY:Po (w)
 LOCATION:8/ 62
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T133000
@@ -729,7 +729,7 @@ DTSTART:20250331T114000
 DTEND:20250331T131500
 SUMMARY:BiO (w)
 LOCATION:6/ 23a
-DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T133000
@@ -799,7 +799,7 @@ DTSTART:20250402T114000
 DTEND:20250402T131500
 SUMMARY:Po (w)
 LOCATION:54/ 62
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T133000
@@ -953,7 +953,7 @@ DTSTART:20250407T114000
 DTEND:20250407T131500
 SUMMARY:BiO (w)
 LOCATION:6/ 23a
-DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T133000
@@ -1142,7 +1142,7 @@ DTSTART:20250414T114000
 DTEND:20250414T131500
 SUMMARY:BiO (w)
 LOCATION:6/ 23a
-DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T133000
@@ -1212,14 +1212,14 @@ DTSTART:20250416T133000
 DTEND:20250416T150500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T160000
 DTEND:20250416T173500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T095000
@@ -1499,7 +1499,7 @@ DTSTART:20250423T133000
 DTEND:20250423T150500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T095000
@@ -1681,21 +1681,21 @@ DTSTART:20250430T095000
 DTEND:20250430T112500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T114000
 DTEND:20250430T131500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T133000
 DTEND:20250430T150500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T175000
@@ -1926,7 +1926,7 @@ DTSTART:20250507T133000
 DTEND:20250507T150500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T160000
@@ -2080,7 +2080,7 @@ DTSTART:20250514T133000
 DTEND:20250514T150500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T160000
@@ -2276,21 +2276,21 @@ DTSTART:20250521T133000
 DTEND:20250521T150500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T160000
 DTEND:20250521T173500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T175000
 DTEND:20250521T192500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T080000
@@ -2458,7 +2458,7 @@ DTSTART:20250528T133000
 DTEND:20250528T150500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T160000
@@ -2654,21 +2654,21 @@ DTSTART:20250604T133000
 DTEND:20250604T150500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T160000
 DTEND:20250604T173500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T175000
 DTEND:20250604T192500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T095000
@@ -2808,14 +2808,14 @@ DTSTART:20250610T160000
 DTEND:20250610T173500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T175000
 DTEND:20250610T192500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T160000
@@ -2948,14 +2948,14 @@ DTSTART:20250617T160000
 DTEND:20250617T173500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T175000
 DTEND:20250617T192500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T133000
@@ -3214,14 +3214,14 @@ DTSTART:20250624T160000
 DTEND:20250624T173500
 SUMMARY:Po (Inne)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T133000
 DTEND:20250625T150500
 SUMMARY:BiO (Inne)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T160000
@@ -3263,14 +3263,14 @@ DTSTART:20250630T133000
 DTEND:20250630T150500
 SUMMARY:BiO (Inne)
 LOCATION:6/ 23a
-DESCRIPTION:Biometria\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250701T114000
 DTEND:20250701T131500
 SUMMARY:Rou (Inne)
 LOCATION:6/ 23a
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: mgr inż. Łukasz Skibniewski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250701T160000
@@ -3291,7 +3291,7 @@ DTSTART:20250702T133000
 DTEND:20250702T150500
 SUMMARY:Po (Inne)
 LOCATION:54/ 62
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250703T080000
@@ -3907,14 +3907,14 @@ DTSTART:20251015T095000
 DTEND:20251015T112500
 SUMMARY:Swb (w)
 LOCATION:6/ 23a
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T114000
 DTEND:20251015T131500
 SUMMARY:Swb (w)
 LOCATION:6/ 23a
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T080000
@@ -3928,14 +3928,14 @@ DTSTART:20251016T095000
 DTEND:20251016T112500
 SUMMARY:Swb (w)
 LOCATION:8/ 62
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T114000
 DTEND:20251016T131500
 SUMMARY:Swb (w)
 LOCATION:8/ 62
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T080000
@@ -4047,14 +4047,14 @@ DTSTART:20251022T095000
 DTEND:20251022T112500
 SUMMARY:Swb (w)
 LOCATION:54/ 62
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T114000
 DTEND:20251022T131500
 SUMMARY:Swb (w)
 LOCATION:54/ 62
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T080000
@@ -4068,14 +4068,14 @@ DTSTART:20251023T095000
 DTEND:20251023T112500
 SUMMARY:Swb (w)
 LOCATION:54/ 62
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T114000
 DTEND:20251023T131500
 SUMMARY:Swb (w)
 LOCATION:54/ 62
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T133000
@@ -6560,7 +6560,7 @@ DTSTART:20260204T114000
 DTEND:20260204T131500
 SUMMARY:Swb (E)
 LOCATION:52/ 62
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260204T133000
@@ -6721,7 +6721,7 @@ DTSTART:20260219T095000
 DTEND:20260219T112500
 SUMMARY:Swb (Inne)
 LOCATION:8/ 62
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T114000
@@ -6834,5 +6834,789 @@ DTEND:20260227T211500
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 441/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T080000
+DTEND:20260306T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 442/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T095000
+DTEND:20260306T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 443/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T114000
+DTEND:20260306T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 444/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T133000
+DTEND:20260306T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 445/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T160000
+DTEND:20260306T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 446/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T175000
+DTEND:20260306T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 447/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T194000
+DTEND:20260306T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 448/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T080000
+DTEND:20260313T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 449/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T095000
+DTEND:20260313T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 450/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T114000
+DTEND:20260313T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 451/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T133000
+DTEND:20260313T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 452/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T160000
+DTEND:20260313T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 453/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T175000
+DTEND:20260313T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 454/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T194000
+DTEND:20260313T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 455/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T080000
+DTEND:20260320T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 456/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T095000
+DTEND:20260320T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 457/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T114000
+DTEND:20260320T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 458/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T133000
+DTEND:20260320T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 459/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T160000
+DTEND:20260320T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 460/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T175000
+DTEND:20260320T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 461/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T194000
+DTEND:20260320T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 462/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T080000
+DTEND:20260327T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 463/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T095000
+DTEND:20260327T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 464/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T114000
+DTEND:20260327T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 465/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T133000
+DTEND:20260327T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 466/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T160000
+DTEND:20260327T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 467/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T175000
+DTEND:20260327T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 468/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T194000
+DTEND:20260327T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 469/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260403T080000
+DTEND:20260403T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 470/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260403T095000
+DTEND:20260403T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 471/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260403T114000
+DTEND:20260403T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 472/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260403T133000
+DTEND:20260403T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 473/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260403T160000
+DTEND:20260403T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 474/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260403T175000
+DTEND:20260403T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 475/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260403T194000
+DTEND:20260403T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 476/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T080000
+DTEND:20260410T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 477/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T095000
+DTEND:20260410T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 478/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T114000
+DTEND:20260410T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 479/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T133000
+DTEND:20260410T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 480/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T160000
+DTEND:20260410T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 481/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T175000
+DTEND:20260410T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 482/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T194000
+DTEND:20260410T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 483/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T080000
+DTEND:20260417T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 484/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T095000
+DTEND:20260417T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 485/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T114000
+DTEND:20260417T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 486/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T133000
+DTEND:20260417T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 487/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T160000
+DTEND:20260417T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 488/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T175000
+DTEND:20260417T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 489/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T194000
+DTEND:20260417T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 490/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260424T080000
+DTEND:20260424T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 491/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260424T095000
+DTEND:20260424T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 492/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260424T114000
+DTEND:20260424T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 493/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260424T133000
+DTEND:20260424T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 494/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260424T160000
+DTEND:20260424T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 495/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260424T175000
+DTEND:20260424T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 496/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260424T194000
+DTEND:20260424T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 497/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260501T080000
+DTEND:20260501T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 498/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260501T095000
+DTEND:20260501T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 499/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260501T114000
+DTEND:20260501T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 500/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260501T133000
+DTEND:20260501T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 501/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260501T160000
+DTEND:20260501T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 502/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260501T175000
+DTEND:20260501T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 503/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260501T194000
+DTEND:20260501T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 504/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T080000
+DTEND:20260508T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 505/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T095000
+DTEND:20260508T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 506/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T114000
+DTEND:20260508T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 507/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T133000
+DTEND:20260508T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 508/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T160000
+DTEND:20260508T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 509/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T175000
+DTEND:20260508T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 510/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T194000
+DTEND:20260508T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 511/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T080000
+DTEND:20260515T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 512/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T095000
+DTEND:20260515T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 513/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T114000
+DTEND:20260515T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 514/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T133000
+DTEND:20260515T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 515/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T160000
+DTEND:20260515T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 516/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T175000
+DTEND:20260515T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 517/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T194000
+DTEND:20260515T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 518/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T080000
+DTEND:20260522T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 519/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T095000
+DTEND:20260522T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 520/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T114000
+DTEND:20260522T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 521/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T133000
+DTEND:20260522T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 522/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T160000
+DTEND:20260522T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 523/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T175000
+DTEND:20260522T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 524/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T194000
+DTEND:20260522T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 525/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T080000
+DTEND:20260529T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 526/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T095000
+DTEND:20260529T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 527/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T114000
+DTEND:20260529T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 528/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T133000
+DTEND:20260529T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 529/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T160000
+DTEND:20260529T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 530/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T175000
+DTEND:20260529T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 531/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T194000
+DTEND:20260529T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 532/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260605T080000
+DTEND:20260605T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 533/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260605T095000
+DTEND:20260605T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 534/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260605T114000
+DTEND:20260605T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 535/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260605T133000
+DTEND:20260605T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 536/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260605T160000
+DTEND:20260605T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 537/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260605T175000
+DTEND:20260605T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 538/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260605T194000
+DTEND:20260605T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 539/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T080000
+DTEND:20260612T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 540/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T095000
+DTEND:20260612T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 541/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T114000
+DTEND:20260612T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 542/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T133000
+DTEND:20260612T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 543/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T160000
+DTEND:20260612T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 544/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T175000
+DTEND:20260612T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 545/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T194000
+DTEND:20260612T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 546/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T080000
+DTEND:20260619T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 547/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T095000
+DTEND:20260619T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 548/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T114000
+DTEND:20260619T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 549/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T133000
+DTEND:20260619T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 550/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T160000
+DTEND:20260619T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 551/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T175000
+DTEND:20260619T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 552/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T194000
+DTEND:20260619T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 553/1\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

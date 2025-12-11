@@ -281,7 +281,7 @@ DTSTART:20251002T080000
 DTEND:20251002T093500
 SUMMARY:M1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 1/15\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 1/15\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T080000
@@ -323,7 +323,7 @@ DTSTART:20251007T095000
 DTEND:20251007T112500
 SUMMARY:M1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 2/15\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 2/15\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T114000
@@ -337,14 +337,14 @@ DTSTART:20251008T080000
 DTEND:20251008T093500
 SUMMARY:M1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 3/15\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 3/15\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T095000
 DTEND:20251008T112500
 SUMMARY:M1 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/19\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T114000
@@ -365,7 +365,7 @@ DTSTART:20251009T080000
 DTEND:20251009T093500
 SUMMARY:M1 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/19\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T160000
@@ -449,14 +449,14 @@ DTSTART:20251014T133000
 DTEND:20251014T150500
 SUMMARY:M1 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/19\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T114000
 DTEND:20251016T131500
 SUMMARY:M1 (w)
 LOCATION:3/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 4/15\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 4/15\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T160000
@@ -526,21 +526,21 @@ DTSTART:20251021T133000
 DTEND:20251021T150500
 SUMMARY:M1 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/19\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T080000
 DTEND:20251022T093500
 SUMMARY:M1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 5/15\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 5/15\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T095000
 DTEND:20251022T112500
 SUMMARY:M1 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/19\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T114000
@@ -554,7 +554,7 @@ DTSTART:20251023T114000
 DTEND:20251023T131500
 SUMMARY:M1 (w)
 LOCATION:3/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T133000
@@ -624,7 +624,7 @@ DTSTART:20251028T095000
 DTEND:20251028T112500
 SUMMARY:M1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 7/15\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 7/15\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T114000
@@ -645,7 +645,7 @@ DTSTART:20251029T080000
 DTEND:20251029T093500
 SUMMARY:M1 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/19\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T095000
@@ -666,14 +666,14 @@ DTSTART:20251029T133000
 DTEND:20251029T150500
 SUMMARY:M1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 8/15\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 8/15\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T080000
 DTEND:20251030T093500
 SUMMARY:M1 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/19\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T095000
@@ -792,7 +792,7 @@ DTSTART:20251104T095000
 DTEND:20251104T112500
 SUMMARY:M1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 9/15\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 9/15\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T114000
@@ -813,7 +813,7 @@ DTSTART:20251105T080000
 DTEND:20251105T093500
 SUMMARY:M1 (ć)
 LOCATION:52/ 62
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/19\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T095000
@@ -834,14 +834,14 @@ DTSTART:20251105T133000
 DTEND:20251105T150500
 SUMMARY:M1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 10/15\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 10/15\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T080000
 DTEND:20251106T093500
 SUMMARY:M1 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/19\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T095000
@@ -967,7 +967,7 @@ DTSTART:20251113T080000
 DTEND:20251113T093500
 SUMMARY:M1 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/19\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T095000
@@ -1037,7 +1037,7 @@ DTSTART:20251118T095000
 DTEND:20251118T112500
 SUMMARY:M1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 11/15\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 11/15\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T114000
@@ -1058,7 +1058,7 @@ DTSTART:20251119T080000
 DTEND:20251119T093500
 SUMMARY:M1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 12/15\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 12/15\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T095000
@@ -1072,21 +1072,21 @@ DTSTART:20251119T114000
 DTEND:20251119T131500
 SUMMARY:M1 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/19\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T133000
 DTEND:20251119T150500
 SUMMARY:M1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 13/15\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 13/15\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T080000
 DTEND:20251120T093500
 SUMMARY:M1 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/19\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T095000
@@ -1142,7 +1142,7 @@ DTSTART:20251125T095000
 DTEND:20251125T112500
 SUMMARY:M1 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 14/15\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 14/15\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T114000
@@ -1163,14 +1163,14 @@ DTSTART:20251126T080000
 DTEND:20251126T093500
 SUMMARY:M1 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/19\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T095000
 DTEND:20251126T112500
 SUMMARY:M1 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/19\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T114000
@@ -1184,14 +1184,14 @@ DTSTART:20251126T133000
 DTEND:20251126T150500
 SUMMARY:M1 (w)
 LOCATION:aF S
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 15/15\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 15/15\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T080000
 DTEND:20251127T093500
 SUMMARY:M1 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/19\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T095000
@@ -1296,21 +1296,21 @@ DTSTART:20251202T095000
 DTEND:20251202T112500
 SUMMARY:Mat2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 1/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 1/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T114000
 DTEND:20251202T131500
 SUMMARY:Mat2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 2/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 2/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T133000
 DTEND:20251202T150500
 SUMMARY:M1 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/19\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T080000
@@ -1324,7 +1324,7 @@ DTSTART:20251203T095000
 DTEND:20251203T112500
 SUMMARY:M1 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/19\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T114000
@@ -1338,14 +1338,14 @@ DTSTART:20251203T133000
 DTEND:20251203T150500
 SUMMARY:Mat2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 3/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 3/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T080000
 DTEND:20251204T093500
 SUMMARY:M1 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/19\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T095000
@@ -1359,7 +1359,7 @@ DTSTART:20251204T114000
 DTEND:20251204T131500
 SUMMARY:M1 (ć)
 LOCATION:120/ 54
-DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/19\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/19\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T160000
@@ -1380,21 +1380,21 @@ DTSTART:20251205T080000
 DTEND:20251205T093500
 SUMMARY:WdS (w)
 LOCATION:ONLINE
-DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T095000
 DTEND:20251205T112500
 SUMMARY:WdS (w)
 LOCATION:ONLINE
-DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T114000
 DTEND:20251205T131500
 SUMMARY:WdS (w)
 LOCATION:ONLINE
-DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T133000
@@ -1443,7 +1443,7 @@ DTSTART:20251208T114000
 DTEND:20251208T131500
 SUMMARY:Mat2 (w)
 LOCATION:3.8 75
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 4/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 4/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T080000
@@ -1457,7 +1457,7 @@ DTSTART:20251209T095000
 DTEND:20251209T112500
 SUMMARY:Mat2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 5/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 5/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T114000
@@ -1492,21 +1492,21 @@ DTSTART:20251210T095000
 DTEND:20251210T112500
 SUMMARY:Mat2 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T114000
 DTEND:20251210T131500
 SUMMARY:Mat2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 6/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 6/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T080000
 DTEND:20251211T093500
 SUMMARY:Mat2 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T095000
@@ -1520,7 +1520,7 @@ DTSTART:20251211T114000
 DTEND:20251211T131500
 SUMMARY:Mat2 (ć)
 LOCATION:120/ 54
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T160000
@@ -1562,14 +1562,14 @@ DTSTART:20251215T114000
 DTEND:20251215T131500
 SUMMARY:Mat2 (w)
 LOCATION:3.8 75
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 7/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 7/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T133000
 DTEND:20251215T150500
 SUMMARY:Mat2 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T080000
@@ -1583,7 +1583,7 @@ DTSTART:20251216T095000
 DTEND:20251216T112500
 SUMMARY:Mat2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 8/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 8/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T114000
@@ -1597,7 +1597,7 @@ DTSTART:20251217T080000
 DTEND:20251217T093500
 SUMMARY:Mat2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 9/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 9/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T095000
@@ -1611,14 +1611,14 @@ DTSTART:20251217T114000
 DTEND:20251217T131500
 SUMMARY:Mat2 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T080000
 DTEND:20251218T093500
 SUMMARY:Mat2 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T095000
@@ -1632,7 +1632,7 @@ DTSTART:20251218T114000
 DTEND:20251218T131500
 SUMMARY:Mat2 (ć)
 LOCATION:52/ 62
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T160000
@@ -2346,21 +2346,21 @@ DTSTART:20260107T080000
 DTEND:20260107T093500
 SUMMARY:Mat2 (w)
 LOCATION:3.8 75
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 10/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 10/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T114000
 DTEND:20260107T131500
 SUMMARY:Mat2 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T080000
 DTEND:20260108T093500
 SUMMARY:Mat2 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T095000
@@ -2409,7 +2409,7 @@ DTSTART:20260112T114000
 DTEND:20260112T131500
 SUMMARY:Mat2 (w)
 LOCATION:3.8 75
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 11/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 11/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T080000
@@ -2423,14 +2423,14 @@ DTSTART:20260113T095000
 DTEND:20260113T112500
 SUMMARY:Mat2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 12/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 12/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T080000
 DTEND:20260115T093500
 SUMMARY:Mat2 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T095000
@@ -2444,7 +2444,7 @@ DTSTART:20260115T114000
 DTEND:20260115T131500
 SUMMARY:Mat2 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T160000
@@ -2486,7 +2486,7 @@ DTSTART:20260119T114000
 DTEND:20260119T131500
 SUMMARY:Mat2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 13/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 13/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T080000
@@ -2500,7 +2500,7 @@ DTSTART:20260120T095000
 DTEND:20260120T112500
 SUMMARY:Mat2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 14/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 14/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T080000
@@ -2514,21 +2514,21 @@ DTSTART:20260121T095000
 DTEND:20260121T112500
 SUMMARY:Mat2 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T114000
 DTEND:20260121T131500
 SUMMARY:Mat2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 15/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 15/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T080000
 DTEND:20260122T093500
 SUMMARY:Mat2 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T095000
@@ -2542,7 +2542,7 @@ DTSTART:20260122T114000
 DTEND:20260122T131500
 SUMMARY:Mat2 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T160000
@@ -2584,7 +2584,7 @@ DTSTART:20260127T095000
 DTEND:20260127T112500
 SUMMARY:Mat2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 16/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 16/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T080000
@@ -2598,21 +2598,21 @@ DTSTART:20260128T095000
 DTEND:20260128T112500
 SUMMARY:Mat2 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 17/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 17/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T114000
 DTEND:20260128T131500
 SUMMARY:Mat2 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T080000
 DTEND:20260129T093500
 SUMMARY:Mat2 (ć)
 LOCATION:9/ 62
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T095000
@@ -2626,7 +2626,7 @@ DTSTART:20260129T114000
 DTEND:20260129T131500
 SUMMARY:Mat2 (ć)
 LOCATION:108/ 54
-DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/17\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/17\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T160000
@@ -2654,14 +2654,14 @@ DTSTART:20260203T095000
 DTEND:20260203T112500
 SUMMARY:M1 (E)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T114000
 DTEND:20260203T131500
 SUMMARY:M1 (E)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T133000
@@ -2682,14 +2682,14 @@ DTSTART:20260205T095000
 DTEND:20260205T112500
 SUMMARY:Mat2 (E)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 2\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260205T114000
 DTEND:20260205T131500
 SUMMARY:Mat2 (E)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 2\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260205T133000
@@ -2710,7 +2710,7 @@ DTSTART:20260206T114000
 DTEND:20260206T131500
 SUMMARY:WdS (Inne)
 LOCATION:301/ S
-DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Wprowadzenie do studiowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T133000
@@ -2759,28 +2759,28 @@ DTSTART:20260217T095000
 DTEND:20260217T112500
 SUMMARY:M1 (Inne)
 LOCATION:51/ 62
-DESCRIPTION:Matematyka 1\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260217T114000
 DTEND:20260217T131500
 SUMMARY:M1 (Inne)
 LOCATION:51/ 62
-DESCRIPTION:Matematyka 1\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 1\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T095000
 DTEND:20260219T112500
 SUMMARY:Mat2 (Inne)
 LOCATION:51/ 62
-DESCRIPTION:Matematyka 2\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T114000
 DTEND:20260219T131500
 SUMMARY:Mat2 (Inne)
 LOCATION:51/ 62
-DESCRIPTION:Matematyka 2\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 2\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T080000
@@ -2795,6 +2795,55 @@ DTEND:20260305T173500
 SUMMARY:Ja (ć)
 LOCATION:237 K 235 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T080000
+DTEND:20260306T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 170/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T095000
+DTEND:20260306T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 171/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T114000
+DTEND:20260306T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 172/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T133000
+DTEND:20260306T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 173/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T160000
+DTEND:20260306T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 174/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T175000
+DTEND:20260306T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 175/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T194000
+DTEND:20260306T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 176/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T080000
@@ -2818,6 +2867,55 @@ LOCATION:237 K 235 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260313T080000
+DTEND:20260313T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 177/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T095000
+DTEND:20260313T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 178/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T114000
+DTEND:20260313T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 179/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T133000
+DTEND:20260313T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 180/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T160000
+DTEND:20260313T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 181/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T175000
+DTEND:20260313T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 182/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T194000
+DTEND:20260313T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 183/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260316T080000
 DTEND:20260316T093500
 SUMMARY:WF (ć)
@@ -2837,6 +2935,55 @@ DTEND:20260319T173500
 SUMMARY:Ja (ć)
 LOCATION:237 K 235 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T080000
+DTEND:20260320T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 184/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T095000
+DTEND:20260320T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 185/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T114000
+DTEND:20260320T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 186/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T133000
+DTEND:20260320T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 187/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T160000
+DTEND:20260320T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 188/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T175000
+DTEND:20260320T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 189/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T194000
+DTEND:20260320T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 190/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260323T080000
@@ -2860,6 +3007,55 @@ LOCATION:237 K 235 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260327T080000
+DTEND:20260327T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 191/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T095000
+DTEND:20260327T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 192/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T114000
+DTEND:20260327T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 193/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T133000
+DTEND:20260327T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 194/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T160000
+DTEND:20260327T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 195/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T175000
+DTEND:20260327T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 196/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T194000
+DTEND:20260327T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 197/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260330T080000
 DTEND:20260330T093500
 SUMMARY:WF (ć)
@@ -2879,6 +3075,55 @@ DTEND:20260402T173500
 SUMMARY:Ja (ć)
 LOCATION:237 K 235 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260403T080000
+DTEND:20260403T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 198/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260403T095000
+DTEND:20260403T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 199/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260403T114000
+DTEND:20260403T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 200/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260403T133000
+DTEND:20260403T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 201/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260403T160000
+DTEND:20260403T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 202/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260403T175000
+DTEND:20260403T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 203/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260403T194000
+DTEND:20260403T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 204/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260406T080000
@@ -2902,6 +3147,55 @@ LOCATION:237 K 235 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260410T080000
+DTEND:20260410T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 205/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T095000
+DTEND:20260410T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 206/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T114000
+DTEND:20260410T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 207/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T133000
+DTEND:20260410T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 208/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T160000
+DTEND:20260410T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 209/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T175000
+DTEND:20260410T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 210/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T194000
+DTEND:20260410T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 211/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260413T080000
 DTEND:20260413T093500
 SUMMARY:WF (ć)
@@ -2921,6 +3215,55 @@ DTEND:20260416T173500
 SUMMARY:Ja (ć)
 LOCATION:237 K 235 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T080000
+DTEND:20260417T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 212/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T095000
+DTEND:20260417T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 213/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T114000
+DTEND:20260417T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 214/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T133000
+DTEND:20260417T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 215/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T160000
+DTEND:20260417T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 216/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T175000
+DTEND:20260417T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 217/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T194000
+DTEND:20260417T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 218/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T080000
@@ -2944,6 +3287,55 @@ LOCATION:237 K 235 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260424T080000
+DTEND:20260424T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 219/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260424T095000
+DTEND:20260424T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 220/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260424T114000
+DTEND:20260424T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 221/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260424T133000
+DTEND:20260424T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 222/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260424T160000
+DTEND:20260424T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 223/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260424T175000
+DTEND:20260424T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 224/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260424T194000
+DTEND:20260424T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 225/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260427T080000
 DTEND:20260427T093500
 SUMMARY:WF (ć)
@@ -2963,6 +3355,55 @@ DTEND:20260430T173500
 SUMMARY:Ja (ć)
 LOCATION:237 K 235 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 24/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260501T080000
+DTEND:20260501T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 226/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260501T095000
+DTEND:20260501T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 227/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260501T114000
+DTEND:20260501T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 228/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260501T133000
+DTEND:20260501T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 229/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260501T160000
+DTEND:20260501T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 230/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260501T175000
+DTEND:20260501T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 231/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260501T194000
+DTEND:20260501T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 232/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T080000
@@ -2986,6 +3427,55 @@ LOCATION:237 K 235 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260508T080000
+DTEND:20260508T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 233/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T095000
+DTEND:20260508T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 234/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T114000
+DTEND:20260508T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 235/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T133000
+DTEND:20260508T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 236/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T160000
+DTEND:20260508T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 237/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T175000
+DTEND:20260508T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 238/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T194000
+DTEND:20260508T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 239/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260511T080000
 DTEND:20260511T093500
 SUMMARY:WF (ć)
@@ -3005,6 +3495,55 @@ DTEND:20260514T173500
 SUMMARY:Ja (ć)
 LOCATION:237 K 235 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 26/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T080000
+DTEND:20260515T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 240/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T095000
+DTEND:20260515T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 241/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T114000
+DTEND:20260515T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 242/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T133000
+DTEND:20260515T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 243/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T160000
+DTEND:20260515T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 244/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T175000
+DTEND:20260515T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 245/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T194000
+DTEND:20260515T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 246/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T080000
@@ -3028,6 +3567,55 @@ LOCATION:237 K 235 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 27/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260522T080000
+DTEND:20260522T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 247/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T095000
+DTEND:20260522T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 248/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T114000
+DTEND:20260522T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 249/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T133000
+DTEND:20260522T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 250/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T160000
+DTEND:20260522T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 251/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T175000
+DTEND:20260522T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 252/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T194000
+DTEND:20260522T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 253/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260525T080000
 DTEND:20260525T093500
 SUMMARY:WF (ć)
@@ -3049,11 +3637,109 @@ LOCATION:237 K 235 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260529T080000
+DTEND:20260529T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 254/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T095000
+DTEND:20260529T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 255/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T114000
+DTEND:20260529T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 256/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T133000
+DTEND:20260529T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 257/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T160000
+DTEND:20260529T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 258/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T175000
+DTEND:20260529T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 259/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T194000
+DTEND:20260529T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 260/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260603T175000
 DTEND:20260603T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260605T080000
+DTEND:20260605T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 261/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260605T095000
+DTEND:20260605T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 262/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260605T114000
+DTEND:20260605T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 263/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260605T133000
+DTEND:20260605T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 264/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260605T160000
+DTEND:20260605T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 265/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260605T175000
+DTEND:20260605T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 266/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260605T194000
+DTEND:20260605T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 267/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T175000
@@ -3070,6 +3756,55 @@ LOCATION:237 K 235 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 29/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260612T080000
+DTEND:20260612T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 268/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T095000
+DTEND:20260612T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 269/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T114000
+DTEND:20260612T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 270/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T133000
+DTEND:20260612T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 271/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T160000
+DTEND:20260612T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 272/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T175000
+DTEND:20260612T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 273/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T194000
+DTEND:20260612T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 274/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260617T175000
 DTEND:20260617T192500
 SUMMARY:JoM (ć)
@@ -3082,5 +3817,54 @@ DTEND:20260618T173500
 SUMMARY:Ja (ć)
 LOCATION:237 K 235 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 30/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T080000
+DTEND:20260619T093500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 275/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T095000
+DTEND:20260619T112500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 276/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T114000
+DTEND:20260619T131500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 277/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T133000
+DTEND:20260619T150500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 278/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T160000
+DTEND:20260619T173500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 279/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T175000
+DTEND:20260619T192500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 280/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T194000
+DTEND:20260619T211500
+SUMMARY:- (Inne)
+LOCATION:-
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 281/1\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

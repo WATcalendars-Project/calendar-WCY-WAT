@@ -8,35 +8,35 @@ DTSTART:20250320T080000
 DTEND:20250320T093500
 SUMMARY:Stc (w)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 1/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 1/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T095000
 DTEND:20250320T112500
 SUMMARY:Stc (w)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 2/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 2/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T114000
 DTEND:20250320T131500
 SUMMARY:NLP (w)
 LOCATION:236 S
-DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T133000
 DTEND:20250320T150500
 SUMMARY:MLe (w)
 LOCATION:236 S
-DESCRIPTION:Machine Learning\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Machine Learning\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T114000
 DTEND:20250324T131500
 SUMMARY:Ec (w)
 LOCATION:078 S
-DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący:  Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T133000
@@ -71,49 +71,49 @@ DTSTART:20250326T080000
 DTEND:20250326T093500
 SUMMARY:Stc (L)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T095000
 DTEND:20250326T112500
 SUMMARY:Stc (L)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T114000
 DTEND:20250326T131500
 SUMMARY:Stc (L)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T080000
 DTEND:20250327T093500
 SUMMARY:Stc (w)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 3/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 3/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T095000
 DTEND:20250327T112500
 SUMMARY:Stc (w)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 4/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 4/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T114000
 DTEND:20250327T131500
 SUMMARY:NLP (w)
 LOCATION:236 S
-DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T133000
 DTEND:20250327T150500
 SUMMARY:MLe (w)
 LOCATION:236 S
-DESCRIPTION:Machine Learning\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Machine Learning\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T160000
@@ -162,7 +162,7 @@ DTSTART:20250331T114000
 DTEND:20250331T131500
 SUMMARY:Ec (w)
 LOCATION:078 S
-DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący:  Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T133000
@@ -176,42 +176,42 @@ DTSTART:20250403T080000
 DTEND:20250403T093500
 SUMMARY:Stc (w)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 5/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 5/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T095000
 DTEND:20250403T112500
 SUMMARY:Stc (w)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T114000
 DTEND:20250403T131500
 SUMMARY:Stc (w)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 7/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 7/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T133000
 DTEND:20250403T150500
 SUMMARY:NLP (ć)
 LOCATION:239 S
-DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T080000
 DTEND:20250404T093500
 SUMMARY:MLe (w)
 LOCATION:236 S
-DESCRIPTION:Machine Learning\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Machine Learning\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T114000
 DTEND:20250407T131500
 SUMMARY:Ec (w)
 LOCATION:078 S
-DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 3/9\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 3/9\nProwadzący:  Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T160000
@@ -260,28 +260,28 @@ DTSTART:20250410T080000
 DTEND:20250410T093500
 SUMMARY:Stc (w)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 8/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 8/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T095000
 DTEND:20250410T112500
 SUMMARY:Stc (w)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 9/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 9/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T114000
 DTEND:20250410T131500
 SUMMARY:Stc (w)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 10/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 10/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T133000
 DTEND:20250410T150500
 SUMMARY:NLP (w)
 LOCATION:236 S
-DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T160000
@@ -302,14 +302,14 @@ DTSTART:20250411T080000
 DTEND:20250411T093500
 SUMMARY:MLe (w)
 LOCATION:236 S
-DESCRIPTION:Machine Learning\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Machine Learning\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T095000
 DTEND:20250411T112500
 SUMMARY:MLe (ć)
 LOCATION:236 S
-DESCRIPTION:Machine Learning\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Machine Learning\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T114000
@@ -337,7 +337,7 @@ DTSTART:20250414T114000
 DTEND:20250414T131500
 SUMMARY:Ec (w)
 LOCATION:078 S
-DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 4/9\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 4/9\nProwadzący:  Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T133000
@@ -421,7 +421,7 @@ DTSTART:20250417T133000
 DTEND:20250417T150500
 SUMMARY:MLe (w)
 LOCATION:236 S
-DESCRIPTION:Machine Learning\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Machine Learning\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T160000
@@ -442,14 +442,14 @@ DTSTART:20250424T160000
 DTEND:20250424T173500
 SUMMARY:NLP (w)
 LOCATION:236 S
-DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T175000
 DTEND:20250424T192500
 SUMMARY:MLe (w)
 LOCATION:236 S
-DESCRIPTION:Machine Learning\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Machine Learning\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T095000
@@ -463,14 +463,14 @@ DTSTART:20250428T114000
 DTEND:20250428T131500
 SUMMARY:Ec (w)
 LOCATION:078 S
-DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 5/9\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 5/9\nProwadzący:  Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T114000
 DTEND:20250429T131500
 SUMMARY:Ec (L)
 LOCATION:078 S
-DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący:  Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T095000
@@ -484,7 +484,7 @@ DTSTART:20250505T114000
 DTEND:20250505T131500
 SUMMARY:Ec (w)
 LOCATION:078 S
-DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący:  Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T160000
@@ -519,14 +519,14 @@ DTSTART:20250506T114000
 DTEND:20250506T131500
 SUMMARY:Ec (L)
 LOCATION:078 S
-DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący:  Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T133000
 DTEND:20250506T150500
 SUMMARY:Ec (L)
 LOCATION:078 S
-DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący:  Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T160000
@@ -589,7 +589,7 @@ DTSTART:20250512T114000
 DTEND:20250512T131500
 SUMMARY:Ec (w)
 LOCATION:078 S
-DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący:  Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T160000
@@ -659,14 +659,14 @@ DTSTART:20250515T080000
 DTEND:20250515T093500
 SUMMARY:Stc (w)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 11/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 11/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T095000
 DTEND:20250515T112500
 SUMMARY:Stc (w)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 12/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 12/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T133000
@@ -680,112 +680,112 @@ DTSTART:20250515T160000
 DTEND:20250515T173500
 SUMMARY:MLe (L)
 LOCATION:236 S
-DESCRIPTION:Machine Learning\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Machine Learning\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T175000
 DTEND:20250515T192500
 SUMMARY:MLe (L)
 LOCATION:236 S
-DESCRIPTION:Machine Learning\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Machine Learning\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T114000
 DTEND:20250519T131500
 SUMMARY:Ec (w)
 LOCATION:078 S
-DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący:  Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T095000
 DTEND:20250520T112500
 SUMMARY:Ec (L)
 LOCATION:078 S
-DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący:  Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T080000
 DTEND:20250521T093500
 SUMMARY:Stc (w)
 LOCATION:252 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 13/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 13/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T095000
 DTEND:20250521T112500
 SUMMARY:Stc (w)
 LOCATION:252 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 14/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 14/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T114000
 DTEND:20250521T131500
 SUMMARY:Stc (w)
 LOCATION:252 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 15/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 15/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T080000
 DTEND:20250522T093500
 SUMMARY:Stc (L)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T095000
 DTEND:20250522T112500
 SUMMARY:Stc (L)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T114000
 DTEND:20250522T131500
 SUMMARY:Stc (L)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T160000
 DTEND:20250522T173500
 SUMMARY:NLP (ć)
 LOCATION:236 S
-DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T175000
 DTEND:20250522T192500
 SUMMARY:NLP (ć)
 LOCATION:236 S
-DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T080000
 DTEND:20250523T093500
 SUMMARY:MLe (w)
 LOCATION:236 S
-DESCRIPTION:Machine Learning\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Machine Learning\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T095000
 DTEND:20250523T112500
 SUMMARY:MLe (ć)
 LOCATION:236 S
-DESCRIPTION:Machine Learning\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Machine Learning\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T114000
 DTEND:20250523T131500
 SUMMARY:NLP (L)
 LOCATION:236 S
-DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T133000
 DTEND:20250523T150500
 SUMMARY:NLP (L)
 LOCATION:236 S
-DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T095000
@@ -799,7 +799,7 @@ DTSTART:20250526T114000
 DTEND:20250526T131500
 SUMMARY:Ec (w)
 LOCATION:078 S
-DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący:  Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T160000
@@ -869,56 +869,56 @@ DTSTART:20250529T080000
 DTEND:20250529T093500
 SUMMARY:Stc (L)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T095000
 DTEND:20250529T112500
 SUMMARY:Stc (L)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T114000
 DTEND:20250529T131500
 SUMMARY:Stc (L)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T160000
 DTEND:20250529T173500
 SUMMARY:MLe (L)
 LOCATION:236 S
-DESCRIPTION:Machine Learning\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Machine Learning\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T175000
 DTEND:20250529T192500
 SUMMARY:MLe (L)
 LOCATION:236 S
-DESCRIPTION:Machine Learning\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Machine Learning\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T080000
 DTEND:20250530T093500
 SUMMARY:NLP (L)
 LOCATION:236 S
-DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T095000
 DTEND:20250530T112500
 SUMMARY:NLP (L)
 LOCATION:236 S
-DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T114000
 DTEND:20250530T131500
 SUMMARY:NLP (ć)
 LOCATION:226 S
-DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T095000
@@ -932,42 +932,42 @@ DTSTART:20250602T114000
 DTEND:20250602T131500
 SUMMARY:Ec (L)
 LOCATION:078 S
-DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący:  Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T080000
 DTEND:20250605T093500
 SUMMARY:Stc (L)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T095000
 DTEND:20250605T112500
 SUMMARY:Stc (L)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T114000
 DTEND:20250605T131500
 SUMMARY:Stc (L)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T160000
 DTEND:20250605T173500
 SUMMARY:MLe (L)
 LOCATION:236 S
-DESCRIPTION:Machine Learning\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Machine Learning\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T175000
 DTEND:20250605T192500
 SUMMARY:MLe (L)
 LOCATION:236 S
-DESCRIPTION:Machine Learning\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Machine Learning\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T095000
@@ -981,42 +981,42 @@ DTSTART:20250609T114000
 DTEND:20250609T131500
 SUMMARY:Ec (L)
 LOCATION:078 S
-DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący:  Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T160000
 DTEND:20250612T173500
 SUMMARY:NLP (L)
 LOCATION:236 S
-DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T175000
 DTEND:20250612T192500
 SUMMARY:NLP (L)
 LOCATION:236 S
-DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T080000
 DTEND:20250613T093500
 SUMMARY:NLP (ć)
 LOCATION:239 S
-DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T095000
 DTEND:20250613T112500
 SUMMARY:NLP (L)
 LOCATION:236 S
-DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T114000
 DTEND:20250613T131500
 SUMMARY:NLP (L)
 LOCATION:236 S
-DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Marcin Mazurek
+DESCRIPTION:Natural Language Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Marcin Mazurek
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T095000
@@ -1030,34 +1030,34 @@ DTSTART:20250616T114000
 DTEND:20250616T131500
 SUMMARY:Ec (L)
 LOCATION:078 S
-DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący:  Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T114000
 DTEND:20250617T131500
 SUMMARY:Stc (L)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T133000
 DTEND:20250617T150500
 SUMMARY:Stc (L)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T160000
 DTEND:20250617T173500
 SUMMARY:Stc (L)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/15\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/15\nProwadzący:  Ewa Łakoma
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T080000
 DTEND:20250626T093500
 SUMMARY:Stc (E)
 LOCATION:239 S
-DESCRIPTION:Statistics\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Ewa Łakoma
+DESCRIPTION:Statistics\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Ewa Łakoma
 END:VEVENT
 END:VCALENDAR
