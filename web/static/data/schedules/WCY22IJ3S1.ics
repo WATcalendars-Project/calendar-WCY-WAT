@@ -8,14 +8,14 @@ DTSTART:20250303T080000
 DTEND:20250303T093500
 SUMMARY:PZ (P)
 LOCATION:224 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 1/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 1/22\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T095000
 DTEND:20250303T112500
 SUMMARY:PZ (P)
 LOCATION:224 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 2/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 2/22\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T080000
@@ -43,14 +43,14 @@ DTSTART:20250306T095000
 DTEND:20250306T112500
 SUMMARY:Jtp (w)
 LOCATION:316 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T114000
 DTEND:20250306T131500
 SUMMARY:Jtp (w)
 LOCATION:316 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T080000
@@ -64,21 +64,21 @@ DTSTART:20250307T114000
 DTEND:20250307T131500
 SUMMARY:kck (w)
 LOCATION:307 S
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T114000
 DTEND:20250310T131500
 SUMMARY:PZ (P)
 LOCATION:226 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 3/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 3/22\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T133000
 DTEND:20250310T150500
 SUMMARY:PZ (P)
 LOCATION:226 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 4/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 4/22\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T160000
@@ -120,14 +120,14 @@ DTSTART:20250311T133000
 DTEND:20250311T150500
 SUMMARY:TAI (L)
 LOCATION:226 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T160000
 DTEND:20250311T173500
 SUMMARY:TAI (L)
 LOCATION:226 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T080000
@@ -148,21 +148,21 @@ DTSTART:20250313T133000
 DTEND:20250313T150500
 SUMMARY:Jtp (L)
 LOCATION:226 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T160000
 DTEND:20250313T173500
 SUMMARY:Jtp (L)
 LOCATION:226 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T114000
 DTEND:20250314T131500
 SUMMARY:kck (w)
 LOCATION:307 S
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T080000
@@ -176,7 +176,7 @@ DTSTART:20250317T095000
 DTEND:20250317T112500
 SUMMARY:kck (w)
 LOCATION:307 S
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T160000
@@ -190,14 +190,14 @@ DTSTART:20250318T114000
 DTEND:20250318T131500
 SUMMARY:PZ (P)
 LOCATION:226 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 5/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 5/22\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T133000
 DTEND:20250318T150500
 SUMMARY:PZ (P)
 LOCATION:226 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 6/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 6/22\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T114000
@@ -239,7 +239,7 @@ DTSTART:20250321T114000
 DTEND:20250321T131500
 SUMMARY:kck (w)
 LOCATION:307 S
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T080000
@@ -253,7 +253,7 @@ DTSTART:20250324T133000
 DTEND:20250324T150500
 SUMMARY:TAI (L)
 LOCATION:227 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T160000
@@ -274,14 +274,14 @@ DTSTART:20250325T114000
 DTEND:20250325T131500
 SUMMARY:PZ (P)
 LOCATION:227 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 7/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 7/22\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T133000
 DTEND:20250325T150500
 SUMMARY:PZ (P)
 LOCATION:227 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 8/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 8/22\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T080000
@@ -309,7 +309,7 @@ DTSTART:20250328T114000
 DTEND:20250328T131500
 SUMMARY:kck (w)
 LOCATION:307 S
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T080000
@@ -337,14 +337,14 @@ DTSTART:20250401T114000
 DTEND:20250401T131500
 SUMMARY:EdP (L)
 LOCATION:233 S
-DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T133000
 DTEND:20250401T150500
 SUMMARY:EdP (L)
 LOCATION:233 S
-DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T175000
@@ -365,14 +365,14 @@ DTSTART:20250402T080000
 DTEND:20250402T093500
 SUMMARY:PZ (P)
 LOCATION:223 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 9/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 9/22\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T095000
 DTEND:20250402T112500
 SUMMARY:PZ (P)
 LOCATION:223 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 10/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 10/22\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T114000
@@ -393,28 +393,28 @@ DTSTART:20250402T160000
 DTEND:20250402T173500
 SUMMARY:Jtp (L)
 LOCATION:227 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T175000
 DTEND:20250402T192500
 SUMMARY:Jtp (L)
 LOCATION:227 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T095000
 DTEND:20250403T112500
 SUMMARY:Jtp (w)
 LOCATION:313 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T114000
 DTEND:20250403T131500
 SUMMARY:Jtp (w)
 LOCATION:313 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T080000
@@ -463,14 +463,14 @@ DTSTART:20250409T114000
 DTEND:20250409T131500
 SUMMARY:PZ (P)
 LOCATION:239 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 11/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 11/22\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T133000
 DTEND:20250409T150500
 SUMMARY:PZ (P)
 LOCATION:239 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 12/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 12/22\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T114000
@@ -491,7 +491,7 @@ DTSTART:20250411T114000
 DTEND:20250411T131500
 SUMMARY:kck (w)
 LOCATION:307 S
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T080000
@@ -582,14 +582,14 @@ DTSTART:20250416T160000
 DTEND:20250416T173500
 SUMMARY:Jtp (L)
 LOCATION:239 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T175000
 DTEND:20250416T192500
 SUMMARY:Jtp (L)
 LOCATION:239 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T080000
@@ -610,28 +610,28 @@ DTSTART:20250417T114000
 DTEND:20250417T131500
 SUMMARY:PZ (P)
 LOCATION:233 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 13/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 13/22\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T133000
 DTEND:20250417T150500
 SUMMARY:PZ (P)
 LOCATION:233 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 14/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 14/22\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T160000
 DTEND:20250417T173500
 SUMMARY:kck (w)
 LOCATION:316 S
-DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Tomasz Pałys
+DESCRIPTION:Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T095000
 DTEND:20250423T112500
 SUMMARY:Jtp (w)
 LOCATION:307 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T114000
@@ -652,14 +652,14 @@ DTSTART:20250424T114000
 DTEND:20250424T131500
 SUMMARY:PZ (P)
 LOCATION:233 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 15/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 15/22\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T133000
 DTEND:20250424T150500
 SUMMARY:PZ (P)
 LOCATION:233 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 16/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 16/22\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T095000
@@ -687,7 +687,7 @@ DTSTART:20250429T095000
 DTEND:20250429T112500
 SUMMARY:TAI (L)
 LOCATION:239 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T114000
@@ -722,14 +722,14 @@ DTSTART:20250430T114000
 DTEND:20250430T131500
 SUMMARY:Jtp (L)
 LOCATION:239 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T133000
 DTEND:20250430T150500
 SUMMARY:Jtp (L)
 LOCATION:239 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T080000
@@ -771,14 +771,14 @@ DTSTART:20250508T114000
 DTEND:20250508T131500
 SUMMARY:PZ (P)
 LOCATION:237 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 17/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 17/22\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T133000
 DTEND:20250508T150500
 SUMMARY:PZ (P)
 LOCATION:237 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 18/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 18/22\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T114000
@@ -813,35 +813,35 @@ DTSTART:20250514T160000
 DTEND:20250514T173500
 SUMMARY:Jtp (L)
 LOCATION:233 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T175000
 DTEND:20250514T192500
 SUMMARY:Jtp (L)
 LOCATION:233 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T095000
 DTEND:20250515T112500
 SUMMARY:TAI (L)
 LOCATION:228 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T114000
 DTEND:20250515T131500
 SUMMARY:PZ (P)
 LOCATION:237 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 19/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 19/22\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T133000
 DTEND:20250515T150500
 SUMMARY:PZ (P)
 LOCATION:237 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 20/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 20/22\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T175000
@@ -890,7 +890,7 @@ DTSTART:20250521T114000
 DTEND:20250521T131500
 SUMMARY:TAI (L)
 LOCATION:237 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T160000
@@ -911,28 +911,28 @@ DTSTART:20250528T114000
 DTEND:20250528T131500
 SUMMARY:PZ (P)
 LOCATION:237 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 21/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 21/22\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T133000
 DTEND:20250528T150500
 SUMMARY:PZ (P)
 LOCATION:237 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 22/22\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 22/22\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T080000
 DTEND:20250530T093500
 SUMMARY:EdP (L)
 LOCATION:237 S
-DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T095000
 DTEND:20250530T112500
 SUMMARY:EdP (L)
 LOCATION:237 S
-DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T160000
@@ -1009,28 +1009,28 @@ DTSTART:20250605T080000
 DTEND:20250605T093500
 SUMMARY:EdP (L)
 LOCATION:233 S
-DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T095000
 DTEND:20250605T112500
 SUMMARY:EdP (L)
 LOCATION:233 S
-DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T114000
 DTEND:20250605T131500
 SUMMARY:TAI (L)
 LOCATION:223 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T133000
 DTEND:20250605T150500
 SUMMARY:TAI (L)
 LOCATION:223 S
-DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie aplikacji internetowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T080000
@@ -1044,14 +1044,14 @@ DTSTART:20250610T080000
 DTEND:20250610T093500
 SUMMARY:EdP (L)
 LOCATION:236 S
-DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T095000
 DTEND:20250610T112500
 SUMMARY:EdP (L)
 LOCATION:236 S
-DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Event-driven programming\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T080000
@@ -1086,14 +1086,14 @@ DTSTART:20250618T114000
 DTEND:20250618T131500
 SUMMARY:Jtp (Inne)
 LOCATION:19 36
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T133000
 DTEND:20250618T150500
 SUMMARY:Jtp (Inne)
 LOCATION:19 36
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T080000
@@ -1121,7 +1121,7 @@ DTSTART:20250919T160000
 DTEND:20250919T173500
 SUMMARY:Jtp (Inne)
 LOCATION:314 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250919T175000
@@ -1156,14 +1156,14 @@ DTSTART:20251008T114000
 DTEND:20251008T131500
 SUMMARY:Orr (w)
 LOCATION:309 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T133000
 DTEND:20251008T150500
 SUMMARY:Orr (w)
 LOCATION:309 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T114000
@@ -1177,14 +1177,14 @@ DTSTART:20251009T133000
 DTEND:20251009T150500
 SUMMARY:Bsi (w)
 LOCATION:317 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T160000
 DTEND:20251009T173500
 SUMMARY:Bsi (w)
 LOCATION:317 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T080000
@@ -1205,21 +1205,21 @@ DTSTART:20251023T133000
 DTEND:20251023T150500
 SUMMARY:Bsi (w)
 LOCATION:308 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T160000
 DTEND:20251023T173500
 SUMMARY:Bsi (w)
 LOCATION:308 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T175000
 DTEND:20251024T192500
 SUMMARY:Wpp (Inne)
 LOCATION:313 S 19 36
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. Piotr Kosiuczenko
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T080000
@@ -1282,14 +1282,14 @@ DTSTART:20251031T114000
 DTEND:20251031T131500
 SUMMARY:Orr (w)
 LOCATION:309 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 7/6\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 7/6\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T133000
 DTEND:20251031T150500
 SUMMARY:Orr (w)
 LOCATION:309 S
-DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 8/6\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 8/6\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T080000
@@ -1317,21 +1317,21 @@ DTSTART:20251104T114000
 DTEND:20251104T131500
 SUMMARY:Bsi (L)
 LOCATION:227 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T133000
 DTEND:20251104T150500
 SUMMARY:Bsi (L)
 LOCATION:227 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T160000
 DTEND:20251104T173500
 SUMMARY:Bsi (L)
 LOCATION:227 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T080000
@@ -1492,14 +1492,14 @@ DTSTART:20251120T133000
 DTEND:20251120T150500
 SUMMARY:Bsi (w)
 LOCATION:307 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T160000
 DTEND:20251120T173500
 SUMMARY:Bsi (w)
 LOCATION:307 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T095000
@@ -1513,21 +1513,21 @@ DTSTART:20251121T114000
 DTEND:20251121T131500
 SUMMARY:Bsi (L)
 LOCATION:236 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T133000
 DTEND:20251121T150500
 SUMMARY:Bsi (L)
 LOCATION:236 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T160000
 DTEND:20251121T173500
 SUMMARY:Bsi (L)
 LOCATION:236 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T080000
@@ -1562,21 +1562,21 @@ DTSTART:20251125T114000
 DTEND:20251125T131500
 SUMMARY:Bsi (L)
 LOCATION:239 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T133000
 DTEND:20251125T150500
 SUMMARY:Bsi (L)
 LOCATION:239 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T160000
 DTEND:20251125T173500
 SUMMARY:Bsi (L)
 LOCATION:239 S
-DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: dr inż. Jerzy Stanik
+DESCRIPTION:Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T114000

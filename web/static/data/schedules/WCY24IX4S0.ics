@@ -15,14 +15,14 @@ DTSTART:20250303T114000
 DTEND:20250303T131500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 1/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 1/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T095000
 DTEND:20250304T112500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T114000
@@ -36,14 +36,14 @@ DTSTART:20250305T080000
 DTEND:20250305T093500
 SUMMARY:Tpi (w)
 LOCATION:317 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T095000
 DTEND:20250305T112500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 2/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 2/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T114000
@@ -148,7 +148,7 @@ DTSTART:20250310T114000
 DTEND:20250310T131500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 3/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 3/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T080000
@@ -162,7 +162,7 @@ DTSTART:20250311T095000
 DTEND:20250311T112500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T114000
@@ -176,7 +176,7 @@ DTSTART:20250311T133000
 DTEND:20250311T150500
 SUMMARY:Tpi (w)
 LOCATION:314 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T080000
@@ -253,7 +253,7 @@ DTSTART:20250314T160000
 DTEND:20250314T173500
 SUMMARY:PTk (w)
 LOCATION:313 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T080000
@@ -288,14 +288,14 @@ DTSTART:20250318T080000
 DTEND:20250318T093500
 SUMMARY:Tpi (w)
 LOCATION:316 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T095000
 DTEND:20250318T112500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T114000
@@ -330,7 +330,7 @@ DTSTART:20250319T114000
 DTEND:20250319T131500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T133000
@@ -449,14 +449,14 @@ DTSTART:20250325T080000
 DTEND:20250325T093500
 SUMMARY:Tpi (w)
 LOCATION:316 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T095000
 DTEND:20250325T112500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T114000
@@ -491,14 +491,14 @@ DTSTART:20250326T095000
 DTEND:20250326T112500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 6/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 6/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T114000
 DTEND:20250326T131500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 7/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 7/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T133000
@@ -512,14 +512,14 @@ DTSTART:20250326T160000
 DTEND:20250326T173500
 SUMMARY:WdP (L)
 LOCATION:226 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Kamil Małysz
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T175000
 DTEND:20250326T192500
 SUMMARY:WdP (L)
 LOCATION:226 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Kamil Małysz
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T080000
@@ -575,7 +575,7 @@ DTSTART:20250328T080000
 DTEND:20250328T093500
 SUMMARY:Rp (L)
 LOCATION:085 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr inż. Krzysztof Mańk
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący:  Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T095000
@@ -645,21 +645,21 @@ DTSTART:20250331T133000
 DTEND:20250331T150500
 SUMMARY:Rp (ć)
 LOCATION:085 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: mgr inż. Krzysztof Mańk
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący:  Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T080000
 DTEND:20250401T093500
 SUMMARY:Tpi (w)
 LOCATION:316 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T095000
 DTEND:20250401T112500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T114000
@@ -687,7 +687,7 @@ DTSTART:20250402T095000
 DTEND:20250402T112500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 8/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 8/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T114000
@@ -820,14 +820,14 @@ DTSTART:20250408T080000
 DTEND:20250408T093500
 SUMMARY:Tpi (w)
 LOCATION:316 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T095000
 DTEND:20250408T112500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T114000
@@ -932,7 +932,7 @@ DTSTART:20250411T114000
 DTEND:20250411T131500
 SUMMARY:Amt (ć)
 LOCATION:313 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/12\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/12\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T133000
@@ -988,7 +988,7 @@ DTSTART:20250415T095000
 DTEND:20250415T112500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T114000
@@ -1002,7 +1002,7 @@ DTSTART:20250415T160000
 DTEND:20250415T173500
 SUMMARY:M II (Inne)
 LOCATION:252 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T095000
@@ -1030,14 +1030,14 @@ DTSTART:20250416T160000
 DTEND:20250416T173500
 SUMMARY:WdP (L)
 LOCATION:227 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Kamil Małysz
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T175000
 DTEND:20250416T192500
 SUMMARY:WdP (L)
 LOCATION:227 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Kamil Małysz
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T080000
@@ -1100,14 +1100,14 @@ DTSTART:20250423T095000
 DTEND:20250423T112500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 9/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 9/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T114000
 DTEND:20250423T131500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 10/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 10/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T133000
@@ -1198,28 +1198,28 @@ DTSTART:20250428T160000
 DTEND:20250428T173500
 SUMMARY:WdP (L)
 LOCATION:226 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Kamil Małysz
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T175000
 DTEND:20250428T192500
 SUMMARY:WdP (L)
 LOCATION:226 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Kamil Małysz
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T080000
 DTEND:20250429T093500
 SUMMARY:Amt (ć)
 LOCATION:307 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/12\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/12\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T095000
 DTEND:20250429T112500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T114000
@@ -1233,21 +1233,21 @@ DTSTART:20250430T080000
 DTEND:20250430T093500
 SUMMARY:Rp (L)
 LOCATION:085 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr inż. Krzysztof Mańk
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący:  Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T095000
 DTEND:20250430T112500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 11/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 11/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T114000
 DTEND:20250430T131500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 12/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 12/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T133000
@@ -1282,7 +1282,7 @@ DTSTART:20250505T114000
 DTEND:20250505T131500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 13/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 13/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T080000
@@ -1296,7 +1296,7 @@ DTSTART:20250506T095000
 DTEND:20250506T112500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T114000
@@ -1310,7 +1310,7 @@ DTSTART:20250506T133000
 DTEND:20250506T150500
 SUMMARY:Amt (ć)
 LOCATION:309 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/12\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/12\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T160000
@@ -1338,7 +1338,7 @@ DTSTART:20250507T133000
 DTEND:20250507T150500
 SUMMARY:Rp (L)
 LOCATION:085 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr inż. Krzysztof Mańk
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący:  Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T080000
@@ -1387,7 +1387,7 @@ DTSTART:20250509T080000
 DTEND:20250509T093500
 SUMMARY:Amt (ć)
 LOCATION:307 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/12\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/12\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T095000
@@ -1429,14 +1429,14 @@ DTSTART:20250513T080000
 DTEND:20250513T093500
 SUMMARY:Amt (ć)
 LOCATION:307 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/12\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/12\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T095000
 DTEND:20250513T112500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T114000
@@ -1464,7 +1464,7 @@ DTSTART:20250514T095000
 DTEND:20250514T112500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 14/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 14/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T114000
@@ -1478,14 +1478,14 @@ DTSTART:20250514T160000
 DTEND:20250514T173500
 SUMMARY:WdP (L)
 LOCATION:228 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Kamil Małysz
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T175000
 DTEND:20250514T192500
 SUMMARY:WdP (L)
 LOCATION:228 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Kamil Małysz
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T080000
@@ -1562,7 +1562,7 @@ DTSTART:20250519T080000
 DTEND:20250519T093500
 SUMMARY:Amt (ć)
 LOCATION:307 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/12\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/12\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T095000
@@ -1597,7 +1597,7 @@ DTSTART:20250520T133000
 DTEND:20250520T150500
 SUMMARY:Rp (L)
 LOCATION:078 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr inż. Krzysztof Mańk
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący:  Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T095000
@@ -1702,7 +1702,7 @@ DTSTART:20250526T114000
 DTEND:20250526T131500
 SUMMARY:Amt (ć)
 LOCATION:308 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/12\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/12\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T160000
@@ -1730,7 +1730,7 @@ DTSTART:20250527T133000
 DTEND:20250527T150500
 SUMMARY:Amt (ć)
 LOCATION:307 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/12\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/12\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T160000
@@ -1751,7 +1751,7 @@ DTSTART:20250528T095000
 DTEND:20250528T112500
 SUMMARY:Rp (ć)
 LOCATION:078 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: mgr inż. Krzysztof Mańk
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący:  Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T114000
@@ -1765,14 +1765,14 @@ DTSTART:20250528T160000
 DTEND:20250528T173500
 SUMMARY:WdP (L)
 LOCATION:227 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Kamil Małysz
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T175000
 DTEND:20250528T192500
 SUMMARY:WdP (L)
 LOCATION:227 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Kamil Małysz
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T080000
@@ -1898,7 +1898,7 @@ DTSTART:20250603T095000
 DTEND:20250603T112500
 SUMMARY:Amt (ć)
 LOCATION:313 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/12\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/12\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T114000
@@ -2052,7 +2052,7 @@ DTSTART:20250610T133000
 DTEND:20250610T150500
 SUMMARY:Amt (ć)
 LOCATION:308 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/12\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/12\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T160000
@@ -2136,7 +2136,7 @@ DTSTART:20250613T095000
 DTEND:20250613T112500
 SUMMARY:Rp (L)
 LOCATION:085 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Krzysztof Mańk
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący:  Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T114000
@@ -2157,7 +2157,7 @@ DTSTART:20250616T080000
 DTEND:20250616T093500
 SUMMARY:Amt (ć)
 LOCATION:307 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/12\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/12\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T095000
@@ -2185,7 +2185,7 @@ DTSTART:20250617T095000
 DTEND:20250617T112500
 SUMMARY:Amt (ć)
 LOCATION:307 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/12\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/12\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T114000
@@ -2213,7 +2213,7 @@ DTSTART:20250618T095000
 DTEND:20250618T112500
 SUMMARY:Tpi (w)
 LOCATION:316 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T114000
@@ -2269,14 +2269,14 @@ DTSTART:20250626T095000
 DTEND:20250626T112500
 SUMMARY:Amt (E)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T114000
 DTEND:20250626T131500
 SUMMARY:Amt (E)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T160000
@@ -2325,7 +2325,7 @@ DTSTART:20250704T114000
 DTEND:20250704T131500
 SUMMARY:Tpi (Inne)
 LOCATION:317 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250708T095000
@@ -2339,7 +2339,7 @@ DTSTART:20250708T160000
 DTEND:20250708T173500
 SUMMARY:WdP (Inne)
 LOCATION:317 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 1/3\nProwadzący: mgr inż. Kamil Małysz
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 1/3\nProwadzący:  Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250709T133000
@@ -2360,7 +2360,7 @@ DTSTART:20250710T095000
 DTEND:20250710T112500
 SUMMARY:Amt (Inne)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Joanna Piasecka
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Joanna Piasecka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250710T160000
@@ -2381,7 +2381,7 @@ DTSTART:20250711T114000
 DTEND:20250711T131500
 SUMMARY:Tpi (Inne)
 LOCATION:317 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250711T133000
@@ -2458,7 +2458,7 @@ DTSTART:20251002T095000
 DTEND:20251002T112500
 SUMMARY:Sm (w)
 LOCATION:316 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T114000
@@ -2486,7 +2486,7 @@ DTSTART:20251006T080000
 DTEND:20251006T093500
 SUMMARY:Sm (w)
 LOCATION:316 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T095000
@@ -2542,14 +2542,14 @@ DTSTART:20251010T080000
 DTEND:20251010T093500
 SUMMARY:Tgs (w)
 LOCATION:317 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T095000
 DTEND:20251010T112500
 SUMMARY:Tgs (w)
 LOCATION:317 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T114000
@@ -2577,7 +2577,7 @@ DTSTART:20251013T080000
 DTEND:20251013T093500
 SUMMARY:Sm (w)
 LOCATION:316 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T095000
@@ -2619,14 +2619,14 @@ DTSTART:20251015T080000
 DTEND:20251015T093500
 SUMMARY:Pnak (w)
 LOCATION:313 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T095000
 DTEND:20251015T112500
 SUMMARY:Pnak (w)
 LOCATION:313 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T133000

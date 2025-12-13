@@ -113,14 +113,14 @@ DTSTART:20250303T095000
 DTEND:20250303T112500
 SUMMARY:SZP (L)
 LOCATION:085 S
-DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T114000
 DTEND:20250303T131500
 SUMMARY:SZP (L)
 LOCATION:085 S
-DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T175000
@@ -183,14 +183,14 @@ DTSTART:20250306T114000
 DTEND:20250306T131500
 SUMMARY:SZP (L)
 LOCATION:085 S
-DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T133000
 DTEND:20250306T150500
 SUMMARY:SZP (L)
 LOCATION:085 S
-DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T080000
@@ -253,28 +253,28 @@ DTSTART:20250314T095000
 DTEND:20250314T112500
 SUMMARY:SZP (L)
 LOCATION:078 S
-DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T114000
 DTEND:20250314T131500
 SUMMARY:SZP (L)
 LOCATION:078 S
-DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T114000
 DTEND:20250317T131500
 SUMMARY:SZP (L)
 LOCATION:078 S
-DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T133000
 DTEND:20250317T150500
 SUMMARY:SZP (L)
 LOCATION:078 S
-DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T080000
@@ -295,14 +295,14 @@ DTSTART:20250318T114000
 DTEND:20250318T131500
 SUMMARY:SZP (L)
 LOCATION:085 S
-DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T133000
 DTEND:20250318T150500
 SUMMARY:SZP (L)
 LOCATION:085 S
-DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Marta Saniuk
+DESCRIPTION:Systemy zabezpieczeń pomieszczeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Marta Saniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T095000
@@ -421,7 +421,7 @@ DTSTART:20250408T114000
 DTEND:20250408T131500
 SUMMARY:Dtu (Inne)
 LOCATION:125 65
-DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Michał Melaniuk
+DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T114000

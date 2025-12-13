@@ -8,7 +8,7 @@ DTSTART:20250303T080000
 DTEND:20250303T093500
 SUMMARY:PO (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T095000
@@ -22,14 +22,14 @@ DTSTART:20250304T095000
 DTEND:20250304T112500
 SUMMARY:Pk (w)
 LOCATION:308 S
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T114000
 DTEND:20250304T131500
 SUMMARY:Wek (w)
 LOCATION:316 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr inż. Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący:  Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T133000
@@ -50,7 +50,7 @@ DTSTART:20250304T175000
 DTEND:20250304T192500
 SUMMARY:Bd (Inne)
 LOCATION:316 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T080000
@@ -78,7 +78,7 @@ DTSTART:20250306T095000
 DTEND:20250306T112500
 SUMMARY:Pnak (w)
 LOCATION:314 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T080000
@@ -106,21 +106,21 @@ DTSTART:20250307T133000
 DTEND:20250307T150500
 SUMMARY:PO (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T095000
 DTEND:20250311T112500
 SUMMARY:Pk (w)
 LOCATION:317 S
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T114000
 DTEND:20250311T131500
 SUMMARY:Wek (w)
 LOCATION:316 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr inż. Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący:  Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T133000
@@ -169,21 +169,21 @@ DTSTART:20250313T080000
 DTEND:20250313T093500
 SUMMARY:Pnak (w)
 LOCATION:313 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T095000
 DTEND:20250313T112500
 SUMMARY:Pnak (w)
 LOCATION:313 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T133000
 DTEND:20250313T150500
 SUMMARY:Etl (w)
 LOCATION:316 S
-DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: prof. dr hab. Jacek Pomykała
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Jacek Pomykała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T080000
@@ -197,14 +197,14 @@ DTSTART:20250314T114000
 DTEND:20250314T131500
 SUMMARY:PO (w)
 LOCATION:313 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T133000
 DTEND:20250314T150500
 SUMMARY:PO (w)
 LOCATION:313 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T095000
@@ -218,14 +218,14 @@ DTSTART:20250318T095000
 DTEND:20250318T112500
 SUMMARY:Pk (w)
 LOCATION:308 S
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T114000
 DTEND:20250318T131500
 SUMMARY:Wek (w)
 LOCATION:316 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr inż. Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący:  Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T133000
@@ -267,21 +267,21 @@ DTSTART:20250320T080000
 DTEND:20250320T093500
 SUMMARY:Pnak (w)
 LOCATION:313 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T095000
 DTEND:20250320T112500
 SUMMARY:Pnak (w)
 LOCATION:313 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T114000
 DTEND:20250320T131500
 SUMMARY:Etl (w)
 LOCATION:313 S
-DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: prof. dr hab. Jacek Pomykała
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Jacek Pomykała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T133000
@@ -316,14 +316,14 @@ DTSTART:20250321T114000
 DTEND:20250321T131500
 SUMMARY:PO (w)
 LOCATION:313 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T133000
 DTEND:20250321T150500
 SUMMARY:PO (w)
 LOCATION:313 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T160000
@@ -351,14 +351,14 @@ DTSTART:20250325T095000
 DTEND:20250325T112500
 SUMMARY:Pk (w)
 LOCATION:307 S
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T114000
 DTEND:20250325T131500
 SUMMARY:Wek (w)
 LOCATION:316 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr inż. Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący:  Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T133000
@@ -414,21 +414,21 @@ DTSTART:20250327T080000
 DTEND:20250327T093500
 SUMMARY:Pnak (w)
 LOCATION:313 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T095000
 DTEND:20250327T112500
 SUMMARY:Pnak (w)
 LOCATION:313 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T114000
 DTEND:20250327T131500
 SUMMARY:Etl (w)
 LOCATION:313 S
-DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: prof. dr hab. Jacek Pomykała
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Jacek Pomykała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T160000
@@ -463,21 +463,21 @@ DTSTART:20250328T133000
 DTEND:20250328T150500
 SUMMARY:PO (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Tadeusz Nowicki
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Tadeusz Nowicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T114000
 DTEND:20250331T131500
 SUMMARY:Pnak (L)
 LOCATION:236 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T133000
 DTEND:20250331T150500
 SUMMARY:Pnak (L)
 LOCATION:236 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T160000
@@ -498,7 +498,7 @@ DTSTART:20250401T114000
 DTEND:20250401T131500
 SUMMARY:Wek (w)
 LOCATION:316 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr inż. Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący:  Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T133000
@@ -554,14 +554,14 @@ DTSTART:20250403T080000
 DTEND:20250403T093500
 SUMMARY:IO (L)
 LOCATION:223 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/14\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/14\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T095000
 DTEND:20250403T112500
 SUMMARY:IO (L)
 LOCATION:223 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/14\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/14\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T114000
@@ -596,14 +596,14 @@ DTSTART:20250404T133000
 DTEND:20250404T150500
 SUMMARY:IK (L)
 LOCATION:011 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T160000
 DTEND:20250404T173500
 SUMMARY:IK (L)
 LOCATION:011 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T095000
@@ -631,21 +631,21 @@ DTSTART:20250408T080000
 DTEND:20250408T093500
 SUMMARY:Pk (w)
 LOCATION:313 S
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T095000
 DTEND:20250408T112500
 SUMMARY:Pk (w)
 LOCATION:313 S
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T114000
 DTEND:20250408T131500
 SUMMARY:Wek (w)
 LOCATION:316 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr inż. Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący:  Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T133000
@@ -673,21 +673,21 @@ DTSTART:20250409T095000
 DTEND:20250409T112500
 SUMMARY:Pnak (L)
 LOCATION:236 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T114000
 DTEND:20250409T131500
 SUMMARY:Pnak (L)
 LOCATION:236 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T133000
 DTEND:20250409T150500
 SUMMARY:PO (ć)
 LOCATION:314 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T080000
@@ -743,14 +743,14 @@ DTSTART:20250414T114000
 DTEND:20250414T131500
 SUMMARY:IK (L)
 LOCATION:011 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T133000
 DTEND:20250414T150500
 SUMMARY:IK (L)
 LOCATION:011 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T160000
@@ -764,14 +764,14 @@ DTSTART:20250415T095000
 DTEND:20250415T112500
 SUMMARY:Pk (w)
 LOCATION:317 S
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T114000
 DTEND:20250415T131500
 SUMMARY:Wek (w)
 LOCATION:316 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr inż. Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący:  Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T133000
@@ -834,7 +834,7 @@ DTSTART:20250417T114000
 DTEND:20250417T131500
 SUMMARY:Etl (w)
 LOCATION:313 S
-DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: prof. dr hab. Jacek Pomykała
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Jacek Pomykała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T080000
@@ -855,14 +855,14 @@ DTSTART:20250423T114000
 DTEND:20250423T131500
 SUMMARY:IO (L)
 LOCATION:236 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/14\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/14\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T133000
 DTEND:20250423T150500
 SUMMARY:IO (L)
 LOCATION:236 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/14\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/14\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T080000
@@ -890,28 +890,28 @@ DTSTART:20250428T080000
 DTEND:20250428T093500
 SUMMARY:IO (L)
 LOCATION:224 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/14\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/14\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T095000
 DTEND:20250428T112500
 SUMMARY:IO (L)
 LOCATION:224 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/14\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/14\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T114000
 DTEND:20250428T131500
 SUMMARY:Pnak (L)
 LOCATION:236 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T133000
 DTEND:20250428T150500
 SUMMARY:Pnak (L)
 LOCATION:236 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T160000
@@ -925,14 +925,14 @@ DTSTART:20250429T095000
 DTEND:20250429T112500
 SUMMARY:Pk (w)
 LOCATION:317 S
-DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: mgr inż. Tomasz Kijko
+DESCRIPTION:Protokoły kryptograficzne\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Tomasz Kijko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T114000
 DTEND:20250429T131500
 SUMMARY:Wek (w)
 LOCATION:316 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr inż. Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący:  Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T133000
@@ -967,42 +967,42 @@ DTSTART:20250505T133000
 DTEND:20250505T150500
 SUMMARY:PO (ć)
 LOCATION:308 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T160000
 DTEND:20250505T173500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T175000
 DTEND:20250505T192500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T080000
 DTEND:20250506T093500
 SUMMARY:Pnak (L)
 LOCATION:236 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T095000
 DTEND:20250506T112500
 SUMMARY:Pnak (L)
 LOCATION:236 S
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T114000
 DTEND:20250506T131500
 SUMMARY:Wek (w)
 LOCATION:316 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr inż. Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący:  Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T133000
@@ -1030,7 +1030,7 @@ DTSTART:20250508T114000
 DTEND:20250508T131500
 SUMMARY:Etl (w)
 LOCATION:307 S
-DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: prof. dr hab. Jacek Pomykała
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Jacek Pomykała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T133000
@@ -1065,7 +1065,7 @@ DTSTART:20250513T114000
 DTEND:20250513T131500
 SUMMARY:Wek (w)
 LOCATION:316 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr inż. Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T133000
@@ -1121,7 +1121,7 @@ DTSTART:20250515T114000
 DTEND:20250515T131500
 SUMMARY:Etl (w)
 LOCATION:307 S
-DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: prof. dr hab. Jacek Pomykała
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Jacek Pomykała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T160000
@@ -1142,14 +1142,14 @@ DTSTART:20250519T080000
 DTEND:20250519T093500
 SUMMARY:IO (L)
 LOCATION:223 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/14\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/14\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T095000
 DTEND:20250519T112500
 SUMMARY:IO (L)
 LOCATION:223 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/14\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/14\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T095000
@@ -1212,7 +1212,7 @@ DTSTART:20250522T114000
 DTEND:20250522T131500
 SUMMARY:Etl (w)
 LOCATION:307 S
-DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: prof. dr hab. Jacek Pomykała
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Jacek Pomykała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T095000
@@ -1268,28 +1268,28 @@ DTSTART:20250528T160000
 DTEND:20250528T173500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T175000
 DTEND:20250528T192500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T114000
 DTEND:20250529T131500
 SUMMARY:Etl (w)
 LOCATION:307 S
-DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: prof. dr hab. Jacek Pomykała
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Jacek Pomykała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T133000
 DTEND:20250529T150500
 SUMMARY:PO (ć)
 LOCATION:309 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T160000
@@ -1303,14 +1303,14 @@ DTSTART:20250602T080000
 DTEND:20250602T093500
 SUMMARY:IO (L)
 LOCATION:224 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/14\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/14\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T095000
 DTEND:20250602T112500
 SUMMARY:IO (L)
 LOCATION:224 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/14\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/14\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T095000
@@ -1324,7 +1324,7 @@ DTSTART:20250603T114000
 DTEND:20250603T131500
 SUMMARY:PO (ć)
 LOCATION:314 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T133000
@@ -1366,14 +1366,14 @@ DTSTART:20250604T133000
 DTEND:20250604T150500
 SUMMARY:PO (ć)
 LOCATION:307 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T114000
 DTEND:20250605T131500
 SUMMARY:PO (ć)
 LOCATION:317 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T133000
@@ -1401,7 +1401,7 @@ DTSTART:20250609T114000
 DTEND:20250609T131500
 SUMMARY:PO (ć)
 LOCATION:313 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T133000
@@ -1422,14 +1422,14 @@ DTSTART:20250611T080000
 DTEND:20250611T093500
 SUMMARY:IO (L)
 LOCATION:233 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/14\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/14\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T095000
 DTEND:20250611T112500
 SUMMARY:IO (L)
 LOCATION:233 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/14\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/14\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T114000
@@ -1450,14 +1450,14 @@ DTSTART:20250611T160000
 DTEND:20250611T173500
 SUMMARY:IK (L)
 LOCATION:106 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T175000
 DTEND:20250611T192500
 SUMMARY:IK (L)
 LOCATION:106 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T095000
@@ -1471,7 +1471,7 @@ DTSTART:20250612T114000
 DTEND:20250612T131500
 SUMMARY:PO (ć)
 LOCATION:316 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T095000
@@ -1513,14 +1513,14 @@ DTSTART:20250618T080000
 DTEND:20250618T093500
 SUMMARY:IO (L)
 LOCATION:224 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/14\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/14\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T095000
 DTEND:20250618T112500
 SUMMARY:IO (L)
 LOCATION:224 S
-DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/14\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/14\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T114000
@@ -1534,7 +1534,7 @@ DTSTART:20250624T095000
 DTEND:20250624T112500
 SUMMARY:Wek (E)
 LOCATION:316 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T095000
@@ -1555,7 +1555,7 @@ DTSTART:20250702T095000
 DTEND:20250702T112500
 SUMMARY:PO (Inne)
 LOCATION:313 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250703T080000
@@ -1611,14 +1611,14 @@ DTSTART:20250916T095000
 DTEND:20250916T112500
 SUMMARY:Wek (Inne)
 LOCATION:316 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250917T095000
 DTEND:20250917T112500
 SUMMARY:PO (Inne)
 LOCATION:313 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250917T114000
@@ -1639,14 +1639,14 @@ DTSTART:20250918T160000
 DTEND:20250918T173500
 SUMMARY:Pnak (Inne)
 LOCATION:125 65 106 65
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Adam Patkowski
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250918T160000
 DTEND:20250918T173500
 SUMMARY:Pnak (Inne)
 LOCATION:125 65 106 65
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: mgr inż. Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250919T080000

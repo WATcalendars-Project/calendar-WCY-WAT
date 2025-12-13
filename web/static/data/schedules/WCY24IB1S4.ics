@@ -8,14 +8,14 @@ DTSTART:20251007T080000
 DTEND:20251007T093500
 SUMMARY:No (w)
 LOCATION:309 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T095000
 DTEND:20251007T112500
 SUMMARY:Mzw (w)
 LOCATION:228 S
-DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T080000
@@ -36,14 +36,14 @@ DTSTART:20251014T080000
 DTEND:20251014T093500
 SUMMARY:No (w)
 LOCATION:309 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T114000
 DTEND:20251014T131500
 SUMMARY:Mzw (w)
 LOCATION:228 S
-DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T080000
@@ -64,7 +64,7 @@ DTSTART:20251021T080000
 DTEND:20251021T093500
 SUMMARY:No (w)
 LOCATION:309 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T095000
@@ -78,7 +78,7 @@ DTSTART:20251021T114000
 DTEND:20251021T131500
 SUMMARY:Mzw (w)
 LOCATION:228 S
-DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T080000
@@ -92,7 +92,7 @@ DTSTART:20251028T080000
 DTEND:20251028T093500
 SUMMARY:No (w)
 LOCATION:309 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T095000
@@ -106,21 +106,21 @@ DTSTART:20251028T114000
 DTEND:20251028T131500
 SUMMARY:Mzw (w)
 LOCATION:228 S
-DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T080000
 DTEND:20251029T093500
 SUMMARY:Mia (P)
 LOCATION:224 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 1/8\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 1/8\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T095000
 DTEND:20251029T112500
 SUMMARY:Mia (P)
 LOCATION:224 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 2/8\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 2/8\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T080000
@@ -155,7 +155,7 @@ DTSTART:20251104T080000
 DTEND:20251104T093500
 SUMMARY:No (w)
 LOCATION:309 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T095000
@@ -183,14 +183,14 @@ DTSTART:20251105T114000
 DTEND:20251105T131500
 SUMMARY:Mzw (w)
 LOCATION:228 S
-DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T133000
 DTEND:20251105T150500
 SUMMARY:Tim (w)
 LOCATION:227 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T080000
@@ -218,14 +218,14 @@ DTSTART:20251112T114000
 DTEND:20251112T131500
 SUMMARY:Mzw (w)
 LOCATION:228 S
-DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T133000
 DTEND:20251112T150500
 SUMMARY:Tim (w)
 LOCATION:228 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T080000
@@ -260,7 +260,7 @@ DTSTART:20251118T080000
 DTEND:20251118T093500
 SUMMARY:No (w)
 LOCATION:309 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T095000
@@ -288,14 +288,14 @@ DTSTART:20251119T114000
 DTEND:20251119T131500
 SUMMARY:Mzw (L)
 LOCATION:228 S
-DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T133000
 DTEND:20251119T150500
 SUMMARY:Tim (w)
 LOCATION:236 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T080000
@@ -330,7 +330,7 @@ DTSTART:20251125T080000
 DTEND:20251125T093500
 SUMMARY:No (w)
 LOCATION:309 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T095000
@@ -358,7 +358,7 @@ DTSTART:20251126T114000
 DTEND:20251126T131500
 SUMMARY:Mzw (L)
 LOCATION:228 S
-DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T080000
@@ -386,49 +386,49 @@ DTSTART:20251127T133000
 DTEND:20251127T150500
 SUMMARY:Mia (w)
 LOCATION:226 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T160000
 DTEND:20251201T173500
 SUMMARY:Mia (P)
 LOCATION:226 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 3/8\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 3/8\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T175000
 DTEND:20251201T192500
 SUMMARY:Mia (P)
 LOCATION:226 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 4/8\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 4/8\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T080000
 DTEND:20251202T093500
 SUMMARY:No (L)
 LOCATION:223 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T095000
 DTEND:20251202T112500
 SUMMARY:No (L)
 LOCATION:223 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T080000
 DTEND:20251203T093500
 SUMMARY:Mia (w)
 LOCATION:224 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T095000
 DTEND:20251203T112500
 SUMMARY:Mzw (L)
 LOCATION:228 S
-DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T080000
@@ -449,14 +449,14 @@ DTSTART:20251209T080000
 DTEND:20251209T093500
 SUMMARY:No (L)
 LOCATION:223 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T095000
 DTEND:20251209T112500
 SUMMARY:No (L)
 LOCATION:223 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T114000
@@ -470,35 +470,35 @@ DTSTART:20251209T133000
 DTEND:20251209T150500
 SUMMARY:Tim (w)
 LOCATION:226 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T080000
 DTEND:20251210T093500
 SUMMARY:Mia (w)
 LOCATION:224 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T095000
 DTEND:20251210T112500
 SUMMARY:Mzw (L)
 LOCATION:228 S
-DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T114000
 DTEND:20251210T131500
 SUMMARY:Tim (w)
 LOCATION:228 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T133000
 DTEND:20251210T150500
 SUMMARY:Tim (L)
 LOCATION:227 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T080000
@@ -519,21 +519,21 @@ DTSTART:20251211T133000
 DTEND:20251211T150500
 SUMMARY:Mia (w)
 LOCATION:226 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T080000
 DTEND:20251216T093500
 SUMMARY:No (L)
 LOCATION:223 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T095000
 DTEND:20251216T112500
 SUMMARY:No (L)
 LOCATION:223 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T114000
@@ -554,14 +554,14 @@ DTSTART:20251217T080000
 DTEND:20251217T093500
 SUMMARY:Mia (w)
 LOCATION:224 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T095000
 DTEND:20251217T112500
 SUMMARY:Mzw (L)
 LOCATION:228 S
-DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T080000
@@ -573,16 +573,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T095000
 DTEND:20251218T112500
-SUMMARY:BSI (w)
+SUMMARY:BSI (L)
 LOCATION:224 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T114000
 DTEND:20251218T131500
 SUMMARY:Mia (w)
 LOCATION:226 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T114000
@@ -603,28 +603,28 @@ DTSTART:20260107T080000
 DTEND:20260107T093500
 SUMMARY:Mia (P)
 LOCATION:224 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 5/8\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 5/8\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T095000
 DTEND:20260107T112500
 SUMMARY:Mia (P)
 LOCATION:224 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 6/8\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 6/8\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T114000
 DTEND:20260107T131500
 SUMMARY:Tim (L)
 LOCATION:227 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T133000
 DTEND:20260107T150500
 SUMMARY:Tim (L)
 LOCATION:227 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T114000
@@ -673,42 +673,42 @@ DTSTART:20260114T080000
 DTEND:20260114T093500
 SUMMARY:Mzw (L)
 LOCATION:228 S
-DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T095000
 DTEND:20260114T112500
 SUMMARY:Mzw (L)
 LOCATION:228 S
-DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T114000
 DTEND:20260114T131500
 SUMMARY:Tim (L)
 LOCATION:227 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T133000
 DTEND:20260114T150500
 SUMMARY:Tim (L)
 LOCATION:227 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T080000
 DTEND:20260115T093500
-SUMMARY:BSI (L)
+SUMMARY:BSI (w)
 LOCATION:224 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T095000
 DTEND:20260115T112500
 SUMMARY:Tim (w)
 LOCATION:308 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: mgr inż. Michał Sobolewski
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Michał Sobolewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T114000
@@ -722,7 +722,7 @@ DTSTART:20260115T133000
 DTEND:20260115T150500
 SUMMARY:Mia (w)
 LOCATION:308 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T080000
@@ -743,42 +743,42 @@ DTSTART:20260120T114000
 DTEND:20260120T131500
 SUMMARY:No (L)
 LOCATION:223 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T133000
 DTEND:20260120T150500
 SUMMARY:No (L)
 LOCATION:223 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T080000
 DTEND:20260121T093500
 SUMMARY:Tim (L)
 LOCATION:227 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T095000
 DTEND:20260121T112500
 SUMMARY:Tim (L)
 LOCATION:227 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T114000
 DTEND:20260121T131500
 SUMMARY:Mia (P)
 LOCATION:227 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 7/8\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 7/8\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T133000
 DTEND:20260121T150500
 SUMMARY:Mia (P)
 LOCATION:227 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 8/8\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 8/8\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T114000
@@ -806,14 +806,14 @@ DTSTART:20260127T095000
 DTEND:20260127T112500
 SUMMARY:Mzw (L)
 LOCATION:228 S
-DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T114000
 DTEND:20260127T131500
 SUMMARY:Mzw (L)
 LOCATION:228 S
-DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: dr inż. Wojciech Kulas
+DESCRIPTION:Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Wojciech Kulas
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T133000
@@ -834,41 +834,41 @@ DTSTART:20260128T080000
 DTEND:20260128T093500
 SUMMARY:Tim (L)
 LOCATION:227 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T095000
 DTEND:20260128T112500
 SUMMARY:Tim (L)
 LOCATION:227 S
-DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: mgr inż. Paweł Pieczonka
+DESCRIPTION:Technologie internetowe i mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T080000
 DTEND:20260203T093500
 SUMMARY:No (E)
 LOCATION:309 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260204T080000
 DTEND:20260204T093500
 SUMMARY:Mia (E)
 LOCATION:308 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Robert Waszkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260217T080000
 DTEND:20260217T093500
 SUMMARY:No (Inne)
 LOCATION:309 S
-DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Niezawodność oprogramowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260218T080000
 DTEND:20260218T093500
 SUMMARY:Mia (Inne)
 LOCATION:308 S
-DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Robert Waszkowski
+DESCRIPTION:Modelowanie i analiza procesów biznesowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Robert Waszkowski
 END:VEVENT
 END:VCALENDAR
