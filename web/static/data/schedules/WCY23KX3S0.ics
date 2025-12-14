@@ -8,7 +8,7 @@ DTSTART:20250303T080000
 DTEND:20250303T093500
 SUMMARY:Bpe (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T095000
@@ -134,7 +134,7 @@ DTSTART:20250310T160000
 DTEND:20250310T173500
 SUMMARY:Bpe (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T114000
@@ -407,7 +407,7 @@ DTSTART:20250325T133000
 DTEND:20250325T150500
 SUMMARY:Bpe (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T080000
@@ -554,7 +554,7 @@ DTSTART:20250401T133000
 DTEND:20250401T150500
 SUMMARY:Bpe (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T160000
@@ -673,7 +673,7 @@ DTSTART:20250408T080000
 DTEND:20250408T093500
 SUMMARY:MM (ć)
 LOCATION:307 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T095000
@@ -694,7 +694,7 @@ DTSTART:20250408T133000
 DTEND:20250408T150500
 SUMMARY:Bpe (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T080000
@@ -1002,7 +1002,7 @@ DTSTART:20250428T114000
 DTEND:20250428T131500
 SUMMARY:MM (ć)
 LOCATION:317 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T160000
@@ -1121,7 +1121,7 @@ DTSTART:20250506T133000
 DTEND:20250506T150500
 SUMMARY:MM (ć)
 LOCATION:313 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T095000
@@ -1191,7 +1191,7 @@ DTSTART:20250512T114000
 DTEND:20250512T131500
 SUMMARY:MM (ć)
 LOCATION:317 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T160000
@@ -1499,7 +1499,7 @@ DTSTART:20250528T133000
 DTEND:20250528T150500
 SUMMARY:MM (ć)
 LOCATION:307 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T095000
@@ -1583,7 +1583,7 @@ DTSTART:20250602T095000
 DTEND:20250602T112500
 SUMMARY:MM (ć)
 LOCATION:317 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T114000
@@ -1716,7 +1716,7 @@ DTSTART:20250609T160000
 DTEND:20250609T173500
 SUMMARY:MM (ć)
 LOCATION:316 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T080000
@@ -1744,7 +1744,7 @@ DTSTART:20250610T133000
 DTEND:20250610T150500
 SUMMARY:MM (ć)
 LOCATION:313 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T095000
@@ -1926,7 +1926,7 @@ DTSTART:20250618T175000
 DTEND:20250618T192500
 SUMMARY:Bpe (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T133000
@@ -2031,7 +2031,7 @@ DTSTART:20251001T175000
 DTEND:20251001T192500
 SUMMARY:MM (Inne)
 LOCATION:223 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T080000
@@ -2941,7 +2941,7 @@ DTSTART:20251117T194000
 DTEND:20251117T211500
 SUMMARY:MM (Inne)
 LOCATION:314 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T080000

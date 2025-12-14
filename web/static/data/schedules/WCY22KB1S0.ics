@@ -827,14 +827,14 @@ DTSTART:20250414T080000
 DTEND:20250414T093500
 SUMMARY:MPR (L)
 LOCATION:223 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T095000
 DTEND:20250414T112500
 SUMMARY:MPR (L)
 LOCATION:223 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T114000
@@ -1317,14 +1317,14 @@ DTSTART:20250515T080000
 DTEND:20250515T093500
 SUMMARY:MPR (L)
 LOCATION:227 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T095000
 DTEND:20250515T112500
 SUMMARY:MPR (L)
 LOCATION:227 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T114000
@@ -1408,14 +1408,14 @@ DTSTART:20250520T114000
 DTEND:20250520T131500
 SUMMARY:MPR (L)
 LOCATION:252 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T133000
 DTEND:20250520T150500
 SUMMARY:MPR (L)
 LOCATION:252 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T080000
@@ -1492,14 +1492,14 @@ DTSTART:20250523T095000
 DTEND:20250523T112500
 SUMMARY:MPR (L)
 LOCATION:252 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T114000
 DTEND:20250523T131500
 SUMMARY:MPR (L)
 LOCATION:252 S
-DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Metody prognozowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T133000
@@ -2087,7 +2087,7 @@ DTSTART:20251006T114000
 DTEND:20251006T131500
 SUMMARY:Med (w)
 LOCATION:309 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T133000
@@ -2164,7 +2164,7 @@ DTSTART:20251013T114000
 DTEND:20251013T131500
 SUMMARY:Med (w)
 LOCATION:223 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T133000
@@ -2290,7 +2290,7 @@ DTSTART:20251020T114000
 DTEND:20251020T131500
 SUMMARY:Med (w)
 LOCATION:224 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T133000
@@ -2388,7 +2388,7 @@ DTSTART:20251027T114000
 DTEND:20251027T131500
 SUMMARY:Med (w)
 LOCATION:224 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T133000
@@ -2402,7 +2402,7 @@ DTSTART:20251028T133000
 DTEND:20251028T150500
 SUMMARY:Med (L)
 LOCATION:223 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T175000
@@ -2528,7 +2528,7 @@ DTSTART:20251104T114000
 DTEND:20251104T131500
 SUMMARY:Med (L)
 LOCATION:226 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T133000
@@ -2773,7 +2773,7 @@ DTSTART:20251118T080000
 DTEND:20251118T093500
 SUMMARY:Med (w)
 LOCATION:224 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T095000
@@ -2787,7 +2787,7 @@ DTSTART:20251118T133000
 DTEND:20251118T150500
 SUMMARY:Med (L)
 LOCATION:224 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T160000
@@ -2927,7 +2927,7 @@ DTSTART:20251125T080000
 DTEND:20251125T093500
 SUMMARY:Med (w)
 LOCATION:307 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T095000
@@ -3067,7 +3067,7 @@ DTSTART:20251202T095000
 DTEND:20251202T112500
 SUMMARY:Med (L)
 LOCATION:226 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T133000
@@ -3319,7 +3319,7 @@ DTSTART:20251211T114000
 DTEND:20251211T131500
 SUMMARY:Med (L)
 LOCATION:224 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T133000
@@ -3543,7 +3543,7 @@ DTSTART:20260107T095000
 DTEND:20260107T112500
 SUMMARY:Med (L)
 LOCATION:228 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T114000
@@ -3711,7 +3711,7 @@ DTSTART:20260114T095000
 DTEND:20260114T112500
 SUMMARY:Med (L)
 LOCATION:223 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T114000
@@ -3802,7 +3802,7 @@ DTSTART:20260120T114000
 DTEND:20260120T131500
 SUMMARY:Med (L)
 LOCATION:236 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T175000
@@ -3942,7 +3942,7 @@ DTSTART:20260126T114000
 DTEND:20260126T131500
 SUMMARY:Med (L)
 LOCATION:236 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T133000
@@ -4033,7 +4033,7 @@ DTSTART:20260202T133000
 DTEND:20260202T150500
 SUMMARY:Med (E)
 LOCATION:308 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260204T175000
@@ -4047,7 +4047,7 @@ DTSTART:20260216T133000
 DTEND:20260216T150500
 SUMMARY:Med (Inne)
 LOCATION:308 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260218T175000

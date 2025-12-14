@@ -407,7 +407,7 @@ DTSTART:20250321T095000
 DTEND:20250321T112500
 SUMMARY:Sib (w)
 LOCATION:101 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T114000
@@ -505,7 +505,7 @@ DTSTART:20250326T080000
 DTEND:20250326T093500
 SUMMARY:Sib (w)
 LOCATION:101 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T114000
@@ -554,14 +554,14 @@ DTSTART:20250327T160000
 DTEND:20250327T173500
 SUMMARY:Sib (L)
 LOCATION:125 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T175000
 DTEND:20250327T192500
 SUMMARY:Sib (L)
 LOCATION:125 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T095000
@@ -785,7 +785,7 @@ DTSTART:20250404T160000
 DTEND:20250404T173500
 SUMMARY:Sib (w)
 LOCATION:101 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250405T080000
@@ -918,7 +918,7 @@ DTSTART:20250410T095000
 DTEND:20250410T112500
 SUMMARY:BwCP (ć)
 LOCATION:204 65
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T114000
@@ -974,7 +974,7 @@ DTSTART:20250411T160000
 DTEND:20250411T173500
 SUMMARY:Sib (w)
 LOCATION:101 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250412T080000
@@ -1093,7 +1093,7 @@ DTSTART:20250417T114000
 DTEND:20250417T131500
 SUMMARY:BwCP (ć)
 LOCATION:204 65
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T133000
@@ -1107,7 +1107,7 @@ DTSTART:20250423T080000
 DTEND:20250423T093500
 SUMMARY:Sib (w)
 LOCATION:101 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T095000
@@ -1303,14 +1303,14 @@ DTSTART:20250430T160000
 DTEND:20250430T173500
 SUMMARY:Sib (L)
 LOCATION:125 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T175000
 DTEND:20250430T192500
 SUMMARY:Sib (L)
 LOCATION:125 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T080000
@@ -1604,7 +1604,7 @@ DTSTART:20250515T095000
 DTEND:20250515T112500
 SUMMARY:Sib (w)
 LOCATION:201 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T114000
@@ -1625,14 +1625,14 @@ DTSTART:20250515T160000
 DTEND:20250515T173500
 SUMMARY:Sib (L)
 LOCATION:125 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T175000
 DTEND:20250515T192500
 SUMMARY:Sib (L)
 LOCATION:125 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T080000
@@ -1982,14 +1982,14 @@ DTSTART:20250530T160000
 DTEND:20250530T173500
 SUMMARY:Sib (L)
 LOCATION:120 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T175000
 DTEND:20250530T192500
 SUMMARY:Sib (L)
 LOCATION:120 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250531T080000
@@ -2255,7 +2255,7 @@ DTSTART:20250612T114000
 DTEND:20250612T131500
 SUMMARY:Sib (w)
 LOCATION:201 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250612T133000
@@ -2570,7 +2570,7 @@ DTSTART:20251010T080000
 DTEND:20251010T093500
 SUMMARY:Sib (w)
 LOCATION:011 65
-DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Sieci bezprzewodowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T114000

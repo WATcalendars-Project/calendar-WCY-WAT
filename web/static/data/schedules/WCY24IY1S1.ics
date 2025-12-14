@@ -64,7 +64,7 @@ DTSTART:20250306T080000
 DTEND:20250306T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 1/11\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 1/11\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T095000
@@ -190,7 +190,7 @@ DTSTART:20250313T080000
 DTEND:20250313T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 2/11\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 2/11\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T095000
@@ -288,7 +288,7 @@ DTSTART:20250318T175000
 DTEND:20250318T192500
 SUMMARY:Tgs (ć)
 LOCATION:307 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T080000
@@ -330,7 +330,7 @@ DTSTART:20250320T080000
 DTEND:20250320T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 3/11\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 3/11\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T095000
@@ -393,7 +393,7 @@ DTSTART:20250324T133000
 DTEND:20250324T150500
 SUMMARY:Tpi (ć)
 LOCATION:308 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T160000
@@ -477,7 +477,7 @@ DTSTART:20250327T080000
 DTEND:20250327T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 4/11\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 4/11\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T095000
@@ -568,14 +568,14 @@ DTSTART:20250331T175000
 DTEND:20250331T192500
 SUMMARY:Tpi (ć)
 LOCATION:308 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T194000
 DTEND:20250331T211500
 SUMMARY:Tpi (L)
 LOCATION:223 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T095000
@@ -610,7 +610,7 @@ DTSTART:20250401T175000
 DTEND:20250401T192500
 SUMMARY:Tgs (ć)
 LOCATION:309 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T080000
@@ -652,7 +652,7 @@ DTSTART:20250403T080000
 DTEND:20250403T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 5/11\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 5/11\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T095000
@@ -673,7 +673,7 @@ DTSTART:20250403T133000
 DTEND:20250403T150500
 SUMMARY:Tgs (ć)
 LOCATION:101 65
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T160000
@@ -813,7 +813,7 @@ DTSTART:20250410T080000
 DTEND:20250410T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 6/11\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 6/11\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T114000
@@ -904,7 +904,7 @@ DTSTART:20250415T175000
 DTEND:20250415T192500
 SUMMARY:Tgs (ć)
 LOCATION:309 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T080000
@@ -946,7 +946,7 @@ DTSTART:20250417T080000
 DTEND:20250417T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 7/11\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 7/11\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T095000
@@ -1016,14 +1016,14 @@ DTSTART:20250423T175000
 DTEND:20250423T192500
 SUMMARY:Tpi (ć)
 LOCATION:307 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T080000
 DTEND:20250424T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 8/11\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 8/11\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T095000
@@ -1226,21 +1226,21 @@ DTSTART:20250507T175000
 DTEND:20250507T192500
 SUMMARY:Tpi (ć)
 LOCATION:307 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T194000
 DTEND:20250507T211500
 SUMMARY:Tgs (ć)
 LOCATION:307 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T080000
 DTEND:20250508T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 9/11\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 9/11\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T095000
@@ -1338,7 +1338,7 @@ DTSTART:20250515T080000
 DTEND:20250515T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 10/11\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 10/11\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T095000
@@ -1443,14 +1443,14 @@ DTSTART:20250521T175000
 DTEND:20250521T192500
 SUMMARY:Tpi (ć)
 LOCATION:307 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T194000
 DTEND:20250521T211500
 SUMMARY:Tpi (L)
 LOCATION:223 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T095000
@@ -1485,7 +1485,7 @@ DTSTART:20250522T175000
 DTEND:20250522T192500
 SUMMARY:Tgs (ć)
 LOCATION:307 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T095000
@@ -1534,14 +1534,14 @@ DTSTART:20250529T080000
 DTEND:20250529T093500
 SUMMARY:Tpi (ć)
 LOCATION:313 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T095000
 DTEND:20250529T112500
 SUMMARY:Tgs (ć)
 LOCATION:316 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T114000
@@ -1709,7 +1709,7 @@ DTSTART:20250617T175000
 DTEND:20250617T192500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 11/11\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 11/11\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T080000
@@ -1758,7 +1758,7 @@ DTSTART:20250626T160000
 DTEND:20250626T173500
 SUMMARY:Tpi (Inne)
 LOCATION:317 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250627T080000
@@ -1800,21 +1800,21 @@ DTSTART:20250703T080000
 DTEND:20250703T093500
 SUMMARY:Amt (E)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250703T095000
 DTEND:20250703T112500
 SUMMARY:Amt (E)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250710T160000
 DTEND:20250710T173500
 SUMMARY:Tpi (Inne)
 LOCATION:317 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250715T095000
@@ -1891,7 +1891,7 @@ DTSTART:20250918T080000
 DTEND:20250918T093500
 SUMMARY:Amt (Inne)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250918T095000

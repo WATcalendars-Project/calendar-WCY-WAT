@@ -1940,7 +1940,7 @@ DTSTART:20251002T095000
 DTEND:20251002T112500
 SUMMARY:Tik (w)
 LOCATION:317 S
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T114000
@@ -2010,14 +2010,14 @@ DTSTART:20251009T095000
 DTEND:20251009T112500
 SUMMARY:Tik (w)
 LOCATION:316 S
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T114000
 DTEND:20251009T131500
 SUMMARY:Tik (w)
 LOCATION:316 S
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T080000
@@ -2094,7 +2094,7 @@ DTSTART:20251015T114000
 DTEND:20251015T131500
 SUMMARY:Tik (w)
 LOCATION:317 S
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T133000
@@ -2136,7 +2136,7 @@ DTSTART:20251017T080000
 DTEND:20251017T093500
 SUMMARY:Tik (w)
 LOCATION:317 S
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T114000
@@ -2234,7 +2234,7 @@ DTSTART:20251023T160000
 DTEND:20251023T173500
 SUMMARY:Tik (w)
 LOCATION:316 S
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T080000
@@ -2269,7 +2269,7 @@ DTSTART:20251024T160000
 DTEND:20251024T173500
 SUMMARY:Tik (w)
 LOCATION:316 S
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T080000
@@ -2458,21 +2458,21 @@ DTSTART:20251105T095000
 DTEND:20251105T112500
 SUMMARY:Tik (w)
 LOCATION:316 S
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T114000
 DTEND:20251105T131500
 SUMMARY:Tik (w)
 LOCATION:316 S
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T133000
 DTEND:20251105T150500
 SUMMARY:Tik (ć)
 LOCATION:121 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T160000
@@ -2633,7 +2633,7 @@ DTSTART:20251117T095000
 DTEND:20251117T112500
 SUMMARY:Tik (ć)
 LOCATION:101 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T133000
@@ -2878,7 +2878,7 @@ DTSTART:20251127T114000
 DTEND:20251127T131500
 SUMMARY:Tik (ć)
 LOCATION:101 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T133000
@@ -2927,7 +2927,7 @@ DTSTART:20251202T080000
 DTEND:20251202T093500
 SUMMARY:Tik (ć)
 LOCATION:201 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T133000
@@ -3284,7 +3284,7 @@ DTSTART:20260112T133000
 DTEND:20260112T150500
 SUMMARY:Tik (ć)
 LOCATION:101 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T160000

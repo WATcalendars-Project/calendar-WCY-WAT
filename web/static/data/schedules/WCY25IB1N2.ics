@@ -29,7 +29,7 @@ DTSTART:20251004T133000
 DTEND:20251004T150500
 SUMMARY:BSI (w)
 LOCATION:309 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący:  Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T160000
@@ -99,14 +99,14 @@ DTSTART:20251012T114000
 DTEND:20251012T131500
 SUMMARY:BSI (w)
 LOCATION:239 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący:  Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251012T133000
 DTEND:20251012T150500
 SUMMARY:BSI (ć)
 LOCATION:239 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący:  Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251012T160000
@@ -134,7 +134,7 @@ DTSTART:20251018T114000
 DTEND:20251018T131500
 SUMMARY:BSI (w)
 LOCATION:252 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący:  Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251018T133000
@@ -204,7 +204,7 @@ DTSTART:20251025T133000
 DTEND:20251025T150500
 SUMMARY:BSI (ć)
 LOCATION:252 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący:  Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251026T080000
@@ -463,7 +463,7 @@ DTSTART:20251123T095000
 DTEND:20251123T112500
 SUMMARY:BSI (w)
 LOCATION:252 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący:  Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251129T095000
@@ -610,14 +610,14 @@ DTSTART:20251207T114000
 DTEND:20251207T131500
 SUMMARY:BSI (L)
 LOCATION:224 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący:  Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251207T133000
 DTEND:20251207T150500
 SUMMARY:BSI (L)
 LOCATION:224 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący:  Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251207T160000
@@ -904,7 +904,7 @@ DTSTART:20260118T114000
 DTEND:20260118T131500
 SUMMARY:BSI (L)
 LOCATION:252 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący:  Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T080000
@@ -967,7 +967,7 @@ DTSTART:20260125T114000
 DTEND:20260125T131500
 SUMMARY:BSI (L)
 LOCATION:252 S
-DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący: dr inż. Piotr Górny
+DESCRIPTION:Bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący:  Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260125T133000

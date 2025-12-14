@@ -316,7 +316,7 @@ DTSTART:20250318T160000
 DTEND:20250318T173500
 SUMMARY:Tpi (ć)
 LOCATION:307 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T095000
@@ -680,7 +680,7 @@ DTSTART:20250401T160000
 DTEND:20250401T173500
 SUMMARY:Tpi (ć)
 LOCATION:317 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T095000
@@ -792,7 +792,7 @@ DTSTART:20250404T160000
 DTEND:20250404T173500
 SUMMARY:Tpi (L)
 LOCATION:226 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T080000
@@ -1261,7 +1261,7 @@ DTSTART:20250430T160000
 DTEND:20250430T173500
 SUMMARY:Tpi (ć)
 LOCATION:313 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T080000
@@ -1422,7 +1422,7 @@ DTSTART:20250512T160000
 DTEND:20250512T173500
 SUMMARY:Tpi (ć)
 LOCATION:309 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T080000
@@ -1688,7 +1688,7 @@ DTSTART:20250523T160000
 DTEND:20250523T173500
 SUMMARY:Tpi (L)
 LOCATION:224 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T095000
@@ -1709,14 +1709,14 @@ DTSTART:20250526T160000
 DTEND:20250526T173500
 SUMMARY:Tpi (ć)
 LOCATION:309 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T095000
 DTEND:20250527T112500
 SUMMARY:Tpi (ć)
 LOCATION:252 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T114000
@@ -2283,7 +2283,7 @@ DTSTART:20250626T160000
 DTEND:20250626T173500
 SUMMARY:Tpi (Inne)
 LOCATION:317 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250627T095000
@@ -2367,7 +2367,7 @@ DTSTART:20250710T160000
 DTEND:20250710T173500
 SUMMARY:Tpi (Inne)
 LOCATION:317 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250711T095000
@@ -2556,7 +2556,7 @@ DTSTART:20251010T114000
 DTEND:20251010T131500
 SUMMARY:Tik (w)
 LOCATION:316 S
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T133000
@@ -2605,14 +2605,14 @@ DTSTART:20251014T133000
 DTEND:20251014T150500
 SUMMARY:Tik (w)
 LOCATION:317 S
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T160000
 DTEND:20251014T173500
 SUMMARY:Tik (w)
 LOCATION:317 S
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr inż. Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący:  Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T080000

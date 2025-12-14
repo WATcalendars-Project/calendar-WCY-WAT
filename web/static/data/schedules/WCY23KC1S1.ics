@@ -29,14 +29,14 @@ DTSTART:20251002T080000
 DTEND:20251002T093500
 SUMMARY:Bpe (w)
 LOCATION:316 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T095000
 DTEND:20251002T112500
 SUMMARY:Est (w)
 LOCATION:308 S
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T114000
@@ -57,7 +57,7 @@ DTSTART:20251006T095000
 DTEND:20251006T112500
 SUMMARY:Est (w)
 LOCATION:308 S
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T114000
@@ -113,7 +113,7 @@ DTSTART:20251009T080000
 DTEND:20251009T093500
 SUMMARY:Bpe (w)
 LOCATION:316 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T095000
@@ -162,7 +162,7 @@ DTSTART:20251014T080000
 DTEND:20251014T093500
 SUMMARY:Est (w)
 LOCATION:316 S
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T095000
@@ -253,7 +253,7 @@ DTSTART:20251021T080000
 DTEND:20251021T093500
 SUMMARY:Est (w)
 LOCATION:316 S
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T095000
@@ -365,7 +365,7 @@ DTSTART:20251028T080000
 DTEND:20251028T093500
 SUMMARY:Est (w)
 LOCATION:316 S
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T095000
@@ -414,14 +414,14 @@ DTSTART:20251029T080000
 DTEND:20251029T093500
 SUMMARY:Bpe (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T114000
 DTEND:20251029T131500
 SUMMARY:Est (P)
 LOCATION:125 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 1/5\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 1/5\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T133000
@@ -449,14 +449,14 @@ DTSTART:20251031T080000
 DTEND:20251031T093500
 SUMMARY:Est (L)
 LOCATION:125 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T095000
 DTEND:20251031T112500
 SUMMARY:Est (L)
 LOCATION:125 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T160000
@@ -519,7 +519,7 @@ DTSTART:20251105T080000
 DTEND:20251105T093500
 SUMMARY:Bpe (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T133000
@@ -547,7 +547,7 @@ DTSTART:20251106T080000
 DTEND:20251106T093500
 SUMMARY:Est (w)
 LOCATION:309 S
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T095000
@@ -610,21 +610,21 @@ DTSTART:20251112T080000
 DTEND:20251112T093500
 SUMMARY:Est (L)
 LOCATION:125 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T095000
 DTEND:20251112T112500
 SUMMARY:Est (L)
 LOCATION:125 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T114000
 DTEND:20251112T131500
 SUMMARY:Est (P)
 LOCATION:125 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 2/5\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 2/5\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T133000
@@ -652,7 +652,7 @@ DTSTART:20251113T080000
 DTEND:20251113T093500
 SUMMARY:Est (w)
 LOCATION:313 S
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T095000
@@ -743,7 +743,7 @@ DTSTART:20251120T095000
 DTEND:20251120T112500
 SUMMARY:Bpe (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T133000
@@ -785,7 +785,7 @@ DTSTART:20251124T133000
 DTEND:20251124T150500
 SUMMARY:Est (P)
 LOCATION:106 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 3/5\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 3/5\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T160000
@@ -1023,21 +1023,21 @@ DTSTART:20251211T114000
 DTEND:20251211T131500
 SUMMARY:Est (L)
 LOCATION:125 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T133000
 DTEND:20251211T150500
 SUMMARY:Est (L)
 LOCATION:125 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T080000
 DTEND:20251212T093500
 SUMMARY:Est (P)
 LOCATION:121 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 4/5\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 4/5\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T095000
@@ -1198,14 +1198,14 @@ DTSTART:20260114T080000
 DTEND:20260114T093500
 SUMMARY:Est (L)
 LOCATION:125 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T095000
 DTEND:20260114T112500
 SUMMARY:Est (L)
 LOCATION:125 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T114000
@@ -1289,7 +1289,7 @@ DTSTART:20260122T114000
 DTEND:20260122T131500
 SUMMARY:Bpe (w)
 LOCATION:313 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T080000
@@ -1310,7 +1310,7 @@ DTSTART:20260126T160000
 DTEND:20260126T173500
 SUMMARY:Est (P)
 LOCATION:121 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 5/5\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 5/5\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T160000
@@ -1338,14 +1338,14 @@ DTSTART:20260128T080000
 DTEND:20260128T093500
 SUMMARY:Est (L)
 LOCATION:125 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T095000
 DTEND:20260128T112500
 SUMMARY:Est (L)
 LOCATION:125 65
-DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr inż. Michał Jarosz
+DESCRIPTION:Eksploracja sieci teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Michał Jarosz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T080000

@@ -2136,14 +2136,14 @@ DTSTART:20251007T080000
 DTEND:20251007T093500
 SUMMARY:PZ (L)
 LOCATION:223 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/22\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T095000
 DTEND:20251007T112500
 SUMMARY:PZ (L)
 LOCATION:223 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/22\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T114000
@@ -2388,14 +2388,14 @@ DTSTART:20251021T080000
 DTEND:20251021T093500
 SUMMARY:PZ (L)
 LOCATION:224 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/22\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T095000
 DTEND:20251021T112500
 SUMMARY:PZ (L)
 LOCATION:224 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/22\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T133000
@@ -2696,14 +2696,14 @@ DTSTART:20251105T080000
 DTEND:20251105T093500
 SUMMARY:PZ (L)
 LOCATION:223 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/22\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T095000
 DTEND:20251105T112500
 SUMMARY:PZ (L)
 LOCATION:223 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/22\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T114000
@@ -2766,7 +2766,7 @@ DTSTART:20251107T114000
 DTEND:20251107T131500
 SUMMARY:IRz (w)
 LOCATION:223 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T133000
@@ -2878,7 +2878,7 @@ DTSTART:20251114T114000
 DTEND:20251114T131500
 SUMMARY:IRz (w)
 LOCATION:223 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T133000
@@ -2927,7 +2927,7 @@ DTSTART:20251117T160000
 DTEND:20251117T173500
 SUMMARY:Sme. (ć)
 LOCATION:308 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T175000
@@ -2941,7 +2941,7 @@ DTSTART:20251118T080000
 DTEND:20251118T093500
 SUMMARY:IRz (L)
 LOCATION:228 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T095000
@@ -3039,7 +3039,7 @@ DTSTART:20251121T114000
 DTEND:20251121T131500
 SUMMARY:IRz (w)
 LOCATION:223 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T133000
@@ -3088,14 +3088,14 @@ DTSTART:20251124T133000
 DTEND:20251124T150500
 SUMMARY:PZ (L)
 LOCATION:226 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/22\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T160000
 DTEND:20251124T173500
 SUMMARY:PZ (L)
 LOCATION:226 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/22\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T175000
@@ -3249,7 +3249,7 @@ DTSTART:20251201T160000
 DTEND:20251201T173500
 SUMMARY:Sme. (ć)
 LOCATION:308 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T080000
@@ -3312,14 +3312,14 @@ DTSTART:20251204T080000
 DTEND:20251204T093500
 SUMMARY:IRz (L)
 LOCATION:227 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T095000
 DTEND:20251204T112500
 SUMMARY:IRz (L)
 LOCATION:227 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T114000
@@ -3410,42 +3410,42 @@ DTSTART:20251208T133000
 DTEND:20251208T150500
 SUMMARY:Sme. (ć)
 LOCATION:317 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T160000
 DTEND:20251208T173500
 SUMMARY:PZ (L)
 LOCATION:239 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/22\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T175000
 DTEND:20251208T192500
 SUMMARY:PZ (L)
 LOCATION:239 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/22\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T095000
 DTEND:20251209T112500
 SUMMARY:IRz (L)
 LOCATION:233 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T114000
 DTEND:20251209T131500
 SUMMARY:IRz (L)
 LOCATION:233 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T133000
 DTEND:20251209T150500
 SUMMARY:IRz (w)
 LOCATION:309 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T160000
@@ -3459,14 +3459,14 @@ DTSTART:20251211T095000
 DTEND:20251211T112500
 SUMMARY:PZ (L)
 LOCATION:237 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/22\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T114000
 DTEND:20251211T131500
 SUMMARY:PZ (L)
 LOCATION:237 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/22\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T133000
@@ -3501,7 +3501,7 @@ DTSTART:20251212T095000
 DTEND:20251212T112500
 SUMMARY:IRz (w)
 LOCATION:223 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T114000
@@ -3557,7 +3557,7 @@ DTSTART:20251215T160000
 DTEND:20251215T173500
 SUMMARY:Sme. (ć)
 LOCATION:308 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T080000
@@ -3585,7 +3585,7 @@ DTSTART:20251216T133000
 DTEND:20251216T150500
 SUMMARY:IRz (w)
 LOCATION:309 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr inż. Tomasz Gutowski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T160000
@@ -3711,14 +3711,14 @@ DTSTART:20260108T080000
 DTEND:20260108T093500
 SUMMARY:PZ (L)
 LOCATION:226 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/22\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T095000
 DTEND:20260108T112500
 SUMMARY:PZ (L)
 LOCATION:226 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/22\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T133000
@@ -3802,7 +3802,7 @@ DTSTART:20260112T133000
 DTEND:20260112T150500
 SUMMARY:Sme. (ć)
 LOCATION:316 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T160000
@@ -3837,14 +3837,14 @@ DTSTART:20260113T114000
 DTEND:20260113T131500
 SUMMARY:IRz (L)
 LOCATION:228 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T133000
 DTEND:20260113T150500
 SUMMARY:IRz (L)
 LOCATION:228 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T160000
@@ -3935,14 +3935,14 @@ DTSTART:20260116T095000
 DTEND:20260116T112500
 SUMMARY:PZ (L)
 LOCATION:226 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/22\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T114000
 DTEND:20260116T131500
 SUMMARY:PZ (L)
 LOCATION:226 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/22\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T133000
@@ -3991,35 +3991,35 @@ DTSTART:20260119T133000
 DTEND:20260119T150500
 SUMMARY:Sme. (ć)
 LOCATION:316 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T080000
 DTEND:20260120T093500
 SUMMARY:PZ (L)
 LOCATION:227 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 17/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 17/22\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T095000
 DTEND:20260120T112500
 SUMMARY:PZ (L)
 LOCATION:227 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 18/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 18/22\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T114000
 DTEND:20260120T131500
 SUMMARY:PZ (L)
 LOCATION:227 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 19/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 19/22\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T133000
 DTEND:20260120T150500
 SUMMARY:PZ (L)
 LOCATION:227 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 20/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 20/22\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T160000
@@ -4152,35 +4152,35 @@ DTSTART:20260126T133000
 DTEND:20260126T150500
 SUMMARY:Sme. (ć)
 LOCATION:316 S
-DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: mgr inż. Michał Kapałka
+DESCRIPTION:Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący:  Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T080000
 DTEND:20260127T093500
 SUMMARY:PZ (L)
 LOCATION:226 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 21/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 21/22\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T095000
 DTEND:20260127T112500
 SUMMARY:PZ (L)
 LOCATION:226 S
-DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 22/22\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Projekt zespołowy\nRodzaj zajęć: Laboratorium\nNr zajęć: 22/22\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T114000
 DTEND:20260127T131500
 SUMMARY:IRz (L)
 LOCATION:223 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T133000
 DTEND:20260127T150500
 SUMMARY:IRz (L)
 LOCATION:223 S
-DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: mgr inż. Tomasz Gumowski
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Tomasz Gumowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T160000
