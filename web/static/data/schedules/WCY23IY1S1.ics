@@ -323,14 +323,14 @@ DTSTART:20250319T160000
 DTEND:20250319T173500
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący:  Grzegorz Kropiewnicki
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T175000
 DTEND:20250319T192500
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/12\nProwadzący:  Grzegorz Kropiewnicki
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/12\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T080000
@@ -421,7 +421,7 @@ DTSTART:20250325T114000
 DTEND:20250325T131500
 SUMMARY:Tik (ć)
 LOCATION:121 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący:  Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T133000
@@ -540,7 +540,7 @@ DTSTART:20250331T080000
 DTEND:20250331T093500
 SUMMARY:Tik (ć)
 LOCATION:101 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący:  Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T095000
@@ -589,7 +589,7 @@ DTSTART:20250402T114000
 DTEND:20250402T131500
 SUMMARY:MM (ć)
 LOCATION:314 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący:  Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T133000
@@ -603,14 +603,14 @@ DTSTART:20250402T160000
 DTEND:20250402T173500
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/12\nProwadzący:  Grzegorz Kropiewnicki
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/12\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T175000
 DTEND:20250402T192500
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący:  Grzegorz Kropiewnicki
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T080000
@@ -652,7 +652,7 @@ DTSTART:20250404T133000
 DTEND:20250404T150500
 SUMMARY:PO (ć)
 LOCATION:309 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący:  Piotr Górny
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T080000
@@ -673,14 +673,14 @@ DTSTART:20250407T114000
 DTEND:20250407T131500
 SUMMARY:MM (ć)
 LOCATION:316 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący:  Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T133000
 DTEND:20250407T150500
 SUMMARY:PO (ć)
 LOCATION:317 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący:  Piotr Górny
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T160000
@@ -792,7 +792,7 @@ DTSTART:20250414T080000
 DTEND:20250414T093500
 SUMMARY:Tik (ć)
 LOCATION:101 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący:  Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T095000
@@ -869,14 +869,14 @@ DTSTART:20250416T160000
 DTEND:20250416T173500
 SUMMARY:Sck (L)
 LOCATION:125 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący:  Grzegorz Kropiewnicki
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T175000
 DTEND:20250416T192500
 SUMMARY:Sck (L)
 LOCATION:125 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący:  Grzegorz Kropiewnicki
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T080000
@@ -890,7 +890,7 @@ DTSTART:20250423T080000
 DTEND:20250423T093500
 SUMMARY:MM (ć)
 LOCATION:317 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący:  Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T095000
@@ -946,14 +946,14 @@ DTSTART:20250428T080000
 DTEND:20250428T093500
 SUMMARY:Sck (L)
 LOCATION:121 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący:  Grzegorz Kropiewnicki
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T095000
 DTEND:20250428T112500
 SUMMARY:Sck (L)
 LOCATION:121 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący:  Grzegorz Kropiewnicki
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T114000
@@ -967,7 +967,7 @@ DTSTART:20250428T133000
 DTEND:20250428T150500
 SUMMARY:PO (ć)
 LOCATION:309 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący:  Piotr Górny
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T080000
@@ -988,7 +988,7 @@ DTSTART:20250429T114000
 DTEND:20250429T131500
 SUMMARY:Tik (ć)
 LOCATION:09 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący:  Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T133000
@@ -1037,14 +1037,14 @@ DTSTART:20250506T095000
 DTEND:20250506T112500
 SUMMARY:MM (ć)
 LOCATION:308 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący:  Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T114000
 DTEND:20250506T131500
 SUMMARY:Tik (ć)
 LOCATION:011 65
-DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący:  Leszek Grad
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T133000
@@ -1100,7 +1100,7 @@ DTSTART:20250508T095000
 DTEND:20250508T112500
 SUMMARY:PO (ć)
 LOCATION:317 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący:  Piotr Górny
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T114000
@@ -1163,14 +1163,14 @@ DTSTART:20250512T080000
 DTEND:20250512T093500
 SUMMARY:Sck (L)
 LOCATION:125 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący:  Grzegorz Kropiewnicki
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T095000
 DTEND:20250512T112500
 SUMMARY:Sck (L)
 LOCATION:125 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący:  Grzegorz Kropiewnicki
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T114000
@@ -1191,7 +1191,7 @@ DTSTART:20250513T095000
 DTEND:20250513T112500
 SUMMARY:MM (ć)
 LOCATION:307 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący:  Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T133000
@@ -1233,7 +1233,7 @@ DTSTART:20250514T133000
 DTEND:20250514T150500
 SUMMARY:PO (ć)
 LOCATION:313 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący:  Piotr Górny
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T160000
@@ -1282,7 +1282,7 @@ DTSTART:20250519T095000
 DTEND:20250519T112500
 SUMMARY:PO (ć)
 LOCATION:309 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący:  Piotr Górny
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T114000
@@ -1387,7 +1387,7 @@ DTSTART:20250528T114000
 DTEND:20250528T131500
 SUMMARY:MM (ć)
 LOCATION:308 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący:  Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T133000
@@ -1422,28 +1422,28 @@ DTSTART:20250602T095000
 DTEND:20250602T112500
 SUMMARY:PO (ć)
 LOCATION:307 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący:  Piotr Górny
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T114000
 DTEND:20250602T131500
 SUMMARY:MM (ć)
 LOCATION:317 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący:  Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T133000
 DTEND:20250602T150500
 SUMMARY:Sck (L)
 LOCATION:121 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/12\nProwadzący:  Grzegorz Kropiewnicki
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/12\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T160000
 DTEND:20250602T173500
 SUMMARY:Sck (L)
 LOCATION:121 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący:  Grzegorz Kropiewnicki
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T133000
@@ -1534,7 +1534,7 @@ DTSTART:20250611T080000
 DTEND:20250611T093500
 SUMMARY:MM (ć)
 LOCATION:316 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący:  Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T114000
@@ -1583,7 +1583,7 @@ DTSTART:20250617T095000
 DTEND:20250617T112500
 SUMMARY:PO (ć)
 LOCATION:317 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący:  Piotr Górny
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T133000
@@ -1604,7 +1604,7 @@ DTSTART:20250623T095000
 DTEND:20250623T112500
 SUMMARY:Sck (Inne)
 LOCATION:125 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Grzegorz Kropiewnicki
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T080000
@@ -1667,21 +1667,21 @@ DTSTART:20250915T080000
 DTEND:20250915T093500
 SUMMARY:Sck (Inne)
 LOCATION:125 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Grzegorz Kropiewnicki
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Grzegorz Kropiewnicki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250915T114000
 DTEND:20250915T131500
 SUMMARY:PO (Inne)
 LOCATION:252 S
-DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Piotr Górny
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Piotr Górny
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250915T160000
 DTEND:20250915T173500
 SUMMARY:MM (Inne)
 LOCATION:307 S
-DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 2/3\nProwadzący:  Michał Kapałka
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 2/3\nProwadzący: mgr inż. Michał Kapałka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250916T080000

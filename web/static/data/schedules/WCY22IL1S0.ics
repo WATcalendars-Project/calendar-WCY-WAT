@@ -106,14 +106,14 @@ DTSTART:20250306T095000
 DTEND:20250306T112500
 SUMMARY:Jtp (w)
 LOCATION:316 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T114000
 DTEND:20250306T131500
 SUMMARY:Jtp (w)
 LOCATION:316 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T133000
@@ -134,14 +134,14 @@ DTSTART:20250307T114000
 DTEND:20250307T131500
 SUMMARY:SBD (w)
 LOCATION:308 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T133000
 DTEND:20250307T150500
 SUMMARY:SBD (w)
 LOCATION:308 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250308T080000
@@ -155,7 +155,7 @@ DTSTART:20250310T080000
 DTEND:20250310T093500
 SUMMARY:Spg (w)
 LOCATION:308 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T095000
@@ -225,14 +225,14 @@ DTSTART:20250312T160000
 DTEND:20250312T173500
 SUMMARY:Jtp (L)
 LOCATION:223 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T175000
 DTEND:20250312T192500
 SUMMARY:Jtp (L)
 LOCATION:223 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T080000
@@ -267,7 +267,7 @@ DTSTART:20250314T080000
 DTEND:20250314T093500
 SUMMARY:Spg (w)
 LOCATION:314 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T095000
@@ -281,14 +281,14 @@ DTSTART:20250314T114000
 DTEND:20250314T131500
 SUMMARY:SBD (w)
 LOCATION:308 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T133000
 DTEND:20250314T150500
 SUMMARY:SBD (w)
 LOCATION:308 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250315T080000
@@ -365,7 +365,7 @@ DTSTART:20250319T080000
 DTEND:20250319T093500
 SUMMARY:Spg (w)
 LOCATION:308 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T095000
@@ -400,14 +400,14 @@ DTSTART:20250320T095000
 DTEND:20250320T112500
 SUMMARY:SBD (w)
 LOCATION:307 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T114000
 DTEND:20250320T131500
 SUMMARY:SBD (w)
 LOCATION:307 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T133000
@@ -519,7 +519,7 @@ DTSTART:20250326T080000
 DTEND:20250326T093500
 SUMMARY:Spg (w)
 LOCATION:236 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T114000
@@ -589,14 +589,14 @@ DTSTART:20250328T133000
 DTEND:20250328T150500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T160000
 DTEND:20250328T173500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250329T080000
@@ -715,14 +715,14 @@ DTSTART:20250403T095000
 DTEND:20250403T112500
 SUMMARY:Jtp (w)
 LOCATION:313 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T114000
 DTEND:20250403T131500
 SUMMARY:Jtp (w)
 LOCATION:313 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T133000
@@ -799,7 +799,7 @@ DTSTART:20250407T095000
 DTEND:20250407T112500
 SUMMARY:BwCP (ć)
 LOCATION:204 65
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący:  Leszek Kalman
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T133000
@@ -904,14 +904,14 @@ DTSTART:20250409T160000
 DTEND:20250409T173500
 SUMMARY:Jtp (L)
 LOCATION:224 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T175000
 DTEND:20250409T192500
 SUMMARY:Jtp (L)
 LOCATION:224 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T080000
@@ -960,14 +960,14 @@ DTSTART:20250411T133000
 DTEND:20250411T150500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T160000
 DTEND:20250411T173500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250412T080000
@@ -995,14 +995,14 @@ DTSTART:20250414T160000
 DTEND:20250414T173500
 SUMMARY:Spg (L)
 LOCATION:224 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T175000
 DTEND:20250414T192500
 SUMMARY:Spg (L)
 LOCATION:224 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T080000
@@ -1086,14 +1086,14 @@ DTSTART:20250423T080000
 DTEND:20250423T093500
 SUMMARY:Spg (w)
 LOCATION:252 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T095000
 DTEND:20250423T112500
 SUMMARY:Jtp (w)
 LOCATION:307 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T114000
@@ -1114,14 +1114,14 @@ DTSTART:20250423T160000
 DTEND:20250423T173500
 SUMMARY:Jtp (L)
 LOCATION:226 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T175000
 DTEND:20250423T192500
 SUMMARY:Jtp (L)
 LOCATION:226 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T080000
@@ -1135,7 +1135,7 @@ DTSTART:20250424T095000
 DTEND:20250424T112500
 SUMMARY:BwCP (ć)
 LOCATION:204 65
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący:  Leszek Kalman
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T114000
@@ -1275,14 +1275,14 @@ DTSTART:20250505T160000
 DTEND:20250505T173500
 SUMMARY:Spg (L)
 LOCATION:224 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T175000
 DTEND:20250505T192500
 SUMMARY:Spg (L)
 LOCATION:224 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T080000
@@ -1345,14 +1345,14 @@ DTSTART:20250507T114000
 DTEND:20250507T131500
 SUMMARY:Jtp (L)
 LOCATION:223 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T133000
 DTEND:20250507T150500
 SUMMARY:Jtp (L)
 LOCATION:223 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T080000
@@ -1373,14 +1373,14 @@ DTSTART:20250508T160000
 DTEND:20250508T173500
 SUMMARY:Spg (L)
 LOCATION:224 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T175000
 DTEND:20250508T192500
 SUMMARY:Spg (L)
 LOCATION:224 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T080000
@@ -1450,14 +1450,14 @@ DTSTART:20250512T160000
 DTEND:20250512T173500
 SUMMARY:Spg (L)
 LOCATION:224 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T175000
 DTEND:20250512T192500
 SUMMARY:Spg (L)
 LOCATION:224 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T095000
@@ -1520,14 +1520,14 @@ DTSTART:20250515T095000
 DTEND:20250515T112500
 SUMMARY:SBD (L)
 LOCATION:224 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T114000
 DTEND:20250515T131500
 SUMMARY:SBD (L)
 LOCATION:224 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T133000
@@ -1632,14 +1632,14 @@ DTSTART:20250521T114000
 DTEND:20250521T131500
 SUMMARY:Jtp (L)
 LOCATION:223 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T133000
 DTEND:20250521T150500
 SUMMARY:Jtp (L)
 LOCATION:223 S
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T080000
@@ -1660,14 +1660,14 @@ DTSTART:20250522T114000
 DTEND:20250522T131500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T133000
 DTEND:20250522T150500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T080000
@@ -2087,7 +2087,7 @@ DTSTART:20250613T095000
 DTEND:20250613T112500
 SUMMARY:SBD (w)
 LOCATION:313 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T114000
@@ -2115,14 +2115,14 @@ DTSTART:20250616T080000
 DTEND:20250616T093500
 SUMMARY:Spg (w)
 LOCATION:252 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T095000
 DTEND:20250616T112500
 SUMMARY:Spg (w)
 LOCATION:236 S
-DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Tomasz Gzik
+DESCRIPTION:Systemy pracy grupowej\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr Tomasz Gzik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T114000
@@ -2192,14 +2192,14 @@ DTSTART:20250618T114000
 DTEND:20250618T131500
 SUMMARY:Jtp (Inne)
 LOCATION:19 36
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T133000
 DTEND:20250618T150500
 SUMMARY:Jtp (Inne)
 LOCATION:19 36
-DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Języki i techniki programowania\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T095000
@@ -2262,14 +2262,14 @@ DTSTART:20251002T095000
 DTEND:20251002T112500
 SUMMARY:Med (w)
 LOCATION:224 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T160000
 DTEND:20251002T173500
 SUMMARY:Wpp (Inne)
 LOCATION:314 S
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T080000
@@ -2304,7 +2304,7 @@ DTSTART:20251007T095000
 DTEND:20251007T112500
 SUMMARY:Med (w)
 LOCATION:308 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T175000
@@ -2346,14 +2346,14 @@ DTSTART:20251010T080000
 DTEND:20251010T093500
 SUMMARY:SQL (w)
 LOCATION:223 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T095000
 DTEND:20251010T112500
 SUMMARY:SQL (w)
 LOCATION:223 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T114000
@@ -2444,7 +2444,7 @@ DTSTART:20251016T095000
 DTEND:20251016T112500
 SUMMARY:Med (w)
 LOCATION:223 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T114000
@@ -2479,14 +2479,14 @@ DTSTART:20251017T080000
 DTEND:20251017T093500
 SUMMARY:SQL (w)
 LOCATION:223 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T095000
 DTEND:20251017T112500
 SUMMARY:SQL (w)
 LOCATION:223 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T114000
@@ -2556,7 +2556,7 @@ DTSTART:20251023T095000
 DTEND:20251023T112500
 SUMMARY:Med (w)
 LOCATION:223 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T114000
@@ -2577,14 +2577,14 @@ DTSTART:20251024T080000
 DTEND:20251024T093500
 SUMMARY:SQL (w)
 LOCATION:223 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T095000
 DTEND:20251024T112500
 SUMMARY:SQL (w)
 LOCATION:223 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T114000
@@ -2598,7 +2598,7 @@ DTSTART:20251024T175000
 DTEND:20251024T192500
 SUMMARY:Wpp (Inne)
 LOCATION:313 S 19 36
-DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Piotr Kosiuczenko
+DESCRIPTION:Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. Piotr Kosiuczenko
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T080000
@@ -2668,14 +2668,14 @@ DTSTART:20251028T095000
 DTEND:20251028T112500
 SUMMARY:Med (w)
 LOCATION:224 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T114000
 DTEND:20251028T131500
 SUMMARY:Med (L)
 LOCATION:223 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T080000
@@ -2724,14 +2724,14 @@ DTSTART:20251030T095000
 DTEND:20251030T112500
 SUMMARY:SQL (L)
 LOCATION:227 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T114000
 DTEND:20251030T131500
 SUMMARY:SQL (L)
 LOCATION:227 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T095000
@@ -2759,7 +2759,7 @@ DTSTART:20251103T095000
 DTEND:20251103T112500
 SUMMARY:Med (w)
 LOCATION:223 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T114000
@@ -2920,14 +2920,14 @@ DTSTART:20251113T080000
 DTEND:20251113T093500
 SUMMARY:SQL (L)
 LOCATION:224 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T095000
 DTEND:20251113T112500
 SUMMARY:SQL (L)
 LOCATION:224 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T114000
@@ -2990,14 +2990,14 @@ DTSTART:20251118T095000
 DTEND:20251118T112500
 SUMMARY:Med (w)
 LOCATION:309 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T114000
 DTEND:20251118T131500
 SUMMARY:Med (L)
 LOCATION:233 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T114000
@@ -3074,7 +3074,7 @@ DTSTART:20251124T095000
 DTEND:20251124T112500
 SUMMARY:Med (L)
 LOCATION:252 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T114000
@@ -3144,14 +3144,14 @@ DTSTART:20251127T080000
 DTEND:20251127T093500
 SUMMARY:SQL (L)
 LOCATION:226 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T095000
 DTEND:20251127T112500
 SUMMARY:SQL (L)
 LOCATION:226 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T114000
@@ -3221,7 +3221,7 @@ DTSTART:20251202T114000
 DTEND:20251202T131500
 SUMMARY:Med (L)
 LOCATION:233 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T095000
@@ -3270,7 +3270,7 @@ DTSTART:20251205T080000
 DTEND:20251205T093500
 SUMMARY:Ao (ć)
 LOCATION:227 S
-DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący:  Tomasz Gutowski
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T095000
@@ -3375,14 +3375,14 @@ DTSTART:20251211T080000
 DTEND:20251211T093500
 SUMMARY:SQL (L)
 LOCATION:227 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T095000
 DTEND:20251211T112500
 SUMMARY:SQL (L)
 LOCATION:227 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T114000
@@ -3417,7 +3417,7 @@ DTSTART:20251212T080000
 DTEND:20251212T093500
 SUMMARY:Ao (ć)
 LOCATION:223 S
-DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący:  Tomasz Gutowski
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T114000
@@ -3459,7 +3459,7 @@ DTSTART:20251215T114000
 DTEND:20251215T131500
 SUMMARY:Med (L)
 LOCATION:252 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T133000
@@ -3501,7 +3501,7 @@ DTSTART:20251217T095000
 DTEND:20251217T112500
 SUMMARY:Med (L)
 LOCATION:226 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T114000
@@ -3683,7 +3683,7 @@ DTSTART:20260112T095000
 DTEND:20260112T112500
 SUMMARY:Med (L)
 LOCATION:227 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T080000
@@ -3704,7 +3704,7 @@ DTSTART:20260113T114000
 DTEND:20260113T131500
 SUMMARY:Ao (ć)
 LOCATION:223 S
-DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący:  Tomasz Gutowski
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T080000
@@ -3774,7 +3774,7 @@ DTSTART:20260116T133000
 DTEND:20260116T150500
 SUMMARY:Ao (ć)
 LOCATION:236 S
-DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący:  Tomasz Gutowski
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T080000
@@ -3802,7 +3802,7 @@ DTSTART:20260119T114000
 DTEND:20260119T131500
 SUMMARY:Med (L)
 LOCATION:224 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T080000
@@ -3816,7 +3816,7 @@ DTSTART:20260120T095000
 DTEND:20260120T112500
 SUMMARY:Ao (ć)
 LOCATION:252 S
-DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący:  Tomasz Gutowski
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T080000
@@ -3886,7 +3886,7 @@ DTSTART:20260123T133000
 DTEND:20260123T150500
 SUMMARY:Ao (ć)
 LOCATION:223 S
-DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący:  Tomasz Gutowski
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T080000
@@ -4026,7 +4026,7 @@ DTSTART:20260130T080000
 DTEND:20260130T093500
 SUMMARY:SQL (w)
 LOCATION:314 S
-DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T095000
@@ -4047,7 +4047,7 @@ DTSTART:20260130T133000
 DTEND:20260130T150500
 SUMMARY:Ao (ć)
 LOCATION:236 S
-DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący:  Tomasz Gutowski
+DESCRIPTION:Algorytmy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260131T080000
@@ -4061,7 +4061,7 @@ DTSTART:20260202T114000
 DTEND:20260202T131500
 SUMMARY:Med (E)
 LOCATION:308 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T095000
@@ -4082,7 +4082,7 @@ DTSTART:20260216T114000
 DTEND:20260216T131500
 SUMMARY:Med (Inne)
 LOCATION:308 S
-DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Romuald Hoffmann
+DESCRIPTION:Metody eksploracji danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Romuald Hoffmann
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260218T095000

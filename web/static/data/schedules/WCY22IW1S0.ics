@@ -141,14 +141,14 @@ DTSTART:20250307T114000
 DTEND:20250307T131500
 SUMMARY:SBD (w)
 LOCATION:308 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T133000
 DTEND:20250307T150500
 SUMMARY:SBD (w)
 LOCATION:308 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250308T080000
@@ -288,14 +288,14 @@ DTSTART:20250314T114000
 DTEND:20250314T131500
 SUMMARY:SBD (w)
 LOCATION:308 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T133000
 DTEND:20250314T150500
 SUMMARY:SBD (w)
 LOCATION:308 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250315T080000
@@ -414,14 +414,14 @@ DTSTART:20250320T095000
 DTEND:20250320T112500
 SUMMARY:SBD (w)
 LOCATION:307 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T114000
 DTEND:20250320T131500
 SUMMARY:SBD (w)
 LOCATION:307 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T133000
@@ -932,7 +932,7 @@ DTSTART:20250410T114000
 DTEND:20250410T131500
 SUMMARY:BwCP (ć)
 LOCATION:204 65
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący:  Leszek Kalman
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T133000
@@ -946,14 +946,14 @@ DTSTART:20250410T160000
 DTEND:20250410T173500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T175000
 DTEND:20250410T192500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T080000
@@ -1163,14 +1163,14 @@ DTSTART:20250424T160000
 DTEND:20250424T173500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T175000
 DTEND:20250424T192500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250426T080000
@@ -1401,7 +1401,7 @@ DTSTART:20250508T114000
 DTEND:20250508T131500
 SUMMARY:BwCP (ć)
 LOCATION:204 65
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący:  Leszek Kalman
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T133000
@@ -1590,14 +1590,14 @@ DTSTART:20250515T160000
 DTEND:20250515T173500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T175000
 DTEND:20250515T192500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T080000
@@ -1926,14 +1926,14 @@ DTSTART:20250529T095000
 DTEND:20250529T112500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T114000
 DTEND:20250529T131500
 SUMMARY:SBD (L)
 LOCATION:223 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T133000
@@ -2255,7 +2255,7 @@ DTSTART:20250613T095000
 DTEND:20250613T112500
 SUMMARY:SBD (w)
 LOCATION:313 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T114000
@@ -2458,7 +2458,7 @@ DTSTART:20251001T160000
 DTEND:20251001T173500
 SUMMARY:SBD (Inne)
 LOCATION:314 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T080000
