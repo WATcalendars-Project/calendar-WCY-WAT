@@ -22,14 +22,14 @@ DTSTART:20250303T114000
 DTEND:20250303T131500
 SUMMARY:WdP (w)
 LOCATION:301/ S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T080000
 DTEND:20250304T093500
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 1/11\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 1/11\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T095000
@@ -99,7 +99,7 @@ DTSTART:20250310T114000
 DTEND:20250310T131500
 SUMMARY:WdP (w)
 LOCATION:317 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T133000
@@ -113,7 +113,7 @@ DTSTART:20250311T080000
 DTEND:20250311T093500
 SUMMARY:Mat3 (w)
 LOCATION:51/ 62
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 2/11\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 2/11\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T095000
@@ -183,7 +183,7 @@ DTSTART:20250317T080000
 DTEND:20250317T093500
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 3/11\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 3/11\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T095000
@@ -197,7 +197,7 @@ DTSTART:20250317T114000
 DTEND:20250317T131500
 SUMMARY:WdP (w)
 LOCATION:301/ S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T133000
@@ -218,7 +218,7 @@ DTSTART:20250318T080000
 DTEND:20250318T093500
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 4/11\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 4/11\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T095000
@@ -302,7 +302,7 @@ DTSTART:20250324T095000
 DTEND:20250324T112500
 SUMMARY:WdP (w)
 LOCATION:301/ S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T114000
@@ -323,7 +323,7 @@ DTSTART:20250325T080000
 DTEND:20250325T093500
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 5/11\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 5/11\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T095000
@@ -407,14 +407,14 @@ DTSTART:20250327T175000
 DTEND:20250327T192500
 SUMMARY:WdP (L)
 LOCATION:228 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Kamil Małysz
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T194000
 DTEND:20250327T211500
 SUMMARY:WdP (L)
 LOCATION:228 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Kamil Małysz
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T080000
@@ -442,14 +442,14 @@ DTSTART:20250331T095000
 DTEND:20250331T112500
 SUMMARY:WdP (w)
 LOCATION:301/ S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T080000
 DTEND:20250401T093500
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 6/11\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 6/11\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T095000
@@ -512,14 +512,14 @@ DTSTART:20250403T175000
 DTEND:20250403T192500
 SUMMARY:WdP (L)
 LOCATION:228 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Kamil Małysz
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T194000
 DTEND:20250403T211500
 SUMMARY:WdP (L)
 LOCATION:228 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Kamil Małysz
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T080000
@@ -554,14 +554,14 @@ DTSTART:20250407T095000
 DTEND:20250407T112500
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 7/11\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 7/11\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T114000
 DTEND:20250407T131500
 SUMMARY:WdP (w)
 LOCATION:301/ S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T133000
@@ -582,7 +582,7 @@ DTSTART:20250408T080000
 DTEND:20250408T093500
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 8/11\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 8/11\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T095000
@@ -708,7 +708,7 @@ DTSTART:20250414T095000
 DTEND:20250414T112500
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 9/11\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 9/11\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T114000
@@ -729,7 +729,7 @@ DTSTART:20250415T080000
 DTEND:20250415T093500
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 10/11\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 10/11\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T095000
@@ -1163,7 +1163,7 @@ DTSTART:20250428T095000
 DTEND:20250428T112500
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 11/11\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 11/11\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T114000
@@ -1184,7 +1184,7 @@ DTSTART:20250429T080000
 DTEND:20250429T093500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 1/12\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 1/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T095000
@@ -1380,7 +1380,7 @@ DTSTART:20250505T095000
 DTEND:20250505T112500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 2/12\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 2/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T114000
@@ -1394,7 +1394,7 @@ DTSTART:20250506T080000
 DTEND:20250506T093500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 3/12\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 3/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T095000
@@ -1457,14 +1457,14 @@ DTSTART:20250508T175000
 DTEND:20250508T192500
 SUMMARY:WdP (L)
 LOCATION:228 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Kamil Małysz
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T194000
 DTEND:20250508T211500
 SUMMARY:WdP (L)
 LOCATION:228 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Kamil Małysz
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T080000
@@ -1485,7 +1485,7 @@ DTSTART:20250512T095000
 DTEND:20250512T112500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 4/12\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 4/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T114000
@@ -1499,7 +1499,7 @@ DTSTART:20250513T080000
 DTEND:20250513T093500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 5/12\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 5/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T095000
@@ -1611,7 +1611,7 @@ DTSTART:20250519T095000
 DTEND:20250519T112500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 6/12\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 6/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T114000
@@ -1639,7 +1639,7 @@ DTSTART:20250520T080000
 DTEND:20250520T093500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 7/12\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 7/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T095000
@@ -1744,7 +1744,7 @@ DTSTART:20250526T095000
 DTEND:20250526T112500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 8/12\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 8/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T114000
@@ -1772,7 +1772,7 @@ DTSTART:20250527T080000
 DTEND:20250527T093500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 9/12\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 9/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T095000
@@ -1821,14 +1821,14 @@ DTSTART:20250529T080000
 DTEND:20250529T093500
 SUMMARY:WdP (L)
 LOCATION:228 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Kamil Małysz
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T095000
 DTEND:20250529T112500
 SUMMARY:WdP (L)
 LOCATION:228 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Kamil Małysz
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Kamil Małysz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T160000
@@ -1898,7 +1898,7 @@ DTSTART:20250603T080000
 DTEND:20250603T093500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 10/12\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 10/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T114000
@@ -1996,7 +1996,7 @@ DTSTART:20250610T080000
 DTEND:20250610T093500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 11/12\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 11/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T095000
@@ -2031,7 +2031,7 @@ DTSTART:20250611T114000
 DTEND:20250611T131500
 SUMMARY:WdP (w)
 LOCATION:301/ S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250611T133000
@@ -2101,7 +2101,7 @@ DTSTART:20250617T080000
 DTEND:20250617T093500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 12/12\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 12/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T095000
@@ -2192,7 +2192,7 @@ DTSTART:20250625T095000
 DTEND:20250625T112500
 SUMMARY:Mat3 (E)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T133000
@@ -2213,14 +2213,14 @@ DTSTART:20250630T114000
 DTEND:20250630T131500
 SUMMARY:Mat4 (Inne)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T133000
 DTEND:20250630T150500
 SUMMARY:WdP (Inne)
 LOCATION:301/ S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Kazimierz Worwa
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250701T080000
@@ -2276,7 +2276,7 @@ DTSTART:20250917T095000
 DTEND:20250917T112500
 SUMMARY:Mat3 (Inne)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250919T095000
@@ -2479,7 +2479,7 @@ DTSTART:20251006T080000
 DTEND:20251006T093500
 SUMMARY:Sck (w)
 LOCATION:52/ 62
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T095000
@@ -2570,7 +2570,7 @@ DTSTART:20251009T114000
 DTEND:20251009T131500
 SUMMARY:Als (w)
 LOCATION:301/ S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T133000
@@ -2633,7 +2633,7 @@ DTSTART:20251013T080000
 DTEND:20251013T093500
 SUMMARY:Sck (w)
 LOCATION:52/ 62
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T095000
@@ -2724,7 +2724,7 @@ DTSTART:20251016T114000
 DTEND:20251016T131500
 SUMMARY:Als (w)
 LOCATION:301/ S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T080000
@@ -2780,7 +2780,7 @@ DTSTART:20251020T080000
 DTEND:20251020T093500
 SUMMARY:Sck (w)
 LOCATION:52/ 62
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T133000
@@ -2934,7 +2934,7 @@ DTSTART:20251027T080000
 DTEND:20251027T093500
 SUMMARY:Sck (w)
 LOCATION:52/ 62
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T095000
@@ -2997,7 +2997,7 @@ DTSTART:20251028T133000
 DTEND:20251028T150500
 SUMMARY:Als (w)
 LOCATION:301/ S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T160000
@@ -3151,7 +3151,7 @@ DTSTART:20251103T080000
 DTEND:20251103T093500
 SUMMARY:Sck (w)
 LOCATION:52/ 62
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T095000
@@ -3200,7 +3200,7 @@ DTSTART:20251104T133000
 DTEND:20251104T150500
 SUMMARY:Als (w)
 LOCATION:301/ S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T080000
@@ -3529,7 +3529,7 @@ DTSTART:20251117T080000
 DTEND:20251117T093500
 SUMMARY:Sck (w)
 LOCATION:52/ 62
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T095000
@@ -3662,7 +3662,7 @@ DTSTART:20251124T080000
 DTEND:20251124T093500
 SUMMARY:Sck (w)
 LOCATION:52/ 62
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T095000
@@ -3963,7 +3963,7 @@ DTSTART:20251204T160000
 DTEND:20251204T173500
 SUMMARY:Als (w)
 LOCATION:301/ S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T080000
@@ -5734,7 +5734,7 @@ DTSTART:20260129T080000
 DTEND:20260129T093500
 SUMMARY:Als (w)
 LOCATION:301/ S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T095000
@@ -5937,7 +5937,7 @@ DTSTART:20260209T095000
 DTEND:20260209T112500
 SUMMARY:Sck (Inne)
 LOCATION:52/ 62
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260210T114000
@@ -6042,7 +6042,7 @@ DTSTART:20260218T114000
 DTEND:20260218T131500
 SUMMARY:Als (Inne)
 LOCATION:301/ S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T114000

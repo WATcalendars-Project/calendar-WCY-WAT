@@ -267,14 +267,14 @@ DTSTART:20250317T114000
 DTEND:20250317T131500
 SUMMARY:Bd (w)
 LOCATION:314 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/4\nProwadzący:  Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/4\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T133000
 DTEND:20250317T150500
 SUMMARY:Bd (w)
 LOCATION:314 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący:  Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T080000
@@ -302,7 +302,7 @@ DTSTART:20250319T080000
 DTEND:20250319T093500
 SUMMARY:Bd (w)
 LOCATION:314 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/4\nProwadzący:  Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/4\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T095000
@@ -323,14 +323,14 @@ DTSTART:20250319T160000
 DTEND:20250319T173500
 SUMMARY:Bd (ć)
 LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący:  Radosław Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: mgr inż. Radosław Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T175000
 DTEND:20250319T192500
 SUMMARY:Bd (ć)
 LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący:  Radosław Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: mgr inż. Radosław Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T080000
@@ -351,7 +351,7 @@ DTSTART:20250320T114000
 DTEND:20250320T131500
 SUMMARY:Po (w)
 LOCATION:314 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T080000
@@ -365,14 +365,14 @@ DTSTART:20250321T114000
 DTEND:20250321T131500
 SUMMARY:Bd (L)
 LOCATION:224 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/13\nProwadzący:  Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/13\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T133000
 DTEND:20250321T150500
 SUMMARY:Bd (L)
 LOCATION:224 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/13\nProwadzący:  Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/13\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T194000
@@ -442,14 +442,14 @@ DTSTART:20250325T160000
 DTEND:20250325T173500
 SUMMARY:Bd (ć)
 LOCATION:314 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący:  Radosław Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: mgr inż. Radosław Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T175000
 DTEND:20250325T192500
 SUMMARY:Bd (ć)
 LOCATION:314 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący:  Radosław Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: mgr inż. Radosław Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T114000
@@ -477,7 +477,7 @@ DTSTART:20250327T114000
 DTEND:20250327T131500
 SUMMARY:Po (w)
 LOCATION:314 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T080000
@@ -610,21 +610,21 @@ DTSTART:20250403T114000
 DTEND:20250403T131500
 SUMMARY:Po (w)
 LOCATION:314 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T133000
 DTEND:20250403T150500
 SUMMARY:Bd (L)
 LOCATION:233 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/13\nProwadzący:  Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/13\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T160000
 DTEND:20250403T173500
 SUMMARY:Bd (L)
 LOCATION:233 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/13\nProwadzący:  Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/13\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T080000
@@ -757,21 +757,21 @@ DTSTART:20250410T114000
 DTEND:20250410T131500
 SUMMARY:Po (w)
 LOCATION:314 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T160000
 DTEND:20250410T173500
 SUMMARY:Bd (ć)
 LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący:  Radosław Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: mgr inż. Radosław Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T175000
 DTEND:20250410T192500
 SUMMARY:Bd (ć)
 LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący:  Radosław Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: mgr inż. Radosław Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T080000
@@ -911,14 +911,14 @@ DTSTART:20250416T133000
 DTEND:20250416T150500
 SUMMARY:Bpe (L)
 LOCATION:226 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący:  Waldemar Szylberg
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T160000
 DTEND:20250416T173500
 SUMMARY:Bpe (L)
 LOCATION:226 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący:  Waldemar Szylberg
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T080000
@@ -939,21 +939,21 @@ DTSTART:20250417T114000
 DTEND:20250417T131500
 SUMMARY:Po (w)
 LOCATION:314 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T133000
 DTEND:20250417T150500
 SUMMARY:Bd (L)
 LOCATION:227 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/13\nProwadzący:  Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/13\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T160000
 DTEND:20250417T173500
 SUMMARY:Bd (L)
 LOCATION:227 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/13\nProwadzący:  Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/13\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T080000
@@ -995,21 +995,21 @@ DTSTART:20250424T114000
 DTEND:20250424T131500
 SUMMARY:Po (w)
 LOCATION:314 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T133000
 DTEND:20250424T150500
 SUMMARY:Bpe (L)
 LOCATION:226 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący:  Waldemar Szylberg
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T160000
 DTEND:20250424T173500
 SUMMARY:Bpe (L)
 LOCATION:226 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący:  Waldemar Szylberg
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250426T095000
@@ -1114,14 +1114,14 @@ DTSTART:20250430T175000
 DTEND:20250430T192500
 SUMMARY:Pnak (Inne)
 LOCATION:120 65
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Adam Patkowski
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T175000
 DTEND:20250430T192500
 SUMMARY:Pnak (Inne)
 LOCATION:120 65
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T095000
@@ -1177,7 +1177,7 @@ DTSTART:20250507T095000
 DTEND:20250507T112500
 SUMMARY:Po (w)
 LOCATION:313 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T114000
@@ -1226,14 +1226,14 @@ DTSTART:20250509T114000
 DTEND:20250509T131500
 SUMMARY:Bd (L)
 LOCATION:226 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/13\nProwadzący:  Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/13\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T133000
 DTEND:20250509T150500
 SUMMARY:Bd (L)
 LOCATION:226 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/13\nProwadzący:  Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/13\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T194000
@@ -1359,7 +1359,7 @@ DTSTART:20250515T114000
 DTEND:20250515T131500
 SUMMARY:Po (w)
 LOCATION:313 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T080000
@@ -1478,7 +1478,7 @@ DTSTART:20250522T114000
 DTEND:20250522T131500
 SUMMARY:Po (w)
 LOCATION:313 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T080000
@@ -1569,21 +1569,21 @@ DTSTART:20250529T114000
 DTEND:20250529T131500
 SUMMARY:Po (w)
 LOCATION:314 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T133000
 DTEND:20250529T150500
 SUMMARY:Bd (L)
 LOCATION:223 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący:  Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T160000
 DTEND:20250529T173500
 SUMMARY:Bd (L)
 LOCATION:223 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący:  Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T175000
@@ -1716,14 +1716,14 @@ DTSTART:20250605T080000
 DTEND:20250605T093500
 SUMMARY:Bd (L)
 LOCATION:223 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/13\nProwadzący:  Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/13\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T095000
 DTEND:20250605T112500
 SUMMARY:Bd (L)
 LOCATION:223 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/13\nProwadzący:  Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/13\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T080000
@@ -1989,7 +1989,7 @@ DTSTART:20250617T114000
 DTEND:20250617T131500
 SUMMARY:Bd (L)
 LOCATION:314 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/13\nProwadzący:  Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/13\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T133000
@@ -2073,14 +2073,14 @@ DTSTART:20250701T114000
 DTEND:20250701T131500
 SUMMARY:Pnak (Inne)
 LOCATION:106 65
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący:  Adam Patkowski
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250701T114000
 DTEND:20250701T131500
 SUMMARY:Pnak (Inne)
 LOCATION:106 65
-DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący:  Waldemar Szylberg
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: mgr inż. Waldemar Szylberg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250703T095000
@@ -2136,7 +2136,7 @@ DTSTART:20251001T114000
 DTEND:20251001T131500
 SUMMARY:BD (Inne)
 LOCATION:313 S 223 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 2/3\nProwadzący:  Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 2/3\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T133000
@@ -2150,7 +2150,7 @@ DTSTART:20251001T133000
 DTEND:20251001T150500
 SUMMARY:BD (Inne)
 LOCATION:313 S 223 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 4/3\nProwadzący:  Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 4/3\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T175000
@@ -2255,7 +2255,7 @@ DTSTART:20251006T114000
 DTEND:20251006T131500
 SUMMARY:PBI (w)
 LOCATION:313 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący:  Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T133000
@@ -2290,7 +2290,7 @@ DTSTART:20251007T133000
 DTEND:20251007T150500
 SUMMARY:Wek (w)
 LOCATION:317 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T080000
@@ -2360,14 +2360,14 @@ DTSTART:20251013T114000
 DTEND:20251013T131500
 SUMMARY:PBI (w)
 LOCATION:313 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący:  Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T133000
 DTEND:20251013T150500
 SUMMARY:PBI (w)
 LOCATION:313 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący:  Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T080000
@@ -2395,7 +2395,7 @@ DTSTART:20251014T133000
 DTEND:20251014T150500
 SUMMARY:Wek (w)
 LOCATION:316 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T095000
@@ -2416,7 +2416,7 @@ DTSTART:20251015T133000
 DTEND:20251015T150500
 SUMMARY:Wek (L)
 LOCATION:078 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/16\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/16\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T080000
@@ -2507,7 +2507,7 @@ DTSTART:20251020T133000
 DTEND:20251020T150500
 SUMMARY:Wek (L)
 LOCATION:078 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/16\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/16\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T080000
@@ -2535,7 +2535,7 @@ DTSTART:20251021T133000
 DTEND:20251021T150500
 SUMMARY:Wek (w)
 LOCATION:316 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T160000
@@ -2570,14 +2570,14 @@ DTSTART:20251022T133000
 DTEND:20251022T150500
 SUMMARY:PBI (L)
 LOCATION:226 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący:  Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T160000
 DTEND:20251022T173500
 SUMMARY:PBI (L)
 LOCATION:226 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący:  Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T080000
@@ -2640,14 +2640,14 @@ DTSTART:20251027T114000
 DTEND:20251027T131500
 SUMMARY:PBI (w)
 LOCATION:313 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący:  Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T133000
 DTEND:20251027T150500
 SUMMARY:PBI (w)
 LOCATION:313 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący:  Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T080000
@@ -2675,7 +2675,7 @@ DTSTART:20251028T133000
 DTEND:20251028T150500
 SUMMARY:Wek (w)
 LOCATION:316 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T175000
@@ -2710,7 +2710,7 @@ DTSTART:20251029T133000
 DTEND:20251029T150500
 SUMMARY:Wek (L)
 LOCATION:078 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/16\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/16\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T080000
@@ -2822,21 +2822,21 @@ DTSTART:20251104T095000
 DTEND:20251104T112500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T114000
 DTEND:20251104T131500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T133000
 DTEND:20251104T150500
 SUMMARY:Wek (w)
 LOCATION:316 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T095000
@@ -2857,14 +2857,14 @@ DTSTART:20251105T133000
 DTEND:20251105T150500
 SUMMARY:Wek (L)
 LOCATION:078 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/16\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/16\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T175000
 DTEND:20251105T192500
 SUMMARY:BD (Inne)
 LOCATION:313 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 5/3\nProwadzący:  Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 5/3\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T080000
@@ -2899,7 +2899,7 @@ DTSTART:20251107T133000
 DTEND:20251107T150500
 SUMMARY:Wek (L)
 LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/16\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/16\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T175000
@@ -2941,14 +2941,14 @@ DTSTART:20251112T133000
 DTEND:20251112T150500
 SUMMARY:PBI (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący:  Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T160000
 DTEND:20251112T173500
 SUMMARY:PBI (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący:  Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T080000
@@ -3004,7 +3004,7 @@ DTSTART:20251117T080000
 DTEND:20251117T093500
 SUMMARY:Wek (L)
 LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/16\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/16\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T095000
@@ -3067,7 +3067,7 @@ DTSTART:20251118T133000
 DTEND:20251118T150500
 SUMMARY:Wek (w)
 LOCATION:313 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T095000
@@ -3088,7 +3088,7 @@ DTSTART:20251119T133000
 DTEND:20251119T150500
 SUMMARY:Wek (L)
 LOCATION:078 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/16\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/16\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T160000
@@ -3228,14 +3228,14 @@ DTSTART:20251124T114000
 DTEND:20251124T131500
 SUMMARY:IK (L)
 LOCATION:125 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T133000
 DTEND:20251124T150500
 SUMMARY:IK (L)
 LOCATION:125 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T080000
@@ -3256,7 +3256,7 @@ DTSTART:20251125T133000
 DTEND:20251125T150500
 SUMMARY:Wek (w)
 LOCATION:316 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T080000
@@ -3284,7 +3284,7 @@ DTSTART:20251126T133000
 DTEND:20251126T150500
 SUMMARY:Wek (L)
 LOCATION:078 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/16\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/16\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T080000
@@ -3361,14 +3361,14 @@ DTSTART:20251201T114000
 DTEND:20251201T131500
 SUMMARY:PBI (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący:  Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T133000
 DTEND:20251201T150500
 SUMMARY:PBI (w)
 LOCATION:314 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący:  Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T160000
@@ -3410,7 +3410,7 @@ DTSTART:20251202T133000
 DTEND:20251202T150500
 SUMMARY:Wek (w)
 LOCATION:316 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T114000
@@ -3424,7 +3424,7 @@ DTSTART:20251203T133000
 DTEND:20251203T150500
 SUMMARY:Wek (L)
 LOCATION:078 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/16\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/16\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T194000
@@ -3529,21 +3529,21 @@ DTSTART:20251208T114000
 DTEND:20251208T131500
 SUMMARY:PBI (L)
 LOCATION:228 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący:  Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T133000
 DTEND:20251208T150500
 SUMMARY:PBI (L)
 LOCATION:228 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący:  Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T160000
 DTEND:20251208T173500
 SUMMARY:Wek (L)
 LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/16\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/16\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T080000
@@ -3557,7 +3557,7 @@ DTSTART:20251209T133000
 DTEND:20251209T150500
 SUMMARY:Wek (w)
 LOCATION:317 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T175000
@@ -3655,14 +3655,14 @@ DTSTART:20251215T080000
 DTEND:20251215T093500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T095000
 DTEND:20251215T112500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T114000
@@ -3697,7 +3697,7 @@ DTSTART:20251216T133000
 DTEND:20251216T150500
 SUMMARY:Wek (w)
 LOCATION:316 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T114000
@@ -3711,7 +3711,7 @@ DTSTART:20251217T133000
 DTEND:20251217T150500
 SUMMARY:Wek (L)
 LOCATION:078 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/16\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/16\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T175000
@@ -3809,7 +3809,7 @@ DTSTART:20260107T133000
 DTEND:20260107T150500
 SUMMARY:Wek (L)
 LOCATION:078 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/16\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/16\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T194000
@@ -3844,14 +3844,14 @@ DTSTART:20260108T160000
 DTEND:20260108T173500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T175000
 DTEND:20260108T192500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T080000
@@ -3942,7 +3942,7 @@ DTSTART:20260114T095000
 DTEND:20260114T112500
 SUMMARY:Wek (L)
 LOCATION:078 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/16\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/16\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T114000
@@ -4012,7 +4012,7 @@ DTSTART:20260116T114000
 DTEND:20260116T131500
 SUMMARY:PBI (L)
 LOCATION:227 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący:  Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T194000
@@ -4047,14 +4047,14 @@ DTSTART:20260120T114000
 DTEND:20260120T131500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T133000
 DTEND:20260120T150500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T160000
@@ -4075,7 +4075,7 @@ DTSTART:20260121T080000
 DTEND:20260121T093500
 SUMMARY:Wek (L)
 LOCATION:078 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/16\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/16\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T095000
@@ -4096,7 +4096,7 @@ DTSTART:20260121T133000
 DTEND:20260121T150500
 SUMMARY:PBI (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Jerzy Stanik
+DESCRIPTION:Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T194000
@@ -4138,7 +4138,7 @@ DTSTART:20260123T133000
 DTEND:20260123T150500
 SUMMARY:Wek (L)
 LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/16\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/16\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T194000
@@ -4201,7 +4201,7 @@ DTSTART:20260128T095000
 DTEND:20260128T112500
 SUMMARY:Wek (L)
 LOCATION:085 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/16\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/16\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T114000
@@ -4313,7 +4313,7 @@ DTSTART:20260205T095000
 DTEND:20260205T112500
 SUMMARY:Wek (E)
 LOCATION:317 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260209T080000
@@ -4362,7 +4362,7 @@ DTSTART:20260219T095000
 DTEND:20260219T112500
 SUMMARY:Wek (Inne)
 LOCATION:317 S
-DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Michał Misztal
+DESCRIPTION:Wybrane elementy kryptologii\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Michał Misztal
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T080000

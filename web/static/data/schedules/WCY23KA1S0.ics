@@ -71,7 +71,7 @@ DTSTART:20260313T095000
 DTEND:20260313T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T114000
@@ -127,7 +127,7 @@ DTSTART:20260320T095000
 DTEND:20260320T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T114000
@@ -239,7 +239,7 @@ DTSTART:20260410T095000
 DTEND:20260410T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T114000
@@ -295,7 +295,7 @@ DTSTART:20260417T095000
 DTEND:20260417T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T114000
@@ -431,6 +431,27 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260504T080000
+DTEND:20260504T093500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/11\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260504T095000
+DTEND:20260504T112500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/11\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260504T114000
+DTEND:20260504T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/11\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260506T114000
 DTEND:20260506T131500
 SUMMARY:WF (w)
@@ -449,7 +470,7 @@ DTSTART:20260508T095000
 DTEND:20260508T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T114000
@@ -505,7 +526,7 @@ DTSTART:20260515T095000
 DTEND:20260515T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260515T114000
@@ -617,7 +638,7 @@ DTSTART:20260529T095000
 DTEND:20260529T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T114000
@@ -673,7 +694,7 @@ DTSTART:20260612T095000
 DTEND:20260612T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T114000
