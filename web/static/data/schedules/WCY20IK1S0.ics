@@ -8,14 +8,14 @@ DTSTART:20250226T095000
 DTEND:20250226T112500
 SUMMARY:ak (ć)
 LOCATION:307 S
-DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250226T114000
 DTEND:20250226T131500
 SUMMARY:ak (ć)
 LOCATION:307 S
-DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250227T080000
@@ -127,14 +127,14 @@ DTSTART:20250304T114000
 DTEND:20250304T131500
 SUMMARY:ak (ć)
 LOCATION:308 S
-DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T133000
 DTEND:20250304T150500
 SUMMARY:ak (ć)
 LOCATION:308 S
-DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250305T095000
@@ -190,14 +190,14 @@ DTSTART:20250313T160000
 DTEND:20250313T173500
 SUMMARY:Twic (L)
 LOCATION:223 S
-DESCRIPTION:Teoria wojny informacyjnej (cyberwojny)\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący: mgr inż. Marcin Perka
+DESCRIPTION:Teoria wojny informacyjnej (cyberwojny)\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący:  Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T175000
 DTEND:20250313T192500
 SUMMARY:Twic (L)
 LOCATION:223 S
-DESCRIPTION:Teoria wojny informacyjnej (cyberwojny)\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący: mgr inż. Marcin Perka
+DESCRIPTION:Teoria wojny informacyjnej (cyberwojny)\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący:  Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T095000
@@ -232,14 +232,14 @@ DTSTART:20250317T114000
 DTEND:20250317T131500
 SUMMARY:ak (ć)
 LOCATION:252 S
-DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T133000
 DTEND:20250317T150500
 SUMMARY:ak (ć)
 LOCATION:252 S
-DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T114000
@@ -253,21 +253,21 @@ DTSTART:20250318T160000
 DTEND:20250318T173500
 SUMMARY:Twic (L)
 LOCATION:226 S
-DESCRIPTION:Teoria wojny informacyjnej (cyberwojny)\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący: mgr inż. Marcin Perka
+DESCRIPTION:Teoria wojny informacyjnej (cyberwojny)\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący:  Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T175000
 DTEND:20250318T192500
 SUMMARY:Twic (L)
 LOCATION:226 S
-DESCRIPTION:Teoria wojny informacyjnej (cyberwojny)\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący: mgr inż. Marcin Perka
+DESCRIPTION:Teoria wojny informacyjnej (cyberwojny)\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący:  Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T095000
 DTEND:20250319T112500
 SUMMARY:ak (ć)
 LOCATION:308 S
-DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T114000
@@ -337,7 +337,7 @@ DTSTART:20250402T114000
 DTEND:20250402T131500
 SUMMARY:ak (Inne)
 LOCATION:307 S
-DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Joanna Wiśniewska
+DESCRIPTION:Algorytmy kwantowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Joanna Wiśniewska
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T080000
