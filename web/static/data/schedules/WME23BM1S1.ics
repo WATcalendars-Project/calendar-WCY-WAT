@@ -22,7 +22,7 @@ DTSTART:20250303T114000
 DTEND:20250303T131500
 SUMMARY:BiO (w)
 LOCATION:6/ 23a
-DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T133000
@@ -43,14 +43,14 @@ DTSTART:20250304T080000
 DTEND:20250304T093500
 SUMMARY:Rou (w)
 LOCATION:6/ 23a
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Łukasz Skibniewski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T095000
 DTEND:20250304T112500
 SUMMARY:Rou (w)
 LOCATION:6/ 23a
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Łukasz Skibniewski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T114000
@@ -85,7 +85,7 @@ DTSTART:20250305T114000
 DTEND:20250305T131500
 SUMMARY:Po (w)
 LOCATION:54/ 62
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T080000
@@ -155,7 +155,7 @@ DTSTART:20250310T114000
 DTEND:20250310T131500
 SUMMARY:BiO (w)
 LOCATION:6/ 23a
-DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T133000
@@ -176,14 +176,14 @@ DTSTART:20250311T080000
 DTEND:20250311T093500
 SUMMARY:Rou (w)
 LOCATION:6/ 23a
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Łukasz Skibniewski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T095000
 DTEND:20250311T112500
 SUMMARY:Rou (w)
 LOCATION:6/ 23a
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Łukasz Skibniewski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T114000
@@ -218,7 +218,7 @@ DTSTART:20250312T114000
 DTEND:20250312T131500
 SUMMARY:Po (w)
 LOCATION:8/ 62
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250312T133000
@@ -309,28 +309,28 @@ DTSTART:20250315T133000
 DTEND:20250315T150500
 SUMMARY:XMat3 (w)
 LOCATION:313 S
-DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 1/11\nProwadzący:  Agnieszka Gdula
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 1/11\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250315T160000
 DTEND:20250315T173500
 SUMMARY:XMat3 (w)
 LOCATION:313 S
-DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 2/11\nProwadzący:  Agnieszka Gdula
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 2/11\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250316T114000
 DTEND:20250316T131500
 SUMMARY:XMat3 (ć)
 LOCATION:313 S
-DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/10\nProwadzący:  Agnieszka Gdula
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/10\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250316T133000
 DTEND:20250316T150500
 SUMMARY:XMat3 (ć)
 LOCATION:313 S
-DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący:  Agnieszka Gdula
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T080000
@@ -372,14 +372,14 @@ DTSTART:20250318T080000
 DTEND:20250318T093500
 SUMMARY:Rou (w)
 LOCATION:6/ 23a
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Łukasz Skibniewski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T095000
 DTEND:20250318T112500
 SUMMARY:Rou (w)
 LOCATION:6/ 23a
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Łukasz Skibniewski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T114000
@@ -414,7 +414,7 @@ DTSTART:20250319T114000
 DTEND:20250319T131500
 SUMMARY:Po (w)
 LOCATION:54/ 62
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T133000
@@ -505,28 +505,28 @@ DTSTART:20250322T133000
 DTEND:20250322T150500
 SUMMARY:XMat3 (w)
 LOCATION:313 S
-DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 3/11\nProwadzący:  Agnieszka Gdula
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 3/11\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250322T160000
 DTEND:20250322T173500
 SUMMARY:XMat3 (w)
 LOCATION:313 S
-DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 4/11\nProwadzący:  Agnieszka Gdula
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 4/11\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250323T114000
 DTEND:20250323T131500
 SUMMARY:XMat3 (ć)
 LOCATION:313 S
-DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący:  Agnieszka Gdula
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250323T133000
 DTEND:20250323T150500
 SUMMARY:XMat3 (ć)
 LOCATION:313 S
-DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący:  Agnieszka Gdula
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T080000
@@ -547,7 +547,7 @@ DTSTART:20250324T114000
 DTEND:20250324T131500
 SUMMARY:BiO (w)
 LOCATION:6/ 23a
-DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T133000
@@ -575,7 +575,7 @@ DTSTART:20250325T095000
 DTEND:20250325T112500
 SUMMARY:Rou (w)
 LOCATION:6/ 23a
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Łukasz Skibniewski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T114000
@@ -610,7 +610,7 @@ DTSTART:20250326T114000
 DTEND:20250326T131500
 SUMMARY:Po (w)
 LOCATION:8/ 62
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T133000
@@ -687,14 +687,14 @@ DTSTART:20250329T133000
 DTEND:20250329T150500
 SUMMARY:XMat3 (w)
 LOCATION:313 S
-DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 5/11\nProwadzący:  Agnieszka Gdula
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 5/11\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250329T160000
 DTEND:20250329T173500
 SUMMARY:XMat3 (w)
 LOCATION:313 S
-DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 6/11\nProwadzący:  Agnieszka Gdula
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 6/11\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T080000
@@ -715,7 +715,7 @@ DTSTART:20250331T114000
 DTEND:20250331T131500
 SUMMARY:BiO (w)
 LOCATION:6/ 23a
-DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T133000
@@ -764,7 +764,7 @@ DTSTART:20250402T114000
 DTEND:20250402T131500
 SUMMARY:Po (w)
 LOCATION:54/ 62
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T133000
@@ -897,7 +897,7 @@ DTSTART:20250407T114000
 DTEND:20250407T131500
 SUMMARY:BiO (w)
 LOCATION:6/ 23a
-DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T133000
@@ -925,14 +925,14 @@ DTSTART:20250408T114000
 DTEND:20250408T131500
 SUMMARY:Rou (L)
 LOCATION:239 S
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Łukasz Skibniewski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T133000
 DTEND:20250408T150500
 SUMMARY:Rou (L)
 LOCATION:239 S
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Łukasz Skibniewski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T080000
@@ -1072,7 +1072,7 @@ DTSTART:20250414T114000
 DTEND:20250414T131500
 SUMMARY:BiO (w)
 LOCATION:6/ 23a
-DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T133000
@@ -1121,7 +1121,7 @@ DTSTART:20250416T080000
 DTEND:20250416T093500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący:  Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T095000
@@ -1135,7 +1135,7 @@ DTSTART:20250416T114000
 DTEND:20250416T131500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący:  Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T095000
@@ -1422,7 +1422,7 @@ DTSTART:20250423T114000
 DTEND:20250423T131500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący:  Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T133000
@@ -1534,14 +1534,14 @@ DTSTART:20250427T114000
 DTEND:20250427T131500
 SUMMARY:XMat3 (ć)
 LOCATION:313 S
-DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący:  Agnieszka Gdula
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250427T133000
 DTEND:20250427T150500
 SUMMARY:XMat3 (ć)
 LOCATION:313 S
-DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący:  Agnieszka Gdula
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T095000
@@ -1590,14 +1590,14 @@ DTSTART:20250429T114000
 DTEND:20250429T131500
 SUMMARY:Rou (L)
 LOCATION:239 S
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Łukasz Skibniewski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T133000
 DTEND:20250429T150500
 SUMMARY:Rou (L)
 LOCATION:239 S
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Łukasz Skibniewski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T160000
@@ -1632,7 +1632,7 @@ DTSTART:20250430T114000
 DTEND:20250430T131500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący:  Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T160000
@@ -1884,7 +1884,7 @@ DTSTART:20250507T114000
 DTEND:20250507T131500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący:  Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T080000
@@ -1989,14 +1989,14 @@ DTSTART:20250511T114000
 DTEND:20250511T131500
 SUMMARY:XMat3 (w)
 LOCATION:313 S
-DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 7/11\nProwadzący:  Agnieszka Gdula
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 7/11\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250511T133000
 DTEND:20250511T150500
 SUMMARY:XMat3 (w)
 LOCATION:313 S
-DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 8/11\nProwadzący:  Agnieszka Gdula
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 8/11\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T114000
@@ -2031,14 +2031,14 @@ DTSTART:20250513T114000
 DTEND:20250513T131500
 SUMMARY:Rou (L)
 LOCATION:239 S
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Łukasz Skibniewski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T133000
 DTEND:20250513T150500
 SUMMARY:Rou (L)
 LOCATION:239 S
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Łukasz Skibniewski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T160000
@@ -2066,7 +2066,7 @@ DTSTART:20250514T114000
 DTEND:20250514T131500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący:  Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T080000
@@ -2220,14 +2220,14 @@ DTSTART:20250520T114000
 DTEND:20250520T131500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T133000
 DTEND:20250520T150500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T160000
@@ -2255,7 +2255,7 @@ DTSTART:20250521T114000
 DTEND:20250521T131500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T133000
@@ -2269,14 +2269,14 @@ DTSTART:20250522T080000
 DTEND:20250522T093500
 SUMMARY:Po (L)
 LOCATION:226 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T095000
 DTEND:20250522T112500
 SUMMARY:Po (L)
 LOCATION:226 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250522T114000
@@ -2416,14 +2416,14 @@ DTSTART:20250527T114000
 DTEND:20250527T131500
 SUMMARY:Rou (L)
 LOCATION:239 S
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Łukasz Skibniewski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T133000
 DTEND:20250527T150500
 SUMMARY:Rou (L)
 LOCATION:239 S
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Łukasz Skibniewski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T160000
@@ -2458,7 +2458,7 @@ DTSTART:20250528T114000
 DTEND:20250528T131500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący:  Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T095000
@@ -2549,14 +2549,14 @@ DTSTART:20250531T133000
 DTEND:20250531T150500
 SUMMARY:XMat3 (ć)
 LOCATION:313 S
-DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący:  Agnieszka Gdula
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250531T160000
 DTEND:20250531T173500
 SUMMARY:XMat3 (ć)
 LOCATION:313 S
-DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący:  Agnieszka Gdula
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250602T114000
@@ -2598,14 +2598,14 @@ DTSTART:20250603T114000
 DTEND:20250603T131500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T133000
 DTEND:20250603T150500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T160000
@@ -2633,7 +2633,7 @@ DTSTART:20250604T114000
 DTEND:20250604T131500
 SUMMARY:BiO (L)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250605T095000
@@ -2710,14 +2710,14 @@ DTSTART:20250607T095000
 DTEND:20250607T112500
 SUMMARY:XMat3 (w)
 LOCATION:313 S
-DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 9/11\nProwadzący:  Agnieszka Gdula
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 9/11\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250607T114000
 DTEND:20250607T131500
 SUMMARY:XMat3 (w)
 LOCATION:313 S
-DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 10/11\nProwadzący:  Agnieszka Gdula
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 10/11\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250607T133000
@@ -2731,14 +2731,14 @@ DTSTART:20250608T133000
 DTEND:20250608T150500
 SUMMARY:XMat3 (ć)
 LOCATION:313 S
-DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący:  Agnieszka Gdula
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250608T160000
 DTEND:20250608T173500
 SUMMARY:XMat3 (ć)
 LOCATION:313 S
-DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący:  Agnieszka Gdula
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250609T114000
@@ -2787,14 +2787,14 @@ DTSTART:20250610T114000
 DTEND:20250610T131500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T133000
 DTEND:20250610T150500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250610T160000
@@ -2899,7 +2899,7 @@ DTSTART:20250614T133000
 DTEND:20250614T150500
 SUMMARY:XMat3 (w)
 LOCATION:313 S
-DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 11/11\nProwadzący:  Agnieszka Gdula
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 11/11\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250616T080000
@@ -2934,14 +2934,14 @@ DTSTART:20250617T114000
 DTEND:20250617T131500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T133000
 DTEND:20250617T150500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T160000
@@ -3172,14 +3172,14 @@ DTSTART:20250624T114000
 DTEND:20250624T131500
 SUMMARY:Rou (Inne)
 LOCATION:239 S
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Łukasz Skibniewski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T133000
 DTEND:20250624T150500
 SUMMARY:Po (Inne)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Paweł Pieczonka
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Paweł Pieczonka
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T080000
@@ -3193,7 +3193,7 @@ DTSTART:20250625T114000
 DTEND:20250625T131500
 SUMMARY:BiO (Inne)
 LOCATION:233 S
-DESCRIPTION:Biometria\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250625T133000
@@ -3235,14 +3235,14 @@ DTSTART:20250628T095000
 DTEND:20250628T112500
 SUMMARY:XMat3 (E)
 LOCATION:313 S
-DESCRIPTION:XMatematyka 3\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Agnieszka Gdula
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250628T114000
 DTEND:20250628T131500
 SUMMARY:XMat3 (E)
 LOCATION:313 S
-DESCRIPTION:XMatematyka 3\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Agnieszka Gdula
+DESCRIPTION:XMatematyka 3\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Agnieszka Gdula
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T095000
@@ -3263,14 +3263,14 @@ DTSTART:20250630T133000
 DTEND:20250630T150500
 SUMMARY:BiO (Inne)
 LOCATION:6/ 23a
-DESCRIPTION:Biometria\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Leszek Grad
+DESCRIPTION:Biometria\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr inż. Leszek Grad
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250701T114000
 DTEND:20250701T131500
 SUMMARY:Rou (Inne)
 LOCATION:6/ 23a
-DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Łukasz Skibniewski
+DESCRIPTION:Routing w sieciach komputerowych\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: mgr inż. Łukasz Skibniewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250701T133000
@@ -3291,7 +3291,7 @@ DTSTART:20250702T133000
 DTEND:20250702T150500
 SUMMARY:Po (Inne)
 LOCATION:54/ 62
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250703T080000
@@ -3879,14 +3879,14 @@ DTSTART:20251015T095000
 DTEND:20251015T112500
 SUMMARY:Swb (w)
 LOCATION:6/ 23a
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T114000
 DTEND:20251015T131500
 SUMMARY:Swb (w)
 LOCATION:6/ 23a
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T133000
@@ -3907,14 +3907,14 @@ DTSTART:20251016T095000
 DTEND:20251016T112500
 SUMMARY:Swb (w)
 LOCATION:8/ 62
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T114000
 DTEND:20251016T131500
 SUMMARY:Swb (w)
 LOCATION:8/ 62
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T133000
@@ -4033,14 +4033,14 @@ DTSTART:20251022T095000
 DTEND:20251022T112500
 SUMMARY:Swb (w)
 LOCATION:54/ 62
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T114000
 DTEND:20251022T131500
 SUMMARY:Swb (w)
 LOCATION:54/ 62
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T133000
@@ -4068,14 +4068,14 @@ DTSTART:20251023T095000
 DTEND:20251023T112500
 SUMMARY:Swb (w)
 LOCATION:54/ 62
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T114000
 DTEND:20251023T131500
 SUMMARY:Swb (w)
 LOCATION:54/ 62
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T133000
@@ -4180,28 +4180,28 @@ DTSTART:20251028T160000
 DTEND:20251028T173500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/24\nProwadzący:  Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/24\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T175000
 DTEND:20251028T192500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/24\nProwadzący:  Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/24\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T160000
 DTEND:20251029T173500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/24\nProwadzący:  Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/24\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T175000
 DTEND:20251029T192500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/24\nProwadzący:  Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/24\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T080000
@@ -4348,14 +4348,14 @@ DTSTART:20251104T160000
 DTEND:20251104T173500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/24\nProwadzący:  Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/24\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T175000
 DTEND:20251104T192500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/24\nProwadzący:  Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/24\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T095000
@@ -4383,14 +4383,14 @@ DTSTART:20251105T160000
 DTEND:20251105T173500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/24\nProwadzący:  Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/24\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T175000
 DTEND:20251105T192500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/24\nProwadzący:  Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/24\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T095000
@@ -4593,14 +4593,14 @@ DTSTART:20251112T160000
 DTEND:20251112T173500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/24\nProwadzący:  Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/24\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T175000
 DTEND:20251112T192500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/24\nProwadzący:  Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/24\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T095000
@@ -4726,14 +4726,14 @@ DTSTART:20251118T160000
 DTEND:20251118T173500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/24\nProwadzący:  Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/24\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T175000
 DTEND:20251118T192500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/24\nProwadzący:  Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/24\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251119T080000
@@ -4908,14 +4908,14 @@ DTSTART:20251125T160000
 DTEND:20251125T173500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/24\nProwadzący:  Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/24\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T175000
 DTEND:20251125T192500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/24\nProwadzący:  Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/24\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T080000
@@ -4950,14 +4950,14 @@ DTSTART:20251126T160000
 DTEND:20251126T173500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/24\nProwadzący:  Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/24\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T175000
 DTEND:20251126T192500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/24\nProwadzący:  Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/24\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T080000
@@ -5083,14 +5083,14 @@ DTSTART:20251202T160000
 DTEND:20251202T173500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 17/24\nProwadzący:  Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 17/24\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T175000
 DTEND:20251202T192500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 18/24\nProwadzący:  Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 18/24\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T080000
@@ -5111,14 +5111,14 @@ DTSTART:20251203T160000
 DTEND:20251203T173500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 19/24\nProwadzący:  Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 19/24\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T175000
 DTEND:20251203T192500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 20/24\nProwadzący:  Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 20/24\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T080000
@@ -5293,28 +5293,28 @@ DTSTART:20251209T160000
 DTEND:20251209T173500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 21/24\nProwadzący:  Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 21/24\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T175000
 DTEND:20251209T192500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 22/24\nProwadzący:  Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 22/24\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T160000
 DTEND:20251210T173500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 23/24\nProwadzący:  Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 23/24\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T175000
 DTEND:20251210T192500
 SUMMARY:Swb (L)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 24/24\nProwadzący:  Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 24/24\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T080000
@@ -6353,6 +6353,13 @@ LOCATION:3/ 23a
 DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260114T080000
+DTEND:20260114T093500
+SUMMARY:App (Inne)
+LOCATION:15/ 23a
+DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 3/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260114T095000
 DTEND:20260114T112500
 SUMMARY:ArCz (L)
@@ -6533,13 +6540,6 @@ DTEND:20260120T112500
 SUMMARY:ArCz (L)
 LOCATION:5/ 34a
 DESCRIPTION:Analiza ruchu człowieka - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260120T114000
-DTEND:20260120T131500
-SUMMARY:App (Inne)
-LOCATION:15/ 23a
-DESCRIPTION:Aspekty praktyczne projektowania uniwersalnego w obszarze transportu indywidualnego - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T133000
@@ -6819,7 +6819,7 @@ DTSTART:20260203T160000
 DTEND:20260203T173500
 SUMMARY:Swb (Inne)
 LOCATION:106 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260204T080000
@@ -6840,7 +6840,7 @@ DTSTART:20260204T114000
 DTEND:20260204T131500
 SUMMARY:Swb (E)
 LOCATION:52/ 62
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260204T133000
@@ -6966,7 +6966,7 @@ DTSTART:20260219T095000
 DTEND:20260219T112500
 SUMMARY:Swb (Inne)
 LOCATION:8/ 62
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T114000
