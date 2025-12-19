@@ -113,21 +113,21 @@ DTSTART:20260115T080000
 DTEND:20260115T093500
 SUMMARY:SNATO (w)
 LOCATION:203 65
-DESCRIPTION:Systemy i sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: dr hab. inż. Maciej Marczyk
+DESCRIPTION:Systemy i sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący:  Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T095000
 DTEND:20260115T112500
 SUMMARY:SBD (w)
 LOCATION:317 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T114000
 DTEND:20260115T131500
 SUMMARY:Sck (w)
 LOCATION:203 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T133000
@@ -204,14 +204,14 @@ DTSTART:20260119T114000
 DTEND:20260119T131500
 SUMMARY:SO (w)
 LOCATION:203 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T080000
 DTEND:20260120T093500
 SUMMARY:SNATO (w)
 LOCATION:203 65
-DESCRIPTION:Systemy i sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: dr hab. inż. Maciej Marczyk
+DESCRIPTION:Systemy i sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący:  Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T095000
@@ -274,7 +274,7 @@ DTSTART:20260122T095000
 DTEND:20260122T112500
 SUMMARY:SBD (w)
 LOCATION:317 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T114000
@@ -295,7 +295,7 @@ DTSTART:20260122T160000
 DTEND:20260122T173500
 SUMMARY:SBD (w)
 LOCATION:308 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T080000
@@ -323,7 +323,7 @@ DTSTART:20260123T133000
 DTEND:20260123T150500
 SUMMARY:SO (w)
 LOCATION:203 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T080000
@@ -351,14 +351,14 @@ DTSTART:20260127T080000
 DTEND:20260127T093500
 SUMMARY:SO (w)
 LOCATION:203 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T095000
 DTEND:20260127T112500
 SUMMARY:BwCP (w)
 LOCATION:307 S
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: dr hab. inż. Maciej Marczyk
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący:  Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T133000
@@ -386,7 +386,7 @@ DTSTART:20260128T114000
 DTEND:20260128T131500
 SUMMARY:SNATO (w)
 LOCATION:205 65
-DESCRIPTION:Systemy i sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr hab. inż. Maciej Marczyk
+DESCRIPTION:Systemy i sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący:  Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T133000
@@ -428,7 +428,7 @@ DTSTART:20260129T160000
 DTEND:20260129T173500
 SUMMARY:SBD (w)
 LOCATION:317 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T080000
@@ -505,7 +505,7 @@ DTSTART:20260203T095000
 DTEND:20260203T112500
 SUMMARY:SO (w)
 LOCATION:203 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T114000
@@ -610,7 +610,7 @@ DTSTART:20260206T133000
 DTEND:20260206T150500
 SUMMARY:Sck (w)
 LOCATION:309 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T160000
@@ -694,7 +694,7 @@ DTSTART:20260210T095000
 DTEND:20260210T112500
 SUMMARY:Sck (w)
 LOCATION:203 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260210T114000
@@ -778,7 +778,7 @@ DTSTART:20260212T160000
 DTEND:20260212T173500
 SUMMARY:SBD (w)
 LOCATION:309 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260213T080000
@@ -918,7 +918,7 @@ DTSTART:20260219T080000
 DTEND:20260219T093500
 SUMMARY:BwCP (ć)
 LOCATION:308 S
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T095000
@@ -946,21 +946,21 @@ DTSTART:20260219T160000
 DTEND:20260219T173500
 SUMMARY:SO (L)
 LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/13\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T175000
 DTEND:20260219T192500
 SUMMARY:SO (L)
 LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/13\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T080000
 DTEND:20260220T093500
 SUMMARY:Sck (w)
 LOCATION:203 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T095000
@@ -1016,7 +1016,7 @@ DTSTART:20260223T133000
 DTEND:20260223T150500
 SUMMARY:Sck (w)
 LOCATION:203 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260224T080000
@@ -1058,7 +1058,7 @@ DTSTART:20260225T080000
 DTEND:20260225T093500
 SUMMARY:BwCP (ć)
 LOCATION:308 S
-DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260225T095000
@@ -1156,7 +1156,7 @@ DTSTART:20260227T133000
 DTEND:20260227T150500
 SUMMARY:SO (w)
 LOCATION:203 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T080000
@@ -1226,14 +1226,14 @@ DTSTART:20260303T160000
 DTEND:20260303T173500
 SUMMARY:SBD (L)
 LOCATION:224 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T175000
 DTEND:20260303T192500
 SUMMARY:SBD (L)
 LOCATION:224 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T080000
@@ -1268,14 +1268,14 @@ DTSTART:20260304T160000
 DTEND:20260304T173500
 SUMMARY:SO (L)
 LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/13\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T175000
 DTEND:20260304T192500
 SUMMARY:SO (L)
 LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/13\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T080000
@@ -1338,7 +1338,7 @@ DTSTART:20260306T133000
 DTEND:20260306T150500
 SUMMARY:SO (w)
 LOCATION:203 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T160000
@@ -1387,7 +1387,7 @@ DTSTART:20260310T080000
 DTEND:20260310T093500
 SUMMARY:Sck (w)
 LOCATION:203 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T095000
@@ -1415,21 +1415,21 @@ DTSTART:20260310T160000
 DTEND:20260310T173500
 SUMMARY:SBD (L)
 LOCATION:224 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T175000
 DTEND:20260310T192500
 SUMMARY:SBD (L)
 LOCATION:224 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T080000
 DTEND:20260311T093500
 SUMMARY:SO (w)
 LOCATION:203 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T095000
@@ -1464,7 +1464,7 @@ DTSTART:20260312T095000
 DTEND:20260312T112500
 SUMMARY:Sck (w)
 LOCATION:203 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T114000
@@ -1499,14 +1499,14 @@ DTSTART:20260313T080000
 DTEND:20260313T093500
 SUMMARY:SO (L)
 LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/13\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T095000
 DTEND:20260313T112500
 SUMMARY:SO (L)
 LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/13\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T114000
@@ -1520,14 +1520,14 @@ DTSTART:20260313T133000
 DTEND:20260313T150500
 SUMMARY:SBD (L)
 LOCATION:224 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T160000
 DTEND:20260313T173500
 SUMMARY:SBD (L)
 LOCATION:224 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T080000
@@ -1597,14 +1597,14 @@ DTSTART:20260317T160000
 DTEND:20260317T173500
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T175000
 DTEND:20260317T192500
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/12\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/12\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T080000
@@ -1632,14 +1632,14 @@ DTSTART:20260318T133000
 DTEND:20260318T150500
 SUMMARY:SO (L)
 LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/13\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T160000
 DTEND:20260318T173500
 SUMMARY:SO (L)
 LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/13\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T080000
@@ -1688,35 +1688,35 @@ DTSTART:20260320T095000
 DTEND:20260320T112500
 SUMMARY:SNATO (L)
 LOCATION:106 65
-DESCRIPTION:Systemy i sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Systemy i sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T114000
 DTEND:20260320T131500
 SUMMARY:SNATO (L)
 LOCATION:106 65
-DESCRIPTION:Systemy i sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Systemy i sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T133000
 DTEND:20260320T150500
 SUMMARY:SNATO (L)
 LOCATION:106 65
-DESCRIPTION:Systemy i sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Systemy i sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T160000
 DTEND:20260320T173500
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/12\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/12\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260320T175000
 DTEND:20260320T192500
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260321T095000
@@ -1891,28 +1891,28 @@ DTSTART:20260326T160000
 DTEND:20260326T173500
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T175000
 DTEND:20260326T192500
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260327T080000
 DTEND:20260327T093500
 SUMMARY:SO (L)
 LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260327T095000
 DTEND:20260327T112500
 SUMMARY:SO (L)
 LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260327T114000
@@ -1933,14 +1933,14 @@ DTSTART:20260327T160000
 DTEND:20260327T173500
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260327T175000
 DTEND:20260327T192500
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T080000
@@ -1975,21 +1975,21 @@ DTSTART:20260330T160000
 DTEND:20260330T173500
 SUMMARY:SBD (L)
 LOCATION:224 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T175000
 DTEND:20260330T192500
 SUMMARY:SBD (L)
 LOCATION:224 S
-DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T080000
 DTEND:20260331T093500
 SUMMARY:Sck (w)
 LOCATION:203 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: mgr inż. Dagmara Mazur
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Dagmara Mazur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T095000
@@ -2017,42 +2017,42 @@ DTSTART:20260401T080000
 DTEND:20260401T093500
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T095000
 DTEND:20260401T112500
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T114000
 DTEND:20260401T131500
 SUMMARY:SNATO (L)
 LOCATION:106 65
-DESCRIPTION:Systemy i sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Systemy i sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T133000
 DTEND:20260401T150500
 SUMMARY:SNATO (L)
 LOCATION:106 65
-DESCRIPTION:Systemy i sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Systemy i sieci teleinformatyczne SZ RP i NATO\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T160000
 DTEND:20260401T173500
 SUMMARY:SO (L)
 LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/13\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T175000
 DTEND:20260401T192500
 SUMMARY:SO (L)
 LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/13\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T080000
@@ -2080,14 +2080,14 @@ DTSTART:20260402T160000
 DTEND:20260402T173500
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/12\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/12\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T175000
 DTEND:20260402T192500
 SUMMARY:Sck (L)
 LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący: mgr inż. Krystian Wojdygowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący:  Krystian Wojdygowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260403T095000
@@ -2143,7 +2143,7 @@ DTSTART:20260407T133000
 DTEND:20260407T150500
 SUMMARY:SO (L)
 LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/13\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T080000

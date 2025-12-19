@@ -8,7 +8,7 @@ DTSTART:20250303T080000
 DTEND:20250303T093500
 SUMMARY:WdP (w)
 LOCATION:313 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T095000
@@ -22,7 +22,7 @@ DTSTART:20250303T114000
 DTEND:20250303T131500
 SUMMARY:Md2 (w)
 LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T080000
@@ -36,7 +36,7 @@ DTSTART:20250304T133000
 DTEND:20250304T150500
 SUMMARY:Rp (w)
 LOCATION:317 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250304T160000
@@ -57,35 +57,35 @@ DTSTART:20250305T095000
 DTEND:20250305T112500
 SUMMARY:Tpi (w)
 LOCATION:307 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T080000
 DTEND:20250306T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 1/11\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 1/11\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T095000
 DTEND:20250306T112500
 SUMMARY:ppk (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T114000
 DTEND:20250306T131500
 SUMMARY:ppk (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T133000
 DTEND:20250306T150500
 SUMMARY:Md2 (w)
 LOCATION:313 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250306T160000
@@ -99,21 +99,21 @@ DTSTART:20250307T080000
 DTEND:20250307T093500
 SUMMARY:Tgs (w)
 LOCATION:316 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T095000
 DTEND:20250307T112500
 SUMMARY:Tgs (w)
 LOCATION:316 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250307T114000
 DTEND:20250307T131500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 1/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 1/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250310T080000
@@ -141,7 +141,7 @@ DTSTART:20250310T160000
 DTEND:20250310T173500
 SUMMARY:Tgs (ć)
 LOCATION:309 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T080000
@@ -155,14 +155,14 @@ DTSTART:20250311T114000
 DTEND:20250311T131500
 SUMMARY:Tpi (w)
 LOCATION:317 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T133000
 DTEND:20250311T150500
 SUMMARY:Rp (w)
 LOCATION:317 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T160000
@@ -211,21 +211,21 @@ DTSTART:20250313T080000
 DTEND:20250313T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 2/11\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 2/11\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T095000
 DTEND:20250313T112500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 2/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 2/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T114000
 DTEND:20250313T131500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 3/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 3/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250313T160000
@@ -239,35 +239,35 @@ DTSTART:20250314T080000
 DTEND:20250314T093500
 SUMMARY:WdP (w)
 LOCATION:316 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T095000
 DTEND:20250314T112500
 SUMMARY:WdP (w)
 LOCATION:316 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T114000
 DTEND:20250314T131500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T133000
 DTEND:20250314T150500
 SUMMARY:PTk (L)
 LOCATION:09 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr Maciej Lis
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Maciej Lis
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250314T160000
 DTEND:20250314T173500
 SUMMARY:PTk (L)
 LOCATION:09 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr Maciej Lis
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Maciej Lis
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T080000
@@ -288,7 +288,7 @@ DTSTART:20250317T114000
 DTEND:20250317T131500
 SUMMARY:Md2 (w)
 LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250317T133000
@@ -302,7 +302,7 @@ DTSTART:20250317T160000
 DTEND:20250317T173500
 SUMMARY:Tgs (ć)
 LOCATION:309 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T080000
@@ -316,7 +316,7 @@ DTSTART:20250318T095000
 DTEND:20250318T112500
 SUMMARY:Tpi (w)
 LOCATION:317 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250318T114000
@@ -337,7 +337,7 @@ DTSTART:20250319T080000
 DTEND:20250319T093500
 SUMMARY:Rp (w)
 LOCATION:316 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 3/9\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 3/9\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T095000
@@ -351,7 +351,7 @@ DTSTART:20250319T114000
 DTEND:20250319T131500
 SUMMARY:Tpi (ć)
 LOCATION:309 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250319T133000
@@ -372,21 +372,21 @@ DTSTART:20250320T080000
 DTEND:20250320T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 3/11\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 3/11\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T095000
 DTEND:20250320T112500
 SUMMARY:ppk (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T114000
 DTEND:20250320T131500
 SUMMARY:ppk (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250320T133000
@@ -407,21 +407,21 @@ DTSTART:20250321T080000
 DTEND:20250321T093500
 SUMMARY:Tgs (w)
 LOCATION:316 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T095000
 DTEND:20250321T112500
 SUMMARY:Tgs (w)
 LOCATION:316 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250321T114000
 DTEND:20250321T131500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T080000
@@ -442,21 +442,21 @@ DTSTART:20250324T114000
 DTEND:20250324T131500
 SUMMARY:Md2 (w)
 LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T160000
 DTEND:20250324T173500
 SUMMARY:ppk (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250324T175000
 DTEND:20250324T192500
 SUMMARY:ppk (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T080000
@@ -470,7 +470,7 @@ DTSTART:20250325T095000
 DTEND:20250325T112500
 SUMMARY:Tpi (w)
 LOCATION:317 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250325T114000
@@ -505,7 +505,7 @@ DTSTART:20250326T095000
 DTEND:20250326T112500
 SUMMARY:Md2 (ć)
 LOCATION:101 65
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: dr Łukasz Matysiak
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący:  Łukasz Matysiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T114000
@@ -533,21 +533,21 @@ DTSTART:20250327T080000
 DTEND:20250327T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 4/11\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 4/11\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T114000
 DTEND:20250327T131500
 SUMMARY:Rp (L)
 LOCATION:219 65
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T133000
 DTEND:20250327T150500
 SUMMARY:Rp (w)
 LOCATION:316 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 4/9\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 4/9\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250327T160000
@@ -561,35 +561,35 @@ DTSTART:20250328T080000
 DTEND:20250328T093500
 SUMMARY:Tgs (w)
 LOCATION:316 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T095000
 DTEND:20250328T112500
 SUMMARY:Tgs (w)
 LOCATION:316 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T114000
 DTEND:20250328T131500
 SUMMARY:PTk (L)
 LOCATION:125 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr Maciej Lis
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Maciej Lis
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250328T133000
 DTEND:20250328T150500
 SUMMARY:PTk (L)
 LOCATION:125 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr Maciej Lis
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Maciej Lis
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T080000
 DTEND:20250331T093500
 SUMMARY:WdP (w)
 LOCATION:316 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T095000
@@ -610,21 +610,21 @@ DTSTART:20250331T133000
 DTEND:20250331T150500
 SUMMARY:Tgs (ć)
 LOCATION:237 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T160000
 DTEND:20250331T173500
 SUMMARY:Mat I (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka I\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T095000
 DTEND:20250401T112500
 SUMMARY:Tpi (w)
 LOCATION:317 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250401T114000
@@ -680,28 +680,28 @@ DTSTART:20250402T175000
 DTEND:20250402T192500
 SUMMARY:Tpi (ć)
 LOCATION:307 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T194000
 DTEND:20250402T211500
 SUMMARY:Tpi (L)
 LOCATION:223 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T080000
 DTEND:20250403T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 5/11\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 5/11\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T095000
 DTEND:20250403T112500
 SUMMARY:Rp (w)
 LOCATION:316 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 5/9\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 5/9\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250403T114000
@@ -729,7 +729,7 @@ DTSTART:20250404T080000
 DTEND:20250404T093500
 SUMMARY:WdP (w)
 LOCATION:313 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T095000
@@ -743,7 +743,7 @@ DTSTART:20250404T114000
 DTEND:20250404T131500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 6/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 6/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250404T194000
@@ -771,28 +771,28 @@ DTSTART:20250407T114000
 DTEND:20250407T131500
 SUMMARY:Md2 (w)
 LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T175000
 DTEND:20250407T192500
 SUMMARY:M II (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T080000
 DTEND:20250408T093500
 SUMMARY:Rp (w)
 LOCATION:317 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T095000
 DTEND:20250408T112500
 SUMMARY:Tpi (w)
 LOCATION:317 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T114000
@@ -806,7 +806,7 @@ DTSTART:20250408T175000
 DTEND:20250408T192500
 SUMMARY:WdI (Inne)
 LOCATION:313 S
-DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250409T080000
@@ -848,14 +848,14 @@ DTSTART:20250410T080000
 DTEND:20250410T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 6/11\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 6/11\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T095000
 DTEND:20250410T112500
 SUMMARY:Md2 (ć)
 LOCATION:316 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: dr Łukasz Matysiak
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący:  Łukasz Matysiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250410T114000
@@ -883,21 +883,21 @@ DTSTART:20250411T095000
 DTEND:20250411T112500
 SUMMARY:Tgs (w)
 LOCATION:316 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T114000
 DTEND:20250411T131500
 SUMMARY:PTk (L)
 LOCATION:120 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr Maciej Lis
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Maciej Lis
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250411T133000
 DTEND:20250411T150500
 SUMMARY:PTk (L)
 LOCATION:120 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr Maciej Lis
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Maciej Lis
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T095000
@@ -911,28 +911,28 @@ DTSTART:20250414T114000
 DTEND:20250414T131500
 SUMMARY:Md2 (w)
 LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T133000
 DTEND:20250414T150500
 SUMMARY:Rp (L)
 LOCATION:219 65
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T160000
 DTEND:20250414T173500
 SUMMARY:Tgs (ć)
 LOCATION:308 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T175000
 DTEND:20250414T192500
 SUMMARY:MD1 (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250415T095000
@@ -974,7 +974,7 @@ DTSTART:20250416T114000
 DTEND:20250416T131500
 SUMMARY:Md2 (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: dr Łukasz Matysiak
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący:  Łukasz Matysiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250416T133000
@@ -995,28 +995,28 @@ DTSTART:20250416T175000
 DTEND:20250416T192500
 SUMMARY:Tpi (ć)
 LOCATION:307 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T080000
 DTEND:20250417T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 7/11\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 7/11\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T095000
 DTEND:20250417T112500
 SUMMARY:ppk (w)
 LOCATION:317 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T114000
 DTEND:20250417T131500
 SUMMARY:Rp (w)
 LOCATION:316 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250417T160000
@@ -1051,28 +1051,28 @@ DTSTART:20250424T080000
 DTEND:20250424T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 8/11\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 8/11\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T095000
 DTEND:20250424T112500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 7/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 7/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T114000
 DTEND:20250424T131500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 8/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 8/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T133000
 DTEND:20250424T150500
 SUMMARY:Rp (w)
 LOCATION:316 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250424T160000
@@ -1093,14 +1093,14 @@ DTSTART:20250428T114000
 DTEND:20250428T131500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 9/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 9/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250428T133000
 DTEND:20250428T150500
 SUMMARY:Md2 (w)
 LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T095000
@@ -1114,7 +1114,7 @@ DTSTART:20250429T114000
 DTEND:20250429T131500
 SUMMARY:Rp (L)
 LOCATION:219 65
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250429T133000
@@ -1135,14 +1135,14 @@ DTSTART:20250430T095000
 DTEND:20250430T112500
 SUMMARY:Md2 (ć)
 LOCATION:313 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr Łukasz Matysiak
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący:  Łukasz Matysiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T114000
 DTEND:20250430T131500
 SUMMARY:Md2 (w)
 LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T133000
@@ -1163,14 +1163,14 @@ DTSTART:20250430T175000
 DTEND:20250430T192500
 SUMMARY:Tpi (ć)
 LOCATION:307 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T080000
 DTEND:20250505T093500
 SUMMARY:Tgs (w)
 LOCATION:314 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T095000
@@ -1205,7 +1205,7 @@ DTSTART:20250505T175000
 DTEND:20250505T192500
 SUMMARY:Tgs (ć)
 LOCATION:307 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250506T095000
@@ -1219,7 +1219,7 @@ DTSTART:20250507T080000
 DTEND:20250507T093500
 SUMMARY:Rp (ć)
 LOCATION:205 65
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T114000
@@ -1247,21 +1247,21 @@ DTSTART:20250508T080000
 DTEND:20250508T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 9/11\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 9/11\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T095000
 DTEND:20250508T112500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 10/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 10/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T114000
 DTEND:20250508T131500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 11/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 11/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250508T133000
@@ -1296,14 +1296,14 @@ DTSTART:20250509T114000
 DTEND:20250509T131500
 SUMMARY:PTk (L)
 LOCATION:120 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr Maciej Lis
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Maciej Lis
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250509T133000
 DTEND:20250509T150500
 SUMMARY:PTk (L)
 LOCATION:120 65
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr Maciej Lis
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Maciej Lis
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T080000
@@ -1324,7 +1324,7 @@ DTSTART:20250512T114000
 DTEND:20250512T131500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 12/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 12/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250513T080000
@@ -1352,7 +1352,7 @@ DTSTART:20250514T095000
 DTEND:20250514T112500
 SUMMARY:Md2 (ć)
 LOCATION:309 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: dr Łukasz Matysiak
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący:  Łukasz Matysiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T114000
@@ -1380,21 +1380,21 @@ DTSTART:20250514T175000
 DTEND:20250514T192500
 SUMMARY:Tpi (ć)
 LOCATION:307 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250514T194000
 DTEND:20250514T211500
 SUMMARY:Tpi (L)
 LOCATION:223 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T080000
 DTEND:20250515T093500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 10/11\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 10/11\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250515T114000
@@ -1429,14 +1429,14 @@ DTSTART:20250519T114000
 DTEND:20250519T131500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 13/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 13/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T080000
 DTEND:20250520T093500
 SUMMARY:Rp (L)
 LOCATION:219 65
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T095000
@@ -1464,7 +1464,7 @@ DTSTART:20250520T160000
 DTEND:20250520T173500
 SUMMARY:Tgs (ć)
 LOCATION:317 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250521T080000
@@ -1541,14 +1541,14 @@ DTSTART:20250526T114000
 DTEND:20250526T131500
 SUMMARY:PTk (w)
 LOCATION:316 S
-DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 14/14\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 14/14\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250526T133000
 DTEND:20250526T150500
 SUMMARY:Tgs (ć)
 LOCATION:307 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250527T114000
@@ -1569,7 +1569,7 @@ DTSTART:20250528T080000
 DTEND:20250528T093500
 SUMMARY:Rp (L)
 LOCATION:219 65
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250528T095000
@@ -1604,7 +1604,7 @@ DTSTART:20250528T175000
 DTEND:20250528T192500
 SUMMARY:Tpi (ć)
 LOCATION:307 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250529T160000
@@ -1632,7 +1632,7 @@ DTSTART:20250602T133000
 DTEND:20250602T150500
 SUMMARY:Rp (ć)
 LOCATION:201 65
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250603T080000
@@ -1653,7 +1653,7 @@ DTSTART:20250603T133000
 DTEND:20250603T150500
 SUMMARY:Md2 (ć)
 LOCATION:201 65
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: dr Łukasz Matysiak
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący:  Łukasz Matysiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250604T080000
@@ -1786,7 +1786,7 @@ DTSTART:20250616T114000
 DTEND:20250616T131500
 SUMMARY:Tpi (w)
 LOCATION:317 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T114000
@@ -1800,28 +1800,28 @@ DTSTART:20250617T133000
 DTEND:20250617T150500
 SUMMARY:Md2 (ć)
 LOCATION:308 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr Łukasz Matysiak
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący:  Łukasz Matysiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T160000
 DTEND:20250617T173500
 SUMMARY:ppk (Inne)
 LOCATION:317 S
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250617T175000
 DTEND:20250617T192500
 SUMMARY:Amt (w)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 11/11\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 11/11\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T080000
 DTEND:20250618T093500
 SUMMARY:Rp (w)
 LOCATION:313 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250618T133000
@@ -1842,35 +1842,35 @@ DTSTART:20250624T114000
 DTEND:20250624T131500
 SUMMARY:Md2 (E)
 LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T133000
 DTEND:20250624T150500
 SUMMARY:Md2 (E)
 LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250626T160000
 DTEND:20250626T173500
 SUMMARY:Tpi (Inne)
 LOCATION:317 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250627T080000
 DTEND:20250627T093500
 SUMMARY:WdP (E)
 LOCATION:316 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250627T095000
 DTEND:20250627T112500
 SUMMARY:WdP (E)
 LOCATION:316 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250701T095000
@@ -1898,21 +1898,21 @@ DTSTART:20250703T080000
 DTEND:20250703T093500
 SUMMARY:Amt (E)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250703T095000
 DTEND:20250703T112500
 SUMMARY:Amt (E)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250710T160000
 DTEND:20250710T173500
 SUMMARY:Tpi (Inne)
 LOCATION:317 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Piotr Jakubowski
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Piotr Jakubowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250715T095000
@@ -1954,7 +1954,7 @@ DTSTART:20250915T095000
 DTEND:20250915T112500
 SUMMARY:Rp (Inne)
 LOCATION:316 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250915T114000
@@ -1968,56 +1968,56 @@ DTSTART:20250915T133000
 DTEND:20250915T150500
 SUMMARY:Tgs (Inne)
 LOCATION:239 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Zbigniew Tarapata
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250916T095000
 DTEND:20250916T112500
 SUMMARY:Md2 (Inne)
 LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Łukasz Matysiak
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Łukasz Matysiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250917T095000
 DTEND:20250917T112500
 SUMMARY:Md2 (Inne)
 LOCATION:317 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250917T114000
 DTEND:20250917T131500
 SUMMARY:ppk (Inne)
 LOCATION:106 65
-DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: dr inż. Jan Chudzikiewicz
+DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący:  Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250918T080000
 DTEND:20250918T093500
 SUMMARY:Amt (Inne)
 LOCATION:316 S
-DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Mariusz Jurkiewicz
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Mariusz Jurkiewicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250918T095000
 DTEND:20250918T112500
 SUMMARY:Rp (Inne)
 LOCATION:316 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250919T095000
 DTEND:20250919T112500
 SUMMARY:WdP (Inne)
 LOCATION:316 S
-DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Dariusz Pierzchała
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250919T133000
 DTEND:20250919T150500
 SUMMARY:Tpi (Inne)
 LOCATION:317 S
-DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250923T095000
@@ -2052,35 +2052,35 @@ DTSTART:20251001T095000
 DTEND:20251001T112500
 SUMMARY:Swb (w)
 LOCATION:313 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T114000
 DTEND:20251001T131500
 SUMMARY:Po (w)
 LOCATION:317 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251001T133000
 DTEND:20251001T150500
 SUMMARY:Po (w)
 LOCATION:317 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T133000
 DTEND:20251002T150500
 SUMMARY:BD (w)
 LOCATION:316 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący:  Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251002T160000
 DTEND:20251002T173500
 SUMMARY:BD (w)
 LOCATION:316 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący:  Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T095000
@@ -2094,14 +2094,14 @@ DTSTART:20251006T114000
 DTEND:20251006T131500
 SUMMARY:Aok (w)
 LOCATION:307 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T133000
 DTEND:20251006T150500
 SUMMARY:Aok (w)
 LOCATION:316 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251007T080000
@@ -2129,21 +2129,21 @@ DTSTART:20251008T080000
 DTEND:20251008T093500
 SUMMARY:Po (w)
 LOCATION:314 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T095000
 DTEND:20251008T112500
 SUMMARY:Swb (w)
 LOCATION:317 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T114000
 DTEND:20251008T131500
 SUMMARY:Swb (w)
 LOCATION:317 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 3/9\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 3/9\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251008T133000
@@ -2157,49 +2157,49 @@ DTSTART:20251009T133000
 DTEND:20251009T150500
 SUMMARY:BD (w)
 LOCATION:316 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący:  Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T160000
 DTEND:20251009T173500
 SUMMARY:BD (w)
 LOCATION:316 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący:  Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T095000
 DTEND:20251010T112500
 SUMMARY:Aok (L)
 LOCATION:011 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/16\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/16\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T114000
 DTEND:20251010T131500
 SUMMARY:Aok (L)
 LOCATION:011 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/16\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/16\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T095000
 DTEND:20251013T112500
 SUMMARY:SO (L)
 LOCATION:125 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/13\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T114000
 DTEND:20251013T131500
 SUMMARY:Als (w)
 LOCATION:307 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T133000
 DTEND:20251013T150500
 SUMMARY:Als (w)
 LOCATION:316 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T080000
@@ -2234,49 +2234,49 @@ DTSTART:20251015T080000
 DTEND:20251015T093500
 SUMMARY:Sm (w)
 LOCATION:316 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T133000
 DTEND:20251015T150500
 SUMMARY:BD (ć)
 LOCATION:227 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący:  Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251015T160000
 DTEND:20251015T173500
 SUMMARY:BD (ć)
 LOCATION:227 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący:  Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T080000
 DTEND:20251016T093500
 SUMMARY:Po (w)
 LOCATION:307 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T095000
 DTEND:20251016T112500
 SUMMARY:Po (w)
 LOCATION:307 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T080000
 DTEND:20251017T093500
 SUMMARY:BD (w)
 LOCATION:316 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/4\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T095000
 DTEND:20251017T112500
 SUMMARY:BD (w)
 LOCATION:316 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T114000
@@ -2290,14 +2290,14 @@ DTSTART:20251017T133000
 DTEND:20251017T150500
 SUMMARY:Aok (L)
 LOCATION:121 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/16\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/16\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T160000
 DTEND:20251017T173500
 SUMMARY:Aok (L)
 LOCATION:121 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/16\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/16\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T175000
@@ -2318,35 +2318,35 @@ DTSTART:20251020T095000
 DTEND:20251020T112500
 SUMMARY:SO (L)
 LOCATION:125 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/13\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T114000
 DTEND:20251020T131500
 SUMMARY:Aok (w)
 LOCATION:307 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T133000
 DTEND:20251020T150500
 SUMMARY:Als (w)
 LOCATION:316 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/9\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/9\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T160000
 DTEND:20251020T173500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/16\nProwadzący: mgr inż. Radosław Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/16\nProwadzący:  Radosław Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T175000
 DTEND:20251020T192500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/16\nProwadzący: mgr inż. Radosław Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/16\nProwadzący:  Radosław Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T080000
@@ -2381,35 +2381,35 @@ DTSTART:20251022T080000
 DTEND:20251022T093500
 SUMMARY:Sm (w)
 LOCATION:316 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251022T095000
 DTEND:20251022T112500
 SUMMARY:Sm (L)
 LOCATION:078 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący:  Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T080000
 DTEND:20251023T093500
 SUMMARY:Als (L)
 LOCATION:233 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/11\nProwadzący: mgr inż. Arkadiusz Kowalski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/11\nProwadzący:  Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T095000
 DTEND:20251023T112500
 SUMMARY:Als (L)
 LOCATION:233 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/11\nProwadzący: mgr inż. Arkadiusz Kowalski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/11\nProwadzący:  Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T133000
 DTEND:20251023T150500
 SUMMARY:Po (w)
 LOCATION:313 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251023T160000
@@ -2423,35 +2423,35 @@ DTSTART:20251024T080000
 DTEND:20251024T093500
 SUMMARY:BD (w)
 LOCATION:307 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/4\nProwadzący: mgr inż. Józef Woźniak
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/4\nProwadzący:  Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T160000
 DTEND:20251024T173500
 SUMMARY:Swb (L)
 LOCATION:120 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/11\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/11\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T175000
 DTEND:20251024T192500
 SUMMARY:Swb (L)
 LOCATION:120 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/11\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/11\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T080000
 DTEND:20251027T093500
 SUMMARY:SO (L)
 LOCATION:106 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/13\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T114000
 DTEND:20251027T131500
 SUMMARY:Aok (w)
 LOCATION:307 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T133000
@@ -2479,14 +2479,14 @@ DTSTART:20251028T095000
 DTEND:20251028T112500
 SUMMARY:BD (ć)
 LOCATION:226 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący:  Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T114000
 DTEND:20251028T131500
 SUMMARY:BD (ć)
 LOCATION:226 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący:  Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T133000
@@ -2507,21 +2507,21 @@ DTSTART:20251029T080000
 DTEND:20251029T093500
 SUMMARY:Sm (w)
 LOCATION:316 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T095000
 DTEND:20251029T112500
 SUMMARY:Swb (w)
 LOCATION:316 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 4/9\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 4/9\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T114000
 DTEND:20251029T131500
 SUMMARY:Swb (w)
 LOCATION:316 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 5/9\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 5/9\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T095000
@@ -2535,49 +2535,49 @@ DTSTART:20251030T114000
 DTEND:20251030T131500
 SUMMARY:Po (w)
 LOCATION:316 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T133000
 DTEND:20251030T150500
 SUMMARY:Po (w)
 LOCATION:316 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T114000
 DTEND:20251031T131500
 SUMMARY:BD (L)
 LOCATION:224 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/13\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/13\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T133000
 DTEND:20251031T150500
 SUMMARY:BD (L)
 LOCATION:224 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/13\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/13\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T160000
 DTEND:20251031T173500
 SUMMARY:Aok (L)
 LOCATION:09 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/16\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/16\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031T175000
 DTEND:20251031T192500
 SUMMARY:Aok (L)
 LOCATION:09 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/16\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/16\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T114000
 DTEND:20251103T131500
 SUMMARY:Aok (w)
 LOCATION:307 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T133000
@@ -2591,14 +2591,14 @@ DTSTART:20251103T160000
 DTEND:20251103T173500
 SUMMARY:Po (L)
 LOCATION:227 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/16\nProwadzący: mgr inż. Radosław Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/16\nProwadzący:  Radosław Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T175000
 DTEND:20251103T192500
 SUMMARY:Po (L)
 LOCATION:227 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/16\nProwadzący: mgr inż. Radosław Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/16\nProwadzący:  Radosław Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251104T080000
@@ -2633,14 +2633,14 @@ DTSTART:20251105T080000
 DTEND:20251105T093500
 SUMMARY:Sm (w)
 LOCATION:316 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T095000
 DTEND:20251105T112500
 SUMMARY:SO (L)
 LOCATION:106 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/13\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T133000
@@ -2654,49 +2654,49 @@ DTSTART:20251105T160000
 DTEND:20251105T173500
 SUMMARY:Md2 (Inne)
 LOCATION:309 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr Łukasz Matysiak
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący:  Łukasz Matysiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T080000
 DTEND:20251106T093500
 SUMMARY:Po (w)
 LOCATION:307 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T095000
 DTEND:20251106T112500
 SUMMARY:Aok (w)
 LOCATION:317 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T133000
 DTEND:20251106T150500
 SUMMARY:Als (L)
 LOCATION:236 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/11\nProwadzący: mgr inż. Arkadiusz Kowalski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/11\nProwadzący:  Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T160000
 DTEND:20251106T173500
 SUMMARY:Als (L)
 LOCATION:236 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący: mgr inż. Arkadiusz Kowalski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący:  Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T080000
 DTEND:20251107T093500
 SUMMARY:Als (w)
 LOCATION:313 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/9\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/9\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T095000
 DTEND:20251107T112500
 SUMMARY:Als (w)
 LOCATION:307 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/9\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/9\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T080000
@@ -2710,28 +2710,28 @@ DTSTART:20251112T095000
 DTEND:20251112T112500
 SUMMARY:Swb (w)
 LOCATION:316 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T114000
 DTEND:20251112T131500
 SUMMARY:Swb (w)
 LOCATION:316 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T133000
 DTEND:20251112T150500
 SUMMARY:SO (L)
 LOCATION:121 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/13\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T160000
 DTEND:20251112T173500
 SUMMARY:Sm (L)
 LOCATION:085 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący:  Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T095000
@@ -2745,28 +2745,28 @@ DTSTART:20251113T114000
 DTEND:20251113T131500
 SUMMARY:BD (L)
 LOCATION:227 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/13\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/13\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T133000
 DTEND:20251113T150500
 SUMMARY:BD (L)
 LOCATION:227 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/13\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/13\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T160000
 DTEND:20251113T173500
 SUMMARY:BD (ć)
 LOCATION:226 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący:  Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T175000
 DTEND:20251113T192500
 SUMMARY:BD (ć)
 LOCATION:226 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący:  Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T114000
@@ -2780,21 +2780,21 @@ DTSTART:20251117T133000
 DTEND:20251117T150500
 SUMMARY:SO (L)
 LOCATION:125 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/13\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T160000
 DTEND:20251117T173500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/16\nProwadzący: mgr inż. Radosław Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/16\nProwadzący:  Radosław Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T175000
 DTEND:20251117T192500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/16\nProwadzący: mgr inż. Radosław Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/16\nProwadzący:  Radosław Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T080000
@@ -2808,14 +2808,14 @@ DTSTART:20251118T095000
 DTEND:20251118T112500
 SUMMARY:Aok (L)
 LOCATION:09 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/16\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/16\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T114000
 DTEND:20251118T131500
 SUMMARY:Aok (L)
 LOCATION:09 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/16\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/16\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251118T133000
@@ -2843,14 +2843,14 @@ DTSTART:20251119T080000
 DTEND:20251119T093500
 SUMMARY:Sm (w)
 LOCATION:316 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T080000
 DTEND:20251120T093500
 SUMMARY:Po (w)
 LOCATION:307 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T095000
@@ -2878,35 +2878,35 @@ DTSTART:20251120T194000
 DTEND:20251120T211500
 SUMMARY:Md2 (Inne)
 LOCATION:313 S
-DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący:  Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T080000
 DTEND:20251121T093500
 SUMMARY:Als (w)
 LOCATION:316 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T080000
 DTEND:20251124T093500
 SUMMARY:SO (L)
 LOCATION:121 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/13\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T160000
 DTEND:20251124T173500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/16\nProwadzący: mgr inż. Radosław Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/16\nProwadzący:  Radosław Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T175000
 DTEND:20251124T192500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/16\nProwadzący: mgr inż. Radosław Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/16\nProwadzący:  Radosław Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T080000
@@ -2941,7 +2941,7 @@ DTSTART:20251126T080000
 DTEND:20251126T093500
 SUMMARY:Sm (w)
 LOCATION:316 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T095000
@@ -2955,63 +2955,63 @@ DTSTART:20251126T114000
 DTEND:20251126T131500
 SUMMARY:Swb (L)
 LOCATION:121 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/11\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/11\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T133000
 DTEND:20251126T150500
 SUMMARY:Swb (L)
 LOCATION:121 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T080000
 DTEND:20251127T093500
 SUMMARY:Aok (w)
 LOCATION:307 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T095000
 DTEND:20251127T112500
 SUMMARY:Swb (w)
 LOCATION:317 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T114000
 DTEND:20251127T131500
 SUMMARY:Swb (w)
 LOCATION:317 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T133000
 DTEND:20251127T150500
 SUMMARY:BD (L)
 LOCATION:223 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/13\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/13\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127T160000
 DTEND:20251127T173500
 SUMMARY:BD (L)
 LOCATION:223 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/13\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/13\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T114000
 DTEND:20251201T131500
 SUMMARY:Als (w)
 LOCATION:317 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T133000
 DTEND:20251201T150500
 SUMMARY:Als (w)
 LOCATION:317 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251201T160000
@@ -3053,7 +3053,7 @@ DTSTART:20251203T080000
 DTEND:20251203T093500
 SUMMARY:Sm (w)
 LOCATION:316 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T095000
@@ -3067,14 +3067,14 @@ DTSTART:20251203T114000
 DTEND:20251203T131500
 SUMMARY:SO (L)
 LOCATION:011 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/13\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T080000
 DTEND:20251204T093500
 SUMMARY:Aok (w)
 LOCATION:307 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T133000
@@ -3095,56 +3095,56 @@ DTSTART:20251205T114000
 DTEND:20251205T131500
 SUMMARY:Als (L)
 LOCATION:233 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/11\nProwadzący: mgr inż. Arkadiusz Kowalski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/11\nProwadzący:  Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T133000
 DTEND:20251205T150500
 SUMMARY:Als (L)
 LOCATION:233 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/11\nProwadzący: mgr inż. Arkadiusz Kowalski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/11\nProwadzący:  Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T160000
 DTEND:20251205T173500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/16\nProwadzący: mgr inż. Radosław Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/16\nProwadzący:  Radosław Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T175000
 DTEND:20251205T192500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/16\nProwadzący: mgr inż. Radosław Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/16\nProwadzący:  Radosław Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T080000
 DTEND:20251208T093500
 SUMMARY:SO (L)
 LOCATION:121 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T114000
 DTEND:20251208T131500
 SUMMARY:Als (w)
 LOCATION:317 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T133000
 DTEND:20251208T150500
 SUMMARY:Aok (L)
 LOCATION:121 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/16\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/16\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T160000
 DTEND:20251208T173500
 SUMMARY:Aok (L)
 LOCATION:121 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/16\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/16\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T080000
@@ -3179,7 +3179,7 @@ DTSTART:20251210T080000
 DTEND:20251210T093500
 SUMMARY:Sm (w)
 LOCATION:316 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T095000
@@ -3193,56 +3193,56 @@ DTSTART:20251211T080000
 DTEND:20251211T093500
 SUMMARY:Aok (w)
 LOCATION:307 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T160000
 DTEND:20251211T173500
 SUMMARY:Swb (L)
 LOCATION:120 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/11\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/11\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251211T175000
 DTEND:20251211T192500
 SUMMARY:Swb (L)
 LOCATION:120 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/11\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/11\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T080000
 DTEND:20251212T093500
 SUMMARY:Als (L)
 LOCATION:228 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/11\nProwadzący: mgr inż. Arkadiusz Kowalski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/11\nProwadzący:  Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T095000
 DTEND:20251212T112500
 SUMMARY:Als (L)
 LOCATION:228 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/11\nProwadzący: mgr inż. Arkadiusz Kowalski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/11\nProwadzący:  Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T133000
 DTEND:20251212T150500
 SUMMARY:BD (L)
 LOCATION:226 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/13\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/13\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T160000
 DTEND:20251212T173500
 SUMMARY:BD (L)
 LOCATION:226 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/13\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/13\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T080000
 DTEND:20251215T093500
 SUMMARY:SO (L)
 LOCATION:106 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T114000
@@ -3284,21 +3284,21 @@ DTSTART:20251217T095000
 DTEND:20251217T112500
 SUMMARY:Sm (L)
 LOCATION:224 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący:  Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T114000
 DTEND:20251217T131500
 SUMMARY:Sm (L)
 LOCATION:078 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący:  Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T080000
 DTEND:20251218T093500
 SUMMARY:Aok (w)
 LOCATION:307 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251218T095000
@@ -3319,77 +3319,77 @@ DTSTART:20251219T114000
 DTEND:20251219T131500
 SUMMARY:Aok (L)
 LOCATION:125 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/16\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/16\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T133000
 DTEND:20251219T150500
 SUMMARY:Aok (L)
 LOCATION:125 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/16\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/16\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T160000
 DTEND:20251219T173500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/16\nProwadzący: mgr inż. Radosław Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/16\nProwadzący:  Radosław Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251219T175000
 DTEND:20251219T192500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/16\nProwadzący: mgr inż. Radosław Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/16\nProwadzący:  Radosław Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T114000
 DTEND:20260107T131500
 SUMMARY:Aok (L)
 LOCATION:121 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/16\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/16\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T133000
 DTEND:20260107T150500
 SUMMARY:Aok (L)
 LOCATION:121 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/16\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/16\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T114000
 DTEND:20260108T131500
 SUMMARY:BD (L)
 LOCATION:227 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T133000
 DTEND:20260108T150500
 SUMMARY:BD (L)
 LOCATION:227 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T160000
 DTEND:20260108T173500
 SUMMARY:Swb (L)
 LOCATION:120 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/11\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/11\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108T175000
 DTEND:20260108T192500
 SUMMARY:Swb (L)
 LOCATION:120 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/11\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/11\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260109T114000
 DTEND:20260109T131500
 SUMMARY:Sm (L)
 LOCATION:078 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący:  Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T160000
@@ -3431,49 +3431,49 @@ DTSTART:20260114T114000
 DTEND:20260114T131500
 SUMMARY:Sm (L)
 LOCATION:085 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący:  Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T133000
 DTEND:20260114T150500
 SUMMARY:SO (L)
 LOCATION:121 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/13\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T114000
 DTEND:20260115T131500
 SUMMARY:Als (L)
 LOCATION:227 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/11\nProwadzący: mgr inż. Arkadiusz Kowalski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/11\nProwadzący:  Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T133000
 DTEND:20260115T150500
 SUMMARY:Als (L)
 LOCATION:227 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/11\nProwadzący: mgr inż. Arkadiusz Kowalski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/11\nProwadzący:  Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T160000
 DTEND:20260115T173500
 SUMMARY:Po (L)
 LOCATION:227 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/16\nProwadzący: mgr inż. Radosław Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/16\nProwadzący:  Radosław Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T175000
 DTEND:20260115T192500
 SUMMARY:Po (L)
 LOCATION:227 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/16\nProwadzący: mgr inż. Radosław Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/16\nProwadzący:  Radosław Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T080000
 DTEND:20260119T093500
 SUMMARY:SO (L)
 LOCATION:121 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/13\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T080000
@@ -3501,28 +3501,28 @@ DTSTART:20260121T114000
 DTEND:20260121T131500
 SUMMARY:Aok (L)
 LOCATION:121 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/16\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/16\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T133000
 DTEND:20260121T150500
 SUMMARY:Aok (L)
 LOCATION:121 65
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/16\nProwadzący: mgr inż. Artur Miktus
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/16\nProwadzący:  Artur Miktus
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T080000
 DTEND:20260122T093500
 SUMMARY:Swb (L)
 LOCATION:121 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/11\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/11\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T095000
 DTEND:20260122T112500
 SUMMARY:Swb (L)
 LOCATION:121 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/11\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/11\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T133000
@@ -3543,14 +3543,14 @@ DTSTART:20260123T114000
 DTEND:20260123T131500
 SUMMARY:BD (L)
 LOCATION:223 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/13\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/13\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T080000
 DTEND:20260126T093500
 SUMMARY:SO (L)
 LOCATION:121 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/13\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/13\nProwadzący:  Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T080000
@@ -3578,56 +3578,56 @@ DTSTART:20260128T175000
 DTEND:20260128T192500
 SUMMARY:Sm (L)
 LOCATION:078 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący:  Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T080000
 DTEND:20260129T093500
 SUMMARY:BD (L)
 LOCATION:227 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/13\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/13\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T095000
 DTEND:20260129T112500
 SUMMARY:BD (L)
 LOCATION:227 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/13\nProwadzący: dr inż. Jarosław Koszela
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/13\nProwadzący:  Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T160000
 DTEND:20260129T173500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/16\nProwadzący: mgr inż. Radosław Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/16\nProwadzący:  Radosław Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T175000
 DTEND:20260129T192500
 SUMMARY:Po (L)
 LOCATION:223 S
-DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/16\nProwadzący: mgr inż. Radosław Woźniak
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/16\nProwadzący:  Radosław Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T080000
 DTEND:20260130T093500
 SUMMARY:Als (L)
 LOCATION:226 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/11\nProwadzący: mgr inż. Arkadiusz Kowalski
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/11\nProwadzący:  Arkadiusz Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T114000
 DTEND:20260130T131500
 SUMMARY:Swb (L)
 LOCATION:120 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/11\nProwadzący: mgr inż. Marcin Goluch
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/11\nProwadzący:  Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T114000
 DTEND:20260203T131500
 SUMMARY:Als (E)
 LOCATION:313 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260204T095000
@@ -3641,21 +3641,21 @@ DTSTART:20260205T114000
 DTEND:20260205T131500
 SUMMARY:Aok (E)
 LOCATION:313 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260209T114000
 DTEND:20260209T131500
 SUMMARY:BD (E)
 LOCATION:316 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260210T114000
 DTEND:20260210T131500
 SUMMARY:Swb (E)
 LOCATION:317 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260211T095000
@@ -3683,7 +3683,7 @@ DTSTART:20260217T114000
 DTEND:20260217T131500
 SUMMARY:Als (Inne)
 LOCATION:316 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Kazimierz Worwa
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260218T095000
@@ -3697,21 +3697,21 @@ DTSTART:20260218T114000
 DTEND:20260218T131500
 SUMMARY:Swb (Inne)
 LOCATION:317 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T095000
 DTEND:20260219T112500
 SUMMARY:BD (Inne)
 LOCATION:316 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T114000
 DTEND:20260219T131500
 SUMMARY:Aok (Inne)
 LOCATION:313 S
-DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Artur Arciuch
+DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T095000
