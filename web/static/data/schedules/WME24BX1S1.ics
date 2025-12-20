@@ -190,7 +190,7 @@ DTSTART:20251006T080000
 DTEND:20251006T093500
 SUMMARY:Sck (w)
 LOCATION:52/ 62
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T095000
@@ -281,7 +281,7 @@ DTSTART:20251009T114000
 DTEND:20251009T131500
 SUMMARY:Als (w)
 LOCATION:301/ S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T080000
@@ -337,7 +337,7 @@ DTSTART:20251013T080000
 DTEND:20251013T093500
 SUMMARY:Sck (w)
 LOCATION:52/ 62
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T095000
@@ -428,7 +428,7 @@ DTSTART:20251016T114000
 DTEND:20251016T131500
 SUMMARY:Als (w)
 LOCATION:301/ S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T080000
@@ -484,7 +484,7 @@ DTSTART:20251020T080000
 DTEND:20251020T093500
 SUMMARY:Sck (w)
 LOCATION:52/ 62
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251020T133000
@@ -638,7 +638,7 @@ DTSTART:20251027T080000
 DTEND:20251027T093500
 SUMMARY:Sck (w)
 LOCATION:52/ 62
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251027T095000
@@ -708,7 +708,7 @@ DTSTART:20251028T133000
 DTEND:20251028T150500
 SUMMARY:Als (w)
 LOCATION:301/ S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T114000
@@ -855,7 +855,7 @@ DTSTART:20251103T080000
 DTEND:20251103T093500
 SUMMARY:Sck (w)
 LOCATION:52/ 62
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T095000
@@ -904,7 +904,7 @@ DTSTART:20251104T133000
 DTEND:20251104T150500
 SUMMARY:Als (w)
 LOCATION:301/ S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251105T080000
@@ -1240,21 +1240,21 @@ DTSTART:20251117T080000
 DTEND:20251117T093500
 SUMMARY:Sck (w)
 LOCATION:52/ 62
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T095000
 DTEND:20251117T112500
 SUMMARY:Sck (L)
 LOCATION:237 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T114000
 DTEND:20251117T131500
 SUMMARY:Sck (L)
 LOCATION:237 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251117T133000
@@ -1415,7 +1415,7 @@ DTSTART:20251124T080000
 DTEND:20251124T093500
 SUMMARY:Sck (w)
 LOCATION:52/ 62
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T095000
@@ -1471,14 +1471,14 @@ DTSTART:20251125T133000
 DTEND:20251125T150500
 SUMMARY:Als (L)
 LOCATION:224 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący:  Grzegorz Kiryk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251125T160000
 DTEND:20251125T173500
 SUMMARY:Als (L)
 LOCATION:224 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący:  Grzegorz Kiryk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251126T080000
@@ -1660,14 +1660,14 @@ DTSTART:20251202T133000
 DTEND:20251202T150500
 SUMMARY:Als (L)
 LOCATION:223 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący:  Grzegorz Kiryk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251202T160000
 DTEND:20251202T173500
 SUMMARY:Als (L)
 LOCATION:223 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący:  Grzegorz Kiryk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251203T080000
@@ -1737,7 +1737,7 @@ DTSTART:20251204T160000
 DTEND:20251204T173500
 SUMMARY:Als (w)
 LOCATION:301/ S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T080000
@@ -1842,14 +1842,14 @@ DTSTART:20251209T133000
 DTEND:20251209T150500
 SUMMARY:Als (L)
 LOCATION:223 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący:  Grzegorz Kiryk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T160000
 DTEND:20251209T173500
 SUMMARY:Als (L)
 LOCATION:223 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący:  Grzegorz Kiryk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T080000
@@ -2024,14 +2024,14 @@ DTSTART:20251216T133000
 DTEND:20251216T150500
 SUMMARY:Als (L)
 LOCATION:223 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Grzegorz Kiryk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251216T160000
 DTEND:20251216T173500
 SUMMARY:Als (L)
 LOCATION:223 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący:  Grzegorz Kiryk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T080000
@@ -3039,14 +3039,14 @@ DTSTART:20260112T080000
 DTEND:20260112T093500
 SUMMARY:Sck (L)
 LOCATION:237 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T095000
 DTEND:20260112T112500
 SUMMARY:Sck (L)
 LOCATION:237 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T114000
@@ -3095,7 +3095,7 @@ DTSTART:20260113T133000
 DTEND:20260113T150500
 SUMMARY:Als (L)
 LOCATION:223 S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Grzegorz Kiryk
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: mgr inż. Grzegorz Kiryk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T160000
@@ -3228,14 +3228,14 @@ DTSTART:20260119T080000
 DTEND:20260119T093500
 SUMMARY:Sck (L)
 LOCATION:237 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T095000
 DTEND:20260119T112500
 SUMMARY:Sck (L)
 LOCATION:237 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T114000
@@ -3410,14 +3410,14 @@ DTSTART:20260126T080000
 DTEND:20260126T093500
 SUMMARY:Sck (L)
 LOCATION:237 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T095000
 DTEND:20260126T112500
 SUMMARY:Sck (L)
 LOCATION:237 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T114000
@@ -3480,7 +3480,7 @@ DTSTART:20260129T080000
 DTEND:20260129T093500
 SUMMARY:Als (w)
 LOCATION:301/ S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T095000
@@ -3571,7 +3571,7 @@ DTSTART:20260202T114000
 DTEND:20260202T131500
 SUMMARY:Sck (Inne)
 LOCATION:237 S
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260202T133000
@@ -3690,7 +3690,7 @@ DTSTART:20260209T095000
 DTEND:20260209T112500
 SUMMARY:Sck (Inne)
 LOCATION:52/ 62
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący:  Sławomir Machowski
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260210T114000
@@ -3788,7 +3788,7 @@ DTSTART:20260218T114000
 DTEND:20260218T131500
 SUMMARY:Als (Inne)
 LOCATION:301/ S
-DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Dariusz Pierzchała
+DESCRIPTION:Algorytmy i struktury danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T114000
