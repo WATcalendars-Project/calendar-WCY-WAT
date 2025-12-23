@@ -2797,6 +2797,13 @@ LOCATION:aula/ 135
 DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 1/11\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260304T133000
+DTEND:20260304T150500
+SUMMARY:PEM (w)
+LOCATION:313 S
+DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260305T095000
 DTEND:20260305T112500
 SUMMARY:Mat3 (w)
@@ -2872,6 +2879,13 @@ DTEND:20260309T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/29\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260310T133000
+DTEND:20260310T150500
+SUMMARY:PEM (w)
+LOCATION:313 S
+DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T080000
@@ -2972,6 +2986,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/29\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260317T133000
+DTEND:20260317T150500
+SUMMARY:PEM (w)
+LOCATION:301/ S
+DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260318T080000
 DTEND:20260318T093500
 SUMMARY:F1 (w)
@@ -3070,6 +3091,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/29\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260324T133000
+DTEND:20260324T150500
+SUMMARY:PEM (w)
+LOCATION:301/ S
+DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260325T080000
 DTEND:20260325T093500
 SUMMARY:F1 (w)
@@ -3159,6 +3187,13 @@ DTEND:20260330T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/29\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260331T133000
+DTEND:20260331T150500
+SUMMARY:PEM (w)
+LOCATION:313 S
+DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T080000
@@ -3756,6 +3791,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 24/29\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260512T133000
+DTEND:20260512T150500
+SUMMARY:PEM (w)
+LOCATION:103 K
+DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260513T080000
 DTEND:20260513T093500
 SUMMARY:F1 (w)
@@ -3847,6 +3889,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/29\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260519T133000
+DTEND:20260519T150500
+SUMMARY:PEM (w)
+LOCATION:103 K
+DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260520T080000
 DTEND:20260520T093500
 SUMMARY:F1 (w)
@@ -3936,6 +3985,13 @@ DTEND:20260525T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 26/29\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T133000
+DTEND:20260526T150500
+SUMMARY:PEM (w)
+LOCATION:103 K
+DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T080000

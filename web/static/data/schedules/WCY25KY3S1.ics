@@ -1677,6 +1677,13 @@ LOCATION:aF S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260304T133000
+DTEND:20260304T150500
+SUMMARY:PEM (w)
+LOCATION:313 S
+DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260304T175000
 DTEND:20260304T192500
 SUMMARY:Ja (ć)
@@ -1698,6 +1705,13 @@ LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260310T133000
+DTEND:20260310T150500
+SUMMARY:PEM (w)
+LOCATION:313 S
+DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260311T114000
 DTEND:20260311T131500
 SUMMARY:F1 (w)
@@ -1717,6 +1731,13 @@ DTEND:20260312T173500
 SUMMARY:JoM (ć)
 LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260317T133000
+DTEND:20260317T150500
+SUMMARY:PEM (w)
+LOCATION:301/ S
+DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T114000
@@ -1754,6 +1775,13 @@ LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260324T133000
+DTEND:20260324T150500
+SUMMARY:PEM (w)
+LOCATION:301/ S
+DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260325T175000
 DTEND:20260325T192500
 SUMMARY:Ja (ć)
@@ -1780,6 +1808,13 @@ DTEND:20260326T173500
 SUMMARY:JoM (ć)
 LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260331T133000
+DTEND:20260331T150500
+SUMMARY:PEM (w)
+LOCATION:313 S
+DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T175000
@@ -1957,6 +1992,13 @@ LOCATION:aF S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 12/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260512T133000
+DTEND:20260512T150500
+SUMMARY:PEM (w)
+LOCATION:103 K
+DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260513T175000
 DTEND:20260513T192500
 SUMMARY:Ja (ć)
@@ -1992,6 +2034,13 @@ LOCATION:aF S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 14/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260519T133000
+DTEND:20260519T150500
+SUMMARY:PEM (w)
+LOCATION:103 K
+DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260520T175000
 DTEND:20260520T192500
 SUMMARY:Ja (ć)
@@ -2025,6 +2074,13 @@ DTEND:20260526T131500
 SUMMARY:F1 (w)
 LOCATION:aF S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 16/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T133000
+DTEND:20260526T150500
+SUMMARY:PEM (w)
+LOCATION:103 K
+DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T175000

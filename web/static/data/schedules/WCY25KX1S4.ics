@@ -81,8 +81,8 @@ LOCATION:316 S
 DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260317T080000
-DTEND:20260317T093500
+DTSTART:20260317T114000
+DTEND:20260317T131500
 SUMMARY:Ps (w)
 LOCATION:316 S
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr Lucjan Kowalski
@@ -193,18 +193,18 @@ LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260428T080000
-DTEND:20260428T093500
-SUMMARY:Ps (w)
-LOCATION:316 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr Lucjan Kowalski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260430T095000
 DTEND:20260430T112500
 SUMMARY:Ja (ć)
 LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T080000
+DTEND:20260505T093500
+SUMMARY:Ps (w)
+LOCATION:316 S
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr Lucjan Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T095000
