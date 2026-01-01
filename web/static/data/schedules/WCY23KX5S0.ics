@@ -8,7 +8,7 @@ DTSTART:20250303T080000
 DTEND:20250303T093500
 SUMMARY:Bpe (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250303T095000
@@ -141,7 +141,7 @@ DTSTART:20250310T160000
 DTEND:20250310T173500
 SUMMARY:Bpe (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250311T114000
@@ -358,7 +358,7 @@ DTSTART:20250325T133000
 DTEND:20250325T150500
 SUMMARY:Bpe (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250326T080000
@@ -498,7 +498,7 @@ DTSTART:20250401T133000
 DTEND:20250401T150500
 SUMMARY:Bpe (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T080000
@@ -680,7 +680,7 @@ DTSTART:20250408T133000
 DTEND:20250408T150500
 SUMMARY:Bpe (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250408T160000
@@ -2024,7 +2024,7 @@ DTSTART:20250618T175000
 DTEND:20250618T192500
 SUMMARY:Bpe (w)
 LOCATION:314 S
-DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: mgr inż. Leszek Kalman
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250623T080000
@@ -2675,14 +2675,14 @@ DTSTART:20251029T160000
 DTEND:20251029T173500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T175000
 DTEND:20251029T192500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251030T080000
@@ -3466,14 +3466,14 @@ DTSTART:20251204T160000
 DTEND:20251204T173500
 SUMMARY:IK (L)
 LOCATION:011 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251204T175000
 DTEND:20251204T192500
 SUMMARY:IK (L)
 LOCATION:011 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T080000
@@ -3529,14 +3529,14 @@ DTSTART:20251208T160000
 DTEND:20251208T173500
 SUMMARY:IK (L)
 LOCATION:011 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T175000
 DTEND:20251208T192500
 SUMMARY:IK (L)
 LOCATION:011 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251209T080000
@@ -3795,14 +3795,14 @@ DTSTART:20260107T160000
 DTEND:20260107T173500
 SUMMARY:IK (L)
 LOCATION:120 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T175000
 DTEND:20260107T192500
 SUMMARY:IK (L)
 LOCATION:120 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T194000
@@ -4166,14 +4166,14 @@ DTSTART:20260129T160000
 DTEND:20260129T173500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T175000
 DTEND:20260129T192500
 SUMMARY:IK (L)
 LOCATION:09 65
-DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Krzysztof Szajewski
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Krzysztof Szajewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T080000
