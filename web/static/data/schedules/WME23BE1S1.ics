@@ -911,28 +911,28 @@ DTSTART:20250406T080000
 DTEND:20250406T093500
 SUMMARY:XFiz1 (L)
 LOCATION:141 S 139 S
-DESCRIPTION:XFizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący: -
+DESCRIPTION:XFizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250406T095000
 DTEND:20250406T112500
 SUMMARY:XFiz1 (L)
 LOCATION:141 S 139 S
-DESCRIPTION:XFizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący: -
+DESCRIPTION:XFizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250406T114000
 DTEND:20250406T131500
 SUMMARY:XFiz1 (ć)
 LOCATION:301/ S
-DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/21\nProwadzący: -
+DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250406T133000
 DTEND:20250406T150500
 SUMMARY:XFiz1 (ć)
 LOCATION:301/ S
-DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/21\nProwadzący: -
+DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250407T080000
@@ -1100,28 +1100,28 @@ DTSTART:20250413T080000
 DTEND:20250413T093500
 SUMMARY:XFiz1 (L)
 LOCATION:141 S 139 S
-DESCRIPTION:XFizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: -
+DESCRIPTION:XFizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250413T095000
 DTEND:20250413T112500
 SUMMARY:XFiz1 (L)
 LOCATION:141 S 139 S
-DESCRIPTION:XFizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący: -
+DESCRIPTION:XFizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250413T114000
 DTEND:20250413T131500
 SUMMARY:XFiz1 (ć)
 LOCATION:301/ S
-DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/21\nProwadzący: -
+DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250413T133000
 DTEND:20250413T150500
 SUMMARY:XFiz1 (ć)
 LOCATION:301/ S
-DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/21\nProwadzący: -
+DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250414T080000
@@ -2136,7 +2136,7 @@ DTSTART:20250515T175000
 DTEND:20250515T192500
 SUMMARY:XFiz1 (ć)
 LOCATION:301/ S
-DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/21\nProwadzący: -
+DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250516T080000
@@ -2206,14 +2206,14 @@ DTSTART:20250518T114000
 DTEND:20250518T131500
 SUMMARY:XFiz1 (ć)
 LOCATION:301/ S
-DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/21\nProwadzący: -
+DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250518T133000
 DTEND:20250518T150500
 SUMMARY:XFiz1 (ć)
 LOCATION:301/ S
-DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/21\nProwadzący: -
+DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250519T133000
@@ -2367,7 +2367,7 @@ DTSTART:20250524T080000
 DTEND:20250524T093500
 SUMMARY:XFiz1 (ć)
 LOCATION:301/ S
-DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/21\nProwadzący: -
+DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250524T114000
@@ -2388,14 +2388,14 @@ DTSTART:20250525T095000
 DTEND:20250525T112500
 SUMMARY:XFiz1 (ć)
 LOCATION:301/ S
-DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/21\nProwadzący: -
+DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250525T114000
 DTEND:20250525T131500
 SUMMARY:XFiz1 (ć)
 LOCATION:301/ S
-DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/21\nProwadzący: -
+DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250525T133000
@@ -3186,7 +3186,7 @@ DTSTART:20250624T080000
 DTEND:20250624T093500
 SUMMARY:XFiz1 (ć)
 LOCATION:301/ S
-DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/21\nProwadzący: -
+DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/11\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250624T095000
@@ -7130,48 +7130,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 483/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260411T114000
-DTEND:20260411T131500
-SUMMARY:XFiz1 (w)
-LOCATION:19 36
-DESCRIPTION:XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260411T133000
-DTEND:20260411T150500
-SUMMARY:XFiz1 (w)
-LOCATION:19 36
-DESCRIPTION:XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260412T080000
-DTEND:20260412T093500
-SUMMARY:XFiz1 (ć)
-LOCATION:19 36 aF S
-DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/21\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260412T095000
-DTEND:20260412T112500
-SUMMARY:XFiz1 (ć)
-LOCATION:19 36 aF S
-DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/21\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260412T114000
-DTEND:20260412T131500
-SUMMARY:F2 (L)
-LOCATION:139 S 141 S
-DESCRIPTION:Fizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260412T133000
-DTEND:20260412T150500
-SUMMARY:F2 (L)
-LOCATION:139 S 141 S
-DESCRIPTION:Fizyka 2 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260417T080000
 DTEND:20260417T093500
 SUMMARY:- (Inne)
@@ -7221,20 +7179,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 490/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260418T114000
-DTEND:20260418T131500
-SUMMARY:XFiz1 (w)
-LOCATION:19 36
-DESCRIPTION:XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260418T133000
-DTEND:20260418T150500
-SUMMARY:XFiz1 (w)
-LOCATION:19 36
-DESCRIPTION:XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260424T080000
 DTEND:20260424T093500
 SUMMARY:- (Inne)
@@ -7282,48 +7226,6 @@ DTEND:20260424T211500
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 497/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260425T114000
-DTEND:20260425T131500
-SUMMARY:XFiz1 (w)
-LOCATION:19 36
-DESCRIPTION:XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260425T133000
-DTEND:20260425T150500
-SUMMARY:XFiz1 (w)
-LOCATION:19 36
-DESCRIPTION:XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260426T080000
-DTEND:20260426T093500
-SUMMARY:XFiz1 (ć)
-LOCATION:19 36 aF S
-DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/21\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260426T095000
-DTEND:20260426T112500
-SUMMARY:XFiz1 (ć)
-LOCATION:19 36 aF S
-DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/21\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260426T114000
-DTEND:20260426T131500
-SUMMARY:XFiz1 (L)
-LOCATION:139 S 141 S
-DESCRIPTION:XFizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260426T133000
-DTEND:20260426T150500
-SUMMARY:XFiz1 (L)
-LOCATION:139 S 141 S
-DESCRIPTION:XFizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260501T080000
@@ -7424,41 +7326,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 511/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260509T114000
-DTEND:20260509T131500
-SUMMARY:XFiz1 (w)
-LOCATION:19 36
-DESCRIPTION:XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260509T133000
-DTEND:20260509T150500
-SUMMARY:XFiz1 (w)
-LOCATION:19 36
-DESCRIPTION:XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260510T080000
-DTEND:20260510T093500
-SUMMARY:XFiz1 (ć)
-LOCATION:19 36 aF S
-DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/21\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260510T095000
-DTEND:20260510T112500
-SUMMARY:XFiz1 (ć)
-LOCATION:19 36 aF S
-DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/21\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260510T114000
-DTEND:20260510T131500
-SUMMARY:XFiz1 (L)
-LOCATION:139 S 141 S
-DESCRIPTION:XFizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260515T080000
 DTEND:20260515T093500
 SUMMARY:- (Inne)
@@ -7506,20 +7373,6 @@ DTEND:20260515T211500
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 518/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260516T114000
-DTEND:20260516T131500
-SUMMARY:XFiz1 (w)
-LOCATION:19 36
-DESCRIPTION:XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260516T133000
-DTEND:20260516T150500
-SUMMARY:XFiz1 (w)
-LOCATION:19 36
-DESCRIPTION:XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T080000
@@ -7571,20 +7424,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 525/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260523T114000
-DTEND:20260523T131500
-SUMMARY:XFiz1 (w)
-LOCATION:19 36
-DESCRIPTION:XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 11/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260523T133000
-DTEND:20260523T150500
-SUMMARY:XFiz1 (w)
-LOCATION:19 36
-DESCRIPTION:XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 12/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260529T080000
 DTEND:20260529T093500
 SUMMARY:- (Inne)
@@ -7632,34 +7471,6 @@ DTEND:20260529T211500
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 532/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260530T114000
-DTEND:20260530T131500
-SUMMARY:XFiz1 (w)
-LOCATION:19 36
-DESCRIPTION:XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 13/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260530T133000
-DTEND:20260530T150500
-SUMMARY:XFiz1 (ć)
-LOCATION:19 36 aF S
-DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/21\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260531T080000
-DTEND:20260531T093500
-SUMMARY:XFiz1 (ć)
-LOCATION:19 36 aF S
-DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/21\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260531T095000
-DTEND:20260531T112500
-SUMMARY:XFiz1 (ć)
-LOCATION:19 36 aF S
-DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20/21\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260605T080000
@@ -7758,13 +7569,6 @@ DTEND:20260612T211500
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 546/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260614T080000
-DTEND:20260614T093500
-SUMMARY:XFiz1 (ć)
-LOCATION:19 36 aF S
-DESCRIPTION:XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/21\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T080000
