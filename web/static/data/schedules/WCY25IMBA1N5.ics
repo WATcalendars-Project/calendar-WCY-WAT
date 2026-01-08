@@ -452,6 +452,20 @@ LOCATION:316 S
 DESCRIPTION:Zarządzanie ryzykiem w cyberbezpieczeństwie\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Jerzy Stanik
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260111T114000
+DTEND:20260111T131500
+SUMMARY:COD (Inne)
+LOCATION:239 S
+DESCRIPTION:Cyberodporność\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Robert Kośla
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260111T133000
+DTEND:20260111T150500
+SUMMARY:COD (Inne)
+LOCATION:239 S
+DESCRIPTION:Cyberodporność\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Robert Kośla
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260111T160000
 DTEND:20260111T173500
 SUMMARY:CP (ć)
@@ -464,20 +478,6 @@ DTEND:20260111T192500
 SUMMARY:CP (ć)
 LOCATION:237 S
 DESCRIPTION:Cyberprzestępczość\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący:  Agnieszka Gryszczyńska
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260117T114000
-DTEND:20260117T131500
-SUMMARY:COD (Inne)
-LOCATION:239 S
-DESCRIPTION:Cyberodporność\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Robert Kośla
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260117T133000
-DTEND:20260117T150500
-SUMMARY:COD (Inne)
-LOCATION:239 S
-DESCRIPTION:Cyberodporność\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Robert Kośla
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T160000

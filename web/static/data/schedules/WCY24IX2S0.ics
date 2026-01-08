@@ -582,7 +582,7 @@ DTSTART:20250331T080000
 DTEND:20250331T093500
 SUMMARY:DWiPD (w)
 LOCATION:313 S
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: -
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250331T095000
@@ -1226,7 +1226,7 @@ DTSTART:20250505T080000
 DTEND:20250505T093500
 SUMMARY:DWiPD (w)
 LOCATION:313 S
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250505T095000
@@ -1373,7 +1373,7 @@ DTSTART:20250512T080000
 DTEND:20250512T093500
 SUMMARY:DWiPD (w)
 LOCATION:313 S
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250512T095000
@@ -1541,7 +1541,7 @@ DTSTART:20250520T095000
 DTEND:20250520T112500
 SUMMARY:DWiPD (w)
 LOCATION:313 S
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250520T114000
@@ -4916,6 +4916,13 @@ DTEND:20260324T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 61/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T114000
+DTEND:20260325T131500
+SUMMARY:DWiPD (w)
+LOCATION:aula/ 135
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T133000

@@ -454,16 +454,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260111T080000
 DTEND:20260111T093500
-SUMMARY:SIZB (L)
+SUMMARY:COD (Inne)
 LOCATION:239 S
-DESCRIPTION:Sztuczna inteligencja w zastosowaniach bezpieczeństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/3\nProwadzący: dr inż. Mariusz Chmielewski
+DESCRIPTION:Cyberodporność\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Robert Kośla
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260111T095000
 DTEND:20260111T112500
-SUMMARY:SIZB (L)
+SUMMARY:COD (Inne)
 LOCATION:239 S
-DESCRIPTION:Sztuczna inteligencja w zastosowaniach bezpieczeństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/3\nProwadzący: dr inż. Mariusz Chmielewski
+DESCRIPTION:Cyberodporność\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Robert Kośla
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260111T114000
@@ -480,18 +480,18 @@ LOCATION:237 S
 DESCRIPTION:Cyberprzestępczość\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący:  Agnieszka Gryszczyńska
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260117T160000
-DTEND:20260117T173500
-SUMMARY:COD (Inne)
+DTSTART:20260117T080000
+DTEND:20260117T093500
+SUMMARY:SIZB (L)
 LOCATION:239 S
-DESCRIPTION:Cyberodporność\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Robert Kośla
+DESCRIPTION:Sztuczna inteligencja w zastosowaniach bezpieczeństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/3\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260117T175000
-DTEND:20260117T192500
-SUMMARY:COD (Inne)
+DTSTART:20260117T095000
+DTEND:20260117T112500
+SUMMARY:SIZB (L)
 LOCATION:239 S
-DESCRIPTION:Cyberodporność\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Robert Kośla
+DESCRIPTION:Sztuczna inteligencja w zastosowaniach bezpieczeństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/3\nProwadzący: dr inż. Mariusz Chmielewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T080000

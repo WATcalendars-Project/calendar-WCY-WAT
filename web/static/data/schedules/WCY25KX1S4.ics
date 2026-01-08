@@ -137,13 +137,6 @@ LOCATION:316 S
 DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260316T114000
-DTEND:20260316T131500
-SUMMARY:Stg (w)
-LOCATION:203 65
-DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr inż. Kamil Kaczyński
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260317T114000
 DTEND:20260317T131500
 SUMMARY:Ps (w)
@@ -156,6 +149,13 @@ DTEND:20260317T150500
 SUMMARY:Nmtz (w)
 LOCATION:316 S
 DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T080000
+DTEND:20260319T093500
+SUMMARY:Soc (w)
+LOCATION:316 S
+DESCRIPTION:Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T095000
@@ -197,7 +197,7 @@ DTSTART:20260323T114000
 DTEND:20260323T131500
 SUMMARY:Stg (w)
 LOCATION:203 65
-DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr inż. Kamil Kaczyński
+DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T080000
@@ -219,6 +219,13 @@ DTEND:20260324T131500
 SUMMARY:Nmtz (w)
 LOCATION:316 S
 DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T080000
+DTEND:20260326T093500
+SUMMARY:Soc (w)
+LOCATION:316 S
+DESCRIPTION:Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T095000
@@ -263,6 +270,13 @@ LOCATION:308 S
 DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260330T133000
+DTEND:20260330T150500
+SUMMARY:Stg (w)
+LOCATION:203 65
+DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr inż. Kamil Kaczyński
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260331T080000
 DTEND:20260331T093500
 SUMMARY:Ps (w)
@@ -282,6 +296,13 @@ DTEND:20260331T131500
 SUMMARY:Nmtz (w)
 LOCATION:316 S
 DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T080000
+DTEND:20260402T093500
+SUMMARY:Soc (w)
+LOCATION:316 S
+DESCRIPTION:Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T095000
@@ -410,6 +431,13 @@ LOCATION:316 S
 DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260423T080000
+DTEND:20260423T093500
+SUMMARY:Soc (w)
+LOCATION:316 S
+DESCRIPTION:Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260423T095000
 DTEND:20260423T112500
 SUMMARY:Ja (ć)
@@ -443,6 +471,13 @@ DTEND:20260427T112500
 SUMMARY:Stg (w)
 LOCATION:203 65
 DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr inż. Kamil Kaczyński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T080000
+DTEND:20260430T093500
+SUMMARY:Soc (w)
+LOCATION:316 S
+DESCRIPTION:Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T095000
@@ -487,11 +522,11 @@ LOCATION:203 65
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260511T095000
-DTEND:20260511T112500
-SUMMARY:Stg (w)
-LOCATION:203 65
-DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr inż. Kamil Kaczyński
+DTSTART:20260514T080000
+DTEND:20260514T093500
+SUMMARY:Soc (w)
+LOCATION:316 S
+DESCRIPTION:Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T095000
@@ -501,11 +536,25 @@ LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260518T095000
+DTEND:20260518T112500
+SUMMARY:Stg (w)
+LOCATION:203 65
+DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr inż. Kamil Kaczyński
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260521T095000
 DTEND:20260521T112500
 SUMMARY:Ja (ć)
 LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T080000
+DTEND:20260528T093500
+SUMMARY:Soc (w)
+LOCATION:316 S
+DESCRIPTION:Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T095000

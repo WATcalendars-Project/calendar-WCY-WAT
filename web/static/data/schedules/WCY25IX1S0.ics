@@ -1978,13 +1978,6 @@ LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/58\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260113T114000
-DTEND:20260113T131500
-SUMMARY:HP (ć)
-LOCATION:204 65
-DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260114T095000
 DTEND:20260114T112500
 SUMMARY:M II (w)
@@ -2010,7 +2003,7 @@ DTSTART:20260114T160000
 DTEND:20260114T173500
 SUMMARY:HP (ć)
 LOCATION:120/ 54
-DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: -
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260115T080000
@@ -2122,7 +2115,7 @@ DTSTART:20260120T114000
 DTEND:20260120T131500
 SUMMARY:HP (ć)
 LOCATION:204 65
-DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: -
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T095000
@@ -2144,6 +2137,13 @@ DTEND:20260121T150500
 SUMMARY:PGI (ć)
 LOCATION:29/ 54
 DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/12\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260121T160000
+DTEND:20260121T173500
+SUMMARY:HP (ć)
+LOCATION:8/ 62
+DESCRIPTION:Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T080000
@@ -2223,6 +2223,13 @@ LOCATION:201 65
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/19\nProwadzący: dr Jan Nawrocki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260126T175000
+DTEND:20260126T192500
+SUMMARY:MD1 (Inne)
+LOCATION:201 65
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Anna Cichocka
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260127T080000
 DTEND:20260127T093500
 SUMMARY:WF (ć)
@@ -2262,7 +2269,7 @@ DTSTART:20260128T114000
 DTEND:20260128T131500
 SUMMARY:MD1 (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T160000
