@@ -277,6 +277,13 @@ LOCATION:317 S
 DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Jarosław Koszela
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260122T114000
+DTEND:20260122T131500
+SUMMARY:DWiPD (ć)
+LOCATION:BIBL /22
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260122T133000
 DTEND:20260122T150500
 SUMMARY:WF (ć)
@@ -296,13 +303,6 @@ DTEND:20260123T112500
 SUMMARY:PESW (w)
 LOCATION:46 63
 DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260123T114000
-DTEND:20260123T131500
-SUMMARY:DWiPD (ć)
-LOCATION:1.9/ 16
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T133000
@@ -347,6 +347,13 @@ LOCATION:307 S
 DESCRIPTION:Bezpieczeństwo w cyberprzestrzeni (BwCP)\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: dr hab. inż. Maciej Marczyk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260127T114000
+DTEND:20260127T131500
+SUMMARY:PD (w)
+LOCATION:AW 7
+DESCRIPTION:Podstawy dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260127T133000
 DTEND:20260127T150500
 SUMMARY:WF (ć)
@@ -358,7 +365,7 @@ DTSTART:20260128T080000
 DTEND:20260128T093500
 SUMMARY:PD (w)
 LOCATION:AW 1
-DESCRIPTION:Podstawy dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: -
+DESCRIPTION:Podstawy dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T095000
@@ -462,7 +469,7 @@ BEGIN:VEVENT
 DTSTART:20260202T095000
 DTEND:20260202T112500
 SUMMARY:DSiSM (ć)
-LOCATION:PĆT2
+LOCATION:AW 1
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
@@ -739,13 +746,6 @@ LOCATION:114 57
 DESCRIPTION:Topografia wojskowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260212T080000
-DTEND:20260212T093500
-SUMMARY:PD (w)
-LOCATION:AW 1
-DESCRIPTION:Podstawy dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260212T095000
 DTEND:20260212T112500
 SUMMARY:PKSt (ć)
@@ -800,6 +800,20 @@ DTEND:20260213T150500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 14/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260213T160000
+DTEND:20260213T173500
+SUMMARY:TW (ć)
+LOCATION:114 57
+DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260213T175000
+DTEND:20260213T192500
+SUMMARY:TW (ć)
+LOCATION:114 57
+DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T080000
@@ -891,20 +905,6 @@ DTEND:20260218T131500
 SUMMARY:RiAIP (w)
 LOCATION:AW 3/038
 DESCRIPTION:Rozpoznanie i Armie Innych Państw - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260218T133000
-DTEND:20260218T150500
-SUMMARY:TW (ć)
-LOCATION:114 57
-DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260218T160000
-DTEND:20260218T173500
-SUMMARY:TW (ć)
-LOCATION:114 57
-DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T080000
@@ -1505,7 +1505,7 @@ BEGIN:VEVENT
 DTSTART:20260313T114000
 DTEND:20260313T131500
 SUMMARY:.BHP. (w)
-LOCATION:0.19/ 135
+LOCATION:3.16/ 135
 DESCRIPTION:.Bezpieczeństwo i higiena pracy. - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT

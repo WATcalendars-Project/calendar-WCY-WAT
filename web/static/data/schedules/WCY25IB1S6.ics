@@ -2804,13 +2804,6 @@ LOCATION:103 K
 DESCRIPTION:Ochrona informacji niejawnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260114T095000
-DTEND:20260114T112500
-SUMMARY:ZINŻ (w)
-LOCATION:103 K
-DESCRIPTION:Zabezpieczenie inżynieryjne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260114T114000
 DTEND:20260114T131500
 SUMMARY:DSiSM (ć)
@@ -2991,6 +2984,13 @@ DTEND:20260121T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/17\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260121T160000
+DTEND:20260121T173500
+SUMMARY:ZINŻ (w)
+LOCATION:103 K
+DESCRIPTION:Zabezpieczenie inżynieryjne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T080000

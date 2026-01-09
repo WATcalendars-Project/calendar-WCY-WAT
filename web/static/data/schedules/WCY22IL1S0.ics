@@ -4106,6 +4106,13 @@ LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 61/87\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260302T114000
+DTEND:20260302T131500
+SUMMARY:DWiPD (w)
+LOCATION:19 36
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T080000
 DTEND:20260303T093500
 SUMMARY:- (S.Sz.W.)
@@ -4181,13 +4188,6 @@ DTEND:20260309T093500
 SUMMARY:Ja (ć)
 LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 63/87\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260309T095000
-DTEND:20260309T112500
-SUMMARY:DWiPD (w)
-LOCATION:19 36
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T114000
