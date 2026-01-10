@@ -508,18 +508,11 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/25\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260423T080000
-DTEND:20260423T093500
-SUMMARY:Ja (ć)
-LOCATION:232 K 234 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/30\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260428T080000
 DTEND:20260428T093500
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/30\nProwadzący: -
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T114000
@@ -533,28 +526,28 @@ DTSTART:20260430T080000
 DTEND:20260430T093500
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/30\nProwadzący: -
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T160000
 DTEND:20260430T173500
 SUMMARY:Ja (ć)
 LOCATION:-
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/30\nProwadzący: -
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T175000
 DTEND:20260430T192500
 SUMMARY:Ja (ć)
 LOCATION:-
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/30\nProwadzący: -
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T080000
 DTEND:20260505T093500
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/30\nProwadzący: -
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T114000
@@ -568,21 +561,21 @@ DTSTART:20260507T080000
 DTEND:20260507T093500
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/30\nProwadzący: -
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T160000
 DTEND:20260507T173500
 SUMMARY:Ja (ć)
 LOCATION:-
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/30\nProwadzący: -
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T175000
 DTEND:20260507T192500
 SUMMARY:Ja (ć)
 LOCATION:-
-DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20/30\nProwadzący: -
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T080000
@@ -636,20 +629,27 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T080000
 DTEND:20260512T093500
-SUMMARY:WF (ć)
+SUMMARY:Ja (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/25\nProwadzący: -
+DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T095000
 DTEND:20260512T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/25\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/25\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T114000
 DTEND:20260512T131500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/25\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260512T133000
+DTEND:20260512T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/25\nProwadzący: -

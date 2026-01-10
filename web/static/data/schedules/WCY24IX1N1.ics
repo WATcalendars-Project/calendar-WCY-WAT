@@ -1331,7 +1331,7 @@ DTSTART:20251011T095000
 DTEND:20251011T112500
 SUMMARY:Ja (ć)
 LOCATION:235 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/10\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T114000
@@ -1499,7 +1499,7 @@ DTSTART:20251025T095000
 DTEND:20251025T112500
 SUMMARY:Ja (ć)
 LOCATION:235 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T114000
@@ -1674,7 +1674,7 @@ DTSTART:20251115T095000
 DTEND:20251115T112500
 SUMMARY:Ja (ć)
 LOCATION:235 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T114000
@@ -1765,7 +1765,7 @@ DTSTART:20251122T095000
 DTEND:20251122T112500
 SUMMARY:Ja (ć)
 LOCATION:235 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T114000
@@ -1954,7 +1954,7 @@ DTSTART:20251206T095000
 DTEND:20251206T112500
 SUMMARY:Ja (ć)
 LOCATION:235 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T114000
@@ -2038,7 +2038,7 @@ DTSTART:20251213T095000
 DTEND:20251213T112500
 SUMMARY:Ja (ć)
 LOCATION:235 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T114000
@@ -2136,7 +2136,7 @@ DTSTART:20251220T095000
 DTEND:20251220T112500
 SUMMARY:Ja (ć)
 LOCATION:235 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T114000
@@ -2220,7 +2220,7 @@ DTSTART:20260110T095000
 DTEND:20260110T112500
 SUMMARY:Ja (ć)
 LOCATION:235 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260110T114000
@@ -2311,7 +2311,7 @@ DTSTART:20260117T095000
 DTEND:20260117T112500
 SUMMARY:Ja (ć)
 LOCATION:235 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T114000
@@ -2374,7 +2374,7 @@ DTSTART:20260124T095000
 DTEND:20260124T112500
 SUMMARY:Ja (ć)
 LOCATION:235 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T114000
@@ -2641,5 +2641,453 @@ DTEND:20260222T150500
 SUMMARY:BD (Inne)
 LOCATION:308 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260307T080000
+DTEND:20260307T093500
+SUMMARY:WdA (w)
+LOCATION:203 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260307T095000
+DTEND:20260307T112500
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260307T114000
+DTEND:20260307T131500
+SUMMARY:Sck (w)
+LOCATION:309 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260307T133000
+DTEND:20260307T150500
+SUMMARY:Sck (w)
+LOCATION:309 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260307T160000
+DTEND:20260307T173500
+SUMMARY:Wkr (w)
+LOCATION:078 S
+DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260307T175000
+DTEND:20260307T192500
+SUMMARY:Wkr (w)
+LOCATION:078 S
+DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260308T080000
+DTEND:20260308T093500
+SUMMARY:PO (w)
+LOCATION:308 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260308T095000
+DTEND:20260308T112500
+SUMMARY:Pw (w)
+LOCATION:308 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260308T114000
+DTEND:20260308T131500
+SUMMARY:Pw (w)
+LOCATION:308 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260308T133000
+DTEND:20260308T150500
+SUMMARY:SI (w)
+LOCATION:201 65
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260308T160000
+DTEND:20260308T173500
+SUMMARY:SI (w)
+LOCATION:201 65
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260314T080000
+DTEND:20260314T093500
+SUMMARY:MM (w)
+LOCATION:309 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260314T095000
+DTEND:20260314T112500
+SUMMARY:MM (w)
+LOCATION:309 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260314T114000
+DTEND:20260314T131500
+SUMMARY:Sck (w)
+LOCATION:309 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/9\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260314T133000
+DTEND:20260314T150500
+SUMMARY:Sck (w)
+LOCATION:309 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/9\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260314T160000
+DTEND:20260314T173500
+SUMMARY:Tik (w)
+LOCATION:201 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260314T175000
+DTEND:20260314T192500
+SUMMARY:Tik (w)
+LOCATION:201 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260315T080000
+DTEND:20260315T093500
+SUMMARY:PO (w)
+LOCATION:308 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260315T095000
+DTEND:20260315T112500
+SUMMARY:PO (w)
+LOCATION:308 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260315T114000
+DTEND:20260315T131500
+SUMMARY:IK (w)
+LOCATION:201 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Jozef Turczyn
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260315T133000
+DTEND:20260315T150500
+SUMMARY:IK (w)
+LOCATION:201 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Jozef Turczyn
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260321T080000
+DTEND:20260321T093500
+SUMMARY:WdA (w)
+LOCATION:203 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260321T095000
+DTEND:20260321T112500
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260321T114000
+DTEND:20260321T131500
+SUMMARY:Sck (w)
+LOCATION:309 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/9\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260321T133000
+DTEND:20260321T150500
+SUMMARY:Sck (w)
+LOCATION:309 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260321T160000
+DTEND:20260321T173500
+SUMMARY:Wkr (w)
+LOCATION:078 S
+DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260321T175000
+DTEND:20260321T192500
+SUMMARY:Wkr (w)
+LOCATION:078 S
+DESCRIPTION:Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Piotr Bora
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260322T080000
+DTEND:20260322T093500
+SUMMARY:PO (w)
+LOCATION:308 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260322T095000
+DTEND:20260322T112500
+SUMMARY:PO (w)
+LOCATION:308 S
+DESCRIPTION:Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Tadeusz Nowicki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260322T114000
+DTEND:20260322T131500
+SUMMARY:IK (w)
+LOCATION:201 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Jozef Turczyn
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260322T133000
+DTEND:20260322T150500
+SUMMARY:IK (w)
+LOCATION:201 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Jozef Turczyn
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260328T080000
+DTEND:20260328T093500
+SUMMARY:WdA (w)
+LOCATION:203 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260328T095000
+DTEND:20260328T112500
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260328T114000
+DTEND:20260328T131500
+SUMMARY:MM (w)
+LOCATION:309 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260328T133000
+DTEND:20260328T150500
+SUMMARY:MM (w)
+LOCATION:309 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260328T160000
+DTEND:20260328T173500
+SUMMARY:Pnak (w)
+LOCATION:201 65
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260328T175000
+DTEND:20260328T192500
+SUMMARY:Pnak (w)
+LOCATION:201 65
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260329T080000
+DTEND:20260329T093500
+SUMMARY:Pw (w)
+LOCATION:308 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260329T095000
+DTEND:20260329T112500
+SUMMARY:Pw (w)
+LOCATION:308 S
+DESCRIPTION:Programowanie wspolbieżne\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Jarosław Rulka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260329T114000
+DTEND:20260329T131500
+SUMMARY:IK (w)
+LOCATION:201 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Jozef Turczyn
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260329T133000
+DTEND:20260329T150500
+SUMMARY:IK (w)
+LOCATION:201 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Jozef Turczyn
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260411T080000
+DTEND:20260411T093500
+SUMMARY:MM (w)
+LOCATION:309 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260411T095000
+DTEND:20260411T112500
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260411T114000
+DTEND:20260411T131500
+SUMMARY:Sck (w)
+LOCATION:309 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260411T133000
+DTEND:20260411T150500
+SUMMARY:Sck (w)
+LOCATION:309 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260411T160000
+DTEND:20260411T173500
+SUMMARY:Tik (w)
+LOCATION:201 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260411T175000
+DTEND:20260411T192500
+SUMMARY:Tik (w)
+LOCATION:201 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260412T080000
+DTEND:20260412T093500
+SUMMARY:SI (w)
+LOCATION:201 65
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260412T095000
+DTEND:20260412T112500
+SUMMARY:SI (w)
+LOCATION:201 65
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260412T114000
+DTEND:20260412T131500
+SUMMARY:Pnak (w)
+LOCATION:201 65
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260412T133000
+DTEND:20260412T150500
+SUMMARY:Pnak (w)
+LOCATION:201 65
+DESCRIPTION:Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260418T080000
+DTEND:20260418T093500
+SUMMARY:WdA (w)
+LOCATION:203 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260418T095000
+DTEND:20260418T112500
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260418T114000
+DTEND:20260418T131500
+SUMMARY:Sck (w)
+LOCATION:309 S
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260418T133000
+DTEND:20260418T150500
+SUMMARY:Tik (w)
+LOCATION:201 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260418T160000
+DTEND:20260418T173500
+SUMMARY:Tik (w)
+LOCATION:201 65
+DESCRIPTION:Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr inż. Leszek Grad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260419T095000
+DTEND:20260419T112500
+SUMMARY:SI (w)
+LOCATION:201 65
+DESCRIPTION:Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: mgr inż. Przemysław Czuba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260419T114000
+DTEND:20260419T131500
+SUMMARY:IK (ć)
+LOCATION:201 65
+DESCRIPTION:Interfejsy komputerów\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący:  Jozef Turczyn
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260425T080000
+DTEND:20260425T093500
+SUMMARY:WdA (w)
+LOCATION:203 65
+DESCRIPTION:Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260425T095000
+DTEND:20260425T112500
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260509T095000
+DTEND:20260509T112500
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260516T095000
+DTEND:20260516T112500
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260613T095000
+DTEND:20260613T112500
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260620T095000
+DTEND:20260620T112500
+SUMMARY:Ja (ć)
+LOCATION:235 K
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20/20\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

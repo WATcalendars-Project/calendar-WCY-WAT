@@ -2825,6 +2825,13 @@ LOCATION:AW 3/043
 DESCRIPTION:Regulaminy SZ RP - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260114T175000
+DTEND:20260114T192500
+SUMMARY:Pwo (w)
+LOCATION:19 36
+DESCRIPTION:Połączone wsparcie ogniowe - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260115T080000
 DTEND:20260115T093500
 SUMMARY:SŁiŚD (w)
@@ -2899,7 +2906,7 @@ DTSTART:20260119T114000
 DTEND:20260119T131500
 SUMMARY:Pwo (w)
 LOCATION:S2 72
-DESCRIPTION:Połączone wsparcie ogniowe - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
+DESCRIPTION:Połączone wsparcie ogniowe - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T133000
@@ -3320,13 +3327,6 @@ DTEND:20260206T150500
 SUMMARY:NiBSI (w)
 LOCATION:307 S
 DESCRIPTION:Niezawodność i bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący: dr inż. Jerzy Stanik
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260206T160000
-DTEND:20260206T173500
-SUMMARY:Pwo (w)
-LOCATION:19 36
-DESCRIPTION:Połączone wsparcie ogniowe - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260207T114000
@@ -3931,6 +3931,13 @@ LOCATION:14 57
 DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/16\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260305T160000
+DTEND:20260305T173500
+SUMMARY:DWiPD (w)
+LOCATION:3.16/ 135
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260306T080000
 DTEND:20260306T093500
 SUMMARY:OPW (ć)
@@ -3985,13 +3992,6 @@ DTEND:20260309T131500
 SUMMARY:TA (w)
 LOCATION:AW 3/038
 DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 14/14\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260310T080000
-DTEND:20260310T093500
-SUMMARY:DWiPD (w)
-LOCATION:aula/ 135
-DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T095000
