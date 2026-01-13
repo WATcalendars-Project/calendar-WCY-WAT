@@ -43,7 +43,7 @@ DTSTART:20251002T114000
 DTEND:20251002T131500
 SUMMARY:Swb (w)
 LOCATION:307 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 1/11\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251006T080000
@@ -134,14 +134,14 @@ DTSTART:20251009T095000
 DTEND:20251009T112500
 SUMMARY:Swb (w)
 LOCATION:307 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 2/11\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251009T114000
 DTEND:20251009T131500
 SUMMARY:Swb (w)
 LOCATION:307 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 3/11\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010T095000
@@ -169,14 +169,14 @@ DTSTART:20251014T095000
 DTEND:20251014T112500
 SUMMARY:Swb (w)
 LOCATION:309 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 4/11\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T114000
 DTEND:20251014T131500
 SUMMARY:Swb (w)
 LOCATION:309 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 5/11\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016T080000
@@ -400,14 +400,14 @@ DTSTART:20251028T095000
 DTEND:20251028T112500
 SUMMARY:Swb (w)
 LOCATION:308 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 6/11\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T114000
 DTEND:20251028T131500
 SUMMARY:Swb (w)
 LOCATION:308 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 7/11\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T175000
@@ -575,14 +575,14 @@ DTSTART:20251106T095000
 DTEND:20251106T112500
 SUMMARY:Swb (w)
 LOCATION:307 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 8/11\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T114000
 DTEND:20251106T131500
 SUMMARY:Swb (w)
 LOCATION:307 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 9/11\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106T133000
@@ -638,7 +638,7 @@ DTSTART:20251113T095000
 DTEND:20251113T112500
 SUMMARY:Swb (w)
 LOCATION:308 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 10/11\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251114T080000
@@ -1399,9 +1399,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T114000
 DTEND:20260206T131500
-SUMMARY:Swb (w)
+SUMMARY:Swb (E)
 LOCATION:313 S
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Wykład\nNr zajęć: 11/11\nProwadzący: dr inż. Krzysztof Murawski
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T080000
@@ -1437,5 +1437,75 @@ DTEND:20260220T131500
 SUMMARY:htm (Inne)
 LOCATION:011 65
 DESCRIPTION:HTML i aplikacje webowe\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260330T160000
+DTEND:20260330T173500
+SUMMARY:Sp (Inne)
+LOCATION:101 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 1/10\nProwadzący: dr inż. Konrad Wrona
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260330T175000
+DTEND:20260330T192500
+SUMMARY:Sp (Inne)
+LOCATION:101 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 2/10\nProwadzący: dr inż. Konrad Wrona
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T160000
+DTEND:20260401T173500
+SUMMARY:Sp (Inne)
+LOCATION:101 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 3/10\nProwadzący: dr inż. Konrad Wrona
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T175000
+DTEND:20260401T192500
+SUMMARY:Sp (Inne)
+LOCATION:101 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 4/10\nProwadzący: dr inż. Konrad Wrona
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T160000
+DTEND:20260409T173500
+SUMMARY:Sp (Inne)
+LOCATION:101 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 5/10\nProwadzący: dr inż. Konrad Wrona
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T175000
+DTEND:20260409T192500
+SUMMARY:Sp (Inne)
+LOCATION:101 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 6/10\nProwadzący: dr inż. Konrad Wrona
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T160000
+DTEND:20260413T173500
+SUMMARY:Sp (Inne)
+LOCATION:101 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 7/10\nProwadzący: dr inż. Konrad Wrona
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T175000
+DTEND:20260413T192500
+SUMMARY:Sp (Inne)
+LOCATION:101 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 8/10\nProwadzący: dr inż. Konrad Wrona
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T160000
+DTEND:20260415T173500
+SUMMARY:Sp (Inne)
+LOCATION:101 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 9/10\nProwadzący: dr inż. Konrad Wrona
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T175000
+DTEND:20260415T192500
+SUMMARY:Sp (Inne)
+LOCATION:101 65
+DESCRIPTION:Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 10/10\nProwadzący: dr inż. Konrad Wrona
 END:VEVENT
 END:VCALENDAR

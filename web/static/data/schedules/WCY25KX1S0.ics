@@ -2111,13 +2111,6 @@ LOCATION:314 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 14/10\nProwadzący: dr inż. Jarosław Łazuka
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260119T114000
-DTEND:20260119T131500
-SUMMARY:WF (ć)
-LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/58\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260119T160000
 DTEND:20260119T173500
 SUMMARY:PGI (ć)
@@ -2136,7 +2129,7 @@ DTSTART:20260120T080000
 DTEND:20260120T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 26/58\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/58\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260120T095000
@@ -2192,7 +2185,7 @@ DTSTART:20260122T095000
 DTEND:20260122T112500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 27/58\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 26/58\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T114000
@@ -2269,7 +2262,7 @@ DTSTART:20260126T114000
 DTEND:20260126T131500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28/58\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 27/58\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T133000
@@ -2283,7 +2276,7 @@ DTSTART:20260127T080000
 DTEND:20260127T093500
 SUMMARY:WF (ć)
 LOCATION:-
-DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 29/58\nProwadzący: -
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28/58\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T095000
@@ -2321,11 +2314,18 @@ LOCATION:223 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/11\nProwadzący: mgr inż. Marcin Perka
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260128T095000
+DTEND:20260128T112500
+SUMMARY:WF (ć)
+LOCATION:-
+DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 29/58\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260128T114000
 DTEND:20260128T131500
 SUMMARY:MD1 (Inne)
 LOCATION:314 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Andrzej Chojnacki
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T133000
@@ -2437,7 +2437,7 @@ DTSTART:20260217T114000
 DTEND:20260217T131500
 SUMMARY:MD1 (Inne)
 LOCATION:307 S
-DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: mgr inż. Łukasz Dzierzkowski
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Łukasz Dzierzkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260218T095000
@@ -2452,6 +2452,13 @@ DTEND:20260219T112500
 SUMMARY:M II (Inne)
 LOCATION:314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Jarosław Łazuka
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T114000
+DTEND:20260219T131500
+SUMMARY:MD1 (Inne)
+LOCATION:314 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T114000
@@ -2557,6 +2564,13 @@ DTEND:20260309T131500
 SUMMARY:DWiPD (w)
 LOCATION:314 S
 DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260309T133000
+DTEND:20260309T150500
+SUMMARY:Pwd (ć)
+LOCATION:313 S
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T080000
@@ -3075,6 +3089,20 @@ DTEND:20260422T112500
 SUMMARY:F1 (w)
 LOCATION:19 36
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T114000
+DTEND:20260422T131500
+SUMMARY:Pwd (ć)
+LOCATION:313 S
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T160000
+DTEND:20260422T173500
+SUMMARY:MD1 (Inne)
+LOCATION:314 S
+DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T080000

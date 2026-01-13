@@ -2643,18 +2643,11 @@ LOCATION:237 K 235 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260203T095000
-DTEND:20260203T112500
-SUMMARY:M1 (E)
-LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Jerzy Ploch
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260203T114000
 DTEND:20260203T131500
 SUMMARY:M1 (E)
-LOCATION:aula/ 135
-DESCRIPTION:Matematyka 1\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Jerzy Ploch
+LOCATION:19 36
+DESCRIPTION:Matematyka 1\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T133000
@@ -2678,18 +2671,11 @@ LOCATION:57/ 62
 DESCRIPTION:Wprowadzenie do informatyki. - (Zaliczenie poprawkowe  lab.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260205T095000
-DTEND:20260205T112500
-SUMMARY:Mat2 (E)
-LOCATION:aula/ 135
-DESCRIPTION:Matematyka 2\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Jerzy Ploch
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260205T114000
 DTEND:20260205T131500
 SUMMARY:Mat2 (E)
-LOCATION:aula/ 135
-DESCRIPTION:Matematyka 2\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Jerzy Ploch
+LOCATION:19 36
+DESCRIPTION:Matematyka 2\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260205T133000
@@ -2755,31 +2741,31 @@ LOCATION:3/ 54
 DESCRIPTION:Wprowadzenie do metrologii - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260217T095000
-DTEND:20260217T112500
+DTSTART:20260217T080000
+DTEND:20260217T093500
 SUMMARY:M1 (Inne)
-LOCATION:51/ 62
+LOCATION:19 36
 DESCRIPTION:Matematyka 1\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260217T114000
-DTEND:20260217T131500
+DTSTART:20260217T095000
+DTEND:20260217T112500
 SUMMARY:M1 (Inne)
-LOCATION:51/ 62
+LOCATION:19 36
 DESCRIPTION:Matematyka 1\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T095000
 DTEND:20260219T112500
 SUMMARY:Mat2 (Inne)
-LOCATION:51/ 62
+LOCATION:19 36
 DESCRIPTION:Matematyka 2\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T114000
 DTEND:20260219T131500
 SUMMARY:Mat2 (Inne)
-LOCATION:51/ 62
+LOCATION:19 36
 DESCRIPTION:Matematyka 2\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
