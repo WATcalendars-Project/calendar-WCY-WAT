@@ -6,30 +6,44 @@ X-WR-CALNAME:WCY25IX3S4
 BEGIN:VEVENT
 DTSTART:20260303T080000
 DTEND:20260303T093500
-SUMMARY:Ps (w)
-LOCATION:316 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr Lucjan Kowalski
+SUMMARY:Ing (Inne)
+LOCATION:314 S
+DESCRIPTION:Inauguracja\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T095000
 DTEND:20260303T112500
-SUMMARY:WST (w)
-LOCATION:316 S
-DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Witold Żorski
+SUMMARY:Ing (Inne)
+LOCATION:314 S
+DESCRIPTION:Inauguracja\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T114000
 DTEND:20260303T131500
 SUMMARY:WST (w)
 LOCATION:316 S
-DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Witold Żorski
+DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T133000
 DTEND:20260303T150500
+SUMMARY:WST (w)
+LOCATION:316 S
+DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T095000
+DTEND:20260304T112500
 SUMMARY:Nmtz (w)
 LOCATION:316 S
 DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T114000
+DTEND:20260304T131500
+SUMMARY:Ps (w)
+LOCATION:316 S
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr Lucjan Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T095000
@@ -452,6 +466,13 @@ LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260423T114000
+DTEND:20260423T131500
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260427T095000
 DTEND:20260427T112500
 SUMMARY:SBD (w)
@@ -473,6 +494,13 @@ LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260430T114000
+DTEND:20260430T131500
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260504T080000
 DTEND:20260504T093500
 SUMMARY:Msk. (w)
@@ -485,6 +513,13 @@ DTEND:20260504T112500
 SUMMARY:Msk. (w)
 LOCATION:308 S
 DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T080000
+DTEND:20260505T093500
+SUMMARY:Msk. (L)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T095000
@@ -501,6 +536,13 @@ LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260507T114000
+DTEND:20260507T131500
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260511T080000
 DTEND:20260511T093500
 SUMMARY:Msk. (w)
@@ -513,6 +555,13 @@ DTEND:20260511T112500
 SUMMARY:Msk. (w)
 LOCATION:308 S
 DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260512T080000
+DTEND:20260512T093500
+SUMMARY:Msk. (L)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T080000
@@ -529,11 +578,25 @@ LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260514T114000
+DTEND:20260514T131500
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260518T080000
 DTEND:20260518T093500
 SUMMARY:Msk. (w)
 LOCATION:308 S
 DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260519T080000
+DTEND:20260519T093500
+SUMMARY:Msk. (L)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T114000
@@ -550,6 +613,34 @@ LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260521T114000
+DTEND:20260521T131500
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T080000
+DTEND:20260522T093500
+SUMMARY:Msk. (L)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T095000
+DTEND:20260522T112500
+SUMMARY:Msk. (L)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T080000
+DTEND:20260526T093500
+SUMMARY:Msk. (L)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr inż. Tomasz Gutowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260528T080000
 DTEND:20260528T093500
 SUMMARY:Soc (w)
@@ -564,11 +655,39 @@ LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260528T114000
+DTEND:20260528T131500
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260608T114000
+DTEND:20260608T131500
+SUMMARY:Msk. (L)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/6\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260608T133000
+DTEND:20260608T150500
+SUMMARY:Msk. (L)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/6\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260611T095000
 DTEND:20260611T112500
 SUMMARY:Ja (ć)
 LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260611T114000
+DTEND:20260611T131500
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr Lucjan Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T080000
@@ -583,5 +702,19 @@ DTEND:20260618T112500
 SUMMARY:Ja (ć)
 LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T080000
+DTEND:20260619T093500
+SUMMARY:Msk. (L)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/6\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T095000
+DTEND:20260619T112500
+SUMMARY:Msk. (L)
+LOCATION:226 S
+DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/6\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 END:VCALENDAR

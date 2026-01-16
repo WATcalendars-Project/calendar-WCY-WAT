@@ -3770,6 +3770,27 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 31/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260304T114000
+DTEND:20260304T131500
+SUMMARY:IO (w)
+LOCATION:307 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260305T114000
+DTEND:20260305T131500
+SUMMARY:MM (w)
+LOCATION:314 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T095000
+DTEND:20260306T112500
+SUMMARY:IO (w)
+LOCATION:307 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260310T133000
 DTEND:20260310T150500
 SUMMARY:Ja (ć)
@@ -3782,6 +3803,27 @@ DTEND:20260310T173500
 SUMMARY:JoM (ć)
 LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 32/45\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260311T114000
+DTEND:20260311T131500
+SUMMARY:IO (w)
+LOCATION:307 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260312T114000
+DTEND:20260312T131500
+SUMMARY:MM (w)
+LOCATION:314 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T095000
+DTEND:20260313T112500
+SUMMARY:IO (w)
+LOCATION:307 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T133000
@@ -3798,6 +3840,27 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 33/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260319T133000
+DTEND:20260319T150500
+SUMMARY:MM (w)
+LOCATION:314 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T095000
+DTEND:20260320T112500
+SUMMARY:IO (L)
+LOCATION:228 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/14\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T114000
+DTEND:20260320T131500
+SUMMARY:IO (L)
+LOCATION:228 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/14\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260324T133000
 DTEND:20260324T150500
 SUMMARY:Ja (ć)
@@ -3810,6 +3873,13 @@ DTEND:20260324T173500
 SUMMARY:JoM (ć)
 LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 34/45\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T133000
+DTEND:20260326T150500
+SUMMARY:MM (w)
+LOCATION:314 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T133000
@@ -3826,6 +3896,34 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 35/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260402T095000
+DTEND:20260402T112500
+SUMMARY:IO (L)
+LOCATION:228 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/14\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T114000
+DTEND:20260402T131500
+SUMMARY:IO (L)
+LOCATION:228 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/14\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T133000
+DTEND:20260402T150500
+SUMMARY:MM (w)
+LOCATION:314 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T133000
+DTEND:20260409T150500
+SUMMARY:MM (w)
+LOCATION:314 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260414T133000
 DTEND:20260414T150500
 SUMMARY:Ja (ć)
@@ -3838,6 +3936,27 @@ DTEND:20260414T173500
 SUMMARY:JoM (ć)
 LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 36/45\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T095000
+DTEND:20260416T112500
+SUMMARY:IO (L)
+LOCATION:228 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/14\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T114000
+DTEND:20260416T131500
+SUMMARY:IO (L)
+LOCATION:228 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/14\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T133000
+DTEND:20260416T150500
+SUMMARY:MM (w)
+LOCATION:314 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T133000
@@ -3868,6 +3987,20 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 38/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260430T095000
+DTEND:20260430T112500
+SUMMARY:IO (L)
+LOCATION:228 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/14\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T114000
+DTEND:20260430T131500
+SUMMARY:IO (L)
+LOCATION:228 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/14\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260505T133000
 DTEND:20260505T150500
 SUMMARY:Ja (ć)
@@ -3894,6 +4027,20 @@ DTEND:20260512T173500
 SUMMARY:JoM (ć)
 LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 40/45\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260514T095000
+DTEND:20260514T112500
+SUMMARY:IO (L)
+LOCATION:228 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/14\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260514T114000
+DTEND:20260514T131500
+SUMMARY:IO (L)
+LOCATION:228 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/14\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260519T133000
@@ -3924,6 +4071,20 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 42/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260527T095000
+DTEND:20260527T112500
+SUMMARY:IO (L)
+LOCATION:228 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/14\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T114000
+DTEND:20260527T131500
+SUMMARY:IO (L)
+LOCATION:228 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/14\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260602T133000
 DTEND:20260602T150500
 SUMMARY:Ja (ć)
@@ -3950,6 +4111,20 @@ DTEND:20260609T173500
 SUMMARY:JoM (ć)
 LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 44/45\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260611T095000
+DTEND:20260611T112500
+SUMMARY:IO (L)
+LOCATION:228 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/14\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260611T114000
+DTEND:20260611T131500
+SUMMARY:IO (L)
+LOCATION:228 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/14\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T133000

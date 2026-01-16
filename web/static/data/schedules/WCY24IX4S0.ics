@@ -3217,6 +3217,20 @@ LOCATION:313 S
 DESCRIPTION:Architektura i organizacja komputerów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Artur Arciuch
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260209T095000
+DTEND:20260209T112500
+SUMMARY:F2 (E)
+LOCATION:aula/ 135
+DESCRIPTION:Fizyka 2 - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T114000
+DTEND:20260218T131500
+SUMMARY:F2 (Inne)
+LOCATION:aF S
+DESCRIPTION:Fizyka 2 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260219T095000
 DTEND:20260219T112500
 SUMMARY:Aok (Inne)

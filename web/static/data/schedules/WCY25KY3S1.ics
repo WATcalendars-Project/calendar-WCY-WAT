@@ -1593,6 +1593,13 @@ LOCATION:133 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260129T114000
+DTEND:20260129T131500
+SUMMARY:Mat I (Inne)
+LOCATION:316 S
+DESCRIPTION:Matematyka I\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260129T133000
 DTEND:20260129T150500
 SUMMARY:WF (ć)
@@ -1642,6 +1649,13 @@ LOCATION:314 S 316 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260205T114000
+DTEND:20260205T131500
+SUMMARY:Mat I (Inne)
+LOCATION:316 S
+DESCRIPTION:Matematyka I\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260206T095000
 DTEND:20260206T112500
 SUMMARY:M II (E)
@@ -1660,7 +1674,7 @@ DTSTART:20260217T095000
 DTEND:20260217T112500
 SUMMARY:Mat I (Inne)
 LOCATION:313 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka I\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T095000
@@ -1675,6 +1689,13 @@ DTEND:20260220T131500
 SUMMARY:MD1 (Inne)
 LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260303T114000
+DTEND:20260303T131500
+SUMMARY:Md2 (w)
+LOCATION:314 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T114000
@@ -1712,6 +1733,13 @@ LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260310T114000
+DTEND:20260310T131500
+SUMMARY:Md2 (w)
+LOCATION:314 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260310T133000
 DTEND:20260310T150500
 SUMMARY:PEM (w)
@@ -1738,6 +1766,13 @@ DTEND:20260312T173500
 SUMMARY:JoM (ć)
 LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260317T114000
+DTEND:20260317T131500
+SUMMARY:Md2 (w)
+LOCATION:314 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T133000
@@ -1780,6 +1815,13 @@ DTEND:20260319T173500
 SUMMARY:JoM (ć)
 LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T114000
+DTEND:20260324T131500
+SUMMARY:Md2 (w)
+LOCATION:314 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T133000
@@ -1880,6 +1922,20 @@ LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260413T160000
+DTEND:20260413T173500
+SUMMARY:F1 (L)
+LOCATION:141 S 139 S
+DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T114000
+DTEND:20260414T131500
+SUMMARY:Md2 (w)
+LOCATION:314 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260415T175000
 DTEND:20260415T192500
 SUMMARY:Ja (ć)
@@ -1906,6 +1962,13 @@ DTEND:20260416T173500
 SUMMARY:JoM (ć)
 LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T114000
+DTEND:20260421T131500
+SUMMARY:Md2 (w)
+LOCATION:314 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T175000
@@ -1943,6 +2006,20 @@ LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260428T114000
+DTEND:20260428T131500
+SUMMARY:Md2 (w)
+LOCATION:314 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T095000
+DTEND:20260429T112500
+SUMMARY:F1 (L)
+LOCATION:141 S 139 S
+DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260429T175000
 DTEND:20260429T192500
 SUMMARY:Ja (ć)
@@ -1971,6 +2048,13 @@ LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 24/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260505T114000
+DTEND:20260505T131500
+SUMMARY:Md2 (w)
+LOCATION:314 S
+DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260506T175000
 DTEND:20260506T192500
 SUMMARY:Ja (ć)
@@ -1997,6 +2081,13 @@ DTEND:20260507T173500
 SUMMARY:JoM (ć)
 LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T160000
+DTEND:20260511T173500
+SUMMARY:F1 (L)
+LOCATION:141 S 139 S
+DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T114000
@@ -2132,6 +2223,13 @@ LOCATION:aF S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 18/20\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260603T080000
+DTEND:20260603T093500
+SUMMARY:F1 (L)
+LOCATION:141 S 139 S
+DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260603T175000
 DTEND:20260603T192500
 SUMMARY:Ja (ć)
@@ -2165,6 +2263,13 @@ DTEND:20260611T173500
 SUMMARY:JoM (ć)
 LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 29/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260615T080000
+DTEND:20260615T093500
+SUMMARY:F1 (L)
+LOCATION:141 S 139 S
+DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T175000

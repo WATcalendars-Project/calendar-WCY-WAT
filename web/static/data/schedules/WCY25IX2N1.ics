@@ -1243,20 +1243,6 @@ LOCATION:308 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260411T133000
-DTEND:20260411T150500
-SUMMARY:F1 (w)
-LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260411T160000
-DTEND:20260411T173500
-SUMMARY:F1 (w)
-LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260418T095000
 DTEND:20260418T112500
 SUMMARY:Ja (ć)
@@ -1275,14 +1261,14 @@ DTSTART:20260418T133000
 DTEND:20260418T150500
 SUMMARY:F1 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/13\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260418T160000
 DTEND:20260418T173500
 SUMMARY:F1 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/13\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T095000
@@ -1303,14 +1289,14 @@ DTSTART:20260425T133000
 DTEND:20260425T150500
 SUMMARY:F1 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/13\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T160000
 DTEND:20260425T173500
 SUMMARY:F1 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/13\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260509T095000
@@ -1331,14 +1317,14 @@ DTSTART:20260509T133000
 DTEND:20260509T150500
 SUMMARY:F1 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 11/13\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260509T160000
 DTEND:20260509T173500
 SUMMARY:F1 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 12/13\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260516T095000
@@ -1352,7 +1338,14 @@ DTSTART:20260516T114000
 DTEND:20260516T131500
 SUMMARY:F1 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 13/13\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 11/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260516T133000
+DTEND:20260516T150500
+SUMMARY:F1 (w)
+LOCATION:aF S
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 12/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260523T080000
@@ -1367,6 +1360,13 @@ DTEND:20260523T112500
 SUMMARY:Tgs (w)
 LOCATION:308 S
 DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260523T114000
+DTEND:20260523T131500
+SUMMARY:F1 (w)
+LOCATION:aF S
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 13/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260523T175000

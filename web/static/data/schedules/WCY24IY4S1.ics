@@ -3665,6 +3665,20 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 31/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260304T095000
+DTEND:20260304T112500
+SUMMARY:IO (w)
+LOCATION:307 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T114000
+DTEND:20260304T131500
+SUMMARY:MM (w)
+LOCATION:313 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260305T133000
 DTEND:20260305T150500
 SUMMARY:F2 (Inne)
@@ -3686,6 +3700,13 @@ LOCATION:313 S
 DESCRIPTION:Fizyka 2 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 6/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260306T114000
+DTEND:20260306T131500
+SUMMARY:IO (w)
+LOCATION:307 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260310T133000
 DTEND:20260310T150500
 SUMMARY:Ja (ć)
@@ -3698,6 +3719,27 @@ DTEND:20260310T173500
 SUMMARY:JoM (ć)
 LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 32/45\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260311T095000
+DTEND:20260311T112500
+SUMMARY:IO (w)
+LOCATION:307 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260311T114000
+DTEND:20260311T131500
+SUMMARY:MM (w)
+LOCATION:313 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T114000
+DTEND:20260313T131500
+SUMMARY:IO (w)
+LOCATION:307 S
+DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T133000
@@ -3714,6 +3756,13 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 33/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260319T114000
+DTEND:20260319T131500
+SUMMARY:MM (w)
+LOCATION:313 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260324T133000
 DTEND:20260324T150500
 SUMMARY:Ja (ć)
@@ -3726,6 +3775,13 @@ DTEND:20260324T173500
 SUMMARY:JoM (ć)
 LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 34/45\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T114000
+DTEND:20260326T131500
+SUMMARY:MM (w)
+LOCATION:313 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T133000
@@ -3742,6 +3798,20 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 35/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260402T114000
+DTEND:20260402T131500
+SUMMARY:MM (w)
+LOCATION:313 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T114000
+DTEND:20260409T131500
+SUMMARY:MM (w)
+LOCATION:313 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260414T133000
 DTEND:20260414T150500
 SUMMARY:Ja (ć)
@@ -3754,6 +3824,13 @@ DTEND:20260414T173500
 SUMMARY:JoM (ć)
 LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 36/45\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T114000
+DTEND:20260416T131500
+SUMMARY:MM (w)
+LOCATION:313 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T133000

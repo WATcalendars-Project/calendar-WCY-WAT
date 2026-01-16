@@ -1257,27 +1257,6 @@ LOCATION:308 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260411T133000
-DTEND:20260411T150500
-SUMMARY:F1 (w)
-LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260411T160000
-DTEND:20260411T173500
-SUMMARY:F1 (w)
-LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/13\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260411T175000
-DTEND:20260411T192500
-SUMMARY:F1 (ć)
-LOCATION:308 S
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260418T095000
 DTEND:20260418T112500
 SUMMARY:Ja (ć)
@@ -1296,21 +1275,21 @@ DTSTART:20260418T133000
 DTEND:20260418T150500
 SUMMARY:F1 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/13\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260418T160000
 DTEND:20260418T173500
 SUMMARY:F1 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/13\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260418T175000
 DTEND:20260418T192500
 SUMMARY:F1 (ć)
 LOCATION:308 S
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T095000
@@ -1331,21 +1310,21 @@ DTSTART:20260425T133000
 DTEND:20260425T150500
 SUMMARY:F1 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/13\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T160000
 DTEND:20260425T173500
 SUMMARY:F1 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/13\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T175000
 DTEND:20260425T192500
 SUMMARY:F1 (ć)
 LOCATION:308 S
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260509T095000
@@ -1366,21 +1345,21 @@ DTSTART:20260509T133000
 DTEND:20260509T150500
 SUMMARY:F1 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 11/13\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260509T160000
 DTEND:20260509T173500
 SUMMARY:F1 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 12/13\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260509T175000
 DTEND:20260509T192500
 SUMMARY:F1 (ć)
 LOCATION:308 S
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260516T095000
@@ -1394,21 +1373,21 @@ DTSTART:20260516T114000
 DTEND:20260516T131500
 SUMMARY:F1 (w)
 LOCATION:aF S
-DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 13/13\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 11/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260516T133000
 DTEND:20260516T150500
-SUMMARY:F1 (ć)
-LOCATION:308 S
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący: -
+SUMMARY:F1 (w)
+LOCATION:aF S
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 12/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260516T160000
 DTEND:20260516T173500
 SUMMARY:F1 (ć)
 LOCATION:308 S
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260523T080000
@@ -1427,16 +1406,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260523T114000
 DTEND:20260523T131500
-SUMMARY:F1 (ć)
-LOCATION:308 S
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: -
+SUMMARY:F1 (w)
+LOCATION:aF S
+DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 13/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260523T133000
 DTEND:20260523T150500
 SUMMARY:F1 (ć)
 LOCATION:308 S
-DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: -
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260523T160000
+DTEND:20260523T173500
+SUMMARY:F1 (ć)
+LOCATION:308 S
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260523T175000
@@ -1465,6 +1451,20 @@ DTEND:20260530T131500
 SUMMARY:F1 (L)
 LOCATION:141 S 139 S
 DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260530T133000
+DTEND:20260530T150500
+SUMMARY:F1 (ć)
+LOCATION:308 S
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260530T160000
+DTEND:20260530T173500
+SUMMARY:F1 (ć)
+LOCATION:308 S
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260613T095000

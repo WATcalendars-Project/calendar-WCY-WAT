@@ -1019,17 +1019,17 @@ LOCATION:120 65
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 4/5\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260119T160000
-DTEND:20260119T173500
+DTSTART:20260116T160000
+DTEND:20260116T173500
 SUMMARY:PsbI (L)
-LOCATION:125 65
+LOCATION:121 65
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Łukasz Giro
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260119T175000
-DTEND:20260119T192500
+DTSTART:20260116T175000
+DTEND:20260116T192500
 SUMMARY:PsbI (L)
-LOCATION:125 65
+LOCATION:121 65
 DESCRIPTION:Projektowanie systemów bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Łukasz Giro
 END:VEVENT
 BEGIN:VEVENT
@@ -1220,5 +1220,110 @@ DTEND:20260218T131500
 SUMMARY:Zt (Inne)
 LOCATION:125 65
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260302T080000
+DTEND:20260302T093500
+SUMMARY:TCT (w)
+LOCATION:201 65
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260302T095000
+DTEND:20260302T112500
+SUMMARY:TCT (w)
+LOCATION:201 65
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260310T114000
+DTEND:20260310T131500
+SUMMARY:TCT (w)
+LOCATION:101 65
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260310T133000
+DTEND:20260310T150500
+SUMMARY:TCT (w)
+LOCATION:101 65
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260323T080000
+DTEND:20260323T093500
+SUMMARY:TCT (w)
+LOCATION:101 65
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260323T095000
+DTEND:20260323T112500
+SUMMARY:TCT (w)
+LOCATION:101 65
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T133000
+DTEND:20260325T150500
+SUMMARY:TCT (w)
+LOCATION:101 65
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T160000
+DTEND:20260325T173500
+SUMMARY:TCT (w)
+LOCATION:101 65
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T114000
+DTEND:20260326T131500
+SUMMARY:TCT (L)
+LOCATION:106 65
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T133000
+DTEND:20260326T150500
+SUMMARY:TCT (L)
+LOCATION:106 65
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T114000
+DTEND:20260401T131500
+SUMMARY:TCT (w)
+LOCATION:101 65
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T133000
+DTEND:20260401T150500
+SUMMARY:TCT (w)
+LOCATION:101 65
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T080000
+DTEND:20260415T093500
+SUMMARY:TCT (L)
+LOCATION:106 65
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T095000
+DTEND:20260415T112500
+SUMMARY:TCT (L)
+LOCATION:106 65
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T114000
+DTEND:20260415T131500
+SUMMARY:TCT (L)
+LOCATION:106 65
+DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący:  Witold Żorski
 END:VEVENT
 END:VCALENDAR

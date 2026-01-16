@@ -6,30 +6,44 @@ X-WR-CALNAME:WCY25IX1S4
 BEGIN:VEVENT
 DTSTART:20260303T080000
 DTEND:20260303T093500
-SUMMARY:Ps (w)
-LOCATION:316 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr Lucjan Kowalski
+SUMMARY:Ing (Inne)
+LOCATION:314 S
+DESCRIPTION:Inauguracja\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T095000
 DTEND:20260303T112500
-SUMMARY:WST (w)
-LOCATION:316 S
-DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Witold Żorski
+SUMMARY:Ing (Inne)
+LOCATION:314 S
+DESCRIPTION:Inauguracja\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T114000
 DTEND:20260303T131500
 SUMMARY:WST (w)
 LOCATION:316 S
-DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Witold Żorski
+DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T133000
 DTEND:20260303T150500
+SUMMARY:WST (w)
+LOCATION:316 S
+DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T095000
+DTEND:20260304T112500
 SUMMARY:Nmtz (w)
 LOCATION:316 S
 DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T114000
+DTEND:20260304T131500
+SUMMARY:Ps (w)
+LOCATION:316 S
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr Lucjan Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T095000

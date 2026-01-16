@@ -1488,6 +1488,13 @@ LOCATION:313 S
 DESCRIPTION:Fizyka 2 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 3/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260304T114000
+DTEND:20260304T131500
+SUMMARY:MM (w)
+LOCATION:313 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260305T133000
 DTEND:20260305T150500
 SUMMARY:F2 (Inne)
@@ -1507,5 +1514,47 @@ DTEND:20260305T192500
 SUMMARY:F2 (Inne)
 LOCATION:313 S
 DESCRIPTION:Fizyka 2 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 6/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260311T114000
+DTEND:20260311T131500
+SUMMARY:MM (w)
+LOCATION:313 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T114000
+DTEND:20260319T131500
+SUMMARY:MM (w)
+LOCATION:313 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T114000
+DTEND:20260326T131500
+SUMMARY:MM (w)
+LOCATION:313 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T114000
+DTEND:20260402T131500
+SUMMARY:MM (w)
+LOCATION:313 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T114000
+DTEND:20260409T131500
+SUMMARY:MM (w)
+LOCATION:313 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T114000
+DTEND:20260416T131500
+SUMMARY:MM (w)
+LOCATION:313 S
+DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 END:VCALENDAR

@@ -6,30 +6,44 @@ X-WR-CALNAME:WCY25KX1S4
 BEGIN:VEVENT
 DTSTART:20260303T080000
 DTEND:20260303T093500
-SUMMARY:Ps (w)
-LOCATION:316 S
-DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr Lucjan Kowalski
+SUMMARY:Ing (Inne)
+LOCATION:314 S
+DESCRIPTION:Inauguracja\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T095000
 DTEND:20260303T112500
-SUMMARY:WST (w)
-LOCATION:316 S
-DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Witold Żorski
+SUMMARY:Ing (Inne)
+LOCATION:314 S
+DESCRIPTION:Inauguracja\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T114000
 DTEND:20260303T131500
 SUMMARY:WST (w)
 LOCATION:316 S
-DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Witold Żorski
+DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T133000
 DTEND:20260303T150500
+SUMMARY:WST (w)
+LOCATION:316 S
+DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T095000
+DTEND:20260304T112500
 SUMMARY:Nmtz (w)
 LOCATION:316 S
 DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T114000
+DTEND:20260304T131500
+SUMMARY:Ps (w)
+LOCATION:316 S
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr Lucjan Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T095000
@@ -235,6 +249,13 @@ LOCATION:316 S
 DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260325T114000
+DTEND:20260325T131500
+SUMMARY:Mnk (L)
+LOCATION:218 65
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący: dr hab. Marek Kojdecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260326T080000
 DTEND:20260326T093500
 SUMMARY:Soc (w)
@@ -282,13 +303,6 @@ DTEND:20260330T131500
 SUMMARY:BbD (w)
 LOCATION:308 S
 DESCRIPTION:Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Bolesław Szafrański
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260330T133000
-DTEND:20260330T150500
-SUMMARY:Stg (w)
-LOCATION:203 65
-DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T080000
@@ -354,6 +368,13 @@ LOCATION:203 65
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260408T114000
+DTEND:20260408T131500
+SUMMARY:Mnk (L)
+LOCATION:218 65
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/12\nProwadzący: dr hab. Marek Kojdecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260409T095000
 DTEND:20260409T112500
 SUMMARY:Ja (ć)
@@ -393,7 +414,7 @@ DTSTART:20260413T114000
 DTEND:20260413T131500
 SUMMARY:Stg (w)
 LOCATION:203 65
-DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr inż. Kamil Kaczyński
+DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T080000
@@ -408,6 +429,20 @@ DTEND:20260414T112500
 SUMMARY:Nmtz (w)
 LOCATION:316 S
 DESCRIPTION:Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T114000
+DTEND:20260414T131500
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T114000
+DTEND:20260415T131500
+SUMMARY:Mnk (L)
+LOCATION:218 65
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/12\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T095000
@@ -435,14 +470,14 @@ DTSTART:20260420T080000
 DTEND:20260420T093500
 SUMMARY:Stg (w)
 LOCATION:203 65
-DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr inż. Kamil Kaczyński
+DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T095000
 DTEND:20260420T112500
 SUMMARY:Stg (w)
 LOCATION:203 65
-DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr inż. Kamil Kaczyński
+DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T080000
@@ -512,7 +547,14 @@ DTSTART:20260427T095000
 DTEND:20260427T112500
 SUMMARY:Stg (w)
 LOCATION:203 65
-DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr inż. Kamil Kaczyński
+DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr inż. Kamil Kaczyński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T114000
+DTEND:20260429T131500
+SUMMARY:Mnk (L)
+LOCATION:218 65
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T080000
@@ -529,6 +571,13 @@ LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260430T133000
+DTEND:20260430T150500
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260504T080000
 DTEND:20260504T093500
 SUMMARY:Dtu (w)
@@ -540,7 +589,14 @@ DTSTART:20260504T095000
 DTEND:20260504T112500
 SUMMARY:Stg (w)
 LOCATION:203 65
-DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr inż. Kamil Kaczyński
+DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr inż. Kamil Kaczyński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T114000
+DTEND:20260506T131500
+SUMMARY:Mnk (L)
+LOCATION:218 65
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T095000
@@ -550,11 +606,32 @@ LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260507T133000
+DTEND:20260507T150500
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260511T080000
 DTEND:20260511T093500
 SUMMARY:Dtu (w)
 LOCATION:203 65
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T095000
+DTEND:20260511T112500
+SUMMARY:Stg (w)
+LOCATION:203 65
+DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr inż. Kamil Kaczyński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T114000
+DTEND:20260513T131500
+SUMMARY:Mnk (L)
+LOCATION:218 65
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T080000
@@ -569,6 +646,13 @@ DTEND:20260514T112500
 SUMMARY:Ja (ć)
 LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260514T133000
+DTEND:20260514T150500
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr Lucjan Kowalski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T095000
@@ -592,6 +676,20 @@ LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260521T133000
+DTEND:20260521T150500
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T114000
+DTEND:20260527T131500
+SUMMARY:Mnk (L)
+LOCATION:218 65
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący: dr hab. Marek Kojdecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260528T080000
 DTEND:20260528T093500
 SUMMARY:Soc (w)
@@ -606,11 +704,60 @@ LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260528T133000
+DTEND:20260528T150500
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T114000
+DTEND:20260603T131500
+SUMMARY:Mnk (L)
+LOCATION:218 65
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący: dr hab. Marek Kojdecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T114000
+DTEND:20260610T131500
+SUMMARY:Mnk (L)
+LOCATION:218 65
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący: dr hab. Marek Kojdecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T133000
+DTEND:20260610T150500
+SUMMARY:Mnk (L)
+LOCATION:218 65
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący: dr hab. Marek Kojdecki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260611T095000
 DTEND:20260611T112500
 SUMMARY:Ja (ć)
 LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260611T133000
+DTEND:20260611T150500
+SUMMARY:Ps (ć)
+LOCATION:218 65
+DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260617T114000
+DTEND:20260617T131500
+SUMMARY:Mnk (L)
+LOCATION:218 65
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/12\nProwadzący: dr hab. Marek Kojdecki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260617T133000
+DTEND:20260617T150500
+SUMMARY:Mnk (L)
+LOCATION:218 65
+DESCRIPTION:Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący: dr hab. Marek Kojdecki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T080000

@@ -3182,6 +3182,13 @@ LOCATION:301/ S
 DESCRIPTION:Anatomia człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260323T160000
+DTEND:20260323T173500
+SUMMARY:F1 (L)
+LOCATION:141 S 139 S
+DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260324T133000
 DTEND:20260324T150500
 SUMMARY:PEM (w)
@@ -3320,6 +3327,13 @@ DTEND:20260330T150500
 SUMMARY:Acz. (w)
 LOCATION:301/ S
 DESCRIPTION:Anatomia człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/14\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260330T160000
+DTEND:20260330T173500
+SUMMARY:F1 (L)
+LOCATION:141 S 139 S
+DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T133000
@@ -3740,6 +3754,13 @@ DTEND:20260420T150500
 SUMMARY:Bwg (w)
 LOCATION:301/ S
 DESCRIPTION:Biologia z wprowadzeniem do genetyki - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260420T160000
+DTEND:20260420T173500
+SUMMARY:F1 (L)
+LOCATION:141 S 139 S
+DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T080000
@@ -4197,6 +4218,13 @@ LOCATION:301/ S
 DESCRIPTION:Biologia z wprowadzeniem do genetyki - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260518T160000
+DTEND:20260518T173500
+SUMMARY:F1 (L)
+LOCATION:141 S 139 S
+DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260519T133000
 DTEND:20260519T150500
 SUMMARY:PEM (w)
@@ -4419,6 +4447,13 @@ DTEND:20260601T112500
 SUMMARY:Acz. (w)
 LOCATION:301/ S Laptop
 DESCRIPTION:Anatomia człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 12/14\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T114000
+DTEND:20260601T131500
+SUMMARY:F1 (L)
+LOCATION:141 S 139 S
+DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T080000

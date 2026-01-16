@@ -3770,11 +3770,11 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 270/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260217T080000
-DTEND:20260217T093500
-SUMMARY:WdTB (Inne)
-LOCATION:116/ 54
-DESCRIPTION:Wprowadzenie do technik biomedycznych - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 8/6\nProwadzący: -
+DTSTART:20260217T114000
+DTEND:20260217T131500
+SUMMARY:F2 (Inne)
+LOCATION:301/ S
+DESCRIPTION:Fizyka 2 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260217T133000
@@ -3782,6 +3782,13 @@ DTEND:20260217T150500
 SUMMARY:Mis (Inne)
 LOCATION:52/ 62
 DESCRIPTION:Metrologia i systemy pomiarowe - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T095000
+DTEND:20260218T112500
+SUMMARY:WdTB (Inne)
+LOCATION:52/ 62
+DESCRIPTION:Wprowadzenie do technik biomedycznych - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 8/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260218T114000
