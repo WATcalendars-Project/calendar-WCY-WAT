@@ -1166,20 +1166,6 @@ LOCATION:237 S
 DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/20\nProwadzący: mgr inż. Michał Melaniuk
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260109T160000
-DTEND:20260109T173500
-SUMMARY:Swb (L)
-LOCATION:125 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący: mgr inż. Marcin Goluch
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260109T175000
-DTEND:20260109T192500
-SUMMARY:Swb (L)
-LOCATION:125 65
-DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący: mgr inż. Marcin Goluch
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260112T160000
 DTEND:20260112T173500
 SUMMARY:REZ (Inne)
@@ -1297,6 +1283,20 @@ DTEND:20260122T131500
 SUMMARY:Bpe (w)
 LOCATION:313 S
 DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260126T114000
+DTEND:20260126T131500
+SUMMARY:Swb (L)
+LOCATION:09 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący: mgr inż. Marcin Goluch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260126T133000
+DTEND:20260126T150500
+SUMMARY:Swb (L)
+LOCATION:09 65
+DESCRIPTION:Systemy wbudowane\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący: mgr inż. Marcin Goluch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T080000

@@ -1257,6 +1257,13 @@ LOCATION:308 S
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260411T133000
+DTEND:20260411T150500
+SUMMARY:Rp (L)
+LOCATION:218 65
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/3\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260418T095000
 DTEND:20260418T112500
 SUMMARY:Ja (ć)
@@ -1290,6 +1297,13 @@ DTEND:20260418T192500
 SUMMARY:F1 (ć)
 LOCATION:308 S
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260425T080000
+DTEND:20260425T093500
+SUMMARY:Rp (ć)
+LOCATION:218 65
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T095000
@@ -1474,6 +1488,13 @@ LOCATION:237 K
 DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260613T114000
+DTEND:20260613T131500
+SUMMARY:Rp (L)
+LOCATION:218 65
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/3\nProwadzący: dr Piotr Mularczyk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260613T175000
 DTEND:20260613T192500
 SUMMARY:F1 (L)
@@ -1486,5 +1507,12 @@ DTEND:20260613T211500
 SUMMARY:F1 (L)
 LOCATION:141 S 139 S
 DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260620T114000
+DTEND:20260620T131500
+SUMMARY:Rp (L)
+LOCATION:219 65
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/3\nProwadzący: dr Piotr Mularczyk
 END:VEVENT
 END:VCALENDAR

@@ -7277,6 +7277,13 @@ LOCATION:117 45
 DESCRIPTION:Technika cyfrowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260326T133000
+DTEND:20260326T150500
+SUMMARY:PRo (w)
+LOCATION:73b S
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260327T080000
 DTEND:20260327T093500
 SUMMARY:- (Inne)
@@ -7365,7 +7372,7 @@ DTSTART:20260401T095000
 DTEND:20260401T112500
 SUMMARY:PRo (w)
 LOCATION:315b S
-DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T114000
@@ -7459,13 +7466,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 473/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260408T080000
-DTEND:20260408T093500
-SUMMARY:Eam (w)
-LOCATION:116 45
-DESCRIPTION:Elektroniczna aparatura medyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260408T095000
 DTEND:20260408T112500
 SUMMARY:TC (w)
@@ -7475,9 +7475,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T114000
 DTEND:20260408T131500
-SUMMARY:PRo (w)
-LOCATION:73b S
-DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
+SUMMARY:Eam (w)
+LOCATION:116 45
+DESCRIPTION:Elektroniczna aparatura medyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T133000
@@ -7550,6 +7550,13 @@ LOCATION:73b S
 DESCRIPTION:Pomiary i analiza biosygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260413T114000
+DTEND:20260413T131500
+SUMMARY:PRo (w)
+LOCATION:73b S
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260415T080000
 DTEND:20260415T093500
 SUMMARY:SsO (w)
@@ -7562,13 +7569,6 @@ DTEND:20260415T112500
 SUMMARY:TC (w)
 LOCATION:120 45
 DESCRIPTION:Technika cyfrowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260415T114000
-DTEND:20260415T131500
-SUMMARY:PRo (w)
-LOCATION:73b S
-DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T080000

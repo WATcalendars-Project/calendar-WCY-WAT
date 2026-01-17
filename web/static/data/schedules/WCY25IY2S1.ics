@@ -1824,6 +1824,13 @@ LOCATION:301/ S
 DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260325T095000
+DTEND:20260325T112500
+SUMMARY:PEM (ć)
+LOCATION:119 K
+DESCRIPTION:Podstawy edukacji muzycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260325T114000
 DTEND:20260325T131500
 SUMMARY:Md2 (w)
@@ -1927,6 +1934,13 @@ DTEND:20260414T131500
 SUMMARY:Ja (ć)
 LOCATION:239 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T095000
+DTEND:20260415T112500
+SUMMARY:PEM (ć)
+LOCATION:119 K
+DESCRIPTION:Podstawy edukacji muzycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T114000
@@ -2097,6 +2111,13 @@ LOCATION:103 K
 DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260513T114000
+DTEND:20260513T131500
+SUMMARY:PEM (ć)
+LOCATION:119 K
+DESCRIPTION:Podstawy edukacji muzycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260514T080000
 DTEND:20260514T093500
 SUMMARY:F1 (w)
@@ -2146,6 +2167,13 @@ LOCATION:103 K
 DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260520T095000
+DTEND:20260520T112500
+SUMMARY:PEM (ć)
+LOCATION:119 K
+DESCRIPTION:Podstawy edukacji muzycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260521T080000
 DTEND:20260521T093500
 SUMMARY:F1 (w)
@@ -2174,6 +2202,13 @@ LOCATION:141 S 139 S
 DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260522T114000
+DTEND:20260522T131500
+SUMMARY:PEM (ć)
+LOCATION:119 K
+DESCRIPTION:Podstawy edukacji muzycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260526T095000
 DTEND:20260526T112500
 SUMMARY:F1 (w)
@@ -2193,6 +2228,13 @@ DTEND:20260526T150500
 SUMMARY:PEM (w)
 LOCATION:103 K
 DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T095000
+DTEND:20260527T112500
+SUMMARY:PEM (ć)
+LOCATION:119 K
+DESCRIPTION:Podstawy edukacji muzycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T080000
@@ -2221,6 +2263,13 @@ DTEND:20260529T093500
 SUMMARY:F1 (L)
 LOCATION:141 S 139 S
 DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260529T114000
+DTEND:20260529T131500
+SUMMARY:PEM (ć)
+LOCATION:119 K
+DESCRIPTION:Podstawy edukacji muzycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T114000

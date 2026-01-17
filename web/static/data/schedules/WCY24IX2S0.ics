@@ -4617,6 +4617,13 @@ LOCATION:aF S
 DESCRIPTION:Fizyka 2 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260218T133000
+DTEND:20260218T150500
+SUMMARY:Sm (Inne)
+LOCATION:314 S
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Justyna Kurkowiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260219T095000
 DTEND:20260219T112500
 SUMMARY:Aok (Inne)
