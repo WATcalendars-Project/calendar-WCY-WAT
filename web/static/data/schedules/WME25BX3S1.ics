@@ -2801,7 +2801,7 @@ DTSTART:20260304T095000
 DTEND:20260304T112500
 SUMMARY:Mat3 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 1/11\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 1/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T114000
@@ -2822,7 +2822,7 @@ DTSTART:20260305T095000
 DTEND:20260305T112500
 SUMMARY:Mat3 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 2/11\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 2/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T114000
@@ -2830,6 +2830,13 @@ DTEND:20260305T131500
 SUMMARY:F1 (w)
 LOCATION:aF S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260305T133000
+DTEND:20260305T150500
+SUMMARY:Mat3 (ć)
+LOCATION:9/ 62
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/10\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T160000
@@ -2927,7 +2934,7 @@ DTSTART:20260311T095000
 DTEND:20260311T112500
 SUMMARY:Mat3 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 3/11\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 3/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T114000
@@ -2953,9 +2960,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T095000
 DTEND:20260312T112500
-SUMMARY:Mat3 (w)
-LOCATION:aula/ 135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 4/11\nProwadzący: dr Jerzy Ploch
+SUMMARY:Mat3 (ć)
+LOCATION:9/ 62
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T114000
@@ -3049,6 +3056,20 @@ LOCATION:301/ S
 DESCRIPTION:Anatomia człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260317T080000
+DTEND:20260317T093500
+SUMMARY:Mat3 (ć)
+LOCATION:9/ 62
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: mgr Robert Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260317T095000
+DTEND:20260317T112500
+SUMMARY:Mat3 (w)
+LOCATION:aula/ 135
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 4/12\nProwadzący: dr Jerzy Ploch
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260317T133000
 DTEND:20260317T150500
 SUMMARY:PEM (w)
@@ -3067,7 +3088,7 @@ DTSTART:20260318T095000
 DTEND:20260318T112500
 SUMMARY:Mat3 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 5/11\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 5/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T114000
@@ -3091,18 +3112,18 @@ LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260319T095000
-DTEND:20260319T112500
-SUMMARY:Mat3 (w)
-LOCATION:aula/ 135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 6/11\nProwadzący: dr Jerzy Ploch
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260319T114000
 DTEND:20260319T131500
 SUMMARY:F1 (w)
 LOCATION:aF S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T133000
+DTEND:20260319T150500
+SUMMARY:Mat3 (ć)
+LOCATION:9/ 62
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T160000
@@ -3189,6 +3210,20 @@ LOCATION:141 S 139 S
 DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260324T080000
+DTEND:20260324T093500
+SUMMARY:Mat3 (ć)
+LOCATION:9/ 62
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący: mgr Robert Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T095000
+DTEND:20260324T112500
+SUMMARY:Mat3 (w)
+LOCATION:aula/ 135
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 6/12\nProwadzący: dr Jerzy Ploch
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260324T133000
 DTEND:20260324T150500
 SUMMARY:PEM (w)
@@ -3207,7 +3242,7 @@ DTSTART:20260325T095000
 DTEND:20260325T112500
 SUMMARY:Mat3 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 7/11\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 7/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T114000
@@ -3336,6 +3371,13 @@ LOCATION:141 S 139 S
 DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260331T095000
+DTEND:20260331T112500
+SUMMARY:Mat3 (w)
+LOCATION:301/ S
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 8/12\nProwadzący: dr Jerzy Ploch
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260331T133000
 DTEND:20260331T150500
 SUMMARY:PEM (w)
@@ -3354,7 +3396,7 @@ DTSTART:20260401T095000
 DTEND:20260401T112500
 SUMMARY:Mat3 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 8/11\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 9/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T114000
@@ -3369,6 +3411,13 @@ DTEND:20260401T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T133000
+DTEND:20260402T150500
+SUMMARY:Mat3 (ć)
+LOCATION:9/ 62
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T160000
@@ -3536,7 +3585,7 @@ DTSTART:20260408T095000
 DTEND:20260408T112500
 SUMMARY:Mat3 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 9/11\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 10/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T114000
@@ -3558,6 +3607,13 @@ DTEND:20260408T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T114000
+DTEND:20260409T131500
+SUMMARY:Mat3 (ć)
+LOCATION:9/ 62
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T160000
@@ -3774,7 +3830,7 @@ DTSTART:20260422T095000
 DTEND:20260422T112500
 SUMMARY:Mat3 (w)
 LOCATION:aula/ 135
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 10/11\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 11/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T114000
@@ -3796,6 +3852,13 @@ DTEND:20260422T192500
 SUMMARY:JoM (ć)
 LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T080000
+DTEND:20260423T093500
+SUMMARY:Mat3 (ć)
+LOCATION:9/ 62
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T095000
@@ -3882,6 +3945,13 @@ LOCATION:301/ S
 DESCRIPTION:Biologia z wprowadzeniem do genetyki - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260428T080000
+DTEND:20260428T093500
+SUMMARY:Mat4 (w)
+LOCATION:301/ S
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 1/12\nProwadzący: dr Jerzy Ploch
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260429T080000
 DTEND:20260429T093500
 SUMMARY:F1 (w)
@@ -3893,7 +3963,7 @@ DTSTART:20260429T095000
 DTEND:20260429T112500
 SUMMARY:Mat3 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 11/11\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 12/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T175000
@@ -3903,18 +3973,18 @@ LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260430T080000
+DTEND:20260430T093500
+SUMMARY:Mat3 (ć)
+LOCATION:9/ 62
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: mgr Robert Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260430T095000
 DTEND:20260430T112500
 SUMMARY:Bwg (ć)
 LOCATION:13 71
 DESCRIPTION:Biologia z wprowadzeniem do genetyki - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260430T133000
-DTEND:20260430T150500
-SUMMARY:Mat4 (w)
-LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 1/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T160000
@@ -3994,6 +4064,13 @@ LOCATION:301/ S
 DESCRIPTION:Biologia z wprowadzeniem do genetyki - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260505T080000
+DTEND:20260505T093500
+SUMMARY:Mat4 (w)
+LOCATION:301/ S
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 2/12\nProwadzący: dr Jerzy Ploch
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260506T080000
 DTEND:20260506T093500
 SUMMARY:F1 (w)
@@ -4005,7 +4082,7 @@ DTSTART:20260506T095000
 DTEND:20260506T112500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 2/12\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 3/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T175000
@@ -4015,6 +4092,13 @@ LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 24/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260507T080000
+DTEND:20260507T093500
+SUMMARY:Mat3 (ć)
+LOCATION:9/ 62
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: mgr Robert Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260507T095000
 DTEND:20260507T112500
 SUMMARY:Bwg (ć)
@@ -4022,11 +4106,11 @@ LOCATION:13 71
 DESCRIPTION:Biologia z wprowadzeniem do genetyki - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260507T133000
-DTEND:20260507T150500
-SUMMARY:Mat4 (w)
-LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 3/12\nProwadzący: dr Jerzy Ploch
+DTSTART:20260507T114000
+DTEND:20260507T131500
+SUMMARY:Mat4 (L)
+LOCATION:9/ 62
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T160000
@@ -4106,6 +4190,13 @@ LOCATION:119 K
 DESCRIPTION:Podstawy edukacji muzycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260512T114000
+DTEND:20260512T131500
+SUMMARY:Mat4 (w)
+LOCATION:301/ S
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 4/12\nProwadzący: dr Jerzy Ploch
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260512T133000
 DTEND:20260512T150500
 SUMMARY:PEM (w)
@@ -4124,7 +4215,7 @@ DTSTART:20260513T095000
 DTEND:20260513T112500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 4/12\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 5/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T175000
@@ -4134,6 +4225,13 @@ LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260514T080000
+DTEND:20260514T093500
+SUMMARY:Mat3 (L)
+LOCATION:218 65
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący: mgr Robert Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260514T095000
 DTEND:20260514T112500
 SUMMARY:Bwg (ć)
@@ -4141,11 +4239,11 @@ LOCATION:13 71
 DESCRIPTION:Biologia z wprowadzeniem do genetyki - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260514T133000
-DTEND:20260514T150500
-SUMMARY:Mat4 (w)
-LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 5/12\nProwadzący: dr Jerzy Ploch
+DTSTART:20260514T114000
+DTEND:20260514T131500
+SUMMARY:Mat4 (L)
+LOCATION:9/ 62
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T160000
@@ -4239,6 +4337,13 @@ LOCATION:119 K
 DESCRIPTION:Podstawy edukacji muzycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260519T114000
+DTEND:20260519T131500
+SUMMARY:Mat4 (w)
+LOCATION:301/ S
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 6/12\nProwadzący: dr Jerzy Ploch
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260519T133000
 DTEND:20260519T150500
 SUMMARY:PEM (w)
@@ -4257,7 +4362,7 @@ DTSTART:20260520T095000
 DTEND:20260520T112500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 6/12\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 7/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T175000
@@ -4267,6 +4372,13 @@ LOCATION:233 K 232 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 26/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260521T080000
+DTEND:20260521T093500
+SUMMARY:Mat3 (L)
+LOCATION:218 65
+DESCRIPTION:Matematyka 3\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący: mgr Robert Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260521T095000
 DTEND:20260521T112500
 SUMMARY:Bwg (ć)
@@ -4274,11 +4386,11 @@ LOCATION:13 71
 DESCRIPTION:Biologia z wprowadzeniem do genetyki - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260521T133000
-DTEND:20260521T150500
-SUMMARY:Mat4 (w)
-LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 7/12\nProwadzący: dr Jerzy Ploch
+DTSTART:20260521T114000
+DTEND:20260521T131500
+SUMMARY:Mat4 (L)
+LOCATION:9/ 62
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T160000
@@ -4351,6 +4463,13 @@ LOCATION:301/ S
 DESCRIPTION:Biologia z wprowadzeniem do genetyki - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260526T114000
+DTEND:20260526T131500
+SUMMARY:Mat4 (w)
+LOCATION:301/ S
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 8/12\nProwadzący: dr Jerzy Ploch
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260526T133000
 DTEND:20260526T150500
 SUMMARY:PEM (w)
@@ -4369,7 +4488,7 @@ DTSTART:20260527T095000
 DTEND:20260527T112500
 SUMMARY:Mat4 (w)
 LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 8/12\nProwadzący: dr Jerzy Ploch
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 9/12\nProwadzący: dr Jerzy Ploch
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T175000
@@ -4386,11 +4505,11 @@ LOCATION:13 71
 DESCRIPTION:Biologia z wprowadzeniem do genetyki - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260528T133000
-DTEND:20260528T150500
-SUMMARY:Mat4 (w)
-LOCATION:301/ S
-DESCRIPTION:Matematyka 4\nRodzaj zajęć: Wykład\nNr zajęć: 9/12\nProwadzący: dr Jerzy Ploch
+DTSTART:20260528T114000
+DTEND:20260528T131500
+SUMMARY:Mat4 (L)
+LOCATION:9/ 62
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T160000
@@ -4468,6 +4587,13 @@ DTEND:20260601T131500
 SUMMARY:F1 (L)
 LOCATION:141 S 139 S
 DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T095000
+DTEND:20260602T112500
+SUMMARY:Mat4 (L)
+LOCATION:9/ 62
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T080000
@@ -4603,6 +4729,13 @@ LOCATION:301/ S Laptop
 DESCRIPTION:Anatomia człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 13/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260609T095000
+DTEND:20260609T112500
+SUMMARY:Mat4 (L)
+LOCATION:9/ 62
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr Robert Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260610T080000
 DTEND:20260610T093500
 SUMMARY:F1 (w)
@@ -4701,6 +4834,13 @@ LOCATION:301/ S Laptop
 DESCRIPTION:Anatomia człowieka - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 14/14\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260616T095000
+DTEND:20260616T112500
+SUMMARY:Mat4 (L)
+LOCATION:9/ 62
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr Robert Kozarzewski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260616T133000
 DTEND:20260616T150500
 SUMMARY:Ppu. (w)
@@ -4734,6 +4874,13 @@ DTEND:20260618T112500
 SUMMARY:Bwg (ć)
 LOCATION:13 71
 DESCRIPTION:Biologia z wprowadzeniem do genetyki - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T114000
+DTEND:20260618T131500
+SUMMARY:Mat4 (L)
+LOCATION:9/ 62
+DESCRIPTION:Matematyka 4\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr Robert Kozarzewski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T160000
