@@ -6528,25 +6528,11 @@ LOCATION:7/ 34a
 DESCRIPTION:Biomateriały konstrukcyjne i funkcjonalne  - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260122T080000
-DTEND:20260122T093500
+DTSTART:20260122T114000
+DTEND:20260122T131500
 SUMMARY:Mt 2 (w)
 LOCATION:54/ 62
 DESCRIPTION:Mechanika techniczna 2 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260122T095000
-DTEND:20260122T112500
-SUMMARY:Wdmuc (L)
-LOCATION:53/ 62
-DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260122T114000
-DTEND:20260122T131500
-SUMMARY:Wdmuc (L)
-LOCATION:53/ 62
-DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T133000
@@ -6687,6 +6673,20 @@ DTEND:20260128T131500
 SUMMARY:TMiM (ć)
 LOCATION:2.14/ 54A
 DESCRIPTION:Teoria maszyn i mechanizmów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260128T133000
+DTEND:20260128T150500
+SUMMARY:Wdmuc (L)
+LOCATION:53/ 62
+DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260128T160000
+DTEND:20260128T173500
+SUMMARY:Wdmuc (L)
+LOCATION:53/ 62
+DESCRIPTION:Wstęp do modelowania i symulacji urazów człowieka - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260130T080000
