@@ -1579,6 +1579,13 @@ LOCATION:29/ 54 30/ 54
 DESCRIPTION:Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/9\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260127T095000
+DTEND:20260127T112500
+SUMMARY:WdI (Inne)
+LOCATION:316 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260127T114000
 DTEND:20260127T131500
 SUMMARY:MD1 (Inne)

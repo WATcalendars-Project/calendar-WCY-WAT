@@ -20,16 +20,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T114000
 DTEND:20260303T131500
-SUMMARY:WST (w)
+SUMMARY:WIT (w)
 LOCATION:316 S
-DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260303T133000
 DTEND:20260303T150500
-SUMMARY:WST (w)
+SUMMARY:WIT (w)
 LOCATION:316 S
-DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T095000
@@ -104,9 +104,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T095000
 DTEND:20260310T112500
-SUMMARY:WST (w)
+SUMMARY:WIT (w)
 LOCATION:316 S
-DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T114000
@@ -237,9 +237,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T095000
 DTEND:20260324T112500
-SUMMARY:WST (w)
+SUMMARY:WIT (w)
 LOCATION:316 S
-DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T114000
@@ -307,9 +307,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T095000
 DTEND:20260331T112500
-SUMMARY:WST (w)
+SUMMARY:WIT (w)
 LOCATION:316 S
-DESCRIPTION:Wirtualizacja systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Witold Żorski
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T114000
@@ -359,6 +359,13 @@ DTEND:20260402T150500
 SUMMARY:Dtu (w)
 LOCATION:203 65
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T080000
+DTEND:20260408T093500
+SUMMARY:WIT (P)
+LOCATION:106 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNr zajęć: 1/8\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T133000
@@ -466,6 +473,13 @@ LOCATION:203 65
 DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260420T114000
+DTEND:20260420T131500
+SUMMARY:Stg (L)
+LOCATION:219 65
+DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący: dr inż. Kamil Kaczyński
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260421T080000
 DTEND:20260421T093500
 SUMMARY:Ps (w)
@@ -485,6 +499,13 @@ DTEND:20260421T131500
 SUMMARY:Ps (ć)
 LOCATION:218 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T080000
+DTEND:20260422T093500
+SUMMARY:WIT (P)
+LOCATION:106 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNr zajęć: 2/8\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T095000
@@ -585,6 +606,27 @@ LOCATION:203 65
 DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260504T114000
+DTEND:20260504T131500
+SUMMARY:Stg (L)
+LOCATION:219 65
+DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący: dr inż. Kamil Kaczyński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T080000
+DTEND:20260506T093500
+SUMMARY:WIT (P)
+LOCATION:106 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNr zajęć: 3/8\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T095000
+DTEND:20260506T112500
+SUMMARY:WIT (P)
+LOCATION:106 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNr zajęć: 4/8\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260506T133000
 DTEND:20260506T150500
 SUMMARY:Mnk (L)
@@ -620,6 +662,34 @@ LOCATION:218 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr Lucjan Kowalski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260512T114000
+DTEND:20260512T131500
+SUMMARY:WIT (P)
+LOCATION:106 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNr zajęć: 5/8\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260512T133000
+DTEND:20260512T150500
+SUMMARY:WIT (P)
+LOCATION:106 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNr zajęć: 6/8\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T080000
+DTEND:20260513T093500
+SUMMARY:WIT (P)
+LOCATION:106 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNr zajęć: 7/8\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T095000
+DTEND:20260513T112500
+SUMMARY:WIT (P)
+LOCATION:106 65
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNr zajęć: 8/8\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260513T133000
 DTEND:20260513T150500
 SUMMARY:Mnk (L)
@@ -641,11 +711,25 @@ LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260518T080000
+DTEND:20260518T093500
+SUMMARY:Stg (L)
+LOCATION:218 65
+DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: dr inż. Kamil Kaczyński
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260518T095000
 DTEND:20260518T112500
 SUMMARY:Stg (w)
 LOCATION:203 65
 DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr inż. Kamil Kaczyński
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T114000
+DTEND:20260518T131500
+SUMMARY:Stg (L)
+LOCATION:219 65
+DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T114000
@@ -667,6 +751,13 @@ DTEND:20260521T112500
 SUMMARY:Ja (ć)
 LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T160000
+DTEND:20260525T173500
+SUMMARY:Stg (L)
+LOCATION:219 65
+DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T095000
@@ -695,6 +786,13 @@ DTEND:20260528T112500
 SUMMARY:Ja (ć)
 LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T175000
+DTEND:20260601T192500
+SUMMARY:Stg (L)
+LOCATION:219 65
+DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260602T095000
@@ -744,6 +842,13 @@ DTEND:20260611T112500
 SUMMARY:Ja (ć)
 LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260615T175000
+DTEND:20260615T192500
+SUMMARY:Stg (L)
+LOCATION:219 65
+DESCRIPTION:Steganografia\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T160000

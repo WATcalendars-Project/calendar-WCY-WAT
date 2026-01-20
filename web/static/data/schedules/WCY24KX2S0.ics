@@ -659,7 +659,7 @@ DTSTART:20250402T133000
 DTEND:20250402T150500
 SUMMARY:Rp (L)
 LOCATION:078 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr inż. Krzysztof Mańk
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250402T175000
@@ -1065,7 +1065,7 @@ DTSTART:20250423T133000
 DTEND:20250423T150500
 SUMMARY:Rp (ć)
 LOCATION:085 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: mgr inż. Krzysztof Mańk
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250423T160000
@@ -1184,7 +1184,7 @@ DTSTART:20250430T095000
 DTEND:20250430T112500
 SUMMARY:Rp (L)
 LOCATION:078 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr inż. Krzysztof Mańk
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250430T114000
@@ -1632,7 +1632,7 @@ DTSTART:20250523T080000
 DTEND:20250523T093500
 SUMMARY:Rp (L)
 LOCATION:085 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr inż. Krzysztof Mańk
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250523T095000
@@ -1793,7 +1793,7 @@ DTSTART:20250530T080000
 DTEND:20250530T093500
 SUMMARY:Rp (L)
 LOCATION:085 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr inż. Krzysztof Mańk
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250530T095000
@@ -1919,7 +1919,7 @@ DTSTART:20250606T080000
 DTEND:20250606T093500
 SUMMARY:Rp (ć)
 LOCATION:085 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: mgr inż. Krzysztof Mańk
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250606T095000
@@ -2087,7 +2087,7 @@ DTSTART:20250613T080000
 DTEND:20250613T093500
 SUMMARY:Rp (L)
 LOCATION:078 S
-DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Krzysztof Mańk
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: dr inż. Krzysztof Mańk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250613T114000
@@ -4614,7 +4614,7 @@ DTSTART:20260218T133000
 DTEND:20260218T150500
 SUMMARY:Sm (Inne)
 LOCATION:314 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T114000
@@ -4629,6 +4629,13 @@ DTEND:20260219T150500
 SUMMARY:ppk (Inne)
 LOCATION:317 S
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: dr inż. Jan Chudzikiewicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T095000
+DTEND:20260220T112500
+SUMMARY:Sm (Inne)
+LOCATION:219 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T114000

@@ -1593,6 +1593,13 @@ LOCATION:252 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/11\nProwadzący: mgr inż. Tadeusz Kowiorski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260127T160000
+DTEND:20260127T173500
+SUMMARY:WdI (Inne)
+LOCATION:314 S
+DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260128T160000
 DTEND:20260128T173500
 SUMMARY:JoM (ć)
