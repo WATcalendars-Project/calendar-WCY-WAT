@@ -333,18 +333,18 @@ LOCATION:aE S
 DESCRIPTION:System łączności i środki dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260126T095000
-DTEND:20260126T112500
-SUMMARY:ZINŻ (w)
-LOCATION:103 K
-DESCRIPTION:Zabezpieczenie inżynieryjne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260126T114000
 DTEND:20260126T131500
 SUMMARY:MWDS (w)
 LOCATION:307 S
 DESCRIPTION:Metody i narzędzia wspomagania dowodzenia i szkolenia\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Dawid Maślanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260126T160000
+DTEND:20260126T173500
+SUMMARY:ZINŻ (w)
+LOCATION:103 K
+DESCRIPTION:Zabezpieczenie inżynieryjne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T080000
@@ -1201,13 +1201,6 @@ LOCATION:255 S
 DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260302T160000
-DTEND:20260302T173500
-SUMMARY:MWDS (w)
-LOCATION:308 S
-DESCRIPTION:Metody i narzędzia wspomagania dowodzenia i szkolenia\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Dawid Maślanik
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260303T080000
 DTEND:20260303T093500
 SUMMARY:Pwo (ć)
@@ -1311,6 +1304,13 @@ DTEND:20260305T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 16/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260305T175000
+DTEND:20260305T192500
+SUMMARY:MWDS (w)
+LOCATION:308 S
+DESCRIPTION:Metody i narzędzia wspomagania dowodzenia i szkolenia\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Dawid Maślanik
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260306T080000

@@ -1376,11 +1376,18 @@ LOCATION:308 S
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260516T080000
+DTEND:20260516T093500
+SUMMARY:Tgs (w)
+LOCATION:308 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260516T095000
 DTEND:20260516T112500
-SUMMARY:Ja (ć)
-LOCATION:237 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący: -
+SUMMARY:Tgs (w)
+LOCATION:308 S
+DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260516T114000
@@ -1402,20 +1409,6 @@ DTEND:20260516T173500
 SUMMARY:Rp (ć)
 LOCATION:218 65
 DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: dr Piotr Mularczyk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260523T080000
-DTEND:20260523T093500
-SUMMARY:Tgs (w)
-LOCATION:308 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260523T095000
-DTEND:20260523T112500
-SUMMARY:Tgs (w)
-LOCATION:308 S
-DESCRIPTION:Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260523T114000
@@ -1464,7 +1457,7 @@ DTSTART:20260530T095000
 DTEND:20260530T112500
 SUMMARY:Ja (ć)
 LOCATION:237 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260530T114000
@@ -1478,7 +1471,7 @@ DTSTART:20260613T095000
 DTEND:20260613T112500
 SUMMARY:Ja (ć)
 LOCATION:237 K
-DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: -
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260613T133000
@@ -1514,5 +1507,12 @@ DTEND:20260614T150500
 SUMMARY:F1 (ć)
 LOCATION:308 S
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260620T095000
+DTEND:20260620T112500
+SUMMARY:Ja (ć)
+LOCATION:237 K
+DESCRIPTION:Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

@@ -925,21 +925,21 @@ DTSTART:20260612T095000
 DTEND:20260612T112500
 SUMMARY:Pwo (ć)
 LOCATION:20 69
-DESCRIPTION:Połączone wsparcie ogniowe - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
+DESCRIPTION:Połączone wsparcie ogniowe - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T114000
 DTEND:20260612T131500
 SUMMARY:Pwo (ć)
 LOCATION:20 69
-DESCRIPTION:Połączone wsparcie ogniowe - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -
+DESCRIPTION:Połączone wsparcie ogniowe - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T133000
 DTEND:20260612T150500
 SUMMARY:Pwo (ć)
 LOCATION:20 69
-DESCRIPTION:Połączone wsparcie ogniowe - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: -
+DESCRIPTION:Połączone wsparcie ogniowe - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260612T160000
@@ -977,6 +977,13 @@ LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 29/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260617T114000
+DTEND:20260617T131500
+SUMMARY:Pwo (ć)
+LOCATION:20 69
+DESCRIPTION:Połączone wsparcie ogniowe - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260618T080000
 DTEND:20260618T093500
 SUMMARY:Ja (ć)
@@ -988,7 +995,7 @@ DTSTART:20260618T114000
 DTEND:20260618T131500
 SUMMARY:Pwo (ć)
 LOCATION:20 69
-DESCRIPTION:Połączone wsparcie ogniowe - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: -
+DESCRIPTION:Połączone wsparcie ogniowe - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T080000

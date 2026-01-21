@@ -2573,6 +2573,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 38/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260306T080000
+DTEND:20260306T093500
+SUMMARY:WdP (w)
+LOCATION:314 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T095000
+DTEND:20260306T112500
+SUMMARY:PTk (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 1/14\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260306T114000
 DTEND:20260306T131500
 SUMMARY:ZINŻ (w)
@@ -2685,6 +2699,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 41/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260313T080000
+DTEND:20260313T093500
+SUMMARY:WdP (w)
+LOCATION:314 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T095000
+DTEND:20260313T112500
+SUMMARY:PTk (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 2/14\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260313T114000
 DTEND:20260313T131500
 SUMMARY:ZINŻ (w)
@@ -2790,11 +2818,32 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 44/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260320T080000
+DTEND:20260320T093500
+SUMMARY:WdP (w)
+LOCATION:314 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T095000
+DTEND:20260320T112500
+SUMMARY:PTk (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 3/14\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260320T133000
 DTEND:20260320T150500
 SUMMARY:Ja (ć)
 LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 36/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260323T133000
+DTEND:20260323T150500
+SUMMARY:PTk (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4/14\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T080000
@@ -2823,6 +2872,13 @@ DTEND:20260324T150500
 SUMMARY:Md2 (w)
 LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T133000
+DTEND:20260325T150500
+SUMMARY:PTk (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5/14\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T080000
@@ -2872,6 +2928,13 @@ DTEND:20260326T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 47/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260330T133000
+DTEND:20260330T150500
+SUMMARY:PTk (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 6/14\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T080000
@@ -3035,6 +3098,13 @@ LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 39/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260413T133000
+DTEND:20260413T150500
+SUMMARY:PTk (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 7/14\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260414T080000
 DTEND:20260414T093500
 SUMMARY:WF (ć)
@@ -3126,6 +3196,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 57/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260417T080000
+DTEND:20260417T093500
+SUMMARY:WdP (w)
+LOCATION:314 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Rafał Kasprzyk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260417T095000
 DTEND:20260417T112500
 SUMMARY:F1 (ć)
@@ -3166,6 +3243,13 @@ DTEND:20260420T131500
 SUMMARY:SŁiŚD (ć)
 LOCATION:6 47 5 47 24
 DESCRIPTION:System łączności i środki dowodzenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260420T133000
+DTEND:20260420T150500
+SUMMARY:PTk (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 8/14\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T080000
@@ -3280,6 +3364,13 @@ LOCATION:ST.nr 1(PW)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260427T133000
+DTEND:20260427T150500
+SUMMARY:PTk (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 9/14\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260428T080000
 DTEND:20260428T093500
 SUMMARY:WF (ć)
@@ -3306,6 +3397,13 @@ DTEND:20260428T150500
 SUMMARY:Md2 (w)
 LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T080000
+DTEND:20260429T093500
+SUMMARY:WdP (w)
+LOCATION:314 S
+DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T095000
@@ -3483,6 +3581,13 @@ LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 45/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260511T133000
+DTEND:20260511T150500
+SUMMARY:PTk (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 10/14\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260512T080000
 DTEND:20260512T093500
 SUMMARY:WF (ć)
@@ -3602,6 +3707,20 @@ LOCATION:ST.nr 1(PW)
 DESCRIPTION:Szkolenie strzeleckie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/18\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260518T114000
+DTEND:20260518T131500
+SUMMARY:PTk (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 11/14\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T133000
+DTEND:20260518T150500
+SUMMARY:PTk (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 12/14\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260519T080000
 DTEND:20260519T093500
 SUMMARY:WF (ć)
@@ -3719,6 +3838,20 @@ DTEND:20260522T192500
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 52/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T114000
+DTEND:20260525T131500
+SUMMARY:PTk (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 13/14\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T133000
+DTEND:20260525T150500
+SUMMARY:PTk (w)
+LOCATION:314 S
+DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 14/14\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T080000

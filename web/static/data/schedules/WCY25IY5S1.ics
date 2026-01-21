@@ -1537,13 +1537,6 @@ LOCATION:313 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/17\nProwadzący: mgr Wojciech Matuszewski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260123T114000
-DTEND:20260123T131500
-SUMMARY:Ez (w)
-LOCATION:314 S
-DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260126T080000
 DTEND:20260126T093500
 SUMMARY:M II (w)
@@ -1563,6 +1556,13 @@ DTEND:20260126T150500
 SUMMARY:WdI (L)
 LOCATION:252 S
 DESCRIPTION:Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/11\nProwadzący: mgr inż. Tadeusz Kowiorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260126T175000
+DTEND:20260126T192500
+SUMMARY:Ez (w)
+LOCATION:314 S
+DESCRIPTION:Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T095000
@@ -1768,6 +1768,13 @@ LOCATION:301/ S
 DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260318T095000
+DTEND:20260318T112500
+SUMMARY:F1 (ć)
+LOCATION:205 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260318T114000
 DTEND:20260318T131500
 SUMMARY:Md2 (w)
@@ -1845,11 +1852,25 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/29\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260326T114000
+DTEND:20260326T131500
+SUMMARY:F1 (ć)
+LOCATION:205 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260326T160000
 DTEND:20260326T173500
 SUMMARY:JoM (ć)
 LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260331T095000
+DTEND:20260331T112500
+SUMMARY:F1 (ć)
+LOCATION:205 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T114000
@@ -1915,11 +1936,25 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/29\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260409T114000
+DTEND:20260409T131500
+SUMMARY:F1 (ć)
+LOCATION:205 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260409T160000
 DTEND:20260409T173500
 SUMMARY:JoM (ć)
 LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T095000
+DTEND:20260414T112500
+SUMMARY:F1 (ć)
+LOCATION:205 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T114000
@@ -1955,6 +1990,13 @@ DTEND:20260416T112500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22/29\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T114000
+DTEND:20260416T131500
+SUMMARY:F1 (ć)
+LOCATION:205 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T160000
@@ -2048,6 +2090,13 @@ LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 24/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260504T133000
+DTEND:20260504T150500
+SUMMARY:F1 (ć)
+LOCATION:205 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260504T160000
 DTEND:20260504T173500
 SUMMARY:F1 (L)
@@ -2118,6 +2167,13 @@ LOCATION:103 K
 DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260513T095000
+DTEND:20260513T112500
+SUMMARY:F1 (ć)
+LOCATION:205 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260513T114000
 DTEND:20260513T131500
 SUMMARY:PEM (ć)
@@ -2165,6 +2221,13 @@ DTEND:20260519T150500
 SUMMARY:PEM (w)
 LOCATION:103 K
 DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T080000
+DTEND:20260520T093500
+SUMMARY:F1 (ć)
+LOCATION:204 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T095000
@@ -2216,6 +2279,13 @@ LOCATION:103 K
 DESCRIPTION:Podstawy edukacji muzycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260527T080000
+DTEND:20260527T093500
+SUMMARY:F1 (ć)
+LOCATION:204 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260527T095000
 DTEND:20260527T112500
 SUMMARY:PEM (ć)
@@ -2237,6 +2307,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 27/29\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260528T114000
+DTEND:20260528T131500
+SUMMARY:F1 (ć)
+LOCATION:205 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260528T160000
 DTEND:20260528T173500
 SUMMARY:JoM (ć)
@@ -2251,6 +2328,13 @@ LOCATION:119 K
 DESCRIPTION:Podstawy edukacji muzycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260602T095000
+DTEND:20260602T112500
+SUMMARY:F1 (ć)
+LOCATION:205 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260602T114000
 DTEND:20260602T131500
 SUMMARY:Ja (ć)
@@ -2263,6 +2347,13 @@ DTEND:20260608T173500
 SUMMARY:F1 (L)
 LOCATION:141 S 139 S
 DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260609T095000
+DTEND:20260609T112500
+SUMMARY:F1 (ć)
+LOCATION:205 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T114000
@@ -2293,6 +2384,13 @@ LOCATION:232 K 231 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 29/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260616T095000
+DTEND:20260616T112500
+SUMMARY:F1 (ć)
+LOCATION:205 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260616T114000
 DTEND:20260616T131500
 SUMMARY:Ja (ć)
@@ -2312,6 +2410,13 @@ DTEND:20260618T112500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 29/29\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T114000
+DTEND:20260618T131500
+SUMMARY:F1 (ć)
+LOCATION:205 65
+DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/15\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T160000

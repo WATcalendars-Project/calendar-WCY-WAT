@@ -648,13 +648,6 @@ LOCATION:203 65
 DESCRIPTION:Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260511T095000
-DTEND:20260511T112500
-SUMMARY:Stg (w)
-LOCATION:203 65
-DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr inż. Kamil Kaczyński
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260512T095000
 DTEND:20260512T112500
 SUMMARY:Ps (ć)
@@ -722,7 +715,7 @@ DTSTART:20260518T095000
 DTEND:20260518T112500
 SUMMARY:Stg (w)
 LOCATION:203 65
-DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr inż. Kamil Kaczyński
+DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T114000
@@ -751,6 +744,13 @@ DTEND:20260521T112500
 SUMMARY:Ja (ć)
 LOCATION:241 K 132 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T114000
+DTEND:20260525T131500
+SUMMARY:Stg (w)
+LOCATION:203 65
+DESCRIPTION:Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr inż. Kamil Kaczyński
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T160000

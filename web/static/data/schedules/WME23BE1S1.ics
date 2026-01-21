@@ -7242,6 +7242,20 @@ LOCATION:116 45
 DESCRIPTION:Pomiary i analiza biosygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260325T080000
+DTEND:20260325T093500
+SUMMARY:PrSt (L)
+LOCATION:104 61
+DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T095000
+DTEND:20260325T112500
+SUMMARY:PrSt (L)
+LOCATION:104 61
+DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260325T114000
 DTEND:20260325T131500
 SUMMARY:TeMi (w)
@@ -7487,6 +7501,20 @@ LOCATION:315a S
 DESCRIPTION:Pomiary i analiza biosygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260409T080000
+DTEND:20260409T093500
+SUMMARY:TeAn (L)
+LOCATION:31 54E 44 54E
+DESCRIPTION:Technika analogowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T095000
+DTEND:20260409T112500
+SUMMARY:TeAn (L)
+LOCATION:31 54E 44 54E
+DESCRIPTION:Technika analogowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260410T080000
 DTEND:20260410T093500
 SUMMARY:- (Inne)
@@ -7550,11 +7578,32 @@ LOCATION:73b S
 DESCRIPTION:Pomiary i analiza biosygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260413T114000
-DTEND:20260413T131500
-SUMMARY:PRo (w)
-LOCATION:73b S
-DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
+DTSTART:20260414T080000
+DTEND:20260414T093500
+SUMMARY:Sze (L)
+LOCATION:058 S
+DESCRIPTION:Systemy zapewnienia energii - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T095000
+DTEND:20260414T112500
+SUMMARY:Sze (L)
+LOCATION:058 S
+DESCRIPTION:Systemy zapewnienia energii - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T114000
+DTEND:20260414T131500
+SUMMARY:PrSt (L)
+LOCATION:116 61
+DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T133000
+DTEND:20260414T150500
+SUMMARY:PrSt (L)
+LOCATION:116 61
+DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/13\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T080000
@@ -7569,6 +7618,20 @@ DTEND:20260415T112500
 SUMMARY:TC (w)
 LOCATION:120 45
 DESCRIPTION:Technika cyfrowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T080000
+DTEND:20260416T093500
+SUMMARY:Piab (L)
+LOCATION:86 S
+DESCRIPTION:Pomiary i analiza biosygnałów - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T095000
+DTEND:20260416T112500
+SUMMARY:Piab (L)
+LOCATION:86 S
+DESCRIPTION:Pomiary i analiza biosygnałów - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T080000
@@ -7634,11 +7697,25 @@ LOCATION:73b S
 DESCRIPTION:Pomiary i analiza biosygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260421T080000
+DTEND:20260421T093500
+SUMMARY:TeAn (L)
+LOCATION:31 54E 44 54E
+DESCRIPTION:Technika analogowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T095000
+DTEND:20260421T112500
+SUMMARY:TeAn (L)
+LOCATION:31 54E 44 54E
+DESCRIPTION:Technika analogowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260422T080000
 DTEND:20260422T093500
 SUMMARY:PRo (w)
 LOCATION:73b S
-DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T095000
@@ -7646,6 +7723,34 @@ DTEND:20260422T112500
 SUMMARY:TC (w)
 LOCATION:120 45
 DESCRIPTION:Technika cyfrowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T114000
+DTEND:20260422T131500
+SUMMARY:PrSt (L)
+LOCATION:116 61
+DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T133000
+DTEND:20260422T150500
+SUMMARY:PrSt (L)
+LOCATION:116 61
+DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T080000
+DTEND:20260423T093500
+SUMMARY:PRo (L)
+LOCATION:66 S
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T095000
+DTEND:20260423T112500
+SUMMARY:PRo (L)
+LOCATION:66 S
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260424T080000
@@ -7697,6 +7802,62 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 494/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260427T114000
+DTEND:20260427T131500
+SUMMARY:PrSt (L)
+LOCATION:116 61
+DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T133000
+DTEND:20260427T150500
+SUMMARY:PrSt (L)
+LOCATION:116 61
+DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260428T080000
+DTEND:20260428T093500
+SUMMARY:Sze (L)
+LOCATION:058 S
+DESCRIPTION:Systemy zapewnienia energii - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260428T095000
+DTEND:20260428T112500
+SUMMARY:Sze (L)
+LOCATION:058 S
+DESCRIPTION:Systemy zapewnienia energii - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T080000
+DTEND:20260429T093500
+SUMMARY:TeMi (L)
+LOCATION:40 54E
+DESCRIPTION:Termografia mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T095000
+DTEND:20260429T112500
+SUMMARY:TeMi (L)
+LOCATION:40 54E
+DESCRIPTION:Termografia mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T080000
+DTEND:20260430T093500
+SUMMARY:SsO (L)
+LOCATION:11 70 10 70
+DESCRIPTION:Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T095000
+DTEND:20260430T112500
+SUMMARY:SsO (L)
+LOCATION:11 70 10 70
+DESCRIPTION:Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260501T080000
 DTEND:20260501T093500
 SUMMARY:- (Inne)
@@ -7744,6 +7905,62 @@ DTEND:20260501T211500
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 501/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T080000
+DTEND:20260505T093500
+SUMMARY:PrSt (L)
+LOCATION:116 61
+DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T095000
+DTEND:20260505T112500
+SUMMARY:PrSt (L)
+LOCATION:116 61
+DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T114000
+DTEND:20260505T131500
+SUMMARY:TeAn (L)
+LOCATION:31 54E 44 54E
+DESCRIPTION:Technika analogowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T133000
+DTEND:20260505T150500
+SUMMARY:TeAn (L)
+LOCATION:31 54E 44 54E
+DESCRIPTION:Technika analogowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T114000
+DTEND:20260506T131500
+SUMMARY:TC (L)
+LOCATION:19 45
+DESCRIPTION:Technika cyfrowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T133000
+DTEND:20260506T150500
+SUMMARY:TC (L)
+LOCATION:19 45
+DESCRIPTION:Technika cyfrowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260507T080000
+DTEND:20260507T093500
+SUMMARY:SsO (L)
+LOCATION:11 70 10 70
+DESCRIPTION:Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260507T095000
+DTEND:20260507T112500
+SUMMARY:SsO (L)
+LOCATION:11 70 10 70
+DESCRIPTION:Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260508T080000
@@ -7795,6 +8012,104 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 508/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260511T080000
+DTEND:20260511T093500
+SUMMARY:Eam (L)
+LOCATION:16 45
+DESCRIPTION:Elektroniczna aparatura medyczna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T095000
+DTEND:20260511T112500
+SUMMARY:Eam (L)
+LOCATION:16 45
+DESCRIPTION:Elektroniczna aparatura medyczna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T114000
+DTEND:20260511T131500
+SUMMARY:PrSt (L)
+LOCATION:116 61
+DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T133000
+DTEND:20260511T150500
+SUMMARY:PrSt (L)
+LOCATION:116 61
+DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260512T080000
+DTEND:20260512T093500
+SUMMARY:PRo (L)
+LOCATION:66 S
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260512T095000
+DTEND:20260512T112500
+SUMMARY:PRo (L)
+LOCATION:66 S
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260512T114000
+DTEND:20260512T131500
+SUMMARY:ToiS (L)
+LOCATION:30a 54E 31 54
+DESCRIPTION:Technika obliczeniowa i symulacyjna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260512T133000
+DTEND:20260512T150500
+SUMMARY:ToiS (L)
+LOCATION:30a 54E 31 54
+DESCRIPTION:Technika obliczeniowa i symulacyjna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T080000
+DTEND:20260513T093500
+SUMMARY:TC (L)
+LOCATION:19 45
+DESCRIPTION:Technika cyfrowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T095000
+DTEND:20260513T112500
+SUMMARY:TC (L)
+LOCATION:19 45
+DESCRIPTION:Technika cyfrowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260514T080000
+DTEND:20260514T093500
+SUMMARY:Piab (L)
+LOCATION:30a 54E 31 54
+DESCRIPTION:Pomiary i analiza biosygnałów - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260514T095000
+DTEND:20260514T112500
+SUMMARY:Piab (L)
+LOCATION:30a 54E 31 54
+DESCRIPTION:Pomiary i analiza biosygnałów - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260514T114000
+DTEND:20260514T131500
+SUMMARY:SsO (L)
+LOCATION:11 70 10 70
+DESCRIPTION:Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260514T133000
+DTEND:20260514T150500
+SUMMARY:SsO (L)
+LOCATION:11 70 10 70
+DESCRIPTION:Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260515T080000
 DTEND:20260515T093500
 SUMMARY:- (Inne)
@@ -7842,6 +8157,48 @@ DTEND:20260515T211500
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 515/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T080000
+DTEND:20260520T093500
+SUMMARY:TeMi (L)
+LOCATION:40 54E
+DESCRIPTION:Termografia mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T095000
+DTEND:20260520T112500
+SUMMARY:TeMi (L)
+LOCATION:40 54E
+DESCRIPTION:Termografia mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T080000
+DTEND:20260521T093500
+SUMMARY:ToiS (L)
+LOCATION:30a 54E 31 54
+DESCRIPTION:Technika obliczeniowa i symulacyjna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T095000
+DTEND:20260521T112500
+SUMMARY:ToiS (L)
+LOCATION:30a 54E 31 54
+DESCRIPTION:Technika obliczeniowa i symulacyjna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T114000
+DTEND:20260521T131500
+SUMMARY:PRo (L)
+LOCATION:66 S
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T133000
+DTEND:20260521T150500
+SUMMARY:PRo (L)
+LOCATION:66 S
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T080000
@@ -7893,6 +8250,97 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 522/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260525T080000
+DTEND:20260525T093500
+SUMMARY:Sze (L)
+LOCATION:058 S
+DESCRIPTION:Systemy zapewnienia energii - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T095000
+DTEND:20260525T112500
+SUMMARY:Sze (L)
+LOCATION:058 S
+DESCRIPTION:Systemy zapewnienia energii - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T114000
+DTEND:20260525T131500
+SUMMARY:PrSt (L)
+LOCATION:116 61
+DESCRIPTION:Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/13\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T080000
+DTEND:20260526T093500
+SUMMARY:PRo (L)
+LOCATION:66 S
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T095000
+DTEND:20260526T112500
+SUMMARY:PRo (L)
+LOCATION:66 S
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T114000
+DTEND:20260526T131500
+SUMMARY:TeAn (L)
+LOCATION:31 54E 44 54E
+DESCRIPTION:Technika analogowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260526T133000
+DTEND:20260526T150500
+SUMMARY:TeAn (L)
+LOCATION:31 54E 44 54E
+DESCRIPTION:Technika analogowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T080000
+DTEND:20260527T093500
+SUMMARY:TC (L)
+LOCATION:205 45
+DESCRIPTION:Technika cyfrowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T095000
+DTEND:20260527T112500
+SUMMARY:TC (L)
+LOCATION:205 45
+DESCRIPTION:Technika cyfrowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T114000
+DTEND:20260527T131500
+SUMMARY:Eam (L)
+LOCATION:16 45
+DESCRIPTION:Elektroniczna aparatura medyczna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T133000
+DTEND:20260527T150500
+SUMMARY:Eam (L)
+LOCATION:16 45
+DESCRIPTION:Elektroniczna aparatura medyczna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T080000
+DTEND:20260528T093500
+SUMMARY:Piab (L)
+LOCATION:032d S
+DESCRIPTION:Pomiary i analiza biosygnałów - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T095000
+DTEND:20260528T112500
+SUMMARY:Piab (L)
+LOCATION:032d S
+DESCRIPTION:Pomiary i analiza biosygnałów - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260529T080000
 DTEND:20260529T093500
 SUMMARY:- (Inne)
@@ -7940,6 +8388,69 @@ DTEND:20260529T211500
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 529/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T114000
+DTEND:20260601T131500
+SUMMARY:PrSt (P)
+LOCATION:116 61
+DESCRIPTION:Programowanie strukturalne - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 1/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T133000
+DTEND:20260601T150500
+SUMMARY:PrSt (P)
+LOCATION:116 61
+DESCRIPTION:Programowanie strukturalne - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T160000
+DTEND:20260601T173500
+SUMMARY:PrSt (P)
+LOCATION:116 61
+DESCRIPTION:Programowanie strukturalne - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T080000
+DTEND:20260602T093500
+SUMMARY:Sze (L)
+LOCATION:058 S
+DESCRIPTION:Systemy zapewnienia energii - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T095000
+DTEND:20260602T112500
+SUMMARY:Sze (L)
+LOCATION:058 S
+DESCRIPTION:Systemy zapewnienia energii - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T080000
+DTEND:20260603T093500
+SUMMARY:TC (L)
+LOCATION:205 45
+DESCRIPTION:Technika cyfrowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T095000
+DTEND:20260603T112500
+SUMMARY:TC (L)
+LOCATION:205 45
+DESCRIPTION:Technika cyfrowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T114000
+DTEND:20260603T131500
+SUMMARY:Eam (L)
+LOCATION:16 45
+DESCRIPTION:Elektroniczna aparatura medyczna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T133000
+DTEND:20260603T150500
+SUMMARY:Eam (L)
+LOCATION:16 45
+DESCRIPTION:Elektroniczna aparatura medyczna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260605T080000
@@ -7991,6 +8502,27 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 536/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260609T080000
+DTEND:20260609T093500
+SUMMARY:ToiS (L)
+LOCATION:30a 54E 31 54
+DESCRIPTION:Technika obliczeniowa i symulacyjna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260609T095000
+DTEND:20260609T112500
+SUMMARY:ToiS (L)
+LOCATION:30a 54E 31 54
+DESCRIPTION:Technika obliczeniowa i symulacyjna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260609T114000
+DTEND:20260609T131500
+SUMMARY:PRo (w)
+LOCATION:315b S
+DESCRIPTION:Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260612T080000
 DTEND:20260612T093500
 SUMMARY:- (Inne)
@@ -8038,6 +8570,20 @@ DTEND:20260612T211500
 SUMMARY:- (Inne)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 543/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T080000
+DTEND:20260616T093500
+SUMMARY:ToiS (L)
+LOCATION:30a 54E 31 54
+DESCRIPTION:Technika obliczeniowa i symulacyjna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T095000
+DTEND:20260616T112500
+SUMMARY:ToiS (L)
+LOCATION:30a 54E 31 54
+DESCRIPTION:Technika obliczeniowa i symulacyjna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T080000

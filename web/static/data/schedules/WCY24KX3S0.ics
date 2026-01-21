@@ -4619,9 +4619,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260217T095000
 DTEND:20260217T112500
-SUMMARY:F1 (Inne)
+SUMMARY:FII (Inne)
 LOCATION:46 63
-DESCRIPTION:Fizyka 1 - (Zaliczenie poprawkowe III) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -
+DESCRIPTION:Fizyka II - (Zaliczenie poprawkowe III) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T114000
+DTEND:20260217T131500
+SUMMARY:Sm (Inne)
+LOCATION:218 65
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260218T114000
@@ -4635,7 +4642,7 @@ DTSTART:20260218T133000
 DTEND:20260218T150500
 SUMMARY:Sm (Inne)
 LOCATION:314 S
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Justyna Kurkowiak
+DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260219T114000
@@ -4650,13 +4657,6 @@ DTEND:20260219T150500
 SUMMARY:ppk (Inne)
 LOCATION:317 S
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: dr inż. Jan Chudzikiewicz
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260220T095000
-DTEND:20260220T112500
-SUMMARY:Sm (Inne)
-LOCATION:219 65
-DESCRIPTION:Statystyka matematyczna\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Justyna Kurkowiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T114000
