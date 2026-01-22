@@ -2461,6 +2461,20 @@ LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260302T095000
+DTEND:20260302T112500
+SUMMARY:Tpi (w)
+LOCATION:314 S
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260302T133000
+DTEND:20260302T150500
+SUMMARY:Amt (w)
+LOCATION:314 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr Jan Nawrocki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T080000
 DTEND:20260303T093500
 SUMMARY:WF (ć)
@@ -2489,11 +2503,25 @@ LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260304T080000
+DTEND:20260304T093500
+SUMMARY:Rp (w)
+LOCATION:314 S
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260304T114000
 DTEND:20260304T131500
 SUMMARY:DSiSM (w)
 LOCATION:AW 3/043
 DESCRIPTION:Działalność szkoleniowa i szkoleniowo-metodyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T133000
+DTEND:20260304T150500
+SUMMARY:Amt (w)
+LOCATION:314 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr Jan Nawrocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T080000
@@ -2587,6 +2615,13 @@ LOCATION:313 S
 DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260309T160000
+DTEND:20260309T173500
+SUMMARY:Tpi (w)
+LOCATION:314 S
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260310T080000
 DTEND:20260310T093500
 SUMMARY:WF (ć)
@@ -2613,6 +2648,20 @@ DTEND:20260310T150500
 SUMMARY:Md2 (w)
 LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260310T160000
+DTEND:20260310T173500
+SUMMARY:Amt (w)
+LOCATION:314 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr Jan Nawrocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260311T160000
+DTEND:20260311T173500
+SUMMARY:Rp (w)
+LOCATION:314 S
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T080000
@@ -2720,6 +2769,13 @@ LOCATION:315 S
 DESCRIPTION:System łączności i środki dowodzenia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260316T160000
+DTEND:20260316T173500
+SUMMARY:Tpi (w)
+LOCATION:314 S
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260317T080000
 DTEND:20260317T093500
 SUMMARY:ZLDT-1 (w)
@@ -2748,11 +2804,25 @@ LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260318T080000
+DTEND:20260318T093500
+SUMMARY:Rp (w)
+LOCATION:314 S
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 3/9\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260318T095000
 DTEND:20260318T112500
 SUMMARY:F1 (L)
 LOCATION:141 S 139 S
 DESCRIPTION:Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T133000
+DTEND:20260318T150500
+SUMMARY:Amt (w)
+LOCATION:314 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr Jan Nawrocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T080000
@@ -2832,6 +2902,13 @@ LOCATION:314 S
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4/14\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260323T160000
+DTEND:20260323T173500
+SUMMARY:Tpi (w)
+LOCATION:314 S
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260324T080000
 DTEND:20260324T093500
 SUMMARY:SŁiŚD (w)
@@ -2860,6 +2937,13 @@ LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260324T160000
+DTEND:20260324T173500
+SUMMARY:Amt (w)
+LOCATION:314 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr Jan Nawrocki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260325T095000
 DTEND:20260325T112500
 SUMMARY:F1 (ć)
@@ -2872,6 +2956,13 @@ DTEND:20260325T150500
 SUMMARY:PTk (w)
 LOCATION:314 S
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5/14\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T160000
+DTEND:20260325T173500
+SUMMARY:Rp (w)
+LOCATION:314 S
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 4/9\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T080000
@@ -2951,6 +3042,13 @@ LOCATION:314 S
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 6/14\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260330T160000
+DTEND:20260330T173500
+SUMMARY:Tpi (w)
+LOCATION:314 S
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260331T080000
 DTEND:20260331T093500
 SUMMARY:WF (ć)
@@ -2970,6 +3068,20 @@ DTEND:20260331T131500
 SUMMARY:F1 (w)
 LOCATION:aF S
 DESCRIPTION:Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/20\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260331T160000
+DTEND:20260331T173500
+SUMMARY:Amt (w)
+LOCATION:314 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr Jan Nawrocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T160000
+DTEND:20260401T173500
+SUMMARY:Rp (w)
+LOCATION:314 S
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 5/9\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260402T080000
@@ -3019,6 +3131,13 @@ DTEND:20260402T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 47/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T160000
+DTEND:20260408T173500
+SUMMARY:Rp (w)
+LOCATION:314 S
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T095000
@@ -3098,6 +3217,13 @@ LOCATION:314 S
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 7/14\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260413T160000
+DTEND:20260413T173500
+SUMMARY:Tpi (w)
+LOCATION:314 S
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Kazimierz Worwa
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260414T080000
 DTEND:20260414T093500
 SUMMARY:WF (ć)
@@ -3124,6 +3250,20 @@ DTEND:20260414T150500
 SUMMARY:Md2 (w)
 LOCATION:314 S
 DESCRIPTION:Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T160000
+DTEND:20260414T173500
+SUMMARY:Amt (w)
+LOCATION:314 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr Jan Nawrocki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T160000
+DTEND:20260415T173500
+SUMMARY:Rp (w)
+LOCATION:314 S
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260416T080000
@@ -3208,6 +3348,13 @@ DTEND:20260420T150500
 SUMMARY:PTk (w)
 LOCATION:314 S
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 8/14\nProwadzący: dr inż. Krzysztof Murawski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260420T160000
+DTEND:20260420T173500
+SUMMARY:Amt (w)
+LOCATION:314 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr Jan Nawrocki
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T080000
@@ -3385,6 +3532,13 @@ LOCATION:314 S
 DESCRIPTION:Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Rafał Kasprzyk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260429T133000
+DTEND:20260429T150500
+SUMMARY:Rp (w)
+LOCATION:314 S
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący: dr hab. inż. Arkadiusz Orłowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260430T080000
 DTEND:20260430T093500
 SUMMARY:ZLDT-1 (w)
@@ -3560,6 +3714,13 @@ LOCATION:314 S
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 10/14\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260511T160000
+DTEND:20260511T173500
+SUMMARY:Amt (w)
+LOCATION:314 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr Jan Nawrocki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260512T080000
 DTEND:20260512T093500
 SUMMARY:WF (ć)
@@ -3679,6 +3840,13 @@ LOCATION:314 S
 DESCRIPTION:Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 12/14\nProwadzący: dr inż. Krzysztof Murawski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260518T160000
+DTEND:20260518T173500
+SUMMARY:Amt (w)
+LOCATION:314 S
+DESCRIPTION:Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr Jan Nawrocki
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260519T080000
 DTEND:20260519T093500
 SUMMARY:WF (ć)
@@ -3726,6 +3894,13 @@ DTEND:20260520T112500
 SUMMARY:F1 (ć)
 LOCATION:204 65
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T133000
+DTEND:20260520T150500
+SUMMARY:Rp (w)
+LOCATION:314 S
+DESCRIPTION:Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący: dr hab. inż. Arkadiusz Orłowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T080000
@@ -4069,6 +4244,13 @@ DTEND:20260617T112500
 SUMMARY:F1 (ć)
 LOCATION:204 65
 DESCRIPTION:Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/15\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260617T114000
+DTEND:20260617T131500
+SUMMARY:Tpi (w)
+LOCATION:314 S
+DESCRIPTION:Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Kazimierz Worwa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T080000

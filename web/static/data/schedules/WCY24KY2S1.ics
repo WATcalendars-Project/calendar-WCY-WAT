@@ -3595,6 +3595,34 @@ LOCATION:316 S
 DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260216T114000
+DTEND:20260216T131500
+SUMMARY:BD (Inne)
+LOCATION:313 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/4\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260216T133000
+DTEND:20260216T150500
+SUMMARY:BD (Inne)
+LOCATION:313 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 2/4\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260216T160000
+DTEND:20260216T173500
+SUMMARY:BD (Inne)
+LOCATION:313 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 3/4\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260216T175000
+DTEND:20260216T192500
+SUMMARY:BD (Inne)
+LOCATION:313 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 4/4\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260217T080000
 DTEND:20260217T093500
 SUMMARY:Aok (Inne)
@@ -3620,7 +3648,7 @@ DTSTART:20260219T114000
 DTEND:20260219T131500
 SUMMARY:BD (Inne)
 LOCATION:316 S
-DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+DESCRIPTION:Bazy danych\nRodzaj zajęć:  - \nNr zajęć: 5/4\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T114000
@@ -3658,6 +3686,20 @@ LOCATION:314 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260305T133000
+DTEND:20260305T150500
+SUMMARY:Etl (w)
+LOCATION:314 S
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr Robert Dryło
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T080000
+DTEND:20260306T093500
+SUMMARY:Zkst (w)
+LOCATION:313 S
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: mgr inż. Łukasz Dzieł
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260306T095000
 DTEND:20260306T112500
 SUMMARY:IO (w)
@@ -3686,11 +3728,25 @@ LOCATION:307 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Grzegorz Bliźniuk
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260312T095000
+DTEND:20260312T112500
+SUMMARY:Etl (w)
+LOCATION:314 S
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr Robert Dryło
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260312T114000
 DTEND:20260312T131500
 SUMMARY:MM (w)
 LOCATION:314 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T080000
+DTEND:20260313T093500
+SUMMARY:Zkst (w)
+LOCATION:313 S
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260313T095000
@@ -3714,6 +3770,13 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 33/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260318T160000
+DTEND:20260318T173500
+SUMMARY:Etl (w)
+LOCATION:314 S
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr Robert Dryło
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260319T095000
 DTEND:20260319T112500
 SUMMARY:IO (L)
@@ -3735,6 +3798,13 @@ LOCATION:314 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260323T114000
+DTEND:20260323T131500
+SUMMARY:Zkst (w)
+LOCATION:313 S
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: mgr inż. Łukasz Dzieł
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260324T133000
 DTEND:20260324T150500
 SUMMARY:Ja (ć)
@@ -3754,6 +3824,13 @@ DTEND:20260326T150500
 SUMMARY:MM (w)
 LOCATION:314 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260330T114000
+DTEND:20260330T131500
+SUMMARY:Zkst (w)
+LOCATION:313 S
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: mgr inż. Łukasz Dzieł
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T133000
@@ -3798,6 +3875,20 @@ LOCATION:314 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260410T080000
+DTEND:20260410T093500
+SUMMARY:Etl (w)
+LOCATION:314 S
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr Robert Dryło
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T114000
+DTEND:20260413T131500
+SUMMARY:Zkst (w)
+LOCATION:313 S
+DESCRIPTION:Zastosowanie kryptografii w systemach teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: mgr inż. Łukasz Dzieł
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260414T133000
 DTEND:20260414T150500
 SUMMARY:Ja (ć)
@@ -3817,6 +3908,13 @@ DTEND:20260416T150500
 SUMMARY:MM (w)
 LOCATION:314 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T160000
+DTEND:20260416T173500
+SUMMARY:Etl (w)
+LOCATION:314 S
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260417T095000
@@ -3847,6 +3945,13 @@ LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 37/45\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260423T160000
+DTEND:20260423T173500
+SUMMARY:Etl (w)
+LOCATION:314 S
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr Robert Dryło
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260428T133000
 DTEND:20260428T150500
 SUMMARY:Ja (ć)
@@ -3859,6 +3964,13 @@ DTEND:20260428T173500
 SUMMARY:JoM (ć)
 LOCATION:235 K 234 K
 DESCRIPTION:Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 38/45\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T133000
+DTEND:20260430T150500
+SUMMARY:Etl (w)
+LOCATION:314 S
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T133000
@@ -3887,6 +3999,13 @@ DTEND:20260506T131500
 SUMMARY:IO (L)
 LOCATION:228 S
 DESCRIPTION:Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/14\nProwadzący: dr inż. Grzegorz Bliźniuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260507T133000
+DTEND:20260507T150500
+SUMMARY:Etl (w)
+LOCATION:314 S
+DESCRIPTION:Elementy teorii liczb\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr Robert Dryło
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T133000

@@ -4652,6 +4652,27 @@ LOCATION:317 S
 DESCRIPTION:Podstawy podzespołów komputerów\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: dr inż. Jan Chudzikiewicz
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260302T095000
+DTEND:20260302T112500
+SUMMARY:Bpe (w)
+LOCATION:307 S
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260302T114000
+DTEND:20260302T131500
+SUMMARY:BD (w)
+LOCATION:316 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260302T133000
+DTEND:20260302T150500
+SUMMARY:BD (w)
+LOCATION:316 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T080000
 DTEND:20260303T093500
 SUMMARY:PODS.SUR. (ć)
@@ -4736,6 +4757,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 61/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260305T095000
+DTEND:20260305T112500
+SUMMARY:SO (w)
+LOCATION:313 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 1/13\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260305T114000
 DTEND:20260305T131500
 SUMMARY:Ja (ć)
@@ -4755,6 +4783,27 @@ DTEND:20260305T192500
 SUMMARY:TA (w)
 LOCATION:103 K
 DESCRIPTION:TAKTYKA - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T095000
+DTEND:20260306T112500
+SUMMARY:SO (w)
+LOCATION:313 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 2/13\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T114000
+DTEND:20260306T131500
+SUMMARY:Po (w)
+LOCATION:313 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260306T133000
+DTEND:20260306T150500
+SUMMARY:Po (w)
+LOCATION:313 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T080000
@@ -4825,6 +4874,48 @@ DTEND:20260312T150500
 SUMMARY:MM (w)
 LOCATION:307 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T095000
+DTEND:20260313T112500
+SUMMARY:SO (w)
+LOCATION:313 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 3/13\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T114000
+DTEND:20260313T131500
+SUMMARY:Po (w)
+LOCATION:313 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T133000
+DTEND:20260313T150500
+SUMMARY:Po (w)
+LOCATION:313 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T095000
+DTEND:20260316T112500
+SUMMARY:Bpe (w)
+LOCATION:307 S
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T114000
+DTEND:20260316T131500
+SUMMARY:BD (w)
+LOCATION:316 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr hab. inż. Maciej Kiedrowicz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T133000
+DTEND:20260316T150500
+SUMMARY:BD (w)
+LOCATION:316 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr hab. inż. Maciej Kiedrowicz
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260317T080000
@@ -4918,11 +5009,60 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 65/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260319T095000
+DTEND:20260319T112500
+SUMMARY:SO (w)
+LOCATION:313 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 4/13\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260319T114000
 DTEND:20260319T131500
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 66/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T080000
+DTEND:20260320T093500
+SUMMARY:BD (w)
+LOCATION:316 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/4\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T095000
+DTEND:20260320T112500
+SUMMARY:BD (w)
+LOCATION:316 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T114000
+DTEND:20260320T131500
+SUMMARY:BD (w)
+LOCATION:316 S
+DESCRIPTION:Bazy danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/4\nProwadzący: mgr inż. Józef Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T133000
+DTEND:20260320T150500
+SUMMARY:Po (w)
+LOCATION:313 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T160000
+DTEND:20260320T173500
+SUMMARY:Po (w)
+LOCATION:313 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260323T095000
+DTEND:20260323T112500
+SUMMARY:Bpe (w)
+LOCATION:307 S
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T080000
@@ -5009,6 +5149,13 @@ LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 68/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260330T095000
+DTEND:20260330T112500
+SUMMARY:Bpe (w)
+LOCATION:307 S
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: mgr inż. Leszek Kalman
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260331T080000
 DTEND:20260331T093500
 SUMMARY:WF (ć)
@@ -5086,6 +5233,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 69/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260402T095000
+DTEND:20260402T112500
+SUMMARY:SO (w)
+LOCATION:313 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 5/13\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260402T114000
 DTEND:20260402T131500
 SUMMARY:Ja (ć)
@@ -5126,6 +5280,34 @@ DTEND:20260409T131500
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 72/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T095000
+DTEND:20260410T112500
+SUMMARY:SO (w)
+LOCATION:313 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 6/13\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T114000
+DTEND:20260410T131500
+SUMMARY:Po (w)
+LOCATION:313 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T133000
+DTEND:20260410T150500
+SUMMARY:Po (w)
+LOCATION:313 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T095000
+DTEND:20260413T112500
+SUMMARY:Bpe (w)
+LOCATION:307 S
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T080000
@@ -5184,6 +5366,13 @@ LOCATION:308 S
 DESCRIPTION:Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Andrzej Chojnacki
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260415T114000
+DTEND:20260415T131500
+SUMMARY:SO (w)
+LOCATION:313 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 7/13\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260415T133000
 DTEND:20260415T150500
 SUMMARY:Ja (ć)
@@ -5224,6 +5413,20 @@ DTEND:20260417T131500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 75/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260417T133000
+DTEND:20260417T150500
+SUMMARY:Po (w)
+LOCATION:313 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr inż. Adrian Woźniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260420T095000
+DTEND:20260420T112500
+SUMMARY:Bpe (w)
+LOCATION:307 S
+DESCRIPTION:Bezpieczeństwo pracy i ergonomia.\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: mgr inż. Leszek Kalman
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260421T080000
@@ -5287,6 +5490,13 @@ DTEND:20260423T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 77/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T095000
+DTEND:20260423T112500
+SUMMARY:SO (w)
+LOCATION:313 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 8/13\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260423T114000
@@ -5357,6 +5567,13 @@ DTEND:20260430T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 78/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T095000
+DTEND:20260430T112500
+SUMMARY:SO (w)
+LOCATION:313 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 9/13\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T114000
@@ -5436,11 +5653,25 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 79/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260507T095000
+DTEND:20260507T112500
+SUMMARY:SO (w)
+LOCATION:313 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 10/13\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260507T114000
 DTEND:20260507T131500
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 80/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T080000
+DTEND:20260508T093500
+SUMMARY:Po (w)
+LOCATION:313 S
+DESCRIPTION:Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr inż. Adrian Woźniak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260512T080000
@@ -5504,6 +5735,13 @@ DTEND:20260514T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 81/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260514T095000
+DTEND:20260514T112500
+SUMMARY:SO (w)
+LOCATION:313 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 11/13\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260514T114000
@@ -5576,6 +5814,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 83/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260521T095000
+DTEND:20260521T112500
+SUMMARY:SO (w)
+LOCATION:313 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 12/13\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260521T114000
 DTEND:20260521T131500
 SUMMARY:Ja (ć)
@@ -5644,6 +5889,13 @@ DTEND:20260528T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 85/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T095000
+DTEND:20260528T112500
+SUMMARY:SO (w)
+LOCATION:313 S
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 13/13\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T114000

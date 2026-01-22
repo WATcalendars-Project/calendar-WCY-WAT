@@ -340,6 +340,13 @@ LOCATION:316 S
 DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260401T133000
+DTEND:20260401T150500
+SUMMARY:Ek (ć)
+LOCATION:308 S
+DESCRIPTION:Ekonomia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260402T080000
 DTEND:20260402T093500
 SUMMARY:Soc (w)
@@ -522,6 +529,20 @@ LOCATION:218 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: dr Lucjan Kowalski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260429T114000
+DTEND:20260429T131500
+SUMMARY:Tal (L)
+LOCATION:223 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T133000
+DTEND:20260429T150500
+SUMMARY:Ek (ć)
+LOCATION:308 S
+DESCRIPTION:Ekonomia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260430T080000
 DTEND:20260430T093500
 SUMMARY:Soc (w)
@@ -564,11 +585,25 @@ LOCATION:308 S
 DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260504T133000
+DTEND:20260504T150500
+SUMMARY:Tal (P)
+LOCATION:223 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 1/6\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260505T095000
 DTEND:20260505T112500
 SUMMARY:Swp (w)
 LOCATION:308 S
 DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: mgr Jerzy Dorobisz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T133000
+DTEND:20260506T150500
+SUMMARY:Tal (L)
+LOCATION:223 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T095000
@@ -648,18 +683,18 @@ LOCATION:226 S
 DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260519T095000
+DTEND:20260519T112500
+SUMMARY:Tal (P)
+LOCATION:223 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 2/6\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260519T114000
 DTEND:20260519T131500
 SUMMARY:Ps (ć)
 LOCATION:218 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: dr Lucjan Kowalski
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260520T114000
-DTEND:20260520T131500
-SUMMARY:Ek (w)
-LOCATION:316 S
-DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T095000
@@ -704,11 +739,25 @@ LOCATION:226 S
 DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260525T114000
+DTEND:20260525T131500
+SUMMARY:Tal (P)
+LOCATION:223 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 3/6\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260526T114000
 DTEND:20260526T131500
 SUMMARY:Ps (ć)
 LOCATION:218 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T114000
+DTEND:20260527T131500
+SUMMARY:Ek (ć)
+LOCATION:308 S
+DESCRIPTION:Ekonomia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T080000
@@ -746,6 +795,13 @@ LOCATION:226 S
 DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260601T114000
+DTEND:20260601T131500
+SUMMARY:Tal (P)
+LOCATION:223 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 4/6\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260602T114000
 DTEND:20260602T131500
 SUMMARY:Ps (ć)
@@ -765,6 +821,13 @@ DTEND:20260608T112500
 SUMMARY:Msk. (L)
 LOCATION:226 S
 DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/6\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260608T114000
+DTEND:20260608T131500
+SUMMARY:Tal (P)
+LOCATION:223 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 5/6\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260609T114000
@@ -821,6 +884,20 @@ DTEND:20260615T112500
 SUMMARY:Msk. (L)
 LOCATION:226 S
 DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/6\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260615T114000
+DTEND:20260615T131500
+SUMMARY:Tal (P)
+LOCATION:223 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 6/6\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T095000
+DTEND:20260616T112500
+SUMMARY:Ek (w)
+LOCATION:316 S
+DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T114000

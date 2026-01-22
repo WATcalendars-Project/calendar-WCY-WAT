@@ -4540,13 +4540,6 @@ LOCATION:134 K 133 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 60/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260128T160000
-DTEND:20260128T173500
-SUMMARY:AsU (Inne)
-LOCATION:237 S
-DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Sławomir Machowski
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260128T194000
 DTEND:20260128T211500
 SUMMARY:WF (w)
@@ -4587,6 +4580,13 @@ DTEND:20260131T093500
 SUMMARY:XWF (ć)
 LOCATION:-
 DESCRIPTION:XWychowanie fizyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28/28\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260202T080000
+DTEND:20260202T093500
+SUMMARY:AsU (Inne)
+LOCATION:011 65
+DESCRIPTION:Administrowanie systemem operacyjnym Unix\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Sławomir Machowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260205T080000

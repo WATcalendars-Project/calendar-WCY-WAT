@@ -1635,6 +1635,13 @@ LOCATION:309 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/17\nProwadzący: mgr inż. Alicja Kida
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260202T114000
+DTEND:20260202T131500
+SUMMARY:Mat I (Inne)
+LOCATION:317 S
+DESCRIPTION:Matematyka I\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Alicja Kida
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260203T095000
 DTEND:20260203T112500
 SUMMARY:Mat I (E)
@@ -1647,6 +1654,13 @@ DTEND:20260203T131500
 SUMMARY:Mat I (E)
 LOCATION:314 S 316 S
 DESCRIPTION:Matematyka I\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260205T095000
+DTEND:20260205T112500
+SUMMARY:M II (Inne)
+LOCATION:314 S
+DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Alicja Kida
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260206T095000
@@ -1663,18 +1677,32 @@ LOCATION:309 S 314 S
 DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260216T095000
+DTEND:20260216T112500
+SUMMARY:Mat I (Inne)
+LOCATION:317 S
+DESCRIPTION:Matematyka I\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Alicja Kida
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260217T095000
 DTEND:20260217T112500
 SUMMARY:Mat I (Inne)
 LOCATION:313 S
-DESCRIPTION:Matematyka I\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka I\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr Arkadiusz Szymaniec
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T095000
+DTEND:20260219T112500
+SUMMARY:M II (Inne)
+LOCATION:308 S
+DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Alicja Kida
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T095000
 DTEND:20260220T112500
 SUMMARY:M II (Inne)
 LOCATION:316 S
-DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Arkadiusz Szymaniec
+DESCRIPTION:Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr Arkadiusz Szymaniec
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260220T114000

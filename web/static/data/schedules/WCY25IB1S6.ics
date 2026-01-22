@@ -3077,13 +3077,6 @@ LOCATION:aula/ 135
 DESCRIPTION:Przywództwo w dowodzeniu - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260127T095000
-DTEND:20260127T112500
-SUMMARY:SO (w)
-LOCATION:205 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 10/14\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260127T114000
 DTEND:20260127T131500
 SUMMARY:NiBSI (w)
@@ -3144,7 +3137,7 @@ DTSTART:20260129T095000
 DTEND:20260129T112500
 SUMMARY:SO (w)
 LOCATION:203 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 11/14\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 10/14\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T114000
@@ -3487,7 +3480,7 @@ DTSTART:20260213T114000
 DTEND:20260213T131500
 SUMMARY:SO (w)
 LOCATION:101 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 12/14\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 11/14\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T080000
@@ -3690,7 +3683,7 @@ DTSTART:20260224T080000
 DTEND:20260224T093500
 SUMMARY:SO (w)
 LOCATION:101 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 13/14\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 12/14\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260224T095000
@@ -3704,7 +3697,7 @@ DTSTART:20260224T114000
 DTEND:20260224T131500
 SUMMARY:SO (w)
 LOCATION:101 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 14/14\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 13/14\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260224T133000
@@ -3803,6 +3796,13 @@ DTEND:20260227T150500
 SUMMARY:NiBSI (w)
 LOCATION:307 S
 DESCRIPTION:Niezawodność i bezpieczeństwo systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/4\nProwadzący: dr inż. Jerzy Stanik
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260227T160000
+DTEND:20260227T173500
+SUMMARY:SO (w)
+LOCATION:205 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 14/14\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T080000

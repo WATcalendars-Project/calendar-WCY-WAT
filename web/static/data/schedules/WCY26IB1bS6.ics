@@ -319,13 +319,6 @@ LOCATION:46 63
 DESCRIPTION:Podstawy eksploatacji sprzętu wojskowego (SpW) - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260123T133000
-DTEND:20260123T150500
-SUMMARY:SO (w)
-LOCATION:203 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260126T080000
 DTEND:20260126T093500
 SUMMARY:SŁiŚD (w)
@@ -345,13 +338,6 @@ DTEND:20260126T173500
 SUMMARY:ZINŻ (w)
 LOCATION:103 K
 DESCRIPTION:Zabezpieczenie inżynieryjne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260127T080000
-DTEND:20260127T093500
-SUMMARY:SO (w)
-LOCATION:203 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T095000
@@ -519,7 +505,7 @@ DTSTART:20260203T095000
 DTEND:20260203T112500
 SUMMARY:SO (w)
 LOCATION:203 65
-DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: mgr inż. Łukasz Mielniczuk
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260203T114000
@@ -760,6 +746,13 @@ LOCATION:114 57
 DESCRIPTION:Topografia wojskowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260212T080000
+DTEND:20260212T093500
+SUMMARY:SO (w)
+LOCATION:203 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260212T095000
 DTEND:20260212T112500
 SUMMARY:PKSt (ć)
@@ -828,6 +821,13 @@ DTEND:20260213T192500
 SUMMARY:TW (ć)
 LOCATION:114 57
 DESCRIPTION:Topografia wojskowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260216T080000
+DTEND:20260216T093500
+SUMMARY:SO (w)
+LOCATION:203 65
+DESCRIPTION:Systemy Operacyjne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T095000
@@ -2034,6 +2034,20 @@ LOCATION:224 S
 DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Józef Woźniak
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260401T114000
+DTEND:20260401T131500
+SUMMARY:Sck (L)
+LOCATION:120 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/12\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T133000
+DTEND:20260401T150500
+SUMMARY:Sck (L)
+LOCATION:120 65
+DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący: mgr inż. Łukasz Mielniczuk
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260402T080000
 DTEND:20260402T093500
 SUMMARY:Pwd (ć)
@@ -2102,20 +2116,6 @@ DTEND:20260403T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 29/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260406T080000
-DTEND:20260406T093500
-SUMMARY:Sck (L)
-LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/12\nProwadzący: mgr inż. Łukasz Mielniczuk
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260406T095000
-DTEND:20260406T112500
-SUMMARY:Sck (L)
-LOCATION:120 65
-DESCRIPTION:Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący: mgr inż. Łukasz Mielniczuk
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260407T080000

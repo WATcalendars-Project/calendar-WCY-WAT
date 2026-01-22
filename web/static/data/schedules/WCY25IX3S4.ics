@@ -494,6 +494,13 @@ LOCATION:308 S
 DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260428T133000
+DTEND:20260428T150500
+SUMMARY:Tal (L)
+LOCATION:223 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260430T080000
 DTEND:20260430T093500
 SUMMARY:Soc (w)
@@ -557,6 +564,20 @@ LOCATION:106 65
 DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNr zajęć: 4/4\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260506T095000
+DTEND:20260506T112500
+SUMMARY:Ek (ć)
+LOCATION:308 S
+DESCRIPTION:Ekonomia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T160000
+DTEND:20260506T173500
+SUMMARY:Tal (L)
+LOCATION:223 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260507T095000
 DTEND:20260507T112500
 SUMMARY:Ja (ć)
@@ -569,6 +590,13 @@ DTEND:20260507T131500
 SUMMARY:Ps (ć)
 LOCATION:218 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260507T133000
+DTEND:20260507T150500
+SUMMARY:Tal (P)
+LOCATION:223 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 1/6\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T080000
@@ -592,6 +620,13 @@ LOCATION:226 S
 DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260513T114000
+DTEND:20260513T131500
+SUMMARY:Ek (ć)
+LOCATION:308 S
+DESCRIPTION:Ekonomia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260514T080000
 DTEND:20260514T093500
 SUMMARY:Soc (w)
@@ -613,6 +648,13 @@ LOCATION:218 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr Lucjan Kowalski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260514T133000
+DTEND:20260514T150500
+SUMMARY:Tal (P)
+LOCATION:223 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 2/6\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260518T080000
 DTEND:20260518T093500
 SUMMARY:Msk. (w)
@@ -627,13 +669,6 @@ LOCATION:226 S
 DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260520T114000
-DTEND:20260520T131500
-SUMMARY:Ek (w)
-LOCATION:316 S
-DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260521T095000
 DTEND:20260521T112500
 SUMMARY:Ja (ć)
@@ -646,6 +681,13 @@ DTEND:20260521T131500
 SUMMARY:Ps (ć)
 LOCATION:218 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T133000
+DTEND:20260521T150500
+SUMMARY:Tal (P)
+LOCATION:223 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 3/6\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260522T080000
@@ -669,6 +711,20 @@ LOCATION:226 S
 DESCRIPTION:Metody i techniki symulacji komputerowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr inż. Tomasz Gutowski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260526T095000
+DTEND:20260526T112500
+SUMMARY:Tal (P)
+LOCATION:223 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 4/6\nProwadzący: mgr inż. Piotr Stąpor
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T133000
+DTEND:20260527T150500
+SUMMARY:Ek (ć)
+LOCATION:308 S
+DESCRIPTION:Ekonomia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260528T080000
 DTEND:20260528T093500
 SUMMARY:Soc (w)
@@ -688,6 +744,13 @@ DTEND:20260528T131500
 SUMMARY:Ps (ć)
 LOCATION:218 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260602T095000
+DTEND:20260602T112500
+SUMMARY:Tal (P)
+LOCATION:223 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 5/6\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T114000
@@ -716,6 +779,20 @@ DTEND:20260611T131500
 SUMMARY:Ps (ć)
 LOCATION:218 65
 DESCRIPTION:Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr Lucjan Kowalski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T095000
+DTEND:20260616T112500
+SUMMARY:Ek (w)
+LOCATION:316 S
+DESCRIPTION:Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T114000
+DTEND:20260616T131500
+SUMMARY:Tal (P)
+LOCATION:223 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Projekt\nNr zajęć: 6/6\nProwadzący: mgr inż. Piotr Stąpor
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T080000

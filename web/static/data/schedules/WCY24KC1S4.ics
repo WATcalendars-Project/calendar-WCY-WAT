@@ -1236,6 +1236,20 @@ LOCATION:201 65
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260303T114000
+DTEND:20260303T131500
+SUMMARY:IRz (w)
+LOCATION:101 65
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260310T095000
+DTEND:20260310T112500
+SUMMARY:IRz (w)
+LOCATION:201 65
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260310T114000
 DTEND:20260310T131500
 SUMMARY:TCT (w)
@@ -1248,6 +1262,34 @@ DTEND:20260310T150500
 SUMMARY:TCT (w)
 LOCATION:101 65
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260311T095000
+DTEND:20260311T112500
+SUMMARY:IRz (w)
+LOCATION:101 65
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260311T114000
+DTEND:20260311T131500
+SUMMARY:Wcy (w)
+LOCATION:101 65
+DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260311T133000
+DTEND:20260311T150500
+SUMMARY:Wcy (w)
+LOCATION:101 65
+DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260312T095000
+DTEND:20260312T112500
+SUMMARY:IRz (P)
+LOCATION:106 65
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Projekt\nNr zajęć: 1/7\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T114000
@@ -1264,6 +1306,62 @@ LOCATION:201 65
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260318T095000
+DTEND:20260318T112500
+SUMMARY:IRz (w)
+LOCATION:101 65
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T114000
+DTEND:20260318T131500
+SUMMARY:Wcy (w)
+LOCATION:101 65
+DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T133000
+DTEND:20260318T150500
+SUMMARY:Wcy (w)
+LOCATION:101 65
+DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T114000
+DTEND:20260319T131500
+SUMMARY:IRz (w)
+LOCATION:101 65
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T133000
+DTEND:20260319T150500
+SUMMARY:Wcy (L)
+LOCATION:011 65
+DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T160000
+DTEND:20260319T173500
+SUMMARY:Wcy (L)
+LOCATION:011 65
+DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T095000
+DTEND:20260325T112500
+SUMMARY:IRz (w)
+LOCATION:101 65
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T114000
+DTEND:20260325T131500
+SUMMARY:IRz (P)
+LOCATION:106 65
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Projekt\nNr zajęć: 2/7\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260325T133000
 DTEND:20260325T150500
 SUMMARY:TCT (w)
@@ -1276,6 +1374,13 @@ DTEND:20260325T173500
 SUMMARY:TCT (w)
 LOCATION:101 65
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T095000
+DTEND:20260326T112500
+SUMMARY:IRz (P)
+LOCATION:106 65
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Projekt\nNr zajęć: 3/7\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T114000
@@ -1292,6 +1397,20 @@ LOCATION:106 65
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260326T160000
+DTEND:20260326T173500
+SUMMARY:Wcy (L)
+LOCATION:106 65
+DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T175000
+DTEND:20260326T192500
+SUMMARY:Wcy (L)
+LOCATION:106 65
+DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260401T114000
 DTEND:20260401T131500
 SUMMARY:TCT (w)
@@ -1304,6 +1423,83 @@ DTEND:20260401T150500
 SUMMARY:TCT (w)
 LOCATION:101 65
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T114000
+DTEND:20260402T131500
+SUMMARY:IRz (w)
+LOCATION:101 65
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T133000
+DTEND:20260402T150500
+SUMMARY:Wcy (L)
+LOCATION:011 65
+DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T160000
+DTEND:20260402T173500
+SUMMARY:Wcy (L)
+LOCATION:011 65
+DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T114000
+DTEND:20260408T131500
+SUMMARY:IRz (P)
+LOCATION:106 65
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Projekt\nNr zajęć: 4/7\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T133000
+DTEND:20260408T150500
+SUMMARY:IRz (P)
+LOCATION:106 65
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Projekt\nNr zajęć: 5/7\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T160000
+DTEND:20260408T173500
+SUMMARY:Wcy (L)
+LOCATION:011 65
+DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T175000
+DTEND:20260408T192500
+SUMMARY:Wcy (L)
+LOCATION:011 65
+DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T095000
+DTEND:20260409T112500
+SUMMARY:IRz (P)
+LOCATION:106 65
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Projekt\nNr zajęć: 6/7\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T114000
+DTEND:20260409T131500
+SUMMARY:IRz (w)
+LOCATION:101 65
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T133000
+DTEND:20260409T150500
+SUMMARY:Wcy (L)
+LOCATION:011 65
+DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T160000
+DTEND:20260409T173500
+SUMMARY:Wcy (L)
+LOCATION:011 65
+DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T080000
@@ -1325,5 +1521,19 @@ DTEND:20260415T131500
 SUMMARY:TCT (L)
 LOCATION:106 65
 DESCRIPTION:Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T095000
+DTEND:20260416T112500
+SUMMARY:IRz (P)
+LOCATION:106 65
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Projekt\nNr zajęć: 7/7\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T114000
+DTEND:20260416T131500
+SUMMARY:Wcy (w)
+LOCATION:101 65
+DESCRIPTION:Walka w cyberprzestrzeni\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Adam Patkowski
 END:VEVENT
 END:VCALENDAR
