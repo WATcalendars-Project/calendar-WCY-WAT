@@ -4638,6 +4638,20 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 65/89\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260323T095000
+DTEND:20260323T112500
+SUMMARY:MeSK (w)
+LOCATION:314 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260323T114000
+DTEND:20260323T131500
+SUMMARY:MeSK (w)
+LOCATION:314 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Dariusz Pierzchała
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260324T080000
 DTEND:20260324T093500
 SUMMARY:- (S.Sz.W.)
@@ -4687,6 +4701,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 43/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260325T095000
+DTEND:20260325T112500
+SUMMARY:Zt (w)
+LOCATION:313 S
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260325T114000
 DTEND:20260325T131500
 SUMMARY:Ja (ć)
@@ -4706,6 +4727,13 @@ DTEND:20260330T093500
 SUMMARY:Ja (ć)
 LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 68/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260330T095000
+DTEND:20260330T112500
+SUMMARY:MeSK (w)
+LOCATION:314 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Dariusz Pierzchała
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260331T080000
@@ -4757,11 +4785,25 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 49/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260401T095000
+DTEND:20260401T112500
+SUMMARY:Zt (w)
+LOCATION:313 S
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260401T114000
 DTEND:20260401T131500
 SUMMARY:Ja (ć)
 LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 69/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T095000
+DTEND:20260408T112500
+SUMMARY:Zt (w)
+LOCATION:313 S
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T114000
@@ -4839,6 +4881,13 @@ DTEND:20260414T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 55/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T095000
+DTEND:20260415T112500
+SUMMARY:MeSK (w)
+LOCATION:314 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T114000
@@ -4932,6 +4981,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 60/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260422T095000
+DTEND:20260422T112500
+SUMMARY:Zt (w)
+LOCATION:317 S
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260422T114000
 DTEND:20260422T131500
 SUMMARY:Ja (ć)
@@ -4944,6 +5000,13 @@ DTEND:20260427T093500
 SUMMARY:Ja (ć)
 LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 76/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T095000
+DTEND:20260427T112500
+SUMMARY:MeSK (w)
+LOCATION:314 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T080000
@@ -4993,6 +5056,13 @@ DTEND:20260428T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 66/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T095000
+DTEND:20260429T112500
+SUMMARY:Zt (w)
+LOCATION:317 S
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T114000
@@ -5072,6 +5142,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 70/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260506T095000
+DTEND:20260506T112500
+SUMMARY:Zt (w)
+LOCATION:317 S
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260506T114000
 DTEND:20260506T131500
 SUMMARY:Ja (ć)
@@ -5140,6 +5217,13 @@ DTEND:20260512T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 74/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T095000
+DTEND:20260513T112500
+SUMMARY:MeSK (w)
+LOCATION:314 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 6/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T114000
@@ -5226,6 +5310,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 80/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260520T095000
+DTEND:20260520T112500
+SUMMARY:Zt (w)
+LOCATION:317 S
+DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260520T114000
 DTEND:20260520T131500
 SUMMARY:Ja (ć)
@@ -5273,6 +5364,13 @@ DTEND:20260525T093500
 SUMMARY:Ja (ć)
 LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 84/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T095000
+DTEND:20260525T112500
+SUMMARY:MeSK (w)
+LOCATION:314 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 7/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T080000
@@ -5483,6 +5581,13 @@ DTEND:20260615T093500
 SUMMARY:Ja (ć)
 LOCATION:239 K 238 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 89/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260615T095000
+DTEND:20260615T112500
+SUMMARY:MeSK (w)
+LOCATION:314 S
+DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 8/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260616T080000
