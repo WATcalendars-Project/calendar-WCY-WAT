@@ -4645,6 +4645,27 @@ LOCATION:128 K 127 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 61/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260303T095000
+DTEND:20260303T112500
+SUMMARY:IRz (w)
+LOCATION:203 65
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T080000
+DTEND:20260304T093500
+SUMMARY:Pwst (w)
+LOCATION:313 S
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T095000
+DTEND:20260304T112500
+SUMMARY:Pwst (w)
+LOCATION:313 S
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260304T114000
 DTEND:20260304T131500
 SUMMARY:Ja (ć)
@@ -4715,6 +4736,13 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 62/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260310T114000
+DTEND:20260310T131500
+SUMMARY:IRz (w)
+LOCATION:203 65
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260311T160000
 DTEND:20260311T173500
 SUMMARY:Ja (ć)
@@ -4778,11 +4806,39 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 42/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260313T133000
+DTEND:20260313T150500
+SUMMARY:Pwst (w)
+LOCATION:316 S
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260313T160000
+DTEND:20260313T173500
+SUMMARY:Pwst (w)
+LOCATION:316 S
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260316T080000
 DTEND:20260316T093500
 SUMMARY:Ja (ć)
 LOCATION:128 K 127 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 66/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T095000
+DTEND:20260316T112500
+SUMMARY:Pwst (w)
+LOCATION:313 S
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/12\nProwadzący: dr inż. Andrzej Stasiak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T114000
+DTEND:20260316T131500
+SUMMARY:Pwst (w)
+LOCATION:313 S
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T133000
@@ -4890,6 +4946,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 14/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260320T114000
+DTEND:20260320T131500
+SUMMARY:Ztel (w)
+LOCATION:203 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260323T080000
 DTEND:20260323T093500
 SUMMARY:Ja (ć)
@@ -4923,6 +4986,20 @@ DTEND:20260325T112500
 SUMMARY:Zt (w)
 LOCATION:313 S
 DESCRIPTION:Zarządzanie sieciami teleinformatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T114000
+DTEND:20260325T131500
+SUMMARY:Ztel (w)
+LOCATION:203 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T133000
+DTEND:20260325T150500
+SUMMARY:IRz (w)
+LOCATION:203 65
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260326T080000
@@ -4993,6 +5070,13 @@ DTEND:20260330T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 67/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T080000
+DTEND:20260401T093500
+SUMMARY:Pwst (w)
+LOCATION:316 S
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T095000
@@ -5142,6 +5226,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 60/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260410T095000
+DTEND:20260410T112500
+SUMMARY:Ztel (w)
+LOCATION:203 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260410T114000
+DTEND:20260410T131500
+SUMMARY:IRz (w)
+LOCATION:203 65
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260413T080000
 DTEND:20260413T093500
 SUMMARY:Ja (ć)
@@ -5161,6 +5259,20 @@ DTEND:20260413T173500
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 72/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T095000
+DTEND:20260414T112500
+SUMMARY:IRz (w)
+LOCATION:203 65
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T080000
+DTEND:20260415T093500
+SUMMARY:Pwst (w)
+LOCATION:316 S
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 8/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T095000
@@ -5233,6 +5345,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 64/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260417T114000
+DTEND:20260417T131500
+SUMMARY:Ztel (w)
+LOCATION:203 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260420T080000
 DTEND:20260420T093500
 SUMMARY:Ja (ć)
@@ -5240,11 +5359,25 @@ LOCATION:128 K 127 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 74/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260420T114000
+DTEND:20260420T131500
+SUMMARY:Sa. (w)
+LOCATION:317 S
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260420T133000
 DTEND:20260420T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 72/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T095000
+DTEND:20260421T112500
+SUMMARY:IRz (w)
+LOCATION:203 65
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Zbigniew Zielinski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T095000
@@ -5338,11 +5471,32 @@ LOCATION:314 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260427T114000
+DTEND:20260427T131500
+SUMMARY:Dn (ć)
+LOCATION:309 S
+DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260427T133000
 DTEND:20260427T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 74/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260428T095000
+DTEND:20260428T112500
+SUMMARY:IRz (w)
+LOCATION:203 65
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T080000
+DTEND:20260429T093500
+SUMMARY:Pwst (w)
+LOCATION:316 S
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 9/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T095000
@@ -5359,6 +5513,27 @@ LOCATION:127 K 125 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 77/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260429T133000
+DTEND:20260429T150500
+SUMMARY:MPH (ć)
+LOCATION:204 65
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T080000
+DTEND:20260430T093500
+SUMMARY:Sa. (w)
+LOCATION:317 S
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T095000
+DTEND:20260430T112500
+SUMMARY:Sa. (w)
+LOCATION:317 S
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260430T133000
 DTEND:20260430T150500
 SUMMARY:WF (ć)
@@ -5373,11 +5548,39 @@ LOCATION:128 K 127 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 78/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260504T095000
+DTEND:20260504T112500
+SUMMARY:Sa. (w)
+LOCATION:313 S
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260504T114000
+DTEND:20260504T131500
+SUMMARY:Sa. (w)
+LOCATION:313 S
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260504T133000
 DTEND:20260504T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 76/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260505T095000
+DTEND:20260505T112500
+SUMMARY:IRz (w)
+LOCATION:203 65
+DESCRIPTION:Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Zbigniew Zielinski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T080000
+DTEND:20260506T093500
+SUMMARY:Pwst (w)
+LOCATION:316 S
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 10/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260506T095000
@@ -5392,6 +5595,13 @@ DTEND:20260506T131500
 SUMMARY:Ja (ć)
 LOCATION:127 K 125 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 79/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T133000
+DTEND:20260506T150500
+SUMMARY:MPH (ć)
+LOCATION:204 65
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260507T080000
@@ -5443,6 +5653,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 76/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260508T114000
+DTEND:20260508T131500
+SUMMARY:Ztel (w)
+LOCATION:203 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260511T080000
 DTEND:20260511T093500
 SUMMARY:Ja (ć)
@@ -5450,11 +5667,32 @@ LOCATION:128 K 127 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 80/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260511T095000
+DTEND:20260511T112500
+SUMMARY:Sa. (w)
+LOCATION:313 S
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T114000
+DTEND:20260511T131500
+SUMMARY:Sa. (w)
+LOCATION:313 S
+DESCRIPTION:Studium ataków i incydentów\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Adam Patkowski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260511T133000
 DTEND:20260511T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 78/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T080000
+DTEND:20260513T093500
+SUMMARY:Pwst (w)
+LOCATION:316 S
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 11/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T095000
@@ -5527,6 +5765,20 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 81/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260515T114000
+DTEND:20260515T131500
+SUMMARY:Ztel (w)
+LOCATION:203 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Malinowski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T133000
+DTEND:20260515T150500
+SUMMARY:DWiPD (ć)
+LOCATION:204 65
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260518T080000
 DTEND:20260518T093500
 SUMMARY:Ja (ć)
@@ -5569,20 +5821,6 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 82/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260521T095000
-DTEND:20260521T112500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 83/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260521T114000
-DTEND:20260521T131500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 84/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260521T133000
 DTEND:20260521T150500
 SUMMARY:WF (ć)
@@ -5594,21 +5832,28 @@ DTSTART:20260521T160000
 DTEND:20260521T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 85/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 83/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T175000
 DTEND:20260521T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 86/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 84/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T194000
 DTEND:20260521T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 87/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 85/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260522T095000
+DTEND:20260522T112500
+SUMMARY:Ztel (w)
+LOCATION:203 65
+DESCRIPTION:Zabezpieczenia teleinformatyczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Tomasz Malinowski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T080000
@@ -5646,6 +5891,20 @@ LOCATION:127 K 125 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 85/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260527T133000
+DTEND:20260527T150500
+SUMMARY:MPH (ć)
+LOCATION:204 65
+DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T160000
+DTEND:20260527T173500
+SUMMARY:DWiPD (ć)
+LOCATION:309 S
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260528T080000
 DTEND:20260528T093500
 SUMMARY:SzS (ć)
@@ -5664,7 +5923,7 @@ DTSTART:20260528T114000
 DTEND:20260528T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 88/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 86/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T133000
@@ -5678,21 +5937,21 @@ DTSTART:20260528T160000
 DTEND:20260528T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 89/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 87/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T175000
 DTEND:20260528T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 90/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 88/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260528T194000
 DTEND:20260528T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 91/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 89/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T080000
@@ -5723,6 +5982,13 @@ LOCATION:128 K 127 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 86/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260601T114000
+DTEND:20260601T131500
+SUMMARY:Dn (ć)
+LOCATION:309 S
+DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260601T133000
 DTEND:20260601T150500
 SUMMARY:WF (ć)
@@ -5737,11 +6003,25 @@ LOCATION:128 K 127 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 87/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260608T114000
+DTEND:20260608T131500
+SUMMARY:Dn (ć)
+LOCATION:309 S
+DESCRIPTION:Działania niekinetyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260608T133000
 DTEND:20260608T150500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 88/90\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T080000
+DTEND:20260610T093500
+SUMMARY:DWiPD (ć)
+LOCATION:204 65
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260610T114000
@@ -5758,25 +6038,18 @@ LOCATION:19 36
 DESCRIPTION:Międzynarodowe prawo humanitarne konfliktów zbrojnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260611T080000
-DTEND:20260611T093500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 92/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260611T095000
 DTEND:20260611T112500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 93/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 90/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T114000
 DTEND:20260611T131500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 94/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 91/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T133000
@@ -5790,21 +6063,28 @@ DTSTART:20260611T160000
 DTEND:20260611T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 95/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 92/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T175000
 DTEND:20260611T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 96/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 93/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260611T194000
 DTEND:20260611T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 97/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 94/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T095000
+DTEND:20260612T112500
+SUMMARY:DWiPD (ć)
+LOCATION:309 S
+DESCRIPTION:Działalność wychowawcza i profilaktyka dyscyplinarna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T080000
@@ -5819,6 +6099,13 @@ DTEND:20260615T112500
 SUMMARY:MeSK (w)
 LOCATION:314 S
 DESCRIPTION:Metody symulacji komputerowej\nRodzaj zajęć: Wykład\nNr zajęć: 8/5\nProwadzący: dr hab. inż. Andrzej Najgebauer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260615T114000
+DTEND:20260615T131500
+SUMMARY:Pwst (w)
+LOCATION:106 65
+DESCRIPTION:Projektowanie i wytwarzanie systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 12/12\nProwadzący: dr inż. Andrzej Stasiak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T133000
@@ -5842,13 +6129,6 @@ LOCATION:127 K 125 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 90/90\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260618T080000
-DTEND:20260618T093500
-SUMMARY:- (S.Sz.W.)
-LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 98/1\nProwadzący: -
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260618T095000
 DTEND:20260618T112500
 SUMMARY:SzS (ć)
@@ -5867,27 +6147,27 @@ DTSTART:20260618T133000
 DTEND:20260618T150500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 99/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 95/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T160000
 DTEND:20260618T173500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 100/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 96/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T175000
 DTEND:20260618T192500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 101/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 97/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260618T194000
 DTEND:20260618T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
-DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 102/1\nProwadzący: -
+DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 98/1\nProwadzący: -
 END:VEVENT
 END:VCALENDAR

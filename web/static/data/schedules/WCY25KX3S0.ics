@@ -2612,7 +2612,7 @@ DTSTART:20260309T133000
 DTEND:20260309T150500
 SUMMARY:Pwd (ć)
 LOCATION:313 S
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: -
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T160000
@@ -3336,6 +3336,13 @@ LOCATION:241 K 240 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 41/60\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260420T095000
+DTEND:20260420T112500
+SUMMARY:Pwd (ć)
+LOCATION:205 65
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260420T114000
 DTEND:20260420T131500
 SUMMARY:F1 (L)
@@ -3396,7 +3403,7 @@ DTSTART:20260422T114000
 DTEND:20260422T131500
 SUMMARY:Pwd (ć)
 LOCATION:313 S
-DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: -
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T133000
@@ -3964,6 +3971,13 @@ DTEND:20260522T192500
 SUMMARY:Ja (ć)
 LOCATION:-
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 52/60\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T095000
+DTEND:20260525T112500
+SUMMARY:Pwd (ć)
+LOCATION:309 S
+DESCRIPTION:Przywództwo w dowodzeniu - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260525T114000

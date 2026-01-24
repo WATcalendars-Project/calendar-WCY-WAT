@@ -4,11 +4,39 @@ PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY23IL1S0
 BEGIN:VEVENT
+DTSTART:20260302T114000
+DTEND:20260302T131500
+SUMMARY:Hd (w)
+LOCATION:307 S
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Stefan Rozmus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260302T133000
+DTEND:20260302T150500
+SUMMARY:SBD (w)
+LOCATION:308 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260302T160000
+DTEND:20260302T173500
+SUMMARY:SBD (w)
+LOCATION:308 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T080000
 DTEND:20260303T093500
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T095000
+DTEND:20260304T112500
+SUMMARY:Pjf (w)
+LOCATION:308 S
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T114000
@@ -74,6 +102,27 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260309T114000
+DTEND:20260309T131500
+SUMMARY:Hd (w)
+LOCATION:307 S
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Stefan Rozmus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260309T133000
+DTEND:20260309T150500
+SUMMARY:Tal (w)
+LOCATION:307 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260309T160000
+DTEND:20260309T173500
+SUMMARY:Tal (w)
+LOCATION:307 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260310T080000
 DTEND:20260310T093500
 SUMMARY:Ja (ć)
@@ -137,11 +186,39 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 7/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260316T114000
+DTEND:20260316T131500
+SUMMARY:Hd (w)
+LOCATION:307 S
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Stefan Rozmus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T160000
+DTEND:20260316T173500
+SUMMARY:SBD (w)
+LOCATION:308 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T175000
+DTEND:20260316T192500
+SUMMARY:SBD (w)
+LOCATION:308 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260317T080000
 DTEND:20260317T093500
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T095000
+DTEND:20260318T112500
+SUMMARY:Pjf (w)
+LOCATION:309 S
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T114000
@@ -212,6 +289,27 @@ DTEND:20260323T093500
 SUMMARY:OPBMR (ć)
 LOCATION:1 55A
 DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260323T114000
+DTEND:20260323T131500
+SUMMARY:Hd (w)
+LOCATION:307 S
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Stefan Rozmus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260323T133000
+DTEND:20260323T150500
+SUMMARY:Tal (w)
+LOCATION:307 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260323T160000
+DTEND:20260323T173500
+SUMMARY:Tal (w)
+LOCATION:307 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T080000
@@ -354,11 +452,39 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 13/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260330T114000
+DTEND:20260330T131500
+SUMMARY:Hd (w)
+LOCATION:307 S
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Stefan Rozmus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260330T133000
+DTEND:20260330T150500
+SUMMARY:Tal (w)
+LOCATION:307 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260330T160000
+DTEND:20260330T173500
+SUMMARY:Tal (w)
+LOCATION:307 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260331T080000
 DTEND:20260331T093500
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T095000
+DTEND:20260401T112500
+SUMMARY:Pjf (w)
+LOCATION:307 S
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T114000
@@ -380,6 +506,20 @@ DTEND:20260408T131500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T133000
+DTEND:20260408T150500
+SUMMARY:Pjf (w)
+LOCATION:307 S
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: prof. dr hab. inż. Andrzej Walczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T160000
+DTEND:20260408T173500
+SUMMARY:Pjf (w)
+LOCATION:307 S
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260409T080000
@@ -438,11 +578,46 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 17/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260413T080000
+DTEND:20260413T093500
+SUMMARY:Tal (w)
+LOCATION:309 S
+DESCRIPTION:Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Zbigniew Tarapata
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T114000
+DTEND:20260413T131500
+SUMMARY:Hd (w)
+LOCATION:307 S
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Stefan Rozmus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T133000
+DTEND:20260413T150500
+SUMMARY:SBD (w)
+LOCATION:308 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T160000
+DTEND:20260413T173500
+SUMMARY:SBD (w)
+LOCATION:308 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260414T080000
 DTEND:20260414T093500
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T095000
+DTEND:20260415T112500
+SUMMARY:Pjf (w)
+LOCATION:307 S
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T114000
@@ -501,6 +676,13 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 21/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260420T114000
+DTEND:20260420T131500
+SUMMARY:Hd (w)
+LOCATION:307 S
+DESCRIPTION:Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Stefan Rozmus
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260422T114000
 DTEND:20260422T131500
 SUMMARY:WF (ć)
@@ -508,11 +690,25 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/30\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260427T114000
+DTEND:20260427T131500
+SUMMARY:SBD (w)
+LOCATION:308 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260428T080000
 DTEND:20260428T093500
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T095000
+DTEND:20260429T112500
+SUMMARY:Pjf (w)
+LOCATION:307 S
+DESCRIPTION:Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: prof. dr hab. inż. Andrzej Walczak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T114000

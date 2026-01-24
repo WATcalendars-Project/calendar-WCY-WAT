@@ -4,6 +4,34 @@ PRODID:-//scheduleWCY//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WCY23IT1S0
 BEGIN:VEVENT
+DTSTART:20260302T080000
+DTEND:20260302T093500
+SUMMARY:SoU (w)
+LOCATION:309 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260302T095000
+DTEND:20260302T112500
+SUMMARY:SoU (w)
+LOCATION:309 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260302T133000
+DTEND:20260302T150500
+SUMMARY:SBD (w)
+LOCATION:308 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260302T160000
+DTEND:20260302T173500
+SUMMARY:SBD (w)
+LOCATION:308 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260303T080000
 DTEND:20260303T093500
 SUMMARY:Ja (ć)
@@ -16,6 +44,13 @@ DTEND:20260304T131500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T133000
+DTEND:20260304T150500
+SUMMARY:JEt (w)
+LOCATION:307 S
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260305T080000
@@ -72,6 +107,20 @@ DTEND:20260306T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260309T080000
+DTEND:20260309T093500
+SUMMARY:SoU (w)
+LOCATION:309 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260309T095000
+DTEND:20260309T112500
+SUMMARY:SoU (w)
+LOCATION:309 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260310T080000
@@ -137,11 +186,46 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 7/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260316T080000
+DTEND:20260316T093500
+SUMMARY:SoU (w)
+LOCATION:309 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T095000
+DTEND:20260316T112500
+SUMMARY:SoU (w)
+LOCATION:309 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T160000
+DTEND:20260316T173500
+SUMMARY:SBD (w)
+LOCATION:308 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T175000
+DTEND:20260316T192500
+SUMMARY:SBD (w)
+LOCATION:308 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260317T080000
 DTEND:20260317T093500
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260317T133000
+DTEND:20260317T150500
+SUMMARY:JEt (w)
+LOCATION:307 S
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T114000
@@ -212,6 +296,20 @@ DTEND:20260323T093500
 SUMMARY:OPBMR (ć)
 LOCATION:1 55A
 DESCRIPTION:Obrona przed bronią masowego rażenia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260323T095000
+DTEND:20260323T112500
+SUMMARY:SoU (w)
+LOCATION:309 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260323T114000
+DTEND:20260323T131500
+SUMMARY:SoU (w)
+LOCATION:309 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T080000
@@ -354,11 +452,32 @@ LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 13/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260330T095000
+DTEND:20260330T112500
+SUMMARY:SoU (w)
+LOCATION:309 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260330T114000
+DTEND:20260330T131500
+SUMMARY:SoU (w)
+LOCATION:309 S
+DESCRIPTION:Systemy operacyjne UNIX\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260331T080000
 DTEND:20260331T093500
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260331T133000
+DTEND:20260331T150500
+SUMMARY:JEt (w)
+LOCATION:307 S
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T114000
@@ -387,6 +506,13 @@ DTEND:20260409T093500
 SUMMARY:Ja (ć)
 LOCATION:232 K 234 K
 DESCRIPTION:Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T133000
+DTEND:20260409T150500
+SUMMARY:JEt (w)
+LOCATION:307 S
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Piotr Cybulski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260410T080000
@@ -436,6 +562,20 @@ DTEND:20260410T211500
 SUMMARY:- (S.Sz.W.)
 LOCATION:-
 DESCRIPTION:-\nRodzaj zajęć:  - \nNr zajęć: 17/1\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T133000
+DTEND:20260413T150500
+SUMMARY:SBD (w)
+LOCATION:308 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Bolesław Szafrański
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T160000
+DTEND:20260413T173500
+SUMMARY:SBD (w)
+LOCATION:308 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260414T080000
@@ -506,6 +646,20 @@ DTEND:20260422T131500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/30\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T133000
+DTEND:20260423T150500
+SUMMARY:JEt (w)
+LOCATION:307 S
+DESCRIPTION:JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Piotr Cybulski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T114000
+DTEND:20260427T131500
+SUMMARY:SBD (w)
+LOCATION:308 S
+DESCRIPTION:Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Bolesław Szafrański
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260428T080000

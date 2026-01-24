@@ -4470,11 +4470,32 @@ LOCATION:317 S
 DESCRIPTION:Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Tomasz Pałys
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260302T114000
+DTEND:20260302T131500
+SUMMARY:v6 (w)
+LOCATION:309 S
+DESCRIPTION:Sieci IPv6\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260302T133000
 DTEND:20260302T150500
 SUMMARY:Pr.A (w)
 LOCATION:313 S
 DESCRIPTION:Profilaktyka antykorupcyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260305T114000
+DTEND:20260305T131500
+SUMMARY:WIT (w)
+LOCATION:316 S
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260305T133000
+DTEND:20260305T150500
+SUMMARY:WIT (w)
+LOCATION:316 S
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T080000
@@ -4484,6 +4505,20 @@ LOCATION:313 S
 DESCRIPTION:Profilaktyka antykorupcyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260309T114000
+DTEND:20260309T131500
+SUMMARY:v6 (w)
+LOCATION:309 S
+DESCRIPTION:Sieci IPv6\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260310T080000
+DTEND:20260310T093500
+SUMMARY:WIT (w)
+LOCATION:317 S
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260316T080000
 DTEND:20260316T093500
 SUMMARY:WF (ć)
@@ -4491,11 +4526,25 @@ LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 71/75\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260316T114000
+DTEND:20260316T131500
+SUMMARY:v6 (w)
+LOCATION:309 S
+DESCRIPTION:Sieci IPv6\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260323T080000
 DTEND:20260323T093500
 SUMMARY:Pr.A (w)
 LOCATION:313 S
 DESCRIPTION:Profilaktyka antykorupcyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260323T133000
+DTEND:20260323T150500
+SUMMARY:v6 (w)
+LOCATION:309 S
+DESCRIPTION:Sieci IPv6\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Janusz Furtak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260324T080000
@@ -4526,11 +4575,32 @@ LOCATION:201 65
 DESCRIPTION:Profilaktyka antykorupcyjna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260325T080000
+DTEND:20260325T093500
+SUMMARY:WIT (w)
+LOCATION:313 S
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Witold Żorski
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260330T080000
 DTEND:20260330T093500
 SUMMARY:WF (ć)
 LOCATION:-
 DESCRIPTION:Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 75/75\nProwadzący: -
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260330T133000
+DTEND:20260330T150500
+SUMMARY:v6 (w)
+LOCATION:309 S
+DESCRIPTION:Sieci IPv6\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Janusz Furtak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T080000
+DTEND:20260401T093500
+SUMMARY:WIT (w)
+LOCATION:313 S
+DESCRIPTION:Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Witold Żorski
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260413T080000

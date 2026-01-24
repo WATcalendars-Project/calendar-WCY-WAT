@@ -1228,4 +1228,53 @@ SUMMARY:Gk (Inne)
 LOCATION:307 S
 DESCRIPTION:Grafika komputerowa\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Marek Salamon
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T133000
+DTEND:20260318T150500
+SUMMARY:Awd (w)
+LOCATION:307 S
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260325T133000
+DTEND:20260325T150500
+SUMMARY:Awd (w)
+LOCATION:307 S
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260401T133000
+DTEND:20260401T150500
+SUMMARY:Awd (w)
+LOCATION:307 S
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T133000
+DTEND:20260527T150500
+SUMMARY:Awd (w)
+LOCATION:307 S
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T133000
+DTEND:20260610T150500
+SUMMARY:Awd (w)
+LOCATION:307 S
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T114000
+DTEND:20260618T131500
+SUMMARY:Awd (w)
+LOCATION:313 S
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260618T133000
+DTEND:20260618T150500
+SUMMARY:Awd (w)
+LOCATION:313 S
+DESCRIPTION:Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr Jarosław Olejniczak
+END:VEVENT
 END:VCALENDAR
